@@ -1,0 +1,25 @@
+# Pesos de modelos (versionados no Hugging Face Hub, não no GitHub)
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+models/
+outputs/
+checkpoints/
+lora_adapters/
+
+# Dados grandes / brutos (armazenados no S3)
+data/raw/
+data/interim/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Segredos
+.env
+*.key
