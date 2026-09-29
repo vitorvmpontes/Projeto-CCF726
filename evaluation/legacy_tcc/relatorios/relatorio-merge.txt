@@ -1,0 +1,15 @@
+--- Desempenho na Detecção de Atividades ---
+Total de Verdadeiros Positivos (TP): 243
+Total de Falsos Positivos (FP): 1
+Total de Falsos Negativos (FN): 1
+
+Precisão: 99.59%
+Recall: 99.59%
+F1-Score: 0.9959
+
+---  Acurácia por Campo ---
+Acurácia do campo 'nome': 100.00% (243/243 corretos)
+Acurácia do campo 'lugar': 100.00% (243/243 corretos)
+Acurácia do campo 'dataInicio': 90.95% (221/243 corretos)
+Acurácia do campo 'dataFim': 90.12% (219/243 corretos)
+Acurácia do campo 'descricao': 100.00% (243/243 corretos)

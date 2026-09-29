@@ -1,0 +1,631 @@
+[
+  {
+    "arquivo": ".\\Bioeconomia-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 17,
+        "fp": 9,
+        "fn": 8
+      },
+      "nome": {
+        "tp": 17,
+        "fp": 9,
+        "fn": 8
+      },
+      "lugar": {
+        "tp": 3,
+        "fp": 23,
+        "fn": 22
+      },
+      "dataInicio": {
+        "tp": 12,
+        "fp": 14,
+        "fn": 13
+      },
+      "dataFim": {
+        "tp": 13,
+        "fp": 13,
+        "fn": 12
+      },
+      "descricao": {
+        "tp": 16,
+        "fp": 10,
+        "fn": 9
+      }
+    }
+  },
+  {
+    "arquivo": ".\\ForumCPA-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 17,
+        "fp": 2,
+        "fn": 2
+      },
+      "nome": {
+        "tp": 17,
+        "fp": 2,
+        "fn": 2
+      },
+      "lugar": {
+        "tp": 13,
+        "fp": 6,
+        "fn": 6
+      },
+      "dataInicio": {
+        "tp": 17,
+        "fp": 2,
+        "fn": 2
+      },
+      "dataFim": {
+        "tp": 16,
+        "fp": 3,
+        "fn": 3
+      },
+      "descricao": {
+        "tp": 9,
+        "fp": 10,
+        "fn": 10
+      }
+    }
+  },
+  {
+    "arquivo": ".\\MannaMuseu-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 39,
+        "fp": 0,
+        "fn": 1
+      },
+      "nome": {
+        "tp": 39,
+        "fp": 0,
+        "fn": 1
+      },
+      "lugar": {
+        "tp": 13,
+        "fp": 26,
+        "fn": 27
+      },
+      "dataInicio": {
+        "tp": 37,
+        "fp": 2,
+        "fn": 3
+      },
+      "dataFim": {
+        "tp": 31,
+        "fp": 8,
+        "fn": 9
+      },
+      "descricao": {
+        "tp": 19,
+        "fp": 20,
+        "fn": 21
+      }
+    }
+  },
+  {
+    "arquivo": ".\\OPMED-html.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0
+      },
+      "nome": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0
+      },
+      "lugar": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataInicio": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataFim": {
+        "tp": 35,
+        "fp": 1,
+        "fn": 1
+      },
+      "descricao": {
+        "tp": 36,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "arquivo": ".\\SEBRAE-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 1
+      },
+      "nome": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 1
+      },
+      "lugar": {
+        "tp": 19,
+        "fp": 14,
+        "fn": 15
+      },
+      "dataInicio": {
+        "tp": 0,
+        "fp": 33,
+        "fn": 34
+      },
+      "dataFim": {
+        "tp": 0,
+        "fp": 33,
+        "fn": 34
+      },
+      "descricao": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "arquivo": ".\\SemanaAcademicaUSP-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 24,
+        "fp": 1,
+        "fn": 1
+      },
+      "nome": {
+        "tp": 24,
+        "fp": 1,
+        "fn": 1
+      },
+      "lugar": {
+        "tp": 22,
+        "fp": 3,
+        "fn": 3
+      },
+      "dataInicio": {
+        "tp": 24,
+        "fp": 1,
+        "fn": 1
+      },
+      "dataFim": {
+        "tp": 24,
+        "fp": 1,
+        "fn": 1
+      },
+      "descricao": {
+        "tp": 14,
+        "fp": 11,
+        "fn": 11
+      }
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia1-1-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "nome": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "lugar": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataInicio": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataFim": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "descricao": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia1-2-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "nome": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "lugar": {
+        "tp": 0,
+        "fp": 5,
+        "fn": 5
+      },
+      "dataInicio": {
+        "tp": 4,
+        "fp": 1,
+        "fn": 1
+      },
+      "dataFim": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      },
+      "descricao": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia2-1-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "nome": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "lugar": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataInicio": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataFim": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      },
+      "descricao": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0
+      }
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia2-2-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      "nome": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      "lugar": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataInicio": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataFim": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0
+      },
+      "descricao": {
+        "tp": 1,
+        "fp": 1,
+        "fn": 1
+      }
+    }
+  },
+  {
+    "arquivo": "SECOM2023\\Secom2023-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 10,
+        "fp": 6,
+        "fn": 4
+      },
+      "nome": {
+        "tp": 10,
+        "fp": 6,
+        "fn": 4
+      },
+      "lugar": {
+        "tp": 10,
+        "fp": 6,
+        "fn": 4
+      },
+      "dataInicio": {
+        "tp": 10,
+        "fp": 6,
+        "fn": 4
+      },
+      "dataFim": {
+        "tp": 6,
+        "fp": 10,
+        "fn": 8
+      },
+      "descricao": {
+        "tp": 6,
+        "fp": 10,
+        "fn": 8
+      }
+    }
+  },
+  {
+    "arquivo": "SECOM2024\\Secom2024-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 9,
+        "fp": 18,
+        "fn": 19
+      },
+      "nome": {
+        "tp": 9,
+        "fp": 18,
+        "fn": 19
+      },
+      "lugar": {
+        "tp": 6,
+        "fp": 21,
+        "fn": 22
+      },
+      "dataInicio": {
+        "tp": 2,
+        "fp": 25,
+        "fn": 26
+      },
+      "dataFim": {
+        "tp": 0,
+        "fp": 27,
+        "fn": 28
+      },
+      "descricao": {
+        "tp": 8,
+        "fp": 19,
+        "fn": 20
+      }
+    }
+  },
+  {
+    "arquivo": "SECOM2024\\Secom2024-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 25,
+        "fp": 6,
+        "fn": 3
+      },
+      "nome": {
+        "tp": 25,
+        "fp": 6,
+        "fn": 3
+      },
+      "lugar": {
+        "tp": 25,
+        "fp": 6,
+        "fn": 3
+      },
+      "dataInicio": {
+        "tp": 2,
+        "fp": 29,
+        "fn": 26
+      },
+      "dataFim": {
+        "tp": 2,
+        "fp": 29,
+        "fn": 26
+      },
+      "descricao": {
+        "tp": 25,
+        "fp": 6,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "arquivo": "SECOM2024\\Secom2024-planilha.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 25,
+        "fp": 5,
+        "fn": 3
+      },
+      "nome": {
+        "tp": 25,
+        "fp": 5,
+        "fn": 3
+      },
+      "lugar": {
+        "tp": 25,
+        "fp": 5,
+        "fn": 3
+      },
+      "dataInicio": {
+        "tp": 0,
+        "fp": 30,
+        "fn": 28
+      },
+      "dataFim": {
+        "tp": 0,
+        "fp": 30,
+        "fn": 28
+      },
+      "descricao": {
+        "tp": 25,
+        "fp": 5,
+        "fn": 3
+      }
+    }
+  },
+  {
+    "arquivo": "WIT2025\\Dia1-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 8,
+        "fp": 1,
+        "fn": 1
+      },
+      "nome": {
+        "tp": 8,
+        "fp": 1,
+        "fn": 1
+      },
+      "lugar": {
+        "tp": 6,
+        "fp": 3,
+        "fn": 3
+      },
+      "dataInicio": {
+        "tp": 8,
+        "fp": 1,
+        "fn": 1
+      },
+      "dataFim": {
+        "tp": 8,
+        "fp": 1,
+        "fn": 1
+      },
+      "descricao": {
+        "tp": 5,
+        "fp": 4,
+        "fn": 4
+      }
+    }
+  },
+  {
+    "arquivo": "WIT2025\\Dia2-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 7,
+        "fp": 3,
+        "fn": 3
+      },
+      "nome": {
+        "tp": 7,
+        "fp": 3,
+        "fn": 3
+      },
+      "lugar": {
+        "tp": 2,
+        "fp": 8,
+        "fn": 8
+      },
+      "dataInicio": {
+        "tp": 7,
+        "fp": 3,
+        "fn": 3
+      },
+      "dataFim": {
+        "tp": 7,
+        "fp": 3,
+        "fn": 3
+      },
+      "descricao": {
+        "tp": 6,
+        "fp": 4,
+        "fn": 4
+      }
+    }
+  },
+  {
+    "arquivo": "WIT2025\\Dia3-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "metrics": {
+      "atividade": {
+        "tp": 12,
+        "fp": 0,
+        "fn": 0
+      },
+      "nome": {
+        "tp": 12,
+        "fp": 0,
+        "fn": 0
+      },
+      "lugar": {
+        "tp": 3,
+        "fp": 9,
+        "fn": 9
+      },
+      "dataInicio": {
+        "tp": 12,
+        "fp": 0,
+        "fn": 0
+      },
+      "dataFim": {
+        "tp": 12,
+        "fp": 0,
+        "fn": 0
+      },
+      "descricao": {
+        "tp": 4,
+        "fp": 8,
+        "fn": 8
+      }
+    }
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "nome": "Despertar",
+    "descricao": "<p>Bom dia! O sol raiou e nós também, comece a se preparar.</p><p>Saco vazio não para em pé! 🍽️</p><p>☕ Tome um bom café da manhã no seu hotel e comece o dia com energia! 💪✨</p><p>Hora de ir para o Museu Oscar Niemeyer na rua Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230</p>",
+    "dataInicio": "2025-03-14T06:00:00-03:00",
+    "dataFim": "2025-03-14T07:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Café da Manhã",
+    "descricao": "",
+    "dataInicio": "2025-03-14T07:00:00-03:00",
+    "dataFim": "2025-03-14T07:30:00-03:00",
+    "lugar": "seu hotel"
+  },
+  {
+    "nome": "Deslocamento",
+    "descricao": "",
+    "dataInicio": "2025-03-14T07:30:00-03:00",
+    "dataFim": "2025-03-14T08:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Credenciamento",
+    "descricao": "<p>Hora do check-in no evento! ✅</p><p>A equipe está esperando por você no Auditório Poty Lazzarotto para a retirada dos materiais.</p><p>Seja bem-vindo! 🎉</p>",
+    "dataInicio": "2025-03-14T08:00:00-03:00",
+    "dataFim": "2025-03-14T08:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Boas-vindas",
+    "descricao": "<p>No Auditório Poty Lazzarotto, vocês serão recebidos por <b>Cláudio Aparecido de Oliveira</b> para as boas-vindas. 🎤✨</p>",
+    "dataInicio": "2025-03-14T09:15:00-03:00",
+    "dataFim": "2025-03-14T09:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "O Manna_Team",
+    "descricao": "<p>A <b>Profa. Dra. Linnyer Beatrys Ruiz</b> irá apresentar o Manna_Team.</p>",
+    "dataInicio": "2025-03-14T08:30:00-03:00",
+    "dataFim": "2025-03-14T09:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "A Ciência Invisível que Fazemos",
+    "descricao": "<p>A <b>Profa. Dra. Linnyer Beatrys Ruiz</b> retorna para explicar o Jeito Manna de Ser Feliz. 😊✨</p>",
+    "dataInicio": "2025-03-14T09:30:00-03:00",
+    "dataFim": "2025-03-14T10:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Coffee Break",
+    "descricao": "<p>Todo mundo merece um descanso. Aproveite para recarregar as energias! 😊✨</p>",
+    "dataInicio": "2025-03-14T10:30:00-03:00",
+    "dataFim": "2025-03-14T11:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Manna KDTS",
+    "descricao": "<p>Retornando ao Auditório Poty Lazzarotto, o coordenador <b>Tiago Madrigar</b> apresentará os Kits Delivery de Tecnologia do Manna. 🚀✨</p>",
+    "dataInicio": "2025-03-14T11:00:00-03:00",
+    "dataFim": "2025-03-14T12:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Intervalo",
+    "descricao": "<p>Hora do almoço! 🍽️ Aproveite a refeição e recarregue as energias! 😋✨</p>",
+    "dataInicio": "2025-03-14T12:30:00-03:00",
+    "dataFim": "2025-03-14T14:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Oficina de Sonhos",
+    "descricao": "<p>Retornando ao Auditório Poty Lazzarotto, vamos Sonhar para Ensinar com o <b>Prof. Dr. Elyson Carvalho</b> e a mestranda <b>Thauanne Valença</b>.</p>",
+    "dataInicio": "2025-03-14T14:00:00-03:00",
+    "dataFim": "2025-03-14T15:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Abertura Oficial",
+    "descricao": "<p>Abertura do Manna Quantum Festival 🎉✨ Uma celebração especial em comemoração aos 25 anos do Manna_Team! 🚀</p>",
+    "dataInicio": "2025-03-14T15:00:00-03:00",
+    "dataFim": "2025-03-14T16:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Coffee Break",
+    "descricao": "<p>Todo mundo merece um momento de descanso. Aproveite para relaxar e recarregar as energias! 😊✨</p>",
+    "dataInicio": "2025-03-14T16:00:00-03:00",
+    "dataFim": "2025-03-14T16:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "O Poder da Quântica: do Invisível ao Impossível",
+    "descricao": "<p>No Auditório Poty Lazzarotto, os Manna Heroes <b>Stéphane Santos Carvalho</b>, <b>Paulo Gabriel Barreto Nogueira</b> e <b>Nilson Rodrigues Santos Júnior</b> explicarão o impossível.</p>",
+    "dataInicio": "2025-03-14T16:30:00-03:00",
+    "dataFim": "2025-03-14T17:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Manna Experience",
+    "descricao": "<p>Agora, seguindo para o Salão de Vidros, todos poderão desfrutar do Manna Experience. 🚀✨</p>",
+    "dataInicio": "2025-03-14T17:30:00-03:00",
+    "dataFim": "2025-03-14T18:30:00-03:00",
+    "lugar": "Salão de Vidros"
+  },
+  {
+    "nome": "Foto Oficial",
+    "descricao": "<p>Vamos todos nos reunir no Salão de Vidros para registrar uma bela foto! 📸✨</p>",
+    "dataInicio": "2025-03-14T18:30:00-03:00",
+    "dataFim": "2025-03-14T19:00:00-03:00",
+    "lugar": "Salão de Vidros"
+  },
+  {
+    "nome": "Uma Noite no Museu",
+    "descricao": "<p>Ainda no Salão de Vidros, iremos nos reunir para o encerramento do primeiro dia.</p><p>E tem surpresa chegando! 🎉✨</p><p>Todo mundo merece um momento de descanso. Aproveite para relaxar e recarregar as energias! 😊✨</p>",
+    "dataInicio": "2025-03-14T19:00:00-03:00",
+    "dataFim": "2025-03-14T20:00:00-03:00",
+    "lugar": "Salão de Vidros"
+  },
+  {
+    "nome": "Despertar",
+    "descricao": "<p>Bom dia! O sol raiou e nós também, comece a se preparar.</p><p>Saco vazio não para em pé, tome um bom café da manhã no seu hotel.</p><p>Hora de ir para o Museu Oscar Niemeyer na rua Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230</p>",
+    "dataInicio": "2025-03-15T06:00:00-03:00",
+    "dataFim": "2025-03-15T07:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Café da Manhã",
+    "descricao": "",
+    "dataInicio": "2025-03-15T07:00:00-03:00",
+    "dataFim": "2025-03-15T07:30:00-03:00",
+    "lugar": "seu hotel"
+  },
+  {
+    "nome": "Deslocamento",
+    "descricao": "",
+    "dataInicio": "2025-03-15T07:30:00-03:00",
+    "dataFim": "2025-03-15T08:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Aniversário",
+    "descricao": "<p>O Manna está completando 25 anos! Vamos comemorar juntos esse marco especial. Venha com um grande sorriso no rosto! 🎉😊</p><p>Que tal uma foto com a camiseta branca oficial do Manna? 📸 Vamos nos reunir no Auditório Poty Lazzarotto para registrar esse momento histórico juntos!</p>",
+    "dataInicio": "2025-03-15T08:00:00-03:00",
+    "dataFim": "2025-03-15T08:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Exponenciais",
+    "descricao": "<p>Revolução? É isso mesmo? Aqui vamos nós no Auditório Poty Lazzarotto.</p>",
+    "dataInicio": "2025-03-15T08:30:00-03:00",
+    "dataFim": "2025-03-15T09:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Educação 5.0",
+    "descricao": "<p>E você? Já sabe o que é Educação 5.0?</p>",
+    "dataInicio": "2025-03-15T09:00:00-03:00",
+    "dataFim": "2025-03-15T09:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Computação Quântica: que História é Essa de Gato?",
+    "descricao": "<p>Um gato e um sonho! Essa é a maneira perfeita de conhecer e apresentar a Quântica para crianças, jovens e adultos. ✨🐱</p>",
+    "dataInicio": "2025-03-15T09:30:00-03:00",
+    "dataFim": "2025-03-15T11:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Quantum Computing: The Next Revolution",
+    "descricao": "",
+    "dataInicio": "2025-03-15T11:00:00-03:00",
+    "dataFim": "2025-03-15T12:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Intervalo",
+    "descricao": "<p>Hora do almoço! 🍽️ Aproveite a refeição e recarregue as energias! 😋✨</p><p>Todo mundo merece um momento de descanso. Aproveite! 😊✨</p>",
+    "dataInicio": "2025-03-15T12:30:00-03:00",
+    "dataFim": "2025-03-15T14:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Manna Vai",
+    "descricao": "<p>Vamos aprender sobre inovação? 🚀 <b>Bianca</b> e <b>Wuigor</b>, coordenadores do Manna, estarão à frente dessa parte surpreendente do evento.</p>",
+    "dataInicio": "2025-03-15T14:00:00-03:00",
+    "dataFim": "2025-03-15T16:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Coffee Break",
+    "descricao": "<p>Todo mundo merece um descanso. Aproveite para recarregar as energias! 😊✨</p><p>Ainda é sábado, afinal! Aproveite cada momento! 🎉✨</p>",
+    "dataInicio": "2025-03-15T16:00:00-03:00",
+    "dataFim": "2025-03-15T16:30:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Manna Show",
+    "descricao": "<p>Hora de apresentar os Pitchs! 🎤✨ <b>Bianca</b> e <b>Wuigor</b> estão de volta para guiar essa atividade.</p>",
+    "dataInicio": "2025-03-15T16:30:00-03:00",
+    "dataFim": "2025-03-15T18:00:00-03:00",
+    "lugar": "Auditório Poty Lazzarotto"
+  },
+  {
+    "nome": "Noite Livre",
+    "descricao": "",
+    "dataInicio": "2025-03-15T18:00:00-03:00",
+    "dataFim": "2025-03-16T06:00:00-03:00",
+    "lugar": "Curitiba"
+  },
+  {
+    "nome": "Despertar",
+    "descricao": "<p>Bom dia! ☀️✨ O sol raiou, e nós também! Comece a se preparar!</p><p>E a boa notícia? Você ganhou uma hora a mais para se recuperar do sábado! ⏳😄</p><p>Saco vazio não para em pé! 🍽️☕ Tome um bom café da manhã no seu hotel e comece o dia com energia! 💪✨</p><p>Hora de ir para o Museu Oscar Niemeyer na rua Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230</p>",
+    "dataInicio": "2025-03-16T07:00:00-03:00",
+    "dataFim": "2025-03-16T08:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Café da Manhã",
+    "descricao": "",
+    "dataInicio": "2025-03-16T08:00:00-03:00",
+    "dataFim": "2025-03-16T08:30:00-03:00",
+    "lugar": "seu hotel"
+  },
+  {
+    "nome": "Deslocamento",
+    "descricao": "",
+    "dataInicio": "2025-03-16T08:30:00-03:00",
+    "dataFim": "2025-03-16T09:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Manna Spaces",
+    "descricao": "<p>Como ter o Manna na minha escola? Na minha vida? Na história dos meus alunos? 🤔✨ Descubra como fazer parte dessa jornada transformadora</p>",
+    "dataInicio": "2025-03-16T09:00:00-03:00",
+    "dataFim": "2025-03-16T09:30:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Planejando o Futuro",
+    "descricao": "<p>É agora! 🚀 Vamos planejar e definir os próximos passos juntos! ✨📌</p>",
+    "dataInicio": "2025-03-16T09:30:00-03:00",
+    "dataFim": "2025-03-16T11:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Manna Experience",
+    "descricao": "<p>As experiências mais fantásticas com tecnologias estão aqui! 🚀✨</p>",
+    "dataInicio": "2025-03-16T11:00:00-03:00",
+    "dataFim": "2025-03-16T13:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Encerramento",
+    "descricao": "<p>Encerramento! 🎉✨</p><p>Hora de celebrar tudo o que vivemos e aprendemos. Até a próxima! 🚀😊</p>",
+    "dataInicio": "2025-03-16T13:00:00-03:00",
+    "dataFim": "2025-03-16T14:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Reuniões",
+    "descricao": "<p>Quem quiser uma conversa mais direta, pode agendar.</p>",
+    "dataInicio": "2025-03-16T14:00:00-03:00",
+    "dataFim": "2025-03-16T15:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  },
+  {
+    "nome": "Coffee Break",
+    "descricao": "<p>Todo mundo merece um descanso. Aproveite para recarregar as energias! 😊✨</p>",
+    "dataInicio": "2025-03-16T10:30:00-03:00",
+    "dataFim": "2025-03-16T11:00:00-03:00",
+    "lugar": "Museu Oscar Niemeyer"
+  }
+]

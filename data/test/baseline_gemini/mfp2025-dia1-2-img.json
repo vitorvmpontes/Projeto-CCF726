@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "Palestra da RocketSeat",
+    "descricao": "",
+    "dataInicio": "2024-06-14T17:00:00-03:00",
+    "dataFim": "2024-06-14T17:30:00-03:00",
+    "lugar": "POP"
+  },
+  {
+    "nome": "Treinamento de Soft Skills",
+    "descricao": "",
+    "dataInicio": "2024-06-14T17:30:00-03:00",
+    "dataFim": "2024-06-14T18:15:00-03:00",
+    "lugar": "POP"
+  },
+  {
+    "nome": "Jantar",
+    "descricao": "",
+    "dataInicio": "2024-06-14T18:15:00-03:00",
+    "dataFim": "2024-06-14T19:45:00-03:00",
+    "lugar": "POP"
+  },
+  {
+    "nome": "CineMFP",
+    "descricao": "",
+    "dataInicio": "2S024-06-14T20:10:00-03:00",
+    "dataFim": "2024-06-14T22:00:00-03:00",
+    "lugar": "POP"
+  },
+  {
+    "nome": "Retorno ao Hotel CPV",
+    "descricao": "",
+    "dataInicio": "2024-06-14T22:00:00-03:00",
+    "dataFim": null,
+    "lugar": "POP"
+  }
+]

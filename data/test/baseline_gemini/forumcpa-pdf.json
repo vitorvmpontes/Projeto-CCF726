@@ -1,0 +1,135 @@
+[
+  {
+    "nome": "Credenciamento",
+    "descricao": "",
+    "dataInicio": "2018-08-13T08:00:00-03:00",
+    "dataFim": "2018-08-13T08:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Atração Cultural",
+    "descricao": "",
+    "dataInicio": "2018-08-13T08:15:00-03:00",
+    "dataFim": "2018-08-13T08:40:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Mesa de Abertura - Mesa das Autoridades",
+    "descricao": "<p><b>Margareth de Fátima Formiga Melo Diniz</b> (Reitora da UFPB);</p><p><b>Mônica Dias Palitot</b> (Presidente da CPA/UFPB);</p><p><b>Ariane Menezes</b> (PRG-UFPB);</p><p><b>Assis Leão</b> (IFPE)</p><p><b>Elizete Ventura</b> (Pró-Reitora-PROPLAN /UFPB)</p>",
+    "dataInicio": "2018-08-13T08:40:00-03:00",
+    "dataFim": "2018-08-13T09:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "1º Mesa - Relação Gestão e avaliação institucional: reflexões para qualidade da educação",
+    "descricao": "<p><b>Assis Leão</b> (IFPE)</p><p><b>Ariane Meneses</b> (PRG-UFPB);</p><p><b>Socorro Maria Ventura P. Oliveira</b> (FASER)</p><p><b>Francivaldo dos Santos</b> (UFPB) - Mediador</p>",
+    "dataInicio": "2018-08-13T09:00:00-03:00",
+    "dataFim": "2018-08-13T10:15:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "2º Mesa - Avaliação e Responsabilidade Social",
+    "descricao": "<p><b>José Mancinelli Lêdo do Nascimento</b> (UFPB)</p><p><b>Maria da Conceição</b> (UNICAP)</p><p><b>Cristiano Dornelas</b> (FACOL) - Mediador</p>",
+    "dataInicio": "2018-08-13T10:15:00-03:00",
+    "dataFim": "2018-08-13T11:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Coffee Break",
+    "descricao": "",
+    "dataInicio": "2018-08-13T11:00:00-03:00",
+    "dataFim": "2018-08-13T12:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Intervalo para almoço",
+    "descricao": "",
+    "dataInicio": "2018-08-13T12:00:00-03:00",
+    "dataFim": "2018-08-13T13:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "3º Mesa - Instrumentos de Avaliação do MEC (novos e antigos)",
+    "descricao": "<p><b>Mariana Donato</b> (FACIPE)</p><p><b>Fernanda Alencar</b> (UFPE)</p><p><b>Emiliano Rostan</b> (UFPB) - Mediador</p>",
+    "dataInicio": "2018-08-13T13:45:00-03:00",
+    "dataFim": "2018-08-13T15:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "4º Mesa - Avaliação Institucional nas Instituições de Ensino Superior (IES) do Nordeste",
+    "descricao": "<p><b>Alexsandro Fernandes Marinho</b> (FASER)</p><p><b>Raquel Azevedo</b> (ASPER)</p><p><b>Michelle Pinheiro</b> ( FAC SENAC PE)</p><p><b>Cleber Brito de Souza</b> (UFPB) - Mediador</p>",
+    "dataInicio": "2018-08-13T15:00:00-03:00",
+    "dataFim": "2018-08-13T16:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Palestra CPME - “Reflexões sobre o ENADE e a importância para a avaliação institucional”",
+    "descricao": "<p><b>Fábio do Nascimento Fonseca</b> - UFPB</p>",
+    "dataInicio": "2018-08-13T16:00:00-03:00",
+    "dataFim": "2018-08-13T17:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Encerramento",
+    "descricao": "",
+    "dataInicio": "2018-08-13T17:00:00-03:00",
+    "dataFim": "2018-08-13T17:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Credenciamento",
+    "descricao": "",
+    "dataInicio": "2018-08-14T08:00:00-03:00",
+    "dataFim": "2018-08-14T08:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "1ª Mesa - Avaliação Institucional nas Instituições de Ensino Superior (IES) do Nordeste 2",
+    "descricao": "<p><b>Mônica Dias Palitot</b> (UFPB)</p><p><b>Francisco Fernandes</b> (IFPB)</p><p><b>Pablo Rodrigo Fica Piras</b> (UEFS)</p><p><b>Ivaldo Menezes</b> (FCM) - Mediador</p>",
+    "dataInicio": "2018-08-14T08:30:00-03:00",
+    "dataFim": "2018-08-14T09:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "2ª Mesa - Avaliação institucional e a execução do plano de desenvolvimento institucional",
+    "descricao": "<p><b>Gustavo Tavares</b> (PROPLAN)</p><p><b>Assis Leão</b> (IFPE)</p><p><b>Sérgio Ricardo Bezerra dos Santos</b> (FCM)</p><p><b>Caroline Burity</b> (UFPB) - Mediador</p>",
+    "dataInicio": "2018-08-14T09:30:00-03:00",
+    "dataFim": "2018-08-14T10:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Apresentação dos Trabalhos",
+    "descricao": "",
+    "dataInicio": "2018-08-14T10:30:00-03:00",
+    "dataFim": "2018-08-14T11:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Intervalo para almoço",
+    "descricao": "",
+    "dataInicio": "2018-08-14T11:30:00-03:00",
+    "dataFim": "2018-08-14T13:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Apresentação dos Trabalhos",
+    "descricao": "",
+    "dataInicio": "2018-08-14T13:30:00-03:00",
+    "dataFim": "2018-08-14T15:30:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Oficina “Construção de uma proposta de Avaliação única padronizada para o Nordeste”",
+    "descricao": "<p><b>Assis Leão</b> (UFPB)</p><p><b>Conceição</b></p><p><b>José Mancinelli</b> - UFPB</p>",
+    "dataInicio": "2018-08-14T15:30:00-03:00",
+    "dataFim": "2018-08-14T17:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  },
+  {
+    "nome": "Coquetel de encerramento",
+    "descricao": "",
+    "dataInicio": "2018-08-14T17:00:00-03:00",
+    "dataFim": "2018-08-14T17:00:00-03:00",
+    "lugar": "Auditório da Reitoria - Campus I da UFPB"
+  }
+]

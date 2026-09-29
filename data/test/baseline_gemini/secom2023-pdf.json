@@ -1,0 +1,114 @@
+[
+  {
+    "nome": "Maratona de Programação",
+    "descricao": "",
+    "dataInicio": "2023-09-22T13:00:00-03:00",
+    "dataFim": "2023-09-22T17:30:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Credenciamento",
+    "descricao": "",
+    "dataInicio": "2023-09-28T08:00:00-03:00",
+    "dataFim": "2023-09-28T09:30:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Cerimônia de Abertura",
+    "descricao": "",
+    "dataInicio": "2023-09-28T09:30:00-03:00",
+    "dataFim": "2023-09-28T10:00:00-03:00",
+    "lugar": "Auditório LEN"
+  },
+  {
+    "nome": "Palestra de Abertura",
+    "descricao": "<p><i>Campanhas de Desinformação no Brasil: Lições Aprendidas e Desafios Futuros</i></p><p><b>Prof. Fabrício Benevenuto de Souza – DCC/UFMG</b></p>",
+    "dataInicio": "2023-09-28T10:00:00-03:00",
+    "dataFim": "2023-09-28T11:30:00-03:00",
+    "lugar": "Auditório do LEN"
+  },
+  {
+    "nome": "Palestra",
+    "descricao": "<p><i>Desbravando a Era Digital: Oportunidades, Caminhos e Empreendedorismo na Área de Tecnologia</i></p><p><b>Vinícius Lucas – CI&T</b></p>",
+    "dataInicio": "2023-09-28T13:00:00-03:00",
+    "dataFim": "2023-09-28T14:30:00-03:00",
+    "lugar": "Auditório do LEN"
+  },
+  {
+    "nome": "Coffee Break",
+    "descricao": "",
+    "dataInicio": "2023-09-28T14:30:00-03:00",
+    "dataFim": "2023-09-28T15:00:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "III Seminário Integrado de Pesquisa, Extensão e Empreendedorismo em Computação (SIPEEC)",
+    "descricao": "",
+    "dataInicio": "2023-09-28T15:00:00-03:00",
+    "dataFim": "2023-09-28T17:00:00-03:00",
+    "lugar": "Auditório do LEN"
+  },
+  {
+    "nome": "Minicursos",
+    "descricao": "",
+    "dataInicio": "2023-09-29T07:30:00-03:00",
+    "dataFim": "2023-09-29T11:30:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Minicursos",
+    "descricao": "",
+    "dataInicio": "2023-09-29T12:30:00-03:00",
+    "dataFim": "2023-09-29T16:00:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Coffee Breaks",
+    "descricao": "",
+    "dataInicio": "2023-09-29T09:30:00-03:00",
+    "dataFim": "2023-09-29T10:00:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Coffee Breaks",
+    "descricao": "",
+    "dataInicio": "2023-09-29T15:30:00-03:00",
+    "dataFim": "2023-09-29T16:00:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Minicurso 1: A Realidade de Times de Alta Performance na Área de Tecnologia",
+    "descricao": "<p><b>Paulo Henrique Souza Mota (Zup)</b></p>",
+    "dataInicio": "2023-09-29T07:30:00-03:00",
+    "dataFim": "2023-09-29T11:30:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Minicurso 2: Introdução à Programação Funcional com Haskell",
+    "descricao": "<p><b>Henrique de Souza Santana (Mestrando em Ciência da Computação – UFV)</b></p>",
+    "dataInicio": "2023-09-29T07:30:00-03:00",
+    "dataFim": "2023-09-29T11:30:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Minicurso 3: Web Front-End Básico: Descomplicando o CSS",
+    "descricao": "<p><b>Tássia Martins Almeida Gomes (Graduanda em Ciência da Computação – UFV)</b> e <b>Estela Miranda Batista (Mestranda em Ciência da Computação – UFV)</b></p>",
+    "dataInicio": "2023-09-29T07:30:00-03:00",
+    "dataFim": "2023-09-29T11:30:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Minicurso 4: Flutter 101",
+    "descricao": "<p><b>Vítor Hugo de Oliveira Silva (Mestrando em Ciência da Computação – UFV)</b></p>",
+    "dataInicio": "2023-09-29T07:30:00-03:00",
+    "dataFim": "2023-09-29T11:30:00-03:00",
+    "lugar": null
+  },
+  {
+    "nome": "Cerimônia de Encerramento",
+    "descricao": "",
+    "dataInicio": "2023-09-29T16:00:00-03:00",
+    "dataFim": "2023-09-29T17:00:00-03:00",
+    "lugar": "Auditório do LEN"
+  }
+]

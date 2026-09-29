@@ -1,0 +1,86 @@
+[
+  {
+    "nome": "Sessão Técnica de Artigos 04 - Análise de dados educacionais sobre mulheres e Computação",
+    "descricao": null,
+    "lugar": "Sala Ipioca",
+    "dataInicio": "2025-07-24T09:00:00-03:00",
+    "dataFim": "2025-07-24T10:00:00-03:00"
+  },
+  {
+    "nome": "Sessão Técnica de Artigos 05 - Atração de talentos femininos para a computação",
+    "descricao": null,
+    "lugar": "Umbu",
+    "dataInicio": "2025-07-24T09:00:00-03:00",
+    "dataFim": "2025-07-24T10:00:00-03:00"
+  },
+  {
+    "nome": "Mesa Redonda: Entrar é só o começo: quem segura a porta aberta?",
+    "descricao": "<p><b>Fernanda Pereira de Souza</b> - Engie, <b>Marília Vidigal da Costa Souza</b> - Embraer, <b>Luciana Frigo</b> - UFSC</p>",
+    "lugar": "Ipioca",
+    "dataInicio": "2025-07-24T10:00:00-03:00",
+    "dataFim": "2025-07-24T10:40:00-03:00"
+  },
+  {
+    "nome": "Sessão Técnica de Artigos 06 - Inclusão e acessibilidade na Computação",
+    "descricao": null,
+    "lugar": "Ipioca",
+    "dataInicio": "2025-07-24T10:40:00-03:00",
+    "dataFim": "2025-07-24T12:00:00-03:00"
+  },
+  {
+    "nome": "Sessão Técnica de Artigos 07 - Análise de dados no mercado",
+    "descricao": null,
+    "lugar": "Umbu",
+    "dataInicio": "2025-07-24T10:40:00-03:00",
+    "dataFim": "2025-07-24T12:00:00-03:00"
+  },
+  {
+    "nome": "Almoço",
+    "descricao": null,
+    "lugar": null,
+    "dataInicio": "2025-07-24T12:00:00-03:00",
+    "dataFim": "2025-07-24T13:30:00-03:00"
+  },
+  {
+    "nome": "Assembléia",
+    "descricao": null,
+    "lugar": null,
+    "dataInicio": "2025-07-24T13:30:00-03:00",
+    "dataFim": "2025-07-24T15:30:00-03:00"
+  },
+  {
+    "nome": "Coffee break",
+    "descricao": null,
+    "lugar": null,
+    "dataInicio": "2025-07-24T15:30:00-03:00",
+    "dataFim": "2025-07-24T16:00:00-03:00"
+  },
+  {
+    "nome": "Mesa Redonda: Interseccionalidade em lideranças e carreiras",
+    "descricao": "<p><b>Glecem Gaia</b> - Eldorado, <b>Andrea do Amaral</b> - Minsait, <b>Eunice Palmeira</b> - IFAL, <b>Anna Marques</b> - UFC</p>",
+    "lugar": "Ipioca",
+    "dataInicio": "2025-07-24T16:00:00-03:00",
+    "dataFim": "2025-07-24T16:45:00-03:00"
+  },
+  {
+    "nome": "Sessão Técnica de Artigos 08 - Relatos e intervenções",
+    "descricao": null,
+    "lugar": "Ipioca",
+    "dataInicio": "2025-07-24T16:45:00-03:00",
+    "dataFim": "2025-07-24T18:00:00-03:00"
+  },
+  {
+    "nome": "Sessão Técnica de Artigos 09",
+    "descricao": null,
+    "lugar": "Umbu",
+    "dataInicio": "2025-07-24T16:45:00-03:00",
+    "dataFim": "2025-07-24T18:00:00-03:00"
+  },
+  {
+    "nome": "Premiações dos Artigos e Projetos MD",
+    "descricao": null,
+    "lugar": "Ipioca",
+    "dataInicio": "2025-07-24T18:00:00-03:00",
+    "dataFim": "2025-07-24T18:30:00-03:00"
+  }
+]

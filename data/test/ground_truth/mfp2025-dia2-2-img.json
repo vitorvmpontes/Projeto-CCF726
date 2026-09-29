@@ -1,0 +1,16 @@
+[
+    {
+      "nome": "Prova",
+      "lugar": null,
+      "dataInicio": "2024-06-15T13:10:00-03:00",
+      "dataFim": "2024-06-15T17:10:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Encerramento + Pizzada",
+      "lugar": null,
+      "dataInicio": "2024-06-15T17:15:00-03:00",
+      "dataFim": "2024-06-15T21:15:00-03:00",
+      "descricao": null
+    }
+  ]

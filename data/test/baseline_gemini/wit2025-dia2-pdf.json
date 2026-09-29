@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "Fórum Meninas Digitais - Mesa-redonda com os Projetos Parceiros",
+    "descricao": "<p>Redes Nacionais e Regionais de Extensão e Educação com Projetos Parceiros do Meninas Digitais</p>",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T09:00:00-03:00",
+    "dataFim": "2025-07-23T10:30:00-03:00"
+  },
+  {
+    "nome": "Palestra - ENGIE",
+    "descricao": "<p><b>Nazaré Hahne</b> (ENGIE) e <b>Edna Dalfovo</b> (ENGIE)</p><p></p><p>Tecnologia e Diversidade na ENGIE: Uma Jornada em Evolução</p>",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T10:30:00-03:00",
+    "dataFim": "2025-07-23T11:30:00-03:00"
+  },
+  {
+    "nome": "Entrega das Camisas WIT 2025 + Foto Oficial",
+    "descricao": "",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T11:30:00-03:00",
+    "dataFim": "2025-07-23T12:00:00-03:00"
+  },
+  {
+    "nome": "Almoço",
+    "descricao": "",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T12:00:00-03:00",
+    "dataFim": "2025-07-23T13:30:00-03:00"
+  },
+  {
+    "nome": "SECOMU",
+    "descricao": "",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T13:30:00-03:00",
+    "dataFim": "2025-07-23T15:30:00-03:00"
+  },
+  {
+    "nome": "Coffee break + Sessão de Pôsteres dos Projetos Parceiros Meninas Digitais",
+    "descricao": "",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T15:30:00-03:00",
+    "dataFim": "2025-07-23T16:00:00-03:00"
+  },
+  {
+    "nome": "Fórum Meninas Digitais - Mesa redonda",
+    "descricao": "<p>Conectando Diferenças: Caminhos para Diversidade, Inclusão e Equidade na Computação Brasileira</p>",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T16:00:00-03:00",
+    "dataFim": "2025-07-23T16:45:00-03:00"
+  },
+  {
+    "nome": "Painel - Mulheres, Tecnologia e Carreira na EMBRAER",
+    "descricao": "<p><b>Marinalva Dias Soares</b>: Prontas para Voar? Trajetória de Vida Pessoal e de Carreira</p><p></p><p><b>Karen Veloso de Lima</b> (equipe de Talent): Portas de entrada</p><p></p><p><b>Janaína Uccelli</b> (coordenadora do PES): Programa de Especialização de Software (PES)</p>",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T16:45:00-03:00",
+    "dataFim": "2025-07-23T18:00:00-03:00"
+  },
+  {
+    "nome": "Sessão Técnica de Artigos 03 - Ferramentas",
+    "descricao": "<p><b>Mariangela de Oliveira Gomes Setti</b></p>",
+    "lugar": "Centro de Convenções (Sala Ipioca)",
+    "dataInicio": "2025-07-23T18:00:00-03:00",
+    "dataFim": "2025-07-23T18:30:00-03:00"
+  },
+  {
+    "nome": "JANTAR DO CSBC (por adesão)",
+    "descricao": "",
+    "lugar": null,
+    "dataInicio": null,
+    "dataFim": null
+  }
+]

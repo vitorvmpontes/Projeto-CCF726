@@ -1,0 +1,212 @@
+[
+  {
+    "nome": "Credenciamento",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T07:00:00-03:00",
+    "dataFim": "2024-09-04T07:30:00-03:00"
+  },
+  {
+    "nome": "Cerimônia de Abertura",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T08:00:00-03:00",
+    "dataFim": "2024-09-04T09:00:00-03:00"
+  },
+  {
+    "nome": "Palestra de Abertura - Pedro Lacerda - O futuro do desenvolvimento de software com assistentes de inteligência artificial",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T09:00:00-03:00",
+    "dataFim": "2024-09-04T10:30:00-03:00"
+  },
+  {
+    "nome": "Coffe Break",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T10:30:00-03:00",
+    "dataFim": "2024-09-04T11:00:00-03:00"
+  },
+  {
+    "nome": "Palestra de Abertura - Daniel Hasan - Desmistificando a Inteligência Artificial",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T11:00:00-03:00",
+    "dataFim": "2024-09-04T12:30:00-03:00"
+  },
+  {
+    "nome": "Intervalo",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T12:30:00-03:00",
+    "dataFim": "2024-09-04T14:00:00-03:00"
+  },
+  {
+    "nome": "SIPEEC",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T14:00:00-03:00",
+    "dataFim": "2024-09-04T18:00:00-03:00"
+  },
+  {
+    "nome": "Torneio e-sport",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-04T18:00:00-03:00",
+    "dataFim": "2024-09-04T19:00:00-03:00"
+  },
+  {
+    "nome": "Credenciamento",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T07:00:00-03:00",
+    "dataFim": "2024-09-05T08:00:00-03:00"
+  },
+  {
+    "nome": "Palestra Umbu Games - João Victor - O mercado de jogos ainda é promissor?",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T08:00:00-03:00",
+    "dataFim": "2024-09-05T09:30:00-03:00"
+  },
+  {
+    "nome": "Coffe Break",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T09:30:00-03:00",
+    "dataFim": "2024-09-05T10:00:00-03:00"
+  },
+  {
+    "nome": "Palestra Studio Sol",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T10:00:00-03:00",
+    "dataFim": "2024-09-05T10:45:00-03:00"
+  },
+  {
+    "nome": "Palestra Letras",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T10:45:00-03:00",
+    "dataFim": "2024-09-05T11:30:00-03:00"
+  },
+  {
+    "nome": "Palestra Levty - Izabela Costa Brant - Gestão de Projeto Ágil",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T11:30:00-03:00",
+    "dataFim": "2024-09-05T12:30:00-03:00"
+  },
+  {
+    "nome": "Palestra Sydle - ",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T12:30:00-03:00",
+    "dataFim": "2024-09-05T13:00:00-03:00"
+  },
+  {
+    "nome": "Intervalo",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T13:00:00-03:00",
+    "dataFim": "2024-09-05T14:00:00-03:00"
+  },
+  {
+    "nome": "dti Digital - Gerando Valor com Dados",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T14:00:00-03:00",
+    "dataFim": "2024-09-05T15:00:00-03:00"
+  },
+  {
+    "nome": "Alfa Engenharia - Natanael Costa - Inovação e Transformação Digital: Estratégias para Construir o Futuro das Organizações",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T15:00:00-03:00",
+    "dataFim": "2024-09-05T16:00:00-03:00"
+  },
+  {
+    "nome": "Sempre Internet - LGPD Lei Geral de Proteção de Dados",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T16:00:00-03:00",
+    "dataFim": "2024-09-05T17:00:00-03:00"
+  },
+  {
+    "nome": "Hubs Contabilidade - Estratégia Ágil para Startups: Como Priorizar, Adaptar e Superar Desafios",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T17:00:00-03:00",
+    "dataFim": "2024-09-05T17:30:00-03:00"
+  },
+  {
+    "nome": "Torneio e-sport",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T18:30:00-03:00",
+    "dataFim": "2024-09-05T19:00:00-03:00"
+  },
+  {
+    "nome": "Minicursos",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-06T07:30:00-03:00",
+    "dataFim": "2024-09-06T12:00:00-03:00"
+  },
+  {
+    "nome": "Intervalo",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-06T12:00:00-03:00",
+    "dataFim": "2024-09-06T12:30:00-03:00"
+  },
+  {
+    "nome": "Minicursos",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-06T12:30:00-03:00",
+    "dataFim": "2024-09-06T13:30:00-03:00"
+  },
+  {
+    "nome": "Maratona de Programação",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T13:30:00-03:00",
+    "dataFim": "2024-09-05T18:00:00-03:00"
+  },
+  {
+    "nome": "GameJam",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-05T10:00:00-03:00",
+    "dataFim": "2024-09-05T18:00:00-03:00"
+  },
+  {
+    "nome": "Coffe Break",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-06T17:00:00-03:00",
+    "dataFim": "2024-09-06T17:30:00-03:00"
+  },
+  {
+    "nome": "Premiações",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-06T17:30:00-03:00",
+    "dataFim": "2024-09-06T18:00:00-03:00"
+  },
+  {
+    "nome": "Cerimônia Encerramento",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-06T18:00:00-03:00",
+    "dataFim": "2024-09-06T19:00:00-03:00"
+  },
+  {
+    "nome": "Torneio e-sport",
+    "descricao": "",
+    "lugarId": null,
+    "dataInicio": "2024-09-06T19:00:00-03:00",
+    "dataFim": "2024-09-06T20:00:00-03:00"
+  }
+]

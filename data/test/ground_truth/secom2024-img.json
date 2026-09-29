@@ -1,0 +1,199 @@
+[
+    {
+      "nome": "CREDENCIAMENTO",
+      "lugar": null,
+      "dataInicio": "2024-12-04T07:00:00-03:00",
+      "dataFim": "2024-12-04T08:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "ABERTURA",
+      "lugar": null,
+      "dataInicio": "2024-12-04T08:00:00-03:00",
+      "dataFim": "2024-12-04T09:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "PALESTRA: O MERCADO DE JOGOS AINDA É PROMISSOR?",
+      "lugar": null,
+      "dataInicio": "2024-12-05T08:00:00-03:00",
+      "dataFim": "2024-12-05T09:30:00-03:00",
+      "descricao": "Palestrante: João Victor"
+    },
+    {
+      "nome": "COFFEE BREAK",
+      "lugar": null,
+      "dataInicio": "2024-12-04T10:30:00-03:00",
+      "dataFim": "2024-12-04T11:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "STUDIOSOL",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T10:45:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "INTERVALO",
+      "lugar": null,
+      "dataInicio": "2024-12-04T12:30:00-03:00",
+      "dataFim": "2024-12-04T14:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "SYDLE",
+      "lugar": null,
+      "dataInicio": "2024-12-05T12:30:00-03:00",
+      "dataFim": "2024-12-05T13:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "GERANDO VALOR COM DADOS",
+      "lugar": null,
+      "dataInicio": "2024-12-05T14:00:00-03:00",
+      "dataFim": "2024-12-05T15:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "LGPD",
+      "lugar": null,
+      "dataInicio": "2024-12-05T16:00:00-03:00",
+      "dataFim": "2024-12-05T17:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "E-SPORT",
+      "lugar": null,
+      "dataInicio": "2024-12-04T18:00:00-03:00",
+      "dataFim": "2024-12-04T21:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "CREDENCIAMENTO",
+      "lugar": null,
+      "dataInicio": "2024-12-05T07:00:00-03:00",
+      "dataFim": "2024-12-05T08:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "PALESTRA: O FUTURO DO DESENVOLVIMENTO DE SOFTWARE COM ASSISTENTES DE INTELIGÊNCIA ARTIFICIAL",
+      "lugar": null,
+      "dataInicio": "2024-12-04T09:00:00-03:00",
+      "dataFim": "2024-12-04T10:30:00-03:00",
+      "descricao": "Palestrante: Pedro Lacerda"
+    },
+    {
+      "nome": "COFFEE BREAK",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T10:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "LETRAS",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:45:00-03:00",
+      "dataFim": "2024-12-05T11:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "INTERVALO",
+      "lugar": null,
+      "dataInicio": "2024-12-05T12:45:00-03:00",
+      "dataFim": "2024-12-05T14:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "MARATONA SYDLE LEVTY DE PROGRAMAÇÃO",
+      "lugar": null,
+      "dataInicio": "2024-12-05T13:30:00-03:00",
+      "dataFim": "2024-12-05T18:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "GAME JAM",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T22:30:00-03:00",
+      "descricao": null
+    },
+    
+    {
+      "nome": "MINICURSOS",
+      "lugar": null,
+      "dataInicio": "2024-12-06T07:30:00-03:00",
+      "dataFim": "2024-12-06T17:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "PALESTRA: DESMISTIFICANDO A INTELIGÊNCIA ARTIFICIAL",
+      "lugar": null,
+      "dataInicio": "2024-12-04T11:00:00-03:00",
+      "dataFim": "2024-12-04T12:30:00-03:00",
+      "descricao": "Palestrante: Daniel Hasan"
+    },
+    {
+      "nome": "METODOLOGIAS ÁGEIS",
+      "lugar": null,
+      "dataInicio": "2024-12-05T11:30:00-03:00",
+      "dataFim": "2024-12-05T12:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "ESTRATÉGIA ÁGIL PARA STARTUPS: COMO PRIORIZAR, ADAPTAR E SUPERAR DESAFIOS",
+      "lugar": null,
+      "dataInicio": "2024-12-05T17:00:00-03:00",
+      "dataFim": "2024-12-05T18:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "INTERVALO",
+      "lugar": null,
+      "dataInicio": "2024-12-06T12:00:00-03:00",
+      "dataFim": "2024-12-06T12:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "SIPEEC",
+      "lugar": null,
+      "dataInicio": "2024-12-04T14:00:00-03:00",
+      "dataFim": "2024-12-04T18:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "COFFEE BREAK",
+      "lugar": null,
+      "dataInicio": "2024-12-06T16:00:00-03:00",
+      "dataFim": "2024-12-06T16:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "PREMIAÇÕES",
+      "lugar": null,
+      "dataInicio": "2024-12-06T17:30:00-03:00",
+      "dataFim": "2024-12-06T18:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "ENCERRAMENTO",
+      "lugar": null,
+      "dataInicio": "2024-12-06T18:00:00-03:00",
+      "dataFim": "2024-12-06T19:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "E-SPORT",
+      "lugar": null,
+      "dataInicio": "2024-12-06T18:30:00-03:00",
+      "dataFim": "2024-12-06T21:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "E-SPORT",
+      "lugar": null,
+      "dataInicio": "2024-12-05T19:00:00-03:00",
+      "dataFim": "2024-12-06T21:30:00-03:00",
+      "descricao": null
+    }
+  ]

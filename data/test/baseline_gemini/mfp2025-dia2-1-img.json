@@ -1,0 +1,30 @@
+[
+  {
+    "nome": "Café da Manhã",
+    "descricao": null,
+    "lugarId": null,
+    "dataInicio": "2024-06-15T07:00:00-03:00",
+    "dataFim": "2024-06-15T09:00:00-03:00"
+  },
+  {
+    "nome": "Atividades opcionais para relaxar",
+    "descricao": null,
+    "lugarId": null,
+    "dataInicio": "2024-06-15T09:00:00-03:00",
+    "dataFim": "2024-06-15T10:00:00-03:00"
+  },
+  {
+    "nome": "Warm up",
+    "descricao": null,
+    "lugarId": null,
+    "dataInicio": "2024-06-15T10:00:00-03:00",
+    "dataFim": "2024-06-15T11:00:00-03:00"
+  },
+  {
+    "nome": "Almoço",
+    "descricao": null,
+    "lugarId": null,
+    "dataInicio": "2024-06-15T11:00:00-03:00",
+    "dataFim": "2024-06-15T13:00:00-03:00"
+  }
+]

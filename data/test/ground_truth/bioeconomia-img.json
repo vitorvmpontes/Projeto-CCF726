@@ -1,0 +1,177 @@
+[
+  {
+    "nome": "Distribuição de Material",
+    "lugar": "Foyer Convenções",
+    "dataInicio": "2019-10-22T14:00:00-03:00",
+    "dataFim": "2019-10-22T15:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-22T15:30:00-03:00",
+    "dataFim": "2019-10-22T16:00:00-03:00",
+    "descricao": "<p>Composição de mesa da XI Mostra de Extensão IFF-UENF-UFF e II UFRRJ</p>"
+  },
+  {
+    "nome": "Apresentação Cultural",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-22T16:00:00-03:00",
+    "dataFim": "2019-10-22T17:00:00-03:00",
+    "descricao": "Coral da UENF"
+  },
+  {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-22T17:00:00-03:00",
+    "dataFim": "2019-10-22T18:00:00-03:00",
+    "descricao": "Um Olhar Histórico:potencial da bioeconomia no Brasil, montagem do estado nacional e mazelas Socioambientais <p><b>Prof. Chico Alencar - UFRJ</b></p>"
+  },
+  {
+    "nome": "Capoeira ABC",
+    "lugar": "Foyer Convenções",
+    "dataInicio": "2019-10-22T18:00:00-03:00",
+    "dataFim": "2019-10-22T18:30:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Happy Hour - Som de Vinil",
+    "lugar": "Praça Food Truck",
+    "dataInicio": "2019-10-22T18:30:00-03:00",
+    "dataFim": "2019-10-22T19:00:00-03:00",
+    "descricao": "<p>Com <b>Tiago Quintes</b></p>"
+  },
+  {
+    "nome": "Ciência no Bar",
+    "descricao": "<p>Cerveja Artesanal: ciência e tecnologia à sua mesa</p><p><b>André Fioravante Guerra</b></p>",
+    "lugar": "Praça Food Truck",
+    "dataInicio": "2019-10-22T19:00:00-03:00",
+    "dataFim": null
+  },
+  {
+    "nome": "Sessão de Apresentação Oral",
+    "lugar": "Anfiteatros",
+    "dataInicio": "2019-10-23T08:00:00-03:00",
+    "dataFim": "2019-10-23T10:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Mesa Redonda I",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-23T10:30:00-03:00",
+    "dataFim": "2019-10-23T12:30:00-03:00",
+    "descricao": "<p>Políticas Públicas para o Desenvolvimento Sustentável e Alternativas para a Bioeconomia Regional</p><p><b>Joaquim Melo - Banco Palmas</b>/<b>Vinicius Viana - Codemca</b>/<b>Vicente de Paulo Santos de Oliveira-IFFluminense</b></p><p>Moderador: <b>Giovane Leal</b></p>"
+  },
+  {
+    "nome": "Sessão de Apresentação de Banner",
+    "lugar": "Corredor de Banners e Anfiteatros",
+    "dataInicio": "2019-10-23T14:00:00-03:00",
+    "dataFim": "2019-10-23T18:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Sessão de Mesa de Discussão",
+    "lugar": "Corredor de Banners e Anfiteatros",
+    "dataInicio": "2019-10-23T14:00:00-03:00",
+    "dataFim": "2019-10-23T18:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Sessão de Apresentação Oral",
+    "lugar": "Corredor de Banners e Anfiteatros",
+    "dataInicio": "2019-10-23T14:00:00-03:00",
+    "dataFim": "2019-10-23T18:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Minicursos e Oficinas",
+    "lugar": null,
+    "dataInicio": "2019-10-23T08:00:00-03:00",
+    "dataFim": "2019-10-23T18:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Leitura no Bar",
+    "lugar": "Praça Food Truck",
+    "dataInicio": "2019-10-23T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "Lançamento de Livros"
+  },
+  {
+    "nome": "Sessão de Apresentação Oral",
+    "lugar": "Anfiteatros",
+    "dataInicio": "2019-10-24T08:00:00-03:00",
+    "dataFim": "2019-10-24T10:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Mesa Redonda 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-24T10:30:00-03:00",
+    "dataFim": "2019-10-24T12:30:00-03:00",
+    "descricao": "<p>Creditação/Curricularização da Extensão no Ensino Superior</p><p><b>Prof. Ivan Vasconcelos Figueiredo-UFSJ</b>/<b>Prof Regina Henriques-UERI</b>/<b>Prof. Valdir José da Silva- IF Sudeste MG</b></p>"
+  },
+  {
+    "nome": "Sessão de Apresentação de Banner",
+    "lugar": "Corredor de Banners e Anfiteatros",
+    "dataInicio": "2019-10-24T14:00:00-03:00",
+    "dataFim": "2019-10-24T16:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Minicursos e Oficinas",
+    "lugar": null,
+    "dataInicio": "2019-10-24T08:00:00-03:00",
+    "dataFim": "2019-10-24T18:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Lançamento de Livro e conversa com prefaciadores da Série \"Memória Fluminenses\"",
+    "lugar": "Auditório IV",
+    "dataInicio": "2019-10-24T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null
+  },
+  {
+    "nome": "Minicursos e Oficinas",
+    "lugar": null,
+    "dataInicio": "2019-10-25T08:00:00-03:00",
+    "dataFim": "2019-10-25T16:00:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Conferência: Economia, Conhecimento e Soberania",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-25T10:30:00-03:00",
+    "dataFim": "2019-10-25T12:30:00-03:00",
+    "descricao": "<p><b>Professor Waldeck Carneiro-UFF</b></p>"
+  },
+  {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-25T16:00:00-03:00",
+    "dataFim": "2019-10-25T16:30:00-03:00",
+    "descricao": null
+  },
+  {
+    "nome": "Apresentação Cultural - Orquestra de Vilões",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2019-10-25T16:30:00-03:00",
+    "dataFim": "2019-10-25T17:00:00-03:00",
+    "descricao": "<p>IFFluminense Campus Campos Centro</p>"
+  },
+  {
+    "nome": "Cerimônia de Premiação",
+    "lugar": null,
+    "dataInicio": "2019-10-25T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null
+  },
+  {
+    "nome": "Feira de Ciências",
+    "lugar": "Jardim São Benedito",
+    "dataInicio": "2019-10-26T10:00:00-03:00",
+    "dataFim": "2019-10-26T16:00:00-03:00",
+    "descricao": null
+  }
+]

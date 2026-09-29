@@ -53,9 +53,9 @@ A seção de trabalhos futuros do TCC propõe substituir o LLM generalista por u
 **Decisões sobre a baseline**
 
 - **Decidido**: o dataset do TCC é usado **exclusivamente como conjunto de teste**. Ele nunca entra no treino nem na validação/seleção de hiperparâmetros, para evitar vazamento de dados.
-- **Proposto**: reexecutar o Gemini com o **mesmo script de avaliação** usado nos SLMs, para que as duas linhas da tabela final saiam do mesmo código. Se o Gemini 2.0-Flash não estiver mais disponível, usar os números publicados no TCC e registrar isso como limitação.
+- **Proposto**: reexecutar o Gemini com o **mesmo script de avaliação** usado nos SLMs, para que as duas linhas da tabela final saiam do mesmo código. **Atualização (2026-09-29):** as saídas originais do Gemini 2.0-Flash já estão salvas em `data/test/baseline_gemini/`, e o script original reproduz o F1 de 0,8943. Não é preciso reexecutar a API.
 - **Proposto**: congelar os **textos brutos** gerados pela fase 1 para cada arquivo de teste (`data/test/raw_text/`). Todos os modelos (Gemini e SLMs) recebem exatamente as mesmas strings, e a única variável do experimento passa a ser o modelo.
-- **A verificar**: o TCC cita 18 arquivos na seção 3.3.1 e 17 na seção 4.1 / Tabela 1. É preciso fechar esse número antes da avaliação.
+- **Resolvido**: são 18 arquivos, dos quais 17 são avaliados (`secom2023-img` não tem ground truth).
 
 ---
 
@@ -181,7 +181,7 @@ Tradeoffs:
 | Llama 3.1 / 3.2 | 8B / 3B | Referência amplamente usada na literatura de fine-tuning; facilita comparação com outros trabalhos. |
 | Phi-4-mini | 3,8B | Sucessor do Phi-3 usado no `saulin_v1`; bom em raciocínio para o tamanho. Serve de controle para medir o ganho de trocar de família. |
 
-**Descartado**: Phi-3-mini-4k (base do `saulin_v1`), por causa do contexto de 4k e do português mais fraco. Os modelos `saulin_v1`/`saulin_v2` atuais podem entrar como ponto de referência histórico, se tiverem sido treinados com dados da tarefa.
+**Descartado**: Phi-3-mini-4k, por causa do contexto de 4k e do português mais fraco.
 
 ### 6.3 Protocolo de seleção
 
@@ -310,6 +310,11 @@ Projeto-CCF726/
 | 2026-09-28 | Adicionar métricas de eficiência | Decidido | Principal argumento do SLM (QP4) |
 | 2026-09-28 | Comparar vários modelos base antes de escolher | Decidido | QP2; tamanho não é restrição forte |
 | 2026-09-28 | Pesos fora do GitHub (`.gitignore` + HF Hub) | Decidido | Limite de 100 MB por arquivo no GitHub |
+| 2026-09-28 | Modelos `saulin_v1`/`saulin_v2` foram só um teste e não servem de referência | Decidido | Novas versões do saulin serão treinadas do zero |
+| 2026-09-29 | Ground truth e baseline vêm do repositório de trabalho do TCC (`POC---Vitor-`), não do repositório público | Decidido | É a versão que reproduz os números do artigo (F1 0,8943) |
+| 2026-09-29 | Baseline = saídas do Gemini 2.0-Flash (temperatura 0, modo JSON) já salvas | Decidido | Foi o que rodou no TCC; não depende de reexecutar a API |
+| 2026-09-29 | OCR com Google Vision `TEXT_DETECTION` | Decidido | Mesmo modo usado para gerar os textos do teste |
+| 2026-09-29 | Revisar todos os gabaritos com uma regra de anotação única | Em andamento | Alguns nomes foram encurtados para bater com a saída do Gemini |
 
 ---
 
@@ -343,4 +348,4 @@ Projeto-CCF726/
 2. `descricao` em HTML gerado pelo modelo ou montado por código?
 3. Tamanho-alvo do dataset de treino.
 4. Hardware exato de produção (para medir eficiência e definir a quantização).
-5. Como o `saulin_v2` foi treinado. Se usou dados da tarefa, verificar que não houve contato com o conjunto de teste.
+5. Regra de anotação dos gabaritos (o que conta como `nome` da atividade).

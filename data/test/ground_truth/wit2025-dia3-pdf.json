@@ -1,0 +1,86 @@
+[
+    {
+      "nome": "Sessão Técnica de Artigos 04 - Análise de dados educacionais sobre mulheres e Computação",
+      "lugar": "Centro de Convenções (Sala Ipioca)",
+      "dataInicio": "2025-07-24T09:00:00-03:00",
+      "dataFim": "2025-07-24T10:00:00-03:00",
+      "descricao": "Chair: <b>Luma Seixas</b>"
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 05 - Atração de talentos femininos para a computação",
+      "lugar": "Centro de Convenções (Sala Umbu)",
+      "dataInicio": "2025-07-24T09:00:00-03:00",
+      "dataFim": "2025-07-24T10:00:00-03:00",
+      "descricao": "Chair: <b>Maria Claudia Emer</b>"
+    },
+    {
+      "nome": "Mesa Redonda: Entrar é só o começo: quem segura a porta aberta?",
+      "lugar": "Centro de Convenções (Sala Ipioca)",
+      "dataInicio": "2025-07-24T10:00:00-03:00",
+      "dataFim": "2025-07-24T10:40:00-03:00",
+      "descricao": "Participantes: <b>Fernanda Pereira de Souza - Engie</b>, <b>Marília Vidigal da Costa Souza - Embraer</b>, <b>Luciana Frigo - UFSC</b>"
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 06 - Inclusão e acessibilidade na Computação",
+      "lugar": "Centro de Convenções (Sala Ipioca)",
+      "dataInicio": "2025-07-24T10:40:00-03:00",
+      "dataFim": "2025-07-24T12:00:00-03:00",
+      "descricao": "Chair: <b>Taynara Cerigueli Dutra</b>"
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 07 - Análise de dados no mercado",
+      "lugar": "Centro de Convenções (Sala Umbu)",
+      "dataInicio": "2025-07-24T10:40:00-03:00",
+      "dataFim": "2025-07-24T12:00:00-03:00",
+      "descricao": "Chair: <b>Laura Costa Sarkis</b>"
+    },
+    {
+      "nome": "Almoço",
+      "lugar": null,
+      "dataInicio": "2025-07-24T12:00:00-03:00",
+      "dataFim": "2025-07-24T13:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Assembléia",
+      "lugar": null,
+      "dataInicio": "2025-07-24T13:30:00-03:00",
+      "dataFim": "2025-07-24T15:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Coffee break",
+      "lugar": null,
+      "dataInicio": "2025-07-24T15:30:00-03:00",
+      "dataFim": "2025-07-24T16:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Mesa Redonda: Interseccionalidade em lideranças e carreiras",
+      "lugar": "Centro de Convenções (Sala Ipioca)",
+      "dataInicio": "2025-07-24T16:00:00-03:00",
+      "dataFim": "2025-07-24T16:45:00-03:00",
+      "descricao": "<p><b>Glecem Gaia</b> - Eldorado, <b>Andrea do Amaral</b> - Minsait, <b>Eunice Palmeira</b> - IFAL, <b>Anna Marques</b> - UFC</p>"
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 08 - Relatos e intervenções",
+      "lugar": "Centro de Convenções (Sala Ipioca)",
+      "dataInicio": "2025-07-24T16:45:00-03:00",
+      "dataFim": "2025-07-24T18:00:00-03:00",
+      "descricao": "Chair: <b>Andrea Maria Cavalcanti</b>"
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 09",
+      "lugar": "Centro de Convenções (Sala Umbu)",
+      "dataInicio": "2025-07-24T16:45:00-03:00",
+      "dataFim": "2025-07-24T18:00:00-03:00",
+      "descricao": "Chair: <b>Marcelo Martins</b>"
+    },
+    {
+      "nome": "Premiações dos Artigos e Projetos MD",
+      "lugar": "Centro de Convenções (Sala Ipioca)",
+      "dataInicio": "2025-07-24T18:00:00-03:00",
+      "dataFim": "2025-07-24T18:30:00-03:00",
+      "descricao": null
+    }
+  ]

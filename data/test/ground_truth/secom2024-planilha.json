@@ -1,0 +1,199 @@
+[
+    {
+      "nome": "Credenciamento",
+      "lugar": null,
+      "dataInicio": "2024-12-04T07:00:00-03:00",
+      "dataFim": "2024-12-04T08:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Cerimônia de Abertura",
+      "lugar": null,
+      "dataInicio": "2024-12-04T08:00:00-03:00",
+      "dataFim": "2024-12-04T09:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra Umbu Games - João Victor - O mercado de jogos ainda é promissor?",
+      "lugar": null,
+      "dataInicio": "2024-12-05T08:00:00-03:00",
+      "dataFim": "2024-12-05T09:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Coffe Break",
+      "lugar": null,
+      "dataInicio": "2024-12-04T10:30:00-03:00",
+      "dataFim": "2024-12-04T11:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra Studio Sol",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T10:45:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Intervalo",
+      "lugar": null,
+      "dataInicio": "2024-12-04T12:30:00-03:00",
+      "dataFim": "2024-12-04T14:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra Sydle - Transformação Digital: Estratégias para Construir o Futuro das Organizações",
+      "lugar": null,
+      "dataInicio": "2024-12-05T12:30:00-03:00",
+      "dataFim": "2024-12-05T13:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra dti Digital - Gerando Valor com Dados",
+      "lugar": null,
+      "dataInicio": "2024-12-05T14:00:00-03:00",
+      "dataFim": "2024-12-05T15:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Sempre Internet - LGPD Lei Geral de Proteção de Dados",
+      "lugar": null,
+      "dataInicio": "2024-12-05T16:00:00-03:00",
+      "dataFim": "2024-12-05T17:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Torneio e-sport",
+      "lugar": null,
+      "dataInicio": "2024-12-04T18:00:00-03:00",
+      "dataFim": "2024-12-04T21:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Credenciamento",
+      "lugar": null,
+      "dataInicio": "2024-12-05T07:00:00-03:00",
+      "dataFim": "2024-12-05T08:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra de Abertura - Pedro Lacerda - O futuro do desenvolvimento de software com assistentes de inteligência artificial",
+      "lugar": null,
+      "dataInicio": "2024-12-04T09:00:00-03:00",
+      "dataFim": "2024-12-04T10:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Coffe Break",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T10:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra Letras",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:45:00-03:00",
+      "dataFim": "2024-12-05T11:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Intervalo",
+      "lugar": null,
+      "dataInicio": "2024-12-05T12:45:00-03:00",
+      "dataFim": "2024-12-05T14:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Maratona de Programação",
+      "lugar": null,
+      "dataInicio": "2024-12-05T13:30:00-03:00",
+      "dataFim": "2024-12-05T18:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "GameJam",
+      "lugar": null,
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T22:30:00-03:00",
+      "descricao": null
+    },
+    
+    {
+      "nome": "Minicursos",
+      "lugar": null,
+      "dataInicio": "2024-12-06T07:30:00-03:00",
+      "dataFim": "2024-12-06T17:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra de Abertura - Daniel Hasan - Desmistificando a Inteligência Artificial",
+      "lugar": null,
+      "dataInicio": "2024-12-04T11:00:00-03:00",
+      "dataFim": "2024-12-04T12:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Palestra Levty - Izabela Costa Brant - Gestão de Projeto Ágil",
+      "lugar": null,
+      "dataInicio": "2024-12-05T11:30:00-03:00",
+      "dataFim": "2024-12-05T12:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Estratégia Ágil para Startups: Como Priorizar, Adaptar e Superar Desafios",
+      "lugar": null,
+      "dataInicio": "2024-12-05T17:00:00-03:00",
+      "dataFim": "2024-12-05T18:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Intervalo",
+      "lugar": null,
+      "dataInicio": "2024-12-06T12:00:00-03:00",
+      "dataFim": "2024-12-06T12:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "SIPEEC",
+      "lugar": null,
+      "dataInicio": "2024-12-04T14:00:00-03:00",
+      "dataFim": "2024-12-04T18:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Coffe Break",
+      "lugar": null,
+      "dataInicio": "2024-12-06T16:00:00-03:00",
+      "dataFim": "2024-12-06T16:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Premiações",
+      "lugar": null,
+      "dataInicio": "2024-12-06T17:30:00-03:00",
+      "dataFim": "2024-12-06T18:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Cerimônia Encerramento",
+      "lugar": null,
+      "dataInicio": "2024-12-06T18:00:00-03:00",
+      "dataFim": "2024-12-06T19:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Torneio e-sport",
+      "lugar": null,
+      "dataInicio": "2024-12-06T18:30:00-03:00",
+      "dataFim": "2024-12-06T21:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Torneio e-sport",
+      "lugar": null,
+      "dataInicio": "2024-12-05T19:00:00-03:00",
+      "dataFim": "2024-12-06T21:30:00-03:00",
+      "descricao": null
+    }
+  ]

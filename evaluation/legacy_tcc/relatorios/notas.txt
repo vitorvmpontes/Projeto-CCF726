@@ -1,0 +1,3 @@
+Verificar como fica a questão dos endereços (quando não tiver específico tenta inferir? deixa vazio? não importa?)
+Verificar como ficaria a questão dos subeventos 
+Formatos como o da secom2024 (pdf) -> bem ruim

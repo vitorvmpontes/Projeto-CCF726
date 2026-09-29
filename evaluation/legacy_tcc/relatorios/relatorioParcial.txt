@@ -1,0 +1,130 @@
+Processando arquivo: Bioeconomia.json
+  -> Resultados da Entidade: TP=25, FP=0, FN=0
+
+Processando arquivo: ForumCPA.json
+  -> Resultados da Entidade: TP=19, FP=0, FN=0
+
+Processando arquivo: MannaMuseu.json
+  -> Resultados da Entidade: TP=40, FP=0, FN=0
+
+Processando arquivo: SEBRAE.json
+  -> Resultados da Entidade: TP=34, FP=0, FN=0
+
+Processando arquivo: Secom2024.json
+  -> Resultados da Entidade: TP=27, FP=1, FN=1
+
+Processando arquivo: SemanaAcademicaUSP.json
+  -> Resultados da Entidade: TP=25, FP=0, FN=0
+
+==================================================
+--- RELATÓRIO FINAL CONSOLIDADO ---
+==================================================
+
+--- Nível 1: Desempenho na Detecção de Atividades ---
+Total de Verdadeiros Positivos (TP): 170
+Total de Falsos Positivos (FP): 1
+Total de Falsos Negativos (FN): 1
+
+Precisão (Precision): 99.42%
+Recall (Revocação): 99.42%
+F1-Score: 0.9942
+
+--- Nível 2: Acurácia por Campo (dentro dos TPs) ---
+Acurácia do campo 'nome': 100.00% (170/170 corretos)
+Acurácia do campo 'lugar': 100.00% (170/170 corretos)
+Acurácia do campo 'dataInicio': 87.65% (149/170 corretos)
+Acurácia do campo 'dataFim': 85.88% (146/170 corretos)
+Acurácia do campo 'descricao': 100.00% (170/170 corretos)
+
+==================================================
+
+Processando arquivo: Secom2023-img.json
+  -> Resultados da Entidade: TP=12, FP=0, FN=0       
+
+Processando arquivo: Secom2023-pdf.json
+  -> Resultados da Entidade: TP=14, FP=0, FN=0       
+
+==================================================   
+--- RELATÓRIO FINAL CONSOLIDADO ---
+==================================================   
+
+--- Nível 1: Desempenho na Detecção de Atividades ---
+Total de Verdadeiros Positivos (TP): 26
+Total de Falsos Positivos (FP): 0
+Total de Falsos Negativos (FN): 0
+
+Precisão (Precision): 100.00%
+Recall (Revocação): 100.00%
+F1-Score: 1.0000
+
+--- Nível 2: Acurácia por Campo (dentro dos TPs) --- 
+Acurácia do campo 'nome': 100.00% (26/26 corretos)
+Acurácia do campo 'lugar': 100.00% (26/26 corretos)
+Acurácia do campo 'dataInicio': 96.15% (25/26 corretos)
+Acurácia do campo 'dataFim': 100.00% (26/26 corretos)
+Acurácia do campo 'descricao': 100.00% (26/26 corretos)
+
+Processando arquivo: Dia1.json
+  -> Resultados da Entidade: TP=9, FP=0, FN=0
+
+Processando arquivo: Dia2.json
+  -> Resultados da Entidade: TP=10, FP=0, FN=0
+
+Processando arquivo: Dia3.json
+  -> Resultados da Entidade: TP=12, FP=0, FN=0
+
+==================================================
+--- RELATÓRIO FINAL CONSOLIDADO ---
+==================================================
+
+--- Nível 1: Desempenho na Detecção de Atividades ---
+Total de Verdadeiros Positivos (TP): 31
+Total de Falsos Positivos (FP): 0
+Total de Falsos Negativos (FN): 0
+
+Precisão (Precision): 100.00%
+Recall (Revocação): 100.00%
+F1-Score: 1.0000
+
+--- Nível 2: Acurácia por Campo (dentro dos TPs) ---
+Acurácia do campo 'nome': 100.00% (31/31 corretos)
+Acurácia do campo 'lugar': 100.00% (31/31 corretos)
+Acurácia do campo 'dataInicio': 100.00% (31/31 corretos)
+Acurácia do campo 'dataFim': 100.00% (31/31 corretos)
+Acurácia do campo 'descricao': 100.00% (31/31 corretos)
+
+==================================================
+
+Processando arquivo: dia1-1.json
+  -> Resultados da Entidade: TP=5, FP=0, FN=0
+
+Processando arquivo: dia1-2.json
+  -> Resultados da Entidade: TP=5, FP=0, FN=0
+
+Processando arquivo: dia2-1.json
+  -> Resultados da Entidade: TP=4, FP=0, FN=0
+
+Processando arquivo: dia2-2.json
+  -> Resultados da Entidade: TP=2, FP=0, FN=0
+
+==================================================
+--- RELATÓRIO FINAL CONSOLIDADO ---
+==================================================
+
+--- Nível 1: Desempenho na Detecção de Atividades ---
+Total de Verdadeiros Positivos (TP): 16
+Total de Falsos Positivos (FP): 0
+Total de Falsos Negativos (FN): 0
+
+Precisão (Precision): 100.00%
+Recall (Revocação): 100.00%
+F1-Score: 1.0000
+
+--- Nível 2: Acurácia por Campo (dentro dos TPs) ---
+Acurácia do campo 'nome': 100.00% (16/16 corretos)
+Acurácia do campo 'lugar': 100.00% (16/16 corretos)
+Acurácia do campo 'dataInicio': 100.00% (16/16 corretos)
+Acurácia do campo 'dataFim': 100.00% (16/16 corretos)
+Acurácia do campo 'descricao': 100.00% (16/16 corretos)
+
+==================================================

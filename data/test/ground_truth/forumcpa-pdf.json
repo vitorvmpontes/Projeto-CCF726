@@ -1,0 +1,135 @@
+[
+    {
+      "nome": "Credenciamento",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T08:00:00-03:00",
+      "dataFim": "2018-08-13T08:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Atração Cultural",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T08:15:00-03:00",
+      "dataFim": "2018-08-13T08:40:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Mesa de Abertura - Mesa das Autoridades",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T08:40:00-03:00",
+      "dataFim": "2018-08-13T09:00:00-03:00",
+      "descricao": "Participantes: <b>Margareth de Fátima Formiga Melo Diniz (Reitora da UFPB)</b>, <b>Mônica Dias Palitot (Presidente da CPA/UFPB)</b>, <b>Ariane Menezes (PRG-UFPB)</b>, <b>Assis Leão (IFPE)</b>, <b>Elizete Ventura (Pró-Reitora–PROPLAN /UFPB)</b>"
+    },
+    {
+      "nome": "1º Mesa - Relação Gestão e avaliação institucional: reflexões para qualidade da educação",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T09:00:00-03:00",
+      "dataFim": "2018-08-13T10:15:00-03:00",
+      "descricao": "Participantes: <b>Assis Leão (IFPE)</b>, <b>Ariane Meneses (PRG-UFPB)</b>, <b>Socorro Maria Ventura P. Oliveira (FASER)</b>. Mediador: <b>Francivaldo dos Santos (UFPB)</b>"
+    },
+    {
+      "nome": "2º Mesa - Avaliação e Responsabilidade Social",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T10:15:00-03:00",
+      "dataFim": "2018-08-13T11:00:00-03:00",
+      "descricao": "Participantes: <b>José Mancinelli Lêdo do Nascimento (UFPB)</b>, <b>Maria da Conceição (UNICAP)</b>. Mediador: <b>Cristiano Dornelas (FACOL)</b>"
+    },
+    {
+      "nome": "Coffee Break",
+      "lugar": null,
+      "dataInicio": "2018-08-13T11:00:00-03:00",
+      "dataFim": "2018-08-13T12:00:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Intervalo para almoço",
+      "lugar": null,
+      "dataInicio": "2018-08-13T12:00:00-03:00",
+      "dataFim": "2018-08-13T13:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "3º Mesa - Instrumentos de Avaliação do MEC (novos e antigos)",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T13:45:00-03:00",
+      "dataFim": "2018-08-13T15:00:00-03:00",
+      "descricao": "Participantes: <b>Mariana Donato (FACIPE)</b>, <b>Fernanda Alencar (UFPE)</b>. Mediador: <b>Emiliano Rostan (UFPB)</b>"
+    },
+    {
+      "nome": "4º Mesa - Avaliação Institucional nas Instituições de Ensino Superior (IES) do Nordeste",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T15:00:00-03:00",
+      "dataFim": "2018-08-13T16:00:00-03:00",
+      "descricao": "Participantes: <b>Alexsandro Fernandes Marinho (FASER)</b>, <b>Raquel Azevedo (ASPER)</b>, <b>Michelle Pinheiro (FAC SENAC PE)</b>. Mediador: <b>Cleber Brito de Souza (UFPB)</b>"
+    },
+    {
+      "nome": "Palestra CPME - “Reflexões sobre o ENADE e a importância para a avaliação institucional”",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T16:00:00-03:00",
+      "dataFim": "2018-08-13T17:00:00-03:00",
+      "descricao": "Palestrante: <b>Fábio do Nascimento Fonseca - UFPB</b>"
+    },
+    {
+      "nome": "Encerramento do primeiro dia",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-13T17:00:00-03:00",
+      "dataFim": null,
+      "descricao": null
+    },
+    {
+      "nome": "Credenciamento",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-14T08:00:00-03:00",
+      "dataFim": "2018-08-14T08:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "1ª Mesa - Avaliação Institucional nas Instituições de Ensino Superior (IES) do Nordeste 2",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-14T08:30:00-03:00",
+      "dataFim": "2018-08-14T09:30:00-03:00",
+      "descricao": "Participantes: <b>Mônica Dias Palitot (UFPB)</b>, <b>Francisco Fernandes (IFPB)</b>, <b>Pablo Rodrigo Fica Piras (UEFS)</b>. Mediador: <b>Ivaldo Menezes (FCM)</b>"
+    },
+    {
+      "nome": "2ª Mesa - Avaliação institucional e a execução do plano de desenvolvimento institucional",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-14T09:30:00-03:00",
+      "dataFim": "2018-08-14T10:30:00-03:00",
+      "descricao": "Participantes: <b>Gustavo Tavares (PROPLAN)</b>, <b>Assis Leão (IFPE)</b>, <b>Sérgio Ricardo Bezerra dos Santos (FCM)</b>. Mediador: <b>Caroline Burity (UFPB)</b>"
+    },
+    {
+      "nome": "Apresentação dos Trabalhos",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-14T10:30:00-03:00",
+      "dataFim": "2018-08-14T11:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Intervalo para almoço",
+      "lugar": null,
+      "dataInicio": "2018-08-14T11:30:00-03:00",
+      "dataFim": "2018-08-14T13:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Apresentação dos Trabalhos",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-14T13:30:00-03:00",
+      "dataFim": "2018-08-14T15:30:00-03:00",
+      "descricao": null
+    },
+    {
+      "nome": "Oficina e Discussão de Proposta de Avaliação",
+      "lugar": "Auditório da Reitoria - Campus I da UFPB",
+      "dataInicio": "2018-08-14T15:30:00-03:00",
+      "dataFim": "2018-08-14T17:00:00-03:00",
+      "descricao": "1º momento: Oficina “Construção de uma proposta de Avaliação única padronizada para o Nordeste”. 2º momento: discussão e elaboração de uma minuta de proposta. Responsáveis: <b>Assis Leão (UFPB)</b>, <b>Conceição</b>, <b>José Mancinelli – UFPB</b>"
+    },
+    {
+      "nome": "Coquetel de encerramento",
+      "lugar": null,
+      "dataInicio": "2018-08-14T17:00:00-03:00",
+      "dataFim": null,
+      "descricao": null
+    }
+  ]

@@ -1,0 +1,254 @@
+[
+    {
+      "nome": "Credenciamento",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-27T08:30:00-03:00",
+      "dataFim": "2025-11-27T09:00:00-03:00"
+    },
+    {
+      "nome": "O papel do auditor na análise de cirurgias com OPME não regulamentado",
+      "descricao": "<p><b>Palestrante:</b> <b>Paulo Rebello</b></p><p>Ex-presidente da ANS</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T09:00:00-03:00",
+      "dataFim": "2025-11-27T09:50:00-03:00"
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-27T09:50:00-03:00",
+      "dataFim": "2025-11-27T10:20:00-03:00"
+    },
+    {
+      "nome": "Painel para debate",
+      "descricao": "<p>Auditoria avançada em neuro e endovasculares: medicina de precisão ou excesso</p><p><b>Dr. Daniel Abud</b></p><p>Neurorradiologista intervencionista</p><p><b>Dr. Ricardo Aun</b></p><p>Endovascular</p><p><b>Dr. Renato Faria</b></p><p>Auditor médico</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T10:20:00-03:00",
+      "dataFim": "2025-11-27T12:00:00-03:00"
+    },
+    {
+      "nome": "Revolução nas válvulas cardíacas: quando o TAVI vira regra, não exceção",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Leonardo Guimarães</b></p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T12:00:00-03:00",
+      "dataFim": "2025-11-27T12:50:00-03:00"
+    },
+    {
+      "nome": "Incorporação de novas tecnologias em neurocirurgia - Simpósio Medical Support",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Ricardo Santos de Oliveira</b></p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T12:50:00-03:00",
+      "dataFim": "2025-11-27T13:40:00-03:00"
+    },
+    {
+      "nome": "Almoço",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-27T13:40:00-03:00",
+      "dataFim": "2025-11-27T14:40:00-03:00"
+    },
+    {
+      "nome": "Cirurgia endoscópica de coluna: critérios técnicos para auditoria em procedimentos endoscópicos de coluna",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Rafael Sugino</b></p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T14:40:00-03:00",
+      "dataFim": "2025-11-27T15:30:00-03:00"
+    },
+    {
+      "nome": "Medicina esportiva, OPME e indicações: alta performance e auditoria em ortopedia esportiva - O que é justificável?",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Arnaldo Hernandez</b></p><p>Cirurgião especialista em medicina esportiva</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T15:30:00-03:00",
+      "dataFim": "2025-11-27T16:30:00-03:00"
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-27T16:30:00-03:00",
+      "dataFim": "2025-11-27T17:00:00-03:00"
+    },
+    {
+      "nome": "Cirurgia robótica: formas de otimizar e ampliar o uso",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Fabio Gandour</b></p><p>Médico e ex-cientista-chefe da IBM</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T17:00:00-03:00",
+      "dataFim": "2025-11-27T18:00:00-03:00"
+    },
+    {
+      "nome": "Intervalo",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-27T18:00:00-03:00",
+      "dataFim": "2025-11-27T18:30:00-03:00"
+    },
+    {
+      "nome": "Solenidades de abertura",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-27T18:30:00-03:00",
+      "dataFim": "2025-11-27T19:30:00-03:00"
+    },
+    {
+      "nome": "Palestra de abertura",
+      "descricao": "<p><b>Palestrante:</b> <b>Gustavo Loyola</b></p>",
+      "lugar": null,
+      "dataInicio": "2025-11-27T19:30:00-03:00",
+      "dataFim": "2025-11-27T20:30:00-03:00"
+    },
+    {
+      "nome": "Coquetel",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-27T20:30:00-03:00",
+      "dataFim": "2025-11-27T22:00:00-03:00"
+    },
+    {
+      "nome": "Credenciamento",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T08:30:00-03:00",
+      "dataFim": "2025-11-28T09:00:00-03:00"
+    },
+    {
+      "nome": "Boas práticas de combate à fraude - Seguros Unimed",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Fabiano Catran</b></p><p>Diretor executivo da Seguros Unimed</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T09:00:00-03:00",
+      "dataFim": "2025-11-28T09:40:00-03:00"
+    },
+    {
+      "nome": "O que a Unimed do Brasil vem desenvolvendo para combate às fraudes?",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Daniel Infante Januzzi de Carvalho</b></p><p>Superintendente jurídico da Unimed do Brasil</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T09:40:00-03:00",
+      "dataFim": "2025-11-28T10:20:00-03:00"
+    },
+    {
+      "nome": "Fraude no aspecto criminal",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Rodrigo Fragoso</b></p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T10:20:00-03:00",
+      "dataFim": "2025-11-28T11:00:00-03:00"
+    },
+    {
+      "nome": "Dúvidas",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T11:00:00-03:00",
+      "dataFim": "2025-11-28T11:20:00-03:00"
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T11:20:00-03:00",
+      "dataFim": "2025-11-28T11:40:00-03:00"
+    },
+    {
+      "nome": "IA na auditoria médica",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Sergio Dias</b></p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T11:40:00-03:00",
+      "dataFim": "2025-11-28T12:10:00-03:00"
+    },
+    {
+      "nome": "Pitch startup",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T12:10:00-03:00",
+      "dataFim": "2025-11-28T12:30:00-03:00"
+    },
+    {
+      "nome": "Visita aos stands",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T12:30:00-03:00",
+      "dataFim": "2025-11-28T14:00:00-03:00"
+    },
+    {
+      "nome": "Os desafios da sustentabilidade das operadoras de planos de saúde frente ao Poder Judiciário",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Clenio Schulze</b></p><p>Juiz federal em Blumenau</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T14:00:00-03:00",
+      "dataFim": "2025-11-28T14:50:00-03:00"
+    },
+    {
+      "nome": "O que esperar da regulação fiscalizatória para os próximos anos?",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Marcus Braz</b></p><p>Diretor adjunto da Diretoria de Fiscalização - ANS</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T14:50:00-03:00",
+      "dataFim": "2025-11-28T15:40:00-03:00"
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T15:40:00-03:00",
+      "dataFim": "2025-11-28T16:10:00-03:00"
+    },
+    {
+      "nome": "Segurança jurídica frente à IA",
+      "descricao": "<p><b>Palestrante:</b> <b>Odilon Oliveira</b></p><p>Gerente de privacidade e compliance e DPO na Unimed do Brasil</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T16:10:00-03:00",
+      "dataFim": "2025-11-28T17:00:00-03:00"
+    },
+    {
+      "nome": "Fechamento - Diretoria Executiva Ufenesp",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T17:00:00-03:00",
+      "dataFim": "2025-11-28T17:30:00-03:00"
+    },
+    {
+      "nome": "A saúde dos planos de saúde: os desafios da assistência privada no Brasil",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Drauzio Varella</b></p><p>Médico oncologista e escritor de livros</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-28T17:30:00-03:00",
+      "dataFim": "2025-11-28T18:30:00-03:00"
+    },
+    {
+      "nome": "Happy hour",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-28T18:30:00-03:00",
+      "dataFim": "2025-11-28T21:30:00-03:00"
+    },
+    {
+      "nome": "Credenciamento",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-29T08:00:00-03:00",
+      "dataFim": "2025-11-29T08:30:00-03:00"
+    },
+    {
+      "nome": "Explorando o Futuro - Deep Techs, Ai Economy e Era Quântica na Saúde",
+      "descricao": "<p><b>Palestrante:</b> <b>Gil Giardelli</b></p>",
+      "lugar": null,
+      "dataInicio": "2025-11-29T09:00:00-03:00",
+      "dataFim": "2025-11-29T10:30:00-03:00"
+    },
+    {
+      "nome": "-",
+      "descricao": "<p><b>Palestrante:</b> <b>Eleuses Paiva</b></p><p>Secretário de saúde do estado de São Paulo</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-29T10:30:00-03:00",
+      "dataFim": "2025-11-29T11:30:00-03:00"
+    },
+    {
+      "nome": "Cenário Político Brasileiro: Perspectivas Éticas e Estratégicas para as Políticas de Saúde Pública e Suplementar",
+      "descricao": "<p><b>Palestrante:</b> <b>Fernando Schüler</b></p><p>Cientista político</p>",
+      "lugar": null,
+      "dataInicio": "2025-11-29T11:30:00-03:00",
+      "dataFim": "2025-11-29T12:30:00-03:00"
+    },
+    {
+      "nome": "Encerramento",
+      "descricao": null,
+      "lugar": null,
+      "dataInicio": "2025-11-29T12:30:00-03:00",
+      "dataFim": "2025-11-29T13:00:00-03:00"
+    }
+  ]

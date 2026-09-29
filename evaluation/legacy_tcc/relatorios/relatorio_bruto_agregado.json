@@ -1,0 +1,257 @@
+[
+  {
+    "arquivo": ".\\Bioeconomia-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 21,
+    "fp": 5,
+    "fn": 4,
+    "field_counts": {
+      "nome": 21,
+      "lugar": 14,
+      "dataInicio": 15,
+      "dataFim": 16,
+      "descricao": 18
+    }
+  },
+  {
+    "arquivo": ".\\ForumCPA-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 17,
+    "fp": 2,
+    "fn": 2,
+    "field_counts": {
+      "nome": 17,
+      "lugar": 13,
+      "dataInicio": 17,
+      "dataFim": 16,
+      "descricao": 9
+    }
+  },
+  {
+    "arquivo": ".\\MannaMuseu-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 39,
+    "fp": 0,
+    "fn": 1,
+    "field_counts": {
+      "nome": 39,
+      "lugar": 13,
+      "dataInicio": 37,
+      "dataFim": 31,
+      "descricao": 19
+    }
+  },
+  {
+    "arquivo": ".\\OPMED-html.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 36,
+    "fp": 0,
+    "fn": 0,
+    "field_counts": {
+      "nome": 36,
+      "lugar": 36,
+      "dataInicio": 36,
+      "dataFim": 35,
+      "descricao": 36
+    }
+  },
+  {
+    "arquivo": ".\\SEBRAE-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 33,
+    "fp": 0,
+    "fn": 1,
+    "field_counts": {
+      "nome": 33,
+      "lugar": 19,
+      "dataInicio": 0,
+      "dataFim": 0,
+      "descricao": 33
+    }
+  },
+  {
+    "arquivo": ".\\SemanaAcademicaUSP-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 24,
+    "fp": 1,
+    "fn": 1,
+    "field_counts": {
+      "nome": 24,
+      "lugar": 22,
+      "dataInicio": 24,
+      "dataFim": 24,
+      "descricao": 14
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia1-1-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 5,
+    "fp": 0,
+    "fn": 0,
+    "field_counts": {
+      "nome": 5,
+      "lugar": 5,
+      "dataInicio": 5,
+      "dataFim": 5,
+      "descricao": 5
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia1-2-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 5,
+    "fp": 0,
+    "fn": 0,
+    "field_counts": {
+      "nome": 5,
+      "lugar": 0,
+      "dataInicio": 4,
+      "dataFim": 5,
+      "descricao": 5
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia2-1-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 4,
+    "fp": 0,
+    "fn": 0,
+    "field_counts": {
+      "nome": 4,
+      "lugar": 4,
+      "dataInicio": 4,
+      "dataFim": 4,
+      "descricao": 4
+    }
+  },
+  {
+    "arquivo": "MFP2025\\dia2-2-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "field_counts": {
+      "nome": 2,
+      "lugar": 2,
+      "dataInicio": 2,
+      "dataFim": 2,
+      "descricao": 1
+    }
+  },
+  {
+    "arquivo": "SECOM2023\\Secom2023-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 10,
+    "fp": 6,
+    "fn": 4,
+    "field_counts": {
+      "nome": 10,
+      "lugar": 10,
+      "dataInicio": 10,
+      "dataFim": 6,
+      "descricao": 6
+    }
+  },
+  {
+    "arquivo": "SECOM2024\\Secom2024-img.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 20,
+    "fp": 7,
+    "fn": 8,
+    "field_counts": {
+      "nome": 20,
+      "lugar": 13,
+      "dataInicio": 6,
+      "dataFim": 0,
+      "descricao": 20
+    }
+  },
+  {
+    "arquivo": "SECOM2024\\Secom2024-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 23,
+    "fp": 8,
+    "fn": 5,
+    "field_counts": {
+      "nome": 23,
+      "lugar": 23,
+      "dataInicio": 2,
+      "dataFim": 2,
+      "descricao": 23
+    }
+  },
+  {
+    "arquivo": "SECOM2024\\Secom2024-planilha.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 25,
+    "fp": 5,
+    "fn": 3,
+    "field_counts": {
+      "nome": 25,
+      "lugar": 25,
+      "dataInicio": 0,
+      "dataFim": 0,
+      "descricao": 25
+    }
+  },
+  {
+    "arquivo": "WIT2025\\Dia1-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 8,
+    "fp": 1,
+    "fn": 1,
+    "field_counts": {
+      "nome": 8,
+      "lugar": 6,
+      "dataInicio": 8,
+      "dataFim": 8,
+      "descricao": 5
+    }
+  },
+  {
+    "arquivo": "WIT2025\\Dia2-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 7,
+    "fp": 3,
+    "fn": 3,
+    "field_counts": {
+      "nome": 7,
+      "lugar": 7,
+      "dataInicio": 7,
+      "dataFim": 7,
+      "descricao": 6
+    }
+  },
+  {
+    "arquivo": "WIT2025\\Dia3-pdf.json",
+    "status": "sucesso",
+    "mensagem": "",
+    "tp": 12,
+    "fp": 0,
+    "fn": 0,
+    "field_counts": {
+      "nome": 12,
+      "lugar": 3,
+      "dataInicio": 12,
+      "dataFim": 12,
+      "descricao": 5
+    }
+  }
+]

@@ -1,0 +1,325 @@
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Credenciamento
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-04T07:00:00-03:00
+  - Recebido (LLM):2024-12-04T07:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Credenciamento
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-04T08:00:00-03:00
+  - Recebido (LLM):2024-12-04T08:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Cerimônia de Abertura
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-04T08:00:00-03:00
+  - Recebido (LLM):2024-12-04T08:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Umbu Games - João Victor - O mercado de jogos ainda é promissor?
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T08:00:00-03:00
+  - Recebido (LLM):2024-12-04T09:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Umbu Games - João Victor - O mercado de jogos ainda é promissor?
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T09:30:00-03:00
+  - Recebido (LLM):2024-12-04T10:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Coffe Break
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-04T11:00:00-03:00
+  - Recebido (LLM):2024-12-04T10:45:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Studio Sol
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T10:00:00-03:00
+  - Recebido (LLM):2024-12-04T10:45:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Studio Sol
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T10:45:00-03:00
+  - Recebido (LLM):2024-12-04T12:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Intervalo
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-04T12:30:00-03:00
+  - Recebido (LLM):2024-12-04T12:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Intervalo
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-04T14:00:00-03:00
+  - Recebido (LLM):2024-12-04T13:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Sydle - Transformação Digital: Estratégias para Construir o Futuro das Organizações
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T12:30:00-03:00
+  - Recebido (LLM):2024-12-04T13:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Sydle - Transformação Digital: Estratégias para Construir o Futuro das Organizações
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T13:00:00-03:00
+  - Recebido (LLM):2024-12-04T15:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra dti Digital - Gerando Valor com Dados
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T14:00:00-03:00
+  - Recebido (LLM):2024-12-04T15:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra dti Digital - Gerando Valor com Dados
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T15:00:00-03:00
+  - Recebido (LLM):2024-12-04T16:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Sempre Internet - LGPD Lei Geral de Proteção de Dados
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T16:00:00-03:00
+  - Recebido (LLM):2024-12-04T16:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Sempre Internet - LGPD Lei Geral de Proteção de Dados
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T17:00:00-03:00
+  - Recebido (LLM):2024-12-04T18:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Torneio e-sport
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-04T18:00:00-03:00
+  - Recebido (LLM):2024-12-04T13:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Torneio e-sport
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-04T21:30:00-03:00
+  - Recebido (LLM):2024-12-04T22:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Credenciamento
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T07:00:00-03:00
+  - Recebido (LLM):2024-12-05T07:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Credenciamento
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T08:00:00-03:00
+  - Recebido (LLM):2024-12-05T08:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra de Abertura - Pedro Lacerda - O futuro do desenvolvimento de software com assistentes de inteligência artificial
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-04T09:00:00-03:00
+  - Recebido (LLM):2024-12-05T08:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra de Abertura - Pedro Lacerda - O futuro do desenvolvimento de software com assistentes de inteligência artificial
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-04T10:30:00-03:00
+  - Recebido (LLM):2024-12-05T10:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Letras
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T10:45:00-03:00
+  - Recebido (LLM):2024-12-05T10:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Letras
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T11:30:00-03:00
+  - Recebido (LLM):2024-12-05T12:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Intervalo
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T12:45:00-03:00
+  - Recebido (LLM):2024-12-05T12:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Intervalo
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T14:00:00-03:00
+  - Recebido (LLM):2024-12-05T13:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Maratona de Programação
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T18:30:00-03:00
+  - Recebido (LLM):2024-12-05T18:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   GameJam
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T22:30:00-03:00
+  - Recebido (LLM):2024-12-06T18:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Minicursos
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-06T07:30:00-03:00
+  - Recebido (LLM):2024-12-06T08:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Minicursos
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-06T17:00:00-03:00
+  - Recebido (LLM):2024-12-06T12:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra de Abertura - Daniel Hasan - Desmistificando a Inteligência Artificial
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-04T11:00:00-03:00
+  - Recebido (LLM):2024-12-06T08:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra de Abertura - Daniel Hasan - Desmistificando a Inteligência Artificial
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-04T12:30:00-03:00
+  - Recebido (LLM):2024-12-06T10:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Levty - Izabela Costa Brant - Gestão de Projeto Ágil
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T11:30:00-03:00
+  - Recebido (LLM):2024-12-06T10:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Palestra Levty - Izabela Costa Brant - Gestão de Projeto Ágil
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T12:30:00-03:00
+  - Recebido (LLM):2024-12-06T11:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Estratégia Ágil para Startups: Como Priorizar, Adaptar e Superar Desafios
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-05T17:00:00-03:00
+  - Recebido (LLM):2024-12-06T11:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Estratégia Ágil para Startups: Como Priorizar, Adaptar e Superar Desafios
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-05T18:00:00-03:00
+  - Recebido (LLM):2024-12-06T12:45:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Intervalo
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-06T12:00:00-03:00
+  - Recebido (LLM):2024-12-06T12:45:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Intervalo
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-06T12:30:00-03:00
+  - Recebido (LLM):2024-12-06T14:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   SIPEEC
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-04T14:00:00-03:00
+  - Recebido (LLM):2024-12-06T14:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   SIPEEC
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-04T18:00:00-03:00
+  - Recebido (LLM):2024-12-06T16:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Premiações
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-06T17:30:00-03:00
+  - Recebido (LLM):2024-12-06T16:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Premiações
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-06T18:00:00-03:00
+  - Recebido (LLM):2024-12-06T17:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Cerimônia Encerramento
+  - Campo:       dataInicio
+  - Esperado (GT): 2024-12-06T18:00:00-03:00
+  - Recebido (LLM):2024-12-06T17:30:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Cerimônia Encerramento
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-06T19:00:00-03:00
+  - Recebido (LLM):2024-12-06T18:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2024.json
+  - Atividade:   Torneio e-sport
+  - Campo:       dataFim
+  - Esperado (GT): 2024-12-06T21:30:00-03:00
+  - Recebido (LLM):2024-12-06T22:00:00-03:00
+--------------------------------------------------
+ERRO DE CAMPO DETECTADO
+  - Arquivo:     Secom2023-img.json
+  - Atividade:   CERIMÔNIA E PALESTRA DE ABERTURA
+  - Campo:       dataInicio
+  - Esperado (GT): 2023-09-28T100:00:00-03:00
+  - Recebido (LLM):2023-09-28T09:30:00-03:00
+
+==================================================
+Total de erros de campo ('dataInicio' e 'dataFim') encontrados: 46
