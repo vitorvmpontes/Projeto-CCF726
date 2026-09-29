@@ -15,6 +15,9 @@ data/interim/*
 !data/raw/.gitkeep
 !data/interim/.gitkeep
 
+# Ignorar o roadmap
+docs/ROADMAP.md
+
 # Python
 __pycache__/
 *.pyc
