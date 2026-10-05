@@ -1,0 +1,41 @@
+[
+  {
+    "nome": "Credenciamento, Coffee Break e Visita aos estandes",
+    "descricao": "<p>Credenciamento, Coffee Break e Visita aos estandes.</p>",
+    "lugarId": "",
+    "tagIds": [],
+    "eventoId": "",
+    "dataInicio": "2024-06-14T14:00:00-03:00",
+    "dataFim": "2024-06-14T15:30:00-03:00",
+    "configuracoes": {
+      "checkin": false,
+      "perguntar": false
+    }
+  },
+  {
+    "nome": "Abertura do Evento",
+    "descricao": "<p>Abertura do Evento.</p>",
+    "lugarId": "",
+    "tagIds": [],
+    "eventoId": "",
+    "dataInicio": "2024-06-14T15:35:00-03:00",
+    "dataFim": "2024-06-14T16:00:00-03:00",
+    "configuracoes": {
+      "checkin": false,
+      "perguntar": false
+    }
+  },
+  {
+    "nome": "Palestra da BOSCH",
+    "descricao": "<p>Palestra da BOSCH.</p>",
+    "lugarId": "",
+    "tagIds": [],
+    "eventoId": "",
+    "dataInicio": "2024-06-14T16:00:00-03:00",
+    "dataFim": "2024-06-14T17:00:00-03:00",
+    "configuracoes": {
+      "checkin": false,
+      "perguntar": false
+    }
+  }
+]

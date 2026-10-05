@@ -1,0 +1,71 @@
+{
+  "gerado_em": "2026-10-05T19:48:24+00:00",
+  "predicoes": "data/test/baseline_gemini",
+  "manifest": "data/test/manifest.csv",
+  "arquivos_avaliados": 17,
+  "limiar_aproximado": 0.9,
+  "bootstrap": {
+    "reamostras": 2000,
+    "semente": 42
+  },
+  "validade": {
+    "json_valido": 1.0,
+    "atividades_no_schema": 0.993920972644377
+  },
+  "exato": {
+    "tp": 294,
+    "fp": 35,
+    "fn": 30,
+    "precisao": 0.8936170212765957,
+    "revocacao": 0.9074074074074074,
+    "f1": 0.900459418070444,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.830936382580691,
+        0.9526870679937433
+      ],
+      "revocacao": [
+        0.8594142149108932,
+        0.950180393621832
+      ],
+      "f1": [
+        0.8454962252775097,
+        0.9512797519826542
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.7414965986394558,
+      "dataInicio": 0.6496598639455783,
+      "dataFim": 0.5918367346938775,
+      "descricao": 0.8707482993197279
+    }
+  },
+  "aproximado": {
+    "tp": 302,
+    "fp": 27,
+    "fn": 22,
+    "precisao": 0.9179331306990881,
+    "revocacao": 0.9320987654320988,
+    "f1": 0.9249617151607963,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.8710829677641956,
+        0.9643772079349786
+      ],
+      "revocacao": [
+        0.8909627155456101,
+        0.9640906654572442
+      ],
+      "f1": [
+        0.8826248631026666,
+        0.9637673936487661
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.7483443708609272,
+      "dataInicio": 0.6490066225165563,
+      "dataFim": 0.5927152317880795,
+      "descricao": 0.8708609271523179
+    }
+  }
+}

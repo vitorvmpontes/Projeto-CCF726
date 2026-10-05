@@ -1,0 +1,225 @@
+{
+  "atividades": [
+    {
+      "nome": "Credenciamento",
+      "lugarId": "",
+      "dataInicio": "2024-12-04T07:00:00-03:00",
+      "dataFim": "2024-12-04T08:00:00-03:00",
+      "descricao": "<p>Credenciamento para o primeiro dia do evento.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Abertura",
+      "lugarId": "",
+      "dataInicio": "2024-12-04T08:00:00-03:00",
+      "dataFim": "2024-12-09T08:30:00-03:00",
+      "descricao": "<p>Cerimônia de abertura do evento.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra: O Futuro do Desenvolvimento de Software com Assistentes de IA",
+      "lugarId": "",
+      "dataInicio": "2024-12-04T08:30:00-03:00",
+      "dataFim": "2024-12-04T10:00:00-03:00",
+      "descricao": "<p>Palestra sobre <i>O Futuro do Desenvolvimento de Software com Assistentes de IA</i>.</p><p><b>Palestrante:</b> <b>Pedro Lacerda</b></p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee Break",
+      "lugarId": "",
+      "dataInicio": "2024-12-04T10:00:00-03:00",
+      "dataFim": "2024-12-04T10:30:00-03:00",
+      "descricao": "<p>Intervalo para café.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra: Desmistificando a Inteligência Artificial",
+      "lugarId": "LEVTY",
+      "dataInicio": "2024-12-04T10:30:00-03:00",
+      "dataFim": "2024-12-04T12:00:00-03:00",
+      "descricao": "<p>Palestra abordando o tema <i>Desmistificando a Inteligência Artificial</i>.</p><p><b>Palestrante:</b> <b>Daniel Hasan</b></p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Intervalo",
+      "lugarId": "",
+      "dataInicio": "2024-12-04T12:00:00-03:00",
+      "dataFim": "2024-12-04T13:30:00-03:00",
+      "descricao": "<p>Intervalo para almoço.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Credenciamento - 05/12",
+      "lugarId": "",
+      "dataInicio": "2024-12-05T07:00:00-03:00",
+      "dataFim": "2024-12-05T08:00:00-03:00",
+      "descricao": "<p>Credenciamento para o segundo dia do evento.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra: O Mercado de Jogos Ainda é Promissor?",
+      "lugarId": "studiosol",
+      "dataInicio": "2024-12-05T08:00:00-03:00",
+      "dataFim": "2024-12-05T10:00:00-03:00",
+      "descricao": "<p>Palestra sobre <i>O Mercado de Jogos Ainda é Promissor?</i>.</p><p><b>Palestrante:</b> <b>João Vitor</b></p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee Break - 05/12",
+      "lugarId": "",
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T10:30:00-03:00",
+      "descricao": "<p>Intervalo para café.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Gestão de Projeto Ágil",
+      "lugarId": "letras",
+      "dataInicio": "2024-12-05T10:30:00-03:00",
+      "dataFim": "2024-12-05T12:00:00-03:00",
+      "descricao": "<p>Atividade sobre <i>Gestão de Projeto Ágil</i>.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Intervalo - 05/12",
+      "lugarId": "",
+      "dataInicio": "2024-12-05T12:00:00-03:00",
+      "dataFim": "2024-12-05T13:30:00-03:00",
+      "descricao": "<p>Intervalo para almoço.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Metodologias Ágeis",
+      "lugarId": "alfa",
+      "dataInicio": "2024-12-05T13:30:00-03:00",
+      "dataFim": "2024-12-05T15:00:00-03:00",
+      "descricao": "<p>Sessão sobre <i>Metodologias Ágeis</i>.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Gerando Valor com Dados",
+      "lugarId": "dti",
+      "dataInicio": "2024-12-05T13:30:00-03:00",
+      "dataFim": "2024-12-05T15:00:00-03:00",
+      "descricao": "<p>Sessão sobre <i>Gerando Valor com Dados</i>.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Credenciamento - 06/12",
+      "lugarId": "",
+      "dataInicio": "2024-12-06T07:00:00-03:00",
+      "dataFim": "2024-12-06T08:00:00-03:00",
+      "descricao": "<p>Credenciamento para o terceiro dia do evento.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Minicursos",
+      "lugarId": "studiosol",
+      "dataInicio": "2024-12-06T08:00:00-03:00",
+      "dataFim": "2024-12-06T12:00:00-03:00",
+      "descricao": "<p>Realização de minicursos práticos.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Intervalo - 06/12",
+      "lugarId": "",
+      "dataInicio": "2024-12-06T12:00:00-03:00",
+      "dataFim": "2024-12-06T13:30:00-03:00",
+      "descricao": "<p>Intervalo para almoço.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Premiações e Encerramento",
+      "lugarId": "",
+      "dataInicio": "2024-12-06T17:00:00-03:00",
+      "dataFim": "2024-12-06T18:30:00-03:00",
+      "descricao": "<p>Cerimônia de premiações e encerramento oficial do evento.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

@@ -24,6 +24,7 @@ __pycache__/
 .venv/
 venv/
 .ipynb_checkpoints/
+.pytest_cache/
 
 # Segredos (o .env.example é versionado)
 .env

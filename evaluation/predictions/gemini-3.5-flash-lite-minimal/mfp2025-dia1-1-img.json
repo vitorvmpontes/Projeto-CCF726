@@ -1,0 +1,43 @@
+{
+  "atividades": [
+    {
+      "nome": "Credenciamento, Coffee Break e Visita aos estandes",
+      "lugarId": "",
+      "dataInicio": "2025-06-14T14:00:00-03:00",
+      "dataFim": "2025-06-14T15:30:00-03:00",
+      "descricao": "<p>Credenciamento, Coffee Break e Visita aos estandes.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Abertura do Evento",
+      "lugarId": "",
+      "dataInicio": "2025-06-14T15:35:00-03:00",
+      "dataFim": "2025-06-14T16:00:00-03:00",
+      "descricao": "<p>Abertura oficial do evento.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra da BOSCH",
+      "lugarId": "",
+      "dataInicio": "2025-06-14T16:00:00-03:00",
+      "dataFim": "2025-06-14T17:00:00-03:00",
+      "descricao": "<p>Palestra apresentada pela BOSCH.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

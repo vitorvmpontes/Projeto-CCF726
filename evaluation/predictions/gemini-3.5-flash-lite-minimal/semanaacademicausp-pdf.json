@@ -1,0 +1,329 @@
+{
+  "atividades": [
+    {
+      "nome": "ABERTURA OFICIAL DA SEMANA ACADÊMICA",
+      "descricao": "<p>Abertura oficial da Semana Acadêmica EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL - USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-14T14:00:00-03:00",
+      "dataFim": "2024-10-14T14:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "APRESENTAÇÃO MUSICAL: QUARTETEEN COM ESTUDANTES DO COTEL",
+      "descricao": "<p>Atividade da Semana de Arte e Cultura organizada pela Comissão de Cultura e Extensão (CCEx) da EEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL - USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-14T14:30:00-03:00",
+      "dataFim": "2024-10-14T14:40:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “A IMPORTÂNCIA DO PROTAGONISMO NA SUA JORNADA DE CRESCIMENTO”",
+      "descricao": "<p>Palestra com <b>KAREN RODRIGUES</b> – Gerente de Recursos Humanos da P&G – Convidada da Comissão de Graduação da EEL-USP (Apoio: EMPOWER).</p><p>Karen é líder de marca empregadora e atração da P&G Brasil. Tem paixão pelas causas sociais e como mulher indígena quer fazer a diferença em todas as minorias.</p>",
+      "lugarId": "ANFITEATRO DA EEL - USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-14T14:40:00-03:00",
+      "dataFim": "2024-10-14T15:45:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Apresentação dos trabalhos do Edital do 32º Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP)",
+      "descricao": "<p>Apresentação dos trabalhos do Edital do 32º SIICUSP organizado pela Comissão de Pesquisa (CPq).</p>",
+      "lugarId": "ANFITEATRO DA EEL - USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-14T15:45:00-03:00",
+      "dataFim": "2024-10-14T16:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "COFFEE BREAK",
+      "descricao": "<p>Intervalo para café.</p>",
+      "lugarId": "ANFITEATRO DA EEL - USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-14T16:30:00-03:00",
+      "dataFim": "2024-10-14T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “INDÚSTRIA 4.0 : O PAPEL DA INTELIGÊNCIA HUMANA NA ERA DA INTELIGÊNCIA ARTIFICIAL (GET UP)”",
+      "descricao": "<p>Palestra com <b>RODRIGO RIGHETTI</b> - CEO e CCO da RR&C - Convidado do EMPREEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-15T10:00:00-03:00",
+      "dataFim": "2024-10-15T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "ATIVIDADE DA SEMANA DE ARTE E CULTURA",
+      "descricao": "<p>Atividade da Semana de Arte e Cultura organizada pela CCEx da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-15T13:00:00-03:00",
+      "dataFim": "2024-10-15T14:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “BEM-VINDOS À P&G: O QUE VOCÊ SEMPRE QUIS SABER SOBRE UMA DAS MAIORES INDÚSTRIAS DE BENS E CONSUMO DO MUNDO”",
+      "descricao": "<p>Palestra com <b>WEVERTON FRANÇA</b> – Gerente de Logística da P&G - Da Comissão de Graduação da EEL-USP (Apoio: EMPOWER).</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-15T14:00:00-03:00",
+      "dataFim": "2024-10-15T15:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “A ARTE DA COMUNICAÇÃO EM PÚBLICO (GET UP)”",
+      "descricao": "<p>Palestra com <b>FERNANDO ARAUTO</b> – Mentor e Palestrante Especialista em Comunicação - Convidado do EMPREEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-15T15:30:00-03:00",
+      "dataFim": "2024-10-15T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "APRESENTAÇÃO MUSICAL – BANDA 6 SIGMA",
+      "descricao": "<p>Atividade da Semana de Arte e Cultura organizada pela CCEx da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-15T17:30:00-03:00",
+      "dataFim": "2024-10-15T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “POLIVALÊNCIA DO ENGENHEIRO NA INDÚSTRIA AGROQUÍMICA”",
+      "descricao": "<p>Palestra com <b>OTÁVIO AUGUSTO DA SILVA</b> – Consultor de Projetos Agro da BASF - Convidado da Comissão de Graduação da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-15T19:00:00-03:00",
+      "dataFim": "2024-10-15T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “INTERCÂMBIOS ACADÊMICOS: OPORTUNIDADES E EXPERIÊNCIAS”",
+      "descricao": "<p>Palestra com <b>JÚLIO ANTÔNIO CONTI SILVA</b> – Pesquisador no Departamento de Biotecnologia da EEL-USP (DEBIQ) - Convidado da Comissão de Graduação da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-15T20:15:00-03:00",
+      "dataFim": "2024-10-15T21:15:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “BULLYING: UM OLHAR FORA DA CAIXA”",
+      "descricao": "<p>Palestra com <b>DR. LUIZ FERNANDO RABELO CHACON</b> – Sócio do Escritório CMO Advogados - Convidado da Comissão de Inclusão e Pertencimento da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-16T10:00:00-03:00",
+      "dataFim": "2024-10-16T11:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “MULHERES NA INDÚSTRIA”",
+      "descricao": "<p>Palestra com <b>NAYARA OLIVEIRA</b> - Especialista de Manutenção na Tenaris - Convidada da Comissão de Graduação da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-16T11:15:00-03:00",
+      "dataFim": "2024-10-16T12:15:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "FEIRA DE CARREIRAS",
+      "descricao": "<p>Feira de Carreiras da Semana Acadêmica.</p>",
+      "lugarId": "CENTRO DE EVENTOS EM FRENTE AO ECOVALE SHOPPING",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-16T13:00:00-03:00",
+      "dataFim": "2024-10-16T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "ATIVIDADE DA SEMANA DE ARTE E CULTURA",
+      "descricao": "<p>Atividade da Semana de Arte e Cultura organizada pela CCEx da EEL-USP.</p>",
+      "lugarId": "CENTRO DE EVENTOS EM FRENTE AO ECOVALE SHOPPING",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-16T18:00:00-03:00",
+      "dataFim": "2024-10-16T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “ANÁLISE DE MODELOS DE NEGÓCIOS + WORKSHOP DE EXCEL (GET UP)”",
+      "descricao": "<p>Palestra com <b>RENATO ARAKAKI</b> - BTC – Convidado do EMPREEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-16T19:00:00-03:00",
+      "dataFim": "2024-10-16T21:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “ANÁLISE TÉRMICA APLICADA AO ESTUDO DE FIBRA CAPILAR”",
+      "descricao": "<p>Palestra com <b>PROFA. DRA. CIBELE DE CASTRO LIMA</b> – Empresária no Instituto Scienza - Educação em Tricologia e Estética - Convidada da Comissão de Graduação da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T10:00:00-03:00",
+      "dataFim": "2024-10-17T11:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “ENGENHARIA E PROPÓSITO: DESAFIOS NAS INDÚSTRIAS”",
+      "descricao": "<p>Palestra com <b>CAROL RAMUNNO</b> – Gerdau - Convidada do EMPREEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T11:15:00-03:00",
+      "dataFim": "2024-10-17T12:15:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "ATIVIDADE DA SEMANA DE ARTE E CULTURA",
+      "descricao": "<p>Atividade da Semana de Arte e Cultura organizada pela CCEx da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T13:00:00-03:00",
+      "dataFim": "2024-10-17T14:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "CERTIFICAÇÃO WHITE BELT – LEAN SIX SIGMA",
+      "descricao": "<p>Organização realizada pelo EMPREEL com <b>RICARDO KENJI NAGANO</b> – Diretor Presidente da RL&Associados.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T14:00:00-03:00",
+      "dataFim": "2024-10-17T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “EMPREENDEDORISMO UNIVERSITÁRIO E CARREIRAS”",
+      "descricao": "<p>Palestra com <b>GILBERTO PATRI</b> - Start Carreiras - Convidado pelo EMPREEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T16:30:00-03:00",
+      "dataFim": "2024-10-17T17:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "ATIVIDADE DA SEMANA DE ARTE E CULTURA",
+      "descricao": "<p>Atividade da Semana de Arte e Cultura organizada pela CCEx da EEL-USP.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T18:00:00-03:00",
+      "dataFim": "2024-10-17T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “ATUE COM TRANSPARÊNCIA, PROMOVA A EQUIDADE E SEJA DONO DA PRÓPRIA CARREIRA”",
+      "descricao": "<p>Palestra com <b>VALÉRIA SPECHOTTO</b> – Ex Vice Presidente de Cadeia de Suprimentos da Johnson&Johnson - Convidada do EMPREEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T19:00:00-03:00",
+      "dataFim": "2024-10-17T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: “SEGURANÇA DE PROCESSOS: O DESAFIO NAS INDÚSTRIAS”",
+      "descricao": "<p>Palestra com <b>SAULO KITATANI</b> – BASF - Convidado do EMPREEL.</p>",
+      "lugarId": "ANFITEATRO DA EEL – USP",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-10-17T20:15:00-03:00",
+      "dataFim": "2024-10-17T21:15:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

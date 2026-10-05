@@ -1,0 +1,29 @@
+{
+  "modelo": "gemini-3.6-flash",
+  "thinking": "low",
+  "gerado_em": "2026-10-05T19:15:39+00:00",
+  "arquivos": 17,
+  "repeticoes": 3,
+  "chamadas_ok": 51,
+  "chamadas_com_erro": 0,
+  "latencia_s": {
+    "media": 12.381980392156862,
+    "mediana": 13.789,
+    "p95": 25.93
+  },
+  "tokens_por_s_medio": 240.43333333333334,
+  "tokens_medios": {
+    "entrada": 2290.6470588235293,
+    "saida": 3211.1176470588234,
+    "raciocinio": 0
+  },
+  "custo_usd": {
+    "total_17_arquivos": 0.2339145,
+    "por_programacao": 0.013759676470588235,
+    "tabela_precos_usd_por_1M": {
+      "entrada": 0.75,
+      "saida": 3.75
+    }
+  },
+  "observacao": "Latência medida no cliente (inclui rede). Custo estimado pelos tokens da 1ª repetição."
+}

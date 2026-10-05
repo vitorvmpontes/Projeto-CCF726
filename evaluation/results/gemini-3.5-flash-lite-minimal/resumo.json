@@ -1,0 +1,71 @@
+{
+  "gerado_em": "2026-10-05T19:48:25+00:00",
+  "predicoes": "evaluation/predictions/gemini-3.5-flash-lite-minimal",
+  "manifest": "data/test/manifest.csv",
+  "arquivos_avaliados": 17,
+  "limiar_aproximado": 0.9,
+  "bootstrap": {
+    "reamostras": 2000,
+    "semente": 42
+  },
+  "validade": {
+    "json_valido": 1.0,
+    "atividades_no_schema": 1.0
+  },
+  "exato": {
+    "tp": 237,
+    "fp": 60,
+    "fn": 87,
+    "precisao": 0.797979797979798,
+    "revocacao": 0.7314814814814815,
+    "f1": 0.7632850241545894,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.6740414678958226,
+        0.9005978369218499
+      ],
+      "revocacao": [
+        0.584099909990999,
+        0.8655563565908937
+      ],
+      "f1": [
+        0.6281158813091483,
+        0.8807839810944618
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.5189873417721519,
+      "dataInicio": 0.7172995780590717,
+      "dataFim": 0.6582278481012658,
+      "descricao": 0.12658227848101267
+    }
+  },
+  "aproximado": {
+    "tp": 260,
+    "fp": 37,
+    "fn": 64,
+    "precisao": 0.8754208754208754,
+    "revocacao": 0.8024691358024691,
+    "f1": 0.8373590982286634,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.7560234939759036,
+        0.9594207046085059
+      ],
+      "revocacao": [
+        0.6479177462321644,
+        0.9260623888437391
+      ],
+      "f1": [
+        0.7036996066863324,
+        0.937615406641541
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.5192307692307693,
+      "dataInicio": 0.7192307692307692,
+      "dataFim": 0.6576923076923077,
+      "descricao": 0.12307692307692308
+    }
+  }
+}

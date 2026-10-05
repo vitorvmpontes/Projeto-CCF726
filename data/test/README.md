@@ -7,7 +7,8 @@
 | `files/` | Arquivos originais das programações (18) | repositório `dataset-extracao-eventos`, pasta `programações/` |
 | `ground_truth/` | Anotação manual (17) | repositório `POC---Vitor-`, pasta `conjunto de validação/Manual/` |
 | `baseline_gemini/` | Saídas do Gemini 2.0-Flash (temperatura 0, modo JSON) usadas no TCC (17) | repositório `POC---Vitor-`, pasta `conjunto de validação/IA/` |
-| `raw_text/` | Textos brutos extraídos na fase 1 do pipeline (15 de 18) | repositório `POC---Vitor-`, pasta `textos/` |
+| `raw_text/` | Textos brutos extraídos na fase 1 do pipeline (18 de 18, congelados) | 15 do repositório `POC---Vitor-` (`textos/`) + 3 gerados com `extraction/` |
+| `ANOTACAO.md` | Regra de anotação dos gabaritos | — |
 | `manifest.csv` | Mapeamento id → evento, formato, arquivos, extrator e origem | — |
 
 Os arquivos foram renomeados para `<evento>-<formato>`. O conteúdo não foi alterado.
@@ -18,7 +19,7 @@ Os gabaritos e as saídas do Gemini vêm do repositório de trabalho do TCC (`PO
 
 - P = 88,75%, R = 90,12%, F1 = 0,8943 (TP 292, FP 37, FN 32)
 
-Alteração posterior: em 2026-09-29 foram corrigidos dois erros de digitação no gabarito `secom2024-img` ("PROMESSOR" → "PROMISSOR", "DESMISFICANDO" → "DESMISTIFICANDO"). Com isso, os números mudam em relação ao artigo. Os gabaritos ainda vão passar por uma revisão completa, com uma regra de anotação única.
+Alteração posterior: em 2026-09-29 foram corrigidos dois erros de digitação no gabarito `secom2024-img` ("PROMESSOR" → "PROMISSOR", "DESMISFICANDO" → "DESMISTIFICANDO"). Com isso, os números mudam em relação ao artigo. Em 2026-10-05 os nomes foram revisados e confirmados segundo a regra de `ANOTACAO.md`.
 
 A versão pública difere em 4 gabaritos (Bioeconomia, SECOM2024 imagem e PDF, WIT2025 dia 2) e em 1 saída do Gemini (Bioeconomia). Com ela, o mesmo script dá F1 ≈ 0,82.
 
@@ -26,7 +27,9 @@ A versão pública difere em 4 gabaritos (Bioeconomia, SECOM2024 imagem e PDF, W
 
 - PDFs: PyMuPDF, `page.get_text("text")`, páginas concatenadas.
 - Imagens: Google Vision `TEXT_DETECTION` (mantido também no extrator novo).
-- **Pendentes** (a gerar com o extrator portado): `opmed-html` (BeautifulSoup), `secom2024-img` (OCR) e `secom2024-planilha` (Pandas).
+- HTML (`opmed-html`): BeautifulSoup, uma linha por elemento de bloco. Gerado com `extraction/`.
+- Planilha (`secom2024-planilha`): Pandas, uma linha por linha da planilha, células separadas por ` | `. Gerado com `extraction/`.
+- `secom2024-img`: Google Vision `TEXT_DETECTION`, gerado com `extraction/` em 2026-10-05. O texto que o Gemini recebeu no TCC para este arquivo não foi preservado; a entrada congelada aqui é uma nova chamada de OCR.
 - `secom2023-img` tem texto, mas não tem ground truth: não entra na avaliação.
 
 ## Observações

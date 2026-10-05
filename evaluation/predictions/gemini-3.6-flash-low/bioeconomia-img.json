@@ -1,0 +1,303 @@
+{
+  "atividades": [
+    {
+      "nome": "Distribuição de Material",
+      "descricao": "",
+      "lugarId": "Foyer Convenções",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T14:00:00-03:00",
+      "dataFim": "2019-10-22T15:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Abertura Oficial - Composição de mesa da XI Mostra de Extensão IFF-UENF-UFF e II UFRRJ",
+      "descricao": "",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T15:30:00-03:00",
+      "dataFim": "2019-10-22T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Apresentação Cultural - Coral da UENF",
+      "descricao": "",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T16:00:00-03:00",
+      "dataFim": "2019-10-22T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Conferência de Abertura - Um Olhar Histórico: potencial da bioeconomia no Brasil, montagem do estado nacional e mazelas Socioambientais",
+      "descricao": "<p><b>Palestrante:</b> <b>Prof. Chico Alencar</b> - UFRJ</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T17:00:00-03:00",
+      "dataFim": "2019-10-22T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Capoeira ABC",
+      "descricao": "",
+      "lugarId": "Foyer Convenções",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T18:00:00-03:00",
+      "dataFim": "2019-10-22T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Happy Hour - Som de Vinil com Tiago Quintes",
+      "descricao": "<p><b>Atração:</b> <b>Tiago Quintes</b></p>",
+      "lugarId": "Praça Food Truck",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T18:30:00-03:00",
+      "dataFim": "2019-10-22T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Ciência no Bar - Cerveja Artesanal: ciência e tecnologia à sua mesa",
+      "descricao": "<p><b>Palestrante:</b> <b>André Fioravante Guerra</b></p>",
+      "lugarId": "Praça Food Truck",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T19:00:00-03:00",
+      "dataFim": "2019-10-22T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação Oral",
+      "descricao": "",
+      "lugarId": "Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T08:00:00-03:00",
+      "dataFim": "2019-10-23T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Mesa Redonda I: Políticas Públicas para o Desenvolvimento Sustentável e Alternativas para a Bioeconomia Regional",
+      "descricao": "<p><b>Participantes:</b> <b>Joaquim Melo</b> - Banco Palmas, <b>Vinicius Viana</b> - Codemca, <b>Vicente de Paulo Santos de Oliveira</b> - IFFluminense</p><p><b>Moderador:</b> <b>Giovane Leal</b></p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T10:30:00-03:00",
+      "dataFim": "2019-10-23T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação de Banner / Sessão de Mesa de Discussão / Sessão de Apresentação Oral",
+      "descricao": "",
+      "lugarId": "Corredor de Banners e Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T14:00:00-03:00",
+      "dataFim": "2019-10-23T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Minicursos e Oficinas",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T08:00:00-03:00",
+      "dataFim": "2019-10-23T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Leitura no Bar / Lançamento de Livros",
+      "descricao": "",
+      "lugarId": "Praça Food Truck",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T18:00:00-03:00",
+      "dataFim": "2019-10-23T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação Oral",
+      "descricao": "",
+      "lugarId": "Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T08:00:00-03:00",
+      "dataFim": "2019-10-24T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Mesa Redonda 2: Creditação/Curricularização da Extensão no Ensino Superior",
+      "descricao": "<p><b>Participantes:</b> <b>Prof. Ivan Vasconcelos Figueiredo</b> - UFSJ, <b>Prof. Regina Henriques</b> - UERJ, <b>Prof. Valdir José da Silva</b> - IF Sudeste MG</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T10:30:00-03:00",
+      "dataFim": "2019-10-24T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação de Banner",
+      "descricao": "",
+      "lugarId": "Corredor de Banners e Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T14:00:00-03:00",
+      "dataFim": "2019-10-24T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Minicursos e Oficinas",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T08:00:00-03:00",
+      "dataFim": "2019-10-24T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Lançamento de Livro e conversa com prefaciadores da Série \"Memória Fluminenses\"",
+      "descricao": "",
+      "lugarId": "Auditório IV",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T18:00:00-03:00",
+      "dataFim": "2019-10-24T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Minicursos e Oficinas",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T08:00:00-03:00",
+      "dataFim": "2019-10-25T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Conferência: Economia, Conhecimento e Soberania",
+      "descricao": "<p><b>Palestrante:</b> <b>Professor Waldeck Carneiro</b> - UFF</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T10:30:00-03:00",
+      "dataFim": "2019-10-25T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cerimônia de Encerramento",
+      "descricao": "",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T16:00:00-03:00",
+      "dataFim": "2019-10-25T16:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Apresentação Cultural - Orquestra de Violões IFFluminense Campus Campos Centro",
+      "descricao": "",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T16:30:00-03:00",
+      "dataFim": "2019-10-25T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cerimônia de Premiação",
+      "descricao": "",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T17:00:00-03:00",
+      "dataFim": "2019-10-25T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Feira de Ciências",
+      "descricao": "",
+      "lugarId": "Jardim São Benedito",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-26T10:00:00-03:00",
+      "dataFim": "2019-10-26T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

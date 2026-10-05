@@ -1,0 +1,472 @@
+{
+  "atividades": [
+    {
+      "nome": "Credenciamento",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T08:30:00-03:00",
+      "dataFim": "2025-11-27T09:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "O papel do auditor na análise de cirurgias com OPME não regulamentado",
+      "descricao": "<p><b>Palestrante:</b> <b>Paulo Rebello</b> (Ex-presidente da ANS)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T09:00:00-03:00",
+      "dataFim": "2025-11-27T09:50:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T09:50:00-03:00",
+      "dataFim": "2025-11-27T10:20:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Painel para debate: Auditoria avançada em neuro e endovasculares: medicina de precisão ou excesso",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Daniel Abud</b> (Neurorradiologista intervencionista), <b>Dr. Ricardo Aun</b> (Endovascular), <b>Dr. Renato Faria</b> (Auditor médico)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T10:20:00-03:00",
+      "dataFim": "2025-11-27T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Revolução nas válvulas cardíacas: quando o TAVI vira regra, não exceção",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Leonardo Guimarães</b></p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T12:00:00-03:00",
+      "dataFim": "2025-11-27T12:50:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Incorporação de novas tecnologias em neurocirurgia - Simpósio Medical Support",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Ricardo Santos de Oliveira</b></p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T12:50:00-03:00",
+      "dataFim": "2025-11-27T13:40:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Almoço",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T13:40:00-03:00",
+      "dataFim": "2025-11-27T14:40:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cirurgia endoscópica de coluna: critérios técnicos para auditoria em procedimentos endoscópicos de coluna",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Rafael Sugino</b></p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T14:40:00-03:00",
+      "dataFim": "2025-11-27T15:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Medicina esportiva, OPME e indicações: alta performance e auditoria em ortopedia esportiva - O que é justificável?",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Arnaldo Hernandez</b> (Cirurgião especialista em medicina esportiva)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T15:30:00-03:00",
+      "dataFim": "2025-11-27T16:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T16:30:00-03:00",
+      "dataFim": "2025-11-27T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cirurgia robótica: formas de otimizar e ampliar o uso",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Fabio Gandour</b> (Médico e ex-cientista-chefe da IBM)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T17:00:00-03:00",
+      "dataFim": "2025-11-27T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Intervalo",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T18:00:00-03:00",
+      "dataFim": "2025-11-27T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Solenidades de abertura",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T18:30:00-03:00",
+      "dataFim": "2025-11-27T19:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra de abertura",
+      "descricao": "<p><b>Palestrante:</b> <b>Gustavo Loyola</b></p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T19:30:00-03:00",
+      "dataFim": "2025-11-27T20:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coquetel",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-27T20:30:00-03:00",
+      "dataFim": "2025-11-27T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Credenciamento",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T08:30:00-03:00",
+      "dataFim": "2025-11-28T09:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Boas práticas de combate à fraude – Seguros Unimed",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Fabiano Catran</b> (Diretor executivo da Seguros Unimed)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T09:00:00-03:00",
+      "dataFim": "2025-11-28T09:40:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "O que a Unimed do Brasil vem desenvolvendo para combate às fraudes?",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Daniel Infante Januzzi de Carvalho</b> (Superintendente jurídico da Unimed do Brasil)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T09:40:00-03:00",
+      "dataFim": "2025-11-28T10:20:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Fraude no aspecto criminal",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Rodrigo Fragoso</b></p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T10:20:00-03:00",
+      "dataFim": "2025-11-28T11:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Dúvidas",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T11:00:00-03:00",
+      "dataFim": "2025-11-28T11:20:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T11:20:00-03:00",
+      "dataFim": "2025-11-28T11:40:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "IA na auditoria médica",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Sergio Dias</b></p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T11:40:00-03:00",
+      "dataFim": "2025-11-28T12:10:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Pitch startup",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T12:10:00-03:00",
+      "dataFim": "2025-11-28T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Visita aos stands",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T12:30:00-03:00",
+      "dataFim": "2025-11-28T14:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Os desafios da sustentabilidade das operadoras de planos de saúde frente ao Poder Judiciário",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Clenio Schulze</b> (Juiz federal em Blumenau)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T14:00:00-03:00",
+      "dataFim": "2025-11-28T14:50:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "O que esperar da regulação fiscalizatória para os próximos anos?",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Marcus Braz</b> (Diretor adjunto da Diretoria de Fiscalização - ANS)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T14:50:00-03:00",
+      "dataFim": "2025-11-28T15:40:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T15:40:00-03:00",
+      "dataFim": "2025-11-28T16:10:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Segurança jurídica frente à IA",
+      "descricao": "<p><b>Palestrante:</b> <b>Odilon Oliveira</b> (Gerente de privacidade e compliance e DPO na Unimed do Brasil)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T16:10:00-03:00",
+      "dataFim": "2025-11-28T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Fechamento - Diretoria Executiva Ufenesp",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T17:00:00-03:00",
+      "dataFim": "2025-11-28T17:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "A saúde dos planos de saúde: os desafios da assistência privada no Brasil",
+      "descricao": "<p><b>Palestrante:</b> <b>Dr. Drauzio Varella</b> (Médico oncologista e escritor de livros)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T17:30:00-03:00",
+      "dataFim": "2025-11-28T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Happy hour",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-28T18:30:00-03:00",
+      "dataFim": "2025-11-28T21:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Credenciamento",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-29T08:00:00-03:00",
+      "dataFim": "2025-11-29T08:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Explorando o Futuro - Deep Techs, Ai Economy e Era Quântica na Saúde",
+      "descricao": "<p><b>Palestrante:</b> <b>Gil Giardelli</b></p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-29T09:00:00-03:00",
+      "dataFim": "2025-11-29T10:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra com Eleuses Paiva",
+      "descricao": "<p><b>Palestrante:</b> <b>Eleuses Paiva</b> (Secretário de saúde do estado de São Paulo)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-29T10:30:00-03:00",
+      "dataFim": "2025-11-29T11:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cenário Político Brasileiro: Perspectivas Éticas e Estratégicas para as Políticas de Saúde Pública e Suplementar",
+      "descricao": "<p><b>Palestrante:</b> <b>Fernando Schüler</b> (Cientista político)</p>",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-29T11:30:00-03:00",
+      "dataFim": "2025-11-29T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Encerramento",
+      "descricao": "",
+      "lugarId": "Multiplan Hall / RibeirãoShopping",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-11-29T12:30:00-03:00",
+      "dataFim": "2025-11-29T13:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

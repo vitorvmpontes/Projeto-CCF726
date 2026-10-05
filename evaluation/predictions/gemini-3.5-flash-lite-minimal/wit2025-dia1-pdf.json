@@ -1,0 +1,121 @@
+{
+  "atividades": [
+    {
+      "nome": "Abertura do WIT 2025",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T09:00:00-03:00",
+      "dataFim": "2025-07-22T09:45:00-03:00",
+      "descricao": "<p>Abertura oficial do evento WIT 2025.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra de Abertura - RNP",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T09:45:00-03:00",
+      "dataFim": "2025-07-22T10:30:00-03:00",
+      "descricao": "<p>Palestra de abertura realizada pela RNP.</p><p><b>Chair:</b> <b>Michelle Wangham</b></p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Fórum Meninas Digitais - Encontro dos Projetos Parceiros",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T10:30:00-03:00",
+      "dataFim": "2025-07-22T12:00:00-03:00",
+      "descricao": "<p>Encontro dos projetos parceiros do Fórum Meninas Digitais.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Almoço",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T12:00:00-03:00",
+      "dataFim": "2025-07-22T13:30:00-03:00",
+      "descricao": "<p>Horário de almoço.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "SECOMU",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T13:30:00-03:00",
+      "dataFim": "2025-07-22T15:30:00-03:00",
+      "descricao": "<p>Atividade SECOMU.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee break e Lançamento do Segundo Livro da Série Meninas Digitais e Sessão de Pôsteres WIT",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T15:30:00-03:00",
+      "dataFim": "2025-07-22T16:00:00-03:00",
+      "descricao": "<p>Coffee break, lançamento do segundo livro da série Meninas Digitais e sessão de pôsteres.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 01 - Seleção dos melhores artigos",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T16:00:00-03:00",
+      "dataFim": "2025-07-22T17:00:00-03:00",
+      "descricao": "<p>Apresentação da sessão técnica de artigos com seleção dos melhores artigos.</p><p><b>Chair:</b> <b>Marcelle Mota e Letícia Machado</b></p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 02 - Relatos de experiência",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T17:00:00-03:00",
+      "dataFim": "2025-07-22T18:30:00-03:00",
+      "descricao": "<p>Apresentação da sessão técnica de artigos focada em relatos de experiência.</p><p><b>Chair:</b> <b>Milene Selbach Silveira</b></p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Terceiro Encontro de Professoras & Pesquisadoras da SBC",
+      "lugarId": "Centro de Convenções (Sala Ipioca) e Área do Coffee Break",
+      "dataInicio": "2025-07-22T19:00:00-03:00",
+      "dataFim": "2025-07-22T20:00:00-03:00",
+      "descricao": "<p>Terceiro Encontro de Professoras & Pesquisadoras da SBC. Por adesão. Inscrição é necessária.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "atividades": [
+    {
+      "nome": "Distribuição de Material",
+      "descricao": "<p>Distribuição de material da XI Mostra de Extensão IFF-UENF-UFF e II UFRRJ.</p>",
+      "lugarId": "Foyer Convenções",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T14:00:00-03:00",
+      "dataFim": "2019-10-22T15:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Abertura Oficial e Composição de mesa",
+      "descricao": "<p>Abertura Oficial com composição de mesa da XI Mostra de Extensão IFF-UENF-UFF e II UFRRJ.</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T15:00:00-03:00",
+      "dataFim": "2019-10-22T15:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coral da UENF",
+      "descricao": "<p>Apresentação do Coral da UENF.</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T15:30:00-03:00",
+      "dataFim": "2019-10-22T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Apresentação Cultural",
+      "descricao": "<p>Apresentação cultural do evento.</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T16:00:00-03:00",
+      "dataFim": "2019-10-22T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Conferência de Abertura: Um Olhar Histórico: potencial da bioeconomia no Brasil, montagem do estado nacional e mazelas Socioambientais",
+      "descricao": "<p>Conferência de abertura abordando o potencial da bioeconomia no Brasil.</p><p><b>Conferencista:</b> <b>Prof. Chico Alencar</b> - UFRJ</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T17:00:00-03:00",
+      "dataFim": "2019-10-22T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Capoeira ABC",
+      "descricao": "<p>Apresentação de Capoeira ABC.</p>",
+      "lugarId": "Foyer Convenções",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T18:00:00-03:00",
+      "dataFim": "2019-10-22T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Happy Hour: Som de Vinil",
+      "descricao": "<p>Happy Hour com som de vinil.</p><p><b>Atração:</b> <b>Tiago Quintes</b></p>",
+      "lugarId": "Praça Food Truck",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T18:30:00-03:00",
+      "dataFim": "2019-10-22T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Ciência no Bar: Cerveja Artesanal: ciência e tecnologia à sua mesa",
+      "descricao": "<p>Discussão sobre ciência e tecnologia na produção de cerveja artesanal.</p><p><b>Palestrante:</b> <b>André Fioravante Guerra</b></p>",
+      "lugarId": "Praça Food Truck",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-22T19:00:00-03:00",
+      "dataFim": "2019-10-22T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação Oral (Quarta-feira)",
+      "descricao": "<p>Sessão de apresentação oral de trabalhos.</p>",
+      "lugarId": "Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T08:00:00-03:00",
+      "dataFim": "2019-10-23T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação Oral - Parte 2 (Quarta-feira)",
+      "descricao": "<p>Continuação das sessões de apresentação oral de trabalhos.</p>",
+      "lugarId": "Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T10:30:00-03:00",
+      "dataFim": "2019-10-23T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Mesa Redonda I: Políticas Públicas para o Desenvolvimento Sustentável e Alternativas para a Bioeconomia Regional",
+      "descricao": "<p>Mesa redonda sobre políticas públicas e bioeconomia regional.</p><p><b>Participantes:</b> <b>Joaquim Melo</b> (Banco Palmas), <b>Vinicius Viana</b> (Codemca), <b>Vicente de Paulo Santos de Oliveira</b> (IFFluminense).</p><p><b>Moderador:</b> <b>Giovane Leal</b></p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T14:00:00-03:00",
+      "dataFim": "2019-10-23T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação de Banner (Quarta-feira)",
+      "descricao": "<p>Exposição e apresentação de banners acadêmicos.</p>",
+      "lugarId": "Corredor de Banners e Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-23T08:00:00-03:00",
+      "dataFim": "2019-10-23T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação Oral (Quinta-feira)",
+      "descricao": "<p>Sessão de apresentação oral de trabalhos.</p>",
+      "lugarId": "Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T08:00:00-03:00",
+      "dataFim": "2019-10-24T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação Oral - Parte 2 (Quinta-feira)",
+      "descricao": "<p>Continuação das sessões de apresentação oral de trabalhos.</p>",
+      "lugarId": "Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T10:30:00-03:00",
+      "dataFim": "2019-10-24T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Mesa Redonda 2: Creditação/Curricularização da Extensão no Ensino Superior",
+      "descricao": "<p>Discussão sobre a creditação e curricularização da extensão no ensino superior.</p><p><b>Participantes:</b> <b>Prof. Ivan Vasconcelos Figueiredo</b> (UFSJ), <b>Prof. Regina Henriques</b> (UERJ), <b>Prof. Valdir José da Silva</b> (IF Sudeste MG).</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T14:00:00-03:00",
+      "dataFim": "2019-10-24T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão de Apresentação de Banner (Quinta-feira)",
+      "descricao": "<p>Exposição e apresentação de banners acadêmicos.</p>",
+      "lugarId": "Corredor de Banners e Anfiteatros",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T08:00:00-03:00",
+      "dataFim": "2019-10-24T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Lançamento de Livro e conversa com prefaciadores da Série Memória Fluminenses",
+      "descricao": "<p>Lançamento de livro e conversa aberta com os prefaciadores da série.</p>",
+      "lugarId": "Auditório IV",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-24T18:00:00-03:00",
+      "dataFim": "2019-10-24T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Minicursos e Oficinas (Sexta-feira)",
+      "descricao": "<p>Realização de minicursos e oficinas formativas.</p>",
+      "lugarId": "IFFluminense Campus Campos Centro",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T08:00:00-03:00",
+      "dataFim": "2019-10-25T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Conferência: Economia, Conhecimento e Soberania",
+      "descricao": "<p>Conferência sobre economia, conhecimento e soberania.</p><p><b>Conferencista:</b> <b>Professor Waldeck Carneiro</b> - UFF</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T10:30:00-03:00",
+      "dataFim": "2019-10-25T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cerimônia de Encerramento e Apresentação Cultural",
+      "descricao": "<p>Cerimônia oficial de encerramento do evento.</p><p><b>Atração Cultural:</b> Orquestra de Vilões</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T16:00:00-03:00",
+      "dataFim": "2019-10-25T16:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cerimônia de Premiação",
+      "descricao": "<p>Entrega de prêmios aos destaques da edição.</p>",
+      "lugarId": "Auditório Principal",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-25T16:30:00-03:00",
+      "dataFim": "2019-10-25T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Feira de Ciências",
+      "descricao": "<p>Exposição de projetos na Feira de Ciências.</p>",
+      "lugarId": "Jardim São Benedito",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2019-10-26T10:00:00-03:00",
+      "dataFim": "2019-10-26T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

@@ -314,7 +314,19 @@ Projeto-CCF726/
 | 2026-09-29 | Ground truth e baseline vêm do repositório de trabalho do TCC (`POC---Vitor-`), não do repositório público | Decidido | É a versão que reproduz os números do artigo (F1 0,8943) |
 | 2026-09-29 | Baseline = saídas do Gemini 2.0-Flash (temperatura 0, modo JSON) já salvas | Decidido | Foi o que rodou no TCC; não depende de reexecutar a API |
 | 2026-09-29 | OCR com Google Vision `TEXT_DETECTION` | Decidido | Mesmo modo usado para gerar os textos do teste |
-| 2026-09-29 | Revisar todos os gabaritos com uma regra de anotação única | Em andamento | Alguns nomes foram encurtados para bater com a saída do Gemini |
+| 2026-09-29 | Revisar todos os gabaritos com uma regra de anotação única | Concluído (2026-10-05) | Nomes revisados e confirmados; regra em `data/test/ANOTACAO.md` |
+| 2026-10-05 | `nome` = exatamente o nome da atividade, sem trechos da descrição | Decidido | Regra de anotação |
+| 2026-10-05 | `descricao` determinística (só informações do texto), em HTML; tags não entram na avaliação | Decidido | A marcação HTML admite várias formas corretas |
+| 2026-10-05 | OCR via Google Vision REST com chave de API (`GOOGLE_VISION_API_KEY`) | Decidido | Mesmo método do TCC; dispensa service account e a lib `google-cloud-vision` |
+| 2026-10-05 | HTML: uma linha por elemento de bloco; planilha: uma linha por linha, células separadas por ` \| ` | Decidido | O TCC não registrou o formato; esta forma preserva a estrutura |
+| 2026-10-05 | Nível 1b: `rapidfuzz.fuzz.ratio` ≥ 0,9 sobre nomes sem acento e pontuação | Decidido | Tolera diferenças pequenas sem aceitar nomes truncados |
+| 2026-10-05 | IC 95% por bootstrap sobre arquivos (2000 reamostras, semente 42) | Decidido | Conjunto de teste pequeno (17 arquivos) |
+| 2026-10-05 | Baseline principal = saídas salvas do Gemini 2.0-Flash (F1 90,05% com gabarito revisado) | Decidido | Modelo descontinuado em 01/06/2026; as saídas do TCC seguem válidas |
+| 2026-10-05 | Baseline via API atual: `gemini-3.6-flash` (thinking `low`) e `gemini-3.5-flash-lite` (thinking `minimal`) | Decidido | 3.6-flash é o substituto oficial indicado pelo Google; 3.5-flash-lite é o mais próximo do 2.0-Flash em custo e sem raciocínio |
+| 2026-10-05 | Prompt da baseline mantido igual ao do TCC (sem a regra de `nome`) | Decidido | Comparação fiel ao artigo; a regra entra no SLM pelos dados de treino |
+| 2026-10-05 | `descricao` comparada por similaridade ≥ 0,9 (sem HTML); inventada ou omitida = erro | Decidido | Igualdade exata punia diferenças de pontuação final |
+| 2026-10-05 | Atividade com `nome` = "-" no `opmed-html` mantida | Decidido | Existe assim na programação original |
+| 2026-10-05 | Fase 2 concluída | Concluído | Baseline em `evaluation/results/BASELINE.md` e análise em `ANALISE_BASELINE.md` |
 
 ---
 

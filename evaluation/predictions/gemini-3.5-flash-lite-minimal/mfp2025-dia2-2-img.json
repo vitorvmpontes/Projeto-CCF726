@@ -1,0 +1,30 @@
+{
+  "atividades": [
+    {
+      "nome": "Prova",
+      "descricao": "<p>Prova realizada durante o evento.</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-06-15T13:10:00-03:00",
+      "dataFim": "2025-06-15T17:10:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Encerramento + Pizzada",
+      "descricao": "<p>Sessão de encerramento do evento seguida de pizzada.</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-06-15T17:15:00-03:00",
+      "dataFim": "2025-06-15T21:15:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

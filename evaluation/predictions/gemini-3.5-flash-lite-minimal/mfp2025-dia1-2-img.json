@@ -1,0 +1,69 @@
+{
+  "atividades": [
+    {
+      "nome": "Palestra da RocketSeat",
+      "lugarId": "",
+      "dataInicio": "2023-06-14T17:00:00-03:00",
+      "dataFim": "2023-06-14T17:30:00-03:00",
+      "descricao": "<p>Palestra da RocketSeat.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Treinamento de Soft Skills",
+      "lugarId": "",
+      "dataInicio": "2023-06-14T17:30:00-03:00",
+      "dataFim": "2023-06-14T18:15:00-03:00",
+      "descricao": "<p>Treinamento de Soft Skills.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Jantar",
+      "lugarId": "",
+      "dataInicio": "2023-06-14T18:15:00-03:00",
+      "dataFim": "2023-06-14T19:45:00-03:00",
+      "descricao": "<p>Horário de jantar.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "CineMFP",
+      "lugarId": "",
+      "dataInicio": "2023-06-14T20:10:00-03:00",
+      "dataFim": "2023-06-14T22:00:00-03:00",
+      "descricao": "<p>Exibição CineMFP com pipoca.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Retorno ao Hotel CPV",
+      "lugarId": "Hotel CPV",
+      "dataInicio": "2023-06-14T22:00:00-03:00",
+      "dataFim": "2023-06-14T23:00:00-03:00",
+      "descricao": "<p>Retorno ao Hotel CPV.</p>",
+      "tagIds": [],
+      "eventoId": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

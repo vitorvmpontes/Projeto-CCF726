@@ -1,0 +1,407 @@
+{
+  "atividades": [
+    {
+      "nome": "Credenciamento",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T07:00:00-03:00",
+      "dataFim": "2024-12-04T08:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cerimônia de Abertura",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T08:00:00-03:00",
+      "dataFim": "2024-12-04T09:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra de Abertura - Pedro Lacerda - O futuro do desenvolvimento de software com assistentes de inteligência artificial",
+      "descricao": "<p><b>Pedro Lacerda</b></p><p><i>O futuro do desenvolvimento de software com assistentes de inteligência artificial</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T09:00:00-03:00",
+      "dataFim": "2024-12-04T10:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffe Break",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T10:30:00-03:00",
+      "dataFim": "2024-12-04T11:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra de Abertura - Daniel Hasan - Desmistificando a Inteligência Artificial",
+      "descricao": "<p><b>Daniel Hasan</b></p><p><i>Desmistificando a Inteligência Artificial</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T11:00:00-03:00",
+      "dataFim": "2024-12-04T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Intervalo",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T12:30:00-03:00",
+      "dataFim": "2024-12-04T14:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "SIPEEC",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T14:00:00-03:00",
+      "dataFim": "2024-12-04T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Torneio e-sport",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T18:00:00-03:00",
+      "dataFim": "2024-12-04T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Credenciamento",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T07:00:00-03:00",
+      "dataFim": "2024-12-05T08:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Umbu Games - João Victor - O mercado de jogos ainda é promissor?",
+      "descricao": "<p><b>João Victor</b></p><p><i>O mercado de jogos ainda é promissor?</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T08:00:00-03:00",
+      "dataFim": "2024-12-05T09:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffe Break",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T09:30:00-03:00",
+      "dataFim": "2024-12-05T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Studio Sol",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T10:45:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Letras",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T10:45:00-03:00",
+      "dataFim": "2024-12-05T11:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Levty - Izabela Costa Brant - Gestão de Projeto Ágil",
+      "descricao": "<p><b>Izabela Costa Brant</b></p><p><i>Gestão de Projeto Ágil</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T11:30:00-03:00",
+      "dataFim": "2024-12-05T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Sydle -",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T12:30:00-03:00",
+      "dataFim": "2024-12-05T13:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Intervalo",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T13:00:00-03:00",
+      "dataFim": "2024-12-05T14:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "dti Digital - Gerando Valor com Dados",
+      "descricao": "<p><i>Gerando Valor com Dados</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T14:00:00-03:00",
+      "dataFim": "2024-12-05T15:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Alfa Engenharia - Natanael Costa - Inovação e Transformação Digital: Estratégias para Construir o Futuro das Organizações",
+      "descricao": "<p><b>Natanael Costa</b></p><p><i>Inovação e Transformação Digital: Estratégias para Construir o Futuro das Organizações</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T15:00:00-03:00",
+      "dataFim": "2024-12-05T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sempre Internet - LGPD Lei Geral de Proteção de Dados",
+      "descricao": "<p><i>LGPD Lei Geral de Proteção de Dados</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T16:00:00-03:00",
+      "dataFim": "2024-12-05T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Hubs Contabilidade - Estratégia Ágil para Startups: Como Priorizar, Adaptar e Superar Desafios",
+      "descricao": "<p><i>Estratégia Ágil para Startups: Como Priorizar, Adaptar e Superar Desafios</i></p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T17:00:00-03:00",
+      "dataFim": "2024-12-05T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Torneio e-sport",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T18:30:00-03:00",
+      "dataFim": "2024-12-05T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Maratona de Programação",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T13:30:00-03:00",
+      "dataFim": "2024-12-05T17:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Minicursos",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T07:30:00-03:00",
+      "dataFim": "2024-12-06T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "GameJam",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T10:00:00-03:00",
+      "dataFim": "2024-12-06T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Intervalo",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T12:00:00-03:00",
+      "dataFim": "2024-12-06T12:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Minicursos",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T12:30:00-03:00",
+      "dataFim": "2024-12-06T13:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "GameJam",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T13:30:00-03:00",
+      "dataFim": "2024-12-06T17:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffe Break",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T17:00:00-03:00",
+      "dataFim": "2024-12-06T17:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Premiações",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T17:30:00-03:00",
+      "dataFim": "2024-12-06T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Cerimônia Encerramento",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T18:00:00-03:00",
+      "dataFim": "2024-12-06T19:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Torneio e-sport",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T19:00:00-03:00",
+      "dataFim": "2024-12-06T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "atividades": [
+    {
+      "nome": "Palestra Aumente suas Vendas",
+      "descricao": "",
+      "lugarId": "Sala Amapá",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-21T19:00:00-03:00",
+      "dataFim": "2024-09-21T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Visual Merchandising",
+      "descricao": "",
+      "lugarId": "Sala Calçoene",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-21T19:00:00-03:00",
+      "dataFim": "2024-09-21T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Marketing de Vendas",
+      "descricao": "",
+      "lugarId": "Sala Porto Grande",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-21T19:00:00-03:00",
+      "dataFim": "2024-09-21T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Como Encantar o Cliente",
+      "descricao": "",
+      "lugarId": "Sala Amapá",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-22T19:00:00-03:00",
+      "dataFim": "2024-09-22T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra A importância da embalagem",
+      "descricao": "",
+      "lugarId": "Sala Calçoene",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-22T19:00:00-03:00",
+      "dataFim": "2024-09-22T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Visual Merchandising",
+      "descricao": "",
+      "lugarId": "Sala Calçoene",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T19:00:00-03:00",
+      "dataFim": "2024-09-23T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Aumente suas Vendas",
+      "descricao": "",
+      "lugarId": "Sala Amapá",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T19:00:00-03:00",
+      "dataFim": "2024-09-23T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Marketing de Vendas",
+      "descricao": "",
+      "lugarId": "Sala Tartarugalzinho",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T19:00:00-03:00",
+      "dataFim": "2024-09-23T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sala Amapá",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-24T19:00:00-03:00",
+      "dataFim": "2024-09-24T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Visual Merchandising",
+      "descricao": "",
+      "lugarId": "Sala Porto Grande",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-24T19:00:00-03:00",
+      "dataFim": "2024-09-24T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sala Calçoene",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-25T19:00:00-03:00",
+      "dataFim": "2024-09-25T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Aumente suas Vendas",
+      "descricao": "",
+      "lugarId": "Sala Porto Grande",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-25T19:00:00-03:00",
+      "dataFim": "2024-09-25T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Marketing de Vendas",
+      "descricao": "",
+      "lugarId": "Sala Tartarugalzinho",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-25T19:00:00-03:00",
+      "dataFim": "2024-09-25T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Oficina Atender no Campo",
+      "descricao": "",
+      "lugarId": "Sala Amapá",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T08:00:00-03:00",
+      "dataFim": "2024-09-23T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Oficina Custos para Produzir no Campo",
+      "descricao": "",
+      "lugarId": "Sala Amapá",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T14:00:00-03:00",
+      "dataFim": "2024-09-23T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Oficina Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sala Amapá",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-25T14:00:00-03:00",
+      "dataFim": "2024-09-25T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Aumente suas Vendas",
+      "descricao": "",
+      "lugarId": "Sebrae Santana",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-22T19:00:00-03:00",
+      "dataFim": "2024-09-22T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Visual Merchandising",
+      "descricao": "",
+      "lugarId": "Sebrae Santana",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-22T19:00:00-03:00",
+      "dataFim": "2024-09-22T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Como Encantar o Cliente",
+      "descricao": "",
+      "lugarId": "Sebrae Santana",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T19:00:00-03:00",
+      "dataFim": "2024-09-23T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra A importância da embalagem",
+      "descricao": "",
+      "lugarId": "Sebrae Santana",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T19:00:00-03:00",
+      "dataFim": "2024-09-23T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Marketing de Vendas",
+      "descricao": "",
+      "lugarId": "Sebrae Santana",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-24T19:00:00-03:00",
+      "dataFim": "2024-09-24T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sebrae Santana",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-24T19:00:00-03:00",
+      "dataFim": "2024-09-24T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Aumente suas Vendas",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-21T19:00:00-03:00",
+      "dataFim": "2024-09-21T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Como Encantar o Cliente",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-22T19:00:00-03:00",
+      "dataFim": "2024-09-22T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Visual Merchandising",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T19:00:00-03:00",
+      "dataFim": "2024-09-23T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Marketing de Vendas",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-24T19:00:00-03:00",
+      "dataFim": "2024-09-24T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-25T15:00:00-03:00",
+      "dataFim": "2024-09-25T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-25T19:00:00-03:00",
+      "dataFim": "2024-09-25T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Visual Merchandising",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-21T15:00:00-03:00",
+      "dataFim": "2024-09-21T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Aumente suas Vendas",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-21T19:00:00-03:00",
+      "dataFim": "2024-09-21T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Como Encantar o Cliente",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-22T15:00:00-03:00",
+      "dataFim": "2024-09-22T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Marketing de Vendas",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-22T19:00:00-03:00",
+      "dataFim": "2024-09-22T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T15:00:00-03:00",
+      "dataFim": "2024-09-23T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra Higiene na Manipulação de Alimentos",
+      "descricao": "",
+      "lugarId": "Sebrae Oiapoque",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-09-23T19:00:00-03:00",
+      "dataFim": "2024-09-23T22:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

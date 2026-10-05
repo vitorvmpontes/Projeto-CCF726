@@ -1,0 +1,56 @@
+{
+  "atividades": [
+    {
+      "nome": "Café da Manhã",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-06-15T07:00:00-03:00",
+      "dataFim": "2024-06-15T09:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Atividades opcionais para relaxar",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-06-15T09:00:00-03:00",
+      "dataFim": "2024-06-15T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Warm up",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-06-15T10:00:00-03:00",
+      "dataFim": "2024-06-15T11:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Almoço",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-06-15T11:00:00-03:00",
+      "dataFim": "2024-06-15T13:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

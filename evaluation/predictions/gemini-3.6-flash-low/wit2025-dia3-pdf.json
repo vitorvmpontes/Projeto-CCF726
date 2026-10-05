@@ -1,0 +1,160 @@
+{
+  "atividades": [
+    {
+      "nome": "Sessão Técnica de Artigos 04 - Análise de dados educacionais sobre mulheres e Computação",
+      "descricao": "<p><b>Chair:</b> <b>Luma Seixas</b></p>",
+      "lugarId": "Ipioca",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T09:00:00-03:00",
+      "dataFim": "2025-07-24T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 05 - Atração de talentos femininos para a computação",
+      "descricao": "<p><b>Chair:</b> <b>Maria Claudia Emer</b></p>",
+      "lugarId": "Umbu",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T09:00:00-03:00",
+      "dataFim": "2025-07-24T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Mesa Redonda: Entrar é só o começo: quem segura a porta aberta?",
+      "descricao": "<p><b>Participantes:</b> <b>Fernanda Pereira de Souza</b> (Engie), <b>Marília Vidigal da Costa Souza</b> (Embraer), <b>Luciana Frigo</b> (UFSC)</p>",
+      "lugarId": "Ipioca",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T10:00:00-03:00",
+      "dataFim": "2025-07-24T10:40:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 06 - Inclusão e acessibilidade na Computação",
+      "descricao": "<p><b>Chair:</b> <b>Taynara Cerigueli Dutra</b></p>",
+      "lugarId": "Ipioca",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T10:40:00-03:00",
+      "dataFim": "2025-07-24T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 07 - Análise de dados no mercado",
+      "descricao": "<p><b>Chair:</b> <b>Laura Costa Sarkis</b></p>",
+      "lugarId": "Umbu",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T10:40:00-03:00",
+      "dataFim": "2025-07-24T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Almoço",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T12:00:00-03:00",
+      "dataFim": "2025-07-24T13:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Assembléia",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T13:30:00-03:00",
+      "dataFim": "2025-07-24T15:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee break",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T15:30:00-03:00",
+      "dataFim": "2025-07-24T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Mesa Redonda: Interseccionalidade em lideranças e carreiras",
+      "descricao": "<p><b>Participantes:</b> <b>Glecem Gaia</b> (Eldorado), <b>Andrea do Amaral</b> (Minsait), <b>Eunice Palmeira</b> (IFAL), <b>Anna Marques</b> (UFC)</p>",
+      "lugarId": "Ipioca",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T16:00:00-03:00",
+      "dataFim": "2025-07-24T16:45:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 08 - Relatos e intervenções",
+      "descricao": "<p><b>Chair:</b> <b>Andrea Maria Cavalcanti</b></p>",
+      "lugarId": "Ipioca",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T16:45:00-03:00",
+      "dataFim": "2025-07-24T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 09",
+      "descricao": "<p><b>Chair:</b> <b>Marcelo Martins</b></p>",
+      "lugarId": "Umbu",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T16:45:00-03:00",
+      "dataFim": "2025-07-24T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Premiações dos Artigos e Projetos MD",
+      "descricao": "",
+      "lugarId": "Ipioca",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-24T18:00:00-03:00",
+      "dataFim": "2025-07-24T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

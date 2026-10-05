@@ -1,0 +1,134 @@
+{
+  "atividades": [
+    {
+      "nome": "Fórum Meninas Digitais - Mesa-redonda com os Projetos Parceiros",
+      "descricao": "<p>Redes Nacionais e Regionais de Extensão e Educação com Projetos Parceiros do Meninas Digitais</p>",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T09:00:00-03:00",
+      "dataFim": "2025-07-23T10:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Palestra – ENGIE: Tecnologia e Diversidade na ENGIE: Uma Jornada em Evolução",
+      "descricao": "<p><b>Palestrantes:</b> <b>Nazaré Hahne (ENGIE)</b> e <b>Edna Dalfovo (ENGIE)</b></p>",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T10:30:00-03:00",
+      "dataFim": "2025-07-23T11:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Entrega das Camisas WIT 2025 + Foto Oficial",
+      "descricao": "",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T11:30:00-03:00",
+      "dataFim": "2025-07-23T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Almoço",
+      "descricao": "",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T12:00:00-03:00",
+      "dataFim": "2025-07-23T13:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "SECOMU",
+      "descricao": "",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T13:30:00-03:00",
+      "dataFim": "2025-07-23T15:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Coffee break + Sessão de Pôsteres dos Projetos Parceiros Meninas Digitais",
+      "descricao": "",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T15:30:00-03:00",
+      "dataFim": "2025-07-23T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Fórum Meninas Digitais - Mesa redonda: Conectando Diferenças: Caminhos para Diversidade, Inclusão e Equidade na Computação Brasileira",
+      "descricao": "",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T16:00:00-03:00",
+      "dataFim": "2025-07-23T16:45:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Painel - Mulheres, Tecnologia e Carreira na EMBRAER",
+      "descricao": "<p><b>Marinalva Dias Soares</b>: <i>Prontas para Voar? Trajetória de Vida Pessoal e de Carreira</i></p><p><b>Karen Veloso de Lima</b> (equipe de Talent): Portas de entrada</p><p><b>Janaína Uccelli</b> (coordenadora do PES): Programa de Especialização de Software (PES)</p>",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T16:45:00-03:00",
+      "dataFim": "2025-07-23T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "Sessão Técnica de Artigos 03 - Ferramentas",
+      "descricao": "<p><b>Chair:</b> <b>Mariangela de Oliveira Gomes Setti</b></p>",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2025-07-23T18:00:00-03:00",
+      "dataFim": "2025-07-23T18:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "JANTAR DO CSBC (por adesão)",
+      "descricao": "",
+      "lugarId": "Centro de Convenções (Sala Ipioca)",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "",
+      "dataFim": "",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}

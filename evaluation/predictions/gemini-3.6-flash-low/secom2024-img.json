@@ -1,0 +1,355 @@
+{
+  "atividades": [
+    {
+      "nome": "CREDENCIAMENTO",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T07:00:00-03:00",
+      "dataFim": "2024-12-04T08:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "ABERTURA",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T08:00:00-03:00",
+      "dataFim": "2024-12-04T08:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: O FUTURO DO DESENVOLVIMENTO DE SOFTWARE COM ASSISTENTES DE IA",
+      "descricao": "<p><b>Palestrante:</b> <b>PEDRO LACERDA</b></p>",
+      "lugarId": "umbu Games",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T09:00:00-03:00",
+      "dataFim": "2024-12-04T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "COFFEE BREAK",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T10:00:00-03:00",
+      "dataFim": "2024-12-04T10:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: DESMISTIFICANDO A INTELIGÊNCIA ARTIFICIAL",
+      "descricao": "<p><b>Palestrante:</b> <b>DANIEL HASAN</b></p><p>LEVTY</p>",
+      "lugarId": "studiosol - letras",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T11:00:00-03:00",
+      "dataFim": "2024-12-04T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "GESTÃO DE PROJETO ÁGIL",
+      "descricao": "<p>SYDLE</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T12:00:00-03:00",
+      "dataFim": "2024-12-04T13:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "INTERVALO",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T13:00:00-03:00",
+      "dataFim": "2024-12-04T14:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "METODOLOGIAS ÁGEIS",
+      "descricao": "<p>alfa</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T14:30:00-03:00",
+      "dataFim": "2024-12-04T15:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "GERANDO VALOR COM DADOS",
+      "descricao": "<p>dti</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T15:00:00-03:00",
+      "dataFim": "2024-12-04T15:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "SIPEEC",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T15:30:00-03:00",
+      "dataFim": "2024-12-04T16:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "LGPD",
+      "descricao": "<p>Sempre internet</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T16:30:00-03:00",
+      "dataFim": "2024-12-04T17:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "E-SPORT",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-04T18:00:00-03:00",
+      "dataFim": "2024-12-04T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "CREDENCIAMENTO",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T08:00:00-03:00",
+      "dataFim": "2024-12-05T09:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PALESTRA: O MERCADO DE JOGOS AINDA É PROMISSOR?",
+      "descricao": "<p><b>Palestrante:</b> <b>JOÃO VITOR</b></p>",
+      "lugarId": "studiosol - letras",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T09:00:00-03:00",
+      "dataFim": "2024-12-05T10:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "GAME JAM",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T10:00:00-03:00",
+      "dataFim": "2024-12-05T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "COFFEE BREAK",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T10:30:00-03:00",
+      "dataFim": "2024-12-05T11:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "INTERVALO",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T13:00:00-03:00",
+      "dataFim": "2024-12-05T14:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "ESTRATÉGIA ÁGIL PARA STARTUPS: COMO PRIORIZAR, ADAPTAR E SUPERAR DESAFIOS",
+      "descricao": "<p>Hubs</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T17:00:00-03:00",
+      "dataFim": "2024-12-05T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "MARATONA DE PROGRAMAÇÃO",
+      "descricao": "<p>SYDLE / LEVTY</p>",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T17:00:00-03:00",
+      "dataFim": "2024-12-05T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "E-SPORT",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-05T18:00:00-03:00",
+      "dataFim": "2024-12-05T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "CREDENCIAMENTO",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T08:00:00-03:00",
+      "dataFim": "2024-12-06T09:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "MINICURSOS",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T09:00:00-03:00",
+      "dataFim": "2024-12-06T12:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "INTERVALO",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T12:00:00-03:00",
+      "dataFim": "2024-12-06T13:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "MINICURSOS",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T13:30:00-03:00",
+      "dataFim": "2024-12-06T16:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "COFFEE BREAK",
+      "descricao": "",
+      "lugarId": "studiosol letray",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T16:00:00-03:00",
+      "dataFim": "2024-12-06T16:30:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "PREMIAÇÕES E ENCERRAMENTO",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T16:30:00-03:00",
+      "dataFim": "2024-12-06T18:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    },
+    {
+      "nome": "E-SPORT",
+      "descricao": "",
+      "lugarId": "",
+      "tagIds": [],
+      "eventoId": "",
+      "dataInicio": "2024-12-06T18:00:00-03:00",
+      "dataFim": "2024-12-06T20:00:00-03:00",
+      "configuracoes": {
+        "checkin": false,
+        "perguntar": false
+      }
+    }
+  ]
+}
