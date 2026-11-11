@@ -1,0 +1,340 @@
+{
+ "spec": {
+  "id": "sint-42-00082",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Campo Grande - MS",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 39,
+  "casos": [
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:58+00:00",
+ "uso_tokens": {
+  "entrada": 670,
+  "saida": 5488
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Pantanal e Cerrado 2025",
+   "local_geral": "Centro de Convenções Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Retirada de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-13T14:00:00-03:00",
+    "dataFim": "2025-08-13T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-13T16:00:00-03:00",
+    "dataFim": "2025-08-13T17:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da curadora <b>Mariana Rios Esteves</b> e representantes da gastronomia regional.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-13T17:30:00-03:00",
+    "dataFim": "2025-08-13T19:00:00-03:00",
+    "descricao": "<p>Apresentação de <i>O Resgate Histórico da Gastronomia de Comitiva e a Força dos Ingredientes Nativos do Centro-Oeste na Alta Cozinha Contemporânea</i> com o Chef <b>Paulo Machado</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Degustação de Boas-Vindas",
+    "lugar": "Espaço Tereré",
+    "dataInicio": "2025-08-13T19:00:00-03:00",
+    "dataFim": "2025-08-13T20:30:00-03:00",
+    "descricao": "<p>Coquetel com preparações tradicionais servido pela banqueteira <b>Adriana Torres</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-14T09:00:00-03:00",
+    "dataFim": "2025-08-14T10:30:00-03:00",
+    "descricao": "<p>Preparo de pratos com peixes de couro sul-mato-grossenses conduzido pela Chef <b>Helena Rizzo</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Pausa para Café Regional",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-14T10:30:00-03:00",
+    "dataFim": "2025-08-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-14T11:00:00-03:00",
+    "dataFim": "2025-08-14T12:30:00-03:00",
+    "descricao": "<p>Técnicas contemporâneas aplicadas à carne de sol e mandioca com o Chef <b>Guga Rocha</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Almoço Livre na Praça de Alimentação",
+    "lugar": "Praça dos Sabores",
+    "dataInicio": "2025-08-14T12:30:00-03:00",
+    "dataFim": "2025-08-14T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2025-08-14T14:30:00-03:00",
+    "dataFim": "2025-08-14T16:00:00-03:00",
+    "descricao": "<p>Sobremesas autorais à base de cumaru e pequi ministrada pela confeiteira <b>Beatriz Alvarenga</b>.</p>",
+    "secao": "Oficinas Técnicas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2025-08-14T16:30:00-03:00",
+    "dataFim": "2025-08-14T18:00:00-03:00",
+    "descricao": "<p>Uso de farinhas não convencionais na panificação artesanal sob instrução do padeiro <b>Lucas Nogueira</b>.</p>",
+    "secao": "Oficinas Técnicas"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-14T18:30:00-03:00",
+    "dataFim": "2025-08-14T20:00:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Estratégias de Valorização dos Produtores Familiares e a Criação de Cadeias Sustentáveis de Suprimentos para Restaurantes Urbanos</i> com a pesquisadora <b>Carla Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-15T09:00:00-03:00",
+    "dataFim": "2025-08-15T10:30:00-03:00",
+    "descricao": "<p>Reinvenções do clássico sobá campo-grandense demonstradas pelo Chef <b>Kenjiro Watanabe</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-15T10:30:00-03:00",
+    "dataFim": "2025-08-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 4",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-15T11:00:00-03:00",
+    "dataFim": "2025-08-15T12:30:00-03:00",
+    "descricao": "<p>Harmonização de cortes bovinos maturados com geleias do cerrado com a Chef <b>Clarice Antunes</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": "Praça dos Sabores",
+    "dataInicio": "2025-08-15T12:30:00-03:00",
+    "dataFim": "2025-08-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-15T14:00:00-03:00",
+    "dataFim": "2025-08-15T15:30:00-03:00",
+    "descricao": "<p>Debate sobre indicação geográfica da carne pantaneira com mediação de <b>Rodrigo Albuquerque</b> e participação de <b>Fernanda Silveira</b> e <b>Jorge Assis</b>.</p>",
+    "secao": "Fórum de Gastronomia e Identidade"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-15T15:45:00-03:00",
+    "dataFim": "2025-08-15T17:15:00-03:00",
+    "descricao": "<p>Discussão sobre turismo gastronômico em Mato Grosso do Sul com <b>Vanessa Guimarães</b> e <b>Marcio Zanetti</b>.</p>",
+    "secao": "Fórum de Gastronomia e Identidade"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-15T17:15:00-03:00",
+    "dataFim": "2025-08-15T17:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Sala de Cursos 1",
+    "dataInicio": "2025-08-15T17:45:00-03:00",
+    "dataFim": "2025-08-15T19:45:00-03:00",
+    "descricao": "<p>Sensações e notas aromáticas de méis nativos pantaneiros com o zootecnista <b>Felipe Dornelles</b>.</p>",
+    "secao": "Minicursos Especiais"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala de Cursos 2",
+    "dataInicio": "2025-08-15T17:45:00-03:00",
+    "dataFim": "2025-08-15T19:45:00-03:00",
+    "descricao": "<p>Mixologia com cachaças artesanais e ervas locais ministrada pelo bartender <b>Danilo Sampaio</b>.</p>",
+    "secao": "Minicursos Especiais"
+   },
+   {
+    "nome": "Aula-Show 5",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-16T09:00:00-03:00",
+    "dataFim": "2025-08-16T10:30:00-03:00",
+    "descricao": "<p>Preparo de risotos pantaneiros enriquecidos com castanha-de-baru pelo Chef <b>André Mello</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Pausa Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-16T10:30:00-03:00",
+    "dataFim": "2025-08-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 6",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-16T11:00:00-03:00",
+    "dataFim": "2025-08-16T12:30:00-03:00",
+    "descricao": "<p>Técnicas de cocção lenta para costela de ripa e guarnições com a Chef <b>Leticia Brandão</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça dos Sabores",
+    "dataInicio": "2025-08-16T12:30:00-03:00",
+    "dataFim": "2025-08-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Sala de Harmonização",
+    "dataInicio": "2025-08-16T14:00:00-03:00",
+    "dataFim": "2025-08-16T15:30:00-03:00",
+    "descricao": "<p>Degustação orientada de queijos da Bacia do Prata orientada pela mestre queijeira <b>Renata Cordeiro</b>.</p>",
+    "secao": "Workshops de Degustação"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Sala de Harmonização",
+    "dataInicio": "2025-08-16T15:45:00-03:00",
+    "dataFim": "2025-08-16T17:15:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>O Impacto das Técnicas Tradicionais de Fermentação de Bebidas Indígenas na Criação de Cartas Modernas de Restaurantes</i> conduzida pelo pesquisador <b>Igor Camargo</b>.</p>",
+    "secao": "Workshops de Degustação"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-16T17:15:00-03:00",
+    "dataFim": "2025-08-16T17:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Duelo Gastronômico Regional",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-16T17:45:00-03:00",
+    "dataFim": "2025-08-16T19:30:00-03:00",
+    "descricao": "<p>Desafio culinário ao vivo avaliado pelos jurados <b>Tereza Paim</b> e <b>Carlos Bertolazzi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical Acústico",
+    "lugar": "Palco Externo",
+    "dataInicio": "2025-08-16T19:30:00-03:00",
+    "dataFim": "2025-08-16T21:00:00-03:00",
+    "descricao": "<p>Apresentação instrumental com o violeiro <b>Almir Sater Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 7",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-17T09:30:00-03:00",
+    "dataFim": "2025-08-17T11:00:00-03:00",
+    "descricao": "<p>Pratos vegetarianos com plantas alimentícias não convencionais (PANC) do Cerrado com a Chef <b>Flavia Quaresma</b>.</p>",
+    "secao": "Aulas de Encerramento"
+   },
+   {
+    "nome": "Pausa para Mate Gelado",
+    "lugar": "Espaço Tereré",
+    "dataInicio": "2025-08-17T11:00:00-03:00",
+    "dataFim": "2025-08-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 8",
+    "lugar": "Cozinha Show Pantanal",
+    "dataInicio": "2025-08-17T11:30:00-03:00",
+    "dataFim": "2025-08-17T13:00:00-03:00",
+    "descricao": "<p>A reinvenção do arroz carreteiro com ingredientes orgânicos pelo Chef <b>Marcelo Cotrim</b>.</p>",
+    "secao": "Aulas de Encerramento"
+   },
+   {
+    "nome": "Almoço dos Chefs",
+    "lugar": "Praça dos Sabores",
+    "dataInicio": "2025-08-17T13:00:00-03:00",
+    "dataFim": "2025-08-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Kids de Culinária",
+    "lugar": "Espaço Gourmet Mirim",
+    "dataInicio": "2025-08-17T14:30:00-03:00",
+    "dataFim": "2025-08-17T15:30:00-03:00",
+    "descricao": "<p>Atividade lúdica de biscoitos de polvilho para crianças comandada pela educadora <b>Patrícia Leite</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Gastronômicos",
+    "lugar": "Mezanino do Centro de Convenções",
+    "dataInicio": "2025-08-17T15:30:00-03:00",
+    "dataFim": "2025-08-17T16:30:00-03:00",
+    "descricao": "<p>Apresentações acadêmicas sobre segurança alimentar e bioeconomia regional coordenadas pelo Prof. <b>Eduardo Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo Vespertino",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-17T16:30:00-03:00",
+    "dataFim": "2025-08-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Conclusões",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-17T17:00:00-03:00",
+    "dataFim": "2025-08-17T18:00:00-03:00",
+    "descricao": "<p>Balanço das metas de preservação das tradições culinárias conduzido por <b>Geraldo Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Pratos",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-17T18:00:00-03:00",
+    "dataFim": "2025-08-17T19:00:00-03:00",
+    "descricao": "<p>Entrega do Troféu Tuiuiú de Ouro organizada pela comissária <b>Sônia Regina Bastos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-08-17T19:00:00-03:00",
+    "dataFim": "2025-08-17T20:00:00-03:00",
+    "descricao": "<p>Discurso final e anúncio da edição de 2026 com o diretor <b>Marcos Vinicius Pedrosa</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

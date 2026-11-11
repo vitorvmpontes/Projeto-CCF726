@@ -1,0 +1,158 @@
+{
+ "spec": {
+  "id": "sint-42-00154",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 16,
+  "casos": [
+   "descricoes_ricas",
+   "sem_local",
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:24+00:00",
+ "uso_tokens": {
+  "entrada": 681,
+  "saida": 2754
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Simpósio Brasileiro de Mulheres em Tecnologia da Informação",
+   "local_geral": "Centro de Convenções Rebouças, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-08-17T08:00:00-03:00",
+    "dataFim": "2023-08-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a coordenadora geral <b>Dra. Juliana Vasconcelos</b> e a vice-reitora <b>Profa. Beatriz Helena Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-17T10:00:00-03:00",
+    "dataFim": "2023-08-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Trajetórias de liderança feminina na computação quântica</i>.</p><p>Palestrante: <b>Dra. Gabriela Fontes Ramos</b> (IBM Research).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2023-08-17T11:30:00-03:00",
+    "dataFim": "2023-08-17T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução à Ciência de Dados com Python e Pandas</i>.</p><p>Ministrante: <b>Carla Silveira Mendes</b> (USP).</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Fundamentos de Cibersegurança e Análise Forense</i>.</p><p>Ministrantes: <b>Mariana Fagundes Teles</b> e <b>Aline Peçanha Ortiz</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": null,
+    "dataInicio": "2023-08-18T09:00:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Ética algorítmica e viés de gênero em Inteligência Artificial</i>.</p><p>Palestrante: <b>Dra. Camila Bittencourt</b> (Unicamp).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Aroeira",
+    "dataInicio": "2023-08-18T10:45:00-03:00",
+    "dataFim": "2023-08-18T12:15:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos. Coordenação: <b>Dra. Patrícia Diniz Sampaio</b>.</p><p>Trabalhos:</p><p>1. <i>Detecção de fake news com redes neurais recorrentes</i> - <b>Larissa Neves Castro</b> e <b>Fernanda Maia</b>.</p><p>2. <i>Monitoramento de tráfego inteligente via visão computacional</i> - <b>Sofia Gusmão Duarte</b> e <b>Renata Albuquerque</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Ipê",
+    "dataInicio": "2023-08-18T10:45:00-03:00",
+    "dataFim": "2023-08-18T12:15:00-03:00",
+    "descricao": "<p>Apresentação de artigos sobre Engenharia de Software. Coordenação: <b>Dra. Fernanda Lemos</b>.</p><p>Trabalhos:</p><p>1. <i>Refatoração de microsserviços em arquiteturas legadas</i> - <b>Débora Cristina Rios</b>.</p><p>2. <i>Impacto de testes automatizados na retenção de desenvolvedoras júnior</i> - <b>Vanessa Prado de Lima</b> e <b>Natália Morais</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Desafios e permanência de mulheres negras na academia e na indústria de TI</i>.</p><p>Moderadora: <b>Renata Souza de Oliveira</b>.</p><p>Debatedoras: <b>Keila Santos</b> (Nubank), <b>Dra. Zuleica Ramos</b> (UFBA) e <b>Tatiane Rocha Silva</b> (Thoughtworks).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Iniciação Científica",
+    "lugar": "Foyer Central",
+    "dataInicio": "2023-08-18T16:30:00-03:00",
+    "dataFim": "2023-08-18T18:00:00-03:00",
+    "descricao": "<p>Exposição de pôsteres com coordenação da <b>Profa. Elisa Monteiro</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Ambientes de aprendizagem adaptativos para ensino de programação</i> por <b>Jéssica Torres</b>.</p><p>2. <i>Avaliação heurística de usabilidade em prontuários eletrônicos</i> por <b>Bruna Marcondes</b>.</p><p>3. <i>Simulador de tráfego de rede usando Mininet</i> por <b>Talita Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2023-08-19T09:00:00-03:00",
+    "dataFim": "2023-08-19T10:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Maternidade e carreira científica: conciliando pesquisa, docência e cuidados</i>.</p><p>Facilitadoras: <b>Dra. Simone Galvão</b> e <b>Dra. Cristina Vianna</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2023-08-19T10:45:00-03:00",
+    "dataFim": "2023-08-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento de Contratos Inteligentes na Rede Ethereum</i>.</p><p>Instrutora: <b>Priscila Meireles Pires</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática 4",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2023-08-19T10:45:00-03:00",
+    "dataFim": "2023-08-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Acessibilidade Web: Avaliando e Implementando Diretrizes WCAG</i>.</p><p>Instrutora: <b>Michele Antunes Saraiva</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-19T14:30:00-03:00",
+    "dataFim": "2023-08-19T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Construindo redes de mentoria: o futuro das comunidades de tecnologia femininas</i>.</p><p>Convidadas: <b>Ana Paula Guimarães</b>, <b>Luiza Varella</b> e <b>Cláudia Ximenes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-08-19T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio <i>Meninas Notáveis na Computação 2023</i> sob liderança de <b>Dra. Juliana Vasconcelos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

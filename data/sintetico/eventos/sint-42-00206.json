@@ -1,0 +1,275 @@
+{
+ "spec": {
+  "id": "sint-42-00206",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Viçosa - MG",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 31,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:32+00:00",
+ "uso_tokens": {
+  "entrada": 637,
+  "saida": 4531
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Mineiro de Direito Agrário e Sustentabilidade",
+   "local_geral": "Centro de Convenções da Universidade Federal de Viçosa (UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Magnífico Reitor <b>Prof. Demetrius David da Silva</b> e do Presidente da OAB Viçosa <b>Dr. Marcelo Fonseca</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-14T09:40:00-03:00",
+    "dataFim": "2026-05-14T10:40:00-03:00",
+    "descricao": "<p>Exposição sobre <i>A Função Social da Propriedade Rural no Século XXI</i>, proferida pelo <b>Ministro Carlos Alberto Reis</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-14T10:40:00-03:00",
+    "dataFim": "2026-05-14T11:10:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-14T11:10:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Regularização Fundiária e Conflitos Coletivos no Campo</i>. Participantes: <b>Dra. Juliana Prado</b>, <b>Dr. Roberto Vasconcelos</b> e mediação de <b>Profa. Camila Guimarães</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:30:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Governança Ambiental e Agronegócio Sustentável</i>. Debatedores: <b>Dr. Leonardo Rezende</b> e <b>Profa. Beatriz Silveira</b>. Moderação de <b>Dr. Samuel Fontes</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": "Auditório B",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Direito das Águas e Segurança Hídrica na Zona da Mata Mineira</i>. Palestrantes: <b>Eng. Marcus Vinícius Duarte</b> e <b>Dra. Teresa Cristina Moura</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Café da Tarde",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-14T15:30:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 4",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-14T16:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Tributação Rural e Implicações da Reforma Tributária</i>. Debatedores: <b>Dr. Henrique Alvarenga</b> e <b>Profa. Patrícia Magalhães</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Lançamento de Obras Jurídicas",
+    "lugar": "Foyer do Auditório Nobre",
+    "dataInicio": "2026-05-14T17:30:00-03:00",
+    "dataFim": "2026-05-14T18:30:00-03:00",
+    "descricao": "<p>Sessão de autógrafos com o autor <b>Dr. André Meireles</b> da obra <i>Tratado Contemporâneo de Direito Agrário</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Credenciamento de Minicursos",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-15T08:00:00-03:00",
+    "dataFim": "2026-05-15T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:00:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>O Código Florestal Brasileiro e a Jurisprudência do STJ</i>. Coordenação do <b>Desembargador Geraldo Figueiredo</b> e exposição de <b>Dra. Mariana Lemos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório B",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:00:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Contratos Agrários Típicos e Atípicos na Atualidade</i>. Expositor: <b>Dr. Rogério Pires</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Coffee Break Matutino",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-15T10:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 5",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Bioeconomia e a Proteção Jurídica da Biodiversidade</i>. Com <b>Dra. Flávia Nogueira</b> e <b>Prof. Lucas Santiago</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 101 - Bloco Didático",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T15:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos sob coordenação de <b>Profa. Vanessa Carvalho</b>. Trabalho em destaque: <i>Desafios da Certificação de Carbono na Agricultura Familiar</i> por <b>Aline Moreira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 102 - Bloco Didático",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T15:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos com moderação de <b>Prof. Tiago Barreto</b>. Comunicação oral de <i>Impactos Previdenciários do Trabalhador Rural</i> pelo autor <b>Felipe Castilho</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Coffee Break Vespertino",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-15T15:00:00-03:00",
+    "dataFim": "2026-05-15T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 6",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-15T15:30:00-03:00",
+    "dataFim": "2026-05-17T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Trabalho Decente e Modernização das Relações Laborais no Campo</i>. Participação do Procurador <b>Dr. Vinícius Arantes</b> e da advogada <b>Dra. Cláudia Neves</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Gramado Central da UFV",
+    "dataInicio": "2026-05-15T17:30:00-03:00",
+    "dataFim": "2026-05-15T19:00:00-03:00",
+    "descricao": "<p>Show comemorativo da <b>Orquestra de Viola Caipira de Viçosa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 7",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial e Tecnologias de Precisão no Agronegócio: Desafios Regulatórios</i>. Debatedores: <b>Prof. Fernando Toledo</b> e <b>Dra. Renata Beltrão</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Mesa-redonda 8",
+    "lugar": "Auditório B",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Direito Penal Ambiental e a Repressão a Danos Ecológicos</i>. Palestrantes convidados: <b>Promotor Eduardo Caetano</b> e <b>Dra. Simone Albuquerque</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-16T10:00:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 9",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Financiamento Privado do Agro e Títulos Verdes</i>. Participantes: <b>Dr. Gustavo Pinheiro</b> e <b>Dra. Helena Brandão</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reunião do Colégio de Professores de Direito Agrário",
+    "lugar": "Sala de Reuniões da Pós-Graduação",
+    "dataInicio": "2026-05-16T13:30:00-03:00",
+    "dataFim": "2026-05-16T15:00:00-03:00",
+    "descricao": "<p>Encontro ordinário de alinhamento pedagógico coordenado pelo <b>Prof. Gilberto Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária de Premiação de Artigos",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T16:00:00-03:00",
+    "descricao": "<p>Premiação dos melhores artigos submetidos, conduzida pela <b>Profa. Letícia Ramos</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T16:00:00-03:00",
+    "dataFim": "2026-05-16T17:30:00-03:00",
+    "descricao": "<p>Palestra de fechamento sobre <i>Perspectivas para a Justiça Agrária no Brasil</i>, apresentada pela <b>Dra. Cecília Queiroz</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Encerramento"
+   }
+  ]
+ }
+}

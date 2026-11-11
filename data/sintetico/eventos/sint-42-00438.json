@@ -1,0 +1,133 @@
+{
+ "spec": {
+  "id": "sint-42-00438",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Brasília - DF",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 13,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:06+00:00",
+ "uso_tokens": {
+  "entrada": 672,
+  "saida": 1844
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado de Autoavaliação Institucional e Gestão Universitária",
+   "local_geral": "Centro de Convenções Darcy Ribeiro, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2027-05-13T08:00:00-03:00",
+    "dataFim": "2027-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2027-05-13T09:00:00-03:00",
+    "dataFim": "2027-05-13T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo Magnífico Reitor <b>Carlos Eduardo Guimarães</b> e pela Coordenadora Geral da CPA <b>Renata Silveira Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2027-05-13T10:00:00-03:00",
+    "dataFim": "2027-05-13T11:45:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>O Papel da CPA na Consolidação do Plano de Desenvolvimento Institucional</i>, com a participação de <b>Marcos Vinícius Prado</b> e moderação de <b>Heloísa Fontes</b>.</p>",
+    "secao": "Painéis Institucionais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-13T11:45:00-03:00",
+    "dataFim": "2027-05-13T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-13T13:30:00-03:00",
+    "dataFim": "2027-05-13T15:30:00-03:00",
+    "descricao": "<p>Atividade prática com foco em <i>Indicadores Quantitativos e Qualitativos na Avaliação Docente</i>, ministrada por <b>Fernando Castelo Branco</b>.</p>",
+    "secao": "Capacitação das Subcomissões"
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Sala 104",
+    "dataInicio": "2027-05-13T13:30:00-03:00",
+    "dataFim": "2027-05-13T15:30:00-03:00",
+    "descricao": "<p>Abordagem sobre <i>Estratégias de Engajamento Discente na Pesquisa de Autoavaliação</i>, conduzida por <b>Juliana Penteado</b>.</p>",
+    "secao": "Capacitação das Subcomissões"
+   },
+   {
+    "nome": "Espaço de Convivência e Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-13T15:30:00-03:00",
+    "dataFim": "2027-05-13T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Diálogo",
+    "lugar": null,
+    "dataInicio": "2027-05-13T16:00:00-03:00",
+    "dataFim": "2027-05-13T18:00:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Desafios da Avaliação Institucional na Modalidade EaD</i>, mediada por <b>Tereza Cristina Ramos</b> e <b>Alexandre Motta</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2027-05-14T09:00:00-03:00",
+    "dataFim": "2027-05-14T10:45:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Políticas Públicas de Regulação e o SINAES no Cenário Atual</i>, apresentada por <b>Patrícia Albuquerque Neves</b>.</p>",
+    "secao": "Painéis Institucionais"
+   },
+   {
+    "nome": "Espaço de Convivência e Café",
+    "lugar": null,
+    "dataInicio": "2027-05-14T10:45:00-03:00",
+    "dataFim": "2027-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Boas Práticas",
+    "lugar": null,
+    "dataInicio": "2027-05-14T11:15:00-03:00",
+    "dataFim": "2027-05-14T12:30:00-03:00",
+    "descricao": "<p>Relato de experiências dos campi regionais com apresentação de <i>Transparência e Devolutiva dos Resultados da CPA à Comunidade Acadêmica</i>, por <b>Lucas Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-14T12:30:00-03:00",
+    "dataFim": "2027-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final e Encerramento",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2027-05-14T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Aprovação da carta de recomendações para o PDI e considerações finais com a coordenação de <b>Renata Silveira Diniz</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-42-00348",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim",
+   "descricoes_ricas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:34+00:00",
+ "uso_tokens": {
+  "entrada": 667,
+  "saida": 1645
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Mato-Grossense de Mulheres na Computação",
+   "local_geral": "Instituto de Computação - Universidade Federal de Mato Grosso (UFMT), Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Boas-Vindas e Abertura",
+    "lugar": "Auditório Rondon",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com as coordenadoras gerais <b>Dra. Mariana Rios Albuquerque</b> e <b>Ma. Beatriz Campos Faria</b>, acompanhadas pela diretoria do IC-UFMT.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Rondon",
+    "dataInicio": "2024-05-16T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra ministrada pela <b>Dra. Helena Silveira de Arruda</b> com a temática <i>Trajetórias Femininas na Inteligência Artificial e a Redução de Vieses Algorítmicos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório Rondon",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Vanessa Guimarães Prado</b>. Apresentação dos seguintes artigos:</p><p><i>Visualização de Dados Ambientais do Pantanal com Python</i> por <b>Aline Moreira Duarte</b> e <b>Letícia Nogueira</b>;</p><p><i>Algoritmos de Otimização em Redes de Sensores Sem Fio</i> por <b>Camila Rezende Pires</b>, <b>Taís Fontes Braga</b> e <b>Dra. Vanessa Guimarães Prado</b>;</p><p><i>Análise Preditiva de Evasão Feminina em Cursos de TI</i> por <b>Rafaela Neves Castilho</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2024-05-16T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre <i>Permanência e Desafios de Meninas em Carreiras STEM no Centro-Oeste</i>, mediado por <b>Fernanda Paes Siqueira</b> com a participação de <b>Luciana Toledo Bueno</b>, <b>Karen Cristina Batista</b> e <b>Sofia Moura Garcia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Oficina prática com o tema <i>Introdução ao Desenvolvimento Web Seguro com Django</i>, ministrada por <b>Eng. Juliana Meireles Correa</b> e auxiliada pela tutora <b>Gabriela Valente Pinho</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Ciência de Dados Aplicada à Bioinformática</i>, conduzida por <b>Profa. Renata Diniz Peixoto</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T15:45:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Carla Antunes Viana</b>. Trabalhos apresentados:</p><p><i>Processamento de Linguagem Natural na Classificação de Notícias Regionais</i> por <b>Marielle Castro Cunha</b> e <b>Débora Amaral Simões</b>;</p><p><i>Avaliação de Usabilidade de Aplicativos Móveis Rurais</i> por <b>Tatiane Carvalho Lins</b> e <b>Dra. Carla Antunes Viana</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel com a Indústria",
+    "lugar": null,
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Mesa com profissionais de tecnologia discutindo <i>Liderança Feminina e Inovação no Ecossistema de Startups</i>. Participantes convidadas: <b>Patrícia Sales Macedo</b> (CTO AgroTech), <b>Viviane Chaves Roriz</b> (Líder Técnica no Hub Cerrado) e a moderadora <b>Ma. Beatriz Campos Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Rondon",
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": "2024-05-17T18:30:00-03:00",
+    "descricao": "<p>Divulgação do prêmio de melhor artigo e encerramento com as professoras <b>Dra. Mariana Rios Albuquerque</b> e <b>Dra. Vanessa Guimarães Prado</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

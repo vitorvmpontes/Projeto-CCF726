@@ -1,0 +1,307 @@
+{
+ "spec": {
+  "id": "sint-42-00394",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Londrina - PR",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 35,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:22+00:00",
+ "uso_tokens": {
+  "entrada": 632,
+  "saida": 4955
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Summit Londrina 2025",
+   "local_geral": "Parque de Exposições Governador Ney Braga, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Central",
+    "dataInicio": "2025-05-19T08:00:00-03:00",
+    "dataFim": "2025-05-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-19T09:30:00-03:00",
+    "dataFim": "2025-05-19T10:30:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença de <b>Carlos Menezes</b>, presidente da comissão organizadora, e autoridades locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-19T10:30:00-03:00",
+    "dataFim": "2025-05-19T12:00:00-03:00",
+    "descricao": "<p>Apresentação de <b>Mariana Fagundes</b> com a palestra <i>O Futuro Conectado do Campo: Tendências Globais e Desafios Brasileiros</i>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça Gastronômica",
+    "dataInicio": "2025-05-19T12:00:00-03:00",
+    "dataFim": "2025-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Sala Inovação A",
+    "dataInicio": "2025-05-19T13:30:00-03:00",
+    "dataFim": "2025-05-19T15:30:00-03:00",
+    "descricao": "<p>Ministrado por <b>Rafael Zanin</b> sobre <i>Implementação Prática de Sensores IoT em Lavouras de Soja</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Sala Inovação B",
+    "dataInicio": "2025-05-19T13:30:00-03:00",
+    "dataFim": "2025-05-19T15:30:00-03:00",
+    "descricao": "<p>Conduzido por <b>Juliana Pires</b> com o tema <i>Bioinsumos e a Transição para uma Agricultura de Baixo Carbono</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Momento de Conexão e Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-19T15:30:00-03:00",
+    "dataFim": "2025-05-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-19T16:00:00-03:00",
+    "dataFim": "2025-05-19T18:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Desafios Regulatórios e Financiamento para Agtechs</i>, moderado por <b>Lucas Albuquerque</b> com participação de <b>Fernanda Esteves</b> e <b>Rodrigo Vianna</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Palestra Matutina",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-20T08:30:00-03:00",
+    "dataFim": "2025-05-20T10:00:00-03:00",
+    "descricao": "<p>Apresentação de <b>Hélio Guimarães</b> sobre <i>Inteligência Artificial Preditiva para Gestão de Safras</i>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-20T10:00:00-03:00",
+    "dataFim": "2025-05-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Auditório Soja",
+    "dataInicio": "2025-05-20T10:30:00-03:00",
+    "dataFim": "2025-05-20T12:00:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas com foco em <i>Manejo Integrado de Pragas com Suporte Digital</i> por <b>Camila Duarte</b> e <b>Sérgio Antunes</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": "Auditório Milho",
+    "dataInicio": "2025-05-20T10:30:00-03:00",
+    "dataFim": "2025-05-20T12:00:00-03:00",
+    "descricao": "<p>Apresentação focada em <i>Tecnologias de Irrigação de Precisão e Economia Hídrica</i> com <b>Patrícia Ramos</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça Gastronômica",
+    "dataInicio": "2025-05-20T12:00:00-03:00",
+    "dataFim": "2025-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Casos de Sucesso",
+    "lugar": "Sala Inovação A",
+    "dataInicio": "2025-05-20T13:30:00-03:00",
+    "dataFim": "2025-05-20T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Marcos Toledo</b> trazendo casos práticos: <i>Transformação Digital na Cooperativa Agroindustrial</i> relatado por <b>Elisa Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios 1",
+    "lugar": "Espaço Business",
+    "dataInicio": "2025-05-20T13:30:00-03:00",
+    "dataFim": "2025-05-20T15:30:00-03:00",
+    "descricao": "<p>Encontro estruturado entre produtores rurais e fornecedores de tecnologia.</p>",
+    "secao": "Negócios & Mercado"
+   },
+   {
+    "nome": "Mostra de Inovação Aberta",
+    "lugar": "Pavilhão Tecnológico",
+    "dataInicio": "2025-05-20T16:00:00-03:00",
+    "dataFim": "2025-05-20T18:00:00-03:00",
+    "descricao": "<p>Demonstração pública de soluções desenvolvidas em parceria com universidades e startups.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Demonstração em Campo 1",
+    "lugar": "Área Externa - Pista de Testes",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:30:00-03:00",
+    "descricao": "<p>Apresentação prática conduzida por <b>Danilo Siqueira</b>: <i>Operação e Eficiência de Tratores Autônomos em Solo Paranaense</i>.</p>",
+    "secao": "Demonstrações Práticas"
+   },
+   {
+    "nome": "Demonstração em Campo 2",
+    "lugar": "Área Externa - Talhão Experimental",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:30:00-03:00",
+    "descricao": "<p>Voo e telemetria avançada com coordenação de <b>Beatriz Castro</b> demonstrando <i>Drones de Pulverização de Alta Capacidade</i>.</p>",
+    "secao": "Demonstrações Práticas"
+   },
+   {
+    "nome": "Intervalo com Degustação de Produtos Regionais",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-21T10:30:00-03:00",
+    "dataFim": "2025-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-21T11:00:00-03:00",
+    "dataFim": "2025-05-21T12:30:00-03:00",
+    "descricao": "<p>Encontro sobre <i>Rastreabilidade e Cadeias Produtivas Sustentáveis</i> com os debatedores <b>Gustavo Meireles</b> e <b>Renata Silveira</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça Gastronômica",
+    "dataInicio": "2025-05-21T12:30:00-03:00",
+    "dataFim": "2025-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Competição de Startups - Etapa Classificatória",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-21T14:00:00-03:00",
+    "dataFim": "2025-05-21T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pitches avaliados pelos jurados <b>Tatiana Borges</b>, <b>André Linhares</b> e <b>Cláudia Peixoto</b>.</p>",
+    "secao": "Agtech Pitch Battle"
+   },
+   {
+    "nome": "Happy Hour e Networking",
+    "lugar": "Praça Gastronômica",
+    "dataInicio": "2025-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização informal para participantes, investidores e palestrantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Soja",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T10:00:00-03:00",
+    "descricao": "<p>Palestra de <b>Felipe Barreto</b> com o título <i>Genômica e Edição Gênica Aplicada à Resiliência Climática</i>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Mesa Técnica",
+    "lugar": "Auditório Milho",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T10:00:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Armazenamento Inteligente e Redução de Perdas Pós-Colheita</i> com <b>Vinícius Fontes</b> e <b>Aline Medeiros</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-22T10:00:00-03:00",
+    "dataFim": "2025-05-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios 2",
+    "lugar": "Espaço Business",
+    "dataInicio": "2025-05-22T10:30:00-03:00",
+    "dataFim": "2025-05-22T12:00:00-03:00",
+    "descricao": "<p>Reuniões bilaterais pré-agendadas entre fundos de Venture Capital e empreendedores.</p>",
+    "secao": "Negócios & Mercado"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça Gastronômica",
+    "dataInicio": "2025-05-22T12:00:00-03:00",
+    "dataFim": "2025-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala Inovação A",
+    "dataInicio": "2025-05-22T13:30:00-03:00",
+    "dataFim": "2025-05-22T16:30:00-03:00",
+    "descricao": "<p>Capacitação ministrada por <b>Leonardo Vasconcelos</b> intitulada <i>Análise de Dados Geoespaciais com Python para Agricultura de Precisão</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Competição de Startups - Grande Final",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T17:00:00-03:00",
+    "descricao": "<p>Pitches das 5 agtechs finalistas com avaliação final conduzida por <b>Tatiana Borges</b> e banca de investidores.</p>",
+    "secao": "Agtech Pitch Battle"
+   },
+   {
+    "nome": "Fórum de Lideranças Jovens do Agro",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-23T09:00:00-03:00",
+    "dataFim": "2025-05-23T10:30:00-03:00",
+    "descricao": "<p>Encontro coordenado por <b>Larissa Brandão</b> abordando <i>Sucessão Familiar e a Nova Geração de Gestores Rurais</i> com a presença de <b>Thiago Rezende</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-23T10:30:00-03:00",
+    "dataFim": "2025-05-23T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-23T11:00:00-03:00",
+    "dataFim": "2025-05-23T12:30:00-03:00",
+    "descricao": "<p>Apresentação especial ministrada por <b>Paulo Roberto Arantes</b> com o tema <i>Rumo a 2030: O Agronegócio Regenerativo e Tecnológico</i>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-05-23T12:30:00-03:00",
+    "dataFim": "2025-05-23T13:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Inovação Agro 2025 aos vencedores do torneio de startups pelo coordenador <b>Carlos Menezes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica Opcional",
+    "lugar": null,
+    "dataInicio": "2025-05-23T14:30:00-03:00",
+    "dataFim": "2025-05-23T17:30:00-03:00",
+    "descricao": "<p>Translado e visita guiada aos laboratórios da Embrapa Soja guiada pelo pesquisador <b>Mário Sérgio Ueda</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

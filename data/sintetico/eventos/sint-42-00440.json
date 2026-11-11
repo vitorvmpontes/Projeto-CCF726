@@ -1,0 +1,222 @@
+{
+ "spec": {
+  "id": "sint-42-00440",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Campo Grande - MS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 24,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos",
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:23+00:00",
+ "uso_tokens": {
+  "entrada": 705,
+  "saida": 3536
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Sul-Mato-Grossense de Medicina Tropical e Saúde Coletiva",
+   "local_geral": "Centro de Convenções Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Central",
+    "dataInicio": "2025-05-16T07:30:00-03:00",
+    "dataFim": "2025-05-16T08:30:00-03:00",
+    "descricao": "<p>Retirada do material oficial e validação de inscrições para participantes e palestrantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T09:15:00-03:00",
+    "descricao": "<p>Composição da mesa de honra com a presença do Dr. <b>Carlos Eduardo Amaral</b> e da secretária de saúde Dra. <b>Mirian Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-16T09:15:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Desafios contemporâneos no controle epidemiológico de zoonoses emergentes e reemergentes em áreas de fronteira seca no Centro-Oeste brasileiro</i>, ministrada pelo Prof. Dr. <b>Geraldo Antunes Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-16T10:15:00-03:00",
+    "dataFim": "2025-05-16T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-16T10:45:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Vigilância em Saúde e Arboviroses</i> com moderação de <b>Renata Queiroz Guimarães</b> e palestras de <b>Marcos Vinícius Taira</b> e <b>Lúcia Helena Brandão</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Sala Pantanal",
+    "dataInicio": "2025-05-16T10:45:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Saúde das Populações Indígenas de Mato Grosso do Sul</i> com <b>Taciana Silveira Ramos</b> e <b>Arandú Terena</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Treinamento Prático 1",
+    "lugar": "Laboratório de Habilidades Clínicas",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Treinamento em <i>Manejo Clínico e Diagnóstico Diferencial de Leishmaniose Visceral</i>, conduzido pela Dra. <b>Fernanda Cândido Alencar</b>.</p>",
+    "secao": "Treinamentos e Oficinas"
+   },
+   {
+    "nome": "Treinamento Prático 2",
+    "lugar": "Sala de Capacitação B",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Abordagem Inicial aos Acidentes Ofídicos e Animais Peçonhentos no Pantanal</i> ministrada pelo Dr. <b>Paulo Sérgio Bernardi</b>.</p>",
+    "secao": "Treinamentos e Oficinas"
+   },
+   {
+    "nome": "Sessão de E-Pôsteres",
+    "lugar": null,
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos científicos submetidos sob coordenação do Prof. <b>Henrique Duarte Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Temática",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-16T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra intitulada <i>Impactos ambientais provocados por queimadas e alterações climáticas na prevalência de doenças respiratórias agudas em comunidades vulneráveis</i> com o Dr. <b>Álvaro Siqueira Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Alinhamento da Comissão",
+    "lugar": "Sala de Reuniões 3",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T08:45:00-03:00",
+    "descricao": "<p>Encontro da comissão organizadora presidido por <b>Juliana Meireles Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-17T08:45:00-03:00",
+    "dataFim": "2025-05-17T10:00:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Inovações Terapêuticas nas Hepatites Virais</i> com patrocínio institucional, moderada pela Dra. <b>Silvana Portela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Continuação do debate com o tema <i>Atenção Primária e Doenças Negligenciadas</i>, com a participação de <b>Clarice Monteiro Maia</b> e <b>Jorge Luiz Valadares</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Sala Pantanal",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Painel sobre <i>Segurança do Paciente e Prevenção de Infecções Hospitalares</i>, com <b>Patrícia Nogueira Neves</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": "2025-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Treinamento Prático 1",
+    "lugar": "Laboratório de Habilidades Clínicas",
+    "dataInicio": "2025-05-17T13:30:00-03:00",
+    "dataFim": "2025-05-17T15:00:00-03:00",
+    "descricao": "<p>Segunda turma do treinamento <i>Manejo Clínico e Diagnóstico Diferencial de Leishmaniose Visceral</i>, conduzido pela Dra. <b>Fernanda Cândido Alencar</b>.</p>",
+    "secao": "Treinamentos e Oficinas"
+   },
+   {
+    "nome": "Sessão Oral de Temas Livres",
+    "lugar": "Sala Águas de Bonito",
+    "dataInicio": "2025-05-17T13:30:00-03:00",
+    "dataFim": "2025-05-17T15:00:00-03:00",
+    "descricao": "<p>Apresentação dos melhores trabalhos com avaliação da banca composta por <b>Rodrigo Otávio Salgado</b> e <b>Beatriz Viana Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de E-Pôsteres",
+    "lugar": null,
+    "dataInicio": "2025-05-17T15:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Segunda rodada de avaliações de resumos expandidos sob condução do Prof. <b>Henrique Duarte Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial de Fechamento",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": "2025-05-17T17:15:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Estratégias inovadoras para a integração de sistemas de informação em saúde visando à resposta rápida contra futuros surtos epidêmicos regionais</i>, proferida pelo Dr. <b>Alexandre Gusmão Castelo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação de Trabalhos",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-17T17:15:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Científico pelo coordenador <b>Rodrigo Otávio Salgado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Agradecimentos e considerações finais pela presidente da comissão, <b>Juliana Meireles Fontes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

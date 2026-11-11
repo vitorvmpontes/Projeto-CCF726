@@ -1,0 +1,293 @@
+{
+ "spec": {
+  "id": "sint-42-00236",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 33,
+  "casos": [
+   "intervalos",
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:12+00:00",
+ "uso_tokens": {
+  "entrada": 686,
+  "saida": 4814
+ },
+ "saida": {
+  "evento": {
+   "nome": "Goiânia Gourmet: Festival de Sabores e Saberes do Cerrado 2023",
+   "local_geral": "Centro Cultural Oscar Niemeyer, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T08:00:00-03:00",
+    "dataFim": "2023-08-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2023-08-18T09:30:00-03:00",
+    "dataFim": "2023-08-18T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial do festival com a presença da coordenadora geral <b>Mariana Alencar</b> e autoridades locais convidadas.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Pausa para Degustação Matinal",
+    "lugar": "Varanda dos Sabores",
+    "dataInicio": "2023-08-18T10:15:00-03:00",
+    "dataFim": "2023-08-18T10:45:00-03:00",
+    "descricao": null,
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Aula-show 1",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-08-18T10:45:00-03:00",
+    "dataFim": "2023-08-18T12:00:00-03:00",
+    "descricao": "<p>Apresentação culinária com o renomado chef <b>Humberto Maranhão</b>, abordando o tema <i>Releituras contemporâneas de pratos clássicos goianos valorizando o uso integral de ingredientes nativos e técnicas ancestrais de cocção lenta</i>.</p>",
+    "secao": "Aulas-show: Tradições Reinventadas"
+   },
+   {
+    "nome": "Intervalo para Almoço Livre",
+    "lugar": "Praça dos Food Trucks",
+    "dataInicio": "2023-08-18T12:00:00-03:00",
+    "dataFim": "2023-08-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Gastronômico 1",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Oficina de panificação artesanal comandada pelo padeiro <b>Cristiano Barcellos</b>, com o tema <i>Fermentação natural com leveduras selvagens do Cerrado</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T15:15:00-03:00",
+    "descricao": "<p>Conferência ministrada pela pesquisadora <b>Dra. Cecília Queiroz</b> com o título <i>Biodiversidade do Cerrado à Mesa: Potenciais Nutracêuticos</i>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Café com Prosa",
+    "lugar": "Espaço Café e Mercado",
+    "dataInicio": "2023-08-18T15:30:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 2",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-08-18T16:00:00-03:00",
+    "dataFim": "2023-08-18T17:30:00-03:00",
+    "descricao": "<p>A chef <b>Telma Machado</b> ensina preparos criativos na apresentação <i>Doces cristalizados e sobremesas finas à base de baru</i>.</p>",
+    "secao": "Aulas-show: Tradições Reinventadas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório Gastronômico 2",
+    "dataInicio": "2023-08-18T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Ateliê de confeitaria prática conduzido pela confeiteira <b>Beatriz Mendonça</b> sob o tema <i>Bombons recheados com ganaches de frutos do Centro-Oeste</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Happy Hour Cultural com Chorinho",
+    "lugar": "Esplanada das Artes",
+    "dataInicio": "2023-08-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show ao vivo do grupo liderado pelo músico <b>Rogério Peixoto</b> trazendo clássicos da música instrumental e petiscos regionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Acolhimento e Visita aos Estandes",
+    "lugar": "Pavilhão dos Produtores Locais",
+    "dataInicio": "2023-08-19T08:30:00-03:00",
+    "dataFim": "2023-08-19T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 3",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-08-19T09:15:00-03:00",
+    "dataFim": "2023-08-19T10:45:00-03:00",
+    "descricao": "<p>O chef convidado <b>Lucas Guimarães</b> demonstra receitas autorais no módulo <i>Peixes de rio e técnicas de defumação caseira</i>.</p>",
+    "secao": "Aulas-show: Cozinha Autoral e Regional"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2023-08-19T09:30:00-03:00",
+    "dataFim": "2023-08-19T10:45:00-03:00",
+    "descricao": "<p>Palestra ministrada pelo sommelier <b>Vitor Meirelles</b> abordando <i>A evolução da vitivinicultura de altitude e produção artesanal de queijos finos no Planalto Central</i>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Pausa para o Café do Produtor",
+    "lugar": "Espaço Café e Mercado",
+    "dataInicio": "2023-08-19T10:45:00-03:00",
+    "dataFim": "2023-08-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 4",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-08-19T11:15:00-03:00",
+    "dataFim": "2023-08-19T12:30:00-03:00",
+    "descricao": "<p>A chef <b>Danielle Rezende</b> compartilha técnicas modernas no painel <i>Risotos brasileiros combinando queijo artesanal goiano e guariroba fresca</i>.</p>",
+    "secao": "Aulas-show: Cozinha Autoral e Regional"
+   },
+   {
+    "nome": "Almoço e Circuito de Degustação",
+    "lugar": "Praça dos Food Trucks",
+    "dataInicio": "2023-08-19T12:30:00-03:00",
+    "dataFim": "2023-08-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2023-08-19T14:00:00-03:00",
+    "dataFim": "2023-08-19T15:30:00-03:00",
+    "descricao": "<p>Debate mediado pela jornalista <b>Flávia Silveira</b> com participação dos especialistas <b>Eduardo Farias</b> e <b>Sabrina Couto</b> sobre o tema <i>Turismo gastronômico sustentável como indutor do desenvolvimento econômico das comunidades tradicionais do interior de Goiás</i>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Laboratório Gastronômico 1",
+    "dataInicio": "2023-08-19T14:00:00-03:00",
+    "dataFim": "2023-08-19T15:30:00-03:00",
+    "descricao": "<p>A bartender <b>Camila Duarte</b> ministra oficina sobre <i>Mixologia tropical com cachaças artesanais e infusões de cagaita</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Varanda dos Sabores",
+    "dataInicio": "2023-08-19T15:30:00-03:00",
+    "dataFim": "2023-08-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 5",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-08-19T16:00:00-03:00",
+    "dataFim": "2023-08-19T17:30:00-03:00",
+    "descricao": "<p>O mestre assador <b>Renato Vilela</b> ensina os segredos da <i>Charcutaria sertaneja e cortes nobres preparados na brasa</i>.</p>",
+    "secao": "Aulas-show: Cozinha Autoral e Regional"
+   },
+   {
+    "nome": "Oficina Prática 4",
+    "lugar": "Laboratório Gastronômico 2",
+    "dataInicio": "2023-08-19T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Treinamento com a queijeira <b>Isabela Pontes</b> dedicado ao tema <i>Produção artesanal de queijo fresco temperado com ervas da mata</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Bate-papo com Produtores Rurais",
+    "lugar": "Pavilhão dos Produtores Locais",
+    "dataInicio": "2023-08-19T17:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro informal coordenado pelo agrônomo <b>Marcos Vinícius Prado</b> para troca de experiências sobre cultivo agroecológico.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Enogastronômica",
+    "lugar": "Esplanada das Artes",
+    "dataInicio": "2023-08-19T19:00:00-03:00",
+    "dataFim": "2023-08-19T21:30:00-03:00",
+    "descricao": "<p>Jantar harmonizado preparado em conjunto pelos chefs <b>Humberto Maranhão</b>, <b>Danielle Rezende</b> e <b>Lucas Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã Compartilhado",
+    "lugar": "Espaço Café e Mercado",
+    "dataInicio": "2023-08-20T08:30:00-03:00",
+    "dataFim": "2023-08-20T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 3",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2023-08-20T09:30:00-03:00",
+    "dataFim": "2023-08-20T10:30:00-03:00",
+    "descricao": "<p>Palestra de gestão gastronômica com a consultora <b>Patrícia Naves</b> abordando o tema <i>Estratégias de precificação consciente e redução de desperdício em cozinhas comerciais</i>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Aula-show 6",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-08-20T09:30:00-03:00",
+    "dataFim": "2023-08-20T11:00:00-03:00",
+    "descricao": "<p>Aula demonstrativa da chef <b>Clarice Antunes</b> com o tema <i>Cozinha afetiva: o resgate do empadão goiano tradicional com massa podre de banha</i>.</p>",
+    "secao": "Aulas-show: Cozinha Raiz e Memória"
+   },
+   {
+    "nome": "Parada do Café e Sabores",
+    "lugar": "Varanda dos Sabores",
+    "dataInicio": "2023-08-20T11:00:00-03:00",
+    "dataFim": "2023-08-20T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 7",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-08-20T11:30:00-03:00",
+    "dataFim": "2023-08-20T13:00:00-03:00",
+    "descricao": "<p>Apresentação especial com o mestre culinarista <b>Geraldo Ramos</b> preparando <i>Arroz com pequi e frango caipira em versão contemporânea desconstruída</i>.</p>",
+    "secao": "Aulas-show: Cozinha Raiz e Memória"
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Praça dos Food Trucks",
+    "dataInicio": "2023-08-20T13:00:00-03:00",
+    "dataFim": "2023-08-20T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 5",
+    "lugar": "Laboratório Gastronômico 1",
+    "dataInicio": "2023-08-20T14:30:00-03:00",
+    "dataFim": "2023-08-20T16:00:00-03:00",
+    "descricao": "<p>Prática de conservas e fermentados com a especialista <b>Juliana Esteves</b>, apresentando técnicas de <i>Picles de gueroba e geleias agridoces de pimenta-de-macaco</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Entrega do Prêmio Novos Talentos da Gastronomia Goiana",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2023-08-20T16:30:00-03:00",
+    "dataFim": "2023-08-20T17:30:00-03:00",
+    "descricao": "<p>Premiação dos estudantes e jovens cozinheiros do concurso gastronômico, apresentada pelo chef jurado <b>Rodrigo Castanheira</b> e pela curadora <b>Mariana Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Celebração dos Chefs",
+    "lugar": "Esplanada das Artes",
+    "dataInicio": "2023-08-20T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Brinde de fechamento da edição 2023 com todos os chefs participantes e apresentação de moda de viola com o violeiro <b>Almir de Castro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

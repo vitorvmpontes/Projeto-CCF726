@@ -1,0 +1,107 @@
+{
+ "spec": {
+  "id": "sint-42-00223",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Uberlândia - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 10,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:54+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 1673
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop de Inteligência Artificial do Triângulo Mineiro",
+   "local_geral": "Campus Santa Mônica, Universidade Federal de Uberlândia (UFU), Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Hall do Bloco 5R",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T08:30:00-03:00",
+    "descricao": "<p>Acolhimento dos participantes e entrega de crachás sob coordenação do Prof. <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2023-10-18T08:30:00-03:00",
+    "dataFim": "2023-10-18T09:45:00-03:00",
+    "descricao": "<p>Tema: <i>Modelos de Linguagem de Larga Escala e o Futuro do Trabalho Cognitivo</i>.</p><p>Palestrante: Profa. Dra. <b>Heloísa Helena Ribeiro</b> (UFU).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência do Bloco 5R",
+    "dataInicio": "2023-10-18T09:45:00-03:00",
+    "dataFim": "2023-10-18T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 5R-101",
+    "dataInicio": "2023-10-18T10:15:00-03:00",
+    "dataFim": "2023-10-18T12:15:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Introdução Prática a Visão Computacional com PyTorch e OpenCV</i>.</p><p>Instrutor: <b>Lucas Vasconcelos Prado</b> (Instituto Federal do Triângulo Mineiro).</p>",
+    "secao": "Minicursos Manhã"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática 5R-102",
+    "dataInicio": "2023-10-18T10:15:00-03:00",
+    "dataFim": "2023-10-18T12:15:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de Prompt e Aplicações com APIs da OpenAI e LangChain</i>.</p><p>Ministrante: <b>Mariana Pires Guimarães</b> (TechLab Uberlândia).</p>",
+    "secao": "Minicursos Manhã"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-18T12:15:00-03:00",
+    "dataFim": "2023-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática 5R-101",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Processamento de Séries Temporais no Agronegócio com Redes Recorrentes e Transformers</i>.</p><p>Ministrado por <b>Diego Fernandes Silveira</b> e <b>Patrícia Nogueira Castro</b> (Embrapa Informática Agropecuária).</p>",
+    "secao": "Minicursos Tarde"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Informática 5R-102",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>MLOps e Monitoramento Contínuo de Modelos em Produção na Nuvem</i>.</p><p>Instrutor: <b>Roberto Alencar Faria</b> (Zup Innovation).</p>",
+    "secao": "Minicursos Tarde"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2023-10-18T16:15:00-03:00",
+    "dataFim": "2023-10-18T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Ética, Regulação e Impactos Regionais da Inteligência Artificial em Minas Gerais</i>.</p><p>Debatedores: <b>Camila Duarte de Souza</b> (OAB Uberlândia), <b>Fernando Bicalho Maia</b> (SINDINFOR) e <b>Beatriz Lima Fonseca</b> (UFU). Moderação de <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2023-10-18T17:30:00-03:00",
+    "dataFim": "2023-10-18T18:00:00-03:00",
+    "descricao": "<p>Apresentação das conclusões do workshop e sorteio de bolsas de estudo, conduzidos por <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

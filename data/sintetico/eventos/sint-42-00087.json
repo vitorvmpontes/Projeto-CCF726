@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-42-00087",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:01+00:00",
+ "uso_tokens": {
+  "entrada": 687,
+  "saida": 1676
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Summit Paraná 2026",
+   "local_geral": "Centro de Eventos Positivo, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Boas-Vindas",
+    "lugar": "Auditório Pinheiro do Paraná",
+    "dataInicio": "2026-04-15T09:00:00-03:00",
+    "dataFim": "2026-04-15T09:40:00-03:00",
+    "descricao": "<p>Sessão inaugural com a participação de <b>Marcos Aurélio Silveira</b> e <b>Dra. Cecília Andrade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Pinheiro do Paraná",
+    "dataInicio": "2026-04-15T10:00:00-03:00",
+    "dataFim": "2026-04-15T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e o Uso de Drones na Pulverização de Precisão</i>. Moderação de <b>Renato Guimarães</b> com os debatedores <b>Dra. Luciana Fagundes</b> e <b>Eng. Paulo Vítor Prado</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala Araucária Inovação",
+    "dataInicio": "2026-04-15T10:00:00-03:00",
+    "dataFim": "2026-04-15T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Integração de Sensores IoT para Manejo Hídrico Inteligente</i>. Ministrado por <b>Mateus Zanin</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Espaço Agroverde",
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Soluções Disruptivas em Biotecnologia Aplicada à Soja</i> perante banca avaliadora com <b>Tatiana Meireles</b> e <b>Felipe Castanho</b>.</p>",
+    "secao": "Arena de Inovação"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena Conexão Campo",
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Plataformas de Crédito Rural e Barter Digital</i>. Avaliadores convidados: <b>Rodrigo Nogueira</b> e <b>Camila Siqueira</b>.</p>",
+    "secao": "Arena de Inovação"
+   },
+   {
+    "nome": "Pausa para Relacionamento",
+    "lugar": null,
+    "dataInicio": "2026-04-15T15:30:00-03:00",
+    "dataFim": "2026-04-15T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": null,
+    "dataInicio": "2026-04-15T16:15:00-03:00",
+    "dataFim": "2026-04-15T17:30:00-03:00",
+    "descricao": "<p>Apresentação com o tema <i>Rastreabilidade de Grãos via Blockchain: Da Lavoura à Exportação</i>, conduzida pelo especialista <b>Henrique Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala Araucária Inovação",
+    "dataInicio": "2026-04-16T09:00:00-03:00",
+    "dataFim": "2026-04-16T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Machine Learning no Monitoramento de Pragas em Tempo Real</i>, com o facilitador <b>Dr. Rogério Takahashi</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Pinheiro do Paraná",
+    "dataInicio": "2026-04-16T11:00:00-03:00",
+    "dataFim": "2026-04-16T12:30:00-03:00",
+    "descricao": "<p>Tema central: <i>Mercado de Carbono e Bioinsumos na Agricultura Regenerativa</i>. Participação de <b>Beatriz Antunes</b>, <b>Gustavo Pederneiras</b> e coordenação de <b>Juliana Bastos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mostra de Tecnologias Sustentáveis",
+    "lugar": null,
+    "dataInicio": "2026-04-16T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição de protótipos de bioenergia sob curadoria do pesquisador <b>Dr. Marcelo Vidigal</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento e Premiação",
+    "lugar": null,
+    "dataInicio": "2026-04-16T17:30:00-03:00",
+    "dataFim": "2026-04-16T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

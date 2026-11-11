@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00042",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "João Pessoa - PB",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:29+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 1242
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Paraibano de Mulheres na Computação",
+   "local_geral": "Centro de Informática da UFPB, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Boas-Vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Margareth Hamilton",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial Responsável e a Liderança Feminina na Tecnologia</i>.</p><p>Palestrante: <b>Dra. Mariana Vasconcelos</b> (UFCG).</p><p>Coordenação: <b>Profa. Camila Albuquerque</b> (UFPB).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica",
+    "lugar": "Sala de Seminários 1",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Profa. Beatriz Silveira</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Detecção de Vieses de Gênero em Algoritmos de Triagem de Currículos</i> por <b>Aline Medeiros</b> e <b>Bruna Guimarães</b>.</p><p>2. <i>Análise de Dados Educacionais no Ensino Médio com Foco em Meninas na Ciência</i> por <b>Carla Fontes</b> e <b>Danielle Ramos</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica",
+    "lugar": "Sala de Seminários 2",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Fernanda Lins</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Arquiteturas Seguras para Dispositivos IoT Aplicados à Saúde da Mulher</i> por <b>Larissa Paiva</b> e <b>Juliana Costa</b>.</p><p>2. <i>Engenharia de Software Inclusiva: Diretrizes para Acessibilidade Cognitiva</i> por <b>Priscila Dantas</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Margareth Hamilton",
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": "2025-05-16T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Carreiras Femininas em TI no Nordeste: Desafios, Redes de Apoio e Oportunidades</i>.</p><p>Debatedoras: <b>Renata Meireles</b> (ThoughtWorks), <b>Gabriela Nóbrega</b> (CESAR) e <b>Sofia Aragão</b> (IFPB).</p><p>Mediação: <b>Profa. Luciana Xavier</b> (UFPB).</p>",
+    "secao": null
+   }
+  ]
+ }
+}

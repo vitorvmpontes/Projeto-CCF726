@@ -1,0 +1,285 @@
+{
+ "spec": {
+  "id": "sint-42-00213",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Recife - PE",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 32,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:22+00:00",
+ "uso_tokens": {
+  "entrada": 668,
+  "saida": 4893
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Pernambucano de Direito Contemporâneo e Práticas Jurisdicionais",
+   "local_geral": "Centro de Convenções de Pernambuco, Olinda/Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Materiais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-08-18T08:00:00-03:00",
+    "dataFim": "2027-08-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-18T09:30:00-03:00",
+    "dataFim": "2027-08-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento da Dra. <b>Clarice Gusmão Arcoverde</b> e do Dr. <b>Henrique Lyra Sobrinho</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Os Rumos do Constitucionalismo Latino-Americano no Século XXI</i>. Conferencista: Min. <b>Sérgio Ramos da Matta</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-08-18T12:00:00-03:00",
+    "dataFim": "2027-08-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-18T14:00:00-03:00",
+    "dataFim": "2027-08-18T16:00:00-03:00",
+    "descricao": "<p>Tema central: <i>Reforma Tributária e Segurança Jurídica Federativa</i>. Debatedores: Profa. Dra. <b>Renata Albuquerque Fontes</b> e Dr. <b>Marcelo de Hollanda Cavalcanti</b>. Mediação: Conselheira <b>Beatriz Mendonça Uchôa</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-08-18T16:00:00-03:00",
+    "dataFim": "2027-08-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-18T16:30:00-03:00",
+    "dataFim": "2027-08-18T18:30:00-03:00",
+    "descricao": "<p>Tema central: <i>Precedentes Vinculantes e Coerência Jurisprudencial nos Tribunais Superiores</i>. Participantes: Des. <b>Tiago Benevides Maia</b> e Profa. <b>Lúcia Maranhão Guimarães</b>. Coordenação: Dr. <b>Estêvão Campelo Dantas</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Coquetel de Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2027-08-18T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de integração entre os congressistas e lançamento de obras jurídicas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:15:00-03:00",
+    "descricao": "<p>Tema central: <i>Inteligência Artificial na Decisão Judicial: Limites Éticos e Probatórios</i>. Painelistas: Dr. <b>Rodrigo Vasconcelos de Arruda</b> e Profa. Dra. <b>Fernanda Lins Paes</b>. Presidência da mesa: Dra. <b>Carolina Carneiro Leão</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 4",
+    "lugar": "Auditório Beberibe",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:15:00-03:00",
+    "descricao": "<p>Tema central: <i>Tutela Coletiva do Meio Ambiente e Litigância Climática</i>. Expositores: Promotor <b>Fábio Morais Coutinho</b> e Dra. <b>Isabela Meira Lins</b>. Debates conduzidos por <b>Guilherme Queiroz Saraiva</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-08-19T10:15:00-03:00",
+    "dataFim": "2027-08-19T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2027-08-19T10:45:00-03:00",
+    "dataFim": "2027-08-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos aprovados na linha de Direito Privado Contemporâneo. Avaliadores: Prof. Me. <b>Cláudio Galvão Neves</b> e Profa. Ma. <b>Juliana Prado Montenegro</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-08-19T10:45:00-03:00",
+    "dataFim": "2027-08-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos acadêmicos no eixo de Direito Processual e Acesso à Justiça. Coordenação: Prof. Dr. <b>Diógenes Sampaio Vilar</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-08-19T12:30:00-03:00",
+    "dataFim": "2027-08-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 5",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-19T14:00:00-03:00",
+    "dataFim": "2027-08-19T16:00:00-03:00",
+    "descricao": "<p>Tema central: <i>Garantismo Penal e os Desafios da Investigação Defensiva no Brasil</i>. Debatedores: Defensora Pública <b>Aline Barreto Siqueira</b> e Dr. <b>Vicente Cascudo Nóbrega</b>. Mediação: Prof. <b>Eduardo Peixoto Tavares</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-08-19T16:00:00-03:00",
+    "dataFim": "2027-08-19T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 6",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema central: <i>Novas Relações de Trabalho e a Proteção Jurídica dos Trabalhadores por Plataformas</i>. Exposições dos juristas <b>Otávio Rego Barros Filho</b> e <b>Mônica Silveira Caldas</b>. Comentários de <b>Wagner Pires da Silva</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Jurídico 1",
+    "dataInicio": "2027-08-20T08:30:00-03:00",
+    "dataFim": "2027-08-20T10:30:00-03:00",
+    "descricao": "<p>Prática: <i>Elaboração e Sustentação de Recursos nos Tribunais Superiores</i>. Instrutor: Dr. <b>Lucas Vilaça Brandão</b>.</p>",
+    "secao": "Oficinas de Prática Jurídica"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório Jurídico 2",
+    "dataInicio": "2027-08-20T08:30:00-03:00",
+    "dataFim": "2027-08-20T10:30:00-03:00",
+    "descricao": "<p>Prática: <i>Técnicas de Negociação e Mediação de Conflitos Societários</i>. Condução: Profa. <b>Patrícia Figueiroa Dias</b>.</p>",
+    "secao": "Oficinas de Prática Jurídica"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-08-20T10:30:00-03:00",
+    "dataFim": "2027-08-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 7",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-20T11:00:00-03:00",
+    "dataFim": "2027-08-20T12:45:00-03:00",
+    "descricao": "<p>Tema central: <i>Direito Administrativo Sancionador e Acordos de Leniência</i>. Painelistas: Procuradora <b>Cecília Gondim Feitosa</b> e Dr. <b>Álvaro Pinho de Andrade</b>. Coordenação da mesa por <b>Raul Medeiros Parente</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-08-20T12:45:00-03:00",
+    "dataFim": "2027-08-20T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 8",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2027-08-20T14:15:00-03:00",
+    "dataFim": "2027-08-20T16:15:00-03:00",
+    "descricao": "<p>Tema central: <i>Direito das Famílias Contemporâneo: Multiparentalidade e Planejamento Sucessório</i>. Debatedores: Des. <b>Hugo Esteves Correia</b> e Dra. <b>Bárbara Vilaça Ramos</b>. Mediação: Profa. <b>Talita Dornelles Bezerra</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 9",
+    "lugar": null,
+    "dataInicio": "2027-08-20T14:15:00-03:00",
+    "dataFim": "2027-08-20T16:15:00-03:00",
+    "descricao": "<p>Tema central: <i>Compliance Antitruste e Regulação Econômica na Economia Digital</i>. Palestrantes: Dr. <b>Gabriel Nogueira Fontenelle</b> e Profa. Dra. <b>Mirella Santos Castelo Branco</b>. Condução: <b>Daniel Falcão de Castro</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-08-20T16:15:00-03:00",
+    "dataFim": "2027-08-20T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Especial",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-20T16:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo: <i>Direitos Fundamentais e Crise Democrática Global</i>. Exposição dos juristas <b>Samuel Viana de Albuquerque</b> e <b>Elenice Maciel Portugal</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 10",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-21T09:00:00-03:00",
+    "dataFim": "2027-08-21T10:45:00-03:00",
+    "descricao": "<p>Tema central: <i>Arbitragem com a Administração Pública e Eficiência nos Contratos Administrativos</i>. Participantes convidados: Procurador <b>Marcos Vinícius Wanderley</b> e Profa. <b>Elisa Coimbra Peçanha</b>. Moderador: Dr. <b>Felipe Torres Galindo</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-08-21T10:45:00-03:00",
+    "dataFim": "2027-08-21T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 11",
+    "lugar": null,
+    "dataInicio": "2027-08-21T11:15:00-03:00",
+    "dataFim": "2027-08-21T12:45:00-03:00",
+    "descricao": "<p>Tema central: <i>Proteção de Dados e o Sistema Financeiro Aberto: Desafios da LGPD</i>. Debatedores: Dra. <b>Viviane Paes Barreto</b> e Dr. <b>Bernardo Silveira Lima</b>. Coordenação: <b>Marina Queiroz Valença</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-21T14:30:00-03:00",
+    "dataFim": "2027-08-21T16:00:00-03:00",
+    "descricao": "<p>Apresentação e aprovação das teses e moções finais da plenária pelos relatores <b>Camila Gouveia Freire</b> e <b>André Cordeiro Mello</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Conferência Magna de Encerramento",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-21T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra de fechamento: <i>O Futuro da Jurisdição e a Defesa do Estado Democrático de Direito</i>. Conferencista: Min. <b>Geraldo Vasconcelos Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-08-21T17:30:00-03:00",
+    "dataFim": "2027-08-21T18:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Tobias Barreto aos melhores trabalhos científicos apresentados, com a presença de <b>Clarice Gusmão Arcoverde</b> e <b>Henrique Lyra Sobrinho</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   }
+  ]
+ }
+}

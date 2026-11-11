@@ -1,0 +1,197 @@
+{
+ "spec": {
+  "id": "sint-42-00100",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Uberlândia - MG",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "nomes_repetidos",
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:12+00:00",
+ "uso_tokens": {
+  "entrada": 696,
+  "saida": 3198
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroFuturo Summit 2026: Conexões Sustentáveis e Tecnologia no Campo",
+   "local_geral": "Centro de Convenções Center de Uberlândia, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in dos Congressistas",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-13T08:00:00-03:00",
+    "dataFim": "2026-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Master Cerrado",
+    "dataInicio": "2026-05-13T09:00:00-03:00",
+    "dataFim": "2026-05-13T10:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>O Papel Estratégico do Triângulo Mineiro na Nova Fronteira Agrodigital Brasileira</i>, com moderação de <b>Renato Guimarães Prado</b> e contribuições de <b>Clarice Menezes Fontes</b> e <b>Eduardo Silveira Ramos</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Circuito de Demonstração de Drones",
+    "lugar": "Arena Externa Campo Conectado",
+    "dataInicio": "2026-05-13T10:45:00-03:00",
+    "dataFim": "2026-05-13T12:15:00-03:00",
+    "descricao": "<p>Apresentação prática de pulverização de precisão e imageamento multiespectral com o engenheiro <b>Lucas Bernardes Vilela</b>.</p>",
+    "secao": "Demonstrações Práticas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-13T12:15:00-03:00",
+    "dataFim": "2026-05-13T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Soja Sustentável",
+    "dataInicio": "2026-05-13T14:00:00-03:00",
+    "dataFim": "2026-05-13T15:30:00-03:00",
+    "descricao": "<p>Apresentação do trabalho <i>A Integração de Sensores em Tempo Real com Inteligência Artificial para Mitigação Imediata dos Efeitos do Estresse Hídrico em Culturas Tropicais</i>, conduzida pelo pesquisador <b>Dr. Henrique Albuquerque Meireles</b>.</p>",
+    "secao": "Trilhas Técnicas"
+   },
+   {
+    "nome": "Oficina Prática de Bioinsumos",
+    "lugar": "Laboratório de Solos e Raízes",
+    "dataInicio": "2026-05-13T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Instrução aplicada sobre multiplicação on-farm de microrganismos eficientes, ministrada pela <b>Profa. Dra. Juliana Arantes Sampaio</b>.</p>",
+    "secao": "Workshops de Campo"
+   },
+   {
+    "nome": "Rodada de Negócios e Networking",
+    "lugar": "Espaço AgTech Coworking",
+    "dataInicio": "2026-05-13T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro focado na conexão entre startups do agronegócio e investidores-anjo, com facilitação de <b>Mariana Castro Alvim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Master Cerrado",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T10:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Mercado de Créditos de Carbono no Manejo Integrado de Pastagens</i>, com os especialistas <b>Thiago Antunes Peixoto</b> e <b>Camila Duarte Nogueira</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Oficina Prática de Bioinsumos",
+    "lugar": "Laboratório de Solos e Raízes",
+    "dataInicio": "2026-05-14T10:15:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Segunda turma da atividade de controle biológico com <b>Profa. Dra. Juliana Arantes Sampaio</b> e o assistente técnico <b>Rodrigo Vasconcelos Rios</b>.</p>",
+    "secao": "Workshops de Campo"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Soja Sustentável",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T11:45:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Rastreabilidade de Cadeias Bovinas Baseada em DLTs para Pequenos Produtores</i> pelo especialista <b>Otávio Mendes Camargo</b>.</p>",
+    "secao": "Trilhas Técnicas"
+   },
+   {
+    "nome": "Almoço e Visitação aos Estandes",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2026-05-14T12:00:00-03:00",
+    "dataFim": "2026-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Circuito de Demonstração de Drones",
+    "lugar": "Arena Externa Campo Conectado",
+    "dataInicio": "2026-05-14T13:30:00-03:00",
+    "dataFim": "2026-05-14T15:00:00-03:00",
+    "descricao": "<p>Segunda sessão de voo com foco em topografia e análise de biomassa orientada por <b>Lucas Bernardes Vilela</b> e a agrônoma <b>Fernanda Lins Costa</b>.</p>",
+    "secao": "Demonstrações Práticas"
+   },
+   {
+    "nome": "Oficina de Telemetria e Conectividade Rural",
+    "lugar": "Sala de Capacitação Tecnológica",
+    "dataInicio": "2026-05-14T15:15:00-03:00",
+    "dataFim": "2026-05-14T17:00:00-03:00",
+    "descricao": "<p>Treinamento sobre redes LoRaWAN e satélites de baixa órbita no maquinário agrícola sob a tutela de <b>Vinícius Pires Toledo</b>.</p>",
+    "secao": "Workshops de Campo"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Master Cerrado",
+    "dataInicio": "2026-05-14T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão intitulada <i>Impactos Legais e Econômicos da Lei de Defensivos Agrícolas</i> com a consultora jurídica <b>Patrícia Leão Marcondes</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Milho & Grãos",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:00:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Desenvolvimento de Modelos Preditivos Baseados em Aprendizado Profundo para Identificação Precoce de Pragas e Doenças Fúngicas em Lavouras de Milho</i> com <b>Prof. Dr. Marcelo Bastos Rezende</b>.</p>",
+    "secao": "Trilhas Técnicas"
+   },
+   {
+    "nome": "Pitch de Startups do Agro",
+    "lugar": "Espaço AgTech Coworking",
+    "dataInicio": "2026-05-15T10:15:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação de 8 startups selecionadas perante a banca avaliadora liderada por <b>Vanessa Goulart Diniz</b> e <b>Gabriel Matos Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 4",
+    "lugar": "Auditório Soja Sustentável",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T15:00:00-03:00",
+    "descricao": "<p>Discussão a respeito de <i>Metodologias Analíticas para Avaliação do Impacto Ecotoxicológico de Nanopesticidas em Solos Arenosos do Cerrado Brasileiro</i>, apresentada pela pesquisadora <b>Dra. Cecília Viana Moreira</b>.</p>",
+    "secao": "Trilhas Técnicas"
+   },
+   {
+    "nome": "Circuito de Demonstração de Drones",
+    "lugar": "Arena Externa Campo Conectado",
+    "dataInicio": "2026-05-15T15:15:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": "<p>Demonstração final abordando enxames autônomos de drones em operações noturnas e de alta declividade, com <b>Lucas Bernardes Vilela</b>.</p>",
+    "secao": "Demonstrações Práticas"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Master Cerrado",
+    "dataInicio": "2026-05-15T16:45:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do Prêmio Inovação Agro 2026 com os anfitriões <b>Renato Guimarães Prado</b> e <b>Clarice Menezes Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Celebração",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-15T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

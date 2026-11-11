@@ -1,0 +1,181 @@
+{
+ "spec": {
+  "id": "sint-42-00399",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Natal - RN",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 19,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:36+00:00",
+ "uso_tokens": {
+  "entrada": 687,
+  "saida": 3036
+ },
+ "saida": {
+  "evento": {
+   "nome": "Sabores Potiguares: Festival de Gastronomia e Saberes da Costa Branca",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Brinde de Boas-Vindas",
+    "lugar": "Arena Gourmet",
+    "dataInicio": "2025-10-15T18:00:00-03:00",
+    "dataFim": "2025-10-15T19:30:00-03:00",
+    "descricao": "<p>Cerimônia de abertura conduzida pela curadora <b>Mariana Medeiros</b> e pelo chef potiguar <b>Clécio Gomes</b>, celebrando a riqueza dos ingredientes nativos do Rio Grande do Norte.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2025-10-15T20:00:00-03:00",
+    "dataFim": "2025-10-15T21:30:00-03:00",
+    "descricao": "<p>Apresentação culinária com a chef <b>Renata Barbalho</b> preparando o prato <i>Ginga com tapioca revisitada com infusão de azeite de coentro e crocante de castanha</i>.</p>",
+    "secao": "Aulas-Show Noturnas"
+   },
+   {
+    "nome": "Oficina Gastronômica",
+    "lugar": "Laboratório de Panificação",
+    "dataInicio": "2025-10-16T14:00:00-03:00",
+    "dataFim": "2025-10-16T16:00:00-03:00",
+    "descricao": "<p>Oficina prática com o mestre padeiro <b>Hugo Vasconcelos</b> ensinando <i>Fermentação natural com uso de derivados de macaxeira e técnicas contemporâneas para panificação artesanal litorânea</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Barreira do Inferno",
+    "dataInicio": "2025-10-16T14:30:00-03:00",
+    "dataFim": "2025-10-16T16:00:00-03:00",
+    "descricao": "<p>Apresentação do pesquisador <b>Danilo Figueiredo</b> sobre <i>A valorização da cadeia produtiva do camarão potiguar da pesca artesanal ao cardápio da alta gastronomia sustentável regional</i>.</p>",
+    "secao": "Ciclo de Debates e Saberes"
+   },
+   {
+    "nome": "Degustação Guiada",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2025-10-16T16:30:00-03:00",
+    "dataFim": "2025-10-16T18:00:00-03:00",
+    "descricao": "<p>Sessão sensorial com o sommelier <b>Lucas Furtado</b> explorando rótulos nordestinos e harmonização com queijo de coalho curado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2025-10-16T19:00:00-03:00",
+    "dataFim": "2025-10-16T20:30:00-03:00",
+    "descricao": "<p>Demonstração do chef <b>Thiago Freitas</b> com a receita <i>Arroz de leite da terra com carne de sol glaceada no mel de engenho</i>.</p>",
+    "secao": "Aulas-Show Noturnas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Barreira do Inferno",
+    "dataInicio": "2025-10-17T14:00:00-03:00",
+    "dataFim": "2025-10-17T15:30:00-03:00",
+    "descricao": "<p>Conferência ministrada pela antropóloga alimentar <b>Sílvia Albuquerque</b> intitulada <i>O resgate etnográfico das tradições sertanejas como matriz de inovação e valorização patrimonial na culinária contemporânea do semiárido brasileiro</i>.</p>",
+    "secao": "Ciclo de Debates e Saberes"
+   },
+   {
+    "nome": "Oficina Gastronômica",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2025-10-17T14:00:00-03:00",
+    "dataFim": "2025-10-17T16:00:00-03:00",
+    "descricao": "<p>Oficina conduzida pela confeiteira <b>Clarice Prado</b> preparando <i>Mousse de cajá com calda de umbu e praliné de castanhas</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão de Harmonização",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2025-10-17T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Experiência com cachaças do Alambique Papary guiada pelo especialista <b>Otávio Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2025-10-17T19:00:00-03:00",
+    "dataFim": "2025-10-17T20:30:00-03:00",
+    "descricao": "<p>O chef convidado <b>Felipe Bronzeado</b> apresenta <i>Peixe da costa em crosta de sal marinho de Areia Branca e pirão de caranguejo</i>.</p>",
+    "secao": "Aulas-Show Noturnas"
+   },
+   {
+    "nome": "Feira de Produtores e Artesanato",
+    "lugar": "Pavilhão Dunas",
+    "dataInicio": "2025-10-18T10:00:00-03:00",
+    "dataFim": "2025-10-18T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Gastronômica Infantil",
+    "lugar": "Espaço Cozinha Kids",
+    "dataInicio": "2025-10-18T11:00:00-03:00",
+    "dataFim": "2025-10-18T12:30:00-03:00",
+    "descricao": "<p>Atividade voltada para crianças com a chef educadora <b>Lígia Câmara</b> ensinando a montagem lúdica de <i>Mini tapiocas coloridas com purê de frutas regionais</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Barreira do Inferno",
+    "dataInicio": "2025-10-18T14:30:00-03:00",
+    "dataFim": "2025-10-18T16:00:00-03:00",
+    "descricao": "<p>Palestra com a ecogastrônoma <b>Bárbara Fontes</b> abordando a <i>Biodiversidade marinha e o aproveitamento integral de pescados e frutos do mar no litoral nordestino para redução do desperdício nas cozinhas profissionais</i>.</p>",
+    "secao": "Ciclo de Debates e Saberes"
+   },
+   {
+    "nome": "Bate-Papo com Mestres Queijeiros",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2025-10-18T15:00:00-03:00",
+    "dataFim": "2025-10-18T16:30:00-03:00",
+    "descricao": "<p>Roda de conversa mediada por <b>Vicente Cascudo</b> com participação de produtores rurais do Seridó.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Degustação Guiada",
+    "lugar": "Sala de Análise Sensorial",
+    "dataInicio": "2025-10-18T17:00:00-03:00",
+    "dataFim": "2025-10-18T18:30:00-03:00",
+    "descricao": "<p>Apresentação e prova cega de cafés especiais da serra de Martins, sob condução da barista <b>Teresa Montenegro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Duelo dos Chefs da Costa",
+    "lugar": "Arena Gourmet",
+    "dataInicio": "2025-10-18T20:00:00-03:00",
+    "dataFim": "2025-10-18T22:00:00-03:00",
+    "descricao": "<p>Competição amistosa ao vivo entre os chefs <b>Paulo Aranha</b> e <b>Gabriela Sampaio</b> com ingredientes surpresa da caatinga.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Gastronômica Infantil",
+    "lugar": "Espaço Cozinha Kids",
+    "dataInicio": "2025-10-19T11:00:00-03:00",
+    "dataFim": "2025-10-19T12:30:00-03:00",
+    "descricao": "<p>Segunda edição da oficina infantil com a chef <b>Lígia Câmara</b> ensinando a preparar <i>Biscoitos crocantes de castanha-de-caju</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2025-10-19T15:30:00-03:00",
+    "dataFim": "2025-10-19T17:00:00-03:00",
+    "descricao": "<p>Cozinha ao vivo comandada pela chef <b>Camila Duarte</b> demonstrando <i>Baião de dois do mar com polvo grelhado e manteiga de garrafa aromatizada</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Entrega do Prêmio Dólmã Potiguar",
+    "lugar": "Arena Gourmet",
+    "dataInicio": "2025-10-19T18:00:00-03:00",
+    "dataFim": "2025-10-19T20:30:00-03:00",
+    "descricao": "<p>Premiação dos destaques culinários do festival apresentada por <b>Mariana Medeiros</b> e <b>Clécio Gomes</b> com show de forró tradicional.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

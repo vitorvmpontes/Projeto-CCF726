@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-42-00216",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:27+00:00",
+ "uso_tokens": {
+  "entrada": 672,
+  "saida": 832
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Brasileiro de Agroecologia e Sistemas Sustentáveis",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Material",
+    "lugar": "Hall do Prédio Principal",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Anfiteatro A",
+    "dataInicio": "2026-05-14T10:00:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Tema: Manejo Agroecológico do Solo e Biodefensivos.</p><p>Apresentação dos artigos selecionados sob coordenação do Prof. Dr. <b>Carlos Eduardo Guimarães</b>. Trabalhos em destaque: <i>Uso de biofertilizantes enriquecidos no cultivo da mandioca no cerrado mineiro</i>, apresentado por <b>Marina Silveira Rios</b>, e <i>Dinâmica da matéria orgânica em sistemas agroflorestais regenerativos</i>, por <b>Lucas Fagundes Dias</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2026-05-14T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Auditório da Biblioteca",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": "<p>Tema: Economia Solidária e Circuitos Curtos de Comercialização.</p><p>Debatedora: Profa. Dra. <b>Helena Vasconcelos Ramos</b>. Artigos orais: <i>Feiras agroecológicas itinerantes como propulsoras da soberania alimentar</i>, pela pesquisadora <b>Camila Duarte Nogueira</b>; e <i>Análise comparativa de custos de transação na agricultura familiar periurbana</i>, apresentado por <b>Rodrigo Otávio Neves</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Café de Encerramento e Confraternização",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-15T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

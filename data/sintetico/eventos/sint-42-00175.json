@@ -1,0 +1,67 @@
+{
+ "spec": {
+  "id": "sint-42-00175",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Macapá - AP",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:50+00:00",
+ "uso_tokens": {
+  "entrada": 655,
+  "saida": 856
+ },
+ "saida": {
+  "evento": {
+   "nome": "1º Festival Sabores do Meio do Mundo",
+   "local_geral": "Complexo Beira-Rio, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Degustação de Boas-Vindas",
+    "lugar": "Tenda Central Tucujaju",
+    "dataInicio": "2024-10-19T10:00:00-03:00",
+    "dataFim": "2024-10-19T11:00:00-03:00",
+    "descricao": "<p>Cerimônia de abertura com a anfitriã <b>Solange Maciel</b> e apresentação de caldos tradicionais amapaenses.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Show Rio Amazonas",
+    "dataInicio": "2024-10-19T11:15:00-03:00",
+    "dataFim": "2024-10-19T12:45:00-03:00",
+    "descricao": "<p>Apresentação da aula <i>O resgate ancestral dos ingredientes da floresta amapaense combinados com técnicas contemporâneas da alta gastronomia ribeirinha sustentável</i>, ministrada pelo renomado chef <b>Thiago Castanho</b> em conjunto com a pesquisadora <b>Maria Clara Cordeiro</b>.</p>",
+    "secao": "Aulas-Show da Amazônia"
+   },
+   {
+    "nome": "Almoço Livre e Feira de Produtores Locais",
+    "lugar": "Praça dos Sabores",
+    "dataInicio": "2024-10-19T13:00:00-03:00",
+    "dataFim": "2024-10-19T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Show Rio Amazonas",
+    "dataInicio": "2024-10-19T15:30:00-03:00",
+    "dataFim": "2024-10-19T17:00:00-03:00",
+    "descricao": "<p>Demonstração culinária intitulada <i>A utilização inovadora da castanha-do-brasil e do açaí nativo na criação de sobremesas finas de padrão internacional</i>, com a chef confeiteira <b>Elenize Uchôa</b>.</p>",
+    "secao": "Aulas-Show da Amazônia"
+   },
+   {
+    "nome": "Oficina Prática de Coquetelaria Regional",
+    "lugar": "Espaço Bar do Forte",
+    "dataInicio": "2024-10-19T17:30:00-03:00",
+    "dataFim": "2024-10-19T19:00:00-03:00",
+    "descricao": "<p>O mixologista <b>André Vasconcelos</b> ensina técnicas de infusão com plantas da região amazônica e destilados locais.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

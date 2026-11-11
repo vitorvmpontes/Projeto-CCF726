@@ -1,0 +1,134 @@
+{
+ "spec": {
+  "id": "sint-42-00291",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Curitiba - PR",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 13,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos",
+   "descricoes_ricas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:19+00:00",
+ "uso_tokens": {
+  "entrada": 682,
+  "saida": 1996
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Mostra Integrada de Extensão Universitária de Curitiba",
+   "local_geral": "Campus Botânico, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada do Bloco Didático",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T10:00:00-03:00",
+    "descricao": "<p>Solenidade com a presença do Pró-Reitor de Extensão Prof. <b>Carlos Eduardo Guimarães</b> e da Coordenadora Geral Profa. <b>Mariana Viana Ribas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra intitulada <i>O Impacto Social dos Projetos Comunitários no Paraná</i>, ministrada pela Profa. Dra. <b>Helena Schmidt</b> com mediação de <b>Rodrigo Antunes Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-15T11:30:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:00:00-03:00",
+    "dataFim": "2025-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1: Direitos Humanos e Cidadania",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-15T13:30:00-03:00",
+    "dataFim": "2025-05-15T15:30:00-03:00",
+    "descricao": "<p>Coordenação: Profa. <b>Lilian Maria Soares</b>.</p><p>Trabalhos apresentados:</p><p><i>1. Assessoria Jurídica Popular em Comunidades de Periferia</i>, por <b>Camila Duarte</b> e <b>Felipe Rossi</b>;</p><p><i>2. Alfabetização de Jovens e Adultos no Entorno Universitário</i>, apresentado por <b>Gabriel Silveira</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Sessão Temática 2: Saúde e Bem-Estar Comunitário",
+    "lugar": "Sala 104",
+    "dataInicio": "2025-05-15T15:45:00-03:00",
+    "dataFim": "2025-05-15T17:45:00-03:00",
+    "descricao": "<p>Coordenação do Prof. <b>Tiago Bastos de Oliveira</b>.</p><p>Apresentação das ações:</p><p><i>1. Prevenção e Promoção da Saúde Bucal em Escolas Públicas</i>, por <b>Ana Clara Neves</b>;</p><p><i>2. Intervenções Psicoeducativas na Terceira Idade</i>, por <b>Beatriz Mendonça</b> e <b>Lucas Zanin</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2025-05-15T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show do <i>Grupo de Choro e MPB da Extensão</i>, sob a regência do maestro <b>Fernando Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Tenda Cultural Externa",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia Solidária e Feiras Agroecológicas</i>, mediado por <b>Larissa Fontoura</b> com a presença dos agricultores convidados <b>Jorge Santos</b> e <b>Marlene Pereira</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Tenda Cultural Externa",
+    "dataInicio": "2025-05-16T10:15:00-03:00",
+    "dataFim": "2025-05-16T11:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Tecnologias Sustentáveis e Reciclagem Urbana</i>, coordenado pelo Prof. <b>Marcos Vinicius Ferraz</b> e com a participação de <b>Tatiane Rocha</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T11:45:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Banners e Estandes Interativos",
+    "lugar": "Pátio Coberto do Setor de Ciências Biológicas",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Avaliação dos banners extensionistas com coordenação de <b>Patrícia Nogueira</b> e apresentação dos projetos pelos bolsistas <b>Vinícius Meireles</b>, <b>Juliana Costa</b> e <b>Renato Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-05-16T16:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos projetos premiados em cada área temática e pronunciamento final da comissão organizadora presidida por <b>Mariana Viana Ribas</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

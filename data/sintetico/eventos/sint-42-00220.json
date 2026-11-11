@@ -1,0 +1,141 @@
+{
+ "spec": {
+  "id": "sint-42-00220",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Belém - PA",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 14,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:41+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 2108
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Jornada Paraense de Infectologia e Medicina Tropical",
+   "local_geral": "Hangar Convenções & Feiras da Amazônia, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2027-05-13T07:30:00-03:00",
+    "dataFim": "2027-05-13T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-05-13T08:30:00-03:00",
+    "dataFim": "2027-05-13T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios no Manejo da Malária Falciparum na Bacia Amazônica</i>. Palestrantes convidados: Dra. <b>Socorro de Nazaré Maués</b> e Dr. <b>Cláudio Romero Farias</b>. Moderação do Dr. <b>Hamilton Picanço Siqueira</b>.</p>",
+    "secao": "Bloco Clínico-Epidemiológico"
+   },
+   {
+    "nome": "Café Regional e Visita aos Pôsteres",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-13T10:00:00-03:00",
+    "dataFim": "2027-05-13T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-05-13T10:30:00-03:00",
+    "dataFim": "2027-05-13T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Manifestações Atípicas da Doença de Chagas Aguda por Transmissão Oral</i>, com o Dr. <b>Edilson Barata Lobato</b> e a Profa. Dra. <b>Maria da Glória Chaves</b>.</p>",
+    "secao": "Bloco Clínico-Epidemiológico"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-13T12:00:00-03:00",
+    "dataFim": "2027-05-13T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": null,
+    "dataInicio": "2027-05-13T13:30:00-03:00",
+    "dataFim": "2027-05-13T15:30:00-03:00",
+    "descricao": "<p>Apresentação das melhores comunicações orais selecionadas pelo comitê acadêmico. Avaliadores da banca: Dra. <b>Luciane Vasconcelos Miranda</b> e Dr. <b>Fábio Trindade Alencar</b>.</p>",
+    "secao": "Eixo Acadêmico"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Sala Marajó",
+    "dataInicio": "2027-05-13T16:00:00-03:00",
+    "dataFim": "2027-05-13T17:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Vigilância Genômica de Arboviroses Emergentes no Pará</i>, coordenado pelo Dr. <b>Waldir Monteiro Pinheiro</b> e apresentado pela Dra. <b>Carla Bentes Figueiredo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite",
+    "lugar": "Auditório Marajó",
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Apresentação de novas opções terapêuticas com a palestra <i>Novos Antifúngicos no Tratamento de Micoses Endêmicas Pulmonares</i> conduzida pelo Dr. <b>Rogério Mendonça Guedes</b>.</p>",
+    "secao": "Atualizações Farmacoterápicas"
+   },
+   {
+    "nome": "Café Regional e Visita aos Pôsteres",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-14T10:00:00-03:00",
+    "dataFim": "2027-05-14T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite",
+    "lugar": "Auditório Marajó",
+    "dataInicio": "2027-05-14T10:30:00-03:00",
+    "dataFim": "2027-05-14T12:00:00-03:00",
+    "descricao": "<p>Discussão clínica: <i>Terapia Combinada para Tuberculose Multirresistente em Populações Vulneráveis</i> pelo especialista Dr. <b>Álvaro Cordeiro Pacheco</b>.</p>",
+    "secao": "Atualizações Farmacoterápicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-14T12:00:00-03:00",
+    "dataFim": "2027-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": null,
+    "dataInicio": "2027-05-14T13:30:00-03:00",
+    "dataFim": "2027-05-14T15:30:00-03:00",
+    "descricao": "<p>Sessão de temas livres em infectologia pediátrica. Avaliação conduzida pela Profa. Dra. <b>Tatiana Magalhães Peixoto</b> e pelo Dr. <b>Igor Santana Fontes</b>.</p>",
+    "secao": "Eixo Acadêmico"
+   },
+   {
+    "nome": "Colóquio de Encerramento",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-05-14T16:00:00-03:00",
+    "dataFim": "2027-05-14T17:30:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>O Futuro da Saúde Única na Amazônia Oriental</i>, proferida pelo Prof. Emérito Dr. <b>Bernardo Meireles Castanho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Cerimônia de Despedida",
+    "lugar": null,
+    "dataInicio": "2027-05-14T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos trabalhos premiados sob coordenação da Dra. <b>Socorro de Nazaré Maués</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

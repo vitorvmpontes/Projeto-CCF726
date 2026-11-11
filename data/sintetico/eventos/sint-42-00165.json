@@ -1,0 +1,149 @@
+{
+ "spec": {
+  "id": "sint-42-00165",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Florestal - MG",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 15,
+  "casos": [
+   "subtitulo_separado",
+   "intervalos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:16+00:00",
+ "uso_tokens": {
+  "entrada": 679,
+  "saida": 2404
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jogos Integrados Universitários de Florestal (JIUF 2023)",
+   "local_geral": "Campus UFV - Florestal"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção das Delegações e Credenciamento",
+    "lugar": "Hall do Ginásio Poliesportivo",
+    "dataInicio": "2023-10-21T07:30:00-03:00",
+    "dataFim": "2023-10-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2023-10-21T09:00:00-03:00",
+    "dataFim": "2023-10-21T10:30:00-03:00",
+    "descricao": "<p>Desfile das delegações atléticas e acendimento da pira dos jogos. Coordenação de <b>Prof. Marcos Vinícius Andrade</b> e pronunciamento oficial da diretoria com <b>Dra. Cecília Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Futsal Masculino - Fase de Grupos",
+    "lugar": "Quadra Coberta 1",
+    "dataInicio": "2023-10-21T10:45:00-03:00",
+    "dataFim": "2023-10-21T12:30:00-03:00",
+    "descricao": "<p>Partidas classificatórias da primeira fase entre as atléticas de Engenharia, Biologia e Computação. Arbitragem coordenada por <b>Renato Silveira</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Voleibol Feminino - Fase de Grupos",
+    "lugar": "Quadra Coberta 2",
+    "dataInicio": "2023-10-21T10:45:00-03:00",
+    "dataFim": "2023-10-21T12:30:00-03:00",
+    "descricao": "<p>Disputas classificatórias iniciais com equipes da região de Florestal e Pará de Minas. Supervisão técnica de <b>Camila Duarte</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Refeitório Universitário",
+    "dataInicio": "2023-10-21T12:30:00-03:00",
+    "dataFim": "2023-10-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Principal do Prédio Central",
+    "dataInicio": "2023-10-21T14:00:00-03:00",
+    "dataFim": "2023-10-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Fisiologia do Exercício e Prevenção de Lesões em Atletas Universitários</i>, ministrada pelo <b>Dr. Henrique Castilho</b>, sob coordenação da <b>Profa. Tatiana Meireles</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Mostra Científica de Ciências do Esporte",
+    "lugar": "Saguão do Auditório Central",
+    "dataInicio": "2023-10-21T15:30:00-03:00",
+    "dataFim": "2023-10-21T17:30:00-03:00",
+    "descricao": "<p>Sessão de pôsteres com os trabalhos: <i>Impacto do treinamento funcional no rendimento acadêmico</i> por <b>Juliana Paes Correia</b> e <b>Lucas Fontes</b>; <i>Análise postural em atletas amadores de voleibol</i> apresentado por <b>Beatriz Mendonça</b>; e <i>Nutrição pré-treino e desempenho esportivo</i> conduzido por <b>Gabriel Sampaio</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Torneio Universitário de Xadrez Rápido",
+    "lugar": "Sala de Estudos Multiuso",
+    "dataInicio": "2023-10-21T17:30:00-03:00",
+    "dataFim": "2023-10-21T20:00:00-03:00",
+    "descricao": "<p>Competição individual em sistema suíço de cinco rodadas. Organização do mestre regional <b>Thiago Valadares</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Café da Manhã e Concentração",
+    "lugar": "Praça de Convivência",
+    "dataInicio": "2023-10-22T07:30:00-03:00",
+    "dataFim": "2023-10-22T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Corrida Rústica Universitária",
+    "lugar": "Circuito Externo do Campus",
+    "dataInicio": "2023-10-22T08:30:00-03:00",
+    "dataFim": "2023-10-22T10:30:00-03:00",
+    "descricao": "<p>Percurso de 5km pelas vias internas e trilhas ecológicas da instituição. Apoio médico coordenado pela <b>Dra. Vanessa Guimarães</b> e largada conduzida por <b>Rodrigo Esteves</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": "Auditório Principal do Prédio Central",
+    "dataInicio": "2023-10-22T10:45:00-03:00",
+    "dataFim": "2023-10-22T12:15:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Desafios da Gestão de Atléticas e a Promoção do Esporte Universitário</i>. Participação dos debatedores <b>Felipe Couto</b> (Presidente da LAU) e <b>Mariana Antunes</b> (Diretora de Esportes), com moderação de <b>Prof. Samuel Figueira</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Refeitório Universitário",
+    "dataInicio": "2023-10-22T12:15:00-03:00",
+    "dataFim": "2023-10-22T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Disputa de Finais - Futsal e Vôlei",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2023-10-22T14:00:00-03:00",
+    "dataFim": "2023-10-22T17:00:00-03:00",
+    "descricao": "<p>Grandes finais das modalidades coletivas com entrega dos troféus de partida. Comitê disciplinar sob liderança de <b>Sérgio Ramos Prado</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2023-10-22T17:15:00-03:00",
+    "dataFim": "2023-10-22T18:45:00-03:00",
+    "descricao": "<p>Outorga de medalhas de ouro, prata e bronze e do troféu de campeã geral para a atlética vencedora, apresentada por <b>Prof. Marcos Vinícius Andrade</b> e <b>Dra. Cecília Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Universitária",
+    "lugar": "Área Esportiva Externa",
+    "dataInicio": "2023-10-22T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de integração cultural entre os estudantes e encerramento festivo com apresentação da bateria universitária coordenada pelo ritmista <b>Daniel Macedo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

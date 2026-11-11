@@ -1,0 +1,148 @@
+{
+ "spec": {
+  "id": "sint-42-00096",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 15,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:52+00:00",
+ "uso_tokens": {
+  "entrada": 673,
+  "saida": 2733
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Regional de Mulheres na Tecnologia da Informação do Centro-Oeste (ERMTI-CO 2027)",
+   "local_geral": "Centro de Eventos do Pantanal, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção das Participantes e Entrega de Kits",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-18T09:30:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora geral <b>Dra. Mariana Albuquerque</b> (UFMT) e da vice-coordenadora <b>Profa. Beatriz Silveira</b> (IFMT).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-18T10:30:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>O Impacto Social e Econômico da Liderança Feminina nas Transformações Digitais do Agronegócio Sustentável e da Preservação Ambiental no Centro-Oeste</i>, ministrada pela <b>Dra. Camila Nogueira Diniz</b> (Embrapa Digital).</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Minicurso prático sobre <i>Visão Computacional Aplicada à Identificação de Espécies da Fauna Pantaneira com PyTorch</i>, ministrado por <b>Msc. Renata Paes de Barros</b> com tutoria de <b>Larissa Gusmão</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Abordagem prática sobre <i>Fundamentos de Segurança Ofensiva e Testes de Intrusão em Aplicações Web</i>, com as instrutoras <b>Eng. Débora Vasconcelos</b> e <b>Evelyn Carmo</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Técnica 1: Inteligência Artificial e Dados",
+    "lugar": "Sala Águas de Cuiabá",
+    "dataInicio": "2027-05-19T17:30:00-03:00",
+    "dataFim": "2027-05-19T19:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Juliana Mendes Ramos</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Detecção de focos de queimada em imagens orbitais utilizando redes convolucionais</i>, por <b>Fernanda Siqueira Leite</b> e <b>Bruna Meireles</b>.</p><p>2. <i>Análise de sentimentos em redes sociais sobre políticas públicas de inclusão feminina na TI</i>, por <b>Clara Zanatta</b> e <b>Dra. Juliana Mendes Ramos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mesa-Redonda: Mulheres na Academia e na Indústria",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Desafios na Progressão de Carreira e Rompimento do Teto de Vidro nas Empresas Tech</i>. Coordenação da <b>Profa. Helena Prado Rondon</b>. Participantes: <b>Vanessa Castilho</b> (Tech Lead), <b>Dra. Aline Freitas</b> (Unemat) e <b>Tatiane Rocha</b> (Comunidade PyLadies Cuiabá).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Iniciação Científica",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres coordenada por <b>Profa. Patrícia Godoy</b>. Destaque para o trabalho <i>Construção de Robôs Educacionais de Baixo Custo para Alunas do Ensino Fundamental Público</i> de <b>Isadora Vilela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação com o título <i>Estratégias Avançadas para Construção de Pipelines de Engenharia de Dados com Apache Spark e Arquiteturas Modernas em Nuvem</i>, conduzida pela arquiteta de software <b>Luciana Guimarães Pires</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão Técnica 2: Engenharia de Software e Educação",
+    "lugar": "Sala Águas de Cuiabá",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Dra. Raquel Toledo</b>.</p><p>Trabalhos:</p><p>1. <i>Avaliação da usabilidade de aplicativos de saúde materna: um estudo de caso</i>, autoria de <b>Sofia Bueno Martins</b> e <b>Camila Duarte</b>.</p><p>2. <i>Práticas de mentoria como fator de retenção de alunas em cursos de Ciência da Computação</i>, autoria de <b>Valéria Amaral</b>, <b>Nayara Pires</b> e <b>Dra. Raquel Toledo</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Oficina de Escrita Acadêmica",
+    "lugar": "Sala Pantanal",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T17:00:00-03:00",
+    "descricao": "<p>Oficina de redação científica intitulada <i>Como Escrever e Publicar Artigos em Periódicos Internacionais de Alto Impacto na Área de Computação</i>, ministrada pela editora associada <b>Dra. Cecília Antunes Albuquerque</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Roda de Conversa com as Comunidades",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-05-21T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro informal mediado por <b>Gabriela Fontana</b> reunindo representantes do Meninas Digitais Mato Grosso, PyLadies e Women Techmakers.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Hackathon Elas no Código",
+    "lugar": "Laboratório de Inovação",
+    "dataInicio": "2027-05-22T08:30:00-03:00",
+    "dataFim": "2027-05-22T13:00:00-03:00",
+    "descricao": "<p>Maratona de programação voltada para o desenvolvimento de soluções voltadas ao bem-estar e acolhimento feminino. Mentoria técnica conduzida por <b>Daniela Furtado</b> e <b>Karina Souza Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral e Premiações",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-22T14:30:00-03:00",
+    "dataFim": "2027-05-22T16:00:00-03:00",
+    "descricao": "<p>Eleição da comissão gestora 2028-2029 conduzida por <b>Dra. Mariana Albuquerque</b> e anúncio das equipes vencedoras do Hackathon por <b>Karina Souza Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Encerramento",
+    "lugar": "Deck Externo",
+    "dataInicio": "2027-05-22T16:30:00-03:00",
+    "dataFim": "2027-05-22T18:00:00-03:00",
+    "descricao": "<p>Apresentação musical de siriri e rasqueado cuiabano organizada pelo grupo cultural coordenado por <b>Mestra Nilza de Arruda</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,196 @@
+{
+ "spec": {
+  "id": "sint-42-00492",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "João Pessoa - PB",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "sem_local",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:46+00:00",
+ "uso_tokens": {
+  "entrada": 647,
+  "saida": 3008
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Paraibano de Docentes da Educação Básica",
+   "local_geral": "Centro de Convenções Poeta Ronaldo Cunha Lima, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Secretária de Educação <b>Maria das Graças Silva</b> e do representante dos docentes <b>Carlos Eduardo Souto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T11:30:00-03:00",
+    "descricao": "<p>Conferência <i>Os Desafios da Convivência Escolar no Século XXI</i> ministrada pelo Prof. Dr. <b>Antônio José de Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T11:30:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Atividade prática: <i>Metodologias Ativas no Ensino Fundamental: Jogos e Desafios</i> com a Profa. Ma. <b>Juliana Bezerra Cavalcanti</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala 104",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Atividade prática: <i>Inclusão e Acessibilidade nas Aulas de Ciências</i> conduzida pelo Prof. Esp. <b>Danilo Ferreira Lima</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-19T15:30:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Diálogo 1",
+    "lugar": null,
+    "dataInicio": "2027-05-19T16:00:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Saúde Mental e Bem-Estar Docente: Cuidando de Quem Ensina</i> com mediação de <b>Renata Albuquerque</b> e participação do psicólogo <b>Flávio Henrique Pontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:15:00-03:00",
+    "descricao": "<p>Apresentação da mesa <i>Políticas de Alfabetização na Idade Certa</i> com os debatedores <b>Lúcia Helena Guimarães</b> e <b>Marcos Aurélio Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para o Café",
+    "lugar": null,
+    "dataInicio": "2027-05-20T10:15:00-03:00",
+    "dataFim": "2027-05-20T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais A",
+    "lugar": "Sala 101",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Patrícia Ramos Vasconcelos</b>. Apresentação do relato de experiência <i>O Uso da Literatura de Cordel na Educação Infantil</i> por <b>Severino Ramalho da Silva</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais B",
+    "lugar": "Sala 103",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Geraldo Meireles</b>. Apresentação do projeto <i>Horta Escolar Interdisciplinar em Escolas Públicas</i> por <b>Aline Cristina Neves</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Práticas Pedagógicas",
+    "lugar": "Hall dos Estandes",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Exposição de banners e recursos didáticos criados por professores do estado, sob tutoria de <b>Beatriz Figueiredo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Intervenção artística do grupo regional conduzido pelo maestro <b>Tiago Holanda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Práticas reflexivas sobre <i>Inteligência Artificial no Cotidiano da Sala de Aula</i> ministrada por <b>Rodrigo Duarte Viana</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 4",
+    "lugar": "Sala 104",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Avaliação Formativa e Rubricas de Aprendizagem</i> orientado por <b>Clara Menezes Santos</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Intervalo para o Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Gestão Democrática e Participação Comunitária</i> com <b>Valter Nogueira</b> e <b>Francisca Sales Pordeus</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": null,
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta de João Pessoa em Defesa da Escola Pública</i> coordenada por <b>Érika Wanderley</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento oficial com entrega de menções honrosas pelo diretor-geral <b>José Cícero dos Anjos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

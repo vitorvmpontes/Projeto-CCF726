@@ -1,0 +1,212 @@
+{
+ "spec": {
+  "id": "sint-42-00343",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Fortaleza - CE",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 23,
+  "casos": [
+   "atividades_paralelas",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:21+00:00",
+ "uso_tokens": {
+  "entrada": 648,
+  "saida": 3649
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Cearense de Mulheres na Computação",
+   "local_geral": "Campus do Pici - Universidade Federal do Ceará (UFC), Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Hall do Centro de Tecnologia",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com as coordenadoras <b>Profa. Dra. Camila Bezerra</b> e <b>Bruna Vasconcelos</b>, destacando a trajetória da participação feminina na área de exatas no estado do Ceará.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-19T09:30:00-03:00",
+    "dataFim": "2023-10-19T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios e Avanços da Representatividade Feminina no Ecossistema de TI</i>. Painelistas: <b>Dra. Mariana Prado</b>, <b>Eng. Letícia Silveira</b> e <b>Amanda Meireles</b>. Moderação por <b>Profa. Glória Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-19T10:45:00-03:00",
+    "dataFim": "2023-10-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-19T11:15:00-03:00",
+    "dataFim": "2023-10-19T12:15:00-03:00",
+    "descricao": "<p>Apresentação de <i>Computação Quântica e Seus Impactos na Criptografia Moderna</i> conduzida por <b>Dra. Fernanda Sombra</b> (UFC).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:15:00-03:00",
+    "dataFim": "2023-10-19T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 01",
+    "dataInicio": "2023-10-19T13:45:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Oficina prática intitulada <i>Construindo Modelos de Aprendizado de Máquina com PyTorch</i> ministrada por <b>Valéria Rios</b> com apoio da monitora <b>Aline Menezes</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática 02",
+    "dataInicio": "2023-10-19T13:45:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução a Testes Automatizados em Microserviços</i>. Ministrante: <b>Carla Montenegro</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório Multimídia",
+    "dataInicio": "2023-10-19T13:45:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Oficina de <i>UX Design e Acessibilidade Digital</i> com <b>Patrícia Albuquerque</b> e colaboração de <b>Sofia Esteves</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-19T16:00:00-03:00",
+    "dataFim": "2023-10-19T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Inteligência Artificial e Dados",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-19T16:30:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Beatriz Fontes</b>. Apresentação dos artigos:</p><p><i>Processamento de Linguagem Natural Aplicado a Laudos Médicos</i> de autoria de <b>Juliana Bastos</b> e <b>Renata Nogueira</b>.</p><p><i>Classificação de Imagens com Visão Computacional para Monitoramento Agrícola</i> apresentado por <b>Clarisse Feitosa</b>, <b>Lúcia Helena Rocha</b> e <b>Marina Teles</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2: Engenharia de Software e Sistemas",
+    "lugar": "Sala de Reuniões 03",
+    "dataInicio": "2023-10-19T16:30:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Thaís Guimarães</b>. Trabalhos selecionados:</p><p><i>Refatoração de Débito Técnico em Aplicações Legadas</i> por <b>Roberta Saraiva</b> e <b>Débora Leite</b>.</p><p><i>Avaliação de Desempenho em Infraestruturas Serverless</i> por <b>Viviane Dantas</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Mostra de Iniciação Científica e Pôsteres",
+    "lugar": "Hall do Bloco 722",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:00:00-03:00",
+    "descricao": "<p>Exposição dos projetos de graduação. Avaliação coordenada por <b>Profa. Danielle Holanda</b> e <b>Helena Magalhães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-20T10:00:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança em Nuvem e Resiliência Cibernética</i> com a especialista <b>Kátia Maranhão</b> (AWS Hero).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Carreira: Liderança e Empreendedorismo",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T12:15:00-03:00",
+    "descricao": "<p>Debate com fundadoras de startups de Fortaleza: <b>Lorena Castello</b> (Fintech PayCe), <b>Priscila Viana</b> (HealthLab) e <b>Mônica Brandão</b> (Hub Inovação). Mediação de <b>Sara Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:15:00-03:00",
+    "dataFim": "2023-10-20T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Sala de Seminários A",
+    "dataInicio": "2023-10-20T13:45:00-03:00",
+    "dataFim": "2023-10-20T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Maternidade e Carreira Acadêmica na Pós-Graduação em Computação</i>. Facilitadoras: <b>Profa. Dra. Simone Chaves</b> e <b>Dra. Cecília Aguiar</b>.</p>",
+    "secao": "Grupos de Discussão"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2023-10-20T13:45:00-03:00",
+    "dataFim": "2023-10-20T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Transição de Carreira para Desenvolvimento Web e Dados</i>. Condução por <b>Natália Gomes</b> e <b>Larissa Barreto</b>.</p>",
+    "secao": "Grupos de Discussão"
+   },
+   {
+    "nome": "Espaço Café e Parcerias",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-20T15:15:00-03:00",
+    "dataFim": "2023-10-20T15:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lightning Talks",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-20T15:45:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": "<p>Apresentações rápidas de 10 minutos coordenadas por <b>Gabriela Linhares</b>:</p><p><i>1. Dicas de Contribuição em Código Aberto</i> por <b>Ingrid Furtado</b>.</p><p><i>2. Internet das Coisas na Monitoração Ambiental do Semiárido</i> por <b>Samara Lima</b>.</p><p><i>3. Mulheres Negras na Computação: Trajetórias e Comunidade</i> por <b>Ester Nascimento</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-20T17:00:00-03:00",
+    "dataFim": "2023-10-20T17:45:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Feminino em Computação 2023, sob condução de <b>Profa. Dra. Camila Bezerra</b> e do comitê científico chefiado por <b>Dra. Thaís Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Oficial",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2023-10-20T17:45:00-03:00",
+    "dataFim": "2023-10-20T18:15:00-03:00",
+    "descricao": "<p>Agradecimentos finais e anúncio da sede da edição 2024 com <b>Bruna Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel Cultural",
+    "lugar": "Jardim Central do Campus do Pici",
+    "dataInicio": "2023-10-20T18:15:00-03:00",
+    "dataFim": "2023-10-20T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

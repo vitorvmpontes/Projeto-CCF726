@@ -1,0 +1,308 @@
+{
+ "spec": {
+  "id": "sint-42-00047",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Natal - RN",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 35,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:15+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 4989
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Potiguar de Cardiologia e Terapia Intensiva",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Entrega de Crachás e Recepção",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-08-17T07:30:00-03:00",
+    "dataFim": "2023-08-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Curso Pré-Jornada 1",
+    "lugar": "Sala Areia Preta",
+    "dataInicio": "2023-08-17T08:30:00-03:00",
+    "dataFim": "2023-08-17T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo Hemodinâmico no Choque Séptico</i>. Instrutor: <b>Dr. Roberto Medeiros</b>.</p>",
+    "secao": "Cursos Práticos de Atualização"
+   },
+   {
+    "nome": "Curso Pré-Jornada 2",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-08-17T08:30:00-03:00",
+    "dataFim": "2023-08-17T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ventilação Mecânica Protetora na SDRA</i>. Instrutora: <b>Dra. Mariana Furtado</b>.</p>",
+    "secao": "Cursos Práticos de Atualização"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer das Dunas",
+    "dataInicio": "2023-08-17T10:00:00-03:00",
+    "dataFim": "2023-08-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Curso Pré-Jornada 3",
+    "lugar": "Sala Areia Preta",
+    "dataInicio": "2023-08-17T10:30:00-03:00",
+    "dataFim": "2023-08-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ultrassonografia Point-of-Care (POCUS) na Emergência</i>. Instrutor: <b>Dr. Marcelo Galvão</b>.</p>",
+    "secao": "Cursos Práticos de Atualização"
+   },
+   {
+    "nome": "Curso Pré-Jornada 4",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-08-17T10:30:00-03:00",
+    "dataFim": "2023-08-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Eletrocardiograma nas Arritmias Complexas</i>. Instrutora: <b>Dra. Cláudia Bezerra</b>.</p>",
+    "secao": "Cursos Práticos de Atualização"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-17T12:00:00-03:00",
+    "dataFim": "2023-08-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-17T13:30:00-03:00",
+    "dataFim": "2023-08-17T14:15:00-03:00",
+    "descricao": "<p>Cerimônia oficial com o presidente da Sociedade Potiguar de Cardiologia, <b>Dr. Fábio Montenegro</b>, e a secretária executiva <b>Dra. Luísa Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-17T14:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação: <i>Desafios e Fronteiras no Tratamento da Insuficiência Cardíaca Avançada</i>, ministrada pelo <b>Prof. Dr. Henrique Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-17T15:30:00-03:00",
+    "dataFim": "2023-08-17T17:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Novas Diretrizes no Manejo da Fibrilação Atrial</i>. Coordenadora: <b>Dra. Patrícia Dantas</b>. Debatedores: <b>Dr. Caio Albuquerque</b> e <b>Dra. Simone Paiva</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Café com Especialistas",
+    "lugar": "Foyer das Dunas",
+    "dataInicio": "2023-08-17T17:00:00-03:00",
+    "dataFim": "2023-08-17T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-17T17:30:00-03:00",
+    "dataFim": "2023-08-17T19:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Síndrome Coronariana Aguda sem Supradesnível do Segmento ST</i> com o relator <b>Dr. Fernando Castelo Branco</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Coquetel Boas-Vindas",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2023-08-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação cultural e recepção com música potiguar.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite Matutino",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-18T08:00:00-03:00",
+    "dataFim": "2023-08-18T09:00:00-03:00",
+    "descricao": "<p>Tema: <i>Inibidores de SGLT2 na Doença Renal e Cardiovascular</i>. Palestrante: <b>Dr. Gustavo Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala Areia Preta",
+    "dataInicio": "2023-08-18T09:00:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação do trabalho <i>Epidemiologia das Paradas Cardiorrespiratórias em Hospitais Universitários</i> pelo autor <b>Lucas Santiago</b> e avaliação da <b>Profa. Dra. Renata Figueiredo</b>.</p>",
+    "secao": "Apresentação de Temas Livres"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-08-18T09:00:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>Biomarcadores Precoces de Injúria Renal Aguda na Sepse</i> por <b>Juliana Meireles</b>.</p>",
+    "secao": "Apresentação de Temas Livres"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Dunas",
+    "dataInicio": "2023-08-18T10:30:00-03:00",
+    "dataFim": "2023-08-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Multidisciplinar",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-18T11:00:00-03:00",
+    "dataFim": "2023-08-18T12:30:00-03:00",
+    "descricao": "<p>Debate: <i>Cuidado Paliativo e Terminalidade na UTI Cardiovascular</i>. Participantes: <b>Dra. Thaís Guimarães</b>, <b>Enf. Andréia Lins</b> e <b>Psic. Rafael Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-18T12:30:00-03:00",
+    "dataFim": "2023-08-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Comentados",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Avaliação dos painéis acadêmicos conduzida pelo coordenador científico <b>Dr. Bruno Macedo</b>.</p>",
+    "secao": "Apresentação de Temas Livres"
+   },
+   {
+    "nome": "Conferência de Atualização 1",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-18T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência sobre <i>Estratégias Avançadas no Choque Cardiogênico Refratário: ECMO Venoarterial</i> com o conferencista <b>Dr. Daniel Aragão</b>.</p>",
+    "secao": "Conferências Especiais"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Foyer das Dunas",
+    "dataInicio": "2023-08-18T16:30:00-03:00",
+    "dataFim": "2023-08-18T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-18T17:00:00-03:00",
+    "dataFim": "2023-08-18T18:30:00-03:00",
+    "descricao": "<p>Discussão: <i>Uso Racional de Antimicrobianos na UTI Adulto</i>. Moderador: <b>Dr. Valter Correia</b>. Debatedoras: <b>Dra. Cecília Queiroz</b> e <b>Dra. Mônica Fontes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Reunião Departamental da SBC-RN",
+    "lugar": "Sala Executiva",
+    "dataInicio": "2023-08-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro deliberativo com os membros da diretoria, liderado pelo <b>Dr. Fábio Montenegro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã Clínico",
+    "lugar": "Foyer das Dunas",
+    "dataInicio": "2023-08-19T08:00:00-03:00",
+    "dataFim": "2023-08-19T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Discussão de Caso Clínico 1",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-19T08:30:00-03:00",
+    "dataFim": "2023-08-19T09:45:00-03:00",
+    "descricao": "<p>Apresentação: <i>Miocardite Fulminante em Paciente Jovem Pós-Viral</i>. Relatora: <b>Dra. Lívia Siqueira</b>. Painelistas: <b>Dr. Samuel Prado</b> e <b>Dr. Vinícius Rios</b>.</p>",
+    "secao": "Casos Clínicos Desafiadores"
+   },
+   {
+    "nome": "Discussão de Caso Clínico 2",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-19T09:45:00-03:00",
+    "dataFim": "2023-08-19T10:45:00-03:00",
+    "descricao": "<p>Apresentação: <i>Parada Cardíaca Refratária e Hipotermia Terapêutica</i> apresentada pela <b>Dra. Fernanda Bessa</b>.</p>",
+    "secao": "Casos Clínicos Desafiadores"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer das Dunas",
+    "dataInicio": "2023-08-19T10:45:00-03:00",
+    "dataFim": "2023-08-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Atualização 2",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-19T11:15:00-03:00",
+    "dataFim": "2023-08-19T12:15:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Inteligência Artificial Aplicada ao Monitoramento Contínuo em Terapia Intensiva</i> com o convidado <b>Prof. Carlos Eduardo Linhares</b>.</p>",
+    "secao": "Conferências Especiais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-19T12:15:00-03:00",
+    "dataFim": "2023-08-19T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate Interativo de Diretrizes",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-19T13:45:00-03:00",
+    "dataFim": "2023-08-19T15:00:00-03:00",
+    "descricao": "<p>Sessão com votação interativa da plateia: <i>Controvérsias no Manejo da Hipertensão Arterial Resistente</i>, com moderação de <b>Dra. Giselle Amorim</b> e participação de <b>Dr. Thiago Barreto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-19T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação: <i>O Futuro da Medicina Intensiva e Cardiovascular no Brasil</i> com o <b>Dr. Arthur Wanderley</b>.</p>",
+    "secao": "Conferências Especiais"
+   },
+   {
+    "nome": "Pausa para Lanche",
+    "lugar": "Foyer das Dunas",
+    "dataInicio": "2023-08-19T16:00:00-03:00",
+    "dataFim": "2023-08-19T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-19T16:30:00-03:00",
+    "dataFim": "2023-08-19T17:15:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Jovem Pesquisador conduzida pela comissão formada por <b>Profa. Dra. Renata Figueiredo</b> e <b>Dr. Bruno Macedo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-08-19T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da presidência do evento com <b>Dr. Fábio Montenegro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "spec": {
+  "id": "sint-42-00178",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Belém - PA",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 20,
+  "casos": [
+   "subtitulo_separado",
+   "titulos_longos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:23+00:00",
+ "uso_tokens": {
+  "entrada": 687,
+  "saida": 3041
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Ecologia e Sustentabilidade Amazônica",
+   "local_geral": "Campus Universitário do Guamá - Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Participantes e Entrega de Crachás",
+    "lugar": "Hall do Prédio de Pós-Graduação",
+    "dataInicio": "2026-05-13T08:00:00-03:00",
+    "dataFim": "2026-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-13T09:00:00-03:00",
+    "dataFim": "2026-05-13T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do Pró-Reitor <b>Dr. Raimundo Nonato Castro</b> e da coordenadora geral do programa <b>Dra. Simone Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-13T10:00:00-03:00",
+    "dataFim": "2026-05-13T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios contemporâneos para a conservação da biodiversidade aquática frente às mudanças climáticas globais e a expansão da infraestrutura na bacia amazônica</i>.</p><p>Palestrante: <b>Dra. Helena Guimarães Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-13T12:00:00-03:00",
+    "dataFim": "2026-05-13T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 1",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-13T14:00:00-03:00",
+    "dataFim": "2026-05-13T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Valoração de Serviços Ecossistêmicos e Comunidades Tradicionais</i>.</p><p>Debatedores: <b>Prof. Carlos Eduardo Viana</b> e <b>Pesq. Marília Tavares</b>. Mediação de <b>Dr. Jorge Luis Miranda</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": null,
+    "dataInicio": "2026-05-13T16:00:00-03:00",
+    "dataFim": "2026-05-13T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres - Bloco A",
+    "lugar": "Espaço de Convivência da Reitoria",
+    "dataInicio": "2026-05-13T16:30:00-03:00",
+    "dataFim": "2026-05-13T18:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrandos da área de Ecologia Teórica. Coordenação: <b>Dra. Fernanda Bentes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Temática A",
+    "lugar": "Laboratório de Geoprocessamento 2",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento e análise espacial aplicados ao monitoramento florestal por meio de linguagens de programação abertas e gratuitas</i>.</p><p>Ministrante: <b>Msc. Thiago Prado Silva</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Temática B",
+    "lugar": "Sala Multiuso 104",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelos Lineares Generalizados em R</i>.</p><p>Instrutor: <b>Dr. Paulo Roberto Antunes</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:00:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Teses 1",
+    "lugar": "Miniauditório do ICB",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Exposições dos doutorandos <b>Lucas Barreto</b> e <b>Camila Nogueira</b>, com avaliação da banca formada por <b>Dr. Vicente Meireles</b> e <b>Dra. Cláudia Esteves</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Apresentação Oral de Teses 2",
+    "lugar": "Miniauditório do ICB",
+    "dataInicio": "2026-05-14T15:30:00-03:00",
+    "dataFim": "2026-05-14T17:00:00-03:00",
+    "descricao": "<p>Apresentações orais de <b>Renato Gusmão</b> com o estudo <i>Dinâmica de nutrientes em florestas de várzea</i> e de <b>Letícia Albuquerque</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Mesa de Debate 2",
+    "lugar": null,
+    "dataInicio": "2026-05-14T17:00:00-03:00",
+    "dataFim": "2026-05-14T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas Públicas para a Conservação de Bacias Hidrográficas</i>.</p><p>Palestrantes convidados: <b>Dra. Juliana Vasconcelos</b> e <b>Dr. Marcos Vinícius Paiva</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mostra de Fotografia Científica",
+    "lugar": "Espaço de Convivência da Reitoria",
+    "dataInicio": "2026-05-14T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura da exposição de fotografias de campo registradas pelos discentes do programa. Curadoria: <b>Prof. Marcelo Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>A importância da interdisciplinaridade nos programas de pós-graduação brasileiros para a mitigação dos impactos socioambientais regionais</i>.</p><p>Conferencista: <b>Prof. Dr. Samuel Figueiredo Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": null,
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre saúde mental na pós-graduação e representatividade discente. Mediação feita por <b>Patrícia Leão</b> e <b>Gabriel Furtado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres - Bloco B",
+    "lugar": "Espaço de Convivência da Reitoria",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas dos alunos de iniciação científica e mestrandos de Ecologia Aplicada. Avaliadores: <b>Dr. Daniel Aragão</b> e <b>Dra. Sílvia Pantoja</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos Destacados",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-15T16:30:00-03:00",
+    "dataFim": "2026-05-15T17:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Acadêmico aos melhores artigos apresentados. Comissão julgadora liderada por <b>Dra. Simone Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão organizadora composta por <b>Dra. Simone Alencar</b> e <b>Prof. Dr. Samuel Figueiredo Mendonça</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

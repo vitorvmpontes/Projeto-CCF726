@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-42-00273",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Natal - RN",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:04+00:00",
+ "uso_tokens": {
+  "entrada": 688,
+  "saida": 909
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Potiguar de Inteligência Artificial Aplicada",
+   "local_geral": "Centro de Tecnologia, UFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Keynote",
+    "lugar": "Auditório Central do CT",
+    "dataInicio": "2027-04-16T08:30:00-03:00",
+    "dataFim": "2027-04-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial do evento seguida da palestra <i>Avanços em Modelos Fundacionais para a Saúde Pública no Brasil</i>, ministrada pelo Prof. Dr. <b>Carlos Eduardo Albuquerque</b> (UFRN).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": null,
+    "dataInicio": "2027-04-16T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Introdução a LLMs com Hugging Face e LangChain</i>.</p><p>Instrutores: <b>Mariana Viana Guedes</b> (IMD) e <b>Rodrigo Peixoto Saraiva</b> (Laboratório de Bioinformática).</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": null,
+    "dataInicio": "2027-04-16T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Visão Computacional Aplicada à Agricultura de Precisão no Semiárido</i>.</p><p>Ministrado pela Profa. Dra. <b>Fernanda Lins Cavalcanti</b> (UFERSA).</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Sessão Técnica de Pôsteres e Demonstrações",
+    "lugar": "Hall de Exposições do CT",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T16:00:00-03:00",
+    "descricao": "<p>Coordenação geral: <b>Lucas Vasconcelos de Arruda</b>.</p><p>Trabalhos em exibição:</p><p>1. <i>Detecção de Doenças Foliares em Melão via YOLOv11</i>, por <b>Juliana Bezerra Dantas</b> e <b>Igor Farias Santos</b>.</p><p>2. <i>Predição de Chuvas Convectivas no Litoral Oriental Potiguar usando LSTM</i>, por <b>Tatiana Meireles Costa</b>.</p><p>3. <i>Otimização de Consumo Energético com Algoritmos Genéticos</i>, por <b>Bruno Henrique Morais</b> e <b>Camila Duarte Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": null,
+    "dataInicio": "2027-04-16T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos e encerramento com a coordenadora do evento Profa. <b>Helena Fontes Barreto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

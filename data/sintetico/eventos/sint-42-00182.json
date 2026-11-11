@@ -1,0 +1,180 @@
+{
+ "spec": {
+  "id": "sint-42-00182",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Santa Maria - RS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 19,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:35+00:00",
+ "uso_tokens": {
+  "entrada": 661,
+  "saida": 2635
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Santa Maria 2025",
+   "local_geral": "Centro de Convenções da UFSM, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": null,
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-15T09:30:00-03:00",
+    "dataFim": "2025-05-15T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a participação de <b>Carlos Alberto Becker</b> e <b>Mariana Fontoura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T11:45:00-03:00",
+    "descricao": "<p>Apresentação de <i>Cenários Econômicos e Oportunidades para o Varejo Gaúcho</i> ministrada por <b>Rodrigo Dornelles</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Consultoria Individual Sebrae",
+    "lugar": "Espaço Atendimento",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Atendimento individualizado para micro e pequenos negócios com a consultora <b>Fernanda Silveira</b>.</p>",
+    "secao": "Atendimentos Especializados"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Temática Inovação",
+    "dataInicio": "2025-05-15T13:30:00-03:00",
+    "dataFim": "2025-05-15T15:00:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Estratégias de Marketing Digital com Baixo Orçamento</i> conduzida por <b>Juliana Pires</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Hall Central",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:30:00-03:00",
+    "descricao": "<p>Encontro multissetorial mediado por <b>Lucas Medeiros</b> promovendo parcerias B2B.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Temática Finanças",
+    "dataInicio": "2025-05-15T15:30:00-03:00",
+    "dataFim": "2025-05-15T17:00:00-03:00",
+    "descricao": "<p>Abordagem sobre <i>Precificação Inteligente e Gestão de Fluxo de Caixa</i> com o especialista <b>Guilherme Tavares</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel de Casos de Sucesso",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-15T17:00:00-03:00",
+    "dataFim": "2025-05-15T18:30:00-03:00",
+    "descricao": "<p>Discussão com foco em <i>Trajetórias Empreendedoras da Região Central do RS</i>, reunindo <b>Vanessa Rossi</b> e <b>Tiago Camargo</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Consultoria Individual Sebrae",
+    "lugar": null,
+    "dataInicio": "2025-05-15T17:30:00-03:00",
+    "dataFim": "2025-05-15T19:00:00-03:00",
+    "descricao": "<p>Orientação emergencial e diagnóstico rápido orientado por <b>Patrícia Ramos</b>.</p>",
+    "secao": "Atendimentos Especializados"
+   },
+   {
+    "nome": "Happy Hour de Networking",
+    "lugar": null,
+    "dataInicio": "2025-05-15T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura dos Portões e Mostra de Startups",
+    "lugar": null,
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T09:30:00-03:00",
+    "dataFim": "2025-05-16T10:45:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Inteligência Artificial Aplicada a Pequenos Negócios</i> com <b>Marcelo Albuquerque</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Consultoria Individual Sebrae",
+    "lugar": "Espaço Atendimento",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Diagnóstico financeiro e planejamento tributário conduzido por <b>Roberto Fagundes</b>.</p>",
+    "secao": "Atendimentos Especializados"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Temática Inovação",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Como Validar sua Ideia com Métodos Ágeis</i> orientada por <b>Clarissa Mello</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:30:00-03:00",
+    "dataFim": "2025-05-16T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pitch",
+    "lugar": "Palco Conexões",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Apresentação das startups incubadas com avaliação de banca formada por <b>Eduardo Siqueira</b> e <b>Bárbara Nunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Temática Finanças",
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Linhas de Crédito Orientadas e Renegociação de Dívidas</i> com <b>Henrique Brandão</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T17:15:00-03:00",
+    "dataFim": "2025-05-16T18:30:00-03:00",
+    "descricao": "<p>Palestra de encerramento abordando <i>O Futuro do Trabalho e as Novas Habilidades de Liderança</i> apresentada por <b>Aline Guimarães</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Premiação Destaque Empreendedor",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T18:45:00-03:00",
+    "dataFim": "2025-05-16T19:45:00-03:00",
+    "descricao": "<p>Cerimônia de entrega de prêmios apresentada por <b>Carlos Alberto Becker</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,372 @@
+{
+ "spec": {
+  "id": "sint-42-00155",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Natal - RN",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 43,
+  "casos": [
+   "intervalos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:44+00:00",
+ "uso_tokens": {
+  "entrada": 645,
+  "saida": 6240
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVI Mostra Potiguar de Extensão Universitária",
+   "local_geral": "Centro de Convivência da UFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Material",
+    "lugar": "Hall do Centro de Convivência",
+    "dataInicio": "2025-10-21T08:00:00-03:00",
+    "dataFim": "2025-10-21T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2025-10-21T09:30:00-03:00",
+    "dataFim": "2025-10-21T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da reitora <b>Maria do Socorro Dantas</b> e da pró-reitora de extensão <b>Eliane Vasconcelos de Medeiros</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2025-10-21T10:30:00-03:00",
+    "dataFim": "2025-10-21T12:00:00-03:00",
+    "descricao": "<p>Conferência <i>A Curricularização da Extensão e os Territórios de Cidadania</i> proferida pelo professor <b>Carlos Alberto Feitosa</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-21T12:00:00-03:00",
+    "dataFim": "2025-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda Cultural Pau-Brasil",
+    "dataInicio": "2025-10-21T13:30:00-03:00",
+    "dataFim": "2025-10-21T14:00:00-03:00",
+    "descricao": "<p>Performance do grupo <i>Coco de Roda de Ponta Negra</i>, coordenado pelo mestre <b>Severino Ramos da Silva</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Setor de Aulas II",
+    "dataInicio": "2025-10-21T14:00:00-03:00",
+    "dataFim": "2025-10-21T16:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Direitos Humanos, Memória e Vulnerabilidades Sociais no Semiárido</i> com <b>Juliana Pires Maciel</b> e <b>Rodrigo Otávio de Albuquerque</b>, mediado por <b>Fernanda Tavares Lima</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Sessão de Pôsteres 1",
+    "lugar": "Espaço Vilar de Arte",
+    "dataInicio": "2025-10-21T14:00:00-03:00",
+    "dataFim": "2025-10-21T16:00:00-03:00",
+    "descricao": "<p>Exposição dos projetos da área temática de Educação Básica. Avaliação conduzida pelo docente <b>Cláudio Henrique Barreto</b>.</p>",
+    "secao": "Exposição de Painéis"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2025-10-21T16:00:00-03:00",
+    "dataFim": "2025-10-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": null,
+    "dataInicio": "2025-10-21T16:30:00-03:00",
+    "dataFim": "2025-10-21T18:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Extensão Popular e Saberes Tradicionais</i> facilitada por <b>Aline Guimarães Barbalho</b> e pelo líder comunitário <b>Geraldo Manoel dos Santos</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Mostra Audiovisual Comunitária",
+    "lugar": "Auditório do Decom",
+    "dataInicio": "2025-10-21T18:00:00-03:00",
+    "dataFim": "2025-10-21T19:30:00-03:00",
+    "descricao": "<p>Exibição dos curtas-metragens <i>Maré de Saberes</i> e <i>Vozes da Duna</i>, com debate coordenado pela cineasta <b>Letícia Fontes Coutinho</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório Pedagógico 4",
+    "dataInicio": "2025-10-22T08:30:00-03:00",
+    "dataFim": "2025-10-22T11:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Elaboração de Projetos Sociais para Editais Públicos</i>, ministrada por <b>Danilo Siqueira Arcoverde</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala 12 do Bloco C",
+    "dataInicio": "2025-10-22T08:30:00-03:00",
+    "dataFim": "2025-10-22T11:30:00-03:00",
+    "descricao": "<p>Prática de <i>Hortas Urbanas e Agroecologia em Comunidades Periféricas</i> com a engenheira agrônoma <b>Bárbara Camurça Vieira</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": null,
+    "dataInicio": "2025-10-22T09:00:00-03:00",
+    "dataFim": "2025-10-22T11:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos do eixo Saúde Coletiva. Coordenação de <b>Patrícia Soares Varela</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Centro de Convivência",
+    "dataInicio": "2025-10-22T10:00:00-03:00",
+    "dataFim": "2025-10-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2025-10-22T11:00:00-03:00",
+    "dataFim": "2025-10-22T12:00:00-03:00",
+    "descricao": "<p>Palestra <i>Inovação Social e Tecnologias Assistivas no Ensino Superior</i> com o pesquisador <b>Waldir Galvão Bezerra</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-22T12:00:00-03:00",
+    "dataFim": "2025-10-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres 2",
+    "lugar": "Espaço Vilar de Arte",
+    "dataInicio": "2025-10-22T13:30:00-03:00",
+    "dataFim": "2025-10-22T15:30:00-03:00",
+    "descricao": "<p>Apresentação de banners da área de Meio Ambiente e Sustentabilidade. Avaliação de <b>Marcelo Freitas Queiroz</b>.</p>",
+    "secao": "Exposição de Painéis"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Setor de Aulas II",
+    "dataInicio": "2025-10-22T14:00:00-03:00",
+    "dataFim": "2025-10-22T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Mulheres Negras e a Construção de Redes de Apoio Comunitário</i> com <b>Iara Cristiane do Nascimento</b> e <b>Kátia Silene Barbosa</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": null,
+    "dataInicio": "2025-10-22T15:30:00-03:00",
+    "dataFim": "2025-10-22T17:00:00-03:00",
+    "descricao": "<p>Diálogos sobre <i>Saúde Mental dos Estudantes e Ações Extensionistas</i> conduzidos pela psicóloga <b>Marta Helena Pontes</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Coffee Break Vespertino",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2025-10-22T16:00:00-03:00",
+    "dataFim": "2025-10-22T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Teatral",
+    "lugar": "Tenda Cultural Pau-Brasil",
+    "dataInicio": "2025-10-22T17:00:00-03:00",
+    "dataFim": "2025-10-22T18:00:00-03:00",
+    "descricao": "<p>Peça <i>Retalhos da Terra</i> apresentada pelo Grupo de Teatro Universitário sob a direção de <b>Tiago Meira Fagundes</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Palestra Noturna",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2025-10-22T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência especial <i>Extensão Universitária e Políticas Públicas de Fomento</i> proferida pelo deputado e sociólogo <b>Estêvão Andrade Neves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-10-23T08:30:00-03:00",
+    "dataFim": "2025-10-23T11:30:00-03:00",
+    "descricao": "<p>Instrução sobre <i>Ferramentas Digitais e Cartografia Social para Projetos Comunitários</i> ministrada por <b>Hugo Leonardo Rezende</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Dança do DEF",
+    "dataInicio": "2025-10-23T08:30:00-03:00",
+    "dataFim": "2025-10-23T11:30:00-03:00",
+    "descricao": "<p>Atividade corporal <i>Dança Popular e Expressão Corporal na Escola Pública</i> conduzida por <b>Clarice Prado Furtado</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": null,
+    "dataInicio": "2025-10-23T09:00:00-03:00",
+    "dataFim": "2025-10-23T11:00:00-03:00",
+    "descricao": "<p>Comunicações do eixo Direitos Humanos e Cidadania. Avaliador coordenador: <b>Vicente Correia Lima</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": "Hall do Centro de Convivência",
+    "dataInicio": "2025-10-23T10:00:00-03:00",
+    "dataFim": "2025-10-23T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lançamento de Livros de Extensão",
+    "lugar": "Hall do Centro de Convivência",
+    "dataInicio": "2025-10-23T11:00:00-03:00",
+    "dataFim": "2025-10-23T12:00:00-03:00",
+    "descricao": "<p>Sessão de autógrafos da coletânea <i>Práticas de Extensão no Rio Grande do Norte: Diálogos e Caminhos</i>, organizada por <b>Renata Cordeiro Diniz</b> e <b>Nelson Falcão de Castro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-10-23T12:00:00-03:00",
+    "dataFim": "2025-10-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Economia Solidária",
+    "lugar": "Praça Cívica do Campus",
+    "dataInicio": "2025-10-23T13:30:00-03:00",
+    "dataFim": "2025-10-23T17:30:00-03:00",
+    "descricao": "<p>Exposição e comercialização de produtos de associações de artesãos e agricultores familiares. Organização de <b>Lúcia Helena Vilar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres 3",
+    "lugar": "Espaço Vilar de Arte",
+    "dataInicio": "2025-10-23T14:00:00-03:00",
+    "dataFim": "2025-10-23T16:00:00-03:00",
+    "descricao": "<p>Apresentações da área de Tecnologia, Produção e Trabalho, avaliadas por <b>Otávio Augusto Marinho</b>.</p>",
+    "secao": "Exposição de Painéis"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Setor de Aulas II",
+    "dataInicio": "2025-10-23T14:00:00-03:00",
+    "dataFim": "2025-10-23T16:00:00-03:00",
+    "descricao": "<p>Painel <i>Gestão Compartilhada das Águas e Convivência com o Semiárido</i> com palestras de <b>Antônio Marcos Sales</b> e <b>Gisela Moreira Pinto</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para o Café",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2025-10-23T16:00:00-03:00",
+    "dataFim": "2025-10-23T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 3",
+    "lugar": null,
+    "dataInicio": "2025-10-23T16:30:00-03:00",
+    "dataFim": "2025-10-23T18:00:00-03:00",
+    "descricao": "<p>Encontro temático <i>Povos Tradicionais, Pesca Artesanal e Conflitos Socioambientais no Litoral Potiguar</i> moderado por <b>Joana D'Arc Paiva</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Tenda Cultural Pau-Brasil",
+    "dataInicio": "2025-10-23T18:00:00-03:00",
+    "dataFim": "2025-10-23T19:30:00-03:00",
+    "descricao": "<p>Show do cantor e compositor regional <b>Chico Batera de Natal</b> e convidados.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala 14 do Bloco C",
+    "dataInicio": "2025-10-24T08:30:00-03:00",
+    "dataFim": "2025-10-24T11:00:00-03:00",
+    "descricao": "<p>Oficina prática de <i>Educomunicação e Produção de Podcasts Escolares</i> orientada por <b>Samir Caldas Fontenele</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": null,
+    "dataInicio": "2025-10-24T08:30:00-03:00",
+    "dataFim": "2025-10-24T10:30:00-03:00",
+    "descricao": "<p>Apresentação oral dos bolsistas da área de Comunicação e Cultura. Coordenação da professora <b>Viviane Martins Leite</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Café Coletivo",
+    "lugar": "Hall do Centro de Convivência",
+    "dataInicio": "2025-10-24T10:00:00-03:00",
+    "dataFim": "2025-10-24T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Avaliação Institucional",
+    "lugar": "Auditório Setor de Aulas II",
+    "dataInicio": "2025-10-24T10:30:00-03:00",
+    "dataFim": "2025-10-24T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Indicadores de Impacto Social da Extensão Universitária</i> conduzido por <b>Fábio Montebelo Saraiva</b> e <b>Beatriz Brandão Câmara</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Horário de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-24T12:00:00-03:00",
+    "dataFim": "2025-10-24T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Fórum de Coordenadores de Extensão",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2025-10-24T13:30:00-03:00",
+    "dataFim": "2025-10-24T15:30:00-03:00",
+    "descricao": "<p>Reunião de avaliação e planejamento das ações integradas do próximo ciclo, sob direção de <b>Eliane Vasconcelos de Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Encerramento das Avaliações",
+    "lugar": null,
+    "dataInicio": "2025-10-24T15:30:00-03:00",
+    "dataFim": "2025-10-24T16:00:00-03:00",
+    "descricao": "<p>Consolidação das notas dos avaliadores ad hoc pela comissão liderada por <b>Sérgio Nogueira Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2025-10-24T16:00:00-03:00",
+    "dataFim": "2025-10-24T17:30:00-03:00",
+    "descricao": "<p>Entrega do <i>Prêmio Mérito Extensionista Aluízio Alves</i> aos estudantes e orientadores destaques da mostra, conduzida por <b>Maria do Socorro Dantas</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2025-10-24T17:30:00-03:00",
+    "dataFim": "2025-10-24T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

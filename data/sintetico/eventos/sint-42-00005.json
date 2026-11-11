@@ -1,0 +1,219 @@
+{
+ "spec": {
+  "id": "sint-42-00005",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "São Paulo - SP",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 24,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:55+00:00",
+ "uso_tokens": {
+  "entrada": 634,
+  "saida": 3556
+ },
+ "saida": {
+  "evento": {
+   "nome": "12º Encontro Paulistano de Fé, Cidadania e Comunidade",
+   "local_geral": "Centro Pastoral São José do Ipiranga, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Recepção dos Delegados Comunitários",
+    "lugar": "Pátio Central",
+    "dataInicio": "2026-06-11T16:00:00-03:00",
+    "dataFim": "2026-06-11T18:00:00-03:00",
+    "descricao": "<p>Distribuição de crachás, pastas de orientação e acomodação dos participantes vindos de pastorais e coletivos comunitários.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Celebração Ecumênica de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2026-06-11T18:30:00-03:00",
+    "dataFim": "2026-06-11T20:30:00-03:00",
+    "descricao": "<p>Ato litúrgico conduzido pela <b>Pastora Cibele Matos</b> e pelo <b>Padre Renato Gusmão</b>, com cânticos litúrgicos da <b>Comunidade Shalom Leste</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Ceia Fraterna",
+    "lugar": "Refeitório das Oliveiras",
+    "dataInicio": "2026-06-11T20:30:00-03:00",
+    "dataFim": "2026-06-11T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã e Partilha",
+    "lugar": "Nave Principal",
+    "dataInicio": "2026-06-12T08:00:00-03:00",
+    "dataFim": "2026-06-12T08:45:00-03:00",
+    "descricao": "<p>Momento de espiritualidade comunitária coordenado pela <b>Irmã Teresa Pimenta</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2026-06-12T09:00:00-03:00",
+    "dataFim": "2026-06-12T10:45:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O Papel das Pastorais Sociais na Redução das Desigualdades Urbanas</i>, com exposições do sociólogo <b>Marcos Vinícius Trindade</b> e mediação de <b>Letícia Albuquerque</b>.</p>",
+    "secao": "Plenárias Formativas"
+   },
+   {
+    "nome": "Café Solidário",
+    "lugar": "Pátio Central",
+    "dataInicio": "2026-06-12T10:45:00-03:00",
+    "dataFim": "2026-06-12T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala São Paulo",
+    "dataInicio": "2026-06-12T11:15:00-03:00",
+    "dataFim": "2026-06-12T13:00:00-03:00",
+    "descricao": "<p>Formação prática com tema <i>Comunicação Popular e Mídias para Projetos Paroquiais</i>, ministrada por <b>Guilherme Sato</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala Nazaré",
+    "dataInicio": "2026-06-12T11:15:00-03:00",
+    "dataFim": "2026-06-12T13:00:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Captação de Recursos e Gestão Transparente de Casas de Acolhida</i>, facilitada por <b>Eliane Bezerra</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala Betânia",
+    "dataInicio": "2026-06-12T11:15:00-03:00",
+    "dataFim": "2026-06-12T13:00:00-03:00",
+    "descricao": "<p>Atividade prática intitulada <i>Hortas Comunitárias e Sustentabilidade nas Periferias</i>, coordenada pelo agrônomo <b>Diogo Nogueira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório das Oliveiras",
+    "dataInicio": "2026-06-12T13:00:00-03:00",
+    "dataFim": "2026-06-12T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2026-06-12T14:30:00-03:00",
+    "dataFim": "2026-06-12T17:00:00-03:00",
+    "descricao": "<p>Discussão com relatos locais sob o título <i>Juventudes, Território e Espiritualidade Engajada</i>, mediada por <b>Felipe Dornelles</b> e <b>Bruna Estevão</b>.</p>",
+    "secao": "Plenárias Formativas"
+   },
+   {
+    "nome": "Vigília das Lanternas",
+    "lugar": "Jardim das Oliveiras",
+    "dataInicio": "2026-06-12T19:30:00-03:00",
+    "dataFim": "2026-06-12T21:30:00-03:00",
+    "descricao": "<p>Ato de meditação e preces pela paz urbana conduzido pela <b>Diaconisa Marta Valente</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Laudes Comunitárias",
+    "lugar": "Nave Principal",
+    "dataInicio": "2026-06-13T08:30:00-03:00",
+    "dataFim": "2026-06-13T09:15:00-03:00",
+    "descricao": "<p>Oração matinal cantada pelos jovens do <b>Coral Bom Pastor</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Conferência Temática",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2026-06-13T09:30:00-03:00",
+    "dataFim": "2026-06-13T11:00:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Cuidado com a Criação e Diálogo Inter-religioso no Cenário Metropolitano</i> pela teóloga <b>Dra. Vânia Rezende</b>.</p>",
+    "secao": "Plenárias Formativas"
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Sala São Paulo",
+    "dataInicio": "2026-06-13T11:15:00-03:00",
+    "dataFim": "2026-06-13T13:00:00-03:00",
+    "descricao": "<p>Encontro de formação técnica com o tema <i>Acolhimento aos Povos Migrantes e Refugiados</i>, ministrado pelo assistente social <b>Lucas Fagundes</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 5",
+    "lugar": "Sala Nazaré",
+    "dataInicio": "2026-06-13T11:15:00-03:00",
+    "dataFim": "2026-06-13T13:00:00-03:00",
+    "descricao": "<p>Atividade interativa sobre <i>Metodologias de Círculos Restaurativos e Resolução de Conflitos Locais</i> com a facilitadora <b>Clara Menezes</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 6",
+    "lugar": "Sala Betânia",
+    "dataInicio": "2026-06-13T11:15:00-03:00",
+    "dataFim": "2026-06-13T13:00:00-03:00",
+    "descricao": "<p>Treinamento em <i>Musicalidade Litúrgica e Expressão Corporal Comunitária</i> orientado pelo maestro <b>Tiago Prado</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório das Oliveiras",
+    "dataInicio": "2026-06-13T13:00:00-03:00",
+    "dataFim": "2026-06-13T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Economia Solidária e Boas Práticas",
+    "lugar": "Pátio Central",
+    "dataInicio": "2026-06-13T14:30:00-03:00",
+    "dataFim": "2026-06-13T17:30:00-03:00",
+    "descricao": "<p>Exposição de cooperativas populares, troca de experiências comunitárias e estandes das pastorais associadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural e Sarau Comunitário",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2026-06-13T19:30:00-03:00",
+    "dataFim": "2026-06-13T22:00:00-03:00",
+    "descricao": "<p>Apresentações poéticas e musicais com o <b>Grupo Teatral Raízes de Maria</b> e cantoria popular sob liderança de <b>Severino do Acordeon</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Matinas e Reflexão Coletiva",
+    "lugar": "Nave Principal",
+    "dataInicio": "2026-06-14T08:30:00-03:00",
+    "dataFim": "2026-06-14T09:30:00-03:00",
+    "descricao": "<p>Momento meditativo inicial com condução pastoral do <b>Presbítero Carlos Henrique Vieira</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Assembleia dos Povos",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2026-06-14T09:45:00-03:00",
+    "dataFim": "2026-06-14T11:45:00-03:00",
+    "descricao": "<p>Apreciação, votação e leitura da <i>Carta Compromisso pela Fraternidade Paulistana</i>, com redação final apresentada por <b>Heloísa Santoro</b>.</p>",
+    "secao": "Plenárias Formativas"
+   },
+   {
+    "nome": "Missa de Envio e Bênção das Comunidades",
+    "lugar": "Nave Principal",
+    "dataInicio": "2026-06-14T12:00:00-03:00",
+    "dataFim": "2026-06-14T13:30:00-03:00",
+    "descricao": "<p>Celebração eucarística solene concelebrada por sacerdotes diocesanos e presidida por <b>Dom Otávio Silveira</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Refeitório das Oliveiras",
+    "dataInicio": "2026-06-14T13:30:00-03:00",
+    "dataFim": "2026-06-14T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

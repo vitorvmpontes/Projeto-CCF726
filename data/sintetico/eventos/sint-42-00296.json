@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00296",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "descricoes_ricas",
+   "nomes_repetidos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:36+00:00",
+ "uso_tokens": {
+  "entrada": 701,
+  "saida": 1222
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival de Artes Integradas de Juiz de Fora - FAIM 2023",
+   "local_geral": "Centro Cultural Bernardo Mascarenhas, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Visita Guiada à Exposição de Artes Visuais",
+    "lugar": "Galeria Tostão",
+    "dataInicio": "2023-08-19T10:00:00-03:00",
+    "dataFim": "2023-08-19T11:00:00-03:00",
+    "descricao": "<p>Abertura do circuito expositivo com mediação de <b>Laura Vasconcellos</b> e <b>Rodrigo Alvarenga</b>. Trabalhos apresentados: <i>Paisagens Transitórias da Zona da Mata</i>, de autoria de <b>Camila Duarte</b>; <i>Corpos Urbanos em Movimento</i>, concebido por <b>Mateus Queiroz</b>; e a série fotográfica <i>Fragmentos Mineiros do Cotidiano</i>, produzida por <b>Mariana Sampaio</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina Prática de Técnicas Avançadas de Aquarela Contemporânea Aplicadas à Ilustração Botânica e Paisagística Urbana Regional",
+    "lugar": "Ateliê 2",
+    "dataInicio": "2023-08-19T11:00:00-03:00",
+    "dataFim": "2023-08-19T13:00:00-03:00",
+    "descricao": "<p>Oficina de formação artística ministrada por <b>Fernando Castilho</b> com assistência técnica de <b>Beatriz Mendonça</b>. Aborda pigmentos naturais e composição gráfica baseada na flora de Minas Gerais.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Palestra sobre Desafios da Produção Cultural Independente em Cidades Médias Brasileiras Frente às Novas Tecnologias Digitais",
+    "lugar": "Teatro Paschoal Carlos Magno",
+    "dataInicio": "2023-08-19T14:30:00-03:00",
+    "dataFim": "2023-08-19T16:00:00-03:00",
+    "descricao": "<p>Painel com a coordenação de <b>Patrícia Nogueira</b>. Palestrantes convidados: <b>Tiago Benevides</b> ministrando a conferência <i>Sustentabilidade Econômica nos Festivais do Interior</i> e <b>Vanessa Esteves</b> debatendo <i>Redes Colaborativas e Financiamento Coletivo em Plataformas Abertas</i>.</p>",
+    "secao": "Debates e Seminários"
+   },
+   {
+    "nome": "Visita Guiada à Exposição de Artes Visuais",
+    "lugar": "Espaço Mezanino",
+    "dataInicio": "2023-08-19T16:30:00-03:00",
+    "dataFim": "2023-08-19T17:30:00-03:00",
+    "descricao": "<p>Segunda sessão da mostra orientada, sob coordenação de <b>Laura Vasconcellos</b>. Apresentação das instalações escultóricas <i>Estruturas de Ferro e Memória Têxtil</i> por <b>Alexandre Peixoto</b> e <i>O Silêncio da Pedra Sabão</i> com curadoria de <b>Isabela Fontes</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Escrita Criativa",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2023-08-19T17:30:00-03:00",
+    "dataFim": "2023-08-19T19:00:00-03:00",
+    "descricao": "<p>Encontro voltado para criação literária em verso e prosa, orientado pelo escritor <b>Henrique Brandão</b> e mediado pela professora <b>Cláudia Resende</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Palco Externo da Praça Antônio Carlos",
+    "dataInicio": "2023-08-19T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show de encerramento do festival comandado pelo cantor <b>Danilo Morais</b> e o grupo instrumental <b>Trio Mantiqueira</b>, com participação especial da cantora <b>Luciana Toledo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00010",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Santa Maria - RS",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:06+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 1302
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Brasileiro de Agroecologia e Sustentabilidade dos Biomas do Sul",
+   "local_geral": "Centro de Convenções da UFSM, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-10-15T08:30:00-03:00",
+    "dataFim": "2025-10-15T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos pelo comitê gestor e reitoria da instituição, com a coordenação de <b>Dra. Juliana Fachin</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-10-15T09:15:00-03:00",
+    "dataFim": "2025-10-15T10:30:00-03:00",
+    "descricao": "<p>Conferência sobre <i>Manejo ecológico de solos no Bioma Pampa frente aos eventos climáticos extremos</i>, ministrada por <b>Dr. Marcelo de Souza Quadros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2025-10-15T10:45:00-03:00",
+    "dataFim": "2025-10-15T12:15:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos científicos. Apresentações de <b>Rogério Meireles da Silva</b> sobre <i>Indicadores biofísicos de restauração campestre</i> e <b>Camila Zanatta</b> com o trabalho <i>Dinâmica de carbono em sistemas silvipastoris</i>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2025-10-15T10:45:00-03:00",
+    "dataFim": "2025-10-15T12:15:00-03:00",
+    "descricao": "<p>Apresentação oral de trabalhos com foco em conservação hídrica. Moderação conduzida por <b>Prof. Lucas Fagundes Rios</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-15T12:15:00-03:00",
+    "dataFim": "2025-10-15T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": null,
+    "dataInicio": "2025-10-15T14:00:00-03:00",
+    "dataFim": "2025-10-15T15:30:00-03:00",
+    "descricao": "<p>Apresentações com debate aberto. Trabalho <i>Agrobiodiversidade e segurança alimentar em cooperativas familiares</i>, de <b>Ana Beatriz Portela</b>, e <i>Uso de bioinsumos na redução de perdas na safra gaúcha</i>, por <b>Rodrigo Meneghetti</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-10-15T15:45:00-03:00",
+    "dataFim": "2025-10-15T17:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas públicas para a transição ecológica no Rio Grande do Sul</i>. Participação dos especialistas <b>Heloísa Bittencourt</b>, <b>Felipe Dornelles</b> e mediação de <b>Tatiana Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-10-15T17:30:00-03:00",
+    "dataFim": "2025-10-15T18:30:00-03:00",
+    "descricao": "<p>Anúncio dos melhores artigos científicos do congresso e leitura da ata com <b>Dr. Cristiano Vargas Soares</b> e <b>Dra. Juliana Fachin</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

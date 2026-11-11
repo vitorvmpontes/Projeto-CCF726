@@ -1,0 +1,123 @@
+{
+ "spec": {
+  "id": "sint-42-00146",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Niterói - RJ",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 12,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:44+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 1930
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Fluminense de Sustentabilidade Urbana e Conservação Ambiental",
+   "local_geral": "Reserva Cultural e Campus Gragoatá da UFF, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Nelson Pereira dos Santos",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T11:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e debate sobre <i>Desafios da Gestão Costeira na Baía de Guanabara</i> com a oceanógrafa <b>Dra. Mariana Vasconcellos</b> e o urbanista <b>Carlos Alberto Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": null,
+    "dataInicio": "2024-05-15T11:15:00-03:00",
+    "dataFim": "2024-05-15T12:45:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Políticas Públicas para Cidades Resilientes</i> coordenada por <b>Dr. Henrique Paes Leme</b> com intervenções de <b>Fabiana Rocha Fontes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": null,
+    "dataInicio": "2024-05-15T14:30:00-03:00",
+    "dataFim": "2024-05-15T16:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Transição Energética e Descarbonização em Frotas Municipais</i> com o engenheiro <b>Thiago Mendonça</b> e a pesquisadora <b>Juliana Nogueira Prado</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Treinamento prático em <i>Mapeamento Participativo de Áreas Verdes com QGIS</i> ministrado pelo geógrafo <b>Rodrigo Vianna</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala Multiuso 4",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Técnicas de Compostagem Comunitária e Hortas Urbanas</i> conduzida pela agrônoma <b>Camila Duarte Esteves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Diálogo",
+    "lugar": null,
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Espaço de troca sobre <i>Educação Ambiental nas Escolas Públicas Fluminenses</i> com mediação de <b>Profa. Renata Guimarães</b> e participação dos ativistas comunitários <b>Jorge Tadeu Silveira</b> e <b>Aline Peçanha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-16T16:30:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos de graduação e pós-graduação sobre manejo de bacias hidrográficas e reciclagem integrada, avaliados pelo comitê presidido por <b>Prof. Marcelo Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Parque Natural Municipal de Niterói (PARNIT)",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Trilha guiada para observação das ações de reflorestamento da Mata Atlântica e contenção de encostas, guiada pelo biólogo <b>Eduardo Furtado</b>.</p>",
+    "secao": "Atividades de Campo"
+   },
+   {
+    "nome": "Diálogo Intersetorial",
+    "lugar": null,
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia Circular e Logística Reversa no Setor Privado</i> reunindo <b>Beatriz Montenegro</b> e o consultor de sustentabilidade <b>Lucas Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Nelson Pereira dos Santos",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>O Futuro das Cidades Costeiras frente ao Cenário Climático Global</i> ministrada pela pesquisadora <b>Dra. Cecília Meireles Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato de Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura da <i>Carta de Niterói pelo Clima</i> pela coordenadora geral do evento <b>Dra. Mariana Vasconcellos</b> e entrega dos certificados.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

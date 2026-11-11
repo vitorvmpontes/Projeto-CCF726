@@ -1,0 +1,371 @@
+{
+ "spec": {
+  "id": "sint-42-00109",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 43,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:24+00:00",
+ "uso_tokens": {
+  "entrada": 630,
+  "saida": 6611
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Simpósio de Pós-Graduação em Saúde Coletiva e Ambiente do Nordeste",
+   "local_geral": "Faculdade de Medicina da Bahia - UFBA, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Pavilhão de Aulas",
+    "dataInicio": "2025-08-20T08:00:00-03:00",
+    "dataFim": "2025-08-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-20T09:00:00-03:00",
+    "dataFim": "2025-08-20T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do coordenador geral <b>Prof. Dr. Marcelo Cerqueira</b> e autoridades universitárias convidadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-20T10:00:00-03:00",
+    "dataFim": "2025-08-20T11:30:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Justiça Ambiental e Soberania em Saúde nas Metrópoles Costeiras</i>, ministrada pela <b>Dra. Heloísa Pires Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-20T12:00:00-03:00",
+    "dataFim": "2025-08-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Sala 101 - Bloco B",
+    "dataInicio": "2025-08-20T13:30:00-03:00",
+    "dataFim": "2025-08-20T17:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Análise Espacial de Dados Epidemiológicos com R</i> conduzida pelo <b>Prof. Me. Danilo Guimarães</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2025-08-20T13:30:00-03:00",
+    "dataFim": "2025-08-20T17:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Métodos Mistos na Pesquisa Qualitativa em Saúde</i>, coordenada pela <b>Profa. Dra. Tânia Lúcia Barreto</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-08-20T13:30:00-03:00",
+    "dataFim": "2025-08-20T17:30:00-03:00",
+    "descricao": "<p>Treinamento prático em <i>Revisões Sistemáticas e Metanálise com Software Aberto</i> pelo <b>Dr. Rogério Villas-Bôas</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Mostra de Cinema e Saúde Coletiva",
+    "lugar": "Cineclube da Faculdade",
+    "dataInicio": "2025-08-20T18:00:00-03:00",
+    "dataFim": "2025-08-20T19:30:00-03:00",
+    "descricao": "<p>Exibição do documentário e debate coordenado por <b>Fernanda Matos</b> e o cineasta convidado <b>Geraldo Sampaio</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Apresentação Musical de Acolhimento",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2025-08-20T19:30:00-03:00",
+    "dataFim": "2025-08-20T21:00:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo de choro liderado pelo instrumentista <b>Lucas de Oliveira</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-21T08:30:00-03:00",
+    "dataFim": "2025-08-21T10:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Vulnerabilidades Climáticas e Doenças Negligenciadas</i> com palestras da <b>Dra. Clara Silveira</b> e do <b>Prof. Dr. Gilmar Dantas</b>. Moderação por <b>Profa. Camila Nogueira</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Anfiteatro 2",
+    "dataInicio": "2025-08-21T08:30:00-03:00",
+    "dataFim": "2025-08-21T10:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Trabalho em Saúde, Precarização e Sofrimento Psíquico</i> com os convidados <b>Prof. Fernando Bastos</b> e <b>Dra. Valquíria Rocha</b>. Moderação de <b>Bárbara Santana</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Sala de Atos",
+    "dataInicio": "2025-08-21T08:30:00-03:00",
+    "dataFim": "2025-08-21T10:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Políticas Farmacêuticas e Acesso a Tecnologias em Saúde</i>, com exposições de <b>Dr. Henrique Paiva</b> e <b>Profa. Lílian Fontes</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-08-21T10:30:00-03:00",
+    "dataFim": "2025-08-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala 201 - Bloco A",
+    "dataInicio": "2025-08-21T11:00:00-03:00",
+    "dataFim": "2025-08-21T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrado da área de Epidemiologia. Avaliação pelos pareceristas <b>Prof. André Vianna</b> e <b>Dra. Beatriz Leite</b>.</p>",
+    "secao": "Sessões Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala 202 - Bloco A",
+    "dataInicio": "2025-08-21T11:00:00-03:00",
+    "dataFim": "2025-08-21T12:30:00-03:00",
+    "descricao": "<p>Apresentações de teses sobre Políticas e Gestão em Saúde. Coordenação pelo <b>Prof. Wilson Tadeu</b> com avaliação de <b>Dra. Marília Guedes</b>.</p>",
+    "secao": "Sessões Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Sala 203 - Bloco A",
+    "dataInicio": "2025-08-21T11:00:00-03:00",
+    "dataFim": "2025-08-21T12:30:00-03:00",
+    "descricao": "<p>Apresentações sobre Ciências Sociais e Humanidades em Saúde. Avaliadores: <b>Profa. Laura Rios</b> e <b>Dr. Caio Figueiredo</b>.</p>",
+    "secao": "Sessões Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-21T12:30:00-03:00",
+    "dataFim": "2025-08-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis e Pôsteres Digitais",
+    "lugar": "Espaço de Convivência Central",
+    "dataInicio": "2025-08-21T14:00:00-03:00",
+    "dataFim": "2025-08-21T16:00:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas em andamento dos discentes, com comissão examinadora coordenada por <b>Dr. Samuel Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-21T16:00:00-03:00",
+    "dataFim": "2025-08-21T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Financiamento da Pós-Graduação e Fomento Científico no Brasil</i> com os palestrantes <b>Prof. Otávio Ramos</b> e <b>Dra. Cristina Nabuco</b>.</p>",
+    "secao": "Painéis Interdisciplinares"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Anfiteatro 2",
+    "dataInicio": "2025-08-21T16:00:00-03:00",
+    "dataFim": "2025-08-21T18:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Comunicação Pública da Ciência e Desinformação em Saúde</i> conduzida por <b>Mariana Aragão</b> e <b>Prof. Wagner Chagas</b>.</p>",
+    "secao": "Painéis Interdisciplinares"
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": "Tenda Universitária",
+    "dataInicio": "2025-08-21T18:00:00-03:00",
+    "dataFim": "2025-08-21T19:30:00-03:00",
+    "descricao": "<p>Espaço de integração da representação estudantil com a coordenação de <b>Juliana Meireles</b> e <b>Renato Falcão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-22T08:30:00-03:00",
+    "dataFim": "2025-08-22T10:30:00-03:00",
+    "descricao": "<p>Debate <i>Territórios Tradicionais, Povos de Terreiro e Promoção da Saúde</i> com <b>Mãe Valdelice de Ogum</b>, <b>Prof. Dr. Altair Santos</b> e mediação de <b>Profa. Rita de Cássia Trindade</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda 5",
+    "lugar": "Anfiteatro 2",
+    "dataInicio": "2025-08-22T08:30:00-03:00",
+    "dataFim": "2025-08-22T10:30:00-03:00",
+    "descricao": "<p>Reflexões sobre <i>Iniquidades Raciais e Determinantes Sociais da Saúde</i> com a presença de <b>Dra. Edna Santana</b> e <b>Prof. Rodrigo Alencar</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda 6",
+    "lugar": "Sala de Atos",
+    "dataInicio": "2025-08-22T08:30:00-03:00",
+    "dataFim": "2025-08-22T10:30:00-03:00",
+    "descricao": "<p>Sessão temática sobre <i>Saúde Urbana, Habitação e Mobilidade Ativa</i> com <b>Dr. Gustavo Pinheiro</b> e <b>Profa. Denise Albuquerque</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-08-22T10:30:00-03:00",
+    "dataFim": "2025-08-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 4",
+    "lugar": "Sala 201 - Bloco A",
+    "dataInicio": "2025-08-22T11:00:00-03:00",
+    "dataFim": "2025-08-22T12:30:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas ligadas a Saúde Ambiental e Toxicologia. Banca avaliadora: <b>Prof. Sérgio Nogueira</b> e <b>Dra. Patrícia Teles</b>.</p>",
+    "secao": "Sessões Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Sessão Oral 5",
+    "lugar": "Sala 202 - Bloco A",
+    "dataInicio": "2025-08-22T11:00:00-03:00",
+    "dataFim": "2025-08-22T12:30:00-03:00",
+    "descricao": "<p>Apresentação de investigações sobre Vigilância Sanitária e Epidemiológica. Avaliadores convidados: <b>Dra. Lorena Queiroz</b> e <b>Prof. Vinícius Paixão</b>.</p>",
+    "secao": "Sessões Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Sessão Oral 6",
+    "lugar": "Sala 203 - Bloco A",
+    "dataInicio": "2025-08-22T11:00:00-03:00",
+    "dataFim": "2025-08-22T12:30:00-03:00",
+    "descricao": "<p>Pesquisas sobre Atenção Básica e Saúde da Família. Banca examinadora: <b>Profa. Vanessa Cunha</b> e <b>Dr. Felipe Mascarenhas</b>.</p>",
+    "secao": "Sessões Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-22T12:30:00-03:00",
+    "dataFim": "2025-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica 1",
+    "lugar": "Laboratório 105 - Bloco C",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T16:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Uso do Software Iramuteq para Análise Textual</i> com <b>Profa. Tatiana Marinho</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Metodológica 2",
+    "lugar": "Sala 106 - Bloco C",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T16:30:00-03:00",
+    "descricao": "<p>Oficina intitulada <i>Escrita Científica de Alto Impacto para Editores Internacionais</i>, com o <b>Dr. Leonardo Vasconcelos</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Metodológica 3",
+    "lugar": "Sala 107 - Bloco C",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T16:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Elaboração de Planos de Gerenciamento de Dados Científicos</i> ministrada pela <b>Bibliotecária Márcia Azevedo</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-08-22T16:30:00-03:00",
+    "dataFim": "2025-08-22T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-22T17:00:00-03:00",
+    "dataFim": "2025-08-22T18:30:00-03:00",
+    "descricao": "<p>Conferência especial <i>Ciência Aberta e Reprodutibilidade na Pós-Graduação</i> com o conferencista internacional <b>Prof. Dr. Javier Morales</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento de Livros e Sessão de Autógrafos",
+    "lugar": "Hall do Pavilhão de Aulas",
+    "dataInicio": "2025-08-22T18:30:00-03:00",
+    "dataFim": "2025-08-22T20:00:00-03:00",
+    "descricao": "<p>Lançamento de obras recentes de discentes e docentes do programa, com apresentação de <b>Dra. Ivone Bittencourt</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Mesa-Redonda 7",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T09:00:00-03:00",
+    "dataFim": "2025-08-23T10:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Avaliação Quadrienal da CAPES e o Futuro da Área de Saúde Coletiva</i> com participação de <b>Prof. Dr. Newton Cavalcanti</b> e moderação de <b>Profa. Sônia Regina</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda 8",
+    "lugar": "Anfiteatro 2",
+    "dataInicio": "2025-08-23T09:00:00-03:00",
+    "dataFim": "2025-08-23T10:45:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Saúde Digital, Inteligência Artificial e Bioética</i> com as exposições de <b>Dr. Bruno Gadelha</b> e <b>Dra. Helena Brandão</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-08-23T10:45:00-03:00",
+    "dataFim": "2025-08-23T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Pós-Graduandos",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T11:15:00-03:00",
+    "dataFim": "2025-08-23T12:30:00-03:00",
+    "descricao": "<p>Reunião geral conduzida pelo representante da associação de pós-graduandos <b>Tiago Mendonça</b> para aprovação da carta de reivindicações do simpósio.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-23T12:30:00-03:00",
+    "dataFim": "2025-08-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T14:00:00-03:00",
+    "dataFim": "2025-08-23T15:30:00-03:00",
+    "descricao": "<p>Apresentação final <i>Utopia e Resistência: O Papel da Pós-Graduação no Fortalecimento do SUS</i> proferida pela <b>Profa. Emérita Alzira Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T15:30:00-03:00",
+    "dataFim": "2025-08-23T16:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Científico 2025 conduzida pelo presidente da comissão julgadora <b>Prof. Humberto Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T16:30:00-03:00",
+    "dataFim": "2025-08-23T17:00:00-03:00",
+    "descricao": "<p>Pronunciamento oficial de fechamento pelo coordenador do evento <b>Prof. Dr. Marcelo Cerqueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

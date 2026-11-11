@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-42-00036",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Curitiba - PR",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "descricoes_ricas",
+   "titulos_longos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:10+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 2181
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UFPR 2025",
+   "local_geral": "Campus Centro Politécnico, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas da Reitoria",
+    "lugar": "Auditório Bento Munhoz da Rocha Neto",
+    "dataInicio": "2025-03-03T08:30:00-03:00",
+    "dataFim": "2025-03-03T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial do ano letivo com a presença da reitora <b>Helena Schmidt de Almeida</b> e do pró-reitor de assuntos estudantis <b>Marcos Vinicius Portela</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Bento Munhoz da Rocha Neto",
+    "dataInicio": "2025-03-03T09:30:00-03:00",
+    "dataFim": "2025-03-03T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Os desafios contemporâneos da vida universitária diante das transformações tecnológicas aceleradas e o papel da ciência pública na sociedade</i>.</p><p>Palestrante: <b>Rodrigo Cordeiro de Vasconcelos</b>.</p><p>Coordenação da mesa: <b>Juliana Meirelles</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Pausa para Lanche e Integração",
+    "lugar": "Pátio do Prédio Central",
+    "dataInicio": "2025-03-03T10:45:00-03:00",
+    "dataFim": "2025-03-03T11:15:00-03:00",
+    "descricao": null,
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Anfiteatro 100",
+    "dataInicio": "2025-03-03T11:15:00-03:00",
+    "dataFim": "2025-03-03T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Vivências acadêmicas, permanência estudantil e saúde mental no primeiro ano da graduação</i>.</p><p>Participantes: <b>Mariana Siqueira Rocha</b> e <b>Carlos Eduardo Pires</b>.</p><p>Mediação: <b>Renata Albuquerque Luz</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Almoço Coletivo no RU",
+    "lugar": "Restaurante Universitário Central",
+    "dataInicio": "2025-03-03T12:30:00-03:00",
+    "dataFim": "2025-03-03T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-03-03T14:00:00-03:00",
+    "dataFim": "2025-03-03T15:30:00-03:00",
+    "descricao": "<p>Título da atividade: <i>Navegação eficiente nos sistemas acadêmicos e repositórios digitais para estruturação de projetos de pesquisa desde os primeiros períodos da graduação</i>.</p><p>Ministrante: <b>Fabrício Silveira Mendes</b>.</p><p>Coordenadora: <b>Cláudia Regina Dutra</b>.</p>",
+    "secao": "Oficinas de Formação Básica"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Treinamento da Biblioteca",
+    "dataInicio": "2025-03-03T14:00:00-03:00",
+    "dataFim": "2025-03-03T15:30:00-03:00",
+    "descricao": "<p>Tema da oficina: <i>Metodologias de escrita científica e uso consciente de referências bibliográficas</i>.</p><p>Ministrante: <b>Letícia Gouveia Zanetti</b>.</p>",
+    "secao": "Oficinas de Formação Básica"
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": "Ponto de encontro: Hall de Entrada",
+    "dataInicio": "2025-03-03T15:30:00-03:00",
+    "dataFim": "2025-03-03T16:30:00-03:00",
+    "descricao": "<p>Visita às bibliotecas, secretarias departamentais, laboratórios e quadras poliesportivas, conduzida pelos veteranos <b>Guilherme Batista</b> e <b>Camila Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Iniciação Científica e Extensão",
+    "lugar": "Saguão dos Blocos de Exatas",
+    "dataInicio": "2025-03-03T16:30:00-03:00",
+    "dataFim": "2025-03-03T18:00:00-03:00",
+    "descricao": "<p>Coordenador da sessão: <b>Thiago Antunes Farias</b>.</p><p>Apresentação dos trabalhos desenvolvidos pelos alunos veteranos:</p><p>1. <i>Monitoramento da qualidade da água da bacia do Rio Belém em áreas urbanas de Curitiba</i>, por <b>Lucas Fontana</b>.</p><p>2. <i>Desenvolvimento de hortas comunitárias sustentáveis em escolas públicas da região metropolitana</i>, por <b>Beatriz Campestrini</b>.</p><p>3. <i>Aplicativo de caronas solidárias e mapeamento de rotas seguras para a comunidade acadêmica</i>, por <b>Gabriel Prestes Vianna</b>.</p>",
+    "secao": "Atividades Vespertinas de Conexão"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório de Engenharia",
+    "dataInicio": "2025-03-03T16:30:00-03:00",
+    "dataFim": "2025-03-03T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias inovadoras para o desenvolvimento de competências socioemocionais na transição do ensino médio para a complexidade do ambiente universitário</i>.</p><p>Palestrante convidada: <b>Denise Prado Fontes</b>.</p><p>Debatedor: <b>Arthur Viana de Castro</b>.</p>",
+    "secao": "Atividades Vespertinas de Conexão"
+   },
+   {
+    "nome": "Feira de Coletivos e Entidades Estudantis",
+    "lugar": "Praça Central do Campus",
+    "dataInicio": "2025-03-03T18:00:00-03:00",
+    "dataFim": "2025-03-03T19:30:00-03:00",
+    "descricao": "<p>Apresentação das agremiações, atléticas, diretórios acadêmicos e empresas juniores com a coordenação de <b>Patrícia Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Encerramento",
+    "lugar": "Concha Acústica do Campus",
+    "dataInicio": "2025-03-03T19:30:00-03:00",
+    "dataFim": "2025-03-03T21:00:00-03:00",
+    "descricao": "<p>Apresentação musical da banda universitária com participação especial do músico <b>Tiago Amaral</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

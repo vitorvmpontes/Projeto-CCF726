@@ -1,0 +1,206 @@
+{
+ "spec": {
+  "id": "sint-42-00380",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Londrina - PR",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 22,
+  "casos": [
+   "subtitulo_separado",
+   "descricoes_ricas",
+   "atividades_paralelas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:24+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 4084
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Congresso Paranaense de Direito Contemporâneo e Inovação Jurisprudencial",
+   "local_geral": "Centro de Convenções Aurora Shopping, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-05-18T08:00:00-03:00",
+    "dataFim": "2023-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-18T09:00:00-03:00",
+    "dataFim": "2023-05-18T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pela presidente da comissão organizadora, Dra. <b>Helena Vasconcelos Ramos</b>, com pronunciamento de autoridades do Tribunal de Justiça do Estado do Paraná.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural sobre os Impactos da Transformação Digital e da Inteligência Artificial Generativa no Processo Decisório dos Tribunais Superiores Brasileiros",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-18T09:45:00-03:00",
+    "dataFim": "2023-05-18T11:00:00-03:00",
+    "descricao": "<p>Conferencista: Des. <b>Marcos Aurélio Silveira Bueno</b>.</p><p>Coordenação dos trabalhos por parte do Prof. Dr. <b>Renato Cordeiro Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-18T11:15:00-03:00",
+    "dataFim": "2023-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Tutela Provisória e Efetividade da Jurisdição Cível</i>.</p><p>Debatedores: Dra. <b>Fernanda Linhares Rocha</b> e Dr. <b>Carlos Eduardo Siqueira</b>.</p><p>Coordenação de mesa: Profa. <b>Gisele Martins Paiva</b>.</p>",
+    "secao": "Mesas Matutinas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Sala Londrina",
+    "dataInicio": "2023-05-18T11:15:00-03:00",
+    "dataFim": "2023-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Garantismo Penal e os Desafios Contemporâneos da Persecução Criminal</i>.</p><p>Palestrantes: Promotor <b>Fábio Henrique Diniz</b> e Defensora Pública <b>Aline Guimarães Santos</b>.</p><p>Mediação: Prof. <b>Tiago Meireles Zanin</b>.</p>",
+    "secao": "Mesas Matutinas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-05-18T12:30:00-03:00",
+    "dataFim": "2023-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T15:45:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Direito do Trabalho e Novas Formas de Emprego por Plataformas Digitais</i>.</p><p>Composição da mesa: Juíza do Trabalho <b>Valéria Mendes Penteado</b>, Dr. <b>Otávio Augusto Neves</b> e Profa. Dra. <b>Beatriz Mendonça Fontes</b>.</p><p>Coordenação geral: Dr. <b>Lucas Barreto Antunes</b>.</p>",
+    "secao": "Painéis Vespertinos"
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Sala Londrina",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T15:45:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Inovações na Lei Geral de Proteção de Dados e a Jurisprudência Recente do STJ</i>.</p><p>Expositores: Dra. <b>Camila Duarte Ferreira</b> e Dr. <b>Sérgio Nishimura</b>.</p><p>Coordenação: Profa. <b>Patrícia Godoy Alencar</b>.</p>",
+    "secao": "Painéis Vespertinos"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-05-18T15:45:00-03:00",
+    "dataFim": "2023-05-18T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Científicas A",
+    "lugar": "Sala 101",
+    "dataInicio": "2023-05-18T16:15:00-03:00",
+    "dataFim": "2023-05-18T18:00:00-03:00",
+    "descricao": "<p>Coordenação da sessão: Profa. Me. <b>Cláudia Regina Fogassa</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>A Eficácia Horizontal dos Direitos Fundamentais nas Relações Privadas</i>, de <b>Mariana Salles Esteves</b> e <b>Bruno Tavares Maia</b>.</p><p>2. <i>Prescrição Intercorrente na Execução Fiscal após o Tema 568 do STJ</i>, de <b>Danilo Albuquerque Prado</b>.</p><p>3. <i>Mediação Pré-Processual em Conflitos Fundiários Urbanos</i>, de <b>Juliana Vilela Cortez</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Sessão de Comunicações Científicas B",
+    "lugar": "Sala 102",
+    "dataInicio": "2023-05-18T16:15:00-03:00",
+    "dataFim": "2023-05-18T18:00:00-03:00",
+    "descricao": "<p>Coordenação: Prof. Dr. <b>Wagner Furtado de Oliveira</b>.</p><p>Artigos aprovados:</p><p>1. <i>Compliance Ambiental no Agronegócio Paranaense</i>, de <b>Rodrigo Castanho Ribeiro</b>.</p><p>2. <i>O Uso de Provas Obtidas por Meios Digitais no Processo Penal</i>, de <b>Vanessa Lúcia Peixoto</b> e <b>Gilberto Sanches Moreira</b>.</p><p>3. <i>Superendividamento do Consumidor e o Mínimo Existencial</i>, de <b>Débora Cristina Brandão</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Oficina Prática de Técnicas de Argumentação Jurídica e Redação de Recursos Cíveis Estratégicos nos Tribunais Estaduais e Regionais Federais",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-18T18:15:00-03:00",
+    "dataFim": "2023-05-18T19:45:00-03:00",
+    "descricao": "<p>Instrutor: Prof. <b>Alexandre Toledo Bittencourt</b>.</p><p>Oficina voltada à elaboração prática de memoriais e peças recursais qualificadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-19T08:30:00-03:00",
+    "dataFim": "2023-05-19T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Reforma Tributária e Segurança Jurídica dos Contribuintes</i>.</p><p>Palestrantes: Dr. <b>Marcio Luiz Caldeira</b> e Dra. <b>Roberta Simonetti</b>.</p><p>Coordenação da mesa: Dr. <b>Flávio Goulart Brandani</b>.</p>",
+    "secao": "Mesas de Sexta-Feira"
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": "Sala Londrina",
+    "dataInicio": "2023-05-19T08:30:00-03:00",
+    "dataFim": "2023-05-19T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Arbitragem e Administração Pública: Limites, Vantagens e Jurisprudência Atual</i>.</p><p>Expositores: Prof. Dr. <b>Gustavo Penna de Hollanda</b> e Procuradora <b>Laura Bicudo Amaral</b>.</p><p>Mediação: Dra. <b>Cíntia de Paula Moreira</b>.</p>",
+    "secao": "Mesas de Sexta-Feira"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-05-19T10:00:00-03:00",
+    "dataFim": "2023-05-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Plenária sobre Desafios Regulatórios e Perspectivas Críticas da Responsabilidade Civil Objetiva pelo Uso Autônomo de Sistemas Especialistas",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-19T10:30:00-03:00",
+    "dataFim": "2023-05-19T12:00:00-03:00",
+    "descricao": "<p>Conferencista convidada: Profa. Titular <b>Eleonora Macedo Villela</b>.</p><p>Apresentação e comentários preliminares pelo Dr. <b>Joaquim Pedro Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-05-19T12:00:00-03:00",
+    "dataFim": "2023-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 5",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-19T13:30:00-03:00",
+    "dataFim": "2023-05-19T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Direito de Família e Sucessões: Multiparentalidade e Planejamento Sucessório</i>.</p><p>Debatedores: Desembargador <b>Paulo Roberto Silveira</b> e Profa. Dra. <b>Isabela Fontoura Cury</b>.</p><p>Presidência da mesa: Dra. <b>Cristiane Xavier Prado</b>.</p>",
+    "secao": "Mesas de Sexta-Feira"
+   },
+   {
+    "nome": "Mesa-Redonda 6",
+    "lugar": "Sala Londrina",
+    "dataInicio": "2023-05-19T13:30:00-03:00",
+    "dataFim": "2023-05-19T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Crimes Cibernéticos, Fraudes Financeiras e Criptoativos no Âmbito Jurisdicional</i>.</p><p>Especialistas convidados: Delegado Federal <b>Henrique Vianna Soares</b> e Dr. <b>Arthur Lemes Dornelles</b>.</p><p>Mediação: Profa. <b>Natália Arruda Pires</b>.</p>",
+    "secao": "Mesas de Sexta-Feira"
+   },
+   {
+    "nome": "Sessão de Comunicações Científicas C",
+    "lugar": "Sala 101",
+    "dataInicio": "2023-05-19T15:30:00-03:00",
+    "dataFim": "2023-05-19T17:00:00-03:00",
+    "descricao": "<p>Coordenação: Dr. <b>Leonardo Faria Queiroz</b>.</p><p>Apresentação das pesquisas selecionadas:</p><p>1. <i>Constelações Familiares no Judiciário: Análise Crítica e Constitucional</i>, de autoria de <b>Tatiana Meireles Borges</b>.</p><p>2. <i>A Recuperação Judicial de Produtores Rurais sob a Ótica da Jurisprudência Paranaense</i>, de <b>Gabriel Santos Ananias</b> e <b>Lúcia Helena Carvalhal</b>.</p><p>3. <i>Contratos Smart e Cláusulas Resolutivas Expressas</i>, apresentado por <b>Marcelo de Castro Lima</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Apresentação e Premiação de Pôsteres",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-05-19T17:00:00-03:00",
+    "dataFim": "2023-05-19T18:00:00-03:00",
+    "descricao": "<p>Comissão avaliadora presidida pelo Prof. Dr. <b>Renato Cordeiro Filho</b> e pela Profa. Dra. <b>Beatriz Mendonça Fontes</b>.</p><p>Divulgação dos três melhores trabalhos de iniciação científica do congresso.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-19T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discurso final com a Dra. <b>Helena Vasconcelos Ramos</b> e lançamento da edição temática da <i>Revista Paranaense de Jurisprudência</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

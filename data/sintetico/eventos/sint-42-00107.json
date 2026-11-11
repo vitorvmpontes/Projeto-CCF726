@@ -1,0 +1,182 @@
+{
+ "spec": {
+  "id": "sint-42-00107",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 19,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "sem_local",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:40+00:00",
+ "uso_tokens": {
+  "entrada": 680,
+  "saida": 2806
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Baiano de Mulheres na Computação",
+   "local_geral": "Instituto de Computação - UFBA, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-14T08:30:00-03:00",
+    "dataFim": "2025-05-14T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2025-05-14T09:30:00-03:00",
+    "dataFim": "2025-05-14T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a coordenadora geral <b>Profa. Dra. Tânia Mesquita</b> e representantes de coletivos femininos de TI da Bahia.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2025-05-14T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação <i>Desafios e Conquistas de Mulheres Negras na Inteligência Artificial</i> ministrada por <b>Dra. Jamile Cerqueira</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Mentoria de Carreira",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T16:00:00-03:00",
+    "descricao": "<p>Sessão prática conduzida por <b>Mariana Brito</b> focada em transição de carreira e liderança técnica para mulheres.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T15:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Engenharia de Software e Equidade de Gênero: Transformando a Indústria</i> com <b>Camila Duarte</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 3",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Minicurso <i>Introdução ao Aprendizado Profundo com PyTorch</i> facilitado por <b>Bruna Queiroz</b> e <b>Aline Santana</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 5",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Minicurso <i>Desenvolvimento Web Seguro com Node.js</i> ministrado por <b>Larissa Gusmão</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:00:00-03:00",
+    "dataFim": "2025-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Artigos",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos selecionados com coordenação de <b>Dra. Beatriz Falcão</b>.</p><p>Apresentação do artigo <i>Análise Cienciométrica da Produção Feminina em Computação Visual</i> por <b>Clara Menezes</b>.</p><p>Apresentação do artigo <i>Acessibilidade Digital em Sistemas Públicos de Saúde</i> por <b>Renata Pimentel</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão aberta com tema <i>Maternidade e Carreira Acadêmica na Pós-Graduação em Computação</i>, mediada por <b>Fernanda Valente</b> e <b>Luciana Gomes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Painel <i>Mulheres Liderando Startups Tecnológicas no Nordeste</i> com a participação de <b>Débora Rocha</b>, <b>Vanessa Silveira</b> e <b>Sofia Nogueira</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Mostra de Pôsteres Científicos",
+    "lugar": "Hall do Bloco B",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Exposição de trabalhos de iniciação científica e extensão desenvolvidos por estudantes de graduação, sob avaliação de <b>Profa. Carla Dantas</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mentoria de Carreira",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Segunda turma de aconselhamento profissional e revisão de currículo com as especialistas <b>Patrícia Rios</b> e <b>Eliana Matos</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 3",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Minicurso <i>Segurança em Redes e Testes de Invasão para Iniciantes</i> coordenado por <b>Helena Fontes</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Reunião de Alinhamento da Comunidade",
+    "lugar": null,
+    "dataInicio": "2025-05-16T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro deliberativo do núcleo <i>Meninas Digitais Bahia</i>, conduzido por <b>Juliana Paixão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Hackathon Elas na Solução",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T13:00:00-03:00",
+    "descricao": "<p>Maratona colaborativa de programação voltada a causas socioambientais, organizada por <b>Silvana Viana</b> e <b>Raquel Torres</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Relâmpago de Ideias",
+    "lugar": null,
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Apresentações rápidas de cinco minutos para novos projetos e ideias inovadoras com moderação de <b>Marta Vasconcelos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Premiação e Cerimônia de Encerramento",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": "2025-05-17T17:30:00-03:00",
+    "descricao": "<p>Entrega das premiações do hackathon e dos melhores trabalhos apresentados, com discurso de encerramento da <b>Profa. Dra. Tânia Mesquita</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Cultural",
+    "lugar": null,
+    "dataInicio": "2025-05-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical e integração dos coletivos com a cantora <b>Neide Santos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "spec": {
+  "id": "sint-42-00064",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Natal - RN",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 23,
+  "casos": [
+   "atividades_paralelas",
+   "descricoes_ricas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:27+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 3797
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Gastronômico Sabores Potiguares 2027",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-10-14T14:00:00-03:00",
+    "dataFim": "2027-10-14T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-10-14T15:00:00-03:00",
+    "dataFim": "2027-10-14T16:00:00-03:00",
+    "descricao": "<p>Abertura oficial com presença da coordenadora-geral <b>Marina Guimarães</b> e dos curadores <b>Chef Rodrigo Dantas</b> e <b>Chef Tânia Bezerra</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha-Show Areia Preta",
+    "dataInicio": "2027-10-14T16:30:00-03:00",
+    "dataFim": "2027-10-14T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Tradição e Inovação na Ginga com Tapioca do Mercado da Redinha</i>. Ministrada pelo chef <b>Manoel Pereira</b> com mediação da gastrônoma <b>Camila Siqueira</b>.</p>",
+    "secao": "Aulas-Show do Litoral"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2027-10-14T16:30:00-03:00",
+    "dataFim": "2027-10-14T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sobremesas Autorais com Castanha de Caju e Mel de Jandaíra</i>. Conduzida pela chef confeiteira <b>Heloísa Albuquerque</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-10-14T18:30:00-03:00",
+    "dataFim": "2027-10-14T20:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Cadeias Produtivas Sustentáveis do Camarão e Frutos do Mar no RN</i>. Coordenado por <b>Francisco Arruda</b>, com os palestrantes <b>Lucas Fontes</b>, <b>Beatriz Nogueira</b> e <b>Valter Gusmão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Degustação Guiada de Cachaças Potiguares",
+    "lugar": "Espaço Barista & Bebidas",
+    "dataInicio": "2027-10-14T20:00:00-03:00",
+    "dataFim": "2027-10-14T21:30:00-03:00",
+    "descricao": "<p>Apresentação dos alambiques do Seridó pelo sommelier <b>Renato Vilar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha-Show Areia Preta",
+    "dataInicio": "2027-10-15T10:00:00-03:00",
+    "dataFim": "2027-10-15T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Versatilidade da Carne de Sol do Seridó na Cozinha Contemporânea</i>. Com <b>Chef Cláudio Galvão</b> e assistência de <b>Mariana Freitas</b>.</p>",
+    "secao": "Aulas-Show do Sertão"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2027-10-15T10:00:00-03:00",
+    "dataFim": "2027-10-15T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Dra. Simone Caldas</b>. Trabalhos apresentados: <i>Caracterização Físico-Química do Queijo de Manteiga Artesanal</i> por <b>Ana Júlia Melo</b> e <b>Rogério Meireles</b>; <i>Valorização do Umbu na Merenda Escolar Potiguar</i> por <b>Juliana Bastos</b>; <i>Análise Sensorial de Conservas de Pimenta-de-Cheiro</i> por <b>Carlos Eduardo Lima</b>.</p>",
+    "secao": "Mostra Acadêmica de Gastronomia e Nutrição"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2027-10-15T11:30:00-03:00",
+    "dataFim": "2027-10-15T13:00:00-03:00",
+    "descricao": "<p>Tema: <i>Panificação de Fermentação Natural com Farinha de Macaxeira</i>. Instrutora convidada: <b>Chef Denise Maranhão</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-10-15T13:00:00-03:00",
+    "dataFim": "2027-10-15T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Cozinha-Show Areia Preta",
+    "dataInicio": "2027-10-15T14:30:00-03:00",
+    "dataFim": "2027-10-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ceviches Tropicais com Pescados de Baía Formosa e Cajuína</i>. Apresentação do <b>Chef Felipe Medeiros</b> com intervenção técnica de <b>Priscila Montenegro</b>.</p>",
+    "secao": "Aulas-Show do Litoral"
+   },
+   {
+    "nome": "Sessão Oral de Trabalhos",
+    "lugar": "Sala de Reuniões Morro do Careca",
+    "dataInicio": "2027-10-15T14:30:00-03:00",
+    "dataFim": "2027-10-15T16:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Prof. Marcelo Brandão</b>. Apresentações orais: <i>Turismo Gastronômico de Experiência na Rota do Sol</i> por <b>Carla Tavares</b> e <b>Fernando Barreto</b>; <i>Microbiologia do Queijo Coalho do Agreste Potiguar</i> por <b>Talita Rios</b>; <i>Design de Embalagens Sustentáveis para Polpas de Frutas Nativas</i> por <b>Igor Vasconcelos</b>.</p>",
+    "secao": "Mostra Acadêmica de Gastronomia e Nutrição"
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Espaço Barista & Bebidas",
+    "dataInicio": "2027-10-15T16:30:00-03:00",
+    "dataFim": "2027-10-15T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mixologia com Frutas da Caatinga e Ervas Regionais</i>. Ministrante: <b>Gabriel Assunção</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-Show 4",
+    "lugar": "Cozinha-Show Areia Preta",
+    "dataInicio": "2027-10-15T16:30:00-03:00",
+    "dataFim": "2027-10-15T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Queijos Artesanais do Seridó: Texturas, Queimações e Harmonizações</i>. Apresentada pelo mestre queijeiro <b>Antônio Severo</b> e pela gastrônoma <b>Bárbara Vilaça</b>.</p>",
+    "secao": "Aulas-Show do Sertão"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-10-15T18:30:00-03:00",
+    "dataFim": "2027-10-15T20:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Indicação Geográfica do Camarão da Costa Negra e Queijo do Seridó: Desafios Regulatórios</i>. Coordenador da sessão: <b>Otávio Pinheiro</b>. Debatedores: <b>Dra. Lilian Paiva</b>, <b>Sérgio Ramos</b> e <b>Patrícia Uchôa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 5",
+    "lugar": "Cozinha-Show Areia Preta",
+    "dataInicio": "2027-10-16T10:00:00-03:00",
+    "dataFim": "2027-10-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Cozinha Criativa com Produtos da Agricultura Familiar do Alto Oeste</i>. Conduzida por <b>Chef Larissa Cortez</b> e <b>Chef Vinícius Andrade</b>.</p>",
+    "secao": "Aulas-Show do Sertão"
+   },
+   {
+    "nome": "Oficina Técnica 4",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2027-10-16T10:00:00-03:00",
+    "dataFim": "2027-10-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Gelatos Artesanais com Mangaba, Murici e Seriguela</i>. Ministrante: <b>Chef Bruno Sales</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-Show 6",
+    "lugar": "Cozinha-Show Areia Preta",
+    "dataInicio": "2027-10-16T11:30:00-03:00",
+    "dataFim": "2027-10-16T13:00:00-03:00",
+    "descricao": "<p>Tema: <i>Moqueca Potiguar Desconstruída com Polvo e Castanha Crocante</i>. Palestrante: <b>Chef Roberta Queiroz</b>.</p>",
+    "secao": "Aulas-Show do Litoral"
+   },
+   {
+    "nome": "Intervalo para Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-10-16T13:00:00-03:00",
+    "dataFim": "2027-10-16T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 5",
+    "lugar": "Espaço Barista & Bebidas",
+    "dataInicio": "2027-10-16T14:30:00-03:00",
+    "dataFim": "2027-10-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Extração de Cafés Especiais com Notas Regionais</i>. Ministrado pelo mestre de torra <b>Guilherme Silveira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-Show Magna de Encerramento",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-10-16T16:00:00-03:00",
+    "dataFim": "2027-10-16T17:45:00-03:00",
+    "descricao": "<p>Tema: <i>O Futuro da Cozinha Brasileira no Panorama Global</i>. Aula magna apresentada pela convidada de honra <b>Chef Helena Mattos</b> acompanhada de <b>Chef Tânia Bezerra</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação do Concurso Novos Talentos Potiguares",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-10-16T18:00:00-03:00",
+    "dataFim": "2027-10-16T19:00:00-03:00",
+    "descricao": "<p>Cerimônia de entrega dos prêmios de gastronomia conduzida por <b>Marina Guimarães</b> e pelos jurados <b>Chef Rodrigo Dantas</b> e <b>Chef Denise Maranhão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Coquetel",
+    "lugar": "Terraço Gastronômico",
+    "dataInicio": "2027-10-16T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

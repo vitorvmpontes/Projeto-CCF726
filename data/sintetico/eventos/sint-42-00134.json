@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00134",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:00+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 1553
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Recepção aos Calouros UFJF 2026",
+   "local_geral": "Campus Universitário da UFJF, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida Institucional e Boas-Vindas",
+    "lugar": "Cine-Theatro Central",
+    "dataInicio": "2026-03-09T08:30:00-03:00",
+    "dataFim": "2026-03-09T10:30:00-03:00",
+    "descricao": "<p>Sessão oficial de recepção aos ingressantes com a presença da reitora <b>Profª. Drª. Girlene Alves da Silva</b> e do pró-reitor de graduação <b>Prof. Dr. Cassiano Caon Amorim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": "Praça Cívica da UFJF",
+    "dataInicio": "2026-03-09T10:45:00-03:00",
+    "dataFim": "2026-03-09T12:30:00-03:00",
+    "descricao": "<p>Caminhada de reconhecimento dos principais prédios e serviços universitários, coordenada pela estudante <b>Mariana Resende</b> e equipe do Diretório Central dos Estudantes (DCE).</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório do Bloco B - Instituto de Ciências Exatas",
+    "dataInicio": "2026-03-09T14:00:00-03:00",
+    "dataFim": "2026-03-09T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Desafios e Oportunidades na Vida Universitária</i> mediada pela psicóloga <b>Helena Vasconcelos</b>, com participação do coordenador de apoio estudantil <b>Lucas Figueiredo</b> e depoimentos dos veteranos <b>Beatriz Mendonça</b> e <b>Rodrigo Duarte</b>.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Trote Solidário: Gincana de Doação de Sangue e Alimentos",
+    "lugar": "Estacionamento da Faculdade de Educação Física",
+    "dataInicio": "2026-03-09T16:30:00-03:00",
+    "dataFim": "2026-03-09T18:30:00-03:00",
+    "descricao": "<p>Ação comunitária organizada pela comissão de trote solidário, sob coordenação de <b>Thiago Antunes Salles</b> e da assistente social <b>Fernanda Paiva</b>, em parceria com a Fundação Hemominas.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Mostra de Oportunidades Acadêmicas e Extensão",
+    "lugar": "Galpão do Centro de Ciências",
+    "dataInicio": "2026-03-10T09:00:00-03:00",
+    "dataFim": "2026-03-10T12:00:00-03:00",
+    "descricao": "<p>Sessão de pôsteres com projetos de pesquisa e extensão desenvolvidos por estudantes veteranos, sob coordenação do <b>Prof. Dr. Eduardo Bernardes</b>. Trabalhos em destaque: <i>Monitoramento da Bacia do Rio Paraibuna</i>, apresentado por <b>Camila Nogueira</b> e <b>Gabriel Matos</b>; <i>Robótica Educativa em Escolas Públicas</i>, apresentado por <b>Sofia Alvarenga</b>; e <i>Cineclube Universitário e Cidadania</i>, apresentado por <b>João Pedro Silveira</b>.</p>",
+    "secao": "Mostras e Workshops"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Multimídia 2 - Faculdade de Comunicação",
+    "dataInicio": "2026-03-10T14:00:00-03:00",
+    "dataFim": "2026-03-10T15:30:00-03:00",
+    "descricao": "<p>Minicurso <i>Desvendando o SIGA e os Sistemas de Pesquisa Bibliográfica</i>, ministrado pelo bibliotecário <b>Renato Cordeiro</b> e pela tutora acadêmica <b>Priscila Vianna</b>.</p>",
+    "secao": "Mostras e Workshops"
+   },
+   {
+    "nome": "Bate-papo com Egressos",
+    "lugar": "Anfiteatro das Pró-Reitorias",
+    "dataInicio": "2026-03-10T16:00:00-03:00",
+    "dataFim": "2026-03-10T17:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Caminhos Profissionais e Mercado de Trabalho após a Graduação</i>, mediada pelo <b>Prof. Marcos Vinícius Toledo</b>, com a participação dos convidados <b>Aline Castro</b> (desenvolvedora sênior) e <b>Felipe Guimarães</b> (pesquisador da Fiocruz).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Festival Cultural de Encerramento",
+    "lugar": "Concha Acústica da UFJF",
+    "dataInicio": "2026-03-10T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentações musicais com bandas universitárias e grupos artísticos da comunidade, organizadas pelo produtor cultural <b>André Meireles</b> e pela cantora <b>Larissa Drummond</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

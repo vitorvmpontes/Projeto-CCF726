@@ -1,0 +1,157 @@
+{
+ "spec": {
+  "id": "sint-42-00466",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Florianópolis - SC",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 16,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:37+00:00",
+ "uso_tokens": {
+  "entrada": 681,
+  "saida": 2410
+ },
+ "saida": {
+  "evento": {
+   "nome": "Floripa Game & Code Jam 2027",
+   "local_geral": "Centro de Inovação ACATE Primavera, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Formação de Equipes",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-04-17T08:00:00-03:00",
+    "dataFim": "2027-04-17T09:30:00-03:00",
+    "descricao": "<p>Recepção dos participantes com crachás, café de boas-vindas e dinâmica de formação de grupos orientada por <b>Larissa Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema Secreto",
+    "lugar": "Auditório Ilha do Silício",
+    "dataInicio": "2027-04-17T09:30:00-03:00",
+    "dataFim": "2027-04-17T10:15:00-03:00",
+    "descricao": "<p>Apresentação das regras, critérios de avaliação da banca e revelação oficial dos modificadores de pontuação com o coordenador <b>Rafael Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Início do Hackathon e Game Jam",
+    "lugar": "Espaço Hacker & Game Lab",
+    "dataInicio": "2027-04-17T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação dos servidores, repositórios e estações de desenvolvimento. O cronômetro de 32 horas de codificação contínua é acionado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Prototipagem Alfa",
+    "dataInicio": "2027-04-17T11:00:00-03:00",
+    "dataFim": "2027-04-17T12:30:00-03:00",
+    "descricao": "<p>Oficina prática com <b>Marcelo Vasconcelos</b> abordando o tema <i>Desenvolvimento acelerado de shaders e pós-processamento gráfico em tempo real para protótipos de jogos eletrônicos 3D imersivos de alta performance</i>.</p>",
+    "secao": "Trilhas de Aprendizado Paralelo"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório Beta",
+    "dataInicio": "2027-04-17T11:00:00-03:00",
+    "dataFim": "2027-04-17T12:30:00-03:00",
+    "descricao": "<p>Treinamento intensivo ministrado por <b>Camila Duarte</b> sobre <i>Arquiteturas serverless resilientes e microsserviços orientados a eventos para backend em tempo real de jogos multiusuário escaláveis</i>.</p>",
+    "secao": "Trilhas de Aprendizado Paralelo"
+   },
+   {
+    "nome": "Pausa para Almoço Livre",
+    "lugar": "Praça de Food Trucks",
+    "dataInicio": "2027-04-17T12:30:00-03:00",
+    "dataFim": "2027-04-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Auditório Ilha do Silício",
+    "dataInicio": "2027-04-17T14:30:00-03:00",
+    "dataFim": "2027-04-17T15:45:00-03:00",
+    "descricao": "<p>Apresentação internacional conduzida por <b>Thiago Albuquerque</b> com o título <i>Integração de inteligência artificial generativa na modelagem procedural de narrativas interativas e mecânicas adaptativas para jogos digitais contemporâneos</i>.</p>",
+    "secao": "Trilhas de Aprendizado Paralelo"
+   },
+   {
+    "nome": "Sessão de Mentoria de Mecânicas e Game Design",
+    "lugar": "Espaço Hacker & Game Lab",
+    "dataInicio": "2027-04-17T16:00:00-03:00",
+    "dataFim": "2027-04-17T18:00:00-03:00",
+    "descricao": "<p>Rodada de feedback rápido nas bancadas com os especialistas <b>Renata Siqueira</b> e <b>Guilherme Sato</b> para validação da jogabilidade.</p>",
+    "secao": "Mentoria Técnica"
+   },
+   {
+    "nome": "Sessão de Mentoria de Arquitetura e Cloud",
+    "lugar": "Espaço Hacker & Game Lab",
+    "dataInicio": "2027-04-17T16:00:00-03:00",
+    "dataFim": "2027-04-17T18:00:00-03:00",
+    "descricao": "<p>Suporte presencial com os engenheiros de software <b>Beatriz Mendonça</b> e <b>Otávio Luz</b> para revisão de gargalos e deploy.</p>",
+    "secao": "Mentoria Técnica"
+   },
+   {
+    "nome": "Pizza Noturna dos Desenvolvedores",
+    "lugar": "Refeitório e Lounge",
+    "dataInicio": "2027-04-17T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão Corujão de Suporte Técnico",
+    "lugar": "Espaço Hacker & Game Lab",
+    "dataInicio": "2027-04-18T02:00:00-03:00",
+    "dataFim": "2027-04-18T05:00:00-03:00",
+    "descricao": "<p>Plantão de resolução de bugs críticos na madrugada com os monitores <b>Felipe Andrade</b> e <b>Isabela Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café dos Sobreviventes",
+    "lugar": "Refeitório e Lounge",
+    "dataInicio": "2027-04-18T07:30:00-03:00",
+    "dataFim": "2027-04-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Congelamento de Código e Submissão dos Jogos",
+    "lugar": "Portal do Jammer",
+    "dataInicio": "2027-04-18T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Prazo final improrrogável para upload dos executáveis, repositórios do GitHub e trailers de demonstração.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Feira de Playtest Aberta",
+    "lugar": "Espaço Hacker & Game Lab",
+    "dataInicio": "2027-04-18T14:00:00-03:00",
+    "dataFim": "2027-04-18T16:30:00-03:00",
+    "descricao": "<p>Espaço aberto para que todas as equipes testem e pontuem os projetos dos adversários, sob mediação de <b>Rodrigo Vianna</b>.</p>",
+    "secao": "Avaliação dos Projetos"
+   },
+   {
+    "nome": "Banca de Avaliação e Pitch dos Finalistas",
+    "lugar": "Auditório Ilha do Silício",
+    "dataInicio": "2027-04-18T16:30:00-03:00",
+    "dataFim": "2027-04-18T18:00:00-03:00",
+    "descricao": "<p>Apresentação de pitch de 3 minutos das 6 melhores equipes selecionadas perante o júri composto por <b>Vanessa Zanin</b>, <b>Alexandre Motta</b> e <b>Carla Lemos</b>.</p>",
+    "secao": "Avaliação dos Projetos"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Ilha do Silício",
+    "dataInicio": "2027-04-18T18:30:00-03:00",
+    "dataFim": "2027-04-18T19:30:00-03:00",
+    "descricao": "<p>Divulgação dos três melhores projetos gerais, melhor design, melhor código e encerramento oficial liderado por <b>Rafael Meireles</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

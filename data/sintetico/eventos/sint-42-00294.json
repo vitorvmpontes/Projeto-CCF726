@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00294",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Vitória - ES",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:27+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 1268
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado de Autoavaliação Institucional da CPA",
+   "local_geral": "Campus Universitário de Goiabeiras, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Manoel Vereza de Oliveira",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a coordenação de <b>Prof. Marcelo Guimarães Farias</b> e apresentação do relatório preliminar do ciclo avaliativo pelo palestrante convidado <b>Dr. Rogério Mendonça Lemos</b>, sob o tema <i>O Papel da CPA na Consolidação do PDI Institucional</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Manoel Vereza de Oliveira",
+    "dataInicio": "2027-05-20T10:15:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Beatriz Silveira Ramos</b>. Debate focado nos indicadores de infraestrutura e governança participativa, com as contribuições dos palestrantes <b>Prof. Ricardo Valadares Alvim</b>, abordando <i>Metodologias Qualitativas na Avaliação de Cursos de Graduação</i>, e <b>Carla Vasconcellos Diniz</b>, apresentando <i>Engajamento Estudantil na Autoavaliação Contínua</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": "2027-05-20T15:00:00-03:00",
+    "descricao": "<p>Coordenador: <b>Prof. André Luiz Cavalcante</b>.</p><p>Trabalhos apresentados: <i>O Impacto do Feedback Docente na Reestruturação Curricular</i> por <b>Juliana Pires Meireles</b>; <i>Percepção da Comunidade Externa na Extensão Universitária</i> por <b>Marcos Vinícius Prado</b> e <b>Tatiana Freitas Rocha</b>; <i>Instrumentos Digitais de Escuta Discente: Análise Comparativa</i> por <b>Helena Esteves Martins</b>.</p>",
+    "secao": "Apresentação de Práticas Avaliativas"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 104 - Bloco B",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": "2027-05-20T15:00:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Profa. Renata Drummond Calmon</b>.</p><p>Apresentação das experiências: <i>Inclusão e Acessibilidade: O que Revelam os Dados da CPA</i> por <b>Fernando Gomes Toledo</b>; <i>Desafios na Coleta de Dados em Polos EAD</i> por <b>Viviane Cordeiro Neves</b> e <b>Roberto Assis Barreto</b>; <i>Gestão de Dados Avaliativos com Painéis de Business Intelligence</i> por <b>Lucas Siqueira Duarte</b>.</p>",
+    "secao": "Apresentação de Práticas Avaliativas"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2027-05-20T15:00:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Deliberativa e Encerramento",
+    "lugar": "Auditório Manoel Vereza de Oliveira",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T17:00:00-03:00",
+    "descricao": "<p>Sessão conduzida pela coordenadora-geral <b>Profa. Denise Albuquerque Santos</b> e pelo relator <b>Prof. Gustavo Henrique Pimentel</b> para aprovação da minuta de recomendações para o plano de metas institucionais de 2028.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

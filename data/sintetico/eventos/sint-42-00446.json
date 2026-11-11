@@ -1,0 +1,198 @@
+{
+ "spec": {
+  "id": "sint-42-00446",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Uberlândia - MG",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:52+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 3111
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado de Autoavaliação Institucional da CPA",
+   "local_geral": "Campus Santa Mônica - Universidade Federal de Uberlândia (UFU), Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Acolhimento da Comunidade Acadêmica",
+    "lugar": "Hall do Bloco 5R",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2023-10-19T08:45:00-03:00",
+    "dataFim": "2023-10-19T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do reitor <b>Valder Steffen Júnior</b> e da coordenadora geral da CPA <b>Heloísa Helena de Oliveira Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2023-10-19T09:30:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Os Desafios do Sinaes e a Cultura de Autoavaliação Pós-Pandemia</i> pelo palestrante convidado <b>Renato Janine Ribeiro</b>, com moderação de <b>Clarissa Rodrigues</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Resultados Globais do Ciclo Avaliativo",
+    "lugar": null,
+    "dataInicio": "2023-10-19T11:15:00-03:00",
+    "dataFim": "2023-10-19T12:30:00-03:00",
+    "descricao": "<p>Exposição do relatório anual de autoavaliação institucional pelos membros da comissão técnica <b>Carlos Eduardo Mansur</b> e <b>Luciana Guimarães Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:30:00-03:00",
+    "dataFim": "2023-10-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala 101 do Bloco 3Q",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>A Visão dos Discentes de Graduação nos Questionários da CPA</i> coordenada por <b>Mateus Fernandes Vieira</b> e <b>Beatriz Silveira Prado</b>.</p>",
+    "secao": "Grupos de Trabalho Temáticos"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala 102 do Bloco 3Q",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>A Pós-Graduação e a Integração dos Indicadores Capes na Autoavaliação</i>, conduzida por <b>Mariana Antunes de Souza</b>.</p>",
+    "secao": "Grupos de Trabalho Temáticos"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala 104 do Bloco 3Q",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate focado no tema <i>Condições de Trabalho e Avaliação Docente: Desafios e Metodologias</i> com mediação de <b>Sérgio Ricardo Nogueira</b>.</p>",
+    "secao": "Grupos de Trabalho Temáticos"
+   },
+   {
+    "nome": "Pausa para Café e Confraternização",
+    "lugar": "Hall do Bloco 3Q",
+    "dataInicio": "2023-10-19T16:00:00-03:00",
+    "dataFim": "2023-10-19T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Auditório 5R-B",
+    "dataInicio": "2023-10-19T16:30:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>O Papel dos Técnicos-Administrativos no Planejamento e Gestão Universitária</i>, com a presença de <b>Patrícia Carla Medeiros</b> e <b>Tiago Barbosa Cunha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": null,
+    "dataInicio": "2023-10-19T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Oficina de formação intitulada <i>Elaboração e Validação de Instrumentos de Coleta para Comissões Próprias</i>, ministrada por <b>Fernando Augusto Rangel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Dúvidas da CPA",
+    "lugar": "Foyer do Bloco 5R",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:00:00-03:00",
+    "descricao": "<p>Atendimento individualizado para coordenadores de curso e comissões setoriais de avaliação, conduzido por <b>Aline Fonseca Duarte</b>.</p>",
+    "secao": "Atividades Práticas"
+   },
+   {
+    "nome": "Oficina Prática de Análise de Indicadores",
+    "lugar": "Laboratório de Informática 2 - Bloco 1B",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:00:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Tratamento de Dados Avaliativos e Dashboards com Power BI</i> com o analista <b>Jorge Luís Meireles</b>.</p>",
+    "secao": "Atividades Práticas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2023-10-20T10:15:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>A Extensão Universitária nos Instrumentos de Avaliação Externa</i>, mediada por <b>Vanessa Cristina Teixeira</b>, com participação de <b>Eduardo Henrique Alvim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:00:00-03:00",
+    "dataFim": "2023-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Análise de Indicadores",
+    "lugar": "Laboratório de Informática 3 - Bloco 1B",
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T15:00:00-03:00",
+    "descricao": "<p>Segunda turma da capacitação técnica sobre <i>Tratamento de Dados Avaliativos e Dashboards com Power BI</i> conduzida por <b>Jorge Luís Meireles</b> e <b>Camila Ribeiro Tostes</b>.</p>",
+    "secao": "Atividades Práticas"
+   },
+   {
+    "nome": "Plantão de Dúvidas da CPA",
+    "lugar": null,
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Orientações sobre preenchimento do formulário do Censo da Educação Superior por <b>Aline Fonseca Duarte</b>.</p>",
+    "secao": "Atividades Práticas"
+   },
+   {
+    "nome": "Sessão de Relatos de Boas Práticas",
+    "lugar": "Auditório 5R-B",
+    "dataInicio": "2023-10-20T15:00:00-03:00",
+    "dataFim": "2023-10-20T16:30:00-03:00",
+    "descricao": "<p>Apresentação de iniciativas setoriais exitosas com moderação de <b>Guilherme Borges de Faria</b> e relatos de <b>Denise Maria Resende</b> e <b>Paulo Otávio Castilho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Confraternização",
+    "lugar": null,
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final e Aprovação das Diretrizes",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2023-10-20T17:00:00-03:00",
+    "dataFim": "2023-10-20T18:30:00-03:00",
+    "descricao": "<p>Consolidação do documento orientador para o PDI 2024-2028 presidida por <b>Heloísa Helena de Oliveira Santos</b> e <b>Marcos Vinícius Cordeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato de Encerramento",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2023-10-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

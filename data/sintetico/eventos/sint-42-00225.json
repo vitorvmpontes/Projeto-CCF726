@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-42-00225",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:05+00:00",
+ "uso_tokens": {
+  "entrada": 670,
+  "saida": 1443
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Mineiro de Direito Processual e Inovações Tecnológicas",
+   "local_geral": "Centro de Convenções Minascentro, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Grande Teatro Ouro Preto",
+    "dataInicio": "2025-08-20T09:00:00-03:00",
+    "dataFim": "2025-08-20T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador-geral <b>Dr. Marcelo Guimarães da Silveira</b> com participação das autoridades convidadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates I",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2025-08-20T11:00:00-03:00",
+    "dataFim": "2025-08-20T12:30:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Os impactos do uso de ferramentas de inteligência artificial generativa na redação de decisões judiciais e a preservação do devido processo legal constitucional</i>, com exposição de <b>Dra. Juliana Prado Albuquerque</b> e <b>Prof. Carlos Eduardo Menezes</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa de Debates II",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2025-08-20T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão temática com mediação de <b>Profa. Beatriz Nogueira Fontes</b> e participação de <b>Desembargador Roberto Capanema</b> sobre precedentes qualificados.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Oficina Prática A",
+    "lugar": "Sala de Capacitação 102",
+    "dataInicio": "2025-08-21T09:30:00-03:00",
+    "dataFim": "2025-08-21T11:30:00-03:00",
+    "descricao": "<p>Oficina prática intitulada <i>Estratégias avançadas de produção probatória pericial em litígios complexos envolvendo vazamento massivo de dados corporativos protegidos pela legislação setorial</i>, ministrada pelo perito <b>Rodrigo Vasconcelos Matos</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Prática B",
+    "lugar": "Sala de Capacitação 104",
+    "dataInicio": "2025-08-21T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Capacitação técnica conduzida por <b>Mariana Siqueira Rios</b> voltada para a gestão moderna de escritórios de advocacia.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Lançamento de Obras Jurídicas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-21T17:30:00-03:00",
+    "dataFim": "2025-08-21T19:00:00-03:00",
+    "descricao": "<p>Sessão de autógrafos com autores mineiros, coordenada por <b>Dr. Henrique Paes Leme</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Especial",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2025-08-22T10:00:00-03:00",
+    "dataFim": "2025-08-22T12:00:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>A desjudicialização da execução civil e os limites normativos da atuação dos cartórios extrajudiciais na efetivação de títulos executivos</i>, pelos relatores <b>Dr. Fernando Castanheira</b> e <b>Dra. Thaís Morato Vianna</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates III",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T16:00:00-03:00",
+    "descricao": "<p>Debate sobre mediação e arbitragem na administração pública com <b>Prof. Lucas Toledo Amaral</b> e <b>Profa. Vanessa Antunes Chaves</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Grande Teatro Ouro Preto",
+    "dataInicio": "2025-08-22T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência final proferida pelo ministro convidado <b>Dr. Sérgio Valadares Resende</b> e anúncio das conclusões das comissões temáticas.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

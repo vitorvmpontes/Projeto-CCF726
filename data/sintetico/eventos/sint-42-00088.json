@@ -1,0 +1,149 @@
+{
+ "spec": {
+  "id": "sint-42-00088",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Natal - RN",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 15,
+  "casos": [
+   "atividades_paralelas",
+   "descricoes_ricas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:14+00:00",
+ "uso_tokens": {
+  "entrada": 666,
+  "saida": 2403
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Potiguar de Inteligência Artificial Aplicada (WPIA 2027)",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Modelos de Fundação Multimodais para Diagnóstico por Imagem</i> ministrada pelo <b>Prof. Dr. Marcelo Vasconcelos</b> (UFRN). Coordenação de <b>Dra. Simone Albuquerque</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de Prompt e Fine-Tuning de LLMs para Iniciantes</i>. Instrutores: <b>Lucas Marinho</b> e <b>Beatriz Guimarães</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Visão Computacional Aplicada a Veículos Autônomos usando PyTorch</i> com o pesquisador <b>Dr. Daniel Fontes</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Fernanda Teles</b>. Trabalhos apresentados:</p><p><i>1. Detecção de Anomalias em Séries Temporais Industriais</i> por <b>Caio Mendonça</b> e <b>Jorge Linhares</b>;</p><p><i>2. Otimização de Rotas de Transporte Público em Natal utilizando Aprendizado por Reforço</i> por <b>Juliana Bastos</b> e <b>Renato Maia</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Construindo Agentes Autônomos com RAG e LangChain</i>. Instrutora: <b>Camila Dantas</b> (Instituto Metrópole Digital).</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Graph Neural Networks para Bioinformática</i> ministrado por <b>Prof. Roberto Salgado</b> e monitorado por <b>Vanessa Prado</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:00:00-03:00",
+    "dataFim": "2027-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dr. Igor Cassemiro</b>. Apresentações:</p><p><i>1. Redução de Viés Algorítmico em Modelos de Crédito Bancário</i> de autoria de <b>Patrícia Nogueira</b> e <b>Carlos Eduardo Pires</b>;</p><p><i>2. Classificação Automática de Padrões Climáticos no Litoral Potiguar</i> por <b>Rodrigo Assis</b>, <b>Manoel Farias</b> e <b>Aline Morais</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Regulamentação e Ética da IA no Setor Público</i> mediado por <b>Larissa Neves</b>, contando com a participação dos debatedores <b>Dr. Gustavo Paiva</b> (OAB/RN) e <b>Profa. Helena Queiroz</b> (UFRN).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Eficiência Energética no Treinamento de Redes Neurais Profundas</i> com o <b>Dr. Thiago Brandão</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos de graduação e pós-graduação. Coordenação geral do comitê com <b>Prof. Anderson Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Cerimônia de premiação dos melhores artigos e minicursos coordenada por <b>Dra. Simone Albuquerque</b> e <b>Prof. Anderson Medeiros</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

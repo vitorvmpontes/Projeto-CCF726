@@ -1,0 +1,227 @@
+{
+ "spec": {
+  "id": "sint-42-00040",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Campinas - SP",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:41+00:00",
+ "uso_tokens": {
+  "entrada": 645,
+  "saida": 4147
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Campinas 2025",
+   "local_geral": "Expo Dom Pedro, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Retirada de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura Oficial",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e lançamento da programação regional com <b>Carlos Alberto dos Santos</b> (Diretor Regional do Sebrae-SP) e <b>Mariana Penteado</b> (Secretária Municipal de Desenvolvimento Econômico).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-05-15T11:15:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Apresentação de abertura ministrada por <b>Roberto Shinyashiki</b> abordando <i>Estratégias de Liderança e Alta Performance para Pequenos Negócios</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 1 - Gestão e Finanças",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Instrutor: <b>Felipe Castanho</b>. Tema: <i>Como Montar o Fluxo de Caixa sem Segredos</i>, focado em micro e pequenas empresas.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2025-05-15T14:30:00-03:00",
+    "dataFim": "2025-05-15T16:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Renata Albuquerque</b>. Debate sobre desafios mercadológicos com a participação de <b>Luciana Toledo</b> e <b>Marcio Bueno</b>, abordando o tema <i>Varejo 4.0: Omnichannel para Comércios Tradicionais</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 2 - Marketing Digital",
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": "2025-05-15T18:00:00-03:00",
+    "descricao": "<p>Oficina ministrada por <b>Camila Duarte</b> sobre <i>Criação de Conteúdo para Redes Sociais com Foco em Conversão Local</i>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Sessão de Pitching",
+    "lugar": "Palco Startup Experience",
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": "2025-05-15T18:30:00-03:00",
+    "descricao": "<p>Apresentação de startups da Região Metropolitana de Campinas para fundos de investimento. Coordenador da banca: <b>Thiago Meirelles</b>. Trabalhos apresentados:</p><p>- <i>EcoLog: Rastreamento Sustentável de Fretes Urbanos</i> por <b>Ana Beatriz Silveira</b></p><p>- <i>AgroSens: Monitoramento de Solo em Tempo Real</i> por <b>Guilherme Vasconcelos</b></p><p>- <i>HealthFast: Telemedicina Integrada para Clínicas Populares</i> por <b>Juliana Prado</b></p>",
+    "secao": "Circuito de Inovação"
+   },
+   {
+    "nome": "Happy Hour de Negócios",
+    "lugar": "Espaço Networking",
+    "dataInicio": "2025-05-15T18:30:00-03:00",
+    "dataFim": "2025-05-15T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Palestra com o consultor <b>Daniel Fonseca</b> abordando o case <i>Inteligência Artificial Aplicada ao Atendimento do Cliente no Pequeno Negócio</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 1 - Gestão e Finanças",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Facilitadora: <b>Patrícia Gomes</b>. Conteúdo: <i>Precificação Estratégica: Cobrando com Lucro Real e Competitividade</i>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Sessão Técnica",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Eduardo Chaves</b>. Apresentação de cases de sucesso e projetos de extensão:</p><p>- <i>Otimização Energética em Pequenas Indústrias Metalúrgicas</i> apresentado por <b>Rafael Zanin</b></p><p>- <i>Implementação de Logística Reversa em Franquias Alimentícias</i> apresentado por <b>Sofia Martins</b> e <b>Otávio Lins</b></p><p>- <i>Automação de Baixo Custo para Padarias e Mercados</i> apresentado por <b>Letícia Nogueira</b></p>",
+    "secao": "Circuito de Inovação"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-05-16T12:30:00-03:00",
+    "dataFim": "2025-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios Multissetorial",
+    "lugar": "Pavilhão B - Espaço B2B",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Encontro dinâmico entre âncoras e microfornecedores coordenado pelo analista de negócios <b>Rogério Mattos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Tatiana Barreto</b>. Mesa com as debatedoras <b>Beatriz Mendonça</b> e <b>Cláudia Viegas</b> discutindo <i>Mulheres no Comando: Desafios e Conquistas no Ecossistema Empreendedor</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Soluções Sustentáveis",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2025-05-16T17:00:00-03:00",
+    "dataFim": "2025-05-16T18:45:00-03:00",
+    "descricao": "<p>Apresentação de práticas sustentáveis aplicadas aos negócios. Coordenação do projeto: <b>Vitor Takahashi</b>. Trabalhos em destaque:</p><p>- <i>Embalagens Biodegradáveis a partir de Bagaço de Cana</i> por <b>Helena Ramos</b></p><p>- <i>Gestão Comunitária de Resíduos Orgânicos em Restaurantes</i> por <b>Diego Fagundes</b></p>",
+    "secao": "Circuito de Inovação"
+   },
+   {
+    "nome": "Mentoria Coletiva",
+    "lugar": "Espaço Networking",
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": "2025-05-16T19:30:00-03:00",
+    "descricao": "<p>Tira-dúvidas presencial com especialistas em crédito orientado. Mentores convidados: <b>Jorge Sampaio</b> e <b>Fernanda Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 3 - Franquias e Expansão",
+    "dataInicio": "2025-05-17T09:30:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": "<p>Palestrante: <b>Leandro Morais</b>. Apresentação do tema <i>Transformando Seu Negócio em Rede: Passos para Franquear</i>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel de Exportação",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T11:45:00-03:00",
+    "descricao": "<p>Mesa mediada por <b>Aline Guimarães</b>, reunindo os palestrantes <b>Sérgio Antunes</b> e <b>Marcela Klein</b> para debater <i>Primeiros Passos para o Pequeno Produtor Exportar</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Iniciação Empreendedora",
+    "lugar": "Palco Startup Experience",
+    "dataInicio": "2025-05-17T11:15:00-03:00",
+    "dataFim": "2025-05-17T13:00:00-03:00",
+    "descricao": "<p>Apresentação dos melhores projetos universitários de empreendedorismo juvenil. Coordenadora da banca: <b>Priscila Neves</b>. Trabalhos apresentados:</p><p>- <i>Plataforma Gamificada de Educação Financeira Escolar</i> por <b>Lucas Cavalcanti</b></p><p>- <i>App de Conexão de Mão de Obra Autônoma para Idosos</i> por <b>Gabriel Rocha</b> e <b>Manoela Dias</b></p><p>- <i>Solução em Drones para Pulverização de Hortifrúti Familiar</i> por <b>André Lourenço</b></p>",
+    "secao": "Circuito de Inovação"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-05-17T13:00:00-03:00",
+    "dataFim": "2025-05-17T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-05-17T14:15:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Palestra de vendas ministrada por <b>César Faria</b>, explorando <i>Técnicas Modernas de Negociação e Fechamento com Grandes Contas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Demoday de Startups",
+    "lugar": "Palco Startup Experience",
+    "dataInicio": "2025-05-17T15:30:00-03:00",
+    "dataFim": "2025-05-17T17:15:00-03:00",
+    "descricao": "<p>Apresentação final dos modelos incubados no programa Sebrae for Startups Campinas. Coordenador: <b>Bruno Valente</b>. Trabalhos avaliados:</p><p>- <i>PayQuick: Carteira de Pagamentos Offline para Feirantes</i> por <b>Carolina Becker</b></p><p>- <i>SolarHub: Marketplace Descentralizado de Energia Solar</i> por <b>Fábio Esteves</b></p>",
+    "secao": "Circuito de Inovação"
+   },
+   {
+    "nome": "Premiação Melhores Negócios do Ano",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-05-17T17:30:00-03:00",
+    "dataFim": "2025-05-17T18:45:00-03:00",
+    "descricao": "<p>Divulgação dos premiados do Prêmio Sebrae Mulher de Negócios e Startup Destaque Regional, conduzida por <b>Carlos Alberto dos Santos</b> e <b>Valéria Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Área Externa",
+    "dataInicio": "2025-05-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração de encerramento com apresentação musical de artistas locais de Campinas.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

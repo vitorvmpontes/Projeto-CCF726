@@ -1,0 +1,220 @@
+{
+ "spec": {
+  "id": "sint-42-00320",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 24,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:45+00:00",
+ "uso_tokens": {
+  "entrada": 653,
+  "saida": 3423
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Paulista de Inteligência Artificial Aplicada 2023",
+   "local_geral": "Centro de Inovações Tecnológicas de São Paulo - São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-08-17T08:00:00-03:00",
+    "dataFim": "2023-08-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a presença da coordenadora geral <b>Dra. Juliana Prado</b> e do diretor <b>Dr. Marcos Vinícius Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-17T09:30:00-03:00",
+    "dataFim": "2023-08-17T10:30:00-03:00",
+    "descricao": "<p>Apresentação de abertura ministrada pelo <b>Prof. Dr. Ricardo Albuquerque</b> com o tema <i>Modelos de Linguagem de Grande Escala e o Futuro do Processamento Textual</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café matutina",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-17T10:30:00-03:00",
+    "dataFim": "2023-08-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1 - Parte 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2023-08-17T11:00:00-03:00",
+    "dataFim": "2023-08-17T12:30:00-03:00",
+    "descricao": "<p>Instrutora: <b>MSc. Camila Dantas</b>. Conteúdo prático cobrindo <i>Introdução a Visão Computacional com PyTorch e OpenCV</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 2 - Parte 1",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2023-08-17T11:00:00-03:00",
+    "dataFim": "2023-08-17T12:30:00-03:00",
+    "descricao": "<p>Ministrado por <b>Dr. Felipe Cerqueira</b>, abordando <i>Engenharia de Prompts e Arquitetura RAG para Aplicações Corporativas</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-17T12:30:00-03:00",
+    "dataFim": "2023-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1 - Parte 2",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T16:00:00-03:00",
+    "descricao": "<p>Continuação com a instrutora <b>MSc. Camila Dantas</b> sobre <i>Implementação e Ajuste Fino de Redes Convolucionais para Reconhecimento de Objetos</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 2 - Parte 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T16:00:00-03:00",
+    "descricao": "<p>Continuação com <b>Dr. Felipe Cerqueira</b> trabalhando <i>Integração de Vetores e Bancos de Dados com LangChain</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Coffee Break e Networking",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-17T16:00:00-03:00",
+    "dataFim": "2023-08-17T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-17T16:30:00-03:00",
+    "dataFim": "2023-08-17T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios Éticos e Regulamentação de Inteligência Artificial no Cenário Brasileiro</i> com mediação de <b>Dra. Mariana Lins</b> e participação de <b>Lucas Fontes</b> e <b>Beatriz Nogueira</b>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Happy Hour da Comunidade",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2023-08-17T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Boas-vindas e Recepção",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica Convidada",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-18T09:00:00-03:00",
+    "dataFim": "2023-08-18T10:00:00-03:00",
+    "descricao": "<p>Apresentação pelo especialista <b>Eng. Rodrigo Valente</b> abordando <i>MLOps: Estratégias para Implantação Contínua de Modelos Preditivos em Produção</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T10:00:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3 - Parte 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2023-08-18T10:30:00-03:00",
+    "dataFim": "2023-08-18T12:30:00-03:00",
+    "descricao": "<p>Oficina conduzida por <b>Dra. Talita Guimarães</b> sobre <i>Aprendizado por Reforço Profundo: Fundamentos e Primeiros Passos</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 4 - Parte 1",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2023-08-18T10:30:00-03:00",
+    "dataFim": "2023-08-18T12:30:00-03:00",
+    "descricao": "<p>Sessão conduzida por <b>Prof. André Meireles</b> tratando de <i>Análise de Grafos de Conhecimento e IA Explicável com NetworkX</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Horário de Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-18T12:30:00-03:00",
+    "dataFim": "2023-08-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3 - Parte 2",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": "<p>Aplicação em simuladores com a especialista <b>Dra. Talita Guimarães</b>: <i>Treinando Agentes com Gym e Stable-Baselines3</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 4 - Parte 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": "<p>Exercícios práticos com <b>Prof. André Meireles</b> demonstrando <i>Interpretabilidade de Modelos Complexos Utilizando SHAP e LIME</i>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Pausa para Lanche da Tarde",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T16:00:00-03:00",
+    "dataFim": "2023-08-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-18T16:30:00-03:00",
+    "dataFim": "2023-08-18T17:45:00-03:00",
+    "descricao": "<p>Mesa redonda sobre <i>Mercado de Trabalho em IA: Demandas, Habilidades e Carreiras Emergentes</i>, moderada por <b>Patrícia Ramos</b> com debatedores <b>Carlos Eduardo Bueno</b> e <b>Fernanda Siqueira</b>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-18T17:45:00-03:00",
+    "dataFim": "2023-08-18T18:30:00-03:00",
+    "descricao": "<p>Entrega das premiações de melhores projetos dos minicursos presidida por <b>Dra. Juliana Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Área Verde do CIT",
+    "dataInicio": "2023-08-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

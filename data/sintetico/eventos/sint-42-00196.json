@@ -1,0 +1,293 @@
+{
+ "spec": {
+  "id": "sint-42-00196",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Florianópolis - SC",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 33,
+  "casos": [
+   "titulos_longos",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:54+00:00",
+ "uso_tokens": {
+  "entrada": 698,
+  "saida": 4998
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae SC 2023",
+   "local_geral": "CentroSul - Centro de Convenções de Florianópolis, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção de Visitantes e Retirada de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-05-18T08:30:00-03:00",
+    "dataFim": "2023-05-18T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura Oficial",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-18T10:00:00-03:00",
+    "dataFim": "2023-05-18T11:00:00-03:00",
+    "descricao": "<p>Abertura solene com a presença do diretor superintendente <b>Carlos Ramos</b> e da secretária municipal de turismo <b>Clara Valgas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-18T11:00:00-03:00",
+    "dataFim": "2023-05-18T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital para Pequenos Negócios Tradicionais</i>. Apresentação conduzida por <b>Mariana Schuler</b>.</p>",
+    "secao": "Painel Futuro dos Negócios"
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-18T12:00:00-03:00",
+    "dataFim": "2023-05-18T13:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Força das Microfranquias em Cidades Litorâneas</i>. Debatedores: <b>Felipe Peixoto</b> e <b>Ana Cristina Mendes</b>. Moderação: <b>Eduardo Bittencourt</b>.</p>",
+    "secao": "Painel Futuro dos Negócios"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2023-05-18T13:00:00-03:00",
+    "dataFim": "2023-05-18T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Gestão Financeira com Foco em Fluxo de Caixa e Redução de Riscos Operacionais para Microempreendedores Individuais",
+    "lugar": "Sala de Treinamento A",
+    "dataInicio": "2023-05-18T14:30:00-03:00",
+    "dataFim": "2023-05-18T16:30:00-03:00",
+    "descricao": "<p>Instrutores: <b>Rogério Meirelles</b> e <b>Daniela Furlan</b>. Abordagem de indicadores de liquidez e simulações orçamentárias.</p>",
+    "secao": "Capacitação Gerencial"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Sala de Treinamento B",
+    "dataInicio": "2023-05-18T14:30:00-03:00",
+    "dataFim": "2023-05-18T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Planejamento Estratégico com Metodologias Ágeis</i>. Facilitador: <b>Otávio Luz</b>.</p>",
+    "secao": "Capacitação Gerencial"
+   },
+   {
+    "nome": "Rodada de Negócios 1",
+    "lugar": "Espaço Conexões B2B",
+    "dataInicio": "2023-05-18T15:00:00-03:00",
+    "dataFim": "2023-05-18T17:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Patrícia Antunes</b>. Encontro estruturado entre fornecedores de insumos têxteis e confecções da região.</p>",
+    "secao": "Rodadas Comerciais"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2023-05-18T16:30:00-03:00",
+    "dataFim": "2023-05-18T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Vendas de Alto Impacto em Redes Sociais</i>. Palestrante: <b>Carla Linhares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pitch Startups",
+    "lugar": "Palco Inovação",
+    "dataInicio": "2023-05-18T17:30:00-03:00",
+    "dataFim": "2023-05-18T19:00:00-03:00",
+    "descricao": "<p>Apresentação das iniciativas: <i>BioFilter Smart</i> por <b>Guilherme Dorneles</b>, <i>Entregas Express Eco</i> por <b>Juliana Pires</b> e <i>Software Agreste Tech</i> por <b>Mateus Silveira</b>. Avaliação da banca coordenada por <b>Sandra Klein</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento do Dia",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-18T19:00:00-03:00",
+    "dataFim": "2023-05-18T20:00:00-03:00",
+    "descricao": "<p>Tema: <i>Liderança Humanizada em Cenários de Incerteza</i>. Apresentação por <b>Vicente Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura dos Pavilhões de Exposição",
+    "lugar": "Pavilhão de Negócios",
+    "dataInicio": "2023-05-19T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2023-05-19T09:30:00-03:00",
+    "dataFim": "2023-05-19T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Turismo Sustentável e Gastronomia Regional</i>. Coordenadora: <b>Renata Alencastro</b>. Painelistas: <b>Chef Paulo Zanin</b> e <b>Beatriz Nogueira</b>.</p>",
+    "secao": "Sessões Setoriais"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2023-05-19T11:00:00-03:00",
+    "dataFim": "2023-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Tecnologia Aplicada à Logística Portuária Catarinense</i>. Convidado: <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Sessões Setoriais"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Sala de Treinamento A",
+    "dataInicio": "2023-05-19T10:00:00-03:00",
+    "dataFim": "2023-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Precificação Inteligente para Serviços</i>. Ministrante: <b>Igor Cavalcanti</b>.</p>",
+    "secao": "Capacitação Gerencial"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2023-05-19T12:30:00-03:00",
+    "dataFim": "2023-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios 2",
+    "lugar": "Espaço Conexões B2B",
+    "dataInicio": "2023-05-19T14:00:00-03:00",
+    "dataFim": "2023-05-19T16:00:00-03:00",
+    "descricao": "<p>Setor de Tecnologia da Informação e Serviços Digitais. Coordenação de <b>Patrícia Antunes</b> e <b>Luciano Godoy</b>.</p>",
+    "secao": "Rodadas Comerciais"
+   },
+   {
+    "nome": "Painel de Casos de Sucesso Local",
+    "lugar": "Palco Inovação",
+    "dataInicio": "2023-05-19T14:00:00-03:00",
+    "dataFim": "2023-05-19T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de expansão regional: <i>Da Garagem ao Mercado Nacional</i> por <b>Camila Duarte</b> e <i>Inovação em Varejo de Moda</i> por <b>Sérgio Toledo</b>. Mediação: <b>Vera Lúcia Gomes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-19T15:30:00-03:00",
+    "dataFim": "2023-05-19T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial Aplicada ao Atendimento ao Cliente em Pequenas Empresas</i>. Palestrante: <b>Leonardo Vasconcellos</b>.</p>",
+    "secao": "Painel Futuro dos Negócios"
+   },
+   {
+    "nome": "Oficina Prática de Construção de Marca Pessoal e Posicionamento Digital Estratégico para Fundadores e Profissionais Liberais da Economia Criativa",
+    "lugar": "Sala de Treinamento B",
+    "dataInicio": "2023-05-19T16:00:00-03:00",
+    "dataFim": "2023-05-19T18:00:00-03:00",
+    "descricao": "<p>Atividade orientada por <b>Vanessa Medeiros</b>, abordando storytelling e matriz de canais para criadores independentes.</p>",
+    "secao": "Capacitação Gerencial"
+   },
+   {
+    "nome": "Coffee Break e Networking",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2023-05-19T17:00:00-03:00",
+    "dataFim": "2023-05-19T17:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-19T18:00:00-03:00",
+    "dataFim": "2023-05-19T19:30:00-03:00",
+    "descricao": "<p>Tema: <i>Tendências Globais do Empreendedorismo e Competitividade</i>. Palestrante: <b>Rodrigo Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Negócios Inovadores",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2023-05-19T19:30:00-03:00",
+    "dataFim": "2023-05-19T21:00:00-03:00",
+    "descricao": "<p>Exibição dos projetos selecionados pelo edital Sebrae Inova. Coordenação geral de <b>Helena Castello</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Credenciamento Diário e Atendimento MEI",
+    "lugar": "Balcão de Serviços Sebrae",
+    "dataInicio": "2023-05-20T09:00:00-03:00",
+    "dataFim": "2023-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala de Treinamento A",
+    "dataInicio": "2023-05-20T09:30:00-03:00",
+    "dataFim": "2023-05-20T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Elaboração de Contratos Comerciais sem Complicação</i>. Instrutor: <b>Adv. Rafael Nocera</b>.</p>",
+    "secao": "Capacitação Gerencial"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2023-05-20T10:00:00-03:00",
+    "dataFim": "2023-05-20T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mulheres Líderes no Ecossistema Catarinense</i>. Palestrante: <b>Priscila Magalhães</b>.</p>",
+    "secao": "Sessões Setoriais"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2023-05-20T11:00:00-03:00",
+    "dataFim": "2023-05-20T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Exportação para Pequenas e Médias Empresas</i>. Mediação: <b>Gabriel Boaventura</b>. Participantes: <b>Larissa Gusmão</b> e <b>Jorge Tavares</b>.</p>",
+    "secao": "Sessões Setoriais"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2023-05-20T12:30:00-03:00",
+    "dataFim": "2023-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Planejamento Financeiro Integrado para Expansão Segura e Sustentável de Franquias e Novas Filiais Regionais",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-20T14:00:00-03:00",
+    "dataFim": "2023-05-20T15:15:00-03:00",
+    "descricao": "<p>Conferência ministrada por <b>Fernando Siqueira</b> sobre métricas de retorno sobre investimento e análise de viabilidade geográfica.</p>",
+    "secao": "Painel Futuro dos Negócios"
+   },
+   {
+    "nome": "Rodada de Negócios 3",
+    "lugar": "Espaço Conexões B2B",
+    "dataInicio": "2023-05-20T14:30:00-03:00",
+    "dataFim": "2023-05-20T16:30:00-03:00",
+    "descricao": "<p>Rodada Multissetorial de Oportunidades. Condução de <b>Luciano Godoy</b> e <b>Patrícia Antunes</b>.</p>",
+    "secao": "Rodadas Comerciais"
+   },
+   {
+    "nome": "Apresentação de Trabalhos dos Agentes Locais de Inovação",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2023-05-20T15:30:00-03:00",
+    "dataFim": "2023-05-20T17:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Roberta Paiva</b>. Trabalhos selecionados: <i>Redução de Desperdícios na Indústria Moveleira</i> apresentado por <b>Tiago Meireles</b>; <i>Eficiência Energética no Varejo de Alimentos</i> por <b>Aline Fonseca</b>; e <i>Melhoria de Processos em Clínicas Odontológicas</i> por <b>Bruno Cascaes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia do Prêmio Empreendedor do Futuro",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-05-20T17:15:00-03:00",
+    "dataFim": "2023-05-20T18:30:00-03:00",
+    "descricao": "<p>Entrega das homenagens estaduais conduzida por <b>Carlos Ramos</b> e <b>Sandra Klein</b> aos vencedores das categorias Comércio, Serviços e Startups.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Coquetel de Confraternização",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2023-05-20T18:30:00-03:00",
+    "dataFim": "2023-05-20T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

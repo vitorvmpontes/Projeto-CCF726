@@ -1,0 +1,203 @@
+{
+ "spec": {
+  "id": "sint-42-00131",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Londrina - PR",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 22,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:48+00:00",
+ "uso_tokens": {
+  "entrada": 632,
+  "saida": 3209
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Futuro Londrina 2024",
+   "local_geral": "Parque de Exposições Ney Braga, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in de Participantes",
+    "lugar": "Hall Central",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com presença das lideranças do setor e coordenação de <b>Marcio Guimarães Penteado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-16T09:45:00-03:00",
+    "dataFim": "2024-05-16T10:45:00-03:00",
+    "descricao": "<p>Apresentação <i>O Futuro dos Bioinsumos e a Transição Ecológica no Agronegócio</i> conduzida pela Dra. <b>Helena Silveira Prado</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Intervalo para Networking e Café",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2024-05-16T10:45:00-03:00",
+    "dataFim": "2024-05-16T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-16T11:15:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Conectividade Rural: Desafios do 5G no Campo Paranaense</i> com <b>Rodrigo Taniguchi</b> e <b>Clara Menezes de Faria</b>. Moderação de <b>Fernando Camargo Lins</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Workshop Técnico A",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-05-16T11:15:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>Calibração de Drones para Pulverização de Precisão</i> facilitada por <b>Lucas Bertolini</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:30:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Inteligência Artificial Aplicada à Previsão de Safras</i> ministrada por <b>Tatiana Duarte Vilela</b> e <b>Eduardo Sanches Rocha</b>.</p>",
+    "secao": "Trilhas de Inovação"
+   },
+   {
+    "nome": "Workshop Técnico B",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Gestão de Dados com Sensores IoT em Solos Arenosos</i> com o engenheiro <b>André Siqueira Neves</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Secundário",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Rastreabilidade e Cadeia de Suprimentos com Blockchain</i> reunindo <b>Vanessa Ortiz</b> e <b>Igor Zamboni</b>.</p>",
+    "secao": "Trilhas de Inovação"
+   },
+   {
+    "nome": "Rodada de Pitches",
+    "lugar": "Arena Agtech",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Apresentação de startups para bancas de investimento sob coordenação de <b>Patrícia Albuquerque Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Demonstração Prática no Campo",
+    "lugar": "Área Externa - Pista de Demonstrações",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Apresentação operacional de maquinário autônomo conduzida pelo especialista <b>Julio Cesar Fagundes</b>.</p>",
+    "secao": "Demonstrações Práticas"
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-17T10:15:00-03:00",
+    "dataFim": "2024-05-17T11:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Crédito de Carbono e Sustentabilidade Financeira na Lavoura</i> com as pesquisadoras <b>Renata Queiroz Barreto</b> e <b>Lúcia Helena Moreira</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Workshop Técnico C",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-05-17T10:15:00-03:00",
+    "dataFim": "2024-05-17T11:45:00-03:00",
+    "descricao": "<p>Minicurso <i>Introdução à Análise Espacial com Imagens de Satélite</i> orientado por <b>Guilherme Sato</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Apresentação de Casos de Sucesso",
+    "lugar": "Auditório Secundário",
+    "dataInicio": "2024-05-17T10:15:00-03:00",
+    "dataFim": "2024-05-17T11:45:00-03:00",
+    "descricao": "<p>Sessão <i>Inovação Cooperativista: O Caso das Propriedades Conectadas</i> com relato de <b>Sérgio Mendonça Villela</b> e <b>Ana Paula Esteves</b>.</p>",
+    "secao": "Trilhas de Inovação"
+   },
+   {
+    "nome": "Brunch com Expositores",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2024-05-17T11:45:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Apresentação de Pôsteres",
+    "lugar": "Foyer Técnico",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T14:45:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos científicos selecionados com coordenação técnica do Prof. <b>Carlos Daniel Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Tendências Globais",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-17T15:00:00-03:00",
+    "dataFim": "2024-05-17T16:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Tendências Globais do Agronegócio e Barreiras Tarifárias Verdes</i> apresentada por <b>Beatriz Fontes Castelo</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Workshop Técnico D",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-05-17T15:00:00-03:00",
+    "dataFim": "2024-05-17T16:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Ferramentas Livres para Modelagem Agroclimática</i> ministrada por <b>Tiago Meirelles Costa</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Premiação AgroInova 2024",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-17T16:45:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Entrega das premiações para as melhores soluções do hackathon e da rodada de startups por <b>Marcio Guimarães Penteado</b> e <b>Patrícia Albuquerque Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": "2024-05-17T18:00:00-03:00",
+    "descricao": "<p>Considerações finais e anúncio da próxima edição pelo presidente da comissão, <b>Marcio Guimarães Penteado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2024-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,214 @@
+{
+ "spec": {
+  "id": "sint-42-00174",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 23,
+  "casos": [
+   "intervalos",
+   "descricoes_ricas",
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:03+00:00",
+ "uso_tokens": {
+  "entrada": 696,
+  "saida": 3458
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova Zona da Mata 2025",
+   "local_geral": "Centro de Convenções Expominas Juiz de Fora, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-13T08:00:00-03:00",
+    "dataFim": "2025-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2025-05-13T09:00:00-03:00",
+    "dataFim": "2025-05-13T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento de autoridades e organizadores, coordenada por <b>Dr. Marcelo Guimarães Resende</b> (Embrapa Gado de Leite) e <b>Dra. Cecília Martins Alvarenga</b> (UFJF).</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2025-05-13T10:15:00-03:00",
+    "dataFim": "2025-05-13T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital na Pecuária Leiteira: Desafios e Oportunidades</i>. Painelistas: <b>Renato Silveira Bueno</b> (AgTech MG) e <b>Juliana Pires Costa</b> (FAEMG). Moderação de <b>Prof. Carlos Eduardo Toledo</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-13T12:00:00-03:00",
+    "dataFim": "2025-05-13T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-13T13:30:00-03:00",
+    "dataFim": "2025-05-13T15:30:00-03:00",
+    "descricao": "<p>Coordenação da sessão por <b>Prof. Fernando Braga Vasconcelos</b>.</p><p>Trabalhos selecionados:<br>- <i>Uso de Sensores IoT para Monitoramento Térmico de Bovinos de Leite</i>, apresentado por <b>Patrícia Nogueira</b> e <b>Lucas Albuquerque Prado</b>;<br>- <i>Rastreabilidade Bovina com Blockchain na Zona da Mata</i>, apresentado por <b>Rodrigo Mello Ferreira</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Café com Inovação",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2025-05-13T15:30:00-03:00",
+    "dataFim": "2025-05-13T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Startups",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2025-05-13T16:00:00-03:00",
+    "dataFim": "2025-05-13T18:00:00-03:00",
+    "descricao": "<p>Apresentação de soluções inovadoras no formato pitch, com facilitação de <b>Aline Fonseca Duarte</b>.</p>",
+    "secao": "AgTech Village"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática Aplicada",
+    "dataInicio": "2025-05-14T08:30:00-03:00",
+    "dataFim": "2025-05-14T10:30:00-03:00",
+    "descricao": "<p>Capacitação: <i>Processamento de Imagens Obtidas por Drones para Diagnóstico de Pastagens</i>, ministrada por <b>Eng. Tiago Mendes Sampaio</b>.</p>",
+    "secao": "Workshops de Campo"
+   },
+   {
+    "nome": "Café com Inovação",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2025-05-14T10:30:00-03:00",
+    "dataFim": "2025-05-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2025-05-14T11:00:00-03:00",
+    "dataFim": "2025-05-14T12:15:00-03:00",
+    "descricao": "<p>Apresentação: <i>Agricultura Regenerativa e Créditos de Carbono: Novas Fronteiras para o Produtor Rural</i>, conduzida pelo palestrante <b>Dr. Gustavo Henrique Vilela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-14T12:15:00-03:00",
+    "dataFim": "2025-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T16:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Vanessa Lúcia Guimarães</b>.</p><p>Trabalhos:<br>- <i>Bioinsumos na Cultura do Milho: Produtividade e Sustentabilidade</i>, de <b>Bruno Faria Salgado</b> e <b>Helena Esteves Rocha</b>;<br>- <i>Sistemas Agrossilvipastoris e Fixação Biológica de Nitrogênio em Minas Gerais</i>, de autoria de <b>Guilherme Dornelas</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mostra de Startups",
+    "lugar": null,
+    "dataInicio": "2025-05-14T16:00:00-03:00",
+    "dataFim": "2025-05-14T18:00:00-03:00",
+    "descricao": "<p>Segunda rodada de demonstração e networking com investidores, conduzida por <b>Mariana Prado Neves</b>.</p>",
+    "secao": "AgTech Village"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Hídrica e Manejo Inteligente da Irrigação na Agricultura Familiar</i>, com palestras de <b>Enga. Flávia Antunes Corrêa</b> e <b>Dr. Paulo Roberto Antunes</b>. Coordenação: <b>Prof. Gilberto Soares Pimentel</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Café com Inovação",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": null,
+    "dataInicio": "2025-05-15T11:00:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Tópico: <i>Elaboração de Planos de Transição Agroecológica para Pequenas Propriedades</i>, com a facilitadora <b>Bárbara Camargo Rios</b>.</p>",
+    "secao": "Workshops de Campo"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demoday Inovação Agro",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T17:00:00-03:00",
+    "descricao": "<p>Banca examinadora composta por <b>Leandro Bastos Capanema</b>, <b>Sandra Rangel Queiroz</b> e <b>Márcio Tavares Silva</b> para avaliação final dos protótipos acelerados.</p>",
+    "secao": "AgTech Village"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": null,
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas de Crédito e Fomento para Inovação no Campo em Minas Gerais</i>. Participação de <b>Sofia Meireles</b> e <b>Arthur Barcellos de Paula</b>. Mediação: <b>Dra. Cecília Martins Alvarenga</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Café com Inovação",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos e Startups",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do Prêmio AgroInova 2025, conduzido por <b>Dr. Marcelo Guimarães Resende</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T12:45:00-03:00",
+    "descricao": "<p>Considerações finais com a comissão organizadora presidida por <b>Dra. Cecília Martins Alvarenga</b> e <b>Dr. Marcelo Guimarães Resende</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Confraternização de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-05-16T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coquetel de encerramento e confraternização entre participantes, produtores rurais e palestrantes.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

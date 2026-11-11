@@ -1,0 +1,51 @@
+{
+ "spec": {
+  "id": "sint-42-00164",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Natal - RN",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:58+00:00",
+ "uso_tokens": {
+  "entrada": 633,
+  "saida": 591
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum de Autoavaliação Institucional da CPA/IFRN",
+   "local_geral": "Reitoria do IFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Apresentação dos Indicadores de Desempenho",
+    "lugar": null,
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T10:00:00-03:00",
+    "descricao": "<p>Apresentação dos resultados da autoavaliação 2025 pela coordenadora geral da CPA, Profa. <b>Clarice Medeiros de Vasconcelos</b>, com ênfase no tema <i>Metodologias Participativas e Impacto na Gestão Universitária</i>.</p>",
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Pedro Silveira e Sá Leitão",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Discussão com a participação de <b>Marcos Aurélio Guedes</b> e <b>Luciana Dantas Pinheiro</b>, abordando o painel <i>A Integração da Comunidade Externa na Avaliação dos Cursos Técnicos e Superiores</i>.</p>",
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Plenária Deliberativa e Encaminhamentos",
+    "lugar": null,
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:00:00-03:00",
+    "descricao": "<p>Sessão para consolidação do relatório de autoavaliação e diretrizes para o próximo triênio, mediada pelo Prof. <b>Rodrigo Tavares Peixoto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

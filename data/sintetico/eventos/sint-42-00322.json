@@ -1,0 +1,198 @@
+{
+ "spec": {
+  "id": "sint-42-00322",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Florestal - MG",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos",
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:52+00:00",
+ "uso_tokens": {
+  "entrada": 712,
+  "saida": 2952
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Encontro de Espiritualidade, Cidadania e Ação Comunitária de Florestal",
+   "local_geral": "Centro Pastoral São José e Paróquia de São Sebastião, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Materiais",
+    "lugar": "Foyer do Centro Pastoral",
+    "dataInicio": "2027-05-22T08:00:00-03:00",
+    "dataFim": "2027-05-22T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Nave da Matriz",
+    "dataInicio": "2027-05-22T09:00:00-03:00",
+    "dataFim": "2027-05-22T09:40:00-03:00",
+    "descricao": "<p>Momento devocional e cânticos de acolhida conduzidos pelo <b>Padre Luciano Duarte</b> e a <b>Irmã Teresa Prado</b>.</p>",
+    "secao": "Celebrações e Orações"
+   },
+   {
+    "nome": "Mesa de Abertura",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-22T09:40:00-03:00",
+    "dataFim": "2027-05-22T10:30:00-03:00",
+    "descricao": "<p>Abertura institucional com representantes das pastorais locais, sob coordenação de <b>Maria Aparecida Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Pátio Interno",
+    "dataInicio": "2027-05-22T10:30:00-03:00",
+    "dataFim": "2027-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-22T11:00:00-03:00",
+    "dataFim": "2027-05-22T12:30:00-03:00",
+    "descricao": "<p>Palestra ministrada pelo <b>Prof. Antônio Carlos Rezende</b> abordando o tema <i>O papel transformador das redes solidárias comunitárias na promoção da dignidade humana e enfrentamento das vulnerabilidades sociais contemporâneas</i>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2027-05-22T12:30:00-03:00",
+    "dataFim": "2027-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Canto Litúrgico",
+    "lugar": "Sala de Música",
+    "dataInicio": "2027-05-22T14:00:00-03:00",
+    "dataFim": "2027-05-22T16:00:00-03:00",
+    "descricao": "<p>Técnicas vocais e repertório pastoral com o maestro <b>Gabriel Fonseca</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Hortas Comunitárias",
+    "lugar": "Jardim Comunitário",
+    "dataInicio": "2027-05-22T14:00:00-03:00",
+    "dataFim": "2027-05-22T16:00:00-03:00",
+    "descricao": "<p>Manejo agroecológico e cultivo de hortaliças em pequenos espaços, facilitado por <b>Helena Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Tenda da Escuta",
+    "lugar": "Tenda Externa",
+    "dataInicio": "2027-05-22T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço de aconselhamento e escuta fraterna com os agentes de pastoral <b>Lucas Matos</b> e <b>Irmã Teresa Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Pátio Interno",
+    "dataInicio": "2027-05-22T16:00:00-03:00",
+    "dataFim": "2027-05-22T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Comunicação Comunitária",
+    "lugar": "Sala Multimídia",
+    "dataInicio": "2027-05-22T16:30:00-03:00",
+    "dataFim": "2027-05-22T18:00:00-03:00",
+    "descricao": "<p>Produção de boletins paroquiais e uso consciente das redes sociais para a comunidade, coordenada por <b>Juliana Meireles</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Formação de Lideranças",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-22T16:30:00-03:00",
+    "dataFim": "2027-05-22T18:00:00-03:00",
+    "descricao": "<p>Atividade ministrada por <b>Marcos Vinícius Andrade</b> com foco no tema <i>Metodologias participativas para o engajamento de jovens e famílias em projetos sociais nas periferias e comunidades rurais</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Missa da Juventude",
+    "lugar": "Nave da Matriz",
+    "dataInicio": "2027-05-22T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração eucarística presidida pelo <b>Padre Luciano Duarte</b> e animada pelo ministério jovem de música da Paróquia.</p>",
+    "secao": "Celebrações e Orações"
+   },
+   {
+    "nome": "Noite Cultural e Partilha",
+    "lugar": "Praça da Matriz",
+    "dataInicio": "2027-05-22T20:30:00-03:00",
+    "dataFim": "2027-05-22T22:00:00-03:00",
+    "descricao": "<p>Apresentações musicais regionais organizadas pelo animador cultural <b>Cláudio Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Nave da Matriz",
+    "dataInicio": "2027-05-23T08:30:00-03:00",
+    "dataFim": "2027-05-23T09:15:00-03:00",
+    "descricao": "<p>Liturgia das horas e meditação comunitária com a <b>Diaconisa Rita de Cássia</b>.</p>",
+    "secao": "Celebrações e Orações"
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Pátio Interno",
+    "dataInicio": "2027-05-23T09:15:00-03:00",
+    "dataFim": "2027-05-23T09:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-23T09:45:00-03:00",
+    "dataFim": "2027-05-23T11:30:00-03:00",
+    "descricao": "<p>Conferência especial com a <b>Dra. Fernanda Lins Ramos</b> abordando <i>Caminhos práticos para a sustentabilidade ecológica integral e o cuidado compartilhado da casa comum em nossos municípios</i>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Tenda da Escuta",
+    "lugar": "Jardim Comunitário",
+    "dataInicio": "2027-05-23T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Plantão de acolhimento psicológico e espiritual voluntário com a psicóloga <b>Renata Gouveia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Experiências Comunitárias",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-23T11:30:00-03:00",
+    "dataFim": "2027-05-23T12:45:00-03:00",
+    "descricao": "<p>Apresentação dos relatos de projetos do município com moderação de <b>Valéria Guimarães</b> e participação dos voluntários <b>Carlos Eduardo Santos</b> e <b>Solange Barros</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2027-05-23T12:45:00-03:00",
+    "dataFim": "2027-05-23T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Celebração de Envio e Bênção Final",
+    "lugar": "Nave da Matriz",
+    "dataInicio": "2027-05-23T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Missa em ação de graças e bênção de envio de todas as equipes de trabalho pelo <b>Padre Luciano Duarte</b> e pelo <b>Bispo Emérito Dom Geraldo Antunes</b>.</p>",
+    "secao": "Celebrações e Orações"
+   }
+  ]
+ }
+}

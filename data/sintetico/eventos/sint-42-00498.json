@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-42-00498",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "São Paulo - SP",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:31:11+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 2660
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Paulista de Cardiologia e Terapia Intensiva",
+   "local_geral": "Centro de Convenções Rebouças, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento dos Participantes",
+    "lugar": "Hall Central",
+    "dataInicio": "2026-05-15T07:30:00-03:00",
+    "dataFim": "2026-05-15T08:30:00-03:00",
+    "descricao": "<p>Retirada de crachás, pastas de material e orientações gerais do congresso.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora geral Dra. <b>Patrícia Vasconcellos Ramos</b> e o presidente da Sociedade Brasileira de Cardiologia Regional SP, Dr. <b>Marcelo Guimarães Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:15:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>A evolução crítica do suporte hemodinâmico invasivo em choque cardiogênico refratário dentro das unidades de terapia intensiva cardiológica modernas</i> pelo Prof. Dr. <b>Eduardo Brandão Fontes</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Exposições",
+    "dataInicio": "2026-05-15T10:15:00-03:00",
+    "dataFim": "2026-05-15T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 1",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Manejo agudo de síndromes coronarianas em idosos</i> com moderação de <b>Renata Alencar Peixoto</b> e participação de <b>Fábio Meirelles Costa</b> e <b>Camila Siqueira Gomes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Sala Cantareira",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T15:00:00-03:00",
+    "descricao": "<p>Apresentação oral sobre <i>Biomarcadores inflamatórios no prognóstico da insuficiência cardíaca crônica</i> com Dr. <b>Luciano Prado Ferraz</b> e mediação de <b>Beatriz Nogueira Duarte</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Workshop Prático A",
+    "lugar": "Laboratório de Simulação Realística",
+    "dataInicio": "2026-05-15T15:00:00-03:00",
+    "dataFim": "2026-05-15T17:00:00-03:00",
+    "descricao": "<p>Treinamento prático focado em ventilação mecânica avançada, conduzido pela fisioterapeuta intensivista Dra. <b>Larissa Mendonça Bueno</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Conferência de Fim de Tarde",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-15T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da palestra <i>Desafios contemporâneos na prevenção primária de eventos tromboembólicos associados à fibrilação atrial em pacientes oncológicos de alto risco</i> pelo médico cardiologista Dr. <b>Arthur Rezende Barreto</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T09:45:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Arritmias ventriculares complexas na emergência</i> apresentada pelo Prof. <b>Henrique Viana Paes</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer das Exposições",
+    "dataInicio": "2026-05-16T09:45:00-03:00",
+    "dataFim": "2026-05-16T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": "Sala Cantareira",
+    "dataInicio": "2026-05-16T10:15:00-03:00",
+    "dataFim": "2026-05-16T11:45:00-03:00",
+    "descricao": "<p>Discussão com foco em <i>Monitorização hemodinâmica não invasiva no paciente séptico</i> coordenada pela Dra. <b>Helena Mattos Caldeira</b> com presença do debatedor <b>Rodrigo Assis Toledo</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2026-05-16T11:45:00-03:00",
+    "dataFim": "2026-05-16T12:45:00-03:00",
+    "descricao": "<p>Avaliação dos trabalhos científicos com comissão julgadora coordenada por <b>Mariana Freitas Cunha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:45:00-03:00",
+    "dataFim": "2026-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Ultrassonografia Point-of-Care",
+    "lugar": "Laboratório de Simulação Realística",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T16:00:00-03:00",
+    "descricao": "<p>Atividade prática com manequins e modelos vivos conduzida por <b>Guilherme Dornelles Castro</b> e <b>Vanessa Ribeiro Tostes</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T16:00:00-03:00",
+    "dataFim": "2026-05-16T17:15:00-03:00",
+    "descricao": "<p>Apresentação sob o título <i>Integração de inteligência artificial aplicada ao diagnóstico precoce de descompensação cardiovascular em enfermarias gerais e leitos intensivos</i> ministrada pelo pesquisador Dr. <b>Tiago Albuquerque Rocha</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Premiação de Trabalhos Científicos",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas e prêmios da jornada pela coordenadora científica <b>Mariana Freitas Cunha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão organizadora presidida pela Dra. <b>Patrícia Vasconcellos Ramos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

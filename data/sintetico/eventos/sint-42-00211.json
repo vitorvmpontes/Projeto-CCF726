@@ -1,0 +1,366 @@
+{
+ "spec": {
+  "id": "sint-42-00211",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 5,
+  "n_atividades": 42,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:27+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 5895
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Nordeste 2023 - Congresso de Inovação e Sustentabilidade no Campo",
+   "local_geral": "Centro de Convenções de Pernambuco, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-14T08:00:00-03:00",
+    "dataFim": "2023-08-14T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-14T09:30:00-03:00",
+    "dataFim": "2023-08-14T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do secretário estadual <b>Carlos Cavalcanti</b> e da presidente da federação <b>Dra. Renata Lins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-14T10:45:00-03:00",
+    "dataFim": "2023-08-14T12:00:00-03:00",
+    "descricao": "<p>Palestra magna intitulada <i>O Papel Transformador das Tecnologias Disruptivas na Resiliência da Agricultura Familiar frente às Mudanças Climáticas Globais no Semiárido</i> ministrada por <b>Dr. Marcos Aurelio Fontes</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-14T12:00:00-03:00",
+    "dataFim": "2023-08-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-14T13:30:00-03:00",
+    "dataFim": "2023-08-14T15:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Conectividade no Campo e Internet das Coisas</i> com participação de <b>Eng. Lucas Mendonça</b> e mediação de <b>Silvia Peixoto</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Sala Boa Viagem",
+    "dataInicio": "2023-08-14T13:30:00-03:00",
+    "dataFim": "2023-08-14T17:00:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Mapeamento Aéreo com Drones para Monitoramento de Pragas</i> conduzida por <b>Mariana Siqueira</b>.</p>",
+    "secao": "Capacitações Práticas"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-14T15:30:00-03:00",
+    "dataFim": "2023-08-14T17:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Bioinsumos e a Nova Fronteira da Adubação Sustentável</i> apresentada por <b>Dr. Rogério Dantas</b> e <b>Aline Guimarães</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Vitrine de Agtechs",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2023-08-14T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das dez startups selecionadas para demonstração de protótipos sob curadoria de <b>Felipe Amorim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Demoday de Startups",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-08-15T08:30:00-03:00",
+    "dataFim": "2023-08-15T10:30:00-03:00",
+    "descricao": "<p>Pitch de soluções inovadoras diante de banca avaliadora composta por <b>Juliana Vasconcelos</b> e investidores convidados.</p>",
+    "secao": "Empreendedorismo e Negócios"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Brum",
+    "dataInicio": "2023-08-15T08:30:00-03:00",
+    "dataFim": "2023-08-15T10:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Rastreabilidade da Cadeia Produtiva da Fruticultura Irrigada</i> com <b>Paulo Sérgio Macedo</b> e <b>Beatriz Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café com Conexões",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-15T10:30:00-03:00",
+    "dataFim": "2023-08-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-15T11:00:00-03:00",
+    "dataFim": "2023-08-15T12:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Uso de Inteligência Artificial para Gestão Hídrica de Precisão em Bacias Hidrográficas do Nordeste</i> ministrada por <b>Prof. Fernando Gusmão</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Brum",
+    "dataInicio": "2023-08-15T11:00:00-03:00",
+    "dataFim": "2023-08-15T12:30:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Crédito de Carbono no Manejo Florestal e na Caatinga</i> com <b>Cláudia Albuquerque</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-15T12:30:00-03:00",
+    "dataFim": "2023-08-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2023-08-15T14:00:00-03:00",
+    "dataFim": "2023-08-15T16:00:00-03:00",
+    "descricao": "<p>Exibição dos trabalhos científicos aprovados. Coordenação técnica de <b>Dra. Eliane Torres</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Sala Boa Viagem",
+    "dataInicio": "2023-08-15T14:00:00-03:00",
+    "dataFim": "2023-08-15T17:30:00-03:00",
+    "descricao": "<p>Oficina intitulada <i>Desenvolvimento e Aplicação de Sensores de Baixo Custo para Mensuração Contínua da Umidade do Solo em Pequenas Propriedades</i> ministrada por <b>Guilherme Barreto</b>.</p>",
+    "secao": "Capacitações Práticas"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-08-15T16:00:00-03:00",
+    "dataFim": "2023-08-15T18:00:00-03:00",
+    "descricao": "<p>Encontro comercial entre cooperativas agrícolas e empresas fornecedoras de software sob organização de <b>Marcelo Uchôa</b>.</p>",
+    "secao": "Empreendedorismo e Negócios"
+   },
+   {
+    "nome": "Vitrine de Agtechs",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2023-08-15T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Segunda rodada de demonstração aberta de tecnologias desenvolvidas por startups regionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Sala Porto Digital",
+    "dataInicio": "2023-08-16T08:30:00-03:00",
+    "dataFim": "2023-08-16T12:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Análise de Dados Geoespaciais com Python para Agricultura</i> conduzido por <b>Tiago Ramos</b>.</p>",
+    "secao": "Capacitações Práticas"
+   },
+   {
+    "nome": "Painel Temático 3",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-16T09:00:00-03:00",
+    "dataFim": "2023-08-16T10:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Automação e Robótica na Pecuária de Leite</i> mediada por <b>Rodrigo Maia</b> com participação de <b>Carla Antunes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Café com Conexões",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-16T10:30:00-03:00",
+    "dataFim": "2023-08-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-16T11:00:00-03:00",
+    "dataFim": "2023-08-16T12:30:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Fintechs Agro e Novas Linhas de Financiamento Verde</i> ministrada pelo economista <b>Henrique Paiva</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-16T12:30:00-03:00",
+    "dataFim": "2023-08-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demoday de Startups",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-08-16T14:00:00-03:00",
+    "dataFim": "2023-08-16T16:00:00-03:00",
+    "descricao": "<p>Apresentação das fintechs e marketplaces rurais perante investidores-anjo, com moderação de <b>Vanessa Meira</b>.</p>",
+    "secao": "Empreendedorismo e Negócios"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2023-08-16T14:00:00-03:00",
+    "dataFim": "2023-08-16T16:00:00-03:00",
+    "descricao": "<p>Apresentação oral de resumos expandidos sobre irrigação de precisão e sanidade vegetal.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 4",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-16T16:30:00-03:00",
+    "dataFim": "2023-08-16T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Logística Reversa e Economia Circular no Agronegócio</i> com <b>Patrícia Galvão</b> e <b>Jorge Beltrão</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Happy Hour Rural",
+    "lugar": "Área Externa",
+    "dataInicio": "2023-08-16T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização informal e degustação de produtos de indústrias agroecológicas de Pernambuco.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 4",
+    "lugar": "Sala Boa Viagem",
+    "dataInicio": "2023-08-17T08:30:00-03:00",
+    "dataFim": "2023-08-17T11:30:00-03:00",
+    "descricao": "<p>Treinamento prático em <i>Gestão Financeira e Contábil para Cooperativas Agrícolas</i> com a consultora <b>Bruna Caldas</b>.</p>",
+    "secao": "Capacitações Práticas"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Brum",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T11:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Segurança Jurídica e Regularização Fundiária com Apoio de Geotecnologias</i> conduzida por <b>Dr. Daniel Aragão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café com Conexões",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-17T11:00:00-03:00",
+    "dataFim": "2023-08-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 4",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-17T11:30:00-03:00",
+    "dataFim": "2023-08-17T13:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Desafios e Oportunidades na Exportação de Frutas Tropicais Certificadas com Padrões Internacionais de Alta Sustentabilidade e Baixa Emissão de Carbono</i> ministrada por <b>Eduardo Brandão</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-17T13:00:00-03:00",
+    "dataFim": "2023-08-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Arena Sebrae",
+    "dataInicio": "2023-08-17T14:30:00-03:00",
+    "dataFim": "2023-08-17T17:00:00-03:00",
+    "descricao": "<p>Sessão de matchmaking para produtores e distribuidores de insumos biológicos coordenada por <b>Leandro Viana</b>.</p>",
+    "secao": "Empreendedorismo e Negócios"
+   },
+   {
+    "nome": "Oficina Técnica 5",
+    "lugar": "Sala Porto Digital",
+    "dataInicio": "2023-08-17T14:30:00-03:00",
+    "dataFim": "2023-08-17T18:00:00-03:00",
+    "descricao": "<p>Atividade voltada à <i>Modelagem Preditiva de Colheita de Cana-de-Açúcar</i> ministrada por <b>Fabiana Teles</b>.</p>",
+    "secao": "Capacitações Práticas"
+   },
+   {
+    "nome": "Vitrine de Agtechs",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2023-08-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição contínua e experimentação de soluções de biotecnologia agrícola aplicadas ao cultivo de cana e milho.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral de Produtores",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T10:00:00-03:00",
+    "descricao": "<p>Reunião aberta sob a liderança de <b>Otávio Carneiro</b> para debater pautas tributárias do agro regional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café com Conexões",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T10:00:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 5",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-18T10:30:00-03:00",
+    "dataFim": "2023-08-18T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Tendências e Sucessão Familiar no Agronegócio Nordestino</i> com <b>Camila Duarte</b> e <b>André Vilaça</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-18T12:00:00-03:00",
+    "dataFim": "2023-08-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Inovação Agro",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-18T13:30:00-03:00",
+    "dataFim": "2023-08-18T15:00:00-03:00",
+    "descricao": "<p>Anúncio das startups e pesquisadores vencedores das categorias Inovação Sustentável e Produtividade Rural, conduzido por <b>Dra. Renata Lins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2023-08-18T15:30:00-03:00",
+    "dataFim": "2023-08-18T17:00:00-03:00",
+    "descricao": "<p>Apresentação do documento final <i>Diretrizes Estratégicas para o Agro 4.0 no Nordeste Brasileiro</i> com <b>Dr. Marcos Aurelio Fontes</b> e convidados.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Coquetel Festivo de Encerramento",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2023-08-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

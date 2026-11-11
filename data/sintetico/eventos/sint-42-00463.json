@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-42-00463",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Vitória - ES",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:20+00:00",
+ "uso_tokens": {
+  "entrada": 648,
+  "saida": 1414
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Mostra Capixaba de Extensão Universitária",
+   "local_geral": "Campus de Goiabeiras - UFES, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Diálogos de Abertura",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>A universidade pública conectada aos territórios do Espírito Santo</i>. Participação dos coordenadores <b>Prof. Marcos Vinícius de Paula</b> e <b>Dra. Cecília Queiroz Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Banners 1",
+    "lugar": null,
+    "dataInicio": "2024-10-17T10:45:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos projetos da grande área de Saúde e Meio Ambiente. Avaliação conduzida por <b>Mariana Siqueira Rios</b> e <b>Dr. André Fagundes</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-10-17T12:30:00-03:00",
+    "dataFim": "2024-10-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Tenda Cultural",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Economia Solidária e Redes Agroecológicas em Vitória</i>, com mediação da bolsista <b>Lorena Vasconcelos</b> e relato de experiência por <b>Sr. José Ribamar</b>.</p>",
+    "secao": "Cultura e Comunidade"
+   },
+   {
+    "nome": "Intervenção Cultural",
+    "lugar": "Gramado Central",
+    "dataInicio": "2024-10-17T16:30:00-03:00",
+    "dataFim": "2024-10-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação musical: <i>Sons das Paneleiras e Tambores de Congo</i> com o grupo do mestre <b>Sebastião Farina</b>.</p>",
+    "secao": "Cultura e Comunidade"
+   },
+   {
+    "nome": "Oficina Temática",
+    "lugar": "Laboratório de Informática II",
+    "dataInicio": "2024-10-18T08:30:00-03:00",
+    "dataFim": "2024-10-18T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento Colaborativo de Vulnerabilidades Urbanas com QGIS</i>, ministrada por <b>Thiago Nogueira Gomes</b> e <b>Beatriz Brandão Castelo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Banners 2",
+    "lugar": null,
+    "dataInicio": "2024-10-18T10:45:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de Direitos Humanos, Educação e Tecnologia Social, sob coordenação de <b>Profa. Helena Bittencourt</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Curricularização da Extensão: Desafios e Práticas no Ensino Superior</i>. Debatedores convidados: <b>Prof. Gilberto Arantes Cruz</b> e <b>Renata Magalhães Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Destaque Extensionista 2024 conduzida pelo pró-reitor <b>Prof. Antônio Calmon Soares</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

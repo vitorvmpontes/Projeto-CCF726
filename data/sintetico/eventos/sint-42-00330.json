@@ -1,0 +1,222 @@
+{
+ "spec": {
+  "id": "sint-42-00330",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 24,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "atividades_paralelas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:23+00:00",
+ "uso_tokens": {
+  "entrada": 675,
+  "saida": 3327
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado das CPAs de Pernambuco",
+   "local_geral": "Campus Recife da Universidade Federal de Pernambuco (UFPE), Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall do Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T08:00:00-03:00",
+    "dataFim": "2023-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T09:00:00-03:00",
+    "dataFim": "2023-05-18T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do reitor <b>Alfredo Macedo Gomes</b> e da coordenadora geral da CPA <b>Maria Eduarda Pessoa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T09:45:00-03:00",
+    "dataFim": "2023-05-18T10:45:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>O Papel Transformador da Autoavaliação Institucional no Contexto Pós-Pandemia</i> ministrada pelo Prof. Dr. <b>Claudio Roberto Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento Cultural e Intervalo",
+    "lugar": "Hall do Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T10:45:00-03:00",
+    "dataFim": "2023-05-18T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T11:15:00-03:00",
+    "dataFim": "2023-05-18T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Instrumentos Avaliativos do SINAES e a Realidade das IES Públicas e Privadas</i> com <b>Renata Albuquerque Viana</b> e <b>Marcio Vinicius Sobral</b>. Mediação de <b>Taciana Barreto</b>.</p>",
+    "secao": "Painéis Institucionais"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-05-18T12:30:00-03:00",
+    "dataFim": "2023-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T16:00:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Elaboração de Relatórios de Autoavaliação com Business Intelligence</i> conduzida por <b>Juliana Falcão Rios</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Reuniões da Reitoria",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T16:00:00-03:00",
+    "descricao": "<p>Debate e dinâmica sobre <i>Estratégias de Engajamento Estudantil na Avaliação Institucional</i> com <b>Bruno de Medeiros Wanderley</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Miniauditório 1",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T16:00:00-03:00",
+    "descricao": "<p>Capacitação focada em <i>Indicadores de Gestão e Tomada de Decisão Universitária</i> apresentada por <b>Carla Silveira Dias</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2023-05-18T16:00:00-03:00",
+    "dataFim": "2023-05-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "GT 1 - Autoavaliação e Corpo Docente",
+    "lugar": "Sala 102 - Bloco A",
+    "dataInicio": "2023-05-18T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação e compartilhamento de relatos de experiência sob coordenação de <b>Patrícia Regina Lima</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "GT 2 - Transparência e Devolutiva à Comunidade",
+    "lugar": "Sala 104 - Bloco A",
+    "dataInicio": "2023-05-18T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão temática moderada por <b>Thiago Barbosa Cavalcanti</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Hall do Centro de Ciências Sociais Aplicadas",
+    "dataInicio": "2023-05-19T08:30:00-03:00",
+    "dataFim": "2023-05-19T09:30:00-03:00",
+    "descricao": "<p>Exposição de boas práticas avaliativas elaboradas por membros de comissões setoriais e pesquisadores institucionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-19T09:30:00-03:00",
+    "dataFim": "2023-05-19T10:45:00-03:00",
+    "descricao": "<p>Exposição sobre <i>A Inclusão e a Acessibilidade nos Questionários da CPA</i> com os debatedores <b>Lucas Queiroz Noronha</b> e <b>Sofia Mendes Gusmão</b>.</p>",
+    "secao": "Painéis Institucionais"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2023-05-19T10:45:00-03:00",
+    "dataFim": "2023-05-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Experiências Institucionais",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-19T11:15:00-03:00",
+    "dataFim": "2023-05-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação das práticas <i>Metodologias Participativas na Pesquisa de Clima Organizacional</i> por <b>Gabriel Fontes Esteves</b> e <i>Desafios da Coleta em Cursos EAD</i> por <b>Helena Moreira Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2023-05-19T12:30:00-03:00",
+    "dataFim": "2023-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": "Miniauditório 1",
+    "dataInicio": "2023-05-19T14:00:00-03:00",
+    "dataFim": "2023-05-19T15:30:00-03:00",
+    "descricao": "<p>Encontro de lideranças estudantis e representantes das comissões setoriais mediado por <b>Larissa Danielle Tavares</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Roda de Conversa Técnico-Administrativa",
+    "lugar": "Miniauditório 2",
+    "dataInicio": "2023-05-19T14:00:00-03:00",
+    "dataFim": "2023-05-19T15:30:00-03:00",
+    "descricao": "<p>Articulação de demandas do corpo técnico-administrativo com mediação de <b>Rodrigo Farias Castelo Branco</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Espaço de Integração",
+    "lugar": null,
+    "dataInicio": "2023-05-19T15:30:00-03:00",
+    "dataFim": "2023-05-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Procuradores Educacionais Institucionais",
+    "lugar": "Sala de Reuniões da Reitoria",
+    "dataInicio": "2023-05-19T16:00:00-03:00",
+    "dataFim": "2023-05-19T17:15:00-03:00",
+    "descricao": "<p>Alinhamento técnico sobre a regulamentação do ciclo do INEP conduzido por <b>Fernando Augusto Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-19T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura e aprovação da <i>Carta de Recomendações das CPAs 2023</i> sob relatoria de <b>Amanda Correia Lins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Oficial",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-19T18:00:00-03:00",
+    "dataFim": "2023-05-19T18:30:00-03:00",
+    "descricao": "<p>Agradecimentos finais da comissão organizadora presidida por <b>Maria Eduarda Pessoa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": null,
+    "dataInicio": "2023-05-19T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

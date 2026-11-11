@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-42-00377",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Niterói - RJ",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "nomes_repetidos",
+   "intervalos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:50+00:00",
+ "uso_tokens": {
+  "entrada": 680,
+  "saida": 1850
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova Niterói 2027: Seminário Fluminense de Tecnologia e Sustentabilidade no Campo",
+   "local_geral": "Centro de Convenções da Universidade Federal Fluminense (UFF), Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-18T09:00:00-03:00",
+    "dataFim": "2027-05-18T10:00:00-03:00",
+    "descricao": "<p>Apresentação inaugural sobre <i>A Revolução da Agricultura de Precisão na Região Sudeste</i>, conduzida pelo Dr. <b>Marcos Aurélio Silveira</b> com mediação de <b>Renata Peçanha</b>.</p>",
+    "secao": "Sessão Plenária"
+   },
+   {
+    "nome": "Pitch de Startups Agro",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2027-05-18T10:00:00-03:00",
+    "dataFim": "2027-05-18T11:00:00-03:00",
+    "descricao": "<p>Apresentação rápida de soluções emergentes no agronegócio. Rodada 1 com avaliação técnica conduzida por <b>Juliana Vianna</b> e <b>Bruno Falcão</b>.</p>",
+    "secao": "Circuito Tech Agro"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-05-18T11:00:00-03:00",
+    "dataFim": "2027-05-18T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Geotecnologia",
+    "dataInicio": "2027-05-18T11:30:00-03:00",
+    "dataFim": "2027-05-18T13:00:00-03:00",
+    "descricao": "<p>Treinamento prático sob o tema <i>Uso de VANTs e Drones no Monitoramento de Lavouras</i>, ministrado pelo engenheiro agrônomo <b>Tiago Lins</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 102 - Bloco Agronomia",
+    "dataInicio": "2027-05-18T11:30:00-03:00",
+    "dataFim": "2027-05-18T13:00:00-03:00",
+    "descricao": "<p>Capacitação técnica focada em <i>Mapeamento de Solo com Sensores IoT</i>, facilitada pela Profa. Dra. <b>Carolina Meirelles</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-18T13:00:00-03:00",
+    "dataFim": "2027-05-18T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-18T14:30:00-03:00",
+    "dataFim": "2027-05-18T15:45:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Crédito Verde e Transição Ecológica no Agronegócio Fluminense</i>, reunindo <b>Sérgio Ramos Prado</b>, <b>Camila Bittencourt</b> e moderação de <b>Fernando Barreto</b>.</p>",
+    "secao": "Sessão Plenária"
+   },
+   {
+    "nome": "Pitch de Startups Agro",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2027-05-18T15:45:00-03:00",
+    "dataFim": "2027-05-18T16:45:00-03:00",
+    "descricao": "<p>Apresentação rápida de soluções emergentes no agronegócio. Rodada 2 com banca composta por <b>Luciana Esteves</b> e <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Circuito Tech Agro"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-05-18T16:45:00-03:00",
+    "dataFim": "2027-05-18T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-18T17:15:00-03:00",
+    "dataFim": "2027-05-18T18:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Bioinsumos e Soluções Regenerativas para Pequenos e Médios Produtores</i>, com <b>Patrícia Nogueira</b>, <b>Gustavo Furtado</b> e o pesquisador <b>Eduardo Chagas</b>.</p>",
+    "secao": "Sessão Plenária"
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-18T18:30:00-03:00",
+    "dataFim": "2027-05-18T19:30:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do desafio de inovação e encerramento oficial pelo coordenador-geral <b>Rogério Toledo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

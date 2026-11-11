@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00487",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Londrina - PR",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:19+00:00",
+ "uso_tokens": {
+  "entrada": 633,
+  "saida": 1290
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Londrinense de Professores da Educação Básica",
+   "local_geral": "Centro de Educação, Comunicação e Artes - UEL, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada do Bloco B",
+    "dataInicio": "2027-05-14T07:30:00-03:00",
+    "dataFim": "2027-05-14T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Desafios da Docência Contemporânea: Práticas Pedagógicas e Inclusão na Escola Pública</i>, ministrada pela Profa. Dra. <b>Helena Vasconcelos de Alencar</b>, com mediação do Prof. Me. <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café com Prosa",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2027-05-14T10:00:00-03:00",
+    "dataFim": "2027-05-14T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-14T10:30:00-03:00",
+    "dataFim": "2027-05-14T12:00:00-03:00",
+    "descricao": "<p>Atividade prática com foco no tema <i>Letramento Digital e Recursos Educacionais Abertos no Ensino Fundamental</i>, conduzida pelo formador <b>Rogério Farias Mendes</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-14T12:00:00-03:00",
+    "dataFim": "2027-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala de Multimeios 102",
+    "dataInicio": "2027-05-14T13:30:00-03:00",
+    "dataFim": "2027-05-14T15:30:00-03:00",
+    "descricao": "<p>Oficina interativa abordando <i>Estratégias de Leitura e Escrita nos Anos Iniciais: Da Teoria à Sala de Aula</i>, com a Profa. Esp. <b>Mariana Bastos Guedes</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa Temática",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2027-05-14T15:45:00-03:00",
+    "dataFim": "2027-05-14T17:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Saúde Emocional Docente e Redes de Apoio no Cotidiano Escolar</i>, mediada pela psicóloga escolar <b>Camila Zanin Ribeiro</b> e com a participação dos professores <b>Jorge Luiz Fontes</b> e <b>Sílvia Regina Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária e Encerramento Cultural",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2027-05-14T17:15:00-03:00",
+    "dataFim": "2027-05-14T18:00:00-03:00",
+    "descricao": "<p>Apresentação da síntese dos trabalhos com a coordenadora geral <b>Renata Albuquerque Neves</b> e apresentação musical do coral de estudantes <i>Vozes do Amanhã</i>, sob regência do maestro <b>Tiago Benevides</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

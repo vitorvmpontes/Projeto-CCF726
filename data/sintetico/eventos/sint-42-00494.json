@@ -1,0 +1,59 @@
+{
+ "spec": {
+  "id": "sint-42-00494",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "João Pessoa - PB",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:41+00:00",
+ "uso_tokens": {
+  "entrada": 658,
+  "saida": 734
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Paraíba 2027",
+   "local_geral": "Centro de Convenções Poeta Ronaldo Cunha Lima, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae Delas",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Como estruturar modelos escaláveis de negócios digitais utilizando metodologias ágeis em micro e pequenas empresas regionais nordestinas</i>, conduzida por <b>Mariana Vasconcelos</b> e mediada por <b>Rodrigo Albuquerque</b>.</p>",
+    "secao": "Ciclo de Capacitações"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Treinamento 3",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": "<p>Atividade imersiva com foco em <i>Estratégias avançadas de precificação sustentável e formação assertiva do fluxo de caixa operacional para empreendimentos emergentes</i>, ministrada pelo consultor financeiro <b>Danilo Tavares</b>.</p>",
+    "secao": "Ciclo de Capacitações"
+   },
+   {
+    "nome": "Rodada de Negócios Multissetorial",
+    "lugar": "Espaço Conexões Corporativas",
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Reuniões estratégicas bilaterais de networking entre produtores locais e compradores atacadistas, facilitada por <b>Larissa Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Plenária Principal",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Apresentação especial com <b>Cláudia Guimarães</b> debatendo sobre <i>Liderança humanizada e inteligência artificial aplicada à gestão eficiente do atendimento ao cliente no varejo contemporâneo</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

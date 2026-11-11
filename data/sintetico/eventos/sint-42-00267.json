@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-42-00267",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Santa Maria - RS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:42+00:00",
+ "uso_tokens": {
+  "entrada": 680,
+  "saida": 2706
+ },
+ "saida": {
+  "evento": {
+   "nome": "Calourada Integrada da UFSM 2025",
+   "local_geral": "Campus Sede da UFSM, Camobi, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Kits",
+    "lugar": "Hall do Centro de Convenções",
+    "dataInicio": "2025-03-10T08:00:00-03:00",
+    "dataFim": "2025-03-10T09:30:00-03:00",
+    "descricao": "<p>Recepção dos novos estudantes com entrega do kit bixo e orientações gerais pela coordenadora acadêmica <b>Mariana Dorneles</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Solenidade de Boas-Vindas",
+    "lugar": "Auditório Central do Centro de Convenções",
+    "dataInicio": "2025-03-10T09:30:00-03:00",
+    "dataFim": "2025-03-10T11:00:00-03:00",
+    "descricao": "<p>Mensagem da reitoria e apresentação da estrutura universitária com o reitor <b>Luciano Schuch</b> e a pró-reitora <b>Cristina Nogueira</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": "Ponto de Encontro: Largo do Planetário",
+    "dataInicio": "2025-03-10T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Reconhecimento dos principais prédios didáticos, bibliotecas e serviços de saúde, guiado pelo estudante veterano <b>Rodrigo Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Coletivo no RU",
+    "lugar": "Restaurante Universitário I",
+    "dataInicio": "2025-03-10T12:00:00-03:00",
+    "dataFim": "2025-03-10T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Anfiteatro do Prédio 74C",
+    "dataInicio": "2025-03-10T14:00:00-03:00",
+    "dataFim": "2025-03-10T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Vivências periféricas e permanência estudantil na universidade pública</i>. Mediação de <b>Laura Fagundes</b> com relatos dos convidados <b>Matheus Pires</b> e <b>Jéssica Alencar</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do CCR",
+    "dataInicio": "2025-03-10T14:00:00-03:00",
+    "dataFim": "2025-03-10T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Inovação, ciência e o futuro da pesquisa gaúcha</i>. Apresentação conduzida pelo pesquisador <b>Otávio Portella</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 3 do CE",
+    "dataInicio": "2025-03-10T16:00:00-03:00",
+    "dataFim": "2025-03-10T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desbravando o Portal do Aluno e o Moodle sem pânico</i>. Ministrada pela técnica em TI <b>Cláudia Beltrame</b>.</p>",
+    "secao": "Oficinas de Formação"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Biblioteca Central - Sala Multiuso",
+    "dataInicio": "2025-03-10T16:00:00-03:00",
+    "dataFim": "2025-03-10T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Pesquisa bibliográfica e normalização básica de trabalhos</i>, com os bibliotecários <b>Tiago Ramos</b> e <b>Bárbara Flores</b>.</p>",
+    "secao": "Oficinas de Formação"
+   },
+   {
+    "nome": "Mostra de Entidades Estudantis",
+    "lugar": "Gare da Estação / Espaço Multiuso",
+    "dataInicio": "2025-03-10T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das atléticas, empresas juniores, coletivos e DAs sob coordenação de <b>Felipe Meneghetti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Festival de Música Autoral",
+    "lugar": "Palco do DCE (Praça Central)",
+    "dataInicio": "2025-03-10T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentações musicais com bandas formadas por estudantes e intervenções poéticas de <b>Camila Zanin</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Gincana de Integração",
+    "lugar": "Pista Multiuso do CEFD",
+    "dataInicio": "2025-03-11T08:30:00-03:00",
+    "dataFim": "2025-03-11T11:00:00-03:00",
+    "descricao": "<p>Jogos recreativos, arrecadação de alimentos e desafios cooperativos organizados pelos professores <b>Marcelo Freitas</b> e <b>Patrícia Weimer</b>.</p>",
+    "secao": "Atividades Integrativas"
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": "Ponto de Encontro: Prédio da Reitoria",
+    "dataInicio": "2025-03-11T10:00:00-03:00",
+    "dataFim": "2025-03-11T11:30:00-03:00",
+    "descricao": "<p>Segunda edição do circuito de visitas guiadas, voltado a alunos que ingressaram no turno vespertino e noturno, acompanhado por <b>Renata Becker</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Piquenique Solidário",
+    "lugar": "Bosque dos Ipês",
+    "dataInicio": "2025-03-11T12:00:00-03:00",
+    "dataFim": "2025-03-11T13:30:00-03:00",
+    "descricao": null,
+    "secao": "Atividades Integrativas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Espaço Coworking da Agittec",
+    "dataInicio": "2025-03-11T14:00:00-03:00",
+    "dataFim": "2025-03-11T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Saúde mental e os desafios da transição para o ensino superior</i>. Conduzida pela psicóloga <b>Helena Vasconcellos</b> com apoio do assistente social <b>Diego Prado</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Salão Nobre do CT",
+    "dataInicio": "2025-03-11T15:30:00-03:00",
+    "dataFim": "2025-03-11T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Oportunidades internacionais: intercâmbios e redes de cooperação global</i>, proferida pelo professor <b>Eduardo Marchezan</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Trote Solidário e Plantio de Árvores",
+    "lugar": "Área Verde do Jardim Botânico da UFSM",
+    "dataInicio": "2025-03-11T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Ação socioambiental de recepção aos calouros com plantio de mudas nativas, orientada pelo engenheiro florestal <b>Guilherme Antunes</b>.</p>",
+    "secao": "Atividades Integrativas"
+   },
+   {
+    "nome": "Festival de Música Autoral",
+    "lugar": "Palco do DCE (Praça Central)",
+    "dataInicio": "2025-03-11T18:00:00-03:00",
+    "dataFim": "2025-03-11T20:30:00-03:00",
+    "descricao": "<p>Segunda noite do festival com premiação das composições vencedoras e pocket show acústico da cantora <b>Valéria Soares</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Luau de Confraternização",
+    "lugar": "Gramado em frente ao Planetário",
+    "dataInicio": "2025-03-11T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento festivo e espaço aberto de integração comunitária organizado pela gestão estudantil de <b>Gabriel Siqueira</b>.</p>",
+    "secao": "Programação Cultural"
+   }
+  ]
+ }
+}

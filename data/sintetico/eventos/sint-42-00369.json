@@ -1,0 +1,236 @@
+{
+ "spec": {
+  "id": "sint-42-00369",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 26,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:32+00:00",
+ "uso_tokens": {
+  "entrada": 661,
+  "saida": 3707
+ },
+ "saida": {
+  "evento": {
+   "nome": "InovaAgro Zona da Mata 2024",
+   "local_geral": "Centro de Convenções Expominas Juiz de Fora, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Campo Limpo",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T09:40:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença de <b>Rodrigo Junqueira</b> (FAEMG) e <b>Cláudia Meireles</b> (Embrapa Gado de Leite).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Campo Limpo",
+    "dataInicio": "2024-05-15T09:45:00-03:00",
+    "dataFim": "2024-05-15T11:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>O Futuro da Pecuária de Precisão e Descarbonização no Brasil Central</i>, conduzida por <b>Dr. Marcelo Rezende</b> e <b>Dra. Simone Alvarenga</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Momento Conexão e Café",
+    "lugar": null,
+    "dataInicio": "2024-05-15T11:00:00-03:00",
+    "dataFim": "2024-05-15T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Agtechs",
+    "lugar": "Arena Inovação Aberta",
+    "dataInicio": "2024-05-15T11:30:00-03:00",
+    "dataFim": "2024-05-15T12:45:00-03:00",
+    "descricao": "<p>Apresentação de soluções rápidas por startups mineiras sob avaliação do jurado <b>Lucas Pignataro</b>.</p>",
+    "secao": "Circuito de Startups"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:45:00-03:00",
+    "dataFim": "2024-05-15T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala Ágata",
+    "dataInicio": "2024-05-15T14:15:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>Calibragem de Sensores IoT para Manejo Hídrico na Cafeicultura</i>, ministrada pelo engenheiro agrônomo <b>Tiago Fontoura</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala Turmalina",
+    "dataInicio": "2024-05-15T14:15:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Drones Multiespectrais para Detecção Antecipada de Pragas</i>, conduzido por <b>Fabiana Vasconcelos</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": null,
+    "dataInicio": "2024-05-15T16:15:00-03:00",
+    "dataFim": "2024-05-15T17:30:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Bioinsumos e Regeneração do Solo: Casos Reais na Zona da Mata</i> pelo pesquisador <b>Otávio Bicalho</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Demoday Regional",
+    "lugar": "Arena Inovação Aberta",
+    "dataInicio": "2024-05-15T17:30:00-03:00",
+    "dataFim": "2024-05-15T18:45:00-03:00",
+    "descricao": "<p>Apresentação final de projetos de inovação aberta acelerados no polo Juiz de Fora. Mediação de <b>Camila Duarte</b>.</p>",
+    "secao": "Circuito de Startups"
+   },
+   {
+    "nome": "Mostra de Tecnologias Sociais no Campo",
+    "lugar": "Espaço AgroConecta",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Exibição comentada de soluções sustentáveis para agricultura familiar. Curadoria de <b>Mariana Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Campo Limpo",
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T11:30:00-03:00",
+    "descricao": "<p>Mesa com especialistas abordando <i>Desafios da Conectividade 5G em Áreas Remotas e Agroflorestas</i>, reunindo <b>Sérgio Linhares</b> e <b>Beatriz Brandão</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Momento Conexão e Café",
+    "lugar": null,
+    "dataInicio": "2024-05-16T11:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Agtechs",
+    "lugar": "Arena Inovação Aberta",
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:00:00-03:00",
+    "descricao": "<p>Segunda rodada de apresentações rápidas de soluções voltadas para laticínios sustentáveis com mentoria de <b>Renato Vilela</b>.</p>",
+    "secao": "Circuito de Startups"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T13:00:00-03:00",
+    "dataFim": "2024-05-16T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala Ágata",
+    "dataInicio": "2024-05-16T14:30:00-03:00",
+    "dataFim": "2024-05-16T16:30:00-03:00",
+    "descricao": "<p>Exercício prático sobre <i>Inteligência Artificial Aplicada à Rastreabilidade da Cadeia Leiteira</i>, com <b>Patrícia Albuquerque</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": null,
+    "dataInicio": "2024-05-16T16:30:00-03:00",
+    "dataFim": "2024-05-16T17:45:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos de pós-graduação da UFJF e UFV. Coordenação da professora <b>Helena Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Campo Limpo",
+    "dataInicio": "2024-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do estudo <i>Créditos de Carbono: Viabilidade Financeira para Pequenas e Médias Propriedades</i> pelo consultor <b>Gustavo Nogueira</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Clínica Tecnológica",
+    "lugar": "Espaço AgroConecta",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Atendimento individualizado para produtores rurais sobre transição agroecológica orientado por <b>João Gabriel Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala Ágata",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Treinamento focado em <i>Gestão de Custos e Métricas Produtivas via Softwares em Nuvem</i> com o instrutor <b>Vinícius Guimarães</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Momento Conexão e Café",
+    "lugar": null,
+    "dataInicio": "2024-05-17T11:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios e Parcerias",
+    "lugar": "Espaço AgroConecta",
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": "<p>Encontro bilateral entre cooperativas agrícolas e investidores privados sob mediação de <b>Fernanda Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Campo Limpo",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T15:45:00-03:00",
+    "descricao": "<p>Explanação sobre <i>Robótica Móvel Autônoma para Colheita em Topografia Acidentada</i> pelo pesquisador <b>Danilo Sampaio</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Campo Limpo",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T17:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas de Fomento à Inovação no Campo Mineiro</i> reunindo <b>Elisa Carvalho</b> e <b>Henrique Valadares</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Auditório Campo Limpo",
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos vencedores do Prêmio AgroInovador 2024 apresentado por <b>Rodrigo Junqueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

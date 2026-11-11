@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-42-00483",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:59+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 1225
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Cerrado Brasília 2025",
+   "local_geral": "Parque da Cidade Sarah Kubitschek, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Feira de Produtores",
+    "lugar": null,
+    "dataInicio": "2025-06-14T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Início da circulação livre com produtores artesanais da região Centro-Oeste e quiosques gastronômicos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-06-14T11:00:00-03:00",
+    "dataFim": "2025-06-14T12:15:00-03:00",
+    "descricao": "<p>Apresentação culinária <i>O Uso Criativo do Baru e Pequi na Cozinha Contemporânea</i>, ministrada pela Chef <b>Helena Ramos</b>.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Degustação Guiada",
+    "lugar": null,
+    "dataInicio": "2025-06-14T12:30:00-03:00",
+    "dataFim": "2025-06-14T13:30:00-03:00",
+    "descricao": "<p>Sessão sensorial <i>Cafés Especiais e Queijos Artesanais do Planalto Central</i>, conduzida pelo mestre queijeiro <b>Paulo Guimarães</b> e pela barista <b>Carla Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Espaço Cozinha Raiz",
+    "dataInicio": "2025-06-14T14:00:00-03:00",
+    "dataFim": "2025-06-14T15:15:00-03:00",
+    "descricao": "<p>Preparo ao vivo do prato <i>Peixes Fluviais Marinados em Frutas Nativas</i>, apresentado pelo Chef <b>Marcelo Duarte</b>.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Jatobá",
+    "dataInicio": "2025-06-14T15:30:00-03:00",
+    "dataFim": "2025-06-14T17:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Sustentabilidade e Valorização da Cadeia Produtiva do Cerrado</i>, com a participação de <b>Dra. Simone Alencar</b>, <b>Carlos Meireles</b> e moderação de <b>Renata Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-06-14T17:30:00-03:00",
+    "dataFim": "2025-06-14T18:45:00-03:00",
+    "descricao": "<p>Demonstração de sobremesas autorais intitulada <i>Doces Memórias: Da Cagaita ao Buriti</i>, com o confeiteiro <b>Rodrigo Beltrão</b>.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Oficina de Coquetelaria",
+    "lugar": null,
+    "dataInicio": "2025-06-14T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Prática de criação com o workshop <i>Mixologia Brasileira: Drinques Autorais com Cachaças do DF</i>, orientada pelo mixologista <b>Felipe Fontana</b>.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Show Musical de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-06-14T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical ao vivo com o grupo instrumental <b>Trio Cerrado Groove</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

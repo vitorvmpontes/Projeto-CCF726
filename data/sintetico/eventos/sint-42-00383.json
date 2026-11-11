@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-42-00383",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Niterói - RJ",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:20+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 1613
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores de Niterói 2024",
+   "local_geral": "Reserva Cultural de Niterói, São Domingos"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial dos Pavilhões Gastronômicos",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-05-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Boas-vindas com o curador gastronômico <b>Chef Rodrigo Werner</b> e autoridades locais, marcando o início da circulação pelos estandes de produtores da Região Metropolitana.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Panificação Artesanal",
+    "lugar": "Cozinha-Escola 1",
+    "dataInicio": "2024-05-17T18:30:00-03:00",
+    "dataFim": "2024-05-17T20:00:00-03:00",
+    "descricao": "<p>Técnicas de fermentação natural aplicadas ao cotidiano com o mestre padeiro <b>Lucas Figueiredo</b>.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Auditório Nelson Pereira dos Santos",
+    "dataInicio": "2024-05-17T20:30:00-03:00",
+    "dataFim": "2024-05-17T22:00:00-03:00",
+    "descricao": "<p>Apresentação ao vivo com a <i>chef</i> <b>Roberta Sudbrack</b> explorando ingredientes da Baía de Guanabara.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática de Panificação Artesanal",
+    "lugar": "Cozinha-Escola 2",
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T12:00:00-03:00",
+    "descricao": "<p>Segunda turma da atividade de fermentação lenta com farinhas nacionais, conduzida pelo instrutor <b>Lucas Figueiredo</b>.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Sala Multiuso",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Apresentação do trabalho <i>O Resgate Histórico das Práticas Tradicionais da Pesca Artesanal Fluminense e sua Relevância Direta para a Sustentabilidade dos Ecossistemas Marinhos Locais</i>, com o pesquisador <b>Dr. Marcelo Antunes</b> e a bióloga <b>Carla Mendonça</b>.</p>",
+    "secao": "Painéis Teóricos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Sala Multiuso",
+    "dataInicio": "2024-05-18T16:00:00-03:00",
+    "dataFim": "2024-05-18T17:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Inovações Tecnológicas Aplicadas à Redução do Desperdício de Alimentos em Restaurantes de Pequeno e Médio Porte no Estado do Rio</i>, apresentada pela consultora <b>Mariana Rios</b>.</p>",
+    "secao": "Painéis Teóricos"
+   },
+   {
+    "nome": "Degustação Guiada de Cervejas Artesanais Fluminenses",
+    "lugar": "Espaço Harmonização",
+    "dataInicio": "2024-05-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão sensorial comentada pela sommelier <b>Beatriz Valença</b> com rótulos premiados do polo cervejeiro de Niterói.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Auditório Nelson Pereira dos Santos",
+    "dataInicio": "2024-05-19T11:00:00-03:00",
+    "dataFim": "2024-05-19T12:30:00-03:00",
+    "descricao": "<p>O <i>chef</i> <b>Pedro de Artagão</b> prepara releituras contemporâneas de clássicos da culinária caiçara fluminense.</p>",
+    "secao": "Aulas-Show e Oficinas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Sala Multiuso",
+    "dataInicio": "2024-05-19T14:30:00-03:00",
+    "dataFim": "2024-05-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação de <i>Caminhos para o Fortalecimento da Agricultura Familiar Urbana e o Abastecimento Sustentável dos Polos Gastronômicos nas Cidades Litorâneas do Rio</i> com os agrônomos <b>Fernando Silveira</b> e <b>Tatiana Meireles</b>.</p>",
+    "secao": "Painéis Teóricos"
+   },
+   {
+    "nome": "Roda de Conversa e Encerramento Festivo",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-05-19T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate aberto mediado por <b>Chef Rodrigo Werner</b> com participação de produtores e chefs convidados, seguido de cortejo musical.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "spec": {
+  "id": "sint-42-00044",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Viçosa - MG",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:40+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 1404
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro de Fé e Ação Comunitária da Zona da Mata",
+   "local_geral": "Centro Pastoral São João Batista, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Celebração Ecumênica de Abertura",
+    "lugar": "Nave Central da Matriz",
+    "dataInicio": "2025-05-16T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Acolhida inicial com momento de oração conduzido pelo <b>Padre Marcos Aurélio de Souza</b> e pela <b>Pastora Elisângela Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oração Matinal e Cânticos",
+    "lugar": "Capela Menor",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T08:45:00-03:00",
+    "descricao": "<p>Meditação matinal animada pelo <b>Coral Vozes da Esperança</b>, sob regência de <b>Clarice Mendes de Oliveira</b>.</p>",
+    "secao": "Momentos de Espiritualidade"
+   },
+   {
+    "nome": "Oficina de Hortas Comunitárias e Sustentabilidade",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Capacitação prática com foco no tema <i>Cuidar da Casa Comum: Práticas Agroecológicas nos Bairros</i>, facilitada por <b>Rodrigo Peixoto Valente</b> e <b>Irmã Teresa Cristina Brandão</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Escuta Ativa e Apoio Emocional",
+    "lugar": "Sala 3",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Formação pastoral baseada no projeto <i>Ouvir para Acolher: Cuidado em Saúde Mental nas Paróquias</i>, ministrada pela psicóloga <b>Camila Siqueira Neves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Almoço Solidário e Partilha",
+    "lugar": "Refeitório Comunitário",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Círculo de Diálogo e Troca de Saberes",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2025-05-17T14:30:00-03:00",
+    "dataFim": "2025-05-17T17:00:00-03:00",
+    "descricao": "<p>Debate comunitário sobre <i>Desafios da Juventude e Vulnerabilidade Social na Zona da Mata</i>, moderado pelo assistente social <b>Lucas Fernando Pires</b> com depoimentos de <b>Renata Gonçalves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural e Sarau Comunitário",
+    "lugar": "Auditório Dom Viçoso",
+    "dataInicio": "2025-05-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentações artísticas populares com declamação de poesias por <b>Benedito de Assis Filho</b> e música ao vivo com o violeiro <b>Sebastião Vilela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Caminhada da Fraternidade",
+    "lugar": "Concentração em frente à Matriz",
+    "dataInicio": "2025-05-18T08:30:00-03:00",
+    "dataFim": "2025-05-18T10:00:00-03:00",
+    "descricao": "<p>Percurso pelas ruas centrais com mensagens de paz e cidadania, organizado por <b>Mariana Freitas Coutinho</b>.</p>",
+    "secao": "Momentos de Espiritualidade"
+   },
+   {
+    "nome": "Missa Solene em Ação de Graças",
+    "lugar": "Nave Central da Matriz",
+    "dataInicio": "2025-05-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração eucarística de encerramento presidida pelo <b>Bispo Geraldo Magela Chaves</b> com homilia sob o tema <i>Serviço, Unidade e Esperança para Nossa Gente</i>.</p>",
+    "secao": "Momentos de Espiritualidade"
+   }
+  ]
+ }
+}

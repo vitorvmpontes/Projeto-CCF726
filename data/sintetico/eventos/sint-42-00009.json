@@ -1,0 +1,132 @@
+{
+ "spec": {
+  "id": "sint-42-00009",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Campo Grande - MS",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:02+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 2062
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Sul-Mato-Grossense de Professores da Educação Básica",
+   "local_geral": "Centro de Convenções Arquiteto Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2027-05-13T08:00:00-03:00",
+    "dataFim": "2027-05-13T09:00:00-03:00",
+    "descricao": "<p>Recepção dos participantes e retirada dos materiais institucionais com a comissão organizadora liderada por <b>Patrícia Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2027-05-13T09:15:00-03:00",
+    "dataFim": "2027-05-13T11:45:00-03:00",
+    "descricao": "<p>Discussão inicial sobre o tema <i>Desafios Curriculares e Práticas Pedagógicas no Centro-Oeste</i>, conduzida pelo Prof. Dr. <b>Carlos Eduardo Guimarães</b> e comentada pela Profa. Dra. <b>Miriam Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2027-05-13T14:00:00-03:00",
+    "dataFim": "2027-05-13T17:00:00-03:00",
+    "descricao": "<p>Práticas ativas voltadas aos Anos Iniciais com a oficina <i>Alfabetização e Letramento Científico na Sala de Aula</i> ministrada por <b>Heloísa Helena Ramos</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala Tuiuiú",
+    "dataInicio": "2027-05-13T14:00:00-03:00",
+    "dataFim": "2027-05-13T17:00:00-03:00",
+    "descricao": "<p>Capacitação voltada para professores do Ensino Médio sobre <i>Metodologias Ágeis e Tecnologias Livres</i>, mediada pelo educador <b>Thiago Rezende</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": null,
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:30:00-03:00",
+    "descricao": "<p>Troca de experiências docentes com a temática <i>Inclusão e Acessibilidade no Ensino Fundamental</i>, articulada por <b>Beatriz Mendonça Fontes</b> e <b>Jorge Luís de Freitas</b>.</p>",
+    "secao": "Rodas de Diálogo"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": null,
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Saúde Mental e Bem-Estar Docente no Pós-Pandemia</i>, com facilitação da psicóloga escolar <b>Renata Sanches Viana</b>.</p>",
+    "secao": "Rodas de Diálogo"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": null,
+    "dataInicio": "2027-05-14T10:30:00-03:00",
+    "dataFim": "2027-05-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall Central",
+    "dataInicio": "2027-05-14T11:00:00-03:00",
+    "dataFim": "2027-05-14T12:30:00-03:00",
+    "descricao": "<p>Apresentação de relatos de experiência por professores das redes municipal e estadual, sob coordenação do Prof. <b>Antônio Marcos Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Políticas Educacionais",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2027-05-14T14:30:00-03:00",
+    "dataFim": "2027-05-14T17:30:00-03:00",
+    "descricao": "<p>Análise coletiva acerca do tema <i>Financiamento Público e Valorização da Carreira do Magistério</i>, reunindo a debatedora <b>Sônia Regina Duarte</b> e o pesquisador <b>Fábio Augusto Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Sala Tuiuiú",
+    "dataInicio": "2027-05-15T08:30:00-03:00",
+    "dataFim": "2027-05-15T10:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Educação Ambiental e o Bioma Pantanal nos Currículos Escolares</i>, facilitada por <b>Daniela Silvano</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 4",
+    "lugar": "Sala Buriti",
+    "dataInicio": "2027-05-15T08:30:00-03:00",
+    "dataFim": "2027-05-15T10:30:00-03:00",
+    "descricao": "<p>Trabalho focado na transposição lúdica com <i>Jogos Teatrais e Expressão Corporal na Pré-Escola</i>, orientado por <b>Marcio Vinicius Toledo</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2027-05-15T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Performance artística e musical promovida pelo conjunto regional de viola caipira liderado pelo maestro <b>Geraldo Espíndola Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia de Encerramento",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2027-05-15T14:00:00-03:00",
+    "dataFim": "2027-05-15T16:00:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta de Campo Grande pela Qualidade da Educação Pública</i>, sob coordenação geral de <b>Patrícia Nogueira</b> e <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

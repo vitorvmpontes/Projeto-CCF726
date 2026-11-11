@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-42-00385",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Florianópolis - SC",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "titulos_longos",
+   "sem_local",
+   "descricoes_ricas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:30+00:00",
+ "uso_tokens": {
+  "entrada": 708,
+  "saida": 1046
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência da Computação e Engenharia de Software",
+   "local_geral": "CentroSul - Centro de Convenções de Florianópolis, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Uma Análise Abrangente sobre os Impactos Críticos da Inteligência Artificial Generativa e da Automação na Segurança Cibernética em Infraestruturas Críticas Nacionais</i>.</p><p>Palestrante: <b>Dra. Mariana Albuquerque Peixoto</b> (UFSC).</p><p>Coordenação: <b>Prof. Carlos Eduardo Linhares</b> (SBC).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2024-10-18T11:00:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: Arquitetura de Software e Sistemas Distribuídos.</p><p>Coordenação: <b>Prof. Roberto Meireles Sampaio</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Avaliação Experimental de Resiliência em Microsserviços sob Cenários Extremos de Alta Latência de Rede</i> - Autores: <b>Lucas Silveira Ramos</b>, <b>Beatriz Mendes Fontes</b> e <b>Roberto Meireles Sampaio</b>.</p><p>2. <i>Protocolos de Consenso Otimizados para Cadeias de Blocos Privadas em Redes Móveis Heterogêneas</i> - Autores: <b>Felipe Dornelles Krause</b> e <b>Juliana Vargas Toledo</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T15:30:00-03:00",
+    "descricao": "<p>Subtítulo: Aprendizado de Máquina Aplicado.</p><p>Coordenação: <b>Profa. Helena Queiroz Bittencourt</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Classificação Automática de Padrões Cardíacos Anômalos Usando Redes Neurais Convolucionais com Mecanismos de Atenção</i> - Autores: <b>Thiago Nogueira Paiva</b> e <b>Helena Queiroz Bittencourt</b>.</p><p>2. <i>Detecção Precoce de Incêndios Florestais em Imagens de Satélite Multiespectrais Utilizando Modelos Híbridos</i> - Autores: <b>Gabriela Esteves Pires</b>, <b>Marcos André Rezende</b> e <b>Daniele Cruz Zanin</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": null,
+    "dataInicio": "2024-10-18T16:00:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento Rápido e Seguro de Aplicações Distribuídas Resilientes Utilizando Tecnologias Abertas e Práticas Modernas de Integração Contínua em Ambientes Produtivos</i>.</p><p>Instrutores: <b>André Luiz Vasconcelos</b> e <b>Camila Duarte Ferreira</b> (Instituto Federal de Santa Catarina).</p>",
+    "secao": null
+   }
+  ]
+ }
+}

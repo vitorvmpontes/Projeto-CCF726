@@ -1,0 +1,123 @@
+{
+ "spec": {
+  "id": "sint-42-00166",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Manaus - AM",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:18+00:00",
+ "uso_tokens": {
+  "entrada": 653,
+  "saida": 1810
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Amazonense de Docentes da Educação Básica",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-05-15T07:30:00-03:00",
+    "dataFim": "2026-05-15T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora geral <b>Maria de Nazaré Albuquerque</b> e representantes da Secretaria de Estado de Educação do Amazonas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios contemporâneos da prática pedagógica ribeirinha frente à inclusão digital e à valorização das narrativas tradicionais amazônicas nas escolas públicas</i>, ministrada pelo <b>Prof. Dr. Raimundo Nonato de Souza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para o Café Regional",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-15T10:15:00-03:00",
+    "dataFim": "2026-05-15T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala A-01",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T12:15:00-03:00",
+    "descricao": "<p>Realização da oficina com foco em alfabetização e letramento nos anos iniciais com a facilitadora <b>Gisele Pontes</b>.</p>",
+    "secao": "Oficinas Temáticas Simultâneas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala A-02",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T12:15:00-03:00",
+    "descricao": "<p>Atividade prática <i>Metodologias ativas aplicadas ao ensino interdisciplinar de ciências da natureza integrando conhecimentos empíricos da sociobiodiversidade amazônica e currículo formal</i>, conduzida pela professora <b>Larissa Miranda</b>.</p>",
+    "secao": "Oficinas Temáticas Simultâneas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Sala A-03",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T12:15:00-03:00",
+    "descricao": "<p>Mediação de conflitos escolares e saúde emocional do educador com o pedagogo <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Oficinas Temáticas Simultâneas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:15:00-03:00",
+    "dataFim": "2026-05-15T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2026-05-15T13:45:00-03:00",
+    "dataFim": "2026-05-15T15:15:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Reestruturação curricular do ensino fundamental em áreas de várzea e terra firme com atenção às especificidades locais</i>, com a participação de <b>Dra. Cecília Viana</b> e <b>Prof. Thiago Marinho</b>. Mediação por <b>Kátia Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2026-05-15T15:30:00-03:00",
+    "dataFim": "2026-05-15T17:00:00-03:00",
+    "descricao": "<p>Troca de experiências docentes com mediação do orientador pedagógico <b>Valdir Pereira Barroso</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento Cultural",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2026-05-15T17:00:00-03:00",
+    "dataFim": "2026-05-15T17:30:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo de flautas doces de estudantes da rede municipal coordenado pela regente <b>Beatriz Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2026-05-15T17:30:00-03:00",
+    "dataFim": "2026-05-15T18:15:00-03:00",
+    "descricao": "<p>Leitura da Carta de Compromissos dos Professores do Amazonas pela relatora <b>Helena Fonseca</b> e considerações finais da comissão organizadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

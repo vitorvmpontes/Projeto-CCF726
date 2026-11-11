@@ -1,0 +1,284 @@
+{
+ "spec": {
+  "id": "sint-42-00209",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 32,
+  "casos": [
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:09+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 5225
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Centro-Oeste de Direito Ambiental e Agronegócio",
+   "local_geral": "Centro de Convenções Arquiteto Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-21T08:00:00-03:00",
+    "dataFim": "2024-08-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-21T09:00:00-03:00",
+    "dataFim": "2024-08-21T10:00:00-03:00",
+    "descricao": "<p>Composição de mesa com autoridades locais e representantes do Poder Judiciário e da OAB/MS.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-21T10:00:00-03:00",
+    "dataFim": "2024-08-21T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Sustentabilidade e Segurança Jurídica na Fronteira Agrícola Brasileira</i>.</p><p>Palestrante: <b>Dr. Henrique Albuquerque Viana</b>. Presidente de mesa: <b>Dra. Cecília Meireles Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-21T11:30:00-03:00",
+    "dataFim": "2024-08-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-21T13:30:00-03:00",
+    "dataFim": "2024-08-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Código Florestal e Reserva Legal: Desafios de Regularização no Pantanal e Cerrado</i>.</p><p>Debatedores: <b>Dra. Mariana Esteves Brandão</b> e <b>Dr. Roberto Fagundes Cintra</b>. Moderação: <b>Dr. Lucas Nogueira Paim</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Auditório Germano Barros",
+    "dataInicio": "2024-08-21T13:30:00-03:00",
+    "dataFim": "2024-08-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Títulos Verdes, CPR Sustentável e Financiamento da Produção Rural</i>.</p><p>Debatedores: <b>Dr. Carlos Eduardo Zanetti</b> e <b>Profa. Renata Silveira Mello</b>. Moderação: <b>Dra. Juliana Bastos Roriz</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Momento de Convivência e Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-21T15:30:00-03:00",
+    "dataFim": "2024-08-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-21T16:00:00-03:00",
+    "dataFim": "2024-08-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>O Papel do Ministério Público na Conciliação de Conflitos Coletivos Fundiários</i>.</p><p>Debatedores: <b>Dr. Marcelo Godoy Fontes</b> e <b>Dra. Fernanda Sampaio Ribeiro</b>. Moderação: <b>Dr. Paulo Afonso Dantas</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 4",
+    "lugar": "Auditório Germano Barros",
+    "dataInicio": "2024-08-21T16:00:00-03:00",
+    "dataFim": "2024-08-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Bioinsumos e Regulação Sanitária: Aspectos Jurídicos e Inovação</i>.</p><p>Debatedores: <b>Dr. Vinícius Camargo Peixoto</b> e <b>Dra. Tânia Marcondes Guimarães</b>. Moderação: <b>Dr. Thiago Rezende Barreto</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Lançamento de Livros Jurídicos",
+    "lugar": "Hall das Amoreiras",
+    "dataInicio": "2024-08-21T18:30:00-03:00",
+    "dataFim": "2024-08-21T20:00:00-03:00",
+    "descricao": "<p>Apresentação das obras recentes de <b>Dra. Camila Toledo Arantes</b> e <b>Dr. Fernando Borges Castilho</b> com sessão de autógrafos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala de Capacitação A",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T10:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Elaboração e Gestão de Contratos Agrários Atípicos</i>.</p><p>Instrutor: <b>Dr. Fábio Henrique Lustosa</b>.</p>",
+    "secao": "Workshops e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala de Capacitação B",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T10:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Defesa Administrativa em Autos de Infração do IBAMA e IMASUL</i>.</p><p>Instrutora: <b>Dra. Patrícia Alencar Viegas</b>.</p>",
+    "secao": "Workshops e Oficinas"
+   },
+   {
+    "nome": "Painel 1",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Transição Energética e Licenciamento de Parques Solares no Centro-Oeste</i>.</p><p>Expositores: <b>Dr. Daniel Queiroz Lins</b> e <b>Dra. Beatriz Menezes Cavalcante</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-22T10:30:00-03:00",
+    "dataFim": "2024-08-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel 2",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-22T11:00:00-03:00",
+    "dataFim": "2024-08-22T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Jurisprudência do STJ sobre Desapropriação e Cumprimento da Função Socioambiental</i>.</p><p>Conferencista: <b>Des. Otávio Ramos Cerqueira</b>. Debatedor: <b>Dr. Maurício Duarte Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-08-22T12:30:00-03:00",
+    "dataFim": "2024-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática de Pôsteres",
+    "lugar": "Galeria das Nações",
+    "dataInicio": "2024-08-22T14:00:00-03:00",
+    "dataFim": "2024-08-22T15:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos acadêmicos de pós-graduação. Coordenação da comissão científica por <b>Profa. Vanessa Bittencourt Leão</b> e <b>Prof. André Barcellos Neves</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-redonda 5",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-22T15:30:00-03:00",
+    "dataFim": "2024-08-22T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Crimes Ambientais e Responsabilidade Penal da Pessoa Jurídica no Campo</i>.</p><p>Debatedores: <b>Dr. Alexandre Gusmão Tavares</b> e <b>Dra. Luísa Farias Antunes</b>. Presidente: <b>Dr. Gustavo Nolasco Farias</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 6",
+    "lugar": "Auditório Germano Barros",
+    "dataInicio": "2024-08-22T15:30:00-03:00",
+    "dataFim": "2024-08-22T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Hídrica e o Regime Jurídico das Águas Subterrâneas do Aquífero Guarani</i>.</p><p>Debatedores: <b>Dr. Valdir Silveira Campos</b> e <b>Dra. Samanta Albuquerque Paes</b>. Presidente: <b>Dra. Regina Célia Morais</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-22T17:45:00-03:00",
+    "dataFim": "2024-08-22T19:00:00-03:00",
+    "descricao": "<p>Tema: <i>Governança ESG e Conformidade nas Cadeias Agroindustriais de Exportação</i>.</p><p>Expositora: <b>Dra. Clarice Mendonça Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Jantar por Adesão",
+    "lugar": "Restaurante Yotedy",
+    "dataInicio": "2024-08-22T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 7",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-23T08:30:00-03:00",
+    "dataFim": "2024-08-23T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Demarcação de Terras Indígenas e o Marco Temporal: Impactos Jurídicos e Sociais</i>.</p><p>Debatedores: <b>Dr. Leonardo Cunha Frota</b> e <b>Dra. Soraia Santos Tupinambá</b>. Moderação: <b>Dr. Gilberto Amaral Novaes</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 8",
+    "lugar": "Auditório Germano Barros",
+    "dataInicio": "2024-08-23T08:30:00-03:00",
+    "dataFim": "2024-08-23T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Arbitragem e Mediação no Agronegócio: Eficiência na Resolução de Conflitos</i>.</p><p>Debatedores: <b>Dr. Renato Guimarães Lima</b> e <b>Dra. Cláudia Villela Assis</b>. Moderação: <b>Dr. Hugo Varela Mattos</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-23T10:15:00-03:00",
+    "dataFim": "2024-08-23T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala de Capacitação A",
+    "dataInicio": "2024-08-23T10:45:00-03:00",
+    "dataFim": "2024-08-23T12:30:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>O Mercado Regulado de Carbono e a Tributação Rural</i> por <b>Juliana Pires Castelo</b>, seguido pelo trabalho <i>Auditoria Ambiental Compulsória no Pantanal</i> por <b>Rodrigo Vasconcelos Rios</b>. Coordenação: <b>Prof. André Barcellos Neves</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala de Capacitação B",
+    "dataInicio": "2024-08-23T10:45:00-03:00",
+    "dataFim": "2024-08-23T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos artigos <i>Zoneamento Ecológico-Econômico e Competência Municipal</i> por <b>Camila Duarte Esteves</b> e <i>Sucessão Hereditária Familiar na Empresa Rural</i> por <b>Marcos Vinicius Guedes</b>. Coordenação: <b>Profa. Vanessa Bittencourt Leão</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-23T12:30:00-03:00",
+    "dataFim": "2024-08-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 9",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-23T14:00:00-03:00",
+    "dataFim": "2024-08-23T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Recuperação Judicial do Produtor Rural: Critérios de Inscrição e Questões Controvertidas</i>.</p><p>Debatedores: <b>Dr. Sérgio Murilo Bicalho</b> e <b>Dra. Amanda Cristina Teles</b>. Moderação: <b>Dr. Luciano Penteado Maia</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 10",
+    "lugar": "Auditório Germano Barros",
+    "dataInicio": "2024-08-23T14:00:00-03:00",
+    "dataFim": "2024-08-23T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial e Monitoramento por Imagens de Satélite na Fiscalização Ambiental</i>.</p><p>Debatedores: <b>Dr. Igor Santana Marinho</b> e <b>Dra. Tatiane Rocha Brandão</b>. Moderação: <b>Dr. Fábio Arruda Prado</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Conferência Plenária de Encerramento",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-23T16:00:00-03:00",
+    "dataFim": "2024-08-23T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>O Futuro do Agronegócio Brasileiro no Cenário Jurídico Internacional e Tratados de Livre Comércio</i>.</p><p>Conferencista: <b>Min. Antônio Carlos Ferraz</b>. Abertura por <b>Dra. Cecília Meireles Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-08-23T17:30:00-03:00",
+    "dataFim": "2024-08-23T18:15:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Acadêmico conduzida por <b>Profa. Vanessa Bittencourt Leão</b> e leitura da Carta de Campo Grande pelo presidente da comissão organizadora <b>Dr. Henrique Albuquerque Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-23T18:15:00-03:00",
+    "dataFim": "2024-08-23T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

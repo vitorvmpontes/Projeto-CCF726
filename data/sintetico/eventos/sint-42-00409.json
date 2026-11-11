@@ -1,0 +1,52 @@
+{
+ "spec": {
+  "id": "sint-42-00409",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:01+00:00",
+ "uso_tokens": {
+  "entrada": 670,
+  "saida": 563
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum de Autoavaliação Institucional da CPA",
+   "local_geral": "Auditório Denis Bernardes, Centro de Ciências Sociais Aplicadas - UFPE, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Diálogos de Abertura",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T08:30:00-03:00",
+    "dataFim": "2023-05-18T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas da presidência da Comissão Própria de Avaliação e apresentação dos dados gerais do ciclo avaliativo com a Profa. Dra. <b>Clarice Montenegro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 1",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T09:30:00-03:00",
+    "dataFim": "2023-05-18T11:45:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>O papel dos indicadores de desempenho acadêmico na consolidação de políticas públicas afirmativas e melhoria da gestão universitária</i>, ministrada pelo Prof. Dr. <b>Gilberto Siqueira Ramos</b>.</p>",
+    "secao": "Ciclo de Conferências Avaliativas"
+   },
+   {
+    "nome": "Palestra Temática 2",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre o tema <i>Metodologias participativas e engajamento da comunidade discente nos processos decisórios e de governança interna da educação superior</i> com a Profa. Dra. <b>Renata Albuquerque Vasconcelos</b>.</p>",
+    "secao": "Ciclo de Conferências Avaliativas"
+   }
+  ]
+ }
+}

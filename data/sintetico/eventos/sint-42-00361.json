@@ -1,0 +1,156 @@
+{
+ "spec": {
+  "id": "sint-42-00361",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "João Pessoa - PB",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 16,
+  "casos": [
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:47+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 2411
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros UFPB 2024",
+   "local_geral": "Centro de Ciências Exatas e da Natureza - UFPB, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas aos Ingressantes",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-03-04T08:30:00-03:00",
+    "dataFim": "2024-03-04T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a reitoria e coordenação pedagógica, conduzida pelo professor <b>Marcos Vinicius de Alencar</b> e pela diretora <b>Renata Silveira</b>.</p>",
+    "secao": "Recepção Institucional"
+   },
+   {
+    "nome": "Tour pelo Campus I",
+    "lugar": null,
+    "dataInicio": "2024-03-04T10:30:00-03:00",
+    "dataFim": "2024-03-04T12:00:00-03:00",
+    "descricao": "<p>Reconhecimento das principais instalações com a comissão de veteranos liderada por <b>Lucas Medeiros Barreto</b>.</p>",
+    "secao": "Recepção Institucional"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-03-04T14:00:00-03:00",
+    "dataFim": "2024-03-04T16:00:00-03:00",
+    "descricao": "<p>Conferência <i>Os desafios contemporâneos da ciência pública e o impacto socioeconômico da universidade na transformação do Nordeste brasileiro</i> proferida pela pesquisadora <b>Maria Clara de Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com as Entidades Estudantis",
+    "lugar": "Tenda Central de Vivência",
+    "dataInicio": "2024-03-04T16:30:00-03:00",
+    "dataFim": "2024-03-04T18:00:00-03:00",
+    "descricao": "<p>Diálogo aberto com representantes do DCE e Centros Acadêmicos, mediado pelo estudante <b>Gabriel Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-03-05T08:30:00-03:00",
+    "dataFim": "2024-03-05T11:30:00-03:00",
+    "descricao": "<p>Minicurso prático sobre uso de bibliotecas virtuais e normas acadêmicas, ministrado pela bibliotecária <b>Juliana Paes Correia</b>.</p>",
+    "secao": "Ciclo de Oficinas"
+   },
+   {
+    "nome": "Almoço Coletivo no RU",
+    "lugar": null,
+    "dataInicio": "2024-03-05T12:00:00-03:00",
+    "dataFim": "2024-03-05T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": null,
+    "dataInicio": "2024-03-05T14:00:00-03:00",
+    "dataFim": "2024-03-05T17:00:00-03:00",
+    "descricao": "<p>Atividade <i>Estratégias de organização da rotina e uso de ferramentas tecnológicas para a melhoria do rendimento em disciplinas iniciais</i> conduzida pelo orientador <b>Thiago Ramos Gouveia</b>.</p>",
+    "secao": "Ciclo de Oficinas"
+   },
+   {
+    "nome": "Apresentação de Projetos de Extensão",
+    "lugar": "Auditório do CCEN",
+    "dataInicio": "2024-03-05T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição dos programas comunitários com intervenção dos coordenadores <b>Fernando Diniz</b> e <b>Aline Pessoa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Trote Solidário e Doação de Sangue",
+    "lugar": null,
+    "dataInicio": "2024-03-06T08:00:00-03:00",
+    "dataFim": "2024-03-06T12:00:00-03:00",
+    "descricao": "<p>Ação voluntária em parceria com o Hemocentro da Paraíba sob supervisão da assistente social <b>Carla Montenegro</b>.</p>",
+    "secao": "Ações Sociais e Esportivas"
+   },
+   {
+    "nome": "Gincana de Integração",
+    "lugar": "Quadra Poliesportiva do Campus",
+    "dataInicio": "2024-03-06T14:00:00-03:00",
+    "dataFim": "2024-03-06T17:00:00-03:00",
+    "descricao": "<p>Jogos e desafios cooperativos entre as turmas, coordenados pelo professor <b>Rodrigo Otávio Neves</b>.</p>",
+    "secao": "Ações Sociais e Esportivas"
+   },
+   {
+    "nome": "Cine-Debate Universitário",
+    "lugar": "Auditório do CCEN",
+    "dataInicio": "2024-03-06T18:00:00-03:00",
+    "dataFim": "2024-03-06T20:30:00-03:00",
+    "descricao": "<p>Exibição de curta paraibano seguida de debate mediado pela cineasta <b>Camila Targino</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Oportunidades Acadêmicas",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-03-07T09:00:00-03:00",
+    "dataFim": "2024-03-07T11:00:00-03:00",
+    "descricao": "<p>Apresentação de editais de monitoria e iniciação científica com o pró-reitor <b>Eduardo Brandão</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": null,
+    "dataInicio": "2024-03-07T11:15:00-03:00",
+    "dataFim": "2024-03-07T12:30:00-03:00",
+    "descricao": "<p>Palestra <i>Construção de uma carreira acadêmica sustentável: diálogos interdisciplinares, publicação científica e a formação continuada no ensino superior</i> ministrada pela professora <b>Sônia Regina Duarte</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Plantão de Dúvidas sobre Matrícula e SISU",
+    "lugar": null,
+    "dataInicio": "2024-03-07T14:00:00-03:00",
+    "dataFim": "2024-03-07T16:00:00-03:00",
+    "descricao": "<p>Atendimento individualizado aos ingressantes com os secretários acadêmicos <b>Paulo Sampaio</b> e <b>Letícia Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Capoeira e Apresentações Culturais",
+    "lugar": "Bosque dos Ipês",
+    "dataInicio": "2024-03-07T16:30:00-03:00",
+    "dataFim": "2024-03-07T18:00:00-03:00",
+    "descricao": "<p>Apresentação artística com o <b>Mestre Damião</b> e o coletivo cultural da universidade.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Luau dos Bixos",
+    "lugar": null,
+    "dataInicio": "2024-03-07T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização final organizada pelos centros acadêmicos com o músico convidado <b>Arthur Travassos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00432",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Belém - PA",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "atividades_paralelas",
+   "subtitulo_separado",
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:47+00:00",
+ "uso_tokens": {
+  "entrada": 694,
+  "saida": 1171
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Paraense de Mulheres na Computação",
+   "local_geral": "Universidade Federal do Pará (UFPA), Campus Guamá, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Diálogos de Abertura",
+    "lugar": "Auditório Arlindo Pinto",
+    "dataInicio": "2026-05-13T09:00:00-03:00",
+    "dataFim": "2026-05-13T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com as boas-vindas da coordenação geral pelas professoras <b>Camila Duarte de Souza</b> e <b>Larissa Barreto Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": null,
+    "dataInicio": "2026-05-13T10:45:00-03:00",
+    "dataFim": "2026-05-13T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A importância crucial da presença feminina em projetos de inteligência artificial aplicada à preservação da sociobiodiversidade e sustentabilidade na bacia amazônica</i>, apresentada pela pesquisadora <b>Renata Vasconcelos Pinheiro</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Construindo aplicações seguras na nuvem utilizando arquiteturas modernas com microsserviços e práticas avançadas de observabilidade para ambientes distribuídos e resilientes</i>, ministrada por <b>Tatiane Gomes da Costa</b> e monitorada por <b>Aline Meireles</b>.</p>",
+    "secao": "Trilhas de Desenvolvimento"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Software Livre",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Introdução ao Desenvolvimento Frontend com Frameworks Reativos</i>, conduzida pela desenvolvedora <b>Marina Figueiredo</b>.</p>",
+    "secao": "Trilhas de Desenvolvimento"
+   },
+   {
+    "nome": "Roda de Conversa Interativa",
+    "lugar": null,
+    "dataInicio": "2026-05-14T18:00:00-03:00",
+    "dataFim": "2026-05-14T19:30:00-03:00",
+    "descricao": "<p>Debate sobre trajetórias acadêmicas e mercado de trabalho na Região Norte com mediação de <b>Bruna Sales Rocha</b> e relatos de <b>Juliana Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": null,
+    "dataInicio": "2026-05-15T10:00:00-03:00",
+    "dataFim": "2026-05-15T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios contemporâneos na formação continuada de cientistas de dados sob uma ótica interdisciplinar e inclusiva no Brasil contemporâneo</i>, conduzida pela Profa. Dra. <b>Fernanda Mendonça Castelo</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": null,
+    "dataInicio": "2026-05-15T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas aos melhores pôsteres científicos e anúncio da próxima sede, coordenada por <b>Camila Duarte de Souza</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

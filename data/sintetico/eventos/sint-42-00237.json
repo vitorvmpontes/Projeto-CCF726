@@ -1,0 +1,171 @@
+{
+ "spec": {
+  "id": "sint-42-00237",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Curitiba - PR",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:06+00:00",
+ "uso_tokens": {
+  "entrada": 641,
+  "saida": 2823
+ },
+ "saida": {
+  "evento": {
+   "nome": "Curitiba DevJam 2024: Hackathon & Game Jam",
+   "local_geral": "Hub de Inovação Engenho da Inovação, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Boas-Vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-10-19T08:00:00-03:00",
+    "dataFim": "2024-10-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-19T09:00:00-03:00",
+    "dataFim": "2024-10-19T09:40:00-03:00",
+    "descricao": "<p>Apresentação das regras gerais, critérios de avaliação e anúncio oficial do tema secreto da maratona conduzida pelos coordenadores gerais <b>Lucas Silveira</b> e <b>Camila Matsubara</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório Beta",
+    "dataInicio": "2024-10-19T09:45:00-03:00",
+    "dataFim": "2024-10-19T10:45:00-03:00",
+    "descricao": "<p>A oficina abordará o tema <i>Prototipagem Rápida em Godot Engine 4</i>, ministrada pelo desenvolvedor <b>Rodrigo Castanho</b>.</p>",
+    "secao": "Workshops de Capacitação"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório Gama",
+    "dataInicio": "2024-10-19T09:45:00-03:00",
+    "dataFim": "2024-10-19T10:45:00-03:00",
+    "descricao": "<p>Instruções práticas sobre <i>Pipelines Ágeis e Deploy Automatizado de APIs em Nuvem</i> com o instrutor <b>Felipe Fagundes</b>.</p>",
+    "secao": "Workshops de Capacitação"
+   },
+   {
+    "nome": "Início da Maratona de Desenvolvimento",
+    "lugar": "Espaço Makers",
+    "dataInicio": "2024-10-19T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação dos ambientes de trabalho e início do cronômetro de 30 horas ininterruptas de desenvolvimento de jogos e softwares.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-10-19T12:30:00-03:00",
+    "dataFim": "2024-10-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Ronda de Mentoria 1",
+    "lugar": "Espaço Makers",
+    "dataInicio": "2024-10-19T14:30:00-03:00",
+    "dataFim": "2024-10-19T16:30:00-03:00",
+    "descricao": "<p>Acompanhamento e validação das ideias iniciais conduzido pela coordenadora de mentoria <b>Priscila Neves</b>, contando com os mentores especialistas <b>André Vianna</b> e <b>Guilherme Dornelles</b>.</p>",
+    "secao": "Ciclo de Mentorias"
+   },
+   {
+    "nome": "Mostra de Estudos de Caso Independentes",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-19T17:00:00-03:00",
+    "dataFim": "2024-10-19T18:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos e relatos técnicos de estúdios paranaenses. Coordenação da mesa por <b>Juliana Bastos</b>.</p><p>Trabalhos selecionados:</p><p><i>Otimização de Shaders em Dispositivos Móveis com Vulkan</i>, apresentado por <b>Diego Zanin</b> e <b>Renata Pimentel</b>;</p><p><i>Design Narrativo Emergente em Roguelikes</i>, apresentado por <b>Vinícius de Souza</b>;</p><p><i>Integração de Modelos de Linguagem para NPCs Autônomos</i>, apresentado por <b>Larissa Munhoz</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Pausa para Lanche da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-10-19T18:30:00-03:00",
+    "dataFim": "2024-10-19T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Ronda de Mentoria 2",
+    "lugar": "Espaço Makers",
+    "dataInicio": "2024-10-19T21:00:00-03:00",
+    "dataFim": "2024-10-19T23:00:00-03:00",
+    "descricao": "<p>Auxílio nas barreiras de arquitetura e arte técnica com os mentores <b>Mariana Pires</b> e <b>Bruno Siqueira</b>, sob supervisão de <b>Priscila Neves</b>.</p>",
+    "secao": "Ciclo de Mentorias"
+   },
+   {
+    "nome": "Ceia da Madrugada",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-10-20T00:30:00-03:00",
+    "dataFim": "2024-10-20T01:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã dos Hackers",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-10-20T07:30:00-03:00",
+    "dataFim": "2024-10-20T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Check de Build e Playtest Cruzado",
+    "lugar": "Espaço Makers",
+    "dataInicio": "2024-10-20T09:30:00-03:00",
+    "dataFim": "2024-10-20T11:00:00-03:00",
+    "descricao": "<p>Rodada de testes rápidos entre equipes concorrentes para levantamento de falhas críticas, orientada pelo coordenador de qualidade <b>Marcos Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Fim do Prazo de Submissão",
+    "lugar": "Espaço Makers",
+    "dataInicio": "2024-10-20T13:00:00-03:00",
+    "dataFim": "2024-10-20T13:10:00-03:00",
+    "descricao": "<p>Encerramento oficial do envio dos repositórios no GitHub e builds no portal itch.io sob acompanhamento de <b>Lucas Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Demonstração e Feira de Protótipos",
+    "lugar": "Salão de Exposições",
+    "dataInicio": "2024-10-20T14:00:00-03:00",
+    "dataFim": "2024-10-20T15:30:00-03:00",
+    "descricao": "<p>Espaço aberto para a banca e participantes testarem os projetos finalizados. Coordenação do espaço por <b>Daniela Farias</b>.</p>",
+    "secao": "Banca e Apresentações"
+   },
+   {
+    "nome": "Sessão de Pitches Finais",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-20T15:30:00-03:00",
+    "dataFim": "2024-10-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação das cinco equipes finalistas para a comissão julgadora. Coordenador da sessão: <b>Thiago Meirelles</b>.</p><p>Projetos apresentados:</p><p><i>EcoPulse: Monitoramento Urbano em Tempo Real</i>, apresentado por <b>Bianca Trindade</b>;</p><p><i>Luz & Sombra: Aventura Isométrica em Pixel Art</i>, apresentado por <b>Gabriel Fontana</b>;</p><p><i>Raízes de Curitiba: Gamificação do Transporte Sustentável</i>, apresentado por <b>Aline Nogueira</b> e <b>Carlos Eduardo Silva</b>.</p>",
+    "secao": "Banca e Apresentações"
+   },
+   {
+    "nome": "Deliberação dos Jurados",
+    "lugar": "Sala de Reuniões 1",
+    "dataInicio": "2024-10-20T17:30:00-03:00",
+    "dataFim": "2024-10-20T18:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-20T18:15:00-03:00",
+    "dataFim": "2024-10-20T19:30:00-03:00",
+    "descricao": "<p>Divulgação dos vencedores das categorias Melhor Jogo, Melhor Software e Escolha do Público, com entrega de troféus feita pelos organizadores <b>Camila Matsubara</b> e <b>Lucas Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

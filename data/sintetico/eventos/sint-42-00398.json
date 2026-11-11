@@ -1,0 +1,110 @@
+{
+ "spec": {
+  "id": "sint-42-00398",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Natal - RN",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 10,
+  "casos": [
+   "descricoes_ricas",
+   "nomes_repetidos",
+   "titulos_longos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:27+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 1937
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVI Mostra Potiguar de Extensão Universitária",
+   "local_geral": "Centro de Convivência da UFRN, Campus Central, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura e Diálogos Comunitários",
+    "lugar": "Auditório Otto de Brito Guerra (Reitoria)",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T11:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora-geral Profa. Dra. <b>Maria da Conceição Albuquerque</b> e do reitor Prof. Dr. <b>José Valter de Medeiros</b>.</p>",
+    "secao": "Abertura"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Otto de Brito Guerra (Reitoria)",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>A interface entre saberes tradicionais das comunidades pesqueiras e a universidade pública para a consolidação do desenvolvimento sustentável do litoral potiguar</i>.</p><p>Palestrante: Profa. <b>Liduína Gomes Cavalcante</b> (UERN). Mediação: Prof. <b>Antônio Marcos Dantas</b> (UFRN).</p>",
+    "secao": "Conferências Temáticas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Dança do DEF/UFRN",
+    "dataInicio": "2026-05-19T08:30:00-03:00",
+    "dataFim": "2026-05-19T11:30:00-03:00",
+    "descricao": "<p>Oficina de expressão corporal e musicalidade ministrada pelo mestre de capoeira <b>Severino dos Santos</b> e pela produtora cultural <b>Kátia Cristina de Lima</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 3 (IMD)",
+    "dataInicio": "2026-05-19T08:30:00-03:00",
+    "dataFim": "2026-05-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento de ferramentas digitais abertas voltadas para o monitoramento e valorização da agricultura familiar nas feiras agroecológicas de bairros periféricos</i>.</p><p>Instrutor: Eng. <b>Paulo Ricardo Fonseca</b>. Coordenadora: Profa. <b>Clarisse Bezerra Ramos</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Tenda Cultural 1",
+    "dataInicio": "2026-05-19T14:30:00-03:00",
+    "dataFim": "2026-05-19T17:00:00-03:00",
+    "descricao": "<p>Debate sobre saúde coletiva e territorialidades na atenção primária com <b>Ana Beatriz Nogueira</b> e o médico sanitarista <b>Fábio Lourenço Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": "Hall do Centro de Convivência",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": "<p>Sessão de pôsteres coordenada por <b>Helena Sales Marinho</b>. Trabalhos em exibição:</p><p>1. <i>Alfabetização de Jovens e Adultos na Zona Rural de Macaíba</i>, apresentado por <b>Gabriel Ferreira da Silva</b>.</p><p>2. <i>Cineclube Popular nos Assentamentos do Seridó</i>, apresentado por <b>Renata Meireles Pinto</b>.</p>",
+    "secao": "Mostra Científica e Comunitária"
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": "Hall do Centro de Convivência",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T17:00:00-03:00",
+    "descricao": "<p>Sessão da tarde coordenada pelo Prof. <b>Tiago Andrade de Souza</b>. Apresentações:</p><p>1. <i>Hortas Comunitárias nas Escolas Públicas da Região Metropolitana de Natal</i>, por <b>Larissa Danielle Moura</b>.</p><p>2. <i>Acolhimento Psicológico em Comunidades Quilombolas de Portalegre</i>, por <b>Diego Silveira Barreto</b>.</p>",
+    "secao": "Mostra Científica e Comunitária"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório B do CCHLA",
+    "dataInicio": "2026-05-21T10:00:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias participativas para o enfrentamento das desigualdades regionais e fortalecimento das práticas emancipatórias nos projetos comunitários de extensão universitária no Nordeste</i>.</p><p>Palestrante: Profa. <b>Carla Vianna Vasconcelos</b> (UFPE). Mediador: <b>Bruno Henrique Costa</b>.</p>",
+    "secao": "Conferências Temáticas"
+   },
+   {
+    "nome": "Mostra de Vídeos Comunitários",
+    "lugar": "Laboratório de Comunicação Social",
+    "dataInicio": "2026-05-21T14:30:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Exibição e debate de curtas documentários produzidos por extensionistas e coletivos da periferia de Natal, mediada pela cineasta <b>Marcela Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Otto de Brito Guerra (Reitoria)",
+    "dataInicio": "2026-05-22T16:00:00-03:00",
+    "dataFim": "2026-05-22T18:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Mérito Extensionista 2026 sob coordenação da Profa. <b>Maria da Conceição Albuquerque</b>, seguida por cortejo com o grupo de cultura popular coordenado por <b>Edivaldo Soares</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

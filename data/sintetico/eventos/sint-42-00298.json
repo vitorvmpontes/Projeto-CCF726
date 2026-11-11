@@ -1,0 +1,134 @@
+{
+ "spec": {
+  "id": "sint-42-00298",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 13,
+  "casos": [
+   "atividades_paralelas",
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:47+00:00",
+ "uso_tokens": {
+  "entrada": 687,
+  "saida": 2432
+ },
+ "saida": {
+  "evento": {
+   "nome": "SulAgro Inova 2025 – Congresso de Tecnologia e Sustentabilidade no Campo",
+   "local_geral": "Centro de Eventos da PUCRS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-20T08:00:00-03:00",
+    "dataFim": "2025-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-20T09:00:00-03:00",
+    "dataFim": "2025-05-20T10:30:00-03:00",
+    "descricao": "<p>Tema central: O Futuro da Agricultura Regenerativa e Conectividade no Pampa.</p><p>Apresentação inicial com o coordenador <b>Dr. Rogério Fagundes</b> (Fepagro) e palestra principal proferida por <b>Mariana Silveira</b> (Embrapa Trigo).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-20T11:00:00-03:00",
+    "dataFim": "2025-05-20T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: Inteligência Artificial e Sensoriamento Remoto na Gestão de Safras.</p><p>Moderação: <b>Carlos Eduardo Dornelles</b>.</p><p>Debatedores convidados: <b>Prof. Lucas Meneghetti</b> (UFRGS) com a exposição <i>Acurácia de Drones Multiespectrais no Monitoramento de Soja</i> e <b>Fernanda Bittencourt</b> (AgTech Analytics) apresentando <i>Modelos Preditivos de Clima Aplicados ao Sul do Brasil</i>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2025-05-20T11:00:00-03:00",
+    "dataFim": "2025-05-20T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: Bioinsumos e Manejo Biológico do Solo: Alternativas Sustentáveis.</p><p>Coordenação de <b>Juliana Casagrande</b>.</p><p>Painelistas: <b>Renato Guimarães</b> (Instituto Biológico) abordando <i>Eficiência de Microrganismos Fixadores de Nitrogênio</i> e <b>Dra. Simone Albuquerque</b> (AgroBio Brasil) debatendo <i>Biofábricas On-farm e Controle de Qualidade</i>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-20T12:30:00-03:00",
+    "dataFim": "2025-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala Quero-Quero",
+    "dataInicio": "2025-05-20T14:00:00-03:00",
+    "dataFim": "2025-05-20T15:45:00-03:00",
+    "descricao": "<p>Coordenador de sessão: <b>Prof. André Zanatta</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Avaliação da Eficiência Hídrica em Sistemas de Irrigação por Gotejamento Subsuperficial</i> por <b>Camila Duarte</b> e <b>Rodrigo Vasconcelos</b>.</p><p>2. <i>Detecção Precoce de Ferrugem Asiática Utilizando Imagens RGB e Redes Convolucionais</i> por <b>Guilherme Tavares</b> e <b>Beatriz Fontoura</b>.</p><p>3. <i>Impacto Econômico da Adoção de Tratores Autônomos em Pequenas Propriedades</i> por <b>Tiago Meireles</b>.</p>",
+    "secao": "Comunicações Técnicas"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala Macela",
+    "dataInicio": "2025-05-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coordenadora de sessão: <b>Cláudia Penteado</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Dinâmica da Matéria Orgânica do Solo sob Plantio Direto Continuado na Metade Sul do RS</i> por <b>Vinícius Pires</b>.</p><p>2. <i>Integração Lavoura-Pecuária: Desempenho Zootécnico e Sustentabilidade de Pastagens de Inverno</i> por <b>Larissa Mottin</b> e <b>Mateus Sperry</b>.</p>",
+    "secao": "Comunicações Técnicas"
+   },
+   {
+    "nome": "Mostra de Startups AgTech",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2025-05-20T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Pitch de soluções inovadoras para o campo avaliado pela comissão de investimentos coordenada por <b>Henrique Vianna</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema: Processamento de Dados Geoespaciais e Mapeamento de Produtividade com QGIS.</p><p>Instrutora: <b>Patrícia Sampaio</b>.</p>",
+    "secao": "Workshops Aplicados"
+   },
+   {
+    "nome": "Workshop Prático 2",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema: Rastreabilidade e Certificação de Cadeias Agropecuárias via Blockchain.</p><p>Instrutor: <b>Diego Marcondes</b>.</p>",
+    "secao": "Workshops Aplicados"
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-21T11:00:00-03:00",
+    "dataFim": "2025-05-21T12:30:00-03:00",
+    "descricao": "<p>Tema: Transição Energética e Biometano na Agroindústria Gaúcha.</p><p>Mediação: <b>Carla Brandão</b>.</p><p>Participantes: <b>Eduardo Seixas</b> (Associação Sul-Brasileira de Biogás) e <b>Dra. Vanessa Rizzon</b> (Secretaria Estadual de Agricultura).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Fórum de Lideranças do Agronegócio",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-21T14:30:00-03:00",
+    "dataFim": "2025-05-21T16:30:00-03:00",
+    "descricao": "<p>Subtítulo: Desafios Regulatórios e Mercado Global de Carbono para Produtores Rurais.</p><p>Painel coordenado por <b>Roberto Castello Branco</b>, contando com as palestras <i>Mercado Regulado versus Voluntário de Carbono</i> por <b>Heloísa Fontes</b> e <i>O Papel das Cooperativas Agrícolas na Descarbonização</i> por <b>Márcio Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento e Premiação",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-21T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Inovação Campo RS 2025, conduzida pela presidente da comissão julgadora <b>Tatiana Medeiros</b> e pelo diretor <b>Geraldo Antunes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

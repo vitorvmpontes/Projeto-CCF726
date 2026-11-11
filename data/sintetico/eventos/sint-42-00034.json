@@ -1,0 +1,115 @@
+{
+ "spec": {
+  "id": "sint-42-00034",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 11,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:59+00:00",
+ "uso_tokens": {
+  "entrada": 637,
+  "saida": 1649
+ },
+ "saida": {
+  "evento": {
+   "nome": "VIII Simpósio de Pós-Graduação em Recursos Hídricos e Saneamento do Centro-Oeste",
+   "local_geral": "Centro de Eventos do Pantanal, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-05-18T08:00:00-03:00",
+    "dataFim": "2023-05-18T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório das Araras",
+    "dataInicio": "2023-05-18T08:45:00-03:00",
+    "dataFim": "2023-05-18T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Pró-Reitor de Pesquisa <b>Carlos Eduardo Mansur</b> e da coordenadora do programa <b>Renata Silveira Bueno</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório das Araras",
+    "dataInicio": "2023-05-18T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência <i>Desafios Hidrológicos Frente às Mudanças Climáticas no Bioma Pantanal</i> ministrada pelo pesquisador <b>Marcos Aurélio Zanin</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Degustação Regional",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2023-05-18T10:30:00-03:00",
+    "dataFim": "2023-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala 102 - Bloco Pantanal",
+    "dataInicio": "2023-05-18T11:00:00-03:00",
+    "dataFim": "2023-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos artigos: <i>Modelagem hidrodinâmica da Bacia do Rio Cuiabá</i> de <b>Lucas Mendes Ferreira</b> e <i>Eficiência no reúso de águas cinzas em condomínios residenciais</i> de <b>Camila Duarte Pires</b>. Moderação de <b>Sérgio Telles da Costa</b>.</p>",
+    "secao": "Apresentação de Trabalhos Discentes"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala 104 - Bloco Pantanal",
+    "dataInicio": "2023-05-18T11:00:00-03:00",
+    "dataFim": "2023-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação das dissertações em andamento com foco em biotecnologia ambiental, coordenadas pela Profa. Dra. <b>Tatiane Valéria Ramos</b>.</p>",
+    "secao": "Apresentação de Trabalhos Discentes"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-05-18T12:30:00-03:00",
+    "dataFim": "2023-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis Interativos",
+    "lugar": "Hall do Pavilhão de Exposições",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição de pôsteres científicos dos pós-graduandos sob coordenação da comissão avaliadora presidida por <b>Juliana Godoy Magalhães</b>.</p>",
+    "secao": "Apresentação de Trabalhos Discentes"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório das Araras",
+    "dataInicio": "2023-05-18T15:30:00-03:00",
+    "dataFim": "2023-05-18T17:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Políticas Públicas de Saneamento no Centro-Oeste: Metas e Financiamento</i>, com os debatedores <b>Fábio Henrique Albuquerque</b> e <b>Luciana Prado Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório das Araras",
+    "dataInicio": "2023-05-18T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra <i>Inovação Tecnológica e Sustentabilidade na Gestão das Águas</i> conduzida pelo Dr. <b>Gilberto Antunes de Carvalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Artigos Destaque e Fechamento",
+    "lugar": "Auditório das Araras",
+    "dataInicio": "2023-05-18T18:15:00-03:00",
+    "dataFim": "2023-05-18T19:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque da Pós-Graduação conduzida por <b>Renata Silveira Bueno</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

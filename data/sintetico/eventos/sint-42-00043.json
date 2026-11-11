@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00043",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Goiânia - GO",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "descricoes_ricas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:35+00:00",
+ "uso_tokens": {
+  "entrada": 674,
+  "saida": 1482
+ },
+ "saida": {
+  "evento": {
+   "nome": "Cerrado Game & Code Jam 2026",
+   "local_geral": "Hub Goiás - Centro de Inovação e Tecnologia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Formação de Equipes",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-16T08:00:00-03:00",
+    "dataFim": "2026-05-16T09:00:00-03:00",
+    "descricao": "<p>Recepção dos participantes, validação de inscrições e facilitação para montagem de equipes multidisciplinares com coordenação de <b>Camila Duarte</b> e <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Divulgação do Tema e Início dos Desafios",
+    "lugar": "Arena Central",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com anúncio da temática surpresa da maratona e diretrizes de desenvolvimento pelo coordenador geral <b>Lucas Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Ipê",
+    "dataInicio": "2026-05-16T09:30:00-03:00",
+    "dataFim": "2026-05-16T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Metodologias Ágeis e Arquitetura de Software Escalável Voltadas para o Desenvolvimento Rápido de Protótipos em Competições e Hackathons Tecnológicos</i>, ministrada pelo palestrante <b>Eng. Marcos Vinícius Peixoto</b>.</p>",
+    "secao": "Ciclo de Capacitação"
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Lab Gamer",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Oficina prática com o especialista <b>Felipe Castanheira</b>, abordando técnicas avançadas de renderização e física em tempo real.</p>",
+    "secao": "Ciclo de Capacitação"
+   },
+   {
+    "nome": "Oficina Especial",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2026-05-16T13:30:00-03:00",
+    "dataFim": "2026-05-16T15:00:00-03:00",
+    "descricao": "<p>Oficina prática intitulada <i>Otimização de Algoritmos de Renderização Gráfica e Inteligência Artificial Básica para Criação de Jogos Independentes em Plataformas Web Modernas</i>, conduzida pelos instrutores <b>Beatriz Nogueira</b> e <b>Thiago Albuquerque</b>.</p>",
+    "secao": "Ciclo de Capacitação"
+   },
+   {
+    "nome": "Mentoria Técnica e Suporte Contínuo",
+    "lugar": "Arena Central",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T18:00:00-03:00",
+    "descricao": "<p>Rodada de acompanhamento dos códigos e mecânicas com os mentores técnicos convidados <b>Aline Guimarães</b>, <b>Gustavo Pires</b> e <b>Renato Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Demonstração e Pitch",
+    "lugar": "Arena Central",
+    "dataInicio": "2026-05-16T18:30:00-03:00",
+    "dataFim": "2026-05-16T20:30:00-03:00",
+    "descricao": "<p>Banca avaliadora coordenada por <b>Dra. Juliana Prado</b>. Apresentação dos jogos finalizados:</p><p>1. <i>Sertão Cyberpunk: Sobrevivência em Ambientes Áridos</i> - Desenvolvido por <b>Danilo Sampaio</b> e <b>Mariana Furtado</b>;</p><p>2. <i>EcoRunner: Desafios Sustentáveis do Cerrado</i> - Desenvolvido por <b>Igor Santana</b> e <b>Clara Menezes</b>;</p><p>3. <i>Pixel Shield: Defesa de Servidores em Redes Críticas</i> - Desenvolvido por <b>Bruno Carvalho</b> e <b>Priscila Viana</b>.</p>",
+    "secao": "Banca e Encerramento"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Arena Central",
+    "dataInicio": "2026-05-16T20:30:00-03:00",
+    "dataFim": "2026-05-16T21:30:00-03:00",
+    "descricao": "<p>Anúncio das equipes vencedoras nas categorias Melhor Mecânica, Melhor Design e Campeão Geral, com mediação de <b>Lucas Mendonça</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Banca e Encerramento"
+   }
+  ]
+ }
+}

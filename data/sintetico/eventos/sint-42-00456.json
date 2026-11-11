@@ -1,0 +1,140 @@
+{
+ "spec": {
+  "id": "sint-42-00456",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Londrina - PR",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 14,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:35+00:00",
+ "uso_tokens": {
+  "entrada": 647,
+  "saida": 2048
+ },
+ "saida": {
+  "evento": {
+   "nome": "HackaGame Londrina 2025",
+   "local_geral": "Parque Tecnológico de Londrina - Hub de Inovação, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-15T18:00:00-03:00",
+    "dataFim": "2025-05-15T19:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com o coordenador <b>Rodrigo Hayashi</b> e anúncio das restrições criativas da maratona.</p>",
+    "secao": "Abertura e Warm-up"
+   },
+   {
+    "nome": "Formação de Equipes e Brainstorming",
+    "lugar": "Espaço Coworking",
+    "dataInicio": "2025-05-15T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Facilitação para conexão de desenvolvedores solo e alinhamento inicial de escopo com mentoria de <b>Juliana Meirelles</b>.</p>",
+    "secao": "Abertura e Warm-up"
+   },
+   {
+    "nome": "Workshop de Godot Engine",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Oficina prática ministrada por <b>Carlos Eduardo Pires</b> sobre <i>Desenvolvimento Rápido em 2D com Godot 4</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop de Prototipagem Ágil com Unity",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>O instrutor <b>Marcos Vinícius Prado</b> apresenta <i>Técnicas de Prototipagem Veloz em Game Jams</i> utilizando templates pré-configurados.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": "Praça de Convivência",
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentoria de Game Design",
+    "lugar": "Arena Maker",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Sessões de mentoria com os veteranos <b>Fernanda Bittencourt</b> e <b>Lucas Zanin</b> com foco em balanceamento e mecânicas centrais.</p>",
+    "secao": "Mentorias Especializadas"
+   },
+   {
+    "nome": "Plantão de Mentoria de Áudio e SFX",
+    "lugar": "Estúdio Multimídia",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Apoio na composição musical e foley com o sound designer <b>Danilo Sanches</b>.</p>",
+    "secao": "Mentorias Especializadas"
+   },
+   {
+    "nome": "Madrugada de Code Sprint",
+    "lugar": "Salão Principal de Desenvolvimento",
+    "dataInicio": "2025-05-16T23:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Madrugada livre dedicada à programação intensiva e integração de assets nas builds.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Check-in de Builds Parciais",
+    "lugar": "Salão Principal de Desenvolvimento",
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Verificação obrigatória do progresso dos protótipos coordenada por <b>Bárbara Casagrande</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel com Publishers Independentes",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-17T15:00:00-03:00",
+    "dataFim": "2025-05-17T16:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Como Levar seu Jogo da Jam para o Mercado Comercial</i> com participação de <b>Thiago Mendonça</b> e <b>Aline Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Playtest Aberto entre Equipes",
+    "lugar": "Espaço Coworking",
+    "dataInicio": "2025-05-17T19:00:00-03:00",
+    "dataFim": "2025-05-17T21:30:00-03:00",
+    "descricao": "<p>Troca de experiências e testes cruzados de usabilidade entre os participantes para coleta de feedback.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Congelamento de Código e Submissão Final",
+    "lugar": "Plataforma Online",
+    "dataInicio": "2025-05-18T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Prazo limite improrrogável para upload dos executáveis e código-fonte no repositório da maratona.</p>",
+    "secao": "Fase Final"
+   },
+   {
+    "nome": "Apresentação de Pitches e Gameplay",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-18T14:00:00-03:00",
+    "dataFim": "2025-05-18T17:00:00-03:00",
+    "descricao": "<p>Demonstração pública de 3 minutos por equipe para a banca de jurados liderada por <b>Vanessa Toledo</b>.</p>",
+    "secao": "Fase Final"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-18T17:30:00-03:00",
+    "dataFim": "2025-05-18T19:00:00-03:00",
+    "descricao": "<p>Divulgação dos vencedores de cada categoria e encerramento com <b>Rodrigo Hayashi</b>.</p>",
+    "secao": "Fase Final"
+   }
+  ]
+ }
+}

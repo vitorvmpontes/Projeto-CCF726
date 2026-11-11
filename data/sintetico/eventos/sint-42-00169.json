@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-42-00169",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "descricoes_ricas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:28+00:00",
+ "uso_tokens": {
+  "entrada": 657,
+  "saida": 1148
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Recepção aos Calouros da Poli-USP 2023",
+   "local_geral": "Escola Politécnica da USP - Cidade Universitária, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas da Diretoria e Apresentação do Curso",
+    "lugar": "Auditório Professor Francisco Romeu Landi",
+    "dataInicio": "2023-03-06T08:30:00-03:00",
+    "dataFim": "2023-03-06T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial do ano letivo com a coordenação de graduação e docentes. Coordenado pelo Prof. Dr. <b>Reinaldo Giudici</b> e pela Profa. Dra. <b>Maria Lúcia Sartorelli</b>. Apresentação especial sobre <i>Desafios e Oportunidades na Engenharia Contemporânea</i> conduzida pelo palestrante convidado <b>Carlos Henrique de Brito Cruz</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Tour Guiado pelo Campus e Centros Acadêmicos",
+    "lugar": "Pátio Central do Biênio",
+    "dataInicio": "2023-03-06T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Caminhada de integração liderada pelos veteranos do Grêmio Politécnico. Organização a cargo dos estudantes <b>Felipe Rossi de Almeida</b> e <b>Beatriz Mendonça Prado</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Almoço Coletivo no Bandejão",
+    "lugar": "Restaurante Universitário Central",
+    "dataInicio": "2023-03-06T12:30:00-03:00",
+    "dataFim": "2023-03-06T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Extensão e Grupos de Pesquisa",
+    "lugar": "Espaço de Convivência do Prédio da Engenharia Civil",
+    "dataInicio": "2023-03-06T14:00:00-03:00",
+    "dataFim": "2023-03-06T16:00:00-03:00",
+    "descricao": "<p>Apresentação das iniciativas estudantis e projetos de iniciação científica para os ingressantes. Coordenado pela Profa. <b>Helena Zanin</b>. Trabalhos apresentados: <i>Desenvolvimento de Protótipo de Fórmula SAE Elétrico</i> por <b>Guilherme Sato</b>; <i>Filtros de Baixo Custo para Comunidades Ribeirinhas</i> por <b>Camila Duarte Nogueira</b> e <b>Thiago Meireles</b>; <i>Algoritmos de Otimização no Tráfego Urbano da Grande São Paulo</i> por <b>Rodrigo Cordeiro</b>.</p>",
+    "secao": "Feira de Projetos Universitários"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Professor Francisco Romeu Landi",
+    "dataInicio": "2023-03-06T16:15:00-03:00",
+    "dataFim": "2023-03-06T17:45:00-03:00",
+    "descricao": "<p>Palestra de inspiração e carreira com foco em inovação científica e mercado internacional. Palestrante: <b>Mariana Vasconcelos</b>. Tema abordado: <i>O Papel da Tecnologia Brasileira na Sustentabilidade Global</i>.</p>",
+    "secao": "Feira de Projetos Universitários"
+   },
+   {
+    "nome": "Gincana de Integração e Trote Solidário",
+    "lugar": "Praça do Relógio",
+    "dataInicio": "2023-03-06T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Arrecadação de alimentos e gincana recreativa semestral organizada pelas comissões de recepção. Atividade coordenada por <b>Lucas Silveira Zanetti</b> e <b>Fernanda Esteves Garcia</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

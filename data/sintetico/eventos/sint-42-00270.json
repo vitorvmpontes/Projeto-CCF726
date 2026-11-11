@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-42-00270",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "descricoes_ricas",
+   "sem_horario_fim",
+   "intervalos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:56+00:00",
+ "uso_tokens": {
+  "entrada": 682,
+  "saida": 1998
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Mineiro de Sustentabilidade e Transição Ecológica",
+   "local_geral": "Centro de Atividades Didáticas 3 (CAD 3) - UFMG, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Recepção de Participantes",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Principal A",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a palestra magna <i>Desafios da Governança Ambiental no Século XXI</i>, ministrada por <b>Dra. Helena Guimarães Ramos</b> (UFMG) com mediação de <b>Prof. Carlos Eduardo Viana</b> (FEAM).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Principal A",
+    "dataInicio": "2025-05-15T11:00:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: Economia Circular e Gestão de Resíduos em Centros Urbanos. Painelistas: <b>Eng. Marcos Prado de Mendonça</b> (SLU/PBH) abordando <i>Logística Reversa na Região Metropolitana</i> e <b>Mariana Vasconcelos Rios</b> (Instituto Lixo Zero) apresentando <i>Iniciativas Comunitárias de Compostagem</i>. Coordenação dos debates: <b>Prof. Rodrigo Alvarenga</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-05-15T11:00:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: Segurança Hídrica e Bacias Hidrográficas em Minas Gerais. Palestrantes convidados: <b>Geól. Arthur Silveira Gomes</b> (IGAM) e <b>Dra. Tatiana Nogueira</b> (Comitê da Bacia do Rio das Velhas). Coordenação a cargo de <b>Luísa Figueiredo Neves</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Conservação da Biodiversidade",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação oral de trabalhos selecionados. Coordenadora da sessão: <b>Dra. Vanessa Couto Moreira</b>.</p><p>Trabalhos apresentados:<br>- <i>Monitoramento da Avifauna no Parque das Mangabeiras</i>, por <b>Lucas de Paiva Esteves</b> e <b>Beatriz C. Antunes</b>.<br>- <i>Impactos da Fragmentação do Cerrado na Mastofauna Local</i>, por <b>Gabriel F. Medeiros</b>.<br>- <i>Restauração Florestal em Áreas Degradadas de Mineração</i>, por <b>Juliana P. Rangel</b> e <b>Prof. Sérgio T. Albuquerque</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Técnica 2: Energias Renováveis e Descarbonização",
+    "lugar": "Sala 104",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação oral de artigos acadêmicos. Coordenação: <b>Prof. Thiago Henrique Siqueira</b>.</p><p>Trabalhos apresentados:<br>- <i>Potencial Solar Fotovoltaico em Edifícios Públicos de Belo Horizonte</i>, por <b>Fernanda L. Guedes</b>.<br>- <i>Viabilidade Técnica de Microcentrais Hidrelétricas Sustentáveis</i>, por <b>André Luiz Barreto</b> e <b>Paulo R. Fontes</b>.<br>- <i>Biogás a Partir de Aterros Sanitários: Estudo de Caso</i>, por <b>Clara Menezes Santos</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Oficina Prática de Educação Ambiental",
+    "lugar": "Laboratório 3",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Facilitadores: <b>Patrícia Beltrão da Silva</b> e <b>Renato C. Vilela</b> (ONG Terra Viva). Atividade com elaboração participativa de materiais pedagógicos voltados a escolas públicas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo Setorial",
+    "lugar": "Auditório Principal A",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O Papel da Indústria e do Poder Público no Cumprimento das Metas Climáticas</i>. Debatedores: <b>Camila Duarte Pires</b> (FIEMG), <b>Otávio Augusto Marcondes</b> (Secretaria de Meio Ambiente de MG) e <b>Beatriz Rocha Toledo</b> (Coalizão Clima e Florestas). Mediação de <b>Prof. Gilberto Arantes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": "Auditório Principal A",
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos melhores artigos científicos e encerramento oficial conduzido por <b>Dra. Helena Guimarães Ramos</b> e <b>Prof. Carlos Eduardo Viana</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

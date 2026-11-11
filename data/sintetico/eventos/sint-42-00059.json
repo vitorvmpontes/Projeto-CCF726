@@ -1,0 +1,149 @@
+{
+ "spec": {
+  "id": "sint-42-00059",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Curitiba - PR",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 15,
+  "casos": [
+   "titulos_longos",
+   "intervalos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:59+00:00",
+ "uso_tokens": {
+  "entrada": 681,
+  "saida": 2201
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Summit Paraná 2024",
+   "local_geral": "Centro de Eventos Positivo - Parque Barigui, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Retirada de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Secretário de Agricultura <b>Norberto Ortigara</b> e do coordenador-geral <b>Eduardo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-15T10:30:00-03:00",
+    "dataFim": "2024-05-15T12:00:00-03:00",
+    "descricao": "<p>Palestra de abertura: <i>A revolução silenciosa dos sensores inteligentes e o monitoramento em tempo real para a tomada de decisão estratégica nas lavouras do sul</i>, conduzida pelo pesquisador <b>Dr. Marcos Silveira</b> da Embrapa.</p>",
+    "secao": "Painéis Estratégicos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:00:00-03:00",
+    "dataFim": "2024-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop A",
+    "lugar": "Sala Inovação 1",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Atividade prática ministrada por <b>Camila Sampaio</b> focada em bioinsumos e regeneração do solo.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop B",
+    "lugar": "Sala Inovação 2",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Treinamento avançado conduzido pelo especialista <b>Lucas Peixoto</b> sobre telemetria e conectividade rural em maquinários pesados.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Foyer das Startups",
+    "dataInicio": "2024-05-15T16:00:00-03:00",
+    "dataFim": "2024-05-15T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Debate sobre crédito de carbono com moderação de <b>Renata Albuquerque</b> e participações de <b>Gustavo Meireles</b> e <b>Patrícia Antunes</b>.</p>",
+    "secao": "Painéis Estratégicos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Espaço Maker Agro",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Oficina intitulada <i>Desenvolvimento e aplicação prática de algoritmos preditivos baseados em aprendizado de máquina para prevenção precoce de pragas em culturas de soja</i>, conduzida pelo engenheiro de software <b>Rodrigo Fontana</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Sessão Pitch Agro",
+    "lugar": "Arena Pitch",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Apresentação das dez melhores agtechs avaliadas pela banca de investidores coordenada por <b>Helena Boas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:30:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-16T14:30:00-03:00",
+    "dataFim": "2024-05-16T16:30:00-03:00",
+    "descricao": "<p>Debate aprofundado com os debatedores <b>Felipe Dorneles</b>, <b>Juliana Vargas</b> e mediação de <b>Tatiana Ramos</b>.</p>",
+    "secao": "Painéis Estratégicos"
+   },
+   {
+    "nome": "Palestra Magna de Tendências",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-17T09:30:00-03:00",
+    "dataFim": "2024-05-17T11:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios globais de sustentabilidade e os novos modelos econômicos circulares aplicados à cadeia produtiva do agronegócio de exportação brasileiro</i> pela economista <b>Bárbara Castilho</b>.</p>",
+    "secao": "Painéis Estratégicos"
+   },
+   {
+    "nome": "Demonstração Tecnológica",
+    "lugar": "Campo Experimental Externo",
+    "dataInicio": "2024-05-17T11:30:00-03:00",
+    "dataFim": "2024-05-17T13:00:00-03:00",
+    "descricao": "<p>Voo e pulverização autônoma orientados pelo técnico agrícola <b>Vinícius Morais</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação das Startups",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do desafio com entrega dos prêmios pela presidente do conselho <b>Letícia Nogueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,171 @@
+{
+ "spec": {
+  "id": "sint-42-00016",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Londrina - PR",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:35+00:00",
+ "uso_tokens": {
+  "entrada": 641,
+  "saida": 3145
+ },
+ "saida": {
+  "evento": {
+   "nome": "Sabores do Norte Paranaense: Festival Gastronômico e Cultural de Londrina",
+   "local_geral": "Parque de Exposições Ney Braga, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Acolhimento dos Participantes",
+    "lugar": "Hall de Entrada do Pavilhão Branco",
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T11:00:00-03:00",
+    "descricao": "<p>Abertura oficial do festival com a presença dos organizadores <b>Marcos Vinicius Faria</b> e <b>Eliane Bertoni</b>, destacando a herança gastronômica dos imigrantes e cafeicultores da região norte do Paraná.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 1",
+    "lugar": "Arena Cozinha Show",
+    "dataInicio": "2024-05-18T11:15:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Redescobrindo o Porco Moura: Técnicas de Charcutaria Regional</i>. Palestrante: Chef <b>Rodrigo Martins</b>. Mediação de <b>Beatriz Silveira</b>.</p>",
+    "secao": "Aulas-show Gastronômicas"
+   },
+   {
+    "nome": "Circuito Gastronômico Livre",
+    "lugar": "Praça dos Produtores",
+    "dataInicio": "2024-05-18T12:30:00-03:00",
+    "dataFim": "2024-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra Científica de Gastronomia Regional",
+    "lugar": "Sala de Painéis e Debates",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Simone Albuquerque</b>.</p><p>Apresentação dos trabalhos acadêmicos:</p><p><i>1. Valorização de PANC no Vale do Tibagi</i>, apresentado por <b>Lucas Gabriel Meneses</b> e <b>Camila Hashimoto</b>.</p><p><i>2. O Impacto da Imigração Japonesa na Identidade Culinária de Londrina</i>, apresentado por <b>Kenji Takahashi</b> e orientador <b>Paulo Sérgio Bueno</b>.</p><p><i>3. Fermentação Selvagem de Cafés Especiais Paranaenses</i>, apresentado por <b>Juliana Prado</b>.</p>",
+    "secao": "Painéis e Pesquisa"
+   },
+   {
+    "nome": "Aula-show 2",
+    "lugar": "Arena Cozinha Show",
+    "dataInicio": "2024-05-18T14:30:00-03:00",
+    "dataFim": "2024-05-18T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Cozinha Ítalo-Caipira: Da Polenta Cremosa aos Molhos de Caça</i>. Condução do Chef <b>Giancarlo Zonta</b> com assistência técnica da cozinheira <b>Clarice de Souza</b>.</p>",
+    "secao": "Aulas-show Gastronômicas"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Espaço Oficina Confeitaria",
+    "dataInicio": "2024-05-18T16:00:00-03:00",
+    "dataFim": "2024-05-18T17:30:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Pães de Fermentação Natural com Farinhas Agroecológicas</i>. Ministrada pela mestre-padeiro <b>Renata Chaves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa de Conversa",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-18T16:30:00-03:00",
+    "dataFim": "2024-05-18T18:00:00-03:00",
+    "descricao": "<p>Mesa: <i>Sustentabilidade e Cadeias Curtas de Abastecimento no Norte Pioneiro</i>. Coordenadora da mesa: <b>Helena Nogueira</b>. Debatedores convidados: produtor agroflorestal <b>Tiago Fontana</b>, nutricionista <b>Amanda Correia</b> e o economista rural <b>Valdir Camargo</b>.</p>",
+    "secao": "Painéis e Pesquisa"
+   },
+   {
+    "nome": "Degustação Guiada Noturna",
+    "lugar": "Tenda dos Queijos e Vinhos",
+    "dataInicio": "2024-05-18T18:30:00-03:00",
+    "dataFim": "2024-05-18T20:00:00-03:00",
+    "descricao": "<p>Harmonização comentada de queijos artesanais da Rota do Queijo Paranaense com vinhos regionais, conduzida pelo sommelier <b>Fernando Garcia</b> e a mestre queijeira <b>Isabela Zanin</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 3",
+    "lugar": "Arena Cozinha Show",
+    "dataInicio": "2024-05-19T09:30:00-03:00",
+    "dataFim": "2024-05-19T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Café da Manhã Tropeiro e Suas Releituras Contemporâneas</i>. Apresentação do Chef <b>Danilo Carvalho</b> e da historiadora da alimentação <b>Patrícia Antunes</b>.</p>",
+    "secao": "Aulas-show Gastronômicas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Espaço Oficina Confeitaria",
+    "dataInicio": "2024-05-19T10:00:00-03:00",
+    "dataFim": "2024-05-19T11:30:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Métodos Especiais de Extração de Café e Análise Sensorial</i>. Instrutor: Barista <b>Lucas Morais</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres e Iniciação Científica",
+    "lugar": "Sala de Painéis e Debates",
+    "dataInicio": "2024-05-19T11:00:00-03:00",
+    "dataFim": "2024-05-19T12:30:00-03:00",
+    "descricao": "<p>Coordenado por <b>Prof. Marcelo Diniz</b>. Avaliação e apresentação de pesquisas:</p><p><i>1. Reaproveitamento Integral da Mandioca na Gastronomia Escolar</i>, por <b>Larissa Neves</b> e orientadora <b>Fernanda Basso</b>.</p><p><i>2. Caracterização Físico-Química de Méis de Abelhas Nativas Sem Ferrão de Londrina</i>, autoria de <b>Gustavo Henrique Lima</b>.</p><p><i>3. Cervejas Artesanais com Leveduras Nativas da Mata Atlântica</i>, apresentado por <b>Carolina Dias</b> e <b>Bruno Fagundes</b>.</p>",
+    "secao": "Painéis e Pesquisa"
+   },
+   {
+    "nome": "Almoço Festivo dos Chefs",
+    "lugar": "Praça dos Produtores",
+    "dataInicio": "2024-05-19T12:30:00-03:00",
+    "dataFim": "2024-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 4",
+    "lugar": "Arena Cozinha Show",
+    "dataInicio": "2024-05-19T14:00:00-03:00",
+    "dataFim": "2024-05-19T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Peixes Nativos do Rio Tibagi: Técnicas de Cura e Braseamento</i>. Chef convidada <b>Mônica Brandão</b> acompanhada do pescador artesanal <b>José Vicente dos Santos</b>.</p>",
+    "secao": "Aulas-show Gastronômicas"
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Espaço Oficina Confeitaria",
+    "dataInicio": "2024-05-19T14:30:00-03:00",
+    "dataFim": "2024-05-19T16:00:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Sobremesas com Frutas Nativas do Cerrado e Mata Atlântica</i>. Ministrado pela confeiteira <b>Adriana Takahashi</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-show 5",
+    "lugar": "Arena Cozinha Show",
+    "dataInicio": "2024-05-19T15:30:00-03:00",
+    "dataFim": "2024-05-19T16:45:00-03:00",
+    "descricao": "<p>Tema: <i>A Doçaria Tradicional das Fazendas de Café</i>. Apresentação do Chef <b>André Meirelles</b> e da doceira tradicional <b>Vera Lúcia Ramos</b>.</p>",
+    "secao": "Aulas-show Gastronômicas"
+   },
+   {
+    "nome": "Premiação de Trabalhos e Pratos Destaque",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-19T17:00:00-03:00",
+    "dataFim": "2024-05-19T18:00:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do Troféu Ney Braga de Gastronomia Sustentável e premiação dos trabalhos acadêmicos avaliados, com o comitê julgador liderado por <b>Dra. Simone Albuquerque</b> e <b>Chef Rodrigo Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Cultural",
+    "lugar": "Palco Externo",
+    "dataInicio": "2024-05-19T18:30:00-03:00",
+    "dataFim": "2024-05-19T20:00:00-03:00",
+    "descricao": "<p>Show instrumental de viola caipira e MPB com o músico <b>Eduardo Sanches</b> e convidados.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

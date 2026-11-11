@@ -1,0 +1,166 @@
+{
+ "spec": {
+  "id": "sint-42-00292",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Macapá - AP",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 17,
+  "casos": [
+   "nomes_repetidos",
+   "descricoes_ricas",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:25+00:00",
+ "uso_tokens": {
+  "entrada": 700,
+  "saida": 2672
+ },
+ "saida": {
+  "evento": {
+   "nome": "XVIII Encontro de Fé e Cidadania da Amazônia",
+   "local_geral": "Centro Comunitário Diocesano São José, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Terço Cantado",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-15T17:30:00-03:00",
+    "dataFim": "2024-08-15T18:30:00-03:00",
+    "descricao": "<p>Momento inicial de acolhida aos peregrinos e comunidades ribeirinhas, conduzido por <b>Irmã Lurdes Vasconcelos</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-15T19:00:00-03:00",
+    "dataFim": "2024-08-15T21:00:00-03:00",
+    "descricao": "<p>Celebração eucarística presidida por <b>Dom Paulo Cordeiro</b> com concelebração de <b>Padre Raimundo Nonato</b> e homilia sobre <i>A Esperança que Brota das Águas Amazônicas</i>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Momento de Oração",
+    "lugar": "Capela Menor",
+    "dataInicio": "2024-08-16T08:00:00-03:00",
+    "dataFim": "2024-08-16T08:45:00-03:00",
+    "descricao": "<p>Meditação matinal conduzida pelo diácono <b>Benedito Silveira</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2024-08-16T09:00:00-03:00",
+    "dataFim": "2024-08-16T11:30:00-03:00",
+    "descricao": "<p>Tema: Ecologia Integral e Defesa dos Povos Tradicionais do Amapá. Coordenação da mesa por <b>Clara Dias de Souza</b>. Apresentações: <i>Vozes do Bailique e a Resistência Cultural</i> por <b>Manoel Maciel</b>; <i>Igreja e Sustentabilidade nas Florestas do Norte</i> por <b>Dra. Tereza Gusmão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Formativa 1",
+    "lugar": "Sala São Francisco",
+    "dataInicio": "2024-08-16T14:30:00-03:00",
+    "dataFim": "2024-08-16T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: Práticas de Canto Litúrgico e Inculturação Regional. Facilitadores: <b>Reginaldo Pinheiro</b> e <b>Marciana Lemos</b>.</p>",
+    "secao": "Oficinas e Vivências"
+   },
+   {
+    "nome": "Oficina Formativa 2",
+    "lugar": null,
+    "dataInicio": "2024-08-16T14:30:00-03:00",
+    "dataFim": "2024-08-16T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: Hortas Comunitárias e Fitoterapia Popular. Conduzida por <b>Dona Francisca Ribeiro</b> e pela agrônoma <b>Elisângela Furtado</b>.</p>",
+    "secao": "Oficinas e Vivências"
+   },
+   {
+    "nome": "Círculo Bíblico",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2024-08-16T17:30:00-03:00",
+    "dataFim": "2024-08-16T19:00:00-03:00",
+    "descricao": "<p>Leitura orante com lideranças de pastorais, mediada por <b>Frei Joaquim Nogueira</b> com o tema <i>Partilha do Pão e da Palavra</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento de Oração",
+    "lugar": null,
+    "dataInicio": "2024-08-17T08:00:00-03:00",
+    "dataFim": "2024-08-17T08:45:00-03:00",
+    "descricao": "<p>Laudes comunitárias guiadas pela pastoral da juventude sob a supervisão de <b>Tatiane Meireles</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2024-08-17T09:00:00-03:00",
+    "dataFim": "2024-08-17T11:45:00-03:00",
+    "descricao": "<p>Tema: Juventudes, Fé e Ação Social nas Periferias Urbanas. Mediação de <b>Mateus Aragão</b> com relatos de experiências compartilhados por <b>Larissa Miranda</b> e <b>Gabriel Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2024-08-17T12:00:00-03:00",
+    "dataFim": "2024-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Formativa 3",
+    "lugar": "Sala Santa Clara",
+    "dataInicio": "2024-08-17T14:30:00-03:00",
+    "dataFim": "2024-08-17T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: Comunicação Comunitária e Produção de Boletins Paroquiais. Ministrada pela jornalista <b>Sofia Alencar</b> e pelo comunicador <b>Tiago Paixão</b>.</p>",
+    "secao": "Oficinas e Vivências"
+   },
+   {
+    "nome": "Mostra de Iniciativas Comunitárias",
+    "lugar": null,
+    "dataInicio": "2024-08-17T17:15:00-03:00",
+    "dataFim": "2024-08-17T19:00:00-03:00",
+    "descricao": "<p>Coordenação geral de <b>Valdenice Ramos</b>. Trabalhos em exposição oral: <i>Padaria Solidária do Coração de Maria</i> por <b>Antônia dos Santos</b>; <i>Reciclagem e Sustentabilidade no Bairro Congós</i> apresentado por <b>José Ribamar Silva</b>; <i>Bordado e Arte Sacra Ribeirinha</i> por <b>Irene Cavalcante</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural e Marabaixo",
+    "lugar": "Quadra Poliesportiva",
+    "dataInicio": "2024-08-17T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação artística de grupos tradicionais com organização do mestre de cultura <b>Seu Jorge do Curiaú</b> e declamação de poesia por <b>Fátima Picanço</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento de Oração",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-18T08:30:00-03:00",
+    "dataFim": "2024-08-18T09:15:00-03:00",
+    "descricao": "<p>Oração contemplativa matinal e agradecimento, conduzida pelo padre <b>Raimundo Nonato</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Assembleia dos Povos",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2024-08-18T09:30:00-03:00",
+    "dataFim": "2024-08-18T12:00:00-03:00",
+    "descricao": "<p>Sistematização e leitura da Carta de Compromissos Sociais de Macapá. Coordenada por <b>Irmã Lurdes Vasconcelos</b> e <b>Clara Dias de Souza</b>, com participação do bispo <b>Dom Paulo Cordeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa de Encerramento",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-18T16:00:00-03:00",
+    "dataFim": "2024-08-18T18:00:00-03:00",
+    "descricao": "<p>Celebração com envio missionário presidida por <b>Dom Paulo Cordeiro</b> acompanhado por sacerdotes da diocese.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Confraternização e Partilha",
+    "lugar": null,
+    "dataInicio": "2024-08-18T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

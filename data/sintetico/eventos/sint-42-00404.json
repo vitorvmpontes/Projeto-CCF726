@@ -1,0 +1,163 @@
+{
+ "spec": {
+  "id": "sint-42-00404",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Manaus - AM",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 17,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 641,
+  "saida": 2698
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Manauara de Artes Integradas 2025",
+   "local_geral": "Centro Cultural Palácio Rio Negro, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Feira Gastronômica Regional",
+    "lugar": "Pátio das Samaúmas",
+    "dataInicio": "2025-08-16T10:00:00-03:00",
+    "dataFim": "2025-08-16T22:00:00-03:00",
+    "descricao": "<p>Abertura do festival com barracas de pratos típicos amazonenses e artesanato tradicional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exposição Coletiva",
+    "lugar": "Galeria Principal",
+    "dataInicio": "2025-08-16T10:30:00-03:00",
+    "dataFim": "2025-08-16T19:00:00-03:00",
+    "descricao": "<p>Tema: <i>Traços da Floresta: Cores e Encantos do Rio Negro</i>. Mostra de artes visuais sob a curadoria de <b>Moacir Andrade Neto</b> e obras de <b>Dione Senna</b> e <b>Iara Picanço</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Pintura Indígena",
+    "lugar": "Ateliê 1",
+    "dataInicio": "2025-08-16T11:00:00-03:00",
+    "dataFim": "2025-08-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Grafismos Étnicos e Tintas Naturais com Urucum e Jenipapo</i>. Ministrada pela artista <b>Samela Sateré-Mawé</b>.</p>",
+    "secao": "Oficinas Culturais"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-16T12:30:00-03:00",
+    "dataFim": "2025-08-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Biojoias da Amazônia",
+    "lugar": "Ateliê 2",
+    "dataInicio": "2025-08-16T14:00:00-03:00",
+    "dataFim": "2025-08-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Design Sustentável com Sementes e Fibras Nativas</i>, conduzida pela artesã <b>Cleide Marinho</b>.</p>",
+    "secao": "Oficinas Culturais"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala Cine Rio Negro",
+    "dataInicio": "2025-08-16T16:00:00-03:00",
+    "dataFim": "2025-08-16T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Preservação Patrimonial e Narrativas Orais Ribeirinhas</i>. Debate com <b>Márcio Souza Filho</b> e a historiadora <b>Rita de Cássia Valente</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Performance de Dança Contemporânea",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2025-08-16T18:00:00-03:00",
+    "dataFim": "2025-08-16T19:00:00-03:00",
+    "descricao": "<p>Apresentação do espetáculo <i>Águas de Enchente</i> pelo <b>Corpo de Dança do Amazonas</b>, com coreografia de <b>Mário Nascimento</b>.</p>",
+    "secao": "Apresentações Cênicas"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2025-08-16T19:30:00-03:00",
+    "dataFim": "2025-08-16T21:00:00-03:00",
+    "descricao": "<p>Show <i>Cantos de Beiradão e Guitarrada</i> com o músico <b>Chico da Silva Jr.</b> acompanhado de <b>Lucinha Cabral</b>.</p>",
+    "secao": "Shows"
+   },
+   {
+    "nome": "Show Musical de Encerramento do Dia",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2025-08-16T21:30:00-03:00",
+    "dataFim": "2025-08-16T23:00:00-03:00",
+    "descricao": "<p>Show <i>Toadas e Boi-Bumbá Urbano</i> com os cantores <b>David Assayag</b> e participação especial de <b>Márcia Novo</b>.</p>",
+    "secao": "Shows"
+   },
+   {
+    "nome": "Instalação Imersiva Interativa",
+    "lugar": "Galeria das Artes",
+    "dataInicio": "2025-08-17T10:00:00-03:00",
+    "dataFim": "2025-08-17T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sons da Floresta Noturna: Paisagens Sonoras Amazônicas</i>. Obra interativa desenvolvida pelo coletivo multimídia coordenado por <b>Thiago Frota</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Percussão e Ritmos do Norte",
+    "lugar": "Ateliê 1",
+    "dataInicio": "2025-08-17T10:30:00-03:00",
+    "dataFim": "2025-08-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Do Gambá ao Beiradão: Técnicas Básicas de Curimbó e Tambores</i>. Instrutor: <b>Mestre Elito Cunha</b>.</p>",
+    "secao": "Oficinas Culturais"
+   },
+   {
+    "nome": "Contação de Histórias",
+    "lugar": "Jardim das Mangueiras",
+    "dataInicio": "2025-08-17T11:00:00-03:00",
+    "dataFim": "2025-08-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Lendas Amazônicas para Curumins e Cunhantãs</i>. Apresentado pela narradora <b>Eliana Amazonas</b>.</p>",
+    "secao": "Apresentações Cênicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-17T12:00:00-03:00",
+    "dataFim": "2025-08-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Curtas Amazonenses",
+    "lugar": "Sala Cine Rio Negro",
+    "dataInicio": "2025-08-17T14:00:00-03:00",
+    "dataFim": "2025-08-17T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Cinema Contemporâneo e Memória Urbana em Manaus</i>. Sessão com debate mediado pela cineasta <b>Flávia Abtibol</b> com os diretores <b>Zezinho Corrêa Neto</b> e <b>Bernardo Aleixo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espetáculo Teatral",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2025-08-17T16:30:00-03:00",
+    "dataFim": "2025-08-17T17:45:00-03:00",
+    "descricao": "<p>Apresentação da peça <i>O Banzeiro que Não Volta Mais</i> pela <b>Companhia Cênica do Tarumã</b>, direção de <b>Nonato Tavares</b>.</p>",
+    "secao": "Apresentações Cênicas"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2025-08-17T18:30:00-03:00",
+    "dataFim": "2025-08-17T20:00:00-03:00",
+    "descricao": "<p>Apresentação <i>Amazonas Pop e Sons de Fronteira</i> com o grupo <b>Karine Aguiar Quarteto</b> convidando o saxofonista <b>Rodrigo Urânio</b>.</p>",
+    "secao": "Shows"
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2025-08-17T20:30:00-03:00",
+    "dataFim": "2025-08-17T22:30:00-03:00",
+    "descricao": "<p>Show especial <i>Celebração Caboca: Batucada das Cores</i> com <b>Arlindo Jr. Tributo</b> e a cantora <b>Glowria Maria</b>.</p>",
+    "secao": "Shows"
+   }
+  ]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "spec": {
+  "id": "sint-42-00277",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Campinas - SP",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 28,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:39+00:00",
+ "uso_tokens": {
+  "entrada": 711,
+  "saida": 4326
+ },
+ "saida": {
+  "evento": {
+   "nome": "Campinas Hack & Play 2027: Maratona de Inovação e Jogos Digitais",
+   "local_geral": "Polo de Alta Tecnologia e Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in das Equipes",
+    "lugar": "Hall dos Galpões Tecnológicos",
+    "dataInicio": "2027-05-21T08:00:00-03:00",
+    "dataFim": "2027-05-21T09:30:00-03:00",
+    "descricao": "<p>Distribuição dos crachás, kits de sobrevivência da maratona e validação da composição oficial dos times com coordenação de <b>Marina Toledo</b>.</p>",
+    "secao": "Abertura e Boas-Vindas"
+   },
+   {
+    "nome": "Cerimônia de Revelação do Tema Geral",
+    "lugar": "Auditório Principal Santos Dumont",
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos eixos temáticos surpresa, critérios rigorosos de pontuação da banca e regras gerais com mediação de <b>Rodrigo Cordeiro</b> e <b>Camila Albuquerque</b>.</p>",
+    "secao": "Abertura e Boas-Vindas"
+   },
+   {
+    "nome": "Oficina de Arquitetura de Software Escalável Voltada ao Desenvolvimento Ágil de Sistemas Críticos Sob Alta Demanda Concorrente",
+    "lugar": "Laboratório de Redes 1",
+    "dataInicio": "2027-05-21T10:45:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Capacitação prática ministrada por <b>Guilherme Silveira Prado</b> e <b>Beatriz Mendonça</b> abordando tópicos da oficina <i>Modelagem Resiliente em Microsserviços para Aplicações Distribuídas</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop de Prototipagem Rápida em Godot Engine",
+    "lugar": "Laboratório Multimídia 2",
+    "dataInicio": "2027-05-21T10:45:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Desenvolvimento acelerado de mecânicas essenciais com <b>Lucas Vasconcelos</b> e tutoria de <b>Renata Meireles</b> focada em jogos 2D e 3D.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:30:00-03:00",
+    "dataFim": "2027-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Início da Rodada de Desenvolvimento 1",
+    "lugar": "Arena Central de Hackathon",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T18:00:00-03:00",
+    "descricao": "<p>Disparo da contagem regressiva para concepção e validação do escopo inicial sob supervisão de <b>Felipe Bastos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria Especializada",
+    "lugar": "Espaço Coworking Alpha",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Atendimento focado em design narrativo e regras de negócio com os mentores <b>Henrique Casagrande</b>, <b>Sabrina Leão</b> e <b>Vinícius Fontes</b>.</p>",
+    "secao": "Mentorias e Acompanhamento"
+   },
+   {
+    "nome": "Palestra sobre Integração de Ambientes Procedurais com Redes Neurais para Geração de Narrativas Não Lineares em Games",
+    "lugar": "Auditório Principal Santos Dumont",
+    "dataInicio": "2027-05-21T18:00:00-03:00",
+    "dataFim": "2027-05-21T19:30:00-03:00",
+    "descricao": "<p>Apresentação ministrada por <b>Dra. Cecília Nogueira</b> e <b>Msc. Otávio Bueno</b> abordando o artigo <i>Automação Semântica e Imersão Cognitiva em Jogos Eletrônicos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Jantar e Pizza Break",
+    "lugar": null,
+    "dataInicio": "2027-05-21T19:30:00-03:00",
+    "dataFim": "2027-05-21T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão Corujão",
+    "lugar": "Arena Central de Hackathon",
+    "dataInicio": "2027-05-21T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Suporte técnico noturno ininterrupto organizado pelos monitores <b>Tiago Ramos</b> e <b>Aline Fonseca</b> para sanar dúvidas de build e infraestrutura.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã dos Sobreviventes",
+    "lugar": null,
+    "dataInicio": "2027-05-22T07:00:00-03:00",
+    "dataFim": "2027-05-22T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Checagem de Marco Intermediário",
+    "lugar": "Arena Central de Hackathon",
+    "dataInicio": "2027-05-22T08:30:00-03:00",
+    "dataFim": "2027-05-22T10:00:00-03:00",
+    "descricao": "<p>Verificação de repositórios e branches ativas coordenada pelo avaliador técnico <b>Eduardo Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Sound Design para Jogos Independentes",
+    "lugar": "Laboratório Multimídia 2",
+    "dataInicio": "2027-05-22T10:00:00-03:00",
+    "dataFim": "2027-05-22T11:45:00-03:00",
+    "descricao": "<p>Práticas de síntese sonora e efeitos dinâmicos com <b>Juliana Pimentel</b> e assessoria técnica de <b>Marcos Valério</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Sessão de Mentoria Especializada",
+    "lugar": "Espaço Coworking Beta",
+    "dataInicio": "2027-05-22T11:00:00-03:00",
+    "dataFim": "2027-05-22T12:30:00-03:00",
+    "descricao": "<p>Apoio avançado em modelagem 3D, balanceamento de mecânicas e pipelines gráficos conduzido por <b>Sabrina Leão</b> e <b>Carlos Eduardo Sampaio</b>.</p>",
+    "secao": "Mentorias e Acompanhamento"
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": null,
+    "dataInicio": "2027-05-22T12:30:00-03:00",
+    "dataFim": "2027-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra Científica de Artigos e Protótipos",
+    "lugar": "Foyer do Auditório Santos Dumont",
+    "dataInicio": "2027-05-22T14:00:00-03:00",
+    "dataFim": "2027-05-22T16:00:00-03:00",
+    "descricao": "<p>Coordenação geral de <b>Prof. Dr. Valter Zanin</b>. Apresentação dos seguintes trabalhos selecionados:</p><p>- <i>Otimização de Renderização em Nuvem para Dispositivos Móveis de Baixo Custo</i>, de autoria de <b>Patrícia Lins</b> e <b>Jorge Assis</b>;</p><p>- <i>Algoritmos Genéticos Aplicados ao Equilíbrio Dinâmico de Personagens Não Jogáveis</i>, conduzido por <b>Marcelo Dantas</b>;</p><p>- <i>Análise Heurística de Interface e Engajamento em Jogos Educacionais</i>, relatado por <b>Larissa Gimenez</b> e <b>Bruno Tavares</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra Estratégica sobre Metodologias Ágeis Inovadoras Aplicadas à Produção Contínua de Jogos Sob Condições Extremas de Prazo",
+    "lugar": "Auditório Principal Santos Dumont",
+    "dataInicio": "2027-05-22T16:15:00-03:00",
+    "dataFim": "2027-05-22T17:45:00-03:00",
+    "descricao": "<p>Painel proferido por <b>Sérgio Antunes de Paula</b>, abordando os conceitos de <i>Scrum Adaptado e Gestão de Crise em Hackathons</i>, sob organização da coordenadora <b>Camila Albuquerque</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Playtest Fechado Entre Equipes",
+    "lugar": "Arena Central de Hackathon",
+    "dataInicio": "2027-05-22T18:00:00-03:00",
+    "dataFim": "2027-05-22T19:30:00-03:00",
+    "descricao": "<p>Troca de feedbacks cruzados e coleta de métricas de jogabilidade sob mediação de <b>Lucas Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Jantar e Rodada Energética",
+    "lugar": null,
+    "dataInicio": "2027-05-22T19:30:00-03:00",
+    "dataFim": "2027-05-22T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão Corujão",
+    "lugar": "Arena Central de Hackathon",
+    "dataInicio": "2027-05-22T22:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apoio de madrugador aos times nas correções de bugs de última hora, coordenado por <b>Vinícius Fontes</b> e <b>Aline Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã dos Sobreviventes",
+    "lugar": null,
+    "dataInicio": "2027-05-23T07:00:00-03:00",
+    "dataFim": "2027-05-23T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sprint Final e Congelamento de Código",
+    "lugar": "Arena Central de Hackathon",
+    "dataInicio": "2027-05-23T08:30:00-03:00",
+    "dataFim": "2027-05-23T11:00:00-03:00",
+    "descricao": "<p>Últimos commits e envio dos builds finais aos servidores da banca chefiada por <b>Rodrigo Cordeiro</b> e <b>Eduardo Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": null,
+    "dataInicio": "2027-05-23T11:30:00-03:00",
+    "dataFim": "2027-05-23T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Banca Avaliadora - Trilha Games",
+    "lugar": "Laboratório Multimídia 2",
+    "dataInicio": "2027-05-23T13:00:00-03:00",
+    "dataFim": "2027-05-23T15:30:00-03:00",
+    "descricao": "<p>Apresentação e arguição das demonstrações jogáveis perante os jurados <b>Dra. Cecília Nogueira</b>, <b>Renata Meireles</b> e <b>Lucas Vasconcelos</b>.</p>",
+    "secao": "Bancas de Avaliação Final"
+   },
+   {
+    "nome": "Banca Avaliadora - Trilha Soluções de Software",
+    "lugar": "Laboratório de Redes 1",
+    "dataInicio": "2027-05-23T13:00:00-03:00",
+    "dataFim": "2027-05-23T15:30:00-03:00",
+    "descricao": "<p>Pitches técnicos e validação de código com os avaliadores convidados <b>Guilherme Silveira Prado</b>, <b>Beatriz Mendonça</b> e <b>Felipe Bastos</b>.</p>",
+    "secao": "Bancas de Avaliação Final"
+   },
+   {
+    "nome": "Feira Aberta de Jogos e Soluções Criativas",
+    "lugar": "Ginásio de Demonstrações Tecnológicas",
+    "dataInicio": "2027-05-23T15:30:00-03:00",
+    "dataFim": "2027-05-23T17:00:00-03:00",
+    "descricao": "<p>Abertura das estações ao público externo para testes e votação popular mediada por <b>Marina Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Homenagens",
+    "lugar": "Auditório Principal Santos Dumont",
+    "dataInicio": "2027-05-23T17:30:00-03:00",
+    "dataFim": "2027-05-23T19:00:00-03:00",
+    "descricao": "<p>Divulgação dos projetos vencedores, entrega dos troféus e fala de encerramento proferida por <b>Prof. Dr. Valter Zanin</b> e <b>Camila Albuquerque</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Confraternização Final",
+    "lugar": null,
+    "dataInicio": "2027-05-23T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Encerramento"
+   }
+  ]
+ }
+}

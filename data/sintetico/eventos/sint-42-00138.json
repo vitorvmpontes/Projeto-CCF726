@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-42-00138",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "São Paulo - SP",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:08+00:00",
+ "uso_tokens": {
+  "entrada": 665,
+  "saida": 1252
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Paulista de Inteligência Artificial Aplicada 2024",
+   "local_geral": "Centro de Inovação da USP, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Café de Boas-vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-08-16T08:00:00-03:00",
+    "dataFim": "2024-08-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Turing",
+    "dataInicio": "2024-08-16T09:00:00-03:00",
+    "dataFim": "2024-08-16T10:30:00-03:00",
+    "descricao": "<p>Apresentação inaugural sobre <i>Modelos de Linguagem de Grande Escala no Ecossistema Corporativo Brasileiro</i>, conduzida pelo pesquisador <b>Dr. Rodrigo Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso A",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2024-08-16T10:45:00-03:00",
+    "dataFim": "2024-08-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de Prompt e Otimização com Frameworks Open-Source</i>. Ministrado pela instrutora <b>Mariana Siqueira</b>, abordando técnicas práticas para integração com APIs modernas.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso B",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2024-08-16T10:45:00-03:00",
+    "dataFim": "2024-08-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Visão Computacional Aplicada a Diagnósticos Médicos por Imagem</i>. Sessão prática ministrada pelo especialista <b>Carlos Eduardo Fontes</b> com uso de PyTorch.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-16T12:30:00-03:00",
+    "dataFim": "2024-08-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso C",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2024-08-16T14:00:00-03:00",
+    "dataFim": "2024-08-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Fine-Tuning Eficiente de LLMs com LoRA e QLoRA</i>, sob tutoria de <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso D",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2024-08-16T14:00:00-03:00",
+    "dataFim": "2024-08-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Arquiteturas RAG para Recuperação de Dados Estruturados</i>, conduzido por <b>Lucas Zanin</b> com estudos de casos do setor financeiro.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Turing",
+    "dataInicio": "2024-08-16T16:30:00-03:00",
+    "dataFim": "2024-08-16T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios Éticos e Regulamentação de IA no Brasil</i>, reunindo <b>Dra. Juliana Prado</b>, <b>Prof. Fernando Albuquerque</b> e moderação de <b>Clarice Antunes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

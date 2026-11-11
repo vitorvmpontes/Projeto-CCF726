@@ -1,0 +1,133 @@
+{
+ "spec": {
+  "id": "sint-42-00114",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 13,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:23+00:00",
+ "uso_tokens": {
+  "entrada": 659,
+  "saida": 1961
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Congresso Paranaense de Direito Processual e Inovação Jurisdicional",
+   "local_geral": "Centro de Convenções FIEP, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento da Dra. <b>Helena Vianna Martins</b> sobre o tema <i>Os Rumos das Garantias Fundamentais no Século XXI</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Precedentes Vinculantes e Segurança Jurídica nos Tribunais Superiores</i> com exposições de <b>Rogério Alencar Pinto</b> e <b>Clarice Mendes Fontes</b>. Moderação do Desembargador <b>Paulo Siqueira Ramos</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Plenarinho Araucária",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Inteligência Artificial Aplicada à Dosimetria e Gestão de Provas</i> conduzida por <b>Juliana Bastos Rocha</b> e <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:00:00-03:00",
+    "dataFim": "2026-05-14T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": null,
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Painel intitulado <i>Cooperação Judiciária Nacional e Execução Civil Eficiente</i>, apresentado pelos juristas <b>Thiago Meirelles</b> e <b>Luciana Prado Nogueira</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-14T16:00:00-03:00",
+    "dataFim": "2026-05-14T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Especial de Jurisprudência Comparada",
+    "lugar": null,
+    "dataInicio": "2026-05-14T16:30:00-03:00",
+    "dataFim": "2026-05-14T18:30:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Modelos de Tutela Coletiva: Perspectivas Comparadas entre Brasil e Portugal</i> pelo Professor <b>Antônio Manuel da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 4",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": "<p>Especialistas debatem <i>Desjudicialização e Meios Adequados de Solução de Conflitos</i> com participação da mediadora <b>Renata Ferraz Gouveia</b> e do advogado <b>Marcio Vinicius Toledo</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 5",
+    "lugar": "Plenarinho Araucária",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": "<p>Mesa centrada no tema <i>Provas Digitais, Cadeia de Custódia e Perícia Forense</i>, sob coordenação de <b>Gabriel Zanin</b> e debatedor <b>Felipe Dornelles</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": null,
+    "dataInicio": "2026-05-15T11:00:00-03:00",
+    "dataFim": "2026-05-15T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 6",
+    "lugar": null,
+    "dataInicio": "2026-05-15T11:30:00-03:00",
+    "dataFim": "2026-05-15T13:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>O Futuro dos Recursos Ordinários e a Celeridade Processual</i> ministrado por <b>Beatriz Brandão Cardoso</b> e <b>Sérgio Linhares Neto</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Plenária de Encerramento e Entrega de Moções",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2026-05-15T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura dos enunciados aprovados e encerramento dos trabalhos pela comissão organizadora presidida pela Dra. <b>Helena Vianna Martins</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

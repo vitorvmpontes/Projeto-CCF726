@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00340",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Santa Maria - RS",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:03+00:00",
+ "uso_tokens": {
+  "entrada": 686,
+  "saida": 1236
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXI Congresso Brasileiro de Agrocomputação e Engenharia de Sistemas (CBAGRO 2023)",
+   "local_geral": "Centro de Convenções da UFSM, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Central",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos na área de Sensoriamento Remoto.</p><p>Coordenação: <b>Dra. Juliana Siqueira Dorneles</b>.</p><p>Trabalho em destaque: <i>Uso de VANTs multiespectrais no monitoramento de estresse hídrico em lavouras de arroz irrigado</i>, por <b>Lucas Medeiros Brum</b> e <b>Carlos Eduardo Fachin</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 104 - Bloco B",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos da trilha de Inteligência Artificial Aplicada.</p><p>Coordenação: <b>Prof. Dr. Mateus Vargas Guterres</b>.</p><p>Trabalho em destaque: <i>Classificação automática de pragas na soja por meio de redes neurais convolucionais residuais</i>, apresentado por <b>Fernanda Bittencourt</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:00:00-03:00",
+    "dataFim": "2023-10-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Pôsteres",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2023-10-19T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição e avaliação dos trabalhos da iniciação científica.</p><p>Avaliador convidado: <b>Prof. Dr. Ricardo Pozzobon</b>.</p><p>Trabalho: <i>Desenvolvimento de estação agrometeorológica modular de baixo custo baseada em microcontroladores ESP32</i>, de <b>Gabriel Zanella</b> e colaboradores.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2023-10-20T09:00:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos sobre Internet das Coisas no Campo e Automação.</p><p>Coordenação: <b>Dra. Juliana Siqueira Dorneles</b>.</p><p>Trabalho em destaque: <i>Arquitetura de telemetria LoRaWAN aplicada à irrigação de precisão em vinhedos da Região Central do RS</i>, por <b>André Meneghetti</b> e <b>Mariana Furtado</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Assembleia Geral e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Reunião de membros da associação, anúncio da sede de 2024 e premiação dos melhores artigos do congresso.</p><p>Condução: <b>Prof. Dr. Antônio Silveira</b> e <b>Dra. Beatriz Hoffmann</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

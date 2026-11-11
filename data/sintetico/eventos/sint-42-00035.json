@@ -1,0 +1,134 @@
+{
+ "spec": {
+  "id": "sint-42-00035",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Viçosa - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas",
+   "atividades_paralelas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:10+00:00",
+ "uso_tokens": {
+  "entrada": 705,
+  "saida": 2197
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jogos Universitários Integrados de Viçosa (JUIV 2027)",
+   "local_geral": "Campus Universitário da UFV, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits das Atléticas",
+    "lugar": "Hall do Centro de Vivência",
+    "dataInicio": "2027-05-21T08:00:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Recepção das delegações universitárias com entrega de crachás e regulamentos sob coordenação de <b>Lucas Silveira Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura e Desfile das Delegações",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Apresentação das agremiações, acendimento da pira e juramento dos atletas conduzido por <b>Mariana Castro Alvim</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": "Refeitório Universitário Central",
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do Departamento de Educação Física",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Análise crítica dos impactos fisiológicos e psicossociais do treinamento de alta performance no desempenho acadêmico de universitários brasileiros</i>, ministrada pelo <b>Prof. Dr. Roberto Meireles Sampaio</b> com mediação da <b>Dra. Cecília Queiroz Prado</b>.</p>",
+    "secao": "Ciclo de Palestras e Formação Esportiva"
+   },
+   {
+    "nome": "Torneio de Futsal Masculino - Fase de Grupos",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T18:00:00-03:00",
+    "descricao": "<p>Partidas classificatórias da primeira rodada supervisionadas pelo coordenador de arbitragem <b>Sérgio Mendonça Guedes</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência dos Atletas",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Dança do DEF",
+    "dataInicio": "2027-05-22T08:30:00-03:00",
+    "dataFim": "2027-05-22T11:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Fundamentos biomecânicos e diretrizes práticas para prevenção de lesões musculoesqueléticas severas em competições esportivas de esportes coletivos universitários</i> com a instrutora <b>Juliana Vilela Fontes</b> e o monitor <b>Gabriel Antunes Moura</b>.</p>",
+    "secao": "Ciclo de Palestras e Formação Esportiva"
+   },
+   {
+    "nome": "Torneio de Handebol Feminino - Classificatórias",
+    "lugar": "Quadra Poliesportiva Coberta 2",
+    "dataInicio": "2027-05-22T09:00:00-03:00",
+    "dataFim": "2027-05-22T12:00:00-03:00",
+    "descricao": "<p>Jogos da fase preliminar com organização técnica de <b>Renata Albuquerque Neves</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Sessão de Pôsteres Esportivos",
+    "lugar": "Saguão das Piscinas Universitárias",
+    "dataInicio": "2027-05-22T14:00:00-03:00",
+    "dataFim": "2027-05-22T16:00:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas esportivas sob avaliação de <b>Dr. Marcos Tadeu Esteves</b>. Trabalhos exibidos: <i>Incidência de entorses de tornozelo em atletas amadores</i> por <b>Ana Clara Peixoto</b> e <i>Estratégias nutricionais aplicadas ao basquetebol universitário</i> por <b>Bruno Henrique Caldeira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Torneio de Voleibol Misto - Semifinais",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2027-05-22T16:30:00-03:00",
+    "dataFim": "2027-05-22T19:30:00-03:00",
+    "descricao": "<p>Disputas semifinais coordenadas por <b>Felipe Dornelas Macedo</b> e apitadas pelo árbitro <b>Carlos Augusto Braga</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Mesa-Redonda Temática",
+    "lugar": "Auditório do Departamento de Educação Física",
+    "dataInicio": "2027-05-23T09:00:00-03:00",
+    "dataFim": "2027-05-23T11:30:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Desafios contemporâneos para financiamento, gestão esportiva sustentável e permanência estudantil no esporte de rendimento das universidades públicas</i>. Com os debatedores <b>Prof. Henrique Valadares Cruz</b> e <b>Tânia Mara Fagundes</b>, mediado por <b>Larissa Barreto Ramos</b>.</p>",
+    "secao": "Ciclo de Palestras e Formação Esportiva"
+   },
+   {
+    "nome": "Disputas Finais dos Torneios",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2027-05-23T14:00:00-03:00",
+    "dataFim": "2027-05-23T17:00:00-03:00",
+    "descricao": "<p>Grandes decisões das modalidades coletivas coordenadas pela comissão geral chefiada por <b>Rodrigo Vasconcelos Lima</b>.</p>",
+    "secao": "Torneios Esportivos"
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2027-05-23T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega de troféus, medalhas gerais e premiação da atlética campeã conduzida pela diretora esportiva <b>Patrícia Soares Nogueira</b> e pelo reitor <b>Prof. Antônio Carlos Beltrão</b>.</p>",
+    "secao": "Solenidades"
+   }
+  ]
+ }
+}

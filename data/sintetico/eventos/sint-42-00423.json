@@ -1,0 +1,251 @@
+{
+ "spec": {
+  "id": "sint-42-00423",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Brasília - DF",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 28,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:16+00:00",
+ "uso_tokens": {
+  "entrada": 646,
+  "saida": 3984
+ },
+ "saida": {
+  "evento": {
+   "nome": "BSB Tech Summit & Hackathon 2024",
+   "local_geral": "Centro de Convenções Ulysses Guimarães, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-15T09:30:00-03:00",
+    "dataFim": "2024-05-15T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a presença de autoridades e organizadores, incluindo <b>Mariana Siqueira</b> e <b>Carlos Eduardo Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-15T10:45:00-03:00",
+    "dataFim": "2024-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação da empresa CloudScale Tech conduzida por <b>Roberto Albuquerque</b> com o tema <i>Arquiteturas Resilientes na Nuvem Pública</i>.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:00:00-03:00",
+    "dataFim": "2024-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T14:45:00-03:00",
+    "descricao": "<p>Painel corporativo da FinTech Brasil com <b>Beatriz Mendonça</b> abordando <i>A Evolução dos Pagamentos Instantâneos e Inteligência Artificial</i>.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Lançamento dos Desafios do Hackathon",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2024-05-15T15:00:00-03:00",
+    "dataFim": "2024-05-15T16:30:00-03:00",
+    "descricao": "<p>Apresentação dos desafios de inovação cívica e governamental pelos mentores <b>Guilherme Dorneles</b> e <b>Patrícia Ramos</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2024-05-15T16:30:00-03:00",
+    "dataFim": "2024-05-15T18:00:00-03:00",
+    "descricao": "<p>Atendimento às equipes iniciantes com o instrutor <b>Fabiano Neves</b> para validação da stack tecnológica.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Palestra Noturna",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-15T18:30:00-03:00",
+    "dataFim": "2024-05-15T19:45:00-03:00",
+    "descricao": "<p>Palestra de encerramento do primeiro dia com <b>Daniele Vasconcelos</b> apresentando <i>Cibersegurança e Proteção de Dados no Setor Público</i>.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Debate sobre tendências com mediação de <b>Lucas Fontes</b> e debatedores <b>Aline Guimarães</b> e <b>Marcos Vinícius Terra</b> discutindo <i>Desafios da Adoção de Inteligência Artificial Generativa em Grandes Corporações</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Sessão de alinhamento e suporte de dados com <b>Vanessa Botelho</b> e <b>Henrique Santana</b> para squads competidores.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Oficina hands-on conduzida por <b>Juliana Meireles</b> focada no treinamento <i>Desenvolvimento de APIs Modernas com GraphQL e Node.js</i>.</p>",
+    "secao": "Trilha Prática"
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-16T15:45:00-03:00",
+    "dataFim": "2024-05-16T17:00:00-03:00",
+    "descricao": "<p>Palestra técnica oferecida pela DataInsights com <b>Thiago Faria</b> discutindo <i>Big Data e Tomada de Decisão em Tempo Real</i>.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Sessão de Checkpoint",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2024-05-16T17:15:00-03:00",
+    "dataFim": "2024-05-16T18:30:00-03:00",
+    "descricao": "<p>Primeira rodada de validação de progresso e entregáveis preliminares com os avaliadores <b>Renata Silveira</b> e <b>Paulo Castro</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Corujão de Codificação",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2024-05-16T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Virada de noite para os times do hackathon, acompanhados pelo monitor técnico <b>Diego Barbosa</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T10:15:00-03:00",
+    "descricao": "<p>Apresentação da empresa GovTech Inovações por <b>Camila Duarte</b> sobre <i>Transformação Digital dos Serviços Públicos</i>.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 2",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Workshop ministrado por <b>Leonardo Freitas</b> demonstrando <i>Estratégias de Deploy Contínuo com Kubernetes e GitOps</i>.</p>",
+    "secao": "Trilha Prática"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:00:00-03:00",
+    "descricao": "<p>Debate sobre capital de risco com <b>Rodrigo Assis</b>, <b>Fernanda Tavares</b> e <b>Sérgio Nogueira</b> explorando <i>Investimentos em Startups e o Ecossistema do Centro-Oeste</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2024-05-17T15:15:00-03:00",
+    "dataFim": "2024-05-17T17:00:00-03:00",
+    "descricao": "<p>Última rodada de consultoria técnica e refinamento de arquitetura antes da entrega final, com <b>Patrícia Ramos</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Oficina de Pitch",
+    "lugar": "Sala de Treinamento",
+    "dataInicio": "2024-05-17T17:15:00-03:00",
+    "dataFim": "2024-05-17T18:45:00-03:00",
+    "descricao": "<p>Treinamento intensivo de oratória e apresentação para investidores conduzido por <b>Lorena Magalhães</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Encerramento do Código",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T09:30:00-03:00",
+    "descricao": "<p>Congelamento dos repositórios e encerramento oficial da programação do hackathon sob supervisão de <b>Guilherme Dorneles</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-18T09:30:00-03:00",
+    "dataFim": "2024-05-18T10:45:00-03:00",
+    "descricao": "<p>Keynote da empresa CyberDefense liderado por <b>André Queiroz</b> trazendo <i>O Futuro do Trabalho e Carreira em Engenharia de Software</i>.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Rodada de Pitches",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-18T11:00:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos projetos finalistas para a comissão julgadora composta por <b>Mariana Siqueira</b>, <b>Roberto Albuquerque</b> e <b>Carlos Eduardo Prado</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-18T12:30:00-03:00",
+    "dataFim": "2024-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Deliberação da Banca",
+    "lugar": "Sala VIP",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação do Hackathon",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-18T16:00:00-03:00",
+    "dataFim": "2024-05-18T17:30:00-03:00",
+    "descricao": "<p>Cerimônia de anúncio das equipes vencedoras e entrega de prêmios com mediação de <b>Carlos Eduardo Prado</b>.</p>",
+    "secao": "Maratona Hackathon"
+   },
+   {
+    "nome": "Encerramento e Happy Hour",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização final e networking entre empresas participantes, mentores e participantes do congresso.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "spec": {
+  "id": "sint-42-00390",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:46+00:00",
+ "uso_tokens": {
+  "entrada": 633,
+  "saida": 1129
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores das Gerais 2023",
+   "local_geral": "Parque Municipal Américo Renné Giannetti"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial dos Estandes",
+    "lugar": null,
+    "dataInicio": "2023-08-19T10:00:00-03:00",
+    "dataFim": "2023-08-19T11:00:00-03:00",
+    "descricao": "<p>Boas-vindas ao público com o curador gastronômico <b>Eduardo Maya</b> e representantes da culinária mineira tradicional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 1",
+    "lugar": "Cozinha Senac ao Vivo",
+    "dataInicio": "2023-08-19T11:30:00-03:00",
+    "dataFim": "2023-08-19T13:00:00-03:00",
+    "descricao": "<p>Apresentação da chef <b>Bruna Martins</b> preparando o prato <i>Releituras Contemporâneas do Feijão Tropeiro</i>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Degustação Guiada",
+    "lugar": null,
+    "dataInicio": "2023-08-19T15:00:00-03:00",
+    "dataFim": "2023-08-19T16:30:00-03:00",
+    "descricao": "<p>Apreciação de rótulos artesanais orientada pelo sommelier <b>Lucas Veras</b> com o tema <i>Harmonização de Queijos Artesanais e Cervejas de Minas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 2",
+    "lugar": "Cozinha Senac ao Vivo",
+    "dataInicio": "2023-08-19T17:00:00-03:00",
+    "dataFim": "2023-08-19T18:30:00-03:00",
+    "descricao": "<p>O mestre queijeiro <b>Onésio Leite</b> ensina técnicas tradicionais na aula <i>Segredos e Maturação do Queijo do Serro</i>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Circuito Gastronômico Matutino",
+    "lugar": null,
+    "dataInicio": "2023-08-20T10:30:00-03:00",
+    "dataFim": "2023-08-20T12:00:00-03:00",
+    "descricao": "<p>Passeio sensorial pelas barracas de produtores da Serra da Mantiqueira e do Cerrado Mineiro.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 3",
+    "lugar": "Cozinha Senac ao Vivo",
+    "dataInicio": "2023-08-20T14:00:00-03:00",
+    "dataFim": "2023-08-20T15:30:00-03:00",
+    "descricao": "<p>A chef confeiteira <b>Mariana Resende</b> demonstra o preparo de <i>Doces de Tacho e Sobremesas com Goiabada Cascão</i>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2023-08-20T16:30:00-03:00",
+    "dataFim": "2023-08-20T18:00:00-03:00",
+    "descricao": "<p>Debate sobre sustentabilidade na cadeia produtiva local sob a perspectiva de <i>Inovação e Tradição na Cozinha Raiz</i>, com <b>Leonardo Silveira</b> e <b>Camila Duarte</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

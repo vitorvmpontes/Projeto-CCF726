@@ -1,0 +1,334 @@
+{
+ "spec": {
+  "id": "sint-42-00112",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 5,
+  "n_atividades": 38,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:35+00:00",
+ "uso_tokens": {
+  "entrada": 715,
+  "saida": 6492
+ },
+ "saida": {
+  "evento": {
+   "nome": "21ª Mostra de Extensão e Cultura da UFU: Conexões Comunitárias e Saberes Compartilhados",
+   "local_geral": "Campus Santa Mônica, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Acolhimento Comunitário",
+    "lugar": "Hall do Bloco 5R",
+    "dataInicio": "2024-10-21T08:00:00-03:00",
+    "dataFim": "2024-10-21T09:00:00-03:00",
+    "descricao": "<p>Distribuição de crachás, material gráfico e acolhimento das lideranças comunitárias da região do Triângulo Mineiro pela equipe de recepção coordenada por <b>Mariana Rios Furtado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-21T09:00:00-03:00",
+    "dataFim": "2024-10-10T10:30:00-03:00",
+    "descricao": "<p>Solenidade oficial com a participação do reitor <b>Valder Steffen Júnior</b> e da pró-reitora de extensão <b>Heloisa Helena de Oliveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-21T10:30:00-03:00",
+    "dataFim": "2024-10-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A indissociabilidade entre ensino, pesquisa e extensão universitária como ferramenta estruturante para a emancipação social dos territórios periféricos</i>. Ministrada pelo professor <b>Carlos Alberto Arantes</b> com mediação de <b>Renata Nogueira Couto</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda Cultural - Praça das Mangueiras",
+    "dataInicio": "2024-10-21T12:30:00-03:00",
+    "dataFim": "2024-10-21T13:30:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo <i>Chorinho no Cerrado</i>, coordenado pelo maestro <b>Tiago Rezende Maia</b>.</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Saguão dos Blocos 3Q e 5O",
+    "dataInicio": "2024-10-21T14:00:00-03:00",
+    "dataFim": "2024-10-21T16:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos da área temática de Saúde. Avaliação conduzida por <b>Juliana Meireles Rocha</b> e <b>Felipe Mendes Silveira</b>. Trabalhos apresentados: <i>Ações preventivas contra a hipertensão em feiras livres</i> por <b>Aline Fonseca Duarte</b>; <i>Saúde bucal infantil em escolas públicas periféricas</i> por <b>Lucas Damasceno Paiva</b>; e <i>Cuidado interdisciplinar na atenção básica em Uberlândia</i> por <b>Fernanda Cintra Goulart</b>.</p>",
+    "secao": "Mostra de Painéis"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Anfiteatro 3C",
+    "dataInicio": "2024-10-21T14:00:00-03:00",
+    "dataFim": "2024-10-21T16:00:00-03:00",
+    "descricao": "<p>Tema: Mulheres e Economia Solidária. Debate coordenado por <b>Patrícia Godoi Camargo</b>, com a participação de <b>Dona Neide Santos</b> e <b>Rosângela Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Laboratório de Informática 5B-12",
+    "dataInicio": "2024-10-21T16:30:00-03:00",
+    "dataFim": "2024-10-21T18:30:00-03:00",
+    "descricao": "<p>Tema: Inclusão Digital na Terceira Idade. Facilitadora: <b>Carolina Prado Assis</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mostra de Vídeos Comunitários",
+    "lugar": "Auditório do Bloco 1A",
+    "dataInicio": "2024-10-21T19:00:00-03:00",
+    "dataFim": "2024-10-21T21:00:00-03:00",
+    "descricao": "<p>Exibição e debate de curtas-metragens produzidos por coletivos urbanos. Curadoria realizada por <b>Danilo Queiroz Brandão</b>.</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Horta Comunitária do Campus Santa Mônica",
+    "dataInicio": "2024-10-22T08:30:00-03:00",
+    "dataFim": "2024-10-22T11:30:00-03:00",
+    "descricao": "<p>Tema: Manejo Agroecológico de Hortas Urbanas e Plantas Medicinais. Coordenada pelo agrônomo <b>Márcio Lemos Esteves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Sala 104 - Bloco 5R",
+    "dataInicio": "2024-10-22T09:00:00-03:00",
+    "dataFim": "2024-10-22T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias participativas para o mapeamento colaborativo de vulnerabilidades socioambientais no planejamento de ações comunitárias integradas em periferias</i>. Ministrada por <b>Guilherme Henrique Bastos</b> e <b>Taís Monteiro Viana</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-22T10:00:00-03:00",
+    "dataFim": "2024-10-22T12:00:00-03:00",
+    "descricao": "<p>Tema: Extensão Rural e Agricultura Familiar. Participantes: <b>José Vicente Alcântara</b> e <b>Eliane Maria Chaves</b>. Moderação de <b>Breno Soares Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-22T12:00:00-03:00",
+    "dataFim": "2024-10-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Saguão dos Blocos 3Q e 5O",
+    "dataInicio": "2024-10-22T14:00:00-03:00",
+    "dataFim": "2024-10-22T16:00:00-03:00",
+    "descricao": "<p>Apresentação da área de Educação e Direitos Humanos. Coordenação de <b>Cláudia Regina Barros</b>. Trabalhos em destaque: <i>Alfabetização solidária de jovens e adultos</i> por <b>Marcos Vinícius Terra</b>; <i>Cidadania e memória quilombola no Alto Paranaíba</i> por <b>Beatriz Alvarenga</b>; e <i>Educação ambiental lúdica no ensino fundamental</i> por <b>Hugo Leonardo Salles</b>.</p>",
+    "secao": "Mostra de Painéis"
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 201 - Bloco 3C",
+    "dataInicio": "2024-10-22T14:30:00-03:00",
+    "dataFim": "2024-10-22T17:00:00-03:00",
+    "descricao": "<p>Eixo Temático: Comunicação e Difusão do Saber. Coordenadora de sessão: <b>Luciana Prado Bueno</b>. Trabalhos: <i>Web-rádio comunitária e juventude</i> por <b>Samir Castro Nasser</b>; <i>Jornalismo científico acessível</i> por <b>Lorena Diniz</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Laboratório de Informática 5B-12",
+    "dataInicio": "2024-10-22T16:30:00-03:00",
+    "dataFim": "2024-10-22T18:30:00-03:00",
+    "descricao": "<p>Tema: Inclusão Digital na Terceira Idade. Segunda turma da oficina ministrada por <b>Carolina Prado Assis</b> e monitoria de <b>Gabriel Sampaio</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda Cultural - Praça das Mangueiras",
+    "dataInicio": "2024-10-22T18:30:00-03:00",
+    "dataFim": "2024-10-22T19:30:00-03:00",
+    "descricao": "<p>Espetáculo de dança folclórica com o coletivo <i>Raízes do Triângulo</i>, coordenado por <b>Fabiana Gusmão</b>.</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala 102 - Bloco 5O",
+    "dataInicio": "2024-10-23T08:00:00-03:00",
+    "dataFim": "2024-10-23T11:00:00-03:00",
+    "descricao": "<p>Tema: Elaboração de Projetos Sociais para Captação de Recursos. Instrutor: <b>Edson Ramalho Pinto</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Anfiteatro 3C",
+    "dataInicio": "2024-10-23T09:00:00-03:00",
+    "dataFim": "2024-10-23T11:30:00-03:00",
+    "descricao": "<p>Tema: Povos Tradicionais e Salvaguarda do Patrimônio Imaterial. Mediação de <b>Sebastião Ferreira Matos</b>, com os convidados <b>Mestre Damião Silva</b> e <b>Cacica Maria Pankararu</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-23T10:30:00-03:00",
+    "dataFim": "2024-10-23T12:00:00-03:00",
+    "descricao": "<p>Tema: A Extensão Universitária na Curricularização do Ensino Superior. Ministrada por <b>Otávio Augusto Morais</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Feira de Troca Solidária",
+    "lugar": "Gramado Central - Bloco 5S",
+    "dataInicio": "2024-10-23T12:00:00-03:00",
+    "dataFim": "2024-10-23T14:00:00-03:00",
+    "descricao": "<p>Espaço de troca de sementes, mudas, livros e saberes, articulado pela ativista <b>Regina Mara Tolentino</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 201 - Bloco 3C",
+    "dataInicio": "2024-10-23T14:00:00-03:00",
+    "dataFim": "2024-10-23T16:30:00-03:00",
+    "descricao": "<p>Eixo Temático: Tecnologia e Produção Sustentável. Mediador: <b>Fernando Pires Queiroz</b>. Trabalhos apresentados: <i>Aquaponia escolar como instrumento pedagógico</i> por <b>Igor Mendonça</b>; <i>Aplicativo comunitário para alerta de enchentes</i> por <b>Vanessa Rabelo</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Saguão dos Blocos 3Q e 5O",
+    "dataInicio": "2024-10-23T14:00:00-03:00",
+    "dataFim": "2024-10-23T16:00:00-03:00",
+    "descricao": "<p>Área Temática: Cultura e Meio Ambiente. Coordenador da sessão: <b>Paulo Henrique Antunes</b>. Trabalhos: <i>Preservação de nascentes na bacia do Rio Uberabinha</i> apresentado por <b>Camila Duarte Esteves</b>; <i>Teatro do Oprimido em abrigos municipais</i> por <b>Rodrigo Vilela</b>.</p>",
+    "secao": "Mostra de Painéis"
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-23T16:30:00-03:00",
+    "dataFim": "2024-10-23T18:30:00-03:00",
+    "descricao": "<p>Tema: Saúde Mental Coletiva e Redes de Cuidado no Território. Participantes: <b>Dra. Simone Galvão</b> e <b>Dr. Cristiano Prado Nogueira</b>. Coordenação de <b>Lúcia Helena Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda Cultural - Praça das Mangueiras",
+    "dataInicio": "2024-10-23T19:00:00-03:00",
+    "dataFim": "2024-10-23T20:30:00-03:00",
+    "descricao": "<p>Intervenção cênica com a trupe circense <i>Circo da Cidade</i>, dirigida por <b>Palhaço Tico</b> (<b>Renan Batista</b>).</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala 102 - Bloco 5O",
+    "dataInicio": "2024-10-24T08:00:00-03:00",
+    "dataFim": "2024-10-24T11:00:00-03:00",
+    "descricao": "<p>Tema: Práticas de Mediação de Conflitos em Contextos Escolares e Comunitários. Ministrado pela mediadora de conflitos <b>Vanessa Toledo Miranda</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-24T09:30:00-03:00",
+    "dataFim": "2024-10-24T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios contemporâneos para a consolidação de políticas públicas afirmativas voltadas ao desenvolvimento socioeconômico solidário das comunidades tradicionais de Minas Gerais</i>. Palestrante: <b>Prof. Washington Luís Fontes</b>. Coordenação: <b>Marina Silveira Bueno</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Laboratório de Artes Visuais - Bloco 1I",
+    "dataInicio": "2024-10-24T10:00:00-03:00",
+    "dataFim": "2024-10-24T12:00:00-03:00",
+    "descricao": "<p>Tema: Confecção de Brinquedos Populares com Materiais Reciclados. Ministrada por <b>Geovana Lacerda Souza</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Encontro de Lideranças de Bairro",
+    "lugar": "Auditório 3C",
+    "dataInicio": "2024-10-24T14:00:00-03:00",
+    "dataFim": "2024-10-24T16:00:00-03:00",
+    "descricao": "<p>Reunião de escuta de demandas urbanas organizada pelo núcleo de assessoria comunitária com facilitação de <b>Armando Ribeiro Lima</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 201 - Bloco 3C",
+    "dataInicio": "2024-10-24T14:00:00-03:00",
+    "dataFim": "2024-10-24T16:30:00-03:00",
+    "descricao": "<p>Eixo Temático: Justiça, Direitos Humanos e Cidadania. Avaliador: <b>Ricardo Vilarinho Netto</b>. Trabalhos: <i>Acesso à justiça e orientação jurídica gratuita</i> por <b>Sabrina Alencar</b>; <i>Cidadania no cárcere feminino</i> por <b>Monique Siqueira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Saguão dos Blocos 3Q e 5O",
+    "dataInicio": "2024-10-24T14:30:00-03:00",
+    "dataFim": "2024-10-24T16:30:00-03:00",
+    "descricao": "<p>Apresentação das áreas de Trabalho, Tecnologia e Produção. Coordenadora: <b>Tânia Mara Fonseca</b>. Pôsteres: <i>Capacitação de cooperativas de reciclagem</i> por <b>Diego Silveira Santos</b>; <i>Boas práticas de manipulação para ambulantes de alimentação</i> por <b>Carla Cristina Mendes</b>.</p>",
+    "secao": "Mostra de Painéis"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Espaço de Convivência do Bloco 5R",
+    "dataInicio": "2024-10-24T16:30:00-03:00",
+    "dataFim": "2024-10-24T18:00:00-03:00",
+    "descricao": "<p>Tema: Juventude, Cultura Hip-Hop e Território Urbano. Diálogo aberto facilitado por <b>MC Roberta</b> e <b>DJ Clayton Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sarau Poético",
+    "lugar": "Tenda Cultural - Praça das Mangueiras",
+    "dataInicio": "2024-10-24T19:00:00-03:00",
+    "dataFim": "2024-10-24T21:00:00-03:00",
+    "descricao": "<p>Leitura de poemas e declamações abertas à comunidade universitária e visitantes, sob mediação da poetisa <b>Célia Dornelles</b>.</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Horta Comunitária do Campus Santa Mônica",
+    "dataInicio": "2024-10-25T08:30:00-03:00",
+    "dataFim": "2024-10-25T11:00:00-03:00",
+    "descricao": "<p>Tema: Produção de Biofertilizantes e Caldas Naturais para Controle de Pragas. Orientador: <b>Márcio Lemos Esteves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala 102 - Bloco 5O",
+    "dataInicio": "2024-10-25T09:00:00-03:00",
+    "dataFim": "2024-10-25T12:00:00-03:00",
+    "descricao": "<p>Tema: Comunicação Popular e Produção de Podcasts Comunitários. Coordenado pelo jornalista <b>Leandro Vilar Pires</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Fórum de Extensão Universitária",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-25T10:00:00-03:00",
+    "dataFim": "2024-10-25T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre a avaliação do impacto social da extensão no âmbito regional de Uberlândia. Condução de <b>Profª Helena Vasconcellos</b> com relatoria de <b>André Luiz Bernardes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda Cultural - Praça das Mangueiras",
+    "dataInicio": "2024-10-25T12:30:00-03:00",
+    "dataFim": "2024-10-25T13:30:00-03:00",
+    "descricao": "<p>Show com a banda de fanfarra comunitária <i>Sons do Bairro</i> sob regência de <b>Geraldo Magela da Costa</b>.</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-25T14:30:00-03:00",
+    "dataFim": "2024-10-25T16:00:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos projetos de extensão que se destacaram no ano de 2024. Coordenação da comissão avaliadora por <b>Prof. Gilberto Amaral</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório 5R-A",
+    "dataInicio": "2024-10-25T16:30:00-03:00",
+    "dataFim": "2024-10-25T17:30:00-03:00",
+    "descricao": "<p>Palavras finais da comissão organizadora presidida por <b>Heloisa Helena de Oliveira</b> e apresentação de encerramento pelo <i>Coral Universitário da UFU</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-42-00002",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:31+00:00",
+ "uso_tokens": {
+  "entrada": 668,
+  "saida": 944
+ },
+ "saida": {
+  "evento": {
+   "nome": "Cerrado Game & Code Jam 2025",
+   "local_geral": "Parque Tecnológico de Brasília (BIOTIC), Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in dos Participantes e Boas-Vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": "2025-05-16T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2025-05-16T19:30:00-03:00",
+    "dataFim": "2025-05-16T21:00:00-03:00",
+    "descricao": "<p>Apresentação inaugural com o tema <i>Arquiteturas Emergentes e Estratégias Práticas de Engenharia de Software Aplicadas ao Desenvolvimento Acelerado de Jogos Eletrônicos Independentes em Competições</i>, ministrada por <b>Lucas Medeiros</b> e mediada por <b>Mariana Fagundes</b>.</p>",
+    "secao": "Ciclo de Formação Rápida"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório de Prototipagem",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Treinamento intensivo intitulado <i>Otimização Avançada de Pipelines Gráficos e Técnicas de Renderização em Tempo Real Utilizando Motores Abertos para Maratonas Hacker</i>, conduzido pelo instrutor <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Ciclo de Formação Rápida"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação do BIOTIC",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": "2025-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Lounge Central",
+    "dataInicio": "2025-05-17T16:30:00-03:00",
+    "dataFim": "2025-05-17T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Projetos e Premiação",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2025-05-18T15:00:00-03:00",
+    "dataFim": "2025-05-18T18:00:00-03:00",
+    "descricao": "<p>Sessão final de pitch com a banca avaliadora composta por <b>Camila Albuquerque</b>, <b>Felipe Dornelles</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

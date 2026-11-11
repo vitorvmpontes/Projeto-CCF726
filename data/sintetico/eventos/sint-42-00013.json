@@ -1,0 +1,116 @@
+{
+ "spec": {
+  "id": "sint-42-00013",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "São Paulo - SP",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:18+00:00",
+ "uso_tokens": {
+  "entrada": 656,
+  "saida": 2007
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Bioinformática e Biologia Computacional (CBBC 2024)",
+   "local_geral": "Centro de Convenções Rebouças, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento conduzida pela coordenadora-geral <b>Dra. Mariana Vasconcellos</b>, seguida da palestra <i>Avanços da Inteligência Artificial Estrutural no Design de Proteínas</i> ministrada pelo <b>Prof. Dr. Arthur Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Genômica e Transcriptômica",
+    "lugar": "Sala A3",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos selecionados. Moderação por <b>Dr. Felipe Brandão</b>.</p><p>Trabalhos: <i>Pipeline Automatizado para Análise de Single-Cell RNA-Seq em Câncer Gástrico</i> por <b>Camila Duarte</b> e <i>Mapeamento de Polimorfismos Raros em Populações Tradicionais Brasileiras</i> por <b>Guilherme Antunes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2: Biologia Estrutural e Modelagem Molecular",
+    "lugar": "Sala B2",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos com moderação da <b>Profa. Dra. Letícia Menezes</b>.</p><p>Artigos em pauta: <i>Análise Comparativa de Algoritmos de Docking Molecular Aplicados a Candidatos a Fármacos Antivirais</i> por <b>Rodrigo Hayashi</b> e <i>Predição Conformacional de Peptídeos Antimicrobianos</i> por <b>Beatriz Nogueira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço de Exposições",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": "<p>Avaliação dos trabalhos em formato pôster submetidos ao comitê científico. Coordenação de <b>Dra. Simone Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2024-10-17T16:00:00-03:00",
+    "dataFim": "2024-10-17T17:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>O Futuro dos Bancos de Dados Biológicos Abertos na América Latina</i>, com a participação de <b>Prof. Carlos Eduardo Peixoto</b>, <b>Dra. Fernanda Lins</b> e mediação de <b>Dr. Marcelo Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3: Mineração de Dados Biológicos",
+    "lugar": "Sala A3",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos técnicos orais aprovados. Coordenação de <b>Prof. Renato Silveira</b>.</p><p>Apresentações: <i>Classificação de Variantes Patogênicas Utilizando Redes Neurais Gráficas</i> apresentado por <b>Tatiana Meireles</b> e <i>Identificação de Assinaturas Imunológicas em Doenças Autoimunes</i> por <b>Lucas Carvalho</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4: Filogenômica e Evolução Molecular",
+    "lugar": "Sala B2",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos. Avaliador convidado: <b>Prof. Dr. Henrique Paiva</b>.</p><p>Trabalhos: <i>Reconstrução Filogenômica de Arbovírus Emergentes no Sudeste Brasileiro</i> apresentado por <b>Juliana Fontes</b> e <i>Evolução Adaptativa de Genes Enzimáticos em Espécies Endêmicas do Cerrado</i> apresentado por <b>Thiago Alencar</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-18T12:00:00-03:00",
+    "dataFim": "2024-10-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço de Exposições",
+    "dataInicio": "2024-10-18T13:30:00-03:00",
+    "dataFim": "2024-10-18T15:00:00-03:00",
+    "descricao": "<p>Segunda rodada de avaliações de trabalhos em formato pôster com presença obrigatória dos autores. Coordenação da <b>Dra. Simone Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação e Encerramento",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Anúncio dos melhores artigos e pôsteres com entrega do <i>Prêmio Jovem Bioinformata 2024</i> conduzida por <b>Dra. Mariana Vasconcellos</b> e <b>Prof. Dr. Arthur Sampaio</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

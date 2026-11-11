@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-42-00189",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Niterói - RJ",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:58+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 1208
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Fluminense de Direito Processual e Novas Tecnologias",
+   "local_geral": "Faculdade de Direito da UFF, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Heleno Fragoso",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T09:15:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do Diretor <b>Carlos Roberto Siqueira Castro</b> e da coordenadora acadêmica <b>Mariana Fidalgo de Oliveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda I",
+    "lugar": "Auditório Heleno Fragoso",
+    "dataInicio": "2024-05-17T09:30:00-03:00",
+    "dataFim": "2024-05-17T11:00:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial e a Prova Digital no Processo Civil. Debatedores: <b>Leonardo Greco</b> apresentando <i>Valoração da Prova Algorítmica e o Contraditório</i> e <b>Fernanda Tartuce</b> com <i>Limites Éticos da Utilização de IA no Judiciário</i>. Presidência da mesa: <b>Juliana Bracks</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda II",
+    "lugar": null,
+    "dataInicio": "2024-05-17T11:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Precedentes Obrigatórios e Ferramentas Preditivas. Exposições de <b>Teresa Arruda Alvim</b> com o tema <i>Uniformização Jurisprudencial e Machine Learning</i> e <b>Fredie Didier Jr.</b> abordando <i>A Estabilidade Decisória em Plataformas Automatizadas</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:45:00-03:00",
+    "dataFim": "2024-05-17T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda III",
+    "lugar": "Auditório Heleno Fragoso",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Tema: Proteção de Dados e o Sistema Recursal Brasileiro. Participação de <b>Danilo Doneda</b> (em memória, homenagem) representada pelo debatedor <b>Rafael Oliveira</b> com <i>Tratamento de Dados Pessoais nos Tribunais</i> e <b>Patrícia Peck Pinheiro</b> com <i>Cibersegurança e o Devido Processo Legal</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda IV",
+    "lugar": null,
+    "dataInicio": "2024-05-17T16:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Execução Civil e Rastreamento Digital de Ativos. Expositores: <b>Flávio Cheim Jorge</b> apresentando <i>Penhora de Criptoativos e Efetividade da Execução</i> e <b>Gisele Santos Fernandes Góes</b> abordando <i>Sistemas de Constrição Eletrônica de Bens</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Lançamento de Obras Coletivas e Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coquetel de encerramento com sessão de autógrafos da coletânea <i>Direito Processual Contemporâneo: Homenagens aos Juristas Fluminenses</i>, organizada por <b>Vinícius Rezende</b> e <b>Beatriz Galindo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

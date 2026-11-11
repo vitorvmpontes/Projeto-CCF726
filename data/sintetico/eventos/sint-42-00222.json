@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-42-00222",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:47+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 1865
+ },
+ "saida": {
+  "evento": {
+   "nome": "TechFlorestal Summit & Hackathon 2026",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": "Hall Principal do Prédio Central",
+    "dataInicio": "2026-05-16T08:00:00-03:00",
+    "dataFim": "2026-05-16T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Briefing e Formação de Equipes",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T10:00:00-03:00",
+    "descricao": "<p>Apresentação do regulamento do hackathon e dos desafios corporativos conduzida por <b>Mariana Resende</b> e <b>Lucas Faria</b>.</p>",
+    "secao": "Hackathon Agrotech"
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T10:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Arquiteturas Modernas Resilientes e Desafios Críticos de Engenharia de Dados Aplicados ao Agronegócio Sustentável em Larga Escala</i> ministrada pelo engenheiro sênior <b>Rodrigo Albuquerque</b> da AgroCloud Brasil.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T11:45:00-03:00",
+    "descricao": "<p>Apresentação corporativa intitulada <i>Estratégias Avançadas para Transformação Digital Conectada Integrando Soluções Baseadas em Inteligência Artificial Generativa e Internet das Coisas no Campo</i>, conduzida pela especialista <b>Camila Duarte</b> da VeloceTech.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Laboratório de Software 1",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Atendimento aos competidores com suporte técnico dos mentores <b>Felipe Dornas</b> e <b>Tatiane Miranda</b>.</p>",
+    "secao": "Hackathon Agrotech"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2026-05-16T13:30:00-03:00",
+    "dataFim": "2026-05-16T15:00:00-03:00",
+    "descricao": "<p>Minicurso <i>Desenvolvimento e Implementação Rápida de Microsserviços Escaláveis Utilizando Ferramentas em Nuvem para Plataformas Inteligentes de Monitoramento Agrícola</i>, conduzido por <b>Gustavo Nogueira</b>.</p>",
+    "secao": "Trilha Prática"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2026-05-16T13:30:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Rodada de auxílio de negócio e arquitetura com <b>Vinícius Peixoto</b> e <b>Carolina Meireles</b> para validação dos protótipos.</p>",
+    "secao": "Hackathon Agrotech"
+   },
+   {
+    "nome": "Showcase de Startups",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T15:15:00-03:00",
+    "dataFim": "2026-05-16T16:30:00-03:00",
+    "descricao": "<p>Apresentação das soluções desenvolvidas no ecossistema mineiro com mediação de <b>Paula Vasconcelos</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Check-point Final de Código",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2026-05-16T16:30:00-03:00",
+    "dataFim": "2026-05-16T17:00:00-03:00",
+    "descricao": "<p>Submissão final dos repositórios e projetos no sistema do evento com suporte de <b>Lucas Faria</b>.</p>",
+    "secao": "Hackathon Agrotech"
+   },
+   {
+    "nome": "Apresentação dos Pitches",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T17:15:00-03:00",
+    "dataFim": "2026-05-16T18:45:00-03:00",
+    "descricao": "<p>Apresentação das soluções finalistas avaliadas pelo júri composto por <b>Renata Alvarenga</b>, <b>Alexandre Matos</b> e <b>Diego Siqueira</b>.</p>",
+    "secao": "Hackathon Agrotech"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T19:00:00-03:00",
+    "dataFim": "2026-05-16T20:00:00-03:00",
+    "descricao": "<p>Anúncio das equipes vencedoras e entrega dos prêmios pelas lideranças das empresas patrocinadoras com <b>Mariana Resende</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

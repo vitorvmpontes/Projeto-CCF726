@@ -1,0 +1,102 @@
+{
+ "spec": {
+  "id": "sint-42-00310",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Campo Grande - MS",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:53+00:00",
+ "uso_tokens": {
+  "entrada": 702,
+  "saida": 1432
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio de Pós-Graduação em Recursos Naturais e Sustentabilidade do Centro-Oeste",
+   "local_geral": "Universidade Federal de Mato Grosso do Sul (UFMS), Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Materiais",
+    "lugar": "Hall do Complexo Multiuso",
+    "dataInicio": "2023-10-18T07:30:00-03:00",
+    "dataFim": "2023-10-18T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2023-10-18T08:30:00-03:00",
+    "dataFim": "2023-10-18T09:15:00-03:00",
+    "descricao": "<p>Boas-vindas da coordenação com a presença da Profa. Dra. <b>Heloísa Fontes Arantes</b> e do Pró-Reitor de Pesquisa e Pós-Graduação Prof. Dr. <b>Valdomiro Siqueira Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-10-18T09:15:00-03:00",
+    "dataFim": "2023-10-18T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Impactos das mudanças ecossistêmicas globais nos regimes hídricos e na biodiversidade das bacias hidrográficas do Pantanal sul-mato-grossense</i>, ministrada pelo Prof. Dr. <b>Cláudio Renato Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Convivência",
+    "lugar": "Foyer das Araucárias",
+    "dataInicio": "2023-10-18T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática 1",
+    "lugar": null,
+    "dataInicio": "2023-10-18T11:00:00-03:00",
+    "dataFim": "2023-10-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Bioeconomia circular e cadeias agroecológicas sustentáveis</i>. Participação dos debatedores Dr. <b>Thiago Albuquerque Luz</b> e Dra. <b>Miriam Esteves Garcia</b>. Mediação: Profa. <b>Denise Carvalho Rangel</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Mesa Temática 2",
+    "lugar": null,
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da governança ambiental e os conflitos territoriais na conservação de biomas frágeis</i>. Debatedores convidados: Dr. <b>Luciano Nogueira Prado</b> e Profa. Dra. <b>Yara Beatriz Kuhl</b>. Coordenação: Prof. <b>Geraldo Meireles Brandão</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Sessão Integrada de Painéis",
+    "lugar": "Pátio Coberto do Bloco B",
+    "dataInicio": "2023-10-18T15:45:00-03:00",
+    "dataFim": "2023-10-18T17:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos resumos expandidos desenvolvidos por pós-graduandos e pesquisadores bolsistas do estado de Mato Grosso do Sul.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-10-18T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência especial <i>Diretrizes metodológicas contemporâneas para o avanço da produção científica interdisciplinar em programas de pós-graduação das áreas ambientais</i> com o Prof. Emérito <b>Sérgio Paulo Vianna</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos e Confraternização",
+    "lugar": null,
+    "dataInicio": "2023-10-18T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio das menções honrosas da pós-graduação conduzido pela Profa. Dra. <b>Heloísa Fontes Arantes</b> e pelo Prof. Dr. <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

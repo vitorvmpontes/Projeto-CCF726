@@ -1,0 +1,181 @@
+{
+ "spec": {
+  "id": "sint-42-00085",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Santa Maria - RS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 19,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:49+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 2653
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop de Inteligência Artificial Aplicada e Aprendizado Profundo da Região Central",
+   "local_geral": "Centro de Tecnologia - UFSM, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada do Prédio 7",
+    "dataInicio": "2025-10-16T08:00:00-03:00",
+    "dataFim": "2025-10-16T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Anexo do CT",
+    "dataInicio": "2025-10-16T08:45:00-03:00",
+    "dataFim": "2025-10-16T09:15:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora geral <b>Dra. Mariana Dorneles Castro</b> e representantes da direção do centro.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Anexo do CT",
+    "dataInicio": "2025-10-16T09:15:00-03:00",
+    "dataFim": "2025-10-16T10:30:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios contemporâneos na aplicação ética e escalável de grandes modelos de linguagem em diagnósticos médicos complexos no Sistema Único de Saúde</i> ministrada pelo pesquisador <b>Dr. Roberto Fagundes Albuquerque</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-10-16T10:30:00-03:00",
+    "dataFim": "2025-10-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Anexo do CT",
+    "dataInicio": "2025-10-16T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação intitulada <i>Visão Computacional no Monitoramento Agrícola</i> conduzida pelo engenheiro <b>Lucas Medeiros Paim</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-16T12:00:00-03:00",
+    "dataFim": "2025-10-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Redes 2",
+    "dataInicio": "2025-10-16T13:30:00-03:00",
+    "dataFim": "2025-10-16T15:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Fundamentos de PyTorch para Redes Neurais Convolucionais</i> com <b>Juliana Vargas Silveira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": null,
+    "dataInicio": "2025-10-16T13:30:00-03:00",
+    "dataFim": "2025-10-16T15:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Processamento de Linguagem Natural com Hugging Face Transformers</i> ministrado por <b>Carlos Eduardo Zanin</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": null,
+    "dataInicio": "2025-10-16T15:30:00-03:00",
+    "dataFim": "2025-10-16T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Anexo do CT",
+    "dataInicio": "2025-10-16T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão com mediação da <b>Profa. Helena Rocha Neves</b> e debatedores <b>Dr. Marcos Vinicius Costa</b> e <b>Dra. Simone Beltrão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Inovação",
+    "dataInicio": "2025-10-17T08:30:00-03:00",
+    "dataFim": "2025-10-17T10:15:00-03:00",
+    "descricao": "<p>Realização da oficina <i>Implementação robusta de redes generativas adversárias aplicadas à síntese ultra-realista de dados espectrais na agricultura de precisão brasileira</i> facilitada pelo especialista <b>Mateus Becker de Souza</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2025-10-17T09:00:00-03:00",
+    "dataFim": "2025-10-17T10:15:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>Detecção Precoce de Pragas em Soja via Drones</i> por <b>Aline Moreira</b> e <b>Rafael Guedes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": null,
+    "dataInicio": "2025-10-17T10:15:00-03:00",
+    "dataFim": "2025-10-17T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2025-10-17T10:45:00-03:00",
+    "dataFim": "2025-10-17T12:00:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>Classificação de Arritmias Cardíacas com Redes Recorrentes</i> pela pesquisadora <b>Camila Siqueira Dias</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-17T12:00:00-03:00",
+    "dataFim": "2025-10-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Redes 2",
+    "dataInicio": "2025-10-17T13:30:00-03:00",
+    "dataFim": "2025-10-17T15:30:00-03:00",
+    "descricao": "<p>Instrução do curso prático <i>Desenvolvimento e Operacionalização de Modelos MLOps com MLflow</i> conduzido por <b>Thiago Ramos Pinheiro</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Software",
+    "dataInicio": "2025-10-17T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Instrução do minicurso <i>Introdução a Grafos de Conhecimento e Embeddings</i> com a instrutora <b>Renata Lima Fonseca</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra 3",
+    "lugar": "Auditório Anexo do CT",
+    "dataInicio": "2025-10-17T15:45:00-03:00",
+    "dataFim": "2025-10-17T17:00:00-03:00",
+    "descricao": "<p>Exposição da palestra <i>Metodologias emergentes e arquiteturas computacionais escaláveis para treino sustentável de algoritmos de inteligência artificial em ambientes corporativos descentralizados</i> conduzida por <b>Dr. Daniel Fontes Barreto</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão de Premiação e Encerramento",
+    "lugar": "Auditório Anexo do CT",
+    "dataInicio": "2025-10-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Cerimônia de entrega dos prêmios aos melhores trabalhos orientada por <b>Dra. Mariana Dorneles Castro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

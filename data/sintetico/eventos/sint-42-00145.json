@@ -1,0 +1,227 @@
+{
+ "spec": {
+  "id": "sint-42-00145",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Curitiba - PR",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:54+00:00",
+ "uso_tokens": {
+  "entrada": 645,
+  "saida": 3940
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UTFPR 2024",
+   "local_geral": "Câmpus Curitiba - UTFPR, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas da Reitoria e Diretoria de Graduação",
+    "lugar": "Auditório UTFPR Central",
+    "dataInicio": "2024-03-04T08:30:00-03:00",
+    "dataFim": "2024-03-04T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial do semestre letivo com apresentação institucional conduzida pelo Reitor <b>Marcos Flávio de Oliveira</b> e pela Pró-reitora de Graduação <b>Renata Silveira Bueno</b>.</p>",
+    "secao": "Cerimônia de Abertura"
+   },
+   {
+    "nome": "Tour Guiado pelo Câmpus",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-03-04T10:30:00-03:00",
+    "dataFim": "2024-03-04T12:00:00-03:00",
+    "descricao": "<p>Caminhada de reconhecimento dos principais blocos e setores da universidade com a equipe de tutoria liderada por <b>Lucas Gabriel Ramos</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2024-03-04T12:00:00-03:00",
+    "dataFim": "2024-03-04T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com Centros Acadêmicos",
+    "lugar": "Hall do Bloco B",
+    "dataInicio": "2024-03-04T13:30:00-03:00",
+    "dataFim": "2024-03-04T15:00:00-03:00",
+    "descricao": "<p>Bate-papo informal sobre representação estudantil e vivência acadêmica organizado por <b>Camila Duarte</b> e <b>Felipe Meireles</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Oficina de Sobrevivência Acadêmica",
+    "lugar": "Sala de Informática 3",
+    "dataInicio": "2024-03-04T15:30:00-03:00",
+    "dataFim": "2024-03-04T17:00:00-03:00",
+    "descricao": "<p>Instruções práticas sobre o uso dos portais acadêmicos e do sistema de biblioteca com o bibliotecário <b>Tiago Mendonça</b> e a monitora <b>Bruna Castanho</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Trote Solidário: Cadastro de Doadores",
+    "lugar": "Tenda da Saúde - Pátio Central",
+    "dataInicio": "2024-03-04T15:30:00-03:00",
+    "dataFim": "2024-03-04T18:00:00-03:00",
+    "descricao": "<p>Campanha de conscientização sobre doação de sangue e medula óssea coordenada pela enfermeira <b>Patrícia Antunes</b> em parceria com o Hemepar.</p>",
+    "secao": "Ações Solidárias"
+   },
+   {
+    "nome": "Apresentação da Bateria Universitária",
+    "lugar": "Praça dos Arcos",
+    "dataInicio": "2024-03-04T18:00:00-03:00",
+    "dataFim": "2024-03-04T19:00:00-03:00",
+    "descricao": "<p>Intervenção musical com a Bateria Fúria Acadêmica sob regência de <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório UTFPR Central",
+    "dataInicio": "2024-03-04T19:30:00-03:00",
+    "dataFim": "2024-03-04T21:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Desafios da Formação Superior e Saúde Mental dos Estudantes</i> com a participação do psicólogo <b>Diego Ferreira</b> e da assistente social <b>Clarice Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelo Câmpus",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-03-05T08:30:00-03:00",
+    "dataFim": "2024-03-05T10:00:00-03:00",
+    "descricao": "<p>Segunda turma de reconhecimento das instalações do câmpus voltada para os calouros que não puderam participar no primeiro dia, orientada por <b>Aline Guimarães</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Palestra Informativa",
+    "lugar": "Miniauditório do Bloco C",
+    "dataInicio": "2024-03-05T10:15:00-03:00",
+    "dataFim": "2024-03-05T11:45:00-03:00",
+    "descricao": "<p>Apresentação das oportunidades em <i>Programas de Iniciação Científica e Tecnológica</i> ministrada pelo professor <b>Henrique Pires de Souza</b>.</p>",
+    "secao": "Oportunidades Acadêmicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2024-03-05T12:00:00-03:00",
+    "dataFim": "2024-03-05T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Empresas Juniores e Projetos de Extensão",
+    "lugar": "Ginásio de Esportes",
+    "dataInicio": "2024-03-05T13:30:00-03:00",
+    "dataFim": "2024-03-05T16:00:00-03:00",
+    "descricao": "<p>Mostra dos projetos extracurriculares e entidades estudantis organizada pela coordenadora de extensão <b>Mariana Klock</b>.</p>",
+    "secao": "Oportunidades Acadêmicas"
+   },
+   {
+    "nome": "Oficina de Sobrevivência Acadêmica",
+    "lugar": "Laboratório de Redes - Bloco D",
+    "dataInicio": "2024-03-05T14:00:00-03:00",
+    "dataFim": "2024-03-05T15:30:00-03:00",
+    "descricao": "<p>Sessão complementar com dicas de organização de estudos e acesso a bases bibliográficas com o professor <b>Carlos Eduardo Vianna</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Gincana de Integração Intercursos",
+    "lugar": "Campo de Futebol e Pista de Atletismo",
+    "dataInicio": "2024-03-05T16:00:00-03:00",
+    "dataFim": "2024-03-05T18:00:00-03:00",
+    "descricao": "<p>Atividades recreativas e jogos cooperativos coordenados pelo educador físico <b>Guilherme Batista</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Cine-Debate Universitário",
+    "lugar": "Auditório UTFPR Central",
+    "dataInicio": "2024-03-05T18:30:00-03:00",
+    "dataFim": "2024-03-05T20:30:00-03:00",
+    "descricao": "<p>Exibição de curtas-metragens independentes seguida de debate mediado pela professora <b>Isabela Fontes</b> e pelo crítico de cinema <b>Otávio Macedo</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Show Acústico no Bosque",
+    "lugar": "Bosque dos Ipês",
+    "dataInicio": "2024-03-05T20:45:00-03:00",
+    "dataFim": "2024-03-05T22:00:00-03:00",
+    "descricao": "<p>Apresentação musical voz e violão com os estudantes <b>Pedro Álvares</b> e <b>Larissa Nogueira</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Trote Solidário: Plantio de Mudas Nativas",
+    "lugar": "Jardim Botânico do Câmpus",
+    "dataInicio": "2024-03-06T09:00:00-03:00",
+    "dataFim": "2024-03-06T11:00:00-03:00",
+    "descricao": "<p>Ação socioambiental de plantio de árvores nativas da Mata Atlântica liderada pela bióloga <b>Vanessa Camargo</b>.</p>",
+    "secao": "Ações Solidárias"
+   },
+   {
+    "nome": "Palestra Informativa",
+    "lugar": "Miniauditório do Bloco C",
+    "dataInicio": "2024-03-06T09:30:00-03:00",
+    "dataFim": "2024-03-06T11:00:00-03:00",
+    "descricao": "<p>Orientações sobre editais de intercâmbio e cooperação no exterior com o coordenador de relações internacionais <b>Arthur Zanin</b> sobre o tema <i>Mobilidade Internacional na Graduação</i>.</p>",
+    "secao": "Oportunidades Acadêmicas"
+   },
+   {
+    "nome": "Roda de Conversa com Centros Acadêmicos",
+    "lugar": "Sala de Estudos Coletivos - Biblioteca",
+    "dataInicio": "2024-03-06T11:00:00-03:00",
+    "dataFim": "2024-03-06T12:30:00-03:00",
+    "descricao": "<p>Encontro de acolhimento específico para calouros dos cursos noturnos e transferidos conduzido pela acadêmica <b>Tatiane Rocha</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2024-03-06T12:30:00-03:00",
+    "dataFim": "2024-03-06T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Torneio Relâmpago de Tênis de Mesa e Xadrez",
+    "lugar": "Saguão das Atléticas",
+    "dataInicio": "2024-03-06T14:00:00-03:00",
+    "dataFim": "2024-03-06T16:30:00-03:00",
+    "descricao": "<p>Competição amistosa de jogos de mesa organizada pelo representante da Liga das Atléticas <b>Vinícius Peixoto</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Oficina de Sobrevivência Acadêmica",
+    "lugar": "Auditório do Bloco F",
+    "dataInicio": "2024-03-06T15:00:00-03:00",
+    "dataFim": "2024-03-06T16:30:00-03:00",
+    "descricao": "<p>Sessão especial sobre normas da ABNT e gestão do tempo acadêmico ministrada pela pesquisadora <b>Heloísa Schmidt</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Apresentação da Bateria Universitária",
+    "lugar": "Estacionamento dos Estudantes",
+    "dataInicio": "2024-03-06T17:00:00-03:00",
+    "dataFim": "2024-03-06T18:00:00-03:00",
+    "descricao": "<p>Ensaio aberto especial de boas-vindas com ritmo e animação para recepcionar a turma da noite com o mestre de bateria <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório UTFPR Central",
+    "dataInicio": "2024-03-06T18:30:00-03:00",
+    "dataFim": "2024-03-06T20:00:00-03:00",
+    "descricao": "<p>Painel sobre <i>Inovação, Mercado de Trabalho e o Futuro da Engenharia e Tecnologia</i> mediado pelo professor <b>Sérgio Toledo</b> e com presença dos egressos <b>Natália Borges</b> e <b>Jorge Linhares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Festa das Cores e Show de Encerramento",
+    "lugar": "Praça dos Arcos",
+    "dataInicio": "2024-03-06T20:30:00-03:00",
+    "dataFim": "2024-03-06T23:00:00-03:00",
+    "descricao": "<p>Confraternização final dos calouros com apresentação da banda estudantil <i>Os Resistores</i> sob coordenação de <b>Gabriel Santos</b>.</p>",
+    "secao": "Programação Cultural"
+   }
+  ]
+ }
+}

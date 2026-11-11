@@ -1,0 +1,203 @@
+{
+ "spec": {
+  "id": "sint-42-00278",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 22,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:47+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 3263
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Minas Summit 2023",
+   "local_geral": "Centro de Convenções Expominas Juiz de Fora, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-17T08:00:00-03:00",
+    "dataFim": "2023-08-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do secretário regional de agricultura <b>Marcos Vinícius Resende</b> e do diretor-presidente da Agência de Inovação de Juiz de Fora, <b>Dr. Hélio Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Tendências",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2023-08-17T09:40:00-03:00",
+    "dataFim": "2023-08-17T10:40:00-03:00",
+    "descricao": "<p>Discussão sobre <i>O Futuro da Agricultura Regenerativa e Conectividade no Campo</i>, com participação de <b>Dra. Juliana Prado</b> (Embrapa Solos) e <b>Eduardo Furtado</b> (InovaAgro Brasil).</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Circuito de Networking e Café Regional",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-08-17T10:40:00-03:00",
+    "dataFim": "2023-08-17T11:10:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2023-08-17T11:10:00-03:00",
+    "dataFim": "2023-08-17T12:20:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>Uso de Sensores IoT para Eficiência Hídrica na Cafeicultura</i> conduzida pelo pesquisador <b>Thiago Meirelles</b> (UFV).</p>",
+    "secao": "Trilhas Técnicas - Manhã"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Sala Inovação 1",
+    "dataInicio": "2023-08-17T11:10:00-03:00",
+    "dataFim": "2023-08-17T12:20:00-03:00",
+    "descricao": "<p>Palestra com o tema <i>Automação e Robótica na Pecuária de Leite: Do Cocho à Ordenha Inteligente</i> ministrada pela especialista <b>Mariana Castro Alvim</b>.</p>",
+    "secao": "Trilhas Técnicas - Manhã"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-17T12:20:00-03:00",
+    "dataFim": "2023-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática A",
+    "lugar": "Laboratório de Prototipagem",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T15:30:00-03:00",
+    "descricao": "<p>Treinamento intensivo sobre <i>Processamento de Imagens de Drones para Mapeamento de Pragas</i> conduzido pelo engenheiro agrônomo <b>Lucas Fontes Guimarães</b>.</p>",
+    "secao": "Workshops Simultâneos"
+   },
+   {
+    "nome": "Oficina Prática B",
+    "lugar": "Sala de Treinamento 2",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T15:30:00-03:00",
+    "descricao": "<p>Workshop <i>Modelagem de Crédito de Carbono para Pequenos e Médios Produtores</i> ministrado pela consultora ambiental <b>Clara Valadares</b>.</p>",
+    "secao": "Workshops Simultâneos"
+   },
+   {
+    "nome": "Sessão Pitch Agtechs",
+    "lugar": "Arena Startups",
+    "dataInicio": "2023-08-17T15:40:00-03:00",
+    "dataFim": "2023-08-17T17:00:00-03:00",
+    "descricao": "<p>Apresentação das dez soluções finalistas do desafio de inovação aberta perante a banca avaliadora composta por <b>Rodrigo Vasconcelos</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento do Dia 1",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2023-08-17T17:15:00-03:00",
+    "dataFim": "2023-08-17T18:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Crédito Rural Verde e Venture Capital no Agronegócio Brasileiro</i> com mediação de <b>Roberto Antunes</b> e participação de <b>Fernanda Esteves</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Desjejum de Negócios",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Setorial 1",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2023-08-18T09:15:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Biotecnologia e Bioinsumos: Substituindo Químicos no Manejo Integrado</i> pela pesquisadora <b>Renata Silveira Bueno</b>.</p>",
+    "secao": "Painéis da Manhã"
+   },
+   {
+    "nome": "Palestra Setorial 2",
+    "lugar": "Sala Inovação 1",
+    "dataInicio": "2023-08-18T09:15:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Rastreabilidade por Blockchain na Cadeia de Exportação de Grãos</i> com o especialista <b>Fábio Lourenço Costa</b>.</p>",
+    "secao": "Painéis da Manhã"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T10:30:00-03:00",
+    "dataFim": "2023-08-18T10:50:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra Científica Integrada",
+    "lugar": "Corredor das Nações",
+    "dataInicio": "2023-08-18T10:50:00-03:00",
+    "dataFim": "2023-08-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres e trabalhos acadêmicos sob coordenação do <b>Prof. Gilberto Amaral</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-18T12:30:00-03:00",
+    "dataFim": "2023-08-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 1",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T15:20:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Transição Energética no Agro: Biomassa e Solar nas Propriedades</i>, com <b>Patrícia Lacerda</b> e <b>André Martins Carvalho</b>.</p>",
+    "secao": "Sessões Finais de Discussão"
+   },
+   {
+    "nome": "Mesa de Debates 2",
+    "lugar": "Sala de Treinamento 2",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T15:20:00-03:00",
+    "descricao": "<p>Painel com o tema <i>Segurança Cibernética para Redes Agroindustriais</i>, debatido por <b>Gustavo Brandão</b> e <b>Aline Morais</b>.</p>",
+    "secao": "Sessões Finais de Discussão"
+   },
+   {
+    "nome": "Demoday de Soluções Sustentáveis",
+    "lugar": "Arena Startups",
+    "dataInicio": "2023-08-18T15:30:00-03:00",
+    "dataFim": "2023-08-18T16:45:00-03:00",
+    "descricao": "<p>Demonstração ao vivo de protótipos e tecnologias verdes selecionadas, mediada por <b>Vanessa Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação AgroTech Destaque 2023",
+    "lugar": "Auditório Campo Belo",
+    "dataInicio": "2023-08-18T17:00:00-03:00",
+    "dataFim": "2023-08-18T17:45:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do desafio e entrega dos troféus pelos avaliadores <b>Beatriz Mendonça</b> e <b>Carlos Eduardo Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-08-18T18:00:00-03:00",
+    "dataFim": "2023-08-18T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

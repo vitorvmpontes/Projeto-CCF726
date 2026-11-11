@@ -1,0 +1,253 @@
+{
+ "spec": {
+  "id": "sint-42-00136",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Londrina - PR",
+  "ano": 2024,
+  "n_dias": 5,
+  "n_atividades": 28,
+  "casos": [
+   "titulos_longos",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:16+00:00",
+ "uso_tokens": {
+  "entrada": 694,
+  "saida": 3999
+ },
+ "saida": {
+  "evento": {
+   "nome": "Londrina Tech Summit & Hackathon 2024",
+   "local_geral": "Parque Tecnológico de Londrina, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in de Participantes",
+    "lugar": "Hall Central",
+    "dataInicio": "2024-10-16T08:00:00-03:00",
+    "dataFim": "2024-10-16T09:30:00-03:00",
+    "descricao": "<p>Retirada de crachás e kits de boas-vindas com a equipe coordenada por <b>Juliana Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-16T09:30:00-03:00",
+    "dataFim": "2024-10-16T11:00:00-03:00",
+    "descricao": "<p>Apresentação <i>O Futuro dos Ecossistemas de Inovação e Inteligência Artificial no Norte Pioneiro</i>, conduzida por <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-10-16T12:00:00-03:00",
+    "dataFim": "2024-10-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Corporativa 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T15:30:00-03:00",
+    "descricao": "<p>Sessão corporativa apresentada por <b>Renato Guimarães</b> abordando o case <i>Escalabilidade de Microsserviços e Arquiteturas Modernas em Ambientes de Alta Disponibilidade Corporativa</i>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Mentoria com Especialistas",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2024-10-16T16:00:00-03:00",
+    "dataFim": "2024-10-16T18:00:00-03:00",
+    "descricao": "<p>Atendimento individual aos projetos com os mentores <b>Patrícia Ramos</b> e <b>Diego Fontes</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório 3",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T11:00:00-03:00",
+    "descricao": "<p>Oficina prática <i>Fundamentos e Aplicações Práticas de Engenharia de Prompts para Automação de Processos Empresariais com Modelos Abertos</i>, ministrada por <b>Fernando Castilho</b>.</p>",
+    "secao": "Workshops Hands-On"
+   },
+   {
+    "nome": "Painel Empresarial",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-17T10:00:00-03:00",
+    "dataFim": "2024-10-17T12:00:00-03:00",
+    "descricao": "<p>Debate sobre tendências de contratação em tecnologia mediado por <b>Larissa Neves</b>, com a participação de <b>Marcos Botelho</b> e <b>Sabrina Alencar</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Lançamento do Desafio Hackathon",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2024-10-17T13:30:00-03:00",
+    "dataFim": "2024-10-17T15:00:00-03:00",
+    "descricao": "<p>Divulgação das diretrizes do desafio sob coordenação de <b>Thiago Mendonça</b> e <b>Beatriz Luz</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório 3",
+    "dataInicio": "2024-10-17T15:30:00-03:00",
+    "dataFim": "2024-10-17T17:30:00-03:00",
+    "descricao": "<p>Instrutor <b>Marcelo Tanaka</b> conduzindo a oficina <i>Pipelines Seguros de Integração e Entrega Contínua em Kubernetes</i>.</p>",
+    "secao": "Workshops Hands-On"
+   },
+   {
+    "nome": "Happy Hour e Networking",
+    "lugar": null,
+    "dataInicio": "2024-10-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Check-in do Hackathon",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2024-10-18T08:30:00-03:00",
+    "dataFim": "2024-10-18T09:30:00-03:00",
+    "descricao": "<p>Confirmação das equipes participantes com supervisão de <b>Camila Duarte</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Corporativa 2",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-18T09:30:00-03:00",
+    "dataFim": "2024-10-18T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Observabilidade e Monitoramento de Sistemas Críticos em Nuvem</i> com o engenheiro <b>Lucas Pinheiro</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Mentoria com Especialistas",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2024-10-18T11:00:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Sessão de validação de problemas de negócio com <b>Rodrigo Cordeiro</b> e <b>Aline Valente</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Técnica Especial",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T15:45:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Estratégias de Cibersegurança Proativa e Governança para Resiliência Operacional Contra Vazamento de Dados Sensíveis nas Organizações</i> por <b>Alexandre Fogaça</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Laboratório 2",
+    "dataInicio": "2024-10-18T16:00:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Desenvolvimento Rápido de APIs com Golang e gRPC</i> liderada por <b>Priscila Meireles</b>.</p>",
+    "secao": "Workshops Hands-On"
+   },
+   {
+    "nome": "Início da Maratona Noturna",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2024-10-18T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura do período noturno ininterrupto de desenvolvimento sob gestão de <b>Thiago Mendonça</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Plantão de Dúvidas Tecnológicas",
+    "lugar": null,
+    "dataInicio": "2024-10-18T21:00:00-03:00",
+    "dataFim": "2024-10-18T23:00:00-03:00",
+    "descricao": "<p>Suporte de desenvolvimento remoto e presencial conduzido pelo voluntário <b>Vinícius Prado</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Sessão de Alongamento e Saúde",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2024-10-19T08:00:00-03:00",
+    "dataFim": "2024-10-19T08:45:00-03:00",
+    "descricao": "<p>Ginástica laboral e pausa ativa com o educador físico <b>Otávio Souza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria com Especialistas",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2024-10-19T09:30:00-03:00",
+    "dataFim": "2024-10-19T11:30:00-03:00",
+    "descricao": "<p>Mentoria focada em prototipagem e UX com <b>Helena Martins</b> e <b>Bruno Toledo</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Corporativa 3",
+    "lugar": null,
+    "dataInicio": "2024-10-19T10:30:00-03:00",
+    "dataFim": "2024-10-19T12:00:00-03:00",
+    "descricao": "<p>Apresentação online e presencial <i>Transformação Cultural para Adoção de Agilidade em Times Remotos</i> por <b>Renata Peixoto</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-10-19T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Treinamento de Pitch",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-19T14:00:00-03:00",
+    "dataFim": "2024-10-19T16:00:00-03:00",
+    "descricao": "<p>Workshop <i>Como Estruturar uma Apresentação de Impacto em Três Minutos</i> ministrado por <b>Gustavo Nogueira</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Encerramento do Código",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2024-10-19T18:00:00-03:00",
+    "dataFim": "2024-10-19T18:15:00-03:00",
+    "descricao": "<p>Congelamento dos repositórios e entrega final dos protótipos fiscalizada por <b>Camila Duarte</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Feira de Carreiras",
+    "lugar": "Hall Central",
+    "dataInicio": "2024-10-20T09:00:00-03:00",
+    "dataFim": "2024-10-20T12:00:00-03:00",
+    "descricao": "<p>Espaço de recrutamento e contato com empresas de tecnologia com abertura oficial por <b>Juliana Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Pitches",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-20T10:00:00-03:00",
+    "dataFim": "2024-10-20T12:30:00-03:00",
+    "descricao": "<p>Apresentação das soluções finalistas avaliadas pela banca composta por <b>Vanessa Rangel</b>, <b>Paulo Henrique Lima</b> e <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-10-20T12:30:00-03:00",
+    "dataFim": "2024-10-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-20T14:30:00-03:00",
+    "dataFim": "2024-10-20T16:00:00-03:00",
+    "descricao": "<p>Divulgação dos projetos vencedores do Hackathon com entrega dos troféus realizada por <b>Thiago Mendonça</b> e <b>Beatriz Luz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-10-20T16:30:00-03:00",
+    "dataFim": "2024-10-20T17:30:00-03:00",
+    "descricao": "<p>Agradecimentos finais da comissão organizadora liderada por <b>Carlos Eduardo Siqueira</b> e <b>Juliana Vasconcelos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

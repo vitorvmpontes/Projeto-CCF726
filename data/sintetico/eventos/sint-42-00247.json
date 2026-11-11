@@ -1,0 +1,116 @@
+{
+ "spec": {
+  "id": "sint-42-00247",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 11,
+  "casos": [
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:52+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 1970
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Integração e Acolhimento dos Calouros 2026 - UFRJ",
+   "local_geral": "Centro de Tecnologia (CT) - Cidade Universitária, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega do Kit Calouro",
+    "lugar": "Hall de Entrada do Bloco A",
+    "dataInicio": "2026-03-09T08:00:00-03:00",
+    "dataFim": "2026-03-09T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas aos novos estudantes com distribuição de guias acadêmicos e crachás sob orientação da coordenadora geral <b>Profª. Helena Dornelles</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Horta Barbosa",
+    "dataInicio": "2026-03-09T09:00:00-03:00",
+    "dataFim": "2026-03-09T10:15:00-03:00",
+    "descricao": "<p>A Universidade Pública e seus Desafios Contemporâneos. Mesa composta pelo reitor <b>Prof. Carlos Eduardo Siqueira</b>, pela pró-reitora de graduação <b>Dra. Mariana Peixoto</b> e pelo representante discente <b>Lucas Guimarães</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": "Pátio das Esculturas",
+    "dataInicio": "2026-03-09T10:30:00-03:00",
+    "dataFim": "2026-03-09T11:45:00-03:00",
+    "descricao": "<p>Reconhecimento dos principais espaços da universidade: bibliotecas, bandejão, laboratórios centrais e secretarias acadêmicas, conduzido pelo monitor sênior <b>Rodrigo Vasconcellos</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Almoço Coletivo no Bandejão",
+    "lugar": "Restaurante Universitário Central",
+    "dataInicio": "2026-03-09T11:45:00-03:00",
+    "dataFim": "2026-03-09T13:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Oportunidades Acadêmicas",
+    "lugar": "Auditório Bloco C",
+    "dataInicio": "2026-03-09T13:30:00-03:00",
+    "dataFim": "2026-03-09T14:45:00-03:00",
+    "descricao": "<p>Construindo sua Trajetória: Pesquisa, Extensão e Intercâmbio. Apresentação coordenada pelo <b>Prof. Felipe Nogueira</b>, com os relatos <i>Inserção em Iniciação Científica</i> por <b>Beatriz Alencar</b>, <i>Projetos Sociais nas Favelas Cariocas</i> por <b>Thiago Mendonça</b> e <i>Mobilidade Internacional e Dupla Diplomação</i> por <b>Camila Antunes</b>.</p>",
+    "secao": "Vivências Universitárias"
+   },
+   {
+    "nome": "Mostra de Extensão e Empresas Juniores",
+    "lugar": "Tenda Cultural do Bloco E",
+    "dataInicio": "2026-03-09T14:45:00-03:00",
+    "dataFim": "2026-03-09T16:00:00-03:00",
+    "descricao": "<p>Estandes interativos das organizações estudantis sob mediação de <b>Juliana Prado</b>. Trabalhos em destaque: <i>Soluções Sustentáveis na Baía de Guanabara</i> por <b>Marcos Vinícius Costa</b>, <i>Robótica Educacional para Escolas Públicas</i> por <b>Aline Fonseca</b> e <i>Consultoria Financeira Solidária</i> por <b>Gabriel Barreto</b>.</p>",
+    "secao": "Vivências Universitárias"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-03-09T16:15:00-03:00",
+    "dataFim": "2026-03-09T17:30:00-03:00",
+    "descricao": "<p>Sobrevivendo ao SIGA e às Plataformas Digitais de Aprendizagem. Ministrada pela técnica <b>Carla Ribeiro</b> e pelo monitor <b>Daniel Fontes</b>.</p>",
+    "secao": "Oficinas Práticas de Adaptação"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala 102 - Bloco D",
+    "dataInicio": "2026-03-09T16:15:00-03:00",
+    "dataFim": "2026-03-09T17:30:00-03:00",
+    "descricao": "<p>Gestão do Tempo e Saúde Mental no Ensino Superior. Conduzida pela psicóloga convidada <b>Drª. Renata Silveira</b>.</p>",
+    "secao": "Oficinas Práticas de Adaptação"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala de Dança do Bloco F",
+    "dataInicio": "2026-03-09T16:15:00-03:00",
+    "dataFim": "2026-03-09T17:30:00-03:00",
+    "descricao": "<p>Expressão Corporal, Respiração e Autocuidado. Ministrada pelo instrutor <b>Marcelo Pimentel</b>.</p>",
+    "secao": "Oficinas Práticas de Adaptação"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Térreo do Bloco A",
+    "dataInicio": "2026-03-09T17:45:00-03:00",
+    "dataFim": "2026-03-09T18:45:00-03:00",
+    "descricao": "<p>Diálogos sobre Permanência Estudantil, Coletivos e Diversidade. Coordenada pelo coletivo de veteranos com a presença de <b>Letícia Borges</b> e <b>Otávio Zanin</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Trote Cultural e Calourada",
+    "lugar": "Espaço Aberto dos Pilotis",
+    "dataInicio": "2026-03-09T19:00:00-03:00",
+    "dataFim": "2026-03-09T21:30:00-03:00",
+    "descricao": "<p>Integração lúdica e artística livre de violência, com apresentação musical do grupo da escola de samba mirim sob regência do maestro <b>Jorginho da Cuíca</b> e discotecagem com <b>DJ Amanda Paz</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

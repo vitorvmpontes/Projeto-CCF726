@@ -1,0 +1,157 @@
+{
+ "spec": {
+  "id": "sint-42-00452",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Campo Grande - MS",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 16,
+  "casos": [
+   "subtitulo_separado",
+   "sem_local",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:22+00:00",
+ "uso_tokens": {
+  "entrada": 670,
+  "saida": 2411
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado de Autoavaliação Institucional e Gestão Pública da CPA",
+   "local_geral": "Universidade Estadual de Mato Grosso do Sul (UEMS) - Unidade Universitária de Campo Grande"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall de Entrada do Bloco B",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos da Comissão Própria de Avaliação com a presença da reitora <b>Helena Vasconcelos</b> e do presidente da comissão <b>Gilberto Santana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-18T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Os Desafios do Sinaes na Regulação e Autoavaliação do Ensino Superior</i>, ministrada pelo <b>Prof. Dr. Cláudio Neves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-19T08:30:00-03:00",
+    "dataFim": "2026-05-19T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Instrumentos Diagnósticos e Engajamento da Comunidade Acadêmica</i>. Debatedores: <b>Mariana Antunes</b> e <b>Carlos Eduardo Ferraz</b>. Mediação: <b>Renata Albuquerque</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": null,
+    "dataInicio": "2026-05-19T10:30:00-03:00",
+    "dataFim": "2026-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Dimensão Social e as Políticas Afirmativas nos Relatórios da CPA</i>. Participação de <b>Eliane Brandão</b> e <b>Marcio Vinicius Toledo</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-05-19T14:00:00-03:00",
+    "dataFim": "2026-05-19T17:30:00-03:00",
+    "descricao": "<p>Capacitação prática: <i>Tratamento de Dados Quantitativos e Qualitativos com o Software R</i>, coordenada pela estatística <b>Fabiana Diniz</b>.</p>",
+    "secao": "Oficinas de Metodologia"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2026-05-20T08:30:00-03:00",
+    "dataFim": "2026-05-20T11:30:00-03:00",
+    "descricao": "<p>Trabalho prático: <i>Construção de Indicadores de Avaliação Docente e Infraestrutura</i>. Ministrantes: <b>Lucas Guimarães</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Oficinas de Metodologia"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:00:00-03:00",
+    "dataFim": "2026-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": null,
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço para troca: <i>A Percepção dos Estudantes sobre a Efetividade do Relatório da CPA</i>. Conduzido pelas representações estudantis sob moderação de <b>Thiago Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Relatos de Experiência",
+    "lugar": "Átrio do Prédio 1",
+    "dataInicio": "2026-05-21T09:00:00-03:00",
+    "dataFim": "2026-05-21T11:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos <i>Implantação de Questionários Digitais no Campus Pantanal</i> por <b>Juliana Pires</b> e <i>Sensibilização de Técnicos-Administrativos para a Autoavaliação</i> por <b>Robson Queiroz</b>.</p>",
+    "secao": "Sessões de Boas Práticas"
+   },
+   {
+    "nome": "Mesa de Compartilhamento Interinstitucional",
+    "lugar": null,
+    "dataInicio": "2026-05-21T11:15:00-03:00",
+    "dataFim": "2026-05-21T12:45:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Cooperação entre CPAs do Centro-Oeste</i>. Palestrantes convidados: <b>Patrícia Lemes</b> e <b>Sérgio Ramos</b>.</p>",
+    "secao": "Sessões de Boas Práticas"
+   },
+   {
+    "nome": "Grupos de Trabalho Setoriais",
+    "lugar": "Salas de Aula 102 a 105",
+    "dataInicio": "2026-05-21T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subdivisão das comissões setoriais para revisão do Plano de Desenvolvimento Institucional (PDI). Coordenação de <b>Vanessa Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária Geral de Deliberações",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Discussão e votação do documento orientador para o ciclo avaliativo 2026-2028 com a participação do relator <b>André Siqueira</b>.</p>",
+    "secao": "Encerramento e Encaminhamentos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall de Entrada do Bloco B",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Encerramento e Encaminhamentos"
+   },
+   {
+    "nome": "Palestra de Fechamento",
+    "lugar": null,
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": "2026-05-22T12:15:00-03:00",
+    "descricao": "<p>Apresentação: <i>Impactos da Inteligência Artificial nos Processos Avaliativos Universitários</i> pelo pesquisador <b>Gustavo Camargo</b>.</p>",
+    "secao": "Encerramento e Encaminhamentos"
+   },
+   {
+    "nome": "Ato de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-22T12:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura da carta final do fórum conduzida por <b>Gilberto Santana</b> e entrega de certificados.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

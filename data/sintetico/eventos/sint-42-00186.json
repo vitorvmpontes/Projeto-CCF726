@@ -1,0 +1,212 @@
+{
+ "spec": {
+  "id": "sint-42-00186",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Vitória - ES",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 23,
+  "casos": [
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:01+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 3378
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Capixaba de Sustentabilidade e Gestão Costeira",
+   "local_geral": "Centro de Convenções de Vitória, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T09:40:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do secretário estadual de Meio Ambiente <b>Felipe Lorenzon</b> e da reitora <b>Renata Drumond</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-16T09:40:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Governança Ambiental em Zonas Estuarinas no Século XXI</i>, proferida pelo Dr. <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo Sustentável",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Recuperação de Manguezais Urbanos e Monitoramento de Fauna</i>. Participantes: <b>Mariana Rios Esteves</b>, <b>Gustavo Peçanha</b> e mediação de <b>Aline Guimarães</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:30:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Verde",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento Geoespacial de Resíduos Sólidos em Praias Urbanas</i>. Instrutor: <b>Diego Brandão</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Oficina de Compostagem",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:45:00-03:00",
+    "descricao": "<p>Técnicas de compostagem termofílica comunitária com a agrônoma <b>Bárbara Vilaça</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Mostra de Pôsteres",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2024-05-16T15:45:00-03:00",
+    "dataFim": "2024-05-16T16:45:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de iniciação científica e relatos de experiência sobre conservação marinha.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-16T16:45:00-03:00",
+    "dataFim": "2024-05-16T18:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Transição Energética e Descarbonização Portuária</i> com <b>Rodrigo Vianna</b>, <b>Helena Camargo</b> e moderação de <b>Pedro Lucas Muniz</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Cine Debate Socioambiental",
+    "lugar": "Sala Multimídia",
+    "dataInicio": "2024-05-16T18:30:00-03:00",
+    "dataFim": "2024-05-16T19:30:00-03:00",
+    "descricao": "<p>Exibição da produção independente <i>Águas de Vitória: Memórias da Baía</i>, seguida de conversa com a diretora <b>Larissa Barcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Verde",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Indicadores Bioquímicos para Avaliação da Qualidade de Águas Fluviais</i>. Ministrada pela Profa. Dra. <b>Fernanda Zanetti</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Baía das Tartarugas",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Comunicações orais no eixo <i>Gestão Integrada de Bacias Hidrográficas</i>. Coordenador da sessão: <b>Thiago Antunes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo Sustentável",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Baía das Tartarugas",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos selecionados com o tema <i>Políticas Públicas e Resiliência Climática Costeira</i>. Coordenação de <b>Patrícia Nogueira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Economia Circular Aplicada à Indústria da Pesca Artesanal</i> com os palestrantes <b>Valmir Santos</b>, <b>Kátia Meireles</b> e mediação de <b>Sérgio Linhares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Saberes Tradicionais",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:00:00-03:00",
+    "descricao": "<p>Compartilhamento com marisqueiras e mestres de congo sobre <i>Proteção Coletiva dos Territórios Pesqueiros</i>. Condução por <b>Dona Maria da Penha</b> e <b>Mestre Reginaldo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Compostagem",
+    "lugar": "Espaço Horto",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:00:00-03:00",
+    "descricao": "<p>Aplicação de minhocários domésticos em pequenos espaços urbanos com o biólogo <b>Lucas Faria</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Painel Temático 3",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-17T15:00:00-03:00",
+    "dataFim": "2024-05-17T16:30:00-03:00",
+    "descricao": "<p>Eixo temático: <i>Crise Climática e Impactos no Nível do Mar no Litoral Sudeste</i>, apresentado por <b>Cláudia Pignaton</b> e <b>Jorge Bernardi</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo Sustentável",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2024-05-17T16:30:00-03:00",
+    "dataFim": "2024-05-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-17T17:00:00-03:00",
+    "dataFim": "2024-05-17T18:15:00-03:00",
+    "descricao": "<p>Conferência <i>O Futuro dos Oceanos e o Papel das Cidades Litorâneas</i> ministrada pela pesquisadora <b>Beatriz Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Fechamento",
+    "lugar": "Auditório Mar Casado",
+    "dataInicio": "2024-05-17T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do prêmio de incentivo à pesquisa ecológica <i>Vitória Sustentável 2024</i> conduzida por <b>Aline Guimarães</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

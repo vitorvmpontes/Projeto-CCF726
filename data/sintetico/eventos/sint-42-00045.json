@@ -1,0 +1,110 @@
+{
+ "spec": {
+  "id": "sint-42-00045",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Recife - PE",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:42+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 1716
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIX Congresso Brasileiro de Engenharia de Software e Sistemas",
+   "local_geral": "Centro de Convenções de Pernambuco, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-16T08:30:00-03:00",
+    "dataFim": "2024-10-16T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo presidente da comissão organizadora, <b>Prof. Carlos Eduardo Silveira</b> (UFPE).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-16T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Inteligência Artificial na Manutenção de Software Crítico. Palestrante: <b>Dra. Mariana Vasconcelos</b>.</p><p>Apresentação do estudo <i>Estratégias Preditivas de Refatoração em Ambientes de Nuvem</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Capibaribe",
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T15:30:00-03:00",
+    "descricao": "<p>Tema: Testes e Garantia de Qualidade. Coordenação de <b>Prof. Thiago Mello</b>.</p><p>Apresentação dos artigos <i>Avaliação Heurística de Testes Automatizados em Microserviços</i> por <b>Renato Guimarães</b> e <i>Mutação Concorrente Aplicada a Sistemas Embarcados</i> por <b>Juliana Paes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Beberibe",
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T15:30:00-03:00",
+    "descricao": "<p>Tema: Arquitetura de Software e DevOps. Moderação de <b>Profa. Beatriz Campello</b>.</p><p>Trabalhos: <i>Monitoramento Contínuo com Métricas de Observabilidade Adaptativa</i> por <b>Lucas Albuquerque</b> e <i>Evolução de Monólitos para Serverless</i> por <b>Fernanda Tavares</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Capibaribe",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T10:30:00-03:00",
+    "descricao": "<p>Tema: Engenharia de Requisitos e Métodos Ágeis. Coordenadora: <b>Profa. Eliane Fontes</b>.</p><p>Apresentação dos artigos <i>Mineração de Histórias de Usuário Utilizando LLMs</i> por <b>Gabriel Rocha</b> e <i>Dívida Técnica em Startups: Um Estudo de Casos Múltiplos</i> por <b>Marina Dantas</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Painéis de Iniciação Científica",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de pôsteres com avaliação conduzida por <b>Prof. Rodrigo Peixoto</b> e <b>Dra. Camila Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Debate Temático",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-17T16:00:00-03:00",
+    "dataFim": "2024-10-17T18:00:00-03:00",
+    "descricao": "<p>Tema: Soberania Digital e Software Livre na América Latina. Participação de <b>Marcos Vinicius Aragão</b>, <b>Cíntia Pimentel</b> e mediação de <b>Prof. Roberto Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Maurício de Nassau",
+    "dataInicio": "2024-10-18T09:30:00-03:00",
+    "dataFim": "2024-10-18T11:00:00-03:00",
+    "descricao": "<p>Tema: Segurança e Privacidade de Dados. Moderador: <b>Dr. Arthur Queiroz</b>.</p><p>Artigo <i>Modelagem de Ameaças em APIs Bancárias Abertas</i> por <b>Sofia Brandão</b> e <b>Diego Alencar</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Assembleia Geral da Sociedade",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Reunião de prestação de contas e eleição da nova diretoria da SBESC, presidida por <b>Prof. Nilton Lacerda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do prêmio <i>Melhor Artigo do Congresso</i> pela comissão avaliadora composta por <b>Dra. Letícia Prado</b> e <b>Prof. Marcelo Bastos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,275 @@
+{
+ "spec": {
+  "id": "sint-42-00027",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Niterói - RJ",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 31,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:34+00:00",
+ "uso_tokens": {
+  "entrada": 636,
+  "saida": 4404
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Maricá-Guanabara de Artes Integradas 2027",
+   "local_geral": "Caminho Niemeyer, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Cortejo de Boi Pintadinho",
+    "lugar": null,
+    "dataInicio": "2027-04-16T10:00:00-03:00",
+    "dataFim": "2027-04-16T11:30:00-03:00",
+    "descricao": "<p>Abertura festiva com o grupo tradicional conduzido por <b>Mestre Darcy</b> pelas ruas de acesso ao evento.</p>",
+    "secao": "Intervenções de Rua"
+   },
+   {
+    "nome": "Abertura da Exposição Coletiva Baía Viva",
+    "lugar": "Galeria Niemeyer",
+    "dataInicio": "2027-04-16T11:00:00-03:00",
+    "dataFim": "2027-04-16T20:00:00-03:00",
+    "descricao": "<p>Instalações visuais e fotografias dos artistas <b>Helena Bopp</b> e <b>Carlos Guajajara</b> com foco na conservação da baía.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Percussão em Ritmos Fluminenses",
+    "lugar": "Tenda Petrobras",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T16:00:00-03:00",
+    "descricao": "<p>Prática coletiva com <b>Silvia Alencar</b> explorando jongo e ciranda.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Palco Aberto Poesia Marginal",
+    "lugar": null,
+    "dataInicio": "2027-04-16T15:00:00-03:00",
+    "dataFim": "2027-04-16T17:00:00-03:00",
+    "descricao": "<p>Microfone aberto e declamação com a participação especial do poeta <b>Beto Ferreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Aquarela Botânica",
+    "lugar": "Tenda Petrobras",
+    "dataInicio": "2027-04-16T16:30:00-03:00",
+    "dataFim": "2027-04-16T18:30:00-03:00",
+    "descricao": "<p>Exercícios sobre flora nativa com a ilustradora <b>Luisa Valença</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Auditório Popular",
+    "dataInicio": "2027-04-16T17:00:00-03:00",
+    "dataFim": "2027-04-16T18:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia Criativa e Território</i> reunindo <b>Fernanda Bittencourt</b> e <b>Tiago Rezende</b>.</p>",
+    "secao": "Debates e Encontros"
+   },
+   {
+    "nome": "Intervenção Circense O Sonho do Equilibrista",
+    "lugar": null,
+    "dataInicio": "2027-04-16T18:00:00-03:00",
+    "dataFim": "2027-04-16T19:00:00-03:00",
+    "descricao": "<p>Performance acrobática apresentada pela <b>Cia. do Trapézio</b>.</p>",
+    "secao": "Intervenções de Rua"
+   },
+   {
+    "nome": "Show Trio Guanabara",
+    "lugar": "Palco Praia",
+    "dataInicio": "2027-04-16T19:00:00-03:00",
+    "dataFim": "2027-04-16T20:30:00-03:00",
+    "descricao": "<p>Repertório autoral de choro contemporâneo com o violonista <b>Guilherme Couto</b>.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Exibição de Curtas Fluminenses",
+    "lugar": "Cineclube Arariboia",
+    "dataInicio": "2027-04-16T20:00:00-03:00",
+    "dataFim": "2027-04-16T21:40:00-03:00",
+    "descricao": "<p>Sessão comentada com os diretores <b>Marina Dutra</b> e <b>Otávio Simas</b> apresentando <i>Memórias Salgadas</i> e <i>Barcas da Madrugada</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Orquestra Voadora",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-04-16T21:30:00-03:00",
+    "dataFim": "2027-04-16T23:00:00-03:00",
+    "descricao": "<p>Apresentação de fanfarra moderna com participação de <b>Clarice Peçanha</b>.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "DJ Set Baile das Ondas",
+    "lugar": "Palco Praia",
+    "dataInicio": "2027-04-16T23:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Comandado pelo <b>DJ Zé Pedro</b> com brasilidades e afrobeat.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Yoga Matinal e Meditação Sonora",
+    "lugar": null,
+    "dataInicio": "2027-04-17T08:30:00-03:00",
+    "dataFim": "2027-04-17T09:45:00-03:00",
+    "descricao": "<p>Sessão de práticas integrativas com a instrutora <b>Renata Meirelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Guiada à Exposição Coletiva",
+    "lugar": "Galeria Niemeyer",
+    "dataInicio": "2027-04-17T10:00:00-03:00",
+    "dataFim": "2027-04-17T11:30:00-03:00",
+    "descricao": "<p>Visita mediada pelo curador <b>André Lins</b> e artistas convidados.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Estamparia Manual e Xilogravura",
+    "lugar": "Tenda Petrobras",
+    "dataInicio": "2027-04-17T10:30:00-03:00",
+    "dataFim": "2027-04-17T12:30:00-03:00",
+    "descricao": "<p>Produção de gravuras e matrizes com <b>Jorge Amaro</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Contação de Histórias para Crianças",
+    "lugar": null,
+    "dataInicio": "2027-04-17T11:00:00-03:00",
+    "dataFim": "2027-04-17T12:00:00-03:00",
+    "descricao": "<p>Narrativas do folclore caiçara apresentadas por <b>Tia Cecília</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-04-17T12:30:00-03:00",
+    "dataFim": "2027-04-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Dança Contemporânea",
+    "lugar": "Tenda Petrobras",
+    "dataInicio": "2027-04-17T14:00:00-03:00",
+    "dataFim": "2027-04-17T16:00:00-03:00",
+    "descricao": "<p>Expressão corporal com a bailarina <b>Natália Figueira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Batalha de MCs de Niterói",
+    "lugar": null,
+    "dataInicio": "2027-04-17T15:30:00-03:00",
+    "dataFim": "2027-04-17T17:30:00-03:00",
+    "descricao": "<p>Disputa de rimas comandada pelo mestre de cerimônia <b>MC Rato</b>.</p>",
+    "secao": "Intervenções de Rua"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Auditório Popular",
+    "dataInicio": "2027-04-17T16:30:00-03:00",
+    "dataFim": "2027-04-17T18:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Patrimônio Cultural Imaterial e Juventude</i> com mediação de <b>Profa. Vanessa Salgado</b>.</p>",
+    "secao": "Debates e Encontros"
+   },
+   {
+    "nome": "Show Banda Manatí",
+    "lugar": "Palco Praia",
+    "dataInicio": "2027-04-17T18:30:00-03:00",
+    "dataFim": "2027-04-17T20:00:00-03:00",
+    "descricao": "<p>Fusão de ritmos caribenhos e MPB liderada pela vocalista <b>Camila Duarte</b>.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Performance Instalação Luminosa Farol",
+    "lugar": "Galeria Niemeyer",
+    "dataInicio": "2027-04-17T20:00:00-03:00",
+    "dataFim": "2027-04-17T21:00:00-03:00",
+    "descricao": "<p>Experiência imersiva luminosa criada pelo artista multimídia <b>Felipe Paes</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Show Lia de Itamaracá e Convidados",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-04-17T21:00:00-03:00",
+    "dataFim": "2027-04-17T22:30:00-03:00",
+    "descricao": "<p>Grande celebração da ciranda brasileira com a mestra <b>Lia de Itamaracá</b>.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Show Baile do Alce",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-04-17T23:00:00-03:00",
+    "dataFim": "2027-04-18T00:30:00-03:00",
+    "descricao": "<p>Funk, soul e ritmos urbanos com <b>Vitor Alce</b> e banda.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Mutirão Ecológico e Limpeza da Orla",
+    "lugar": null,
+    "dataInicio": "2027-04-18T09:00:00-03:00",
+    "dataFim": "2027-04-18T10:30:00-03:00",
+    "descricao": "<p>Ação coletiva ambiental coordenada pela ativista <b>Bruna Marinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fotografia Urbana pelo Celular",
+    "lugar": "Tenda Petrobras",
+    "dataInicio": "2027-04-18T10:00:00-03:00",
+    "dataFim": "2027-04-18T12:00:00-03:00",
+    "descricao": "<p>Técnicas de enquadramento com o fotógrafo <b>Gabriel Siqueira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa de Debate das Artes Cênicas",
+    "lugar": "Auditório Popular",
+    "dataInicio": "2027-04-18T11:00:00-03:00",
+    "dataFim": "2027-04-18T12:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>O Teatro de Rua na Pós-Modernidade</i> com o dramaturgo <b>Eduardo Brandão</b>.</p>",
+    "secao": "Debates e Encontros"
+   },
+   {
+    "nome": "Roda de Samba da Terreira",
+    "lugar": "Palco Praia",
+    "dataInicio": "2027-04-18T13:30:00-03:00",
+    "dataFim": "2027-04-18T16:00:00-03:00",
+    "descricao": "<p>Roda tradicional de samba de raiz sob a liderança de <b>Dona Ivone Bastos</b>.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Desfile de Moda Sustentável Upcycling",
+    "lugar": null,
+    "dataInicio": "2027-04-18T16:30:00-03:00",
+    "dataFim": "2027-04-18T17:30:00-03:00",
+    "descricao": "<p>Apresentação das criações desenvolvidas pelas estilistas <b>Paula Ramos</b> e <b>Jéssica Cordeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Teatral Nau Catarineta",
+    "lugar": null,
+    "dataInicio": "2027-04-18T17:30:00-03:00",
+    "dataFim": "2027-04-18T18:45:00-03:00",
+    "descricao": "<p>Espetáculo do grupo <b>Trupe dos Navegantes</b> com direção de <b>Mateus Antunes</b>.</p>",
+    "secao": "Intervenções de Rua"
+   },
+   {
+    "nome": "Show Chico Chico",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-04-18T19:30:00-03:00",
+    "dataFim": "2027-04-18T21:00:00-03:00",
+    "descricao": "<p>Show comemorativo de encerramento do festival com <b>Chico Chico</b>.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-04-18T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Agradecimentos institucionais com a coordenadora geral <b>Mariana Aragão</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

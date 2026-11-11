@@ -1,0 +1,285 @@
+{
+ "spec": {
+  "id": "sint-42-00477",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Niterói - RJ",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 32,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:49+00:00",
+ "uso_tokens": {
+  "entrada": 697,
+  "saida": 4487
+ },
+ "saida": {
+  "evento": {
+   "nome": "Niterói Tech Summit & Hackathon 2025",
+   "local_geral": "Caminho Niemeyer, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-10-16T08:00:00-03:00",
+    "dataFim": "2025-10-16T09:30:00-03:00",
+    "descricao": "<p>Retirada de crachás, kits de boas-vindas e validação das inscrições com a equipe de recepção coordenada por <b>Mariana Vasconcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura Oficial",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-16T09:30:00-03:00",
+    "dataFim": "2025-10-16T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a presença de <b>Rodrigo Neves Guimarães</b> e representantes do ecossistema de inovação fluminense.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-16T10:15:00-03:00",
+    "dataFim": "2025-10-16T11:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>O Futuro da Inteligência Artificial Generativa e Seus Impactos Éticos no Desenvolvimento Socioeconômico das Cidades Conectadas</i> ministrada por <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-10-16T11:15:00-03:00",
+    "dataFim": "2025-10-16T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Icaraí",
+    "dataInicio": "2025-10-16T11:45:00-03:00",
+    "dataFim": "2025-10-16T12:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Arquiteturas Resilientes em Nuvem Híbrida</i> pelo especialista <b>Felipe Castanheira</b>.</p>",
+    "secao": "Trilha Infraestrutura e Cloud"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-16T12:30:00-03:00",
+    "dataFim": "2025-10-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Corporativa",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-16T14:00:00-03:00",
+    "dataFim": "2025-10-16T15:00:00-03:00",
+    "descricao": "<p>Painel de inovação corporativa conduzido por <b>Beatriz Mendonça</b> e <b>Lucas Fontes</b> abordando parcerias estratégicas entre grandes empresas e startups.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2025-10-16T15:00:00-03:00",
+    "dataFim": "2025-10-16T16:30:00-03:00",
+    "descricao": "<p>Primeira rodada de orientação aos participantes com <b>Aline Peçanha</b> e <b>Thiago Meireles</b> focando em modelagem de dados e arquitetura básica.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-10-16T16:30:00-03:00",
+    "dataFim": "2025-10-16T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lançamento do Desafio Hackathon",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2025-10-16T17:00:00-03:00",
+    "dataFim": "2025-10-16T18:30:00-03:00",
+    "descricao": "<p>Divulgação dos problemas reais propostos pelos patrocinadores corporativos com mediação de <b>Camila Duarte</b> e início da contagem regressiva de desenvolvimento.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Credenciamento Contínuo",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-10-17T08:30:00-03:00",
+    "dataFim": "2025-10-17T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Icaraí",
+    "dataInicio": "2025-10-17T09:30:00-03:00",
+    "dataFim": "2025-10-17T10:30:00-03:00",
+    "descricao": "<p>Palestra técnica com <b>Juliana Prado</b> apresentando <i>Engenharia de Plataforma e Práticas Modernas de DevOps</i>.</p>",
+    "secao": "Trilha Infraestrutura e Cloud"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-10-17T10:30:00-03:00",
+    "dataFim": "2025-10-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Inovação",
+    "dataInicio": "2025-10-17T11:00:00-03:00",
+    "dataFim": "2025-10-17T12:30:00-03:00",
+    "descricao": "<p>Oficina de programação prática sob orientação de <b>Gabriel Siqueira</b> com foco em microsserviços com Go e Kubernetes.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-17T12:30:00-03:00",
+    "dataFim": "2025-10-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2025-10-17T14:00:00-03:00",
+    "dataFim": "2025-10-17T15:30:00-03:00",
+    "descricao": "<p>Apoio aos times de desenvolvimento para resolução de bloqueios e validação de APIs com <b>Renato Vianna</b> e <b>Letícia Albuquerque</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Corporativa",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-17T15:30:00-03:00",
+    "dataFim": "2025-10-17T16:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Como Grandes Corporações Podem Acelerar a Inovação Aberta Através de Modelos Colaborativos com Startups e Comunidades Locais de Tecnologia</i> conduzida por <b>Danilo Albuquerque</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-10-17T16:30:00-03:00",
+    "dataFim": "2025-10-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-17T17:00:00-03:00",
+    "dataFim": "2025-10-17T18:30:00-03:00",
+    "descricao": "<p>Debate sobre o mercado fluminense de tecnologia com <b>Patrícia Ramos</b>, <b>Gustavo Nogueira</b> e mediação de <b>Sérgio Antunes</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Check-in Matinal",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2025-10-18T09:00:00-03:00",
+    "dataFim": "2025-10-18T09:45:00-03:00",
+    "descricao": "<p>Alinhamento de progresso e status dos protótipos com <b>Camila Duarte</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Inovação",
+    "dataInicio": "2025-10-18T09:45:00-03:00",
+    "dataFim": "2025-10-18T11:15:00-03:00",
+    "descricao": "<p>Capacitação ministrada por <b>Vanessa Toledo</b> sobre design system acessível e prototipagem ágil em projetos de tecnologia.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-10-18T11:15:00-03:00",
+    "dataFim": "2025-10-18T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Icaraí",
+    "dataInicio": "2025-10-18T11:45:00-03:00",
+    "dataFim": "2025-10-18T12:45:00-03:00",
+    "descricao": "<p>Apresentação <i>Diretrizes Práticas e Abordagens Estratégicas para Garantir Segurança e Governança de Dados Sensíveis em Ambientes Corporativos Distribuídos</i> proferida por <b>Marcio Vinicius Silveira</b>.</p>",
+    "secao": "Trilha Infraestrutura e Cloud"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-18T12:45:00-03:00",
+    "dataFim": "2025-10-18T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Sala de Reuniões B",
+    "dataInicio": "2025-10-18T14:15:00-03:00",
+    "dataFim": "2025-10-18T16:00:00-03:00",
+    "descricao": "<p>Sessão preparatória para o pitch final com mentoria de <b>Arthur Carvalho</b> e <b>Daniela Furtado</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-10-18T16:00:00-03:00",
+    "dataFim": "2025-10-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Startups & Investimentos",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-18T16:30:00-03:00",
+    "dataFim": "2025-10-18T18:00:00-03:00",
+    "descricao": "<p>Debate sobre captação de recursos e fundos venture capital com <b>Isabela Freitas</b> e <b>Leonardo Bicalho</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Submissão Final dos Projetos",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2025-10-19T09:00:00-03:00",
+    "dataFim": "2025-10-19T10:00:00-03:00",
+    "descricao": "<p>Encerramento do tempo regulamentar para envio dos repositórios e documentações pelas equipes concorrentes sob coordenação de <b>Camila Duarte</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-10-19T10:00:00-03:00",
+    "dataFim": "2025-10-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Pitches",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-19T10:30:00-03:00",
+    "dataFim": "2025-10-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação das soluções finalistas avaliadas pela banca julgadora composta por <b>Beatriz Mendonça</b>, <b>Carlos Eduardo Mansur</b> e <b>Leonardo Bicalho</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-19T12:30:00-03:00",
+    "dataFim": "2025-10-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Arariboia",
+    "dataInicio": "2025-10-19T14:00:00-03:00",
+    "dataFim": "2025-10-19T15:30:00-03:00",
+    "descricao": "<p>Divulgação dos vencedores do hackathon, entrega dos prêmios institucionais e considerações finais proferidas por <b>Rodrigo Neves Guimarães</b> e <b>Camila Duarte</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

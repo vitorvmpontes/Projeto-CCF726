@@ -1,0 +1,163 @@
+{
+ "spec": {
+  "id": "sint-42-00102",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Santa Maria - RS",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 17,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:12+00:00",
+ "uso_tokens": {
+  "entrada": 643,
+  "saida": 2835
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Jornada de Medicina de Emergência e Terapia Intensiva do Interior Gaúcho",
+   "local_geral": "Centro de Convenções da Universidade Federal de Santa Maria (UFSM), Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Entrega de Materiais e Validação de Inscrições",
+    "lugar": "Hall do Centro de Convenções",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Panorama do Atendimento ao Paciente Crítico no Interior do RS</i>, conduzida pelo Dr. <b>Marcelo Pires Fagundes</b> e mediação da Profa. Dra. <b>Helena Schmidt Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Treinamento Prático: Via Aérea Difícil",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2025-05-14T11:00:00-03:00",
+    "dataFim": "2025-05-14T12:30:00-03:00",
+    "descricao": "<p>Estudo prático e simulação realística de intubação em cenários adversos. Instrutores: Dr. <b>Rodrigo Vasconcelos</b> e Dra. <b>Patrícia Morales</b>.</p>",
+    "secao": "Workshops de Simulação"
+   },
+   {
+    "nome": "Painel de Discussão Clínica",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias Hemodinâmicas no Choque Séptico: Quando Iniciar Vasopressores Precocemente?</i>, moderada pelo Dr. <b>Cláudio Neves Bittencourt</b> com a participação da intensivista Dra. <b>Lorena Dalla Porta</b>.</p>",
+    "secao": "Módulos de Atualização em Terapia Intensiva"
+   },
+   {
+    "nome": "Treinamento Prático: Via Aérea Difícil",
+    "lugar": "Laboratório de Habilidades 2",
+    "dataInicio": "2025-05-14T16:30:00-03:00",
+    "dataFim": "2025-05-14T18:00:00-03:00",
+    "descricao": "<p>Segunda turma da atividade com foco em cricotireoidostomia cirúrgica e uso do videolaringoscópio. Instrutor: Dr. <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Workshops de Simulação"
+   },
+   {
+    "nome": "Apresentação Oral de Temas Livres",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T10:00:00-03:00",
+    "descricao": "<p>Apresentação dos melhores trabalhos submetidos na área de emergência clínica. Coordenação da banca avaliadora: Dra. <b>Fernanda Linhares</b> e Dr. <b>Igor Meneghetti</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Intervalo com Visitação aos Expositores",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": "2025-05-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Temático",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Manejo da Síndrome Coronariana Aguda no Pré-Hospitalar e na Sala Vermelha</i> pelo cardiologista Dr. <b>Geraldo Becker Fontes</b>.</p>",
+    "secao": "Módulos de Atualização em Terapia Intensiva"
+   },
+   {
+    "nome": "Oficina de Ultrassonografia Point-of-Care (POCUS)",
+    "lugar": "Sala de Treinamento Médico",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": "<p>Protocolos BLUE e FAST aplicados à ressuscitação emergencial. Capacitação sob coordenação do Dr. <b>Vinícius Quadros Tavares</b>.</p>",
+    "secao": "Workshops de Simulação"
+   },
+   {
+    "nome": "Apresentação de Pôsteres Digitais",
+    "lugar": "Espaço Multimídia",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": "<p>Exposição e arguição de relatos de caso e revisões sistemáticas. Avaliadores: Prof. <b>Eduardo Casagrande</b> e Profa. <b>Carla Medeiros Rorato</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Debate Interdisciplinar",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Painel <i>Cuidados Paliativos na Unidade de Terapia Intensiva: Comunicação e Tomada de Decisão Ética</i> com a médica paliativista Dra. <b>Beatriz Amoretti</b> e o enfermeiro especialista <b>Lucas Vianna Ortiz</b>.</p>",
+    "secao": "Módulos de Atualização em Terapia Intensiva"
+   },
+   {
+    "nome": "Colóquio de Neurointensivismo",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T15:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Manejo da Hipertensão Intracraniana e Monitorização Multimodal no Trauma Crânioencefálico Grave</i> com o neurocirurgião Dr. <b>Paulo Renato Zambonato</b>.</p>",
+    "secao": "Módulos de Atualização em Terapia Intensiva"
+   },
+   {
+    "nome": "Debate Interdisciplinar",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T16:15:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Sepse Materna e Complicações Obstétricas em UTI: Desafios Diagnósticos</i> reunindo a intensivista Dra. <b>Lorena Dalla Porta</b> e a obstetra Dra. <b>Simone Castilhos</b>.</p>",
+    "secao": "Módulos de Atualização em Terapia Intensiva"
+   },
+   {
+    "nome": "Painel de Discussão Clínica",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Discussão de casos complexos sobre <i>Desmame Ventilatório Difícil e Assincronia Paciente-Ventilador</i> com o fisioterapeuta intensivista Dr. <b>Mateus Campagnolo</b> e a médica intensivista Dra. <b>Tatiana Weiler</b>.</p>",
+    "secao": "Módulos de Atualização em Terapia Intensiva"
+   },
+   {
+    "nome": "Palestra de Fechamento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Palestra magna <i>Inteligência Artificial e Tecnologias Preditivas no Suporte à Vida</i> ministrada pelo Prof. Dr. <b>Arthur Mendonça Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Premiação",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": "2025-05-17T13:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Jovem Pesquisador aos autores dos trabalhos científicos vencedores, conduzida pela Profa. Dra. <b>Helena Schmidt Silveira</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-17T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

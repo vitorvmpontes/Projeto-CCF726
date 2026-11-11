@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00121",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Natal - RN",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:01+00:00",
+ "uso_tokens": {
+  "entrada": 712,
+  "saida": 1284
+ },
+ "saida": {
+  "evento": {
+   "nome": "Potiguar Tech Summit e Hackathon 2024",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Boas-Vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-05-17T08:00:00-03:00",
+    "dataFim": "2024-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2024-05-17T09:15:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias Avançadas para Implementação de Inteligência Artificial Escalável e Segura em Ambientes Corporativos de Grande Porte no Brasil</i>.</p><p>Palestrante: <b>Rodrigo Albuquerque Cavalcanti</b> (Diretor de Inovação da CloudTech).</p><p>Coordenação: <b>Mariana Siqueira Rios</b>.</p>",
+    "secao": "Ciclo de Palestras Corporativas"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": null,
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Sessão de orientação voltada para as equipes inscritas no desafio de dados públicos.</p><p>Mentores convidados: <b>Lucas Varela Medeiros</b>, <b>Carla Mendonça Neves</b> e <b>Felipe Bastos Guedes</b>.</p><p>Trabalhos acompanhados: <i>Otimização do Fluxo Urbano com Machine Learning</i> e <i>Monitoramento Hídrico Comunitário em Tempo Real</i>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Arena Hacker - Piso 1",
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T12:00:00-03:00",
+    "descricao": "<p>Acompanhamento final de prototipagem e desenvolvimento de MVP das equipes finalistas.</p><p>Mentores: <b>Carla Mendonça Neves</b> e <b>Tiago Fontes Silveira</b>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": null,
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Construindo Microsserviços Resilientes Utilizando Rust e Kubernetes para Processamento Concorrente de Dados em Nuvem Distribuída</i>.</p><p>Facilitadora: <b>Renata Dias Pimentel</b> (Engenheira Principal na DataStream).</p>",
+    "secao": "Ciclo de Palestras Corporativas"
+   },
+   {
+    "nome": "Demoday",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2024-05-18T14:30:00-03:00",
+    "dataFim": "2024-05-18T17:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos finalistas para a banca julgadora do hackathon.</p><p>Avaliadores: <b>Juliana Bezerra Dantas</b>, <b>Marcelo Tavares da Silva</b> e <b>Ana Cristina Lins</b>.</p><p>Projetos em avaliação: <i>Plataforma Integrada para Rastreabilidade de Alimentos Regionais</i>, <i>Assistente Virtual de Triagem Emergencial Baseado em LLMs</i> e <i>Painel de Eficiência Energética para Pequenos Negócios</i>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-05-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos vencedores do Hackathon Potiguar e encerramento oficial do evento conduzido pela coordenadora geral <b>Helena Moreira Bastos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "spec": {
+  "id": "sint-42-00149",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Campinas - SP",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "nomes_repetidos",
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:59+00:00",
+ "uso_tokens": {
+  "entrada": 696,
+  "saida": 1937
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência e Engenharia de Materiais",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Participantes e Entrega de Crachás",
+    "lugar": "Hall Nobre",
+    "dataInicio": "2026-08-19T08:00:00-03:00",
+    "dataFim": "2026-08-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-08-19T09:00:00-03:00",
+    "dataFim": "2026-08-19T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral <b>Carlos Eduardo Fontes</b> com presença de autoridades acadêmicas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-08-19T10:30:00-03:00",
+    "dataFim": "2026-08-19T12:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desenvolvimento e aplicação de nanocompósitos poliméricos sustentáveis com matriz biodegradável reforçada por nanofibras de celulose vegetal para embalagens inteligentes</i>, ministrada pela <b>Renata Siqueira Meireles</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão Técnica Oral 1",
+    "lugar": "Sala A-102",
+    "dataInicio": "2026-08-19T14:00:00-03:00",
+    "dataFim": "2026-08-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos submetidos no eixo de Metalurgia Física. Coordenação de <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica Oral 2",
+    "lugar": "Sala A-103",
+    "dataInicio": "2026-08-19T14:00:00-03:00",
+    "dataFim": "2026-08-19T16:00:00-03:00",
+    "descricao": "<p>Trabalhos da área de Cerâmicas Avançadas. Coordenação de <b>Juliana Diniz Castro</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Painéis",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2026-08-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição de pôsteres científicos com avaliação do comitê presidido por <b>Fabiano Antunes Lins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Laboratório de Ensaios Mecânicos",
+    "dataInicio": "2026-08-20T08:30:00-03:00",
+    "dataFim": "2026-08-20T11:30:00-03:00",
+    "descricao": "<p>Instrutor <b>Guilherme Batista Nogueira</b> ministrando o tópico <i>Caracterização microestrutural por difração de raios-X e microscopia eletrônica de varredura</i>.</p>",
+    "secao": "Cursos Curtos"
+   },
+   {
+    "nome": "Sessão Técnica Oral 1",
+    "lugar": "Sala B-201",
+    "dataInicio": "2026-08-20T14:00:00-03:00",
+    "dataFim": "2026-08-20T16:00:00-03:00",
+    "descricao": "<p>Continuação das apresentações orais com foco em Biomateriais e Engenharia Tecidual, coordenada por <b>Helena Vasconcelos Ramos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra Plenária 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-08-20T16:30:00-03:00",
+    "dataFim": "2026-08-20T18:00:00-03:00",
+    "descricao": "<p>Palestra <i>Novas fronteiras na modelagem computacional multiescala para predição de falhas e fadiga em ligas aeronáuticas sob condições extremas</i>, ministrada pelo pesquisador <b>Otávio Henrique Barcellos</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Coquetel de Congraçamento",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2026-08-20T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral 2",
+    "lugar": "Sala B-202",
+    "dataInicio": "2026-08-21T09:00:00-03:00",
+    "dataFim": "2026-08-21T11:30:00-03:00",
+    "descricao": "<p>Artigos aprovados em Processos de Fabricação e Manufatura Aditiva, com moderação de <b>Clarissa Moura Peixoto</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-08-21T14:00:00-03:00",
+    "dataFim": "2026-08-21T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Tiago Albuquerque Neves</b> abordando <i>Inovação tecnológica e desafios na reciclagem de compósitos termoendurecíveis na indústria automotiva</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-08-21T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do prêmio de melhor artigo jovem pesquisador e encerramento liderado por <b>Carlos Eduardo Fontes</b> e <b>Beatriz Mendonça Pires</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

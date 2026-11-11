@@ -1,0 +1,123 @@
+{
+ "spec": {
+  "id": "sint-42-00379",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Salvador - BA",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:02+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 1858
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Baiano de Inteligência Artificial Aplicada",
+   "local_geral": "Parque Tecnológico da Bahia, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-16T08:00:00-03:00",
+    "dataFim": "2024-08-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Lápis Lázuli",
+    "dataInicio": "2024-08-16T08:30:00-03:00",
+    "dataFim": "2024-08-16T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a coordenadora do evento, Dra. <b>Tatiana Meireles</b> (UFBA), e o diretor de inovação <b>Rodrigo Vasconcelos</b> (Secti-BA).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Lápis Lázuli",
+    "dataInicio": "2024-08-16T09:00:00-03:00",
+    "dataFim": "2024-08-16T10:15:00-03:00",
+    "descricao": "<p>Apresentação <i>Desafios e Tendências em Modelos de Linguagem de Grande Escala para o Setor Público</i>, ministrada pelo Prof. Dr. <b>Carlos Eduardo Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-08-16T10:15:00-03:00",
+    "dataFim": "2024-08-16T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2024-08-16T10:45:00-03:00",
+    "dataFim": "2024-08-16T12:30:00-03:00",
+    "descricao": "<p>Módulo matutino: <i>Visão Computacional na Prática com OpenCV e PyTorch</i>, conduzido por <b>Marina Rios</b> e <b>Lucas Queiroz</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2024-08-16T10:45:00-03:00",
+    "dataFim": "2024-08-16T12:30:00-03:00",
+    "descricao": "<p>Introdução ao processamento de linguagem natural: <i>Construindo Agentes Inteligentes com LangChain e Ollama</i>, ministrado pelo especialista <b>Felipe Peixoto</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-16T12:30:00-03:00",
+    "dataFim": "2024-08-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2024-08-16T14:00:00-03:00",
+    "dataFim": "2024-08-16T16:00:00-03:00",
+    "descricao": "<p>Módulo vespertino: continuação da oficina <i>Visão Computacional na Prática com OpenCV e PyTorch</i>, sob orientação de <b>Marina Rios</b> e <b>Lucas Queiroz</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2024-08-16T14:00:00-03:00",
+    "dataFim": "2024-08-16T16:00:00-03:00",
+    "descricao": "<p>Oficina de machine learning: <i>Técnicas de Fine-Tuning Eficiente com LoRA em Hardware de Consumo</i>, com o instrutor <b>Diego Barreto</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Lápis Lázuli",
+    "dataInicio": "2024-08-16T16:15:00-03:00",
+    "dataFim": "2024-08-16T17:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Impactos Éticos e Regulatórios da IA no Ecossistema Produtivo do Nordeste</i>, mediado por <b>Juliana Pinho</b> e com a participação de <b>Aline Guimarães</b> e <b>Bruno Falcão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2024-08-16T17:30:00-03:00",
+    "dataFim": "2024-08-16T18:30:00-03:00",
+    "descricao": "<p>Sessão interativa com demonstração de protótipos de estudantes de graduação e pós-graduação, avaliados pelo comitê liderado pelo Prof. <b>Márcio Nery</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Lápis Lázuli",
+    "dataInicio": "2024-08-16T18:30:00-03:00",
+    "dataFim": "2024-08-16T19:00:00-03:00",
+    "descricao": "<p>Anúncio dos melhores projetos apresentados nos pôsteres e entrega das menções honrosas conduzida por <b>Tatiana Meireles</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

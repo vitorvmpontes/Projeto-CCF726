@@ -1,0 +1,229 @@
+{
+ "spec": {
+  "id": "sint-42-00413",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 25,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:42+00:00",
+ "uso_tokens": {
+  "entrada": 692,
+  "saida": 3823
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXXIV Jogos Universitários Mato-Grossenses",
+   "local_geral": "Complexo Esportivo Universitário da UFMT, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção das Delegações e Alojamento",
+    "lugar": "Ginásio Poliesportivo A",
+    "dataInicio": "2027-05-20T08:00:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Acolhimento das atléticas universitárias sob coordenação de <b>Lucas Silveira</b> e distribuição dos alojamentos.</p>",
+    "secao": "Recepção e Abertura"
+   },
+   {
+    "nome": "Congresso Técnico",
+    "lugar": "Auditório Central do Ginásio",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Sorteio das chaves e orientações gerais de arbitragem conduzidas pelo árbitro geral <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Recepção e Abertura"
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Sala de Reuniões 1",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desenvolvimento de estratégias interdisciplinares para a prevenção de lesões musculoesqueléticas crônicas em atletas universitários submetidos a calendários intensivos</i>, ministrada pelo <b>Prof. Dr. Roberto Albuquerque Lima</b>.</p>",
+    "secao": "Formação Esportiva"
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Arena Principal",
+    "dataInicio": "2027-05-20T19:30:00-03:00",
+    "dataFim": "2027-05-20T21:30:00-03:00",
+    "descricao": "<p>Desfile das delegações, acendimento da pira com a atleta homenageada <b>Patrícia Guimarães</b> e juramento dos atletas.</p>",
+    "secao": "Recepção e Abertura"
+   },
+   {
+    "nome": "Treino Livre",
+    "lugar": "Quadra Poliesportiva 1",
+    "dataInicio": "2027-05-21T07:30:00-03:00",
+    "dataFim": "2027-05-21T08:30:00-03:00",
+    "descricao": "<p>Aquecimento e reconhecimento de quadra para as equipes de basquete com supervisão técnica de <b>Cláudio Nogueira</b>.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Treino Livre",
+    "lugar": "Quadra de Areia",
+    "dataInicio": "2027-05-21T07:30:00-03:00",
+    "dataFim": "2027-05-21T08:30:00-03:00",
+    "descricao": "<p>Aquecimento das duplas de futevôlei com suporte do monitor <b>Thiago Paes</b>.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Partida Classificatória de Futsal Masculino",
+    "lugar": "Ginásio Poliesportivo A",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Primeira rodada classificatória do Grupo A entre as equipes federadas.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Partida Classificatória de Handebol Feminino",
+    "lugar": "Ginásio Poliesportivo B",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Duelo de abertura do Grupo B das modalidades de quadra feminina.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Partida Classificatória de Voleibol Masculino",
+    "lugar": "Ginásio Poliesportivo A",
+    "dataInicio": "2027-05-21T10:45:00-03:00",
+    "dataFim": "2027-05-21T12:15:00-03:00",
+    "descricao": "<p>Jogos do Grupo C com arbitragem da federação estadual coordenada por <b>Renata Sampaio</b>.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Partida Classificatória de Basquetebol Feminino",
+    "lugar": "Ginásio Poliesportivo B",
+    "dataInicio": "2027-05-21T10:45:00-03:00",
+    "dataFim": "2027-05-21T12:15:00-03:00",
+    "descricao": "<p>Disputa de chave classificatória para as quartas de final.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Auditório Central do Ginásio",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Oficina intitulada <i>Impactos psicológicos da alta demanda competitiva sobre a saúde mental e o desempenho tático de universitários atletas</i>, orientada pela psicóloga esportiva <b>Dra. Juliana Mendes Fontes</b> e pelo preparador <b>Carlos Eduardo Diniz</b>.</p>",
+    "secao": "Formação Esportiva"
+   },
+   {
+    "nome": "Torneio de Xadrez Rápido",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2027-05-21T14:30:00-03:00",
+    "dataFim": "2027-05-21T18:00:00-03:00",
+    "descricao": "<p>Etapa em sistema suíço sob arbitragem de <b>Mestre Fernando Teles</b>.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Seletiva de Natação 50m Livre",
+    "lugar": "Parque Aquático Universitário",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": "2027-05-21T18:30:00-03:00",
+    "descricao": "<p>Baterias classificatórias masculinas e femininas sob coordenação de <b>Mariana Rios Bastos</b>.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Treino Livre",
+    "lugar": "Pista de Atletismo",
+    "dataInicio": "2027-05-22T07:00:00-03:00",
+    "dataFim": "2027-05-22T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Provas de Revezamento 4x100m",
+    "lugar": "Pista de Atletismo",
+    "dataInicio": "2027-05-22T08:30:00-03:00",
+    "dataFim": "2027-05-22T11:00:00-03:00",
+    "descricao": "<p>Finais diretas com cronometragem eletrônica supervisionada por <b>Sérgio Antunes</b>.</p>",
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Semifinal de Futsal Feminino",
+    "lugar": "Ginásio Poliesportivo A",
+    "dataInicio": "2027-05-22T09:30:00-03:00",
+    "dataFim": "2027-05-22T11:00:00-03:00",
+    "descricao": "<p>Primeiro confronto eliminatório valendo vaga na grande final do campeonato.</p>",
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Semifinal de Voleibol Masculino",
+    "lugar": "Ginásio Poliesportivo B",
+    "dataInicio": "2027-05-22T09:30:00-03:00",
+    "dataFim": "2027-05-22T11:30:00-03:00",
+    "descricao": "<p>Primeira semifinal masculina entre os dois melhores colocados da primeira fase.</p>",
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Mesa-Redonda Temática",
+    "lugar": "Auditório Central do Ginásio",
+    "dataInicio": "2027-05-22T14:00:00-03:00",
+    "dataFim": "2027-05-22T16:00:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Modelos contemporâneos de gestão financeira participativa e governança em entidades esportivas universitárias e associações atléticas acadêmicas</i> com mediação de <b>Camila Duarte Pires</b> e participação dos gestores <b>Henrique Viana</b> e <b>Beatriz Brandão</b>.</p>",
+    "secao": "Formação Esportiva"
+   },
+   {
+    "nome": "Finais do Judô Universitário",
+    "lugar": "Tatame Central",
+    "dataInicio": "2027-05-22T15:30:00-03:00",
+    "dataFim": "2027-05-22T18:00:00-03:00",
+    "descricao": "<p>Lutas finais das categorias ligeiro, meio-médio e pesado com presença do árbitro <b>Sensei Rodrigo Takeshi</b>.</p>",
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Disputa de Terceiro Lugar no Handebol",
+    "lugar": "Ginásio Poliesportivo B",
+    "dataInicio": "2027-05-22T16:30:00-03:00",
+    "dataFim": "2027-05-22T18:00:00-03:00",
+    "descricao": null,
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Final Geral de Natação",
+    "lugar": "Parque Aquático Universitário",
+    "dataInicio": "2027-05-23T08:30:00-03:00",
+    "dataFim": "2027-05-23T11:00:00-03:00",
+    "descricao": "<p>Finais individuais e por equipe sob supervisão do árbitro chefe <b>André Valença</b>.</p>",
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Final do Torneio de Basquete",
+    "lugar": "Arena Principal",
+    "dataInicio": "2027-05-23T09:30:00-03:00",
+    "dataFim": "2027-05-23T11:30:00-03:00",
+    "descricao": "<p>Decisão do título universitário mato-grossense na modalidade basquetebol masculino.</p>",
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Final do Torneio de Futsal",
+    "lugar": "Arena Principal",
+    "dataInicio": "2027-05-23T14:00:00-03:00",
+    "dataFim": "2027-05-23T16:00:00-03:00",
+    "descricao": "<p>Confronto decisivo da série ouro de futsal universitário com transmissão local.</p>",
+    "secao": "Torneios - Eliminatórias e Finais"
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Arena Principal",
+    "dataInicio": "2027-05-23T16:30:00-03:00",
+    "dataFim": "2027-05-23T18:00:00-03:00",
+    "descricao": "<p>Entrega dos troféus por modalidade e da taça de atlética campeã geral pelo secretário de esportes <b>Wilson Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Arena Principal",
+    "dataInicio": "2027-05-23T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apagamento da pira, pronunciamento da coordenadora geral <b>Daniela Arantes</b> e anúncio da sede da próxima edição.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

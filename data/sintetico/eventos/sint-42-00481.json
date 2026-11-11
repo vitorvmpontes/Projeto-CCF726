@@ -1,0 +1,299 @@
+{
+ "spec": {
+  "id": "sint-42-00481",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Niterói - RJ",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 34,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:20+00:00",
+ "uso_tokens": {
+  "entrada": 648,
+  "saida": 5264
+ },
+ "saida": {
+  "evento": {
+   "nome": "28ª Semana de Espiritualidade e Cidadania de Niterói",
+   "local_geral": "Centro Pastoral São Vicente de Paulo, Icaraí, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Materiais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-20T17:30:00-03:00",
+    "dataFim": "2025-08-20T18:30:00-03:00",
+    "descricao": "<p>Recepção dos participantes, agentes de pastoral e voluntários das comunidades de Niterói e São Gonçalo com a equipe coordenada por <b>Marta Guimarães</b>.</p>",
+    "secao": "Dia de Abertura"
+   },
+   {
+    "nome": "Celebração de Abertura",
+    "lugar": "Nave da Capela Central",
+    "dataInicio": "2025-08-20T18:30:00-03:00",
+    "dataFim": "2025-08-20T20:00:00-03:00",
+    "descricao": "<p>Missa em ação de graças presidida pelo <b>Padre Marcos Vinícius da Silva</b> e concelebrada pelo <b>Diácono Jorge Alberto Ribeiro</b>, com cânticos do <b>Coral Vozes da Colina</b>.</p>",
+    "secao": "Dia de Abertura"
+   },
+   {
+    "nome": "Partilha Fraterna",
+    "lugar": "Pátio das Oliveiras",
+    "dataInicio": "2025-08-20T20:00:00-03:00",
+    "dataFim": "2025-08-21T21:00:00-03:00",
+    "descricao": null,
+    "secao": "Dia de Abertura"
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2025-08-21T08:00:00-03:00",
+    "dataFim": "2025-08-21T08:30:00-03:00",
+    "descricao": "<p>Momento de oração dos salmos e contemplação conduzido pela <b>Irmã Teresa Prado</b>.</p>",
+    "secao": "Caminhos de Fé e Ação Social"
+   },
+   {
+    "nome": "Palestra Temática 1",
+    "lugar": "Auditório Dom Helder",
+    "dataInicio": "2025-08-21T08:45:00-03:00",
+    "dataFim": "2025-08-21T10:15:00-03:00",
+    "descricao": "<p>Reflexão com o tema <i>A Presença da Igreja nas Periferias Urbanas do Grande Rio</i>, proferida pelo <b>Prof. Dr. Cláudio Brandão</b> e mediada pela assistente social <b>Lúcia Helena Silveira</b>.</p>",
+    "secao": "Caminhos de Fé e Ação Social"
+   },
+   {
+    "nome": "Intervalo Solidário",
+    "lugar": "Tenda da Convivência",
+    "dataInicio": "2025-08-21T10:15:00-03:00",
+    "dataFim": "2025-08-21T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 102 - Bloco Catequético",
+    "dataInicio": "2025-08-21T10:45:00-03:00",
+    "dataFim": "2025-08-21T12:15:00-03:00",
+    "descricao": "<p>Capacitação comunitária: <i>Organização de Cozinhas Solidárias e Combate ao Desperdício</i>, ministrada pela gastrônoma <b>Fernanda Bittencourt</b> com apoio do voluntário <b>Paulo Sérgio Nogueira</b>.</p>",
+    "secao": "Oficinas Comunitárias - Bloco I"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 104 - Bloco Catequético",
+    "dataInicio": "2025-08-21T10:45:00-03:00",
+    "dataFim": "2025-08-21T12:15:00-03:00",
+    "descricao": "<p>Capacitação comunitária: <i>Comunicação Paroquial Acessível nas Mídias Digitais</i>, orientada pela jornalista <b>Mariana Vasconcelos</b>.</p>",
+    "secao": "Oficinas Comunitárias - Bloco I"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São Francisco",
+    "dataInicio": "2025-08-21T12:15:00-03:00",
+    "dataFim": "2025-08-21T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Dom Helder",
+    "dataInicio": "2025-08-21T14:00:00-03:00",
+    "dataFim": "2025-08-21T16:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Direitos Humanos, Moradia e Cidadania na Região Oceânica</i>, reunindo a defensora pública <b>Dra. Cecília Andrade</b>, o líder comunitário <b>Sebastião Valério</b> e o sociólogo <b>Dr. Marcelo Furtado</b>.</p>",
+    "secao": "Caminhos de Fé e Ação Social"
+   },
+   {
+    "nome": "Momento Cultural",
+    "lugar": "Concha Acústica do Pátio",
+    "dataInicio": "2025-08-21T16:30:00-03:00",
+    "dataFim": "2025-08-21T18:00:00-03:00",
+    "descricao": "<p>Apresentação musical da <b>Banda Flor do Carmelo</b> com participação especial dos violinistas <b>Gabriel Antunes</b> e <b>Clara Neves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Celebração Eucarística",
+    "lugar": "Nave da Capela Central",
+    "dataInicio": "2025-08-21T18:30:00-03:00",
+    "dataFim": "2025-08-21T19:45:00-03:00",
+    "descricao": "<p>Liturgia vespertina celebrada pelo <b>Padre Luciano Duarte</b> com homilia dedicada à partilha e fraternidade.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2025-08-22T08:00:00-03:00",
+    "dataFim": "2025-08-22T08:30:00-03:00",
+    "descricao": "<p>Ofício divino das comunidades orientado pelo seminarista <b>André Fagundes</b>.</p>",
+    "secao": "Ecologia Integral e Cuidado Comunitário"
+   },
+   {
+    "nome": "Palestra Temática 2",
+    "lugar": "Auditório Dom Helder",
+    "dataInicio": "2025-08-22T08:45:00-03:00",
+    "dataFim": "2025-08-22T10:15:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Cuidado da Casa Comum: Espiritualidade Ecológica em Niterói</i> com a bióloga <b>Renata Meirelles</b> e o teólogo <b>Frei Bernardo Mendes</b>.</p>",
+    "secao": "Ecologia Integral e Cuidado Comunitário"
+   },
+   {
+    "nome": "Intervalo Solidário",
+    "lugar": "Tenda da Convivência",
+    "dataInicio": "2025-08-22T10:15:00-03:00",
+    "dataFim": "2025-08-22T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Horta Comunitária Dom Tomás",
+    "dataInicio": "2025-08-22T10:45:00-03:00",
+    "dataFim": "2025-08-22T12:15:00-03:00",
+    "descricao": "<p>Atividade prática: <i>Hortas Urbanas e Compostagem Caseira em Paróquias</i>, orientada pelo agrônomo <b>Gustavo Pimentel</b> e pela técnica ambiental <b>Sara Couto</b>.</p>",
+    "secao": "Oficinas Comunitárias - Bloco II"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2025-08-22T10:45:00-03:00",
+    "dataFim": "2025-08-22T12:15:00-03:00",
+    "descricao": "<p>Atividade formativa: <i>Economia Popular Solidária e Feiras Paroquiais</i> com a educadora social <b>Heloísa Magalhães</b>.</p>",
+    "secao": "Oficinas Comunitárias - Bloco II"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São Francisco",
+    "dataInicio": "2025-08-22T12:15:00-03:00",
+    "dataFim": "2025-08-22T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Círculo Bíblico Comunitário",
+    "lugar": "Jardim das Palmeiras",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T15:30:00-03:00",
+    "descricao": "<p>Estudo bíblico popular sobre a encíclica social coordenado pelo biblista <b>Prof. Samuel Trindade</b> e pela animadora <b>Regina Coeli</b>.</p>",
+    "secao": "Ecologia Integral e Cuidado Comunitário"
+   },
+   {
+    "nome": "Vigília Jovem de Taizé",
+    "lugar": "Nave da Capela Central",
+    "dataInicio": "2025-08-22T19:30:00-03:00",
+    "dataFim": "2025-08-22T21:30:00-03:00",
+    "descricao": "<p>Noite de cantos meditativos à luz de velas, com a coordenação da <b>Pastoral da Juventude de Niterói</b> sob orientação do <b>Irmão Lucas de Assis</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2025-08-23T08:00:00-03:00",
+    "dataFim": "2025-08-23T08:30:00-03:00",
+    "descricao": "<p>Momento de prece matinal guiado pelos membros da <b>Legião de Maria</b> sob condução de <b>Zulmira Ramos</b>.</p>",
+    "secao": "Juventudes, Famílias e Transformação"
+   },
+   {
+    "nome": "Painel Dialogado",
+    "lugar": "Auditório Dom Helder",
+    "dataInicio": "2025-08-23T08:45:00-03:00",
+    "dataFim": "2025-08-23T10:15:00-03:00",
+    "descricao": "<p>Discussão temática: <i>Desafios da Juventude Fluminense: Saúde Mental, Emprego e Espiritualidade</i>, com <b>Dra. Juliana Castilho</b>, o psicólogo <b>Felipe Peçanha</b> e o padre <b>Sérgio Montenegro</b>.</p>",
+    "secao": "Juventudes, Famílias e Transformação"
+   },
+   {
+    "nome": "Intervalo Solidário",
+    "lugar": "Tenda da Convivência",
+    "dataInicio": "2025-08-23T10:15:00-03:00",
+    "dataFim": "2025-08-23T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 105 - Bloco Catequético",
+    "dataInicio": "2025-08-23T10:45:00-03:00",
+    "dataFim": "2025-08-23T12:15:00-03:00",
+    "descricao": "<p>Trabalho manual e geração de renda: <i>Artesanato em Mosaico com Materiais Reciclados</i>, facilitada pela artesã comunitária <b>Dona Ivone Bastos</b>.</p>",
+    "secao": "Oficinas Comunitárias - Bloco III"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Dança do Centro Cultural",
+    "dataInicio": "2025-08-23T10:45:00-03:00",
+    "dataFim": "2025-08-23T12:15:00-03:00",
+    "descricao": "<p>Expressão corporal e liturgia: <i>Dança Sacra e Expressões Populares</i>, conduzida pelo coreógrafo <b>Danilo Sampaio</b>.</p>",
+    "secao": "Oficinas Comunitárias - Bloco III"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São Francisco",
+    "dataInicio": "2025-08-23T12:15:00-03:00",
+    "dataFim": "2025-08-23T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Ação Social Comunitária",
+    "lugar": "Praça Central do Bairro",
+    "dataInicio": "2025-08-23T14:00:00-03:00",
+    "dataFim": "2025-08-23T17:00:00-03:00",
+    "descricao": "<p>Mutirão de atendimento com assessoria jurídica gratuita por <b>Dr. Roberto Fontes</b>, triagem de saúde com a enfermeira <b>Bruna Caldas</b> e recreação para crianças com a animadora <b>Tia Beth</b>.</p>",
+    "secao": "Juventudes, Famílias e Transformação"
+   },
+   {
+    "nome": "Celebração Eucarística",
+    "lugar": "Nave da Capela Central",
+    "dataInicio": "2025-08-23T18:00:00-03:00",
+    "dataFim": "2025-08-23T19:30:00-03:00",
+    "descricao": "<p>Missa com benção especial das famílias e juventudes, presidida pelo <b>Padre Otávio Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural e Sarau Comunitário",
+    "lugar": "Concha Acústica do Pátio",
+    "dataInicio": "2025-08-23T20:00:00-03:00",
+    "dataFim": "2025-08-23T22:00:00-03:00",
+    "descricao": "<p>Apresentação de poemas e canções com os poetas locais <b>Elisa Moreti</b> e <b>Jorge dos Santos</b>, além do <b>Grupo Choro da Guanabara</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Caminhada da Fraternidade",
+    "lugar": "Praia de Icaraí",
+    "dataInicio": "2025-08-24T07:30:00-03:00",
+    "dataFim": "2025-08-24T09:00:00-03:00",
+    "descricao": "<p>Caminhada pública pela paz e acolhimento com concentração na Pedra de Itapuca, articulada pelo <b>Conselho de Leigos de Niterói</b> com falas de <b>Valéria Rios</b>.</p>",
+    "secao": "Celebrações de Envio e Missão"
+   },
+   {
+    "nome": "Café Coletivo",
+    "lugar": "Pátio das Oliveiras",
+    "dataInicio": "2025-08-24T09:15:00-03:00",
+    "dataFim": "2025-08-24T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Celebrações de Envio e Missão"
+   },
+   {
+    "nome": "Celebração de Encerramento",
+    "lugar": "Nave da Capela Central",
+    "dataInicio": "2025-08-24T10:15:00-03:00",
+    "dataFim": "2025-08-24T12:00:00-03:00",
+    "descricao": "<p>Missa solene de encerramento e envio missionário presidida pelo <b>Bispo Auxiliar Dom Vicente Paiva</b>, acompanhado por presbíteros da arquidiocese.</p>",
+    "secao": "Celebrações de Envio e Missão"
+   },
+   {
+    "nome": "Almoço Festivo",
+    "lugar": "Refeitório São Francisco",
+    "dataInicio": "2025-08-24T12:30:00-03:00",
+    "dataFim": "2025-08-24T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Ato de Envio e Bênção Final",
+    "lugar": "Pátio das Oliveiras",
+    "dataInicio": "2025-08-24T14:30:00-03:00",
+    "dataFim": "2025-08-24T15:30:00-03:00",
+    "descricao": "<p>Despedida das delegações paroquiais e bênção das cruzes pastorais com <b>Padre Marcos Vinícius da Silva</b> e a coordenadora leiga <b>Beatriz Lemos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

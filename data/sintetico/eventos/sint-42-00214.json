@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-42-00214",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Florianópolis - SC",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "titulos_longos",
+   "sem_local",
+   "descricoes_ricas",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:19+00:00",
+ "uso_tokens": {
+  "entrada": 700,
+  "saida": 1125
+ },
+ "saida": {
+  "evento": {
+   "nome": "II Encontro de Fé, Cidadania e Ação Comunitária da Ilha",
+   "local_geral": "Centro Comunitário Paroquial Santo Antônio de Lisboa, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Celebração Ecumênica de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Momento inicial de acolhimento e oração comunitária com a participação de lideranças religiosas locais. Coordenada pelo <b>Pastor Marcos Silveira</b> e pela <b>Irmã Teresa Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Elaboração e Captação Solidária de Recursos para Projetos Sociais Voltados a Famílias em Vulnerabilidade Extrema",
+    "lugar": "Sala São Francisco",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Capacitação voltada a lideranças comunitárias e agentes pastorais. Ministrada pela facilitadora <b>Luciana Prado Ramos</b>, com apoio do coordenador voluntário <b>Carlos Eduardo Viegas</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina de Mediação Pacífica e Resolução Comunitária de Conflitos Urbanos em Bairros e Periferias sob a Perspectiva da Fraternidade Social",
+    "lugar": "Sala Santa Clara",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Dinâmicas de diálogo não violento nas comunidades. Palestra e moderação por <b>Dr. Henrique Mendonça</b> e <b>Maria Aparecida Fontes</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Círculo de Partilha e Relatos Comunitários",
+    "lugar": null,
+    "dataInicio": "2025-05-17T14:30:00-03:00",
+    "dataFim": "2025-05-17T17:00:00-03:00",
+    "descricao": "<p>Apresentação de iniciativas populares da Grande Florianópolis. Coordenação geral de <b>Diácono Roberto Souza</b>. Trabalhos apresentados: <i>Hortas Comunitárias e Segurança Alimentar nos Morros</i> por <b>Juliana Meireles</b>; <i>Acolhimento Fraterno de Imigrantes e Refugiados</i> apresentado por <b>Jean-Baptiste Dupont</b> e <b>Clarice Antunes</b>; e <i>Alfabetização Solidária na Terceira Idade</i> por <b>Sebastião Valério Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna sobre Engajamento Comunitário Diálogo Inter-religioso e Cuidado Integral com a Casa Comum Frente às Crises Socioambientais Contemporâneas",
+    "lugar": null,
+    "dataInicio": "2025-05-18T09:30:00-03:00",
+    "dataFim": "2025-05-18T11:30:00-03:00",
+    "descricao": "<p>Reflexão aberta a toda a comunidade sobre a encíclica social e ecológica. Exposição a cargo do <b>Prof. Dr. Samuel Brandão</b>, com coordenação de mesa realizada por <b>Valéria Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Bênção de Envio e Almoço Comunitário",
+    "lugar": null,
+    "dataInicio": "2025-05-18T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "spec": {
+  "id": "sint-42-00396",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Londrina - PR",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "subtitulo_separado",
+   "descricoes_ricas",
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:15+00:00",
+ "uso_tokens": {
+  "entrada": 710,
+  "saida": 2200
+ },
+ "saida": {
+  "evento": {
+   "nome": "12º Encontro Comunitário de Fé e Ação Social de Londrina",
+   "local_geral": "Centro Pastoral São Vicente Pallotti, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Fraterno",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2024-08-16T18:00:00-03:00",
+    "dataFim": "2024-08-16T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Celebração Ecumênica de Abertura",
+    "lugar": "Capela Principal",
+    "dataInicio": "2024-08-16T19:00:00-03:00",
+    "dataFim": "2024-08-16T20:30:00-03:00",
+    "descricao": "<p>Tema: <i>Unidos na Esperança e no Cuidado dos Mais Vulneráveis</i>.</p><p>Presidência da celebração pelo Pastor <b>Marcos Vinicius de Souza</b> e pelo Padre <b>Arnaldo Guimarães</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-08-16T20:45:00-03:00",
+    "dataFim": "2024-08-16T22:00:00-03:00",
+    "descricao": "<p>Tema: <i>O papel transformador das comunidades religiosas diante dos desafios contemporâneos da vulnerabilidade social urbana e da garantia dos direitos humanos fundamentais</i>.</p><p>Palestrante: Profa. Dra. <b>Helena Soares Bittencourt</b>.</p><p>Coordenação: <b>Irmã Terezinha Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": null,
+    "dataInicio": "2024-08-17T08:00:00-03:00",
+    "dataFim": "2024-08-17T08:30:00-03:00",
+    "descricao": "<p>Momento de oração comunitária e espiritualidade conduzido pela diácona <b>Ruth Maria Silveira</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala de Reuniões 02",
+    "dataInicio": "2024-08-17T09:00:00-03:00",
+    "dataFim": "2024-08-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Capacitação de líderes voluntários locais para estruturação e gestão estratégica de hortas comunitárias sustentáveis em periferias e vilas</i>.</p><p>Facilitadores: Eng. Agrônomo <b>Carlos Eduardo Pires</b> e Assistente Social <b>Luciana Duarte</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Salão Multiuso",
+    "dataInicio": "2024-08-17T09:00:00-03:00",
+    "dataFim": "2024-08-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Cuidado com a Saúde Mental nas Pastorais de Escuta</i>.</p><p>Facilitadora: Psicóloga <b>Mariana Fonseca Rangel</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São Francisco",
+    "dataInicio": "2024-08-17T12:00:00-03:00",
+    "dataFim": "2024-08-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Partilha de Práticas Solidárias",
+    "lugar": null,
+    "dataInicio": "2024-08-17T14:00:00-03:00",
+    "dataFim": "2024-08-17T17:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Paulo Henrique Rezende</b>.</p><p>Apresentação dos projetos sociais:</p><p>1. <i>Sopa Noturna Fraterna no Centro de Londrina</i>, por <b>Regina Celia Mendes</b>;</p><p>2. <i>Alfabetização Popular de Jovens e Adultos na Zona Norte</i>, por <b>Jorge Tadeu Alencar</b> e <b>Beatriz Prado Nogueira</b>;</p><p>3. <i>Apoio e Reinserção Social a Egressos do Sistema Prisional</i>, por <b>Gilberto Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Vigília e Luau da Juventude",
+    "lugar": "Jardim das Oliveiras",
+    "dataInicio": "2024-08-17T19:30:00-03:00",
+    "dataFim": "2024-08-17T21:30:00-03:00",
+    "descricao": "<p>Tema: <i>Jovens Artífices da Paz</i>.</p><p>Animação musical com o Ministério de Música Renovação, sob direção de <b>Mateus Antunes</b> e mediação do Ministro <b>Daniel Castanho</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Caminhada pela Paz",
+    "lugar": null,
+    "dataInicio": "2024-08-18T08:00:00-03:00",
+    "dataFim": "2024-08-18T09:30:00-03:00",
+    "descricao": "<p>Percurso pelas ruas do bairro, com saída em frente ao Centro Pastoral. Coordenação do cortejo: <b>Fátima Cristina Gouveia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala de Reuniões 01",
+    "dataInicio": "2024-08-18T10:00:00-03:00",
+    "dataFim": "2024-08-18T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias práticas e colaborativas para mediação pacífica de conflitos familiares e comunitários em territórios de alta vulnerabilidade</i>.</p><p>Facilitadores: Mediador Comunitário <b>Sérgio Ramos Albuquerque</b> e <b>Ana Paula Meira</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Assembleia dos Círculos de Fé",
+    "lugar": null,
+    "dataInicio": "2024-08-18T13:30:00-03:00",
+    "dataFim": "2024-08-18T15:30:00-03:00",
+    "descricao": "<p>Apresentação das metas pastorais para o biênio 2024-2026. Coordenação: <b>Cláudio Nogueira</b> e <b>Irmã Dolores Ferraz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Celebração de Envio e Bênção Final",
+    "lugar": "Capela Principal",
+    "dataInicio": "2024-08-18T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Missa e culto de ação de graças com bênção aos agentes de pastoral e voluntários. Concelebrantes: Bispo Emérito Dom <b>Antônio Cândido da Silva</b> e Pastora <b>Elizabete Correia</b>.</p>",
+    "secao": "Celebrações"
+   }
+  ]
+ }
+}

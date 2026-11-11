@@ -1,0 +1,150 @@
+{
+ "spec": {
+  "id": "sint-42-00057",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Santa Maria - RS",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 15,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:46+00:00",
+ "uso_tokens": {
+  "entrada": 707,
+  "saida": 2220
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Regional de Mulheres na Tecnologia da Informação e Computação dos Vales e Pampa",
+   "local_geral": "Centro de Tecnologia, Universidade Federal de Santa Maria (UFSM), Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Kits",
+    "lugar": "Hall do Prédio 7, CT",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T09:40:00-03:00",
+    "descricao": "<p>Sessão solene com a coordenadora geral <b>Dra. Juliana Prado Ramos</b> e a vice-reitora da UFSM <b>Profa. Carla Cristina Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2027-05-19T09:40:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios contemporâneos para a equidade de gênero e retenção de pesquisadoras em áreas de exatas e inteligência artificial no Brasil meridional</i>, ministrada pela cientista <b>Dra. Melissa Fontes Ribeiro</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Espaço de Convivência do CT",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria de Carreira",
+    "lugar": "Sala 302, Bloco 7",
+    "dataInicio": "2027-05-19T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro presencial individualizado conduzido pelas mentoras <b>Mariana Dornelles</b> e <b>Luciana Guimarães Pires</b> para alunas de graduação.</p>",
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Informática 4",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Oficina intitulada <i>Construindo modelos preditivos com técnicas avançadas de aprendizado profundo e processamento de linguagem natural aplicados a dados de saúde pública</i>, facilitada por <b>Msc. Renata Albuquerque</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Atividade técnica sobre introdução a microsserviços e contêineres, orientada por <b>Eng. Beatriz Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Espaço de Convivência do CT",
+    "dataInicio": "2027-05-20T11:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:00:00-03:00",
+    "dataFim": "2027-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica de Artigos",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação oral de trabalhos acadêmicos sob coordenação da <b>Profa. Camila Fagundes</b>. Apresentações de <b>Aline Moreira Souza</b> com <i>Análise de Redes Complexas na Educação</i> e <b>Débora Klein</b> com <i>Otimização Heurística em Smart Grids</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria de Carreira",
+    "lugar": "Sala de Reuniões 1, Anexo CT",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Segunda rodada de atendimentos voltada a estudantes de pós-graduação e início de carreira, com as facilitadoras <b>Sofia Antunes Becker</b> e <b>Tatiane Medeiros</b>.</p>",
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Discussão com o tema <i>Estratégias institucionais e liderança feminina transformadora para a consolidação de políticas afirmativas e sustentáveis na indústria de software</i>, com a participação de <b>Dra. Fernanda Lemos</b>, <b>Claudia Zampieri</b> e moderação de <b>Vanessa Brandão</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Espaço de Convivência do CT",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento e Premiação",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2027-05-21T11:30:00-03:00",
+    "dataFim": "2027-05-21T13:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Mulheres na TI 2027 com a comissão organizadora presidida por <b>Dra. Juliana Prado Ramos</b> e <b>Helena Nogueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

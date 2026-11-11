@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-42-00373",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:36+00:00",
+ "uso_tokens": {
+  "entrada": 674,
+  "saida": 1057
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Mineiro de Sustentabilidade e Gestão Ambiental Urbana",
+   "local_geral": "Centro de Convenções da UFMG, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Boas-Vindas",
+    "lugar": "Auditório Nobre Neves da Rocha",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": "2027-05-18T09:15:00-03:00",
+    "descricao": "<p>Abertura com pronunciamento das autoridades ambientais e apresentação dos objetivos centrais do encontro. Coordenação de <b>Marina Rezende Guimarães</b> e participação especial do secretário municipal <b>Lucas Viana Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Nobre Neves da Rocha",
+    "dataInicio": "2027-05-18T09:15:00-03:00",
+    "dataFim": "2027-05-18T10:45:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Estratégias Integradas para Mitigação de Efeitos Climáticos Severos nas Bacias Hidrográficas Urbanizadas de Regiões Metropolitanas Brasileiras Através de Infraestrutura Verde</i>, ministrada pelo pesquisador <b>Dr. Henrique Albuquerque Antunes</b> e mediada pela professora <b>Dra. Cecília Bastos Prado</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Convivência e Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-18T10:45:00-03:00",
+    "dataFim": "2027-05-18T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala Multiuso 3B",
+    "dataInicio": "2027-05-18T11:15:00-03:00",
+    "dataFim": "2027-05-18T12:45:00-03:00",
+    "descricao": "<p>Sessão temática coordenada pelo professor <b>Fernando Nogueira Maia</b>. Apresentação dos seguintes trabalhos selecionados:</p><p>1. <i>Diagnóstico da Qualidade das Águas do Ribeirão Arrudas Sob Perspectiva das Novas Resoluções</i>, por <b>Camila Siqueira Gomes</b> e <b>Rodrigo Otávio Toledo</b>.</p><p>2. <i>Compostagem Comunitária em Vilas e Favelas da Região Centro-Sul de Belo Horizonte</i>, por <b>Juliana Pires Diniz</b> e <b>Carlos Eduardo Manso</b>.</p><p>3. <i>Avaliação da Arborização Urbana no Efeito de Ilhas de Calor no Vetor Norte</i>, apresentado por <b>Patrícia Meneses Lanza</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Nobre Neves da Rocha",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T15:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Políticas Públicas Participativas de Transição Energética e Descarbonização no Transporte Coletivo e sua Aplicabilidade nos Grandes Centros Urbanos</i>. Exposição principal conduzida pela economista <b>Beatriz Fontes Fagundes</b>, acompanhada pelo debatedor <b>Thiago Meireles Alvarenga</b> e coordenação de <b>Letícia Duarte Silveira</b>.</p>",
+    "secao": "Palestras Plenárias"
+   }
+  ]
+ }
+}

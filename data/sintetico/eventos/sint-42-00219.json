@@ -1,0 +1,246 @@
+{
+ "spec": {
+  "id": "sint-42-00219",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Campinas - SP",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 27,
+  "casos": [
+   "subtitulo_separado",
+   "sem_horario_fim",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:54+00:00",
+ "uso_tokens": {
+  "entrada": 692,
+  "saida": 3961
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Paulista de Sustentabilidade e Gestão Ambiental 2027",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Transição Ecológica e os Desafios Climáticos nas Metrópoles Brasileiras</i>, ministrada pela Dra. <b>Helena Silveira</b> e coordenada pelo Prof. Dr. <b>Marcelo Guimarães</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: Governança das Águas e Segurança Hídrica Regional. Debatedores convidados: Eng. <b>Carlos Eduardo Prado</b>, Profa. <b>Luciana Esteves</b> e o mediador <b>Renato Nogueira</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Instrutor: <b>Diego Cavalcanti</b>.</p><p>Tema prático: <i>Inventário de Emissões de Gases de Efeito Estufa no Setor Agroindustrial</i>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala Verde",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Marina Bastos</b>. Apresentação do artigo <i>Recuperação de Matas Ciliares na Bacia do Rio Piracicaba</i> pelo autor <b>Felipe Dorneles</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Tenda Externa",
+    "dataInicio": "2027-05-19T16:15:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Agroecologia Urbana e Coletivos Comunitários</i>. Facilitação de <b>Clarice Mendes</b> e <b>Otávio Bicalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento de Livros",
+    "lugar": null,
+    "dataInicio": "2027-05-19T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos da obra <i>Direito Ambiental Contemporâneo</i> com os organizadores Dr. <b>Rogério Farias</b> e Profa. Dra. <b>Patrícia Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Apresentação especial: <i>Bioeconomia Circular e Novas Tecnologias de Reciclagem Química</i>, proferida pelo pesquisador <b>Gustavo Henrique Lins</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Exposição de Pôsteres",
+    "lugar": "Saguão das Paineiras",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": "<p>Avaliação dos trabalhos de iniciação científica e pós-graduação. Coordenação da Profa. <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Laboratório de Modelagem",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Sistemas de Informação Geográfica (SIG) Aplicados ao Licenciamento Florestal</i>. Ministrante: <b>Tiago Salgado</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Energias Renováveis e Descarbonização da Matriz de Transportes</i>. Painelistas: <b>Juliana Vianna</b> e <b>Sérgio Campana</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala Verde",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Eixo: Resíduos Sólidos e Logística Reversa. Apresentações de <b>Camila Duarte</b> e <b>Vinícius Ramos</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Fórum Empresarial ESG",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Mesa com lideranças do setor produtivo. Coordenação de <b>Vanessa Godoy</b>, com contribuições de <b>Arthur Nogueira Pinto</b> e <b>Mônica Valente</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Educação Ambiental Crítica nas Redes Públicas de Ensino</i>. Participação dos educadores <b>Igor Santana</b> e <b>Rita de Cássia Moura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exibição de Documentário e Cine-Debate",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2027-05-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Projeção de <i>Vozes da Mata Atlântica</i> seguida de debate com a cineasta <b>Flávia Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encontro de Redes e Coletivos",
+    "lugar": null,
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T09:45:00-03:00",
+    "descricao": "<p>Articulação de ONGs ambientais de Campinas e região metropolitana. Moderação por <b>Cláudio Neves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Restauração Ecológica de Áreas Degradadas: Métodos e Custos</i>, ministrado pelo biólogo <b>Lucas Marcondes</b>.</p>",
+    "secao": "Capacitação Profissional"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T11:45:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas Públicas Municipais e Cidades Resilientes</i>. Palestrantes: <b>Gabriela Fontana</b>, <b>André Vasconcelos</b> e mediação de <b>Sônia Toledo</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Exposição de Pôsteres",
+    "lugar": "Saguão das Paineiras",
+    "dataInicio": "2027-05-21T11:45:00-03:00",
+    "dataFim": "2027-05-21T12:45:00-03:00",
+    "descricao": "<p>Segunda rodada de avaliação de pôsteres científicos. Presidência da sessão por <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:45:00-03:00",
+    "dataFim": "2027-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral dos Delegados Ambientais",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Discussão e redação da <i>Carta de Sustentabilidade de Campinas 2027</i>. Conduzida por <b>Alexandre Matos</b> e <b>Eliane Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": "2027-05-21T17:45:00-03:00",
+    "descricao": "<p>Premiação aos melhores trabalhos e encerramento com o Prof. <b>Marcelo Guimarães</b> e a comissão organizadora.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2027-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical temática com o grupo <b>Orquestra de Viola Caipira de Campinas</b> sob regência do maestro <b>Joaquim Ferraz</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "spec": {
+  "id": "sint-42-00431",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Santa Maria - RS",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:46+00:00",
+ "uso_tokens": {
+  "entrada": 638,
+  "saida": 1714
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Regional de Educadores da Educação Básica da Região Central",
+   "local_geral": "Centro de Convenções da UFSM, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Materiais",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-08-17T08:00:00-03:00",
+    "dataFim": "2023-08-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Secretária Municipal de Educação <b>Lúcia Madruga</b> e da coordenadora pedagógica <b>Mariana Dornelles da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2023-08-17T10:30:00-03:00",
+    "dataFim": "2023-08-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Práticas pedagógicas emancipatórias no cotidiano da escola pública</i>, ministrada pelo Prof. Dr. <b>Carlos Alberto Severo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-17T12:00:00-03:00",
+    "dataFim": "2023-08-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 204 - Prédio 16",
+    "dataInicio": "2023-08-17T13:30:00-03:00",
+    "dataFim": "2023-08-17T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Alfabetização e Letramento nos Anos Iniciais: jogos e estratégias didáticas</i>. Ministrante: <b>Carla Beatriz Fontoura</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-08-17T13:30:00-03:00",
+    "dataFim": "2023-08-17T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Recursos Educacionais Abertos e Tecnologias Digitais na Sala de Aula</i>. Ministrante: <b>Rodrigo Martins Peixoto</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala de Reuniões da Reitoria",
+    "dataInicio": "2023-08-17T16:00:00-03:00",
+    "dataFim": "2023-08-17T18:00:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Desafios da Saúde Mental e Bem-Estar no Trabalho Docente</i>, com mediação de <b>Fernanda Fagundes</b> e participação dos debatedores <b>Jorge Luís Camargo</b> e <b>Clarissa Meneses</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Integrado",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inclusão e Acessibilidade no Ensino Fundamental: da teoria à sala de aula</i>, com exposição de <b>Tatiana Silveira da Rocha</b> e <b>Guilherme Henrique Vaz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2023-08-18T10:45:00-03:00",
+    "dataFim": "2023-08-18T12:15:00-03:00",
+    "descricao": "<p>Apresentação de relatos de experiência docente. Coordenação de <b>Patrícia Beltrame</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Encerramento",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Caminhos e Perspectivas para a Educação Pública Gaúcha</i>. Participação dos palestrantes <b>Vinícius Ramos de Oliveira</b> e <b>Helena Soares Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2023-08-18T16:15:00-03:00",
+    "dataFim": "2023-08-18T17:00:00-03:00",
+    "descricao": "<p>Apresentação musical da <i>Orquestra Jovem da Escola Maneco Maciel</i>, sob regência do maestro <b>Estêvão Quintana</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,140 @@
+{
+ "spec": {
+  "id": "sint-42-00173",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 14,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:53+00:00",
+ "uso_tokens": {
+  "entrada": 647,
+  "saida": 2093
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop de Inteligência Artificial Aplicada do Vale do Paraopeba",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Prédio Central",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T10:30:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Desafios e Oportunidades do Aprendizado Profundo no Agronegócio</i>, ministrada pelo <b>Dr. Marcos Aurelio Ribeiro</b> (UFV).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T11:00:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Dra. Camila Antunes</b>. Apresentações: <i>Detecção de Pragas em Plantações Usando Redes Convolucionais</i> por <b>Felipe Duarte Santos</b>; <i>Otimização de Irrigação com Modelos Preditivos</i> por <b>Juliana Mendes Prado</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2026-05-14T12:30:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso A",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Visão Computacional na Prática com PyTorch e OpenCV</i>, conduzido por <b>Thiago Henrique Barbosa</b> e <b>Larissa Neves de Souza</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Minicurso B",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Processamento de Linguagem Natural com Transformers e Hugging Face</i>, ministrado pelo <b>Prof. Lucas Guimarães Carvalho</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:00:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Modelos Fundacionais e a Nova Fronteira da Automação Industrial</i>, conduzida pela pesquisadora <b>Dra. Beatriz Nogueira Castro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-15T10:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Prof. Me. Rodrigo Teles Faria</b>. Apresentações de artigos selecionados na área de aprendizado por reforço e séries temporais.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso C",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de Prompts e Agentes Autônomos com LangChain</i>, ministrado pelo especialista <b>Gabriel Rezende Moreira</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Minicurso D",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>MLOps: Deploy e Monitoramento de Modelos em Produção</i>, ministrado pelo engenheiro de dados <b>Vinícius Lopes da Costa</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Mesa-redonda de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T16:45:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Ética, Regulação e Impactos Regionais da Inteligência Artificial em Minas Gerais</i> com participação de <b>Dra. Mariana Fontes Xavier</b>, <b>Prof. Carlos Eduardo Peixoto</b> e mediação de <b>Profa. Dra. Camila Antunes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

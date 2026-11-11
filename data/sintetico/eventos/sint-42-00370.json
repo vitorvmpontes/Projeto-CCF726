@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00370",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Belém - PA",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:22+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 1023
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Amazônia Viva 2023",
+   "local_geral": "Espaço Cultural São José Liberto, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Percussão de Carimbó",
+    "lugar": "Pátio das Ervas",
+    "dataInicio": "2023-11-18T10:00:00-03:00",
+    "dataFim": "2023-11-18T12:00:00-03:00",
+    "descricao": "<p>Prática de ritmos tradicionais paraense com o mestre <b>Silvan Galvão</b> abordando toques de curimbó e maracás na dinâmica do carimbó pau e corda.</p>",
+    "secao": "Oficinas Culturais"
+   },
+   {
+    "nome": "Mostra Fotográfica Olhares do Guajará",
+    "lugar": "Galeria das Artes",
+    "dataInicio": "2023-11-18T14:00:00-03:00",
+    "dataFim": "2023-11-18T20:00:00-03:00",
+    "descricao": "<p>Abertura da exposição coletiva coordenada pela curadora <b>Paula Sampaio</b> com ensaios visuais dos ribeirinhos da baía do Guajará.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show das Guitarradas",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2023-11-18T20:30:00-03:00",
+    "dataFim": "2023-11-18T22:30:00-03:00",
+    "descricao": "<p>Apresentação musical imperdível com os mestres <b>Manoel Cordeiro</b> e <b>Félix Robatto</b> celebrando a música popular instrumental paraense.</p>",
+    "secao": "Programação Noturna"
+   },
+   {
+    "nome": "Oficina de Percussão de Carimbó",
+    "lugar": "Sala de Ensaios II",
+    "dataInicio": "2023-11-19T10:00:00-03:00",
+    "dataFim": "2023-11-19T12:00:00-03:00",
+    "descricao": "<p>Segunda turma voltada a iniciantes ministrada pelo percussionista <b>Márcio Jardim</b> com foco nos batuques do marabaixo e do carimbó praieiro.</p>",
+    "secao": "Oficinas Culturais"
+   },
+   {
+    "nome": "Painel Sabores da Floresta",
+    "lugar": "Auditório Igapó",
+    "dataInicio": "2023-11-19T15:00:00-03:00",
+    "dataFim": "2023-11-19T17:00:00-03:00",
+    "descricao": "<p>Debate sobre culinária ancestral e sustentabilidade na Amazônia conduzido pela chef <b>Dona Nena</b> e pela pesquisadora <b>Carmem Lúcia Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Batuque de Encerramento",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2023-11-19T19:30:00-03:00",
+    "dataFim": "2023-11-19T22:00:00-03:00",
+    "descricao": "<p>Grande cortejo final e show conjunto reunindo a cantora <b>Aíla</b> e o grupo <b>Arraial do Pavulagem</b>.</p>",
+    "secao": "Programação Noturna"
+   }
+  ]
+ }
+}

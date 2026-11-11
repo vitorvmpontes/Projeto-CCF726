@@ -1,0 +1,259 @@
+{
+ "spec": {
+  "id": "sint-42-00024",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Vitória - ES",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 29,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:18+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 4134
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Capixaba de Professores da Educação Básica",
+   "local_geral": "Centro de Educação da Universidade Federal do Espírito Santo (UFES), Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall de Entrada do IC-IV",
+    "dataInicio": "2026-05-20T08:00:00-03:00",
+    "dataFim": "2026-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do Secretário de Educação <b>Vitor de Angelo</b> e da coordenadora geral do evento <b>Dra. Mariana Pessotti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inicial",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2026-05-20T10:30:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Desafios da Docência Contemporânea: Currículo, Território e Equidade</i>, ministrada pelo Prof. <b>Carlos Alberto Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:00:00-03:00",
+    "dataFim": "2026-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Diálogos Pedagógicos I",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2026-05-20T13:30:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Práticas de Alfabetização no Ciclo Inicial</i> com as professoras <b>Lúcia Helena Guimarães</b> e <b>Beatriz Rangel de Carvalho</b>.</p>",
+    "secao": "Diálogos Pedagógicos"
+   },
+   {
+    "nome": "Diálogos Pedagógicos II",
+    "lugar": "Auditório do CCHN",
+    "dataInicio": "2026-05-20T13:30:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>A Educação Inclusiva e o Atendimento Educacional Especializado</i>, conduzida por <b>Juliana Pimentel</b> e <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Diálogos Pedagógicos"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2026-05-20T15:30:00-03:00",
+    "dataFim": "2026-05-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Boas-Vindas",
+    "lugar": "Concha Acústica da UFES",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": "2026-05-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação musical da banda de congo mirim coordenada pelo mestre <b>Antônio Chagas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Laboratório de Ensino de Ciências 02",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Oficina prática <i>Experimentos de Baixo Custo no Ensino Fundamental</i> ministrada pelo professor <b>Thiago Mendonça</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala de Multimeios 04",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Gamificação e Letramento Digital em Sala de Aula</i> com a formadora <b>Renata Siqueira</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Sala 102 - IC IV",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Estudo e prática com o tema <i>Roda de Histórias e Contação na Educação Infantil</i> ministrada por <b>Camila Duarte</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T11:30:00-03:00",
+    "dataFim": "2026-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Ensino Fundamental",
+    "lugar": null,
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:00:00-03:00",
+    "descricao": "<p>Apresentação de relatos de experiência e trabalhos científicos com avaliação coordenada pela Profa. <b>Cláudia Coutinho</b>.</p>",
+    "secao": "Comunicações Orais e Pôsteres"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Educação Infantil",
+    "lugar": null,
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:00:00-03:00",
+    "descricao": "<p>Exposição de práticas docentes avaliada por <b>Marcos Vinícius Telles</b>.</p>",
+    "secao": "Comunicações Orais e Pôsteres"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": null,
+    "dataInicio": "2026-05-21T15:00:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório do CCHN",
+    "dataInicio": "2026-05-21T15:30:00-03:00",
+    "dataFim": "2026-05-21T17:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Saúde Mental do Professor e Condições de Trabalho Escolar</i> com os palestrantes <b>Felipe Nascimento</b> e <b>Sílvia Regina Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": null,
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Encontro para debater <i>Gestão Democrática e Relação Escola-Comunidade</i> mediado por <b>Geraldo Magela</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": null,
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Diálogo sobre <i>Educação das Relações Étnico-Raciais nas Redes Públicas</i> coordenado por <b>Tatiana de Oliveira Santana</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": null,
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicações Orais - Sala 1",
+    "lugar": "Sala 201 - IC IV",
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": "2026-05-22T12:30:00-03:00",
+    "descricao": "<p>Apresentação do relato <i>Interdisciplinaridade nos Anos Finais</i> por <b>Alexandre Ramos</b>.</p>",
+    "secao": "Comunicações Orais e Pôsteres"
+   },
+   {
+    "nome": "Comunicações Orais - Sala 2",
+    "lugar": "Sala 203 - IC IV",
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": "2026-05-22T12:30:00-03:00",
+    "descricao": "<p>Trabalhos voltados ao tema <i>Projetos Investigativos na Educação Infantil</i> sob coordenação de <b>Patrícia Belmiro</b>.</p>",
+    "secao": "Comunicações Orais e Pôsteres"
+   },
+   {
+    "nome": "Horário Livre para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:30:00-03:00",
+    "dataFim": "2026-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Avaliação da Aprendizagem: Entre a Regulação e a Emancipação</i> pela pesquisadora <b>Maria Inês Furtado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento Coletivo de Livros",
+    "lugar": "Hall do Teatro Universitário",
+    "dataInicio": "2026-05-22T16:30:00-03:00",
+    "dataFim": "2026-05-22T18:00:00-03:00",
+    "descricao": "<p>Sessão de autógrafos com diversos autores participantes do evento organizada pelo docente <b>Paulo Sérgio Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Experiências Docentes",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2026-05-23T08:30:00-03:00",
+    "dataFim": "2026-05-23T10:30:00-03:00",
+    "descricao": "<p>Compartilhamento do projeto <i>Horta Escolar como Laboratório Vivo</i> pela Profa. <b>Carla Peçanha</b> e relato sobre mediação de conflitos pelo Prof. <b>Leandro Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2026-05-23T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Professores da Rede Básica",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2026-05-23T11:00:00-03:00",
+    "dataFim": "2026-05-23T12:30:00-03:00",
+    "descricao": "<p>Discussão e redação da <i>Carta de Vitória pela Valorização do Magistério</i> presidida pela professora <b>Elaine Cristina Borges</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2026-05-23T14:00:00-03:00",
+    "dataFim": "2026-05-23T15:30:00-03:00",
+    "descricao": "<p>Conferência <i>O Futuro da Escola Pública Brasileira</i> proferida pelo renomado educador <b>Waldir Simões</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2026-05-23T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Destaque Práticas Educativas e encerramento oficial com a comissão organizadora presidida por <b>Mariana Pessotti</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

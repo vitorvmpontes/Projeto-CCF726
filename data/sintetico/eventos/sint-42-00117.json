@@ -1,0 +1,246 @@
+{
+ "spec": {
+  "id": "sint-42-00117",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Salvador - BA",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 27,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local",
+   "descricoes_ricas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:51+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 3965
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Workshop Baiano de Inteligência Artificial e Aplicações Práticas (WBIA 2027)",
+   "local_geral": "Centro de Convenções de Salvador, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Entrega de Crachás e Recepção",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-08-18T08:00:00-03:00",
+    "dataFim": "2027-08-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2027-08-18T09:00:00-03:00",
+    "dataFim": "2027-08-18T09:40:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenação-geral do evento liderada por <b>Dra. Mariana Vasconcelos</b> e <b>Prof. Lucas Figueiredo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2027-08-18T09:40:00-03:00",
+    "dataFim": "2027-08-18T10:50:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Fronteiras dos Modelos de Linguagem de Grande Escala e Desafios Multimodais</i> com o pesquisador <b>Dr. Arthur Queiroz</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-08-18T10:50:00-03:00",
+    "dataFim": "2027-08-18T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2027-08-18T11:15:00-03:00",
+    "dataFim": "2027-08-18T13:00:00-03:00",
+    "descricao": "<p>Primeira parte do curso <i>Introdução a Grafos de Conhecimento e RAG Avançado</i> ministrado por <b>Msc. Felipe Nogueira</b> e <b>Carla Brandão</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Multiuso B",
+    "dataInicio": "2027-08-18T11:15:00-03:00",
+    "dataFim": "2027-08-18T13:00:00-03:00",
+    "descricao": "<p>Primeira parte do curso <i>Visão Computacional Aplicada à Saúde Pública</i> com a instrução de <b>Profa. Camila Bittencourt</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-08-18T13:00:00-03:00",
+    "dataFim": "2027-08-18T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2027-08-18T14:30:00-03:00",
+    "dataFim": "2027-08-18T16:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Prof. Roberto Meireles</b>. Apresentações dos artigos: <i>Detecção Automática de Anomalias em Redes Elétricas Inteligentes</i> por <b>Gabriel Rocha</b>; <i>Classificação de Sentimentos em Dados do Semiárido</i> por <b>Juliana Pinho</b> e <b>Pedro Guimarães</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2027-08-18T16:45:00-03:00",
+    "dataFim": "2027-08-18T18:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Impactos Regulatórios do Marco Legal da IA no Nordeste</i> moderado por <b>Tatiana Silveira</b>, com a participação de <b>Dr. Marcos Barreto</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Boas-Vindas",
+    "lugar": "Terraço Pelourinho",
+    "dataInicio": "2027-08-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de integração entre congressistas, patrocinadores e palestrantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:30:00-03:00",
+    "descricao": "<p>Segunda etapa do curso <i>Introdução a Grafos de Conhecimento e RAG Avançado</i> ministrado por <b>Msc. Felipe Nogueira</b> e <b>Carla Brandão</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Multiuso B",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:30:00-03:00",
+    "descricao": "<p>Conclusão do minicurso <i>Visão Computacional Aplicada à Saúde Pública</i> com <b>Profa. Camila Bittencourt</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório Multiuso C",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:30:00-03:00",
+    "descricao": "<p>Módulo intensivo <i>Edge AI: Implementação de Redes Neurais em Microcontroladores</i> lecionado por <b>Eng. Rodrigo Esteves</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-08-19T10:30:00-03:00",
+    "dataFim": "2027-08-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada 1",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2027-08-19T11:00:00-03:00",
+    "dataFim": "2027-08-19T12:15:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>IA Explicável em Ambientes Críticos</i> conduzida por <b>Dra. Fernanda Sampaio</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-08-19T12:15:00-03:00",
+    "dataFim": "2027-08-19T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2027-08-19T13:45:00-03:00",
+    "dataFim": "2027-08-19T15:45:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Letícia Carvalho</b>. Apresentações: <i>Modelagem Preditiva de Chuvas em Bacias Hidrográficas</i> por <b>Alexandre Paiva</b>; <i>Aprendizado Federado para Dados Médicos Privados</i> por <b>Renan Castro</b> e <b>Sofia Toledo</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres e Demonstrações",
+    "lugar": "Foyer Itapuã",
+    "dataInicio": "2027-08-19T15:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de protótipos de startups e pôsteres de estudantes da graduação avaliados pelo comitê técnico coordenado por <b>Prof. Maurício Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada 2",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2027-08-19T17:15:00-03:00",
+    "dataFim": "2027-08-19T18:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Otimização Combinatória com Aprendizado por Reforço</i> proferida pelo <b>Prof. Diego Albuquerque</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2027-08-20T08:30:00-03:00",
+    "dataFim": "2027-08-20T10:30:00-03:00",
+    "descricao": "<p>Oficina prática <i>Engenharia de Prompt e Avaliação Sistemática de LLMs</i> com o instrutor <b>Vinícius Ramos</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 5",
+    "lugar": "Laboratório Multiuso B",
+    "dataInicio": "2027-08-20T08:30:00-03:00",
+    "dataFim": "2027-08-20T10:30:00-03:00",
+    "descricao": "<p>Treinamento prático <i>MLOps na Prática com Servidores Locais e Cloud</i> conduzido por <b>Msc. Priscila Dantas</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Café de Encerramento das Oficinas",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2027-08-20T10:30:00-03:00",
+    "dataFim": "2027-08-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda de Indústria",
+    "lugar": null,
+    "dataInicio": "2027-08-20T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate <i>Oportunidades e Gargalos para Startups de IA no Polo de Camaçari e Região</i> com moderação de <b>Clarissa Fontes</b> e participação de <b>Henrique Santana</b> e <b>Valéria Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-08-20T12:30:00-03:00",
+    "dataFim": "2027-08-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": null,
+    "dataInicio": "2027-08-20T14:00:00-03:00",
+    "dataFim": "2027-08-20T15:30:00-03:00",
+    "descricao": "<p>Coordenação do <b>Prof. André Calmon</b>. Apresentações de: <i>Processamento de Áudio para Reconhecimento de Sotaques Regionais</i> por <b>Lorena Diniz</b>; <i>Algoritmos Genéticos Aplicados à Logística Portuária</i> por <b>Thiago Macedo</b> e <b>Bruna Sales</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Premiação de Melhores Trabalhos",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2027-08-20T15:45:00-03:00",
+    "dataFim": "2027-08-20T16:30:00-03:00",
+    "descricao": "<p>Anúncio dos premiados da categoria Artigo Destaque e Pôster Inovação, sob coordenação de <b>Dra. Mariana Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2027-08-20T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Considerações finais e prévia da edição 2028 com a comissão organizadora presidida por <b>Prof. Lucas Figueiredo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

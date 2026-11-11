@@ -1,0 +1,123 @@
+{
+ "spec": {
+  "id": "sint-42-00050",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Campo Grande - MS",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:07+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 2095
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Pantaneiro de Inteligência Artificial e Aplicações Práticas (WPIA 2027)",
+   "local_geral": "Complexo Multiuso da UFMS, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Auditório Central",
+    "dataInicio": "2027-04-15T08:00:00-03:00",
+    "dataFim": "2027-04-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-15T09:00:00-03:00",
+    "dataFim": "2027-04-15T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral <b>Dr. Marcelo Rezende Albuquerque</b>, com boas-vindas da comissão organizadora e apresentação das diretrizes do evento.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-04-15T10:15:00-03:00",
+    "dataFim": "2027-04-15T12:00:00-03:00",
+    "descricao": "<p>Minicurso com foco em <i>Visão Computacional Aplicada ao Monitoramento da Biodiversidade</i>, ministrado pela <b>Profa. Dra. Letícia Viana Paim</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Redes e Dados",
+    "dataInicio": "2027-04-15T10:15:00-03:00",
+    "dataFim": "2027-04-15T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelos de Linguagem de Grande Porte (LLMs) em Ambientes Corporativos</i>. Instrutor: <b>Me. Thiago Fontes Guimarães</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-04-15T12:00:00-03:00",
+    "dataFim": "2027-04-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-04-15T13:30:00-03:00",
+    "dataFim": "2027-04-15T15:30:00-03:00",
+    "descricao": "<p>Sessão coordenada pela <b>Dra. Camila Nogueira Duarte</b>. Trabalhos apresentados:</p><p>1. <i>Detecção Precoce de Focos de Calor via Aprendizado Profundo em Imagens de Satélite</i>, autoria de <b>Rodrigo Alves Mendes</b> e <b>Carlos Eduardo Siqueira</b>.</p><p>2. <i>Classificação de Espécies Arbóreas do Cerrado utilizando Redes Convolucionais</i>, por <b>Fabiana Teles Brandão</b> e <b>Otávio Garcia de Lima</b>.</p>",
+    "secao": "Apresentação de Artigos e Casos"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-15T16:00:00-03:00",
+    "dataFim": "2027-04-15T17:30:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Desafios Éticos e Regulatórios da IA na Agropecuária de Precisão</i>, com o palestrante convidado <b>Dr. Henrique Bastos Meirelles</b>. Moderação de <b>Renata Silveira Bueno</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-04-16T08:30:00-03:00",
+    "dataFim": "2027-04-16T10:30:00-03:00",
+    "descricao": "<p>Instrução prática: <i>Pipelines de MLOps: Da Concepção ao Deploy Contínuo</i>, ministrado pelo especialista <b>Lucas Prado Veras</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Redes e Dados",
+    "dataInicio": "2027-04-16T08:30:00-03:00",
+    "dataFim": "2027-04-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Aprendizado por Reforço Aplicado à Robótica Móvel</i>, conduzido pelo <b>Prof. Dr. Bernardo Fagundes Antunes</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-16T10:45:00-03:00",
+    "dataFim": "2027-04-16T12:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O Futuro do Trabalho e a Transformação Digital no Centro-Oeste</i>, com os debatedores <b>Juliana Morais Quintana</b>, <b>Felipe Castanheira Neto</b> e <b>Mariana Castro Rios</b>. Mediação: <b>Dr. Marcelo Rezende Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T16:00:00-03:00",
+    "descricao": "<p>Coordenação do <b>Prof. Me. Gustavo Pimentel Leal</b>. Artigos apresentados:</p><p>1. <i>Predição de Quebras em Maquinário Pesado por Meio de Redes Recorrentes</i>, autores: <b>Aline Cristina Ortiz</b> e <b>Jorge Luís Godoy</b>.</p><p>2. <i>Otimização de Rotas de Transporte Urbano Usando Algoritmos Genéticos</i>, de <b>Patrícia Dantas Soares</b> e <b>Victor Hugo Sanches</b>.</p>",
+    "secao": "Apresentação de Artigos e Casos"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-16T16:30:00-03:00",
+    "dataFim": "2027-04-16T17:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos e fechamento com a coordenadora da banca avaliadora <b>Dra. Simone Paes Rangel</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

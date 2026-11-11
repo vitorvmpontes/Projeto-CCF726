@@ -1,0 +1,83 @@
+{
+ "spec": {
+  "id": "sint-42-00280",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Florianópolis - SC",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:47+00:00",
+ "uso_tokens": {
+  "entrada": 632,
+  "saida": 1270
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência da Computação e Engenharia de Software",
+   "local_geral": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-10-14T09:00:00-03:00",
+    "dataFim": "2026-10-14T10:30:00-03:00",
+    "descricao": "<p>Sessão solene de abertura com a coordenação-geral de <b>Prof. Dr. Marcelo Vasconcelos</b> e participação especial da presidente da sociedade científica <b>Profa. Dra. Helena Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1A: Inteligência Artificial e Aprendizado de Máquina",
+    "lugar": "Sala Joaquina",
+    "dataInicio": "2026-10-14T14:00:00-03:00",
+    "dataFim": "2026-10-14T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dr. Rodrigo Albuquerque</b>. Apresentação dos artigos: <i>Redes Neurais Convolucionais Aplicadas à Detecção de Falhas Estruturais</i> por <b>Camila Duarte</b> e <i>Otimização Heurística em Grafos Dinâmicos</i> por <b>Felipe Dornelles</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 1B: Engenharia de Requisitos e Métodos Ágeis",
+    "lugar": "Sala Campeche",
+    "dataInicio": "2026-10-14T14:00:00-03:00",
+    "dataFim": "2026-10-14T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Tatiana Meneses</b>. Apresentação dos artigos: <i>Impacto da Integração Contínua na Qualidade de Código</i> por <b>Lucas Medeiros</b> e <i>Mapeamento de Histórias de Usuário com Métodos Participativos</i> por <b>Renata Pires</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-10-15T10:00:00-03:00",
+    "dataFim": "2026-10-15T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ética e Governança no Uso de Modelos de Linguagem de Grande Porte</i>. Debatedores convidados: <b>Dra. Juliana Prado</b>, <b>Prof. Fernando Bastos</b> e mediação conduzida por <b>Dr. André Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-10-15T15:30:00-03:00",
+    "dataFim": "2026-10-15T17:30:00-03:00",
+    "descricao": "<p>Exibição e arguição de trabalhos de iniciação científica e pós-graduação, avaliados pelo comitê técnico liderado por <b>Profa. Beatriz Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada Internacional",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-10-16T10:30:00-03:00",
+    "dataFim": "2026-10-16T12:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Next-Generation Cloud Architectures and Resilience</i> ministrada pelo pesquisador convidado <b>Dr. Keith Morrison</b> com apresentação de <b>Prof. Gabriel Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-10-16T16:30:00-03:00",
+    "dataFim": "2026-10-16T18:00:00-03:00",
+    "descricao": "<p>Entrega dos prêmios de melhores artigos e anúncio da sede da próxima edição por <b>Prof. Dr. Marcelo Vasconcelos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

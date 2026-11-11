@@ -1,0 +1,197 @@
+{
+ "spec": {
+  "id": "sint-42-00161",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "titulos_longos",
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:03+00:00",
+ "uso_tokens": {
+  "entrada": 686,
+  "saida": 3073
+ },
+ "saida": {
+  "evento": {
+   "nome": "III Seminário Paranaense de Sustentabilidade Urbana e Conservação Ambiental",
+   "local_geral": "Centro de Eventos Positivo, Parque Barigui, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento da diretora do instituto, Dra. <b>Helena Schmidt</b>, e do secretário municipal <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Atividades Plenárias"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2026-05-14T09:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação intitulada <i>Cidades Resilientes e o Desafio das Mudanças Climáticas no Sul Global</i>, proferida pelo Prof. Dr. <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Atividades Plenárias"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-14T10:45:00-03:00",
+    "dataFim": "2026-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia Circular Aplicada à Gestão Integrada de Resíduos Sólidos Urbanos</i> com os debatedores <b>Patrícia Lemes</b> e <b>Rodrigo Zanatta</b>. Moderação por <b>Carla Antunes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:30:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Verde - Sala 102",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Capacitação técnica conduzida pelo biólogo <b>Felipe Castanho</b> sobre técnicas de restauração florestal em remanescentes urbanos de Mata Atlântica.</p>",
+    "secao": "Oficinas e Capacitação"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Geoprocessamento - Sala 105",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Atividade ministrada pela engenheira ambiental <b>Camila Duarte</b> sobre uso de imagens de satélite e SIG no monitoramento hidrográfico.</p>",
+    "secao": "Oficinas e Capacitação"
+   },
+   {
+    "nome": "Intervalo Vespertino da Tarde",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-14T16:00:00-03:00",
+    "dataFim": "2026-05-14T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2026-05-14T16:30:00-03:00",
+    "dataFim": "2026-05-14T17:45:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>A Aplicação Prática de Instrumentos Jurídicos e Mecanismos Econômicos Verdes para Viabilizar Projetos de Restauração em Bacias Hidrográficas Degradadas</i>, ministrada pela jurista <b>Renata Albuquerque Silveira</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Exposição de Painéis Acadêmicos",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-14T17:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de apresentação de pôsteres científicos coordenada pelo professor <b>Thiago Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo Setorial",
+    "lugar": "Auditório Gralha Azul",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Governança Ambiental e Parcerias Público-Privadas no Paraná</i>. Participação de <b>Beatriz Nogueira</b>, <b>Gustavo Pires</b> e mediação de <b>Sônia Regina Silva</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Café Temático",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-15T10:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicação Oral: Sessão A",
+    "lugar": "Sala 201",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>Eficiência Energética em Edifícios Públicos Municipais</i> por <b>Lucas Brandão</b> e avaliação de <b>Marina Fontes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Comunicação Oral: Sessão B",
+    "lugar": "Sala 202",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do estudo <i>Biodiversidade de Invertebrados em Parques de Curitiba</i> pela pesquisadora <b>Juliana Bastos</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Temática",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T14:45:00-03:00",
+    "descricao": "<p>Conferência com o tema <i>O Papel Estratégico da Mobilidade Ativa e dos Corredores Ecológicos Urbanos na Mitigação dos Impactos das Ilhas de Calor</i>, proferida pelo urbanista <b>André Valadares</b>.</p>",
+    "secao": "Atividades Plenárias"
+   },
+   {
+    "nome": "Oficina Técnica Avançada",
+    "lugar": "Laboratório Verde - Sala 102",
+    "dataInicio": "2026-05-15T14:45:00-03:00",
+    "dataFim": "2026-05-15T16:15:00-03:00",
+    "descricao": "<p>Atividade <i>Cálculo de Pegada de Carbono Corporativa e Estratégias de Neutralização Net-Zero com Soluções Baseadas na Natureza em Cenários Complexos</i> ministrada por <b>Fernando Siqueira</b>.</p>",
+    "secao": "Oficinas e Capacitação"
+   },
+   {
+    "nome": "Parada para o Café da Tarde",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-15T16:15:00-03:00",
+    "dataFim": "2026-05-15T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação Ambiental",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2026-05-15T16:45:00-03:00",
+    "dataFim": "2026-05-15T17:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Sustentabilidade Paraná 2026, conduzida por <b>Mariana Kloss</b> e <b>Valter Dornelles</b>.</p>",
+    "secao": "Atividades Plenárias"
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2026-05-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura da Carta de Curitiba sobre Sustentabilidade Urbana com os membros da comissão organizadora <b>Helena Schmidt</b> e <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Atividades Plenárias"
+   }
+  ]
+ }
+}

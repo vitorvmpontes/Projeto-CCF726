@@ -1,0 +1,117 @@
+{
+ "spec": {
+  "id": "sint-42-00184",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Londrina - PR",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 11,
+  "casos": [
+   "subtitulo_separado",
+   "sem_horario_fim",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:48+00:00",
+ "uso_tokens": {
+  "entrada": 667,
+  "saida": 1681
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Paranaense de Mulheres na Computação",
+   "local_geral": "Centro de Tecnologia e Urbanismo, Universidade Estadual de Londrina (UEL), Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Recepção de Participantes",
+    "lugar": "Hall do Anfiteatro Maior",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T09:30:00-03:00",
+    "descricao": "<p>Distribuição de crachás, entrega de kits e boas-vindas da comissão organizadora liderada pela Profa. Dra. <b>Juliana Pavanelli</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Anfiteatro Maior",
+    "dataInicio": "2025-05-21T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da palestra <i>Trajetórias Femininas na Inteligência Artificial: Desafios e Impactos Éticos</i>, ministrada pela cientista-chefe <b>Clarice Montenegro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": null,
+    "dataInicio": "2025-05-21T14:00:00-03:00",
+    "dataFim": "2025-05-21T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Retenção e Liderança de Mulheres no Ecossistema de Tecnologia do Norte Pioneiro</i>, moderado por <b>Renata Silveira</b>, com a participação de <b>Tatiane Meireles</b> e <b>Luciana Bressan</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de Prompt e Modelos de Linguagem para Desenvolvedoras</i>, conduzida pela instrutora <b>Mariana Fagundes</b>.</p>",
+    "secao": "Oficinas Tecnológicas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança em Aplicações Web com Abordagem DevSecOps</i>, ministrada por <b>Camila Duarte</b> e <b>Beatriz Fontes</b>.</p>",
+    "secao": "Oficinas Tecnológicas"
+   },
+   {
+    "nome": "Sessão de Apresentação de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição e avaliação de pesquisas científicas e relatos de extensão desenvolvidos por estudantes de graduação e pós-graduação, coordenada pela Profa. <b>Débora Alencar</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão de Apresentação Oral",
+    "lugar": null,
+    "dataInicio": "2025-05-22T16:00:00-03:00",
+    "dataFim": "2025-05-22T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos melhores artigos selecionados pelo comitê de programa. Avaliação presidida por <b>Heloísa Guimarães</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2025-05-23T09:00:00-03:00",
+    "dataFim": "2025-05-23T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Saúde Mental, Maternidade e a Carreira Acadêmica em Exatas</i>, facilitada pela psicóloga convidada <b>Vanessa Antunes</b> e pela pesquisadora <b>Letícia Borges</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Coletiva",
+    "lugar": "Sala de Estudos Multiuso",
+    "dataInicio": "2025-05-23T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro voltado à orientação de carreira, transição de área e preparação para pós-graduação no exterior, com as mentoras <b>Aline Nogueira</b> e <b>Patrícia Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Anfiteatro Maior",
+    "dataInicio": "2025-05-23T16:30:00-03:00",
+    "dataFim": "2025-05-23T18:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>O Futuro da Computação Quântica e as Oportunidades para Novas Gerações</i>, com a Profa. Dra. <b>Fernanda Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-23T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

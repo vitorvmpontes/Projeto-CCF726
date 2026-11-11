@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-42-00089",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "descricoes_ricas",
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:23+00:00",
+ "uso_tokens": {
+  "entrada": 698,
+  "saida": 3013
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Mineira de Empreendedorismo e Inovação do Sebrae 2024",
+   "local_geral": "Terrazzo Centro de Eventos, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Solenidade de Abertura",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença de lideranças regionais e representantes do ecossistema de inovação da Zona da Mata.</p><p>Coordenação: <b>Carlos Alberto Rezende</b> (Diretor Regional Sebrae-MG) e <b>Mariana Vasconcelos</b> (Prefeitura de Juiz de Fora).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-05-15T10:15:00-03:00",
+    "dataFim": "2024-05-15T11:45:00-03:00",
+    "descricao": "<p>Tema da palestra: <i>Estratégias inovadoras para alavancagem de pequenos negócios no mercado digital contemporâneo através do uso inteligente e ético de ferramentas generativas</i>.</p><p>Palestrante: <b>Rodrigo Furtado Mendonça</b> (Sebrae Minas).</p>",
+    "secao": "Painéis de Negócios"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-05-15T11:00:00-03:00",
+    "dataFim": "2024-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem de Finanças e Fluxo de Caixa para MEIs</i>.</p><p>Facilitadora: <b>Fernanda Lins Guimarães</b>.</p>",
+    "secao": "Workshops de Gestão"
+   },
+   {
+    "nome": "Almoço Livre e Networking",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-05-15T12:30:00-03:00",
+    "dataFim": "2024-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Mata Atlântica",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Mesa com empresários locais sobre internacionalização e cadeias de suprimentos.</p><p>Coordenação: <b>Henrique Duarte</b>.</p><p>Debatedores: <b>Camila Siqueira Bastos</b> (Laticínios Minas Vale), <b>Geraldo Pereira Júnior</b> (TexMinas) e <b>Renata Albuquerque</b> (StartJuiz).</p>",
+    "secao": "Painéis de Negócios"
+   },
+   {
+    "nome": "Mostra de Startups Locais",
+    "lugar": "Arena Pitch",
+    "dataInicio": "2024-05-15T14:30:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação de soluções inovadoras da Zona da Mata.</p><p>Coordenador da sessão: <b>Vinícius Peixoto</b>.</p><p>Projetos apresentados:</p><p><i>1. Agrotech Sustentável: Rastreabilidade de Queijos Artesanais</i> - <b>Lucas Meireles</b> e <b>Bruna Antunes</b></p><p><i>2. LogiFácil: Microdistribuição Urbana Compartilhada</i> - <b>Tiago Prado Ramos</b></p><p><i>3. EduTech JF: Gamificação para Ensino Técnico</i> - <b>Juliana Pires Rocha</b></p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-05-15T15:45:00-03:00",
+    "dataFim": "2024-05-15T17:15:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de Negociação e Fechamento Comercial para Empresas B2B</i>.</p><p>Instrutor: <b>Felipe Castanheira de Oliveira</b>.</p>",
+    "secao": "Workshops de Gestão"
+   },
+   {
+    "nome": "Circuito de Negócios e Rodada Sebrae",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2024-05-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro multissetorial para geração imediata de parcerias e fornecimento local.</p><p>Organização: <b>Patrícia Nogueira Santos</b> e <b>Marcelo Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Happy Hour Empresarial",
+    "lugar": "Foyer das Estrelas",
+    "dataInicio": "2024-05-15T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Sala de Capacitação 2",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Marketing de Conteúdo e Conversão em Vendas pelas Redes Sociais</i>.</p><p>Palestrante: <b>Aline Soares Dorneles</b>.</p>",
+    "secao": "Workshops de Gestão"
+   },
+   {
+    "nome": "Sessão de Cases de Sucesso",
+    "lugar": "Auditório Mata Atlântica",
+    "dataInicio": "2024-05-16T09:30:00-03:00",
+    "dataFim": "2024-05-16T11:00:00-03:00",
+    "descricao": "<p>Relatos de superação e escalabilidade na região.</p><p>Coordenadora: <b>Danielle Amorim Vilela</b>.</p><p>Casos expostos:</p><p><i>Da Garagem ao Franquia Nacional: O Caso da Cafeteria Mantiqueira</i> - <b>Eduardo Farias</b></p><p><i>Digitalização de Serviços Tradicionais em Cidades Médias</i> - <b>Cláudia Guedes Moreira</b></p>",
+    "secao": "Painéis de Negócios"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-05-16T11:15:00-03:00",
+    "dataFim": "2024-05-16T12:45:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias ágeis de gestão e princípios de liderança transformadora voltados para pequenas e médias empresas do interior de Minas Gerais</i>.</p><p>Palestrante: <b>Gustavo Henrique Silveira</b>.</p>",
+    "secao": "Painéis de Negócios"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-05-16T12:45:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 4",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Precificação Estratégica para Produtos e Serviços Artesanais</i>.</p><p>Facilitador: <b>Marcos Aurélio Pinho</b>.</p>",
+    "secao": "Workshops de Gestão"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Mata Atlântica",
+    "dataInicio": "2024-05-16T14:30:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>O Futuro do Trabalho e as Novas Competências Empreendedoras na Era da Automação</i>.</p><p>Moderação: <b>Beatriz Brandão Lima</b>.</p><p>Participantes: <b>André Luiz Tavares</b>, <b>Letícia Fontanella</b> e <b>Prof. Márcio Caldas</b> (UFJF).</p>",
+    "secao": "Painéis de Negócios"
+   },
+   {
+    "nome": "Mentoria Express",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessões de 15 minutos com consultores especializados do Sebrae para diagnóstico rápido.</p><p>Coordenação geral: <b>Walmir Tadeu Costa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação Empreendedor do Futuro",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-05-16T17:00:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Cerimônia de entrega dos troféus aos empreendimentos mais destacados do ano em Juiz de Fora.</p><p>Apresentação: <b>Fabiana Correia Magalhães</b> e <b>Carlos Alberto Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Coquetel Cultural",
+    "lugar": "Foyer das Estrelas",
+    "dataInicio": "2024-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização final com apresentação do grupo instrumental local <b>Choro da Mata</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-42-00160",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Curitiba - PR",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:49+00:00",
+ "uso_tokens": {
+  "entrada": 655,
+  "saida": 1273
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Congresso Paranaense de Direito Processual e Novas Tecnologias",
+   "local_geral": "Centro de Convenções FIEP, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento do presidente da comissão, Dr. <b>Henrique Vianna de Azevedo</b>, e conferência inicial sobre <i>Os Desafios do Judiciário Digital no Brasil</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 1",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2023-08-17T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Provas Digitais e Cadeia de Custódia no Processo Civil.</p><p>Expositores: Profa. Dra. <b>Clarice Mendes Fontoura</b> abordando <i>Validade Jurídica de Registros em Blockchain</i> e Des. <b>Rodrigo Otávio Alencar</b> tratando de <i>A Ata Notarial e a Busca e Apreensão de Dispositivos</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Mesa de Debates 2",
+    "lugar": "Plenarinho dos Magistrados",
+    "dataInicio": "2023-08-17T14:30:00-03:00",
+    "dataFim": "2023-08-17T16:30:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial e Tomada de Decisão Judicial.</p><p>Debatedores: Dr. <b>Marcelo Penteado Lima</b> com o tema <i>Algoritmos Preditivos e a Imparcialidade do Julgador</i> e a Profa. <b>Lívia Castilho Ramos</b> apresentando <i>Transparência e Explicabilidade nas Decisões Automatizadas</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Coquetel de Boas-Vindas",
+    "lugar": "Espaço Cultural FIEP",
+    "dataInicio": "2023-08-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 3",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2023-08-18T09:30:00-03:00",
+    "dataFim": "2023-08-18T11:45:00-03:00",
+    "descricao": "<p>Tema: Proteção de Dados e o Foro Especializado na LGPD.</p><p>Composição: Dra. <b>Camila Duarte Zanin</b> com a palestra <i>A Responsabilidade Civil dos Controladores</i> e Dr. <b>Guilherme Silveira Nogueira</b> expondo <i>Incidentes de Segurança e Litigância de Massa</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Mesa de Debates 4",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Mediação Online e Resolução de Disputas em Plataformas Digitais (ODR).</p><p>Apresentações da mediadora <b>Renata Albuquerque Toledo</b> sobre <i>Arquitetura das Plataformas de Negociação Virtual</i> e do juiz federal <b>Eduardo Brandão Couto</b> discutindo <i>Eficácia do Título Executivo nos Acordos Eletrônicos</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Caio Amaral",
+    "dataInicio": "2023-08-18T17:00:00-03:00",
+    "dataFim": "2023-08-18T18:30:00-03:00",
+    "descricao": "<p>Apresentação final a cargo do Ministro <b>Tarcísio Meirelles Sampaio</b> com o tema <i>O Futuro do Acesso à Justiça em uma Sociedade Hiperconectada</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

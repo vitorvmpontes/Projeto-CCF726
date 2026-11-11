@@ -1,0 +1,124 @@
+{
+ "spec": {
+  "id": "sint-42-00293",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Manaus - AM",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "subtitulo_separado",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:25+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 2059
+ },
+ "saida": {
+  "evento": {
+   "nome": "VIII Simpósio de Pós-Graduação em Biodiversidade e Recursos Naturais da Amazônia",
+   "local_geral": "Campus Universitário Senador Arthur Virgílio Filho, Universidade Federal do Amazonas (UFAM), Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Pós-Graduandos e Entrega de Crachás",
+    "lugar": "Hall do Auditório Rio Solimões",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem ecológica e impactos das mudanças climáticas na bacia amazônica</i>.</p><p>Palestrante: <b>Dra. Simone Albuquerque de Carvalho</b> (INPA). Moderação: <b>Dr. Raimundo Nonato Braga</b> (UFAM).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala de Seminários 101",
+    "dataInicio": "2025-05-15T11:00:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Genética da Conservação e Sistemática Molecular</i>.</p><p>Apresentação dos trabalhos de mestrado e doutorado selecionados. Coordenação de <b>Dr. Marcelo de Queiroz Sampaio</b>.</p>",
+    "secao": "Sessões Técnicas de Apresentação"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala de Seminários 102",
+    "dataInicio": "2025-05-15T11:00:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Manejo Florestal e Serviços Ecossistêmicos</i>.</p><p>Comunicações orais de discentes da pós-graduação. Coordenação de <b>Dra. Kelly Cristina Fontes</b>.</p>",
+    "secao": "Sessões Técnicas de Apresentação"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Pesquisa Integrada",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios e perspectivas na captação de recursos internacionais para pesquisas de pós-graduandos</i>.</p><p>Debatedores: <b>Dr. Arthur Vilarins Peixoto</b> (FAPEAM) e <b>Dra. Laura Meirelles Guimarães</b> (Cenaqua). Mediação de <b>Dra. Patrícia dos Anjos Vieira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Espaço de Convivência da Biblioteca Central",
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": "2025-05-15T18:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos painéis temáticos das turmas de mestrado e doutorado acadêmico. Avaliação conduzida pelo comitê acadêmico coordenado por <b>Dr. Fabiano Esteves Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Avançado A",
+    "lugar": "Laboratório de Informática Aplicada 1",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Análise espacial de dados de biodiversidade em ambiente R</i>.</p><p>Instrutor: <b>Dr. Tiago Mendonça Frota</b> (UFPA).</p>",
+    "secao": "Workshops de Metodologias Avançadas"
+   },
+   {
+    "nome": "Workshop Avançado B",
+    "lugar": "Laboratório Multiuso de Biologia",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de extração e caracterização de compostos bioativos da flora amazônica</i>.</p><p>Instrutora: <b>Dra. Elisângela Matos Tavares</b> (UEA).</p>",
+    "secao": "Workshops de Metodologias Avançadas"
+   },
+   {
+    "nome": "Painel de Egressos",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inserção profissional de doutores no setor produtivo e em órgãos públicos de gestão ambiental</i>.</p><p>Participantes convidados: <b>M.Sc. Igor Cordeiro Lins</b> (Secretaria do Meio Ambiente/AM), <b>Dra. Valéria Soares Diniz</b> (Instituto Mamirauá) e <b>Dr. Bernardo Castelo Branco</b> (Natura Inovação).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Especial de Premiação e Encerramento",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T17:30:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do <i>Prêmio Jovem Pesquisador da Amazônia</i> para as melhores teses e dissertações do biênio. Condução por <b>Dr. Raimundo Nonato Braga</b> e <b>Dra. Patrícia dos Anjos Vieira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Cultural de Encerramento",
+    "lugar": "Bosque da Ciência",
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,245 @@
+{
+ "spec": {
+  "id": "sint-42-00407",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Fortaleza - CE",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 27,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:18+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 4450
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXII Semana Acadêmica de Engenharia de Alimentos da UFC",
+   "local_geral": "Centro de Tecnologia, Campus do Pici, Universidade Federal do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall de Entrada do Bloco 715",
+    "dataInicio": "2026-05-20T08:00:00-03:00",
+    "dataFim": "2026-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do coordenador do curso <b>Prof. Dr. Marcos Vinícius Holanda</b> e da diretora do Centro de Tecnologia <b>Profa. Dra. Clara Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-20T09:40:00-03:00",
+    "dataFim": "2026-05-20T10:45:00-03:00",
+    "descricao": "<p>Palestra com a pesquisadora <b>Dra. Simone Meireles Castro</b> abordando o tema <i>Inovações na biotecnologia alimentar e os desafios regulatórios da transição proteica sustentável na América Latina</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer do Bloco 715",
+    "dataInicio": "2026-05-20T10:45:00-03:00",
+    "dataFim": "2026-05-20T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-20T11:15:00-03:00",
+    "dataFim": "2026-05-20T12:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Aproveitamento Integral de Subprodutos Agroindustriais no Semiárido Cearense</i>. Mediação feita por <b>Prof. Carlos Eduardo Linhares</b> com os convidados <b>Dra. Juliana Parente</b> e <b>Eng. Marcelo Aragão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:30:00-03:00",
+    "dataFim": "2026-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Análise Sensorial",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas Descritivas Rápidas em Análise Sensorial de Alimentos</i>. Ministrante: <b>Dra. Patrícia Figueiredo Lima</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Processamento de Carnes",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento de Produtos Cárneos Embutidos Fermentados com Culturas Iniciadoras Autóctones</i>. Ministrante: <b>Prof. Rodrigo Bezerra Maia</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão de Pôsteres 1",
+    "lugar": "Pátio Coberto do Bloco 715",
+    "dataInicio": "2026-05-20T17:30:00-03:00",
+    "dataFim": "2026-05-20T18:45:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos acadêmicos sob coordenação de <b>Profa. Renata Vasconcelos</b>:</p><p><i>1. Estabilidade de polpa de acerola liofilizada enriquecida com probióticos</i>, por <b>Lucas Feitosa Martins</b> e <b>Bruna Sales Rocha</b>.</p><p><i>2. Caracterização reológica de géis de amido de milho aditivados com quitosana</i>, por <b>Thiago Mendonça Frota</b> e <b>Prof. Paulo Roberto Saraiva</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T09:45:00-03:00",
+    "descricao": "<p>Apresentação conduzida por <b>Dra. Helena Barreto Montenegro</b> sob o título <i>Estratégias Avançadas para Mitigação de Desperdício e Valorização Tecnológica de Resíduos na Cadeia de Frutos Tropicais</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Palestra 3",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-21T09:45:00-03:00",
+    "dataFim": "2026-05-21T10:45:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Segurança Alimentar e Normas Internacionais do Codex Alimentarius</i>, proferida pelo auditor fiscal <b>Dr. Fernando Castelo Branco</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer do Bloco 715",
+    "dataInicio": "2026-05-21T10:45:00-03:00",
+    "dataFim": "2026-05-21T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2026-05-21T11:15:00-03:00",
+    "dataFim": "2026-05-21T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Carreira e Empreendedorismo no Setor de Alimentos e Bebidas no Ceará</i>. Moderador: <b>Prof. Henrique Silveira</b>. Participantes: <b>Mariana Sampaio Fontes</b> e <b>Guilherme Queiroz Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T12:30:00-03:00",
+    "dataFim": "2026-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Usina Piloto de Laticínios",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Aplicação: <i>Elaboração de Queijo de Coalho Artesanal com Culturas Lácticas Selecionadas</i>. Ministrada pela engenheira de alimentos <b>Profa. Teresa Cristina Ramos</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Panificação",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Aplicação: <i>Panificação Funcional: Aplicação de Farinha da Casca do Maracujá em Pães sem Glúten</i>. Instrutora: <b>M.Sc. Beatriz Nogueira Uchôa</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Auditório B - Bloco 714",
+    "dataInicio": "2026-05-21T17:00:00-03:00",
+    "dataFim": "2026-05-21T18:30:00-03:00",
+    "descricao": "<p>Sessão temática coordenada pelo <b>Prof. Daniel Xavier Gadelha</b> com apresentação dos seguintes trabalhos:</p><p><i>1. Efeito do ultrassom na extração de compostos fenólicos de resíduos de caju</i>, apresentado por <b>Camila Duarte Pinheiro</b>.</p><p><i>2. Utilização de mucilagem de quiabo como hidrocoloide em sobremesas lácteas</i>, apresentado por <b>Rafael Silveira Fontenele</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mostra de Inovação Discente",
+    "lugar": "Espaço de Convivência do CT",
+    "dataInicio": "2026-05-21T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de protótipos de produtos alimentícios concebidos pelos alunos do 8º e 9º semestres, avaliados pela comissão chefiada por <b>Profa. Débora Macedo Cruz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:00:00-03:00",
+    "descricao": "<p>Painel: <i>Transição Energética e Sustentabilidade de Processos na Indústria de Alimentos</i>. Coordenação do <b>Prof. Lúcio Mauro Cabral</b>, com palestras de <b>Eng. Amanda Esteves</b> e <b>Prof. André Valente Leão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 4",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-22T10:00:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": "<p>Conferência da pesquisadora <b>Dra. Vânia Maria Azevedo</b> com o título <i>Aplicação de Inteligência Artificial e Visão Computacional para Classificação Automática e Controle de Qualidade de Grãos</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer do Bloco 715",
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": "2026-05-22T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-22T11:30:00-03:00",
+    "dataFim": "2026-05-22T12:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Tendências em Embalagens Biodegradáveis e Ativas para Alimentos</i>, coordenada pela <b>Profa. Ingrid Benevides Soares</b>, com a participação dos expositores <b>Dr. Marcelo Chaves Ribeiro</b> e <b>Dra. Natália Teles Pontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:45:00-03:00",
+    "dataFim": "2026-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática Aplicada",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Atividade formativa sobre <i>Simulação Numérica de Transferência de Calor em Processos Térmicos Industriais</i>, com o orientador <b>Prof. Fábio Gusmão Torres</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Auditório B - Bloco 714",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Sessão de trabalhos técnicos avaliada pela <b>Profa. Larissa Holanda Silva</b> contendo:</p><p><i>1. Secagem em camada de espuma da polpa de pitaya vermelha</i>, com autoria de <b>Gabriel Meireles Souza</b>.</p><p><i>2. Incorporação de óleo essencial de capim-santo em revestimentos de quitosana para conservação de morangos</i>, por <b>Letícia Aguiar Peixoto</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-22T16:30:00-03:00",
+    "dataFim": "2026-05-22T17:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos e encerramento com <b>Prof. Dr. Marcos Vinícius Holanda</b> e a presidente do centro acadêmico <b>Jéssica Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Encerramento",
+    "lugar": "Bosque do Centro de Tecnologia",
+    "dataInicio": "2026-05-22T17:30:00-03:00",
+    "dataFim": "2026-05-22T19:00:00-03:00",
+    "descricao": "<p>Show com o grupo regional <i>Flor de Mandacaru</i>, com participação dos cantores <b>Artur Lima</b> e <b>Mariana Fonteles</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

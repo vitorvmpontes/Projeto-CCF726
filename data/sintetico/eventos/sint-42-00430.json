@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00430",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Manaus - AM",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "titulos_longos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:37+00:00",
+ "uso_tokens": {
+  "entrada": 670,
+  "saida": 1403
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UFAM 2023",
+   "local_geral": "Campus Universitário Senador Arthur Virgílio Filho, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits Universitários",
+    "lugar": "Hall do Auditório Eulálio Chaves",
+    "dataInicio": "2023-03-13T08:00:00-03:00",
+    "dataFim": "2023-03-13T09:00:00-03:00",
+    "descricao": "<p>Recepção dos novos estudantes com validação de matrícula institucional e entrega do kit de boas-vindas com manual do calouro e squeezer ecológico.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura Institucional",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2023-03-13T09:00:00-03:00",
+    "dataFim": "2023-03-13T10:15:00-03:00",
+    "descricao": "<p>Apresentação das autoridades universitárias com pronunciamento da Reitora <b>Sylvio Mário Puga Ferreira</b> e do representante discente <b>Thiago Ribeiro dos Santos</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2023-03-13T10:15:00-03:00",
+    "dataFim": "2023-03-13T11:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Os Desafios da Vida Universitária e a Construção da Identidade Acadêmica no Cenário da Sustentabilidade da Amazônia Ocidental Contemporânea</i>, ministrada pela Profa. Dra. <b>Clarisse Bentes Guimarães</b>.</p>",
+    "secao": "Manhã de Acolhimento"
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": "Tenda Externa de Convivência",
+    "dataInicio": "2023-03-13T11:45:00-03:00",
+    "dataFim": "2023-03-13T12:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço de Confraternização com os Veteranos",
+    "lugar": "Restaurante Universitário (RU)",
+    "dataInicio": "2023-03-13T12:15:00-03:00",
+    "dataFim": "2023-03-13T14:00:00-03:00",
+    "descricao": "<p>Momento de integração entre calouros e centros acadêmicos com cardápio especial da culinária amazonense.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Multidisciplinar do Bloco das Engenharias",
+    "dataInicio": "2023-03-13T14:00:00-03:00",
+    "dataFim": "2023-03-13T15:45:00-03:00",
+    "descricao": "<p>Atividade formativa intitulada <i>Navegando pelos Portais de Pesquisa e Utilizando as Ferramentas Tecnológicas Disponíveis no Sistema de Bibliotecas Integradas da Universidade Pública</i>, conduzida pelo bibliotecário <b>Marcus Vinícius Prado Albuquerque</b> e pela pesquisadora <b>Letícia Nogueira Frota</b>.</p>",
+    "secao": "Oficinas de Formação Básica"
+   },
+   {
+    "nome": "Mesa de Debate Estudantil",
+    "lugar": "Miniauditório do Instituto de Ciências Humanas e Letras",
+    "dataInicio": "2023-03-13T15:45:00-03:00",
+    "dataFim": "2023-03-13T17:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Saúde Mental Permanência Estudantil e Redes de Apoio Comunitário para Novos Ingressantes Longe de Casa</i> com os facilitadores <b>Rodrigo Paiva de Meneses</b> e <b>Bruna Marinho Castelo</b>.</p>",
+    "secao": "Oficinas de Formação Básica"
+   },
+   {
+    "nome": "Tour Guiado e Gincana Ecológica",
+    "lugar": "Bosque da Ciência e Área de Preservação do Campus",
+    "dataInicio": "2023-03-13T17:15:00-03:00",
+    "dataFim": "2023-03-13T18:30:00-03:00",
+    "descricao": "<p>Trilha guiada pelo fragmento florestal urbano com atividades dinâmicas e apresentação dos grupos de extensão sob orientação de <b>Marcelo Uchôa Cavalcanti</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

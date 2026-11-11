@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00095",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Santa Maria - RS",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:30+00:00",
+ "uso_tokens": {
+  "entrada": 639,
+  "saida": 860
+ },
+ "saida": {
+  "evento": {
+   "nome": "TechSM Summit & Hack 2027",
+   "local_geral": "Parque Tecnológico de Santa Maria, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Boas-Vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-04-16T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-16T09:30:00-03:00",
+    "dataFim": "2027-04-16T10:45:00-03:00",
+    "descricao": "<p>Apresentação de <b>Camila Duarte</b> sobre <i>Escalabilidade e Microsserviços em Ambientes Multicloud</i>, abordando cases reais de infraestrutura de alta disponibilidade.</p>",
+    "secao": "Ciclo de Palestras Corporativas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-16T11:00:00-03:00",
+    "dataFim": "2027-04-16T12:15:00-03:00",
+    "descricao": "<p>Com o especialista <b>Rodrigo Meneghetti</b> tratando de <i>Inteligência Artificial Aplicada ao Agronegócio de Precisão</i>.</p>",
+    "secao": "Ciclo de Palestras Corporativas"
+   },
+   {
+    "nome": "Briefing e Início da Maratona de Programação",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do desafio com o mentor <b>Lucas Farias</b>, detalhando os critérios de avaliação e início da codificação das equipes.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Pitches das Equipes Finalistas",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2027-04-17T14:30:00-03:00",
+    "dataFim": "2027-04-17T17:00:00-03:00",
+    "descricao": "<p>Apresentação das soluções desenvolvidas para a banca julgadora composta por <b>Fernanda Silveira</b>, <b>Mateus Rocha</b> e <b>Juliana Vargas</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos três projetos vencedores conduzido por <b>Gustavo Pires</b> e entrega dos troféus.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

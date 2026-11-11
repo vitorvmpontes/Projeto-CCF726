@@ -1,0 +1,196 @@
+{
+ "spec": {
+  "id": "sint-42-00063",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Santa Maria - RS",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "titulos_longos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:19+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 3101
+ },
+ "saida": {
+  "evento": {
+   "nome": "TechCorredor Summit & Hackathon 2026",
+   "local_geral": "Parque Tecnológico de Santa Maria (TecnoPampa), Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in de Participantes",
+    "lugar": "Hall Central",
+    "dataInicio": "2026-05-15T08:00:00-03:00",
+    "dataFim": "2026-05-15T09:00:00-03:00",
+    "descricao": "<p>Retirada de crachás, kits do participante e orientações gerais com a coordenadora de recepção <b>Mariana Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com os diretores <b>Carlos Eduardo Pippi</b> e <b>Clarissa Medeiros</b> apresentando o panorama de inovação do centro do estado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Fernando Rossi</b> com o tema <i>Como a Inteligência Artificial Generativa e a Automação Conectada Estão Redefinindo o Mercado Corporativo Global nos Últimos Anos</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": null,
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2026-05-15T11:00:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Palestra de <b>Juliana Bastos</b> sobre <i>Arquiteturas Resilientes para Computação em Nuvem</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Briefing e Lançamento dos Desafios do Hackathon",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-15T11:00:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação das regras e metas da maratona conduzida por <b>Lucas Fontana</b> e <b>Letícia Albuquerque</b>.</p>",
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Início da Prototipagem e Codificação",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação das bancadas e início oficial do desenvolvimento de software e hardware pelas equipes inscritas.</p>",
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T15:30:00-03:00",
+    "descricao": "<p>Prática ministrada por <b>Roberto Guimarães</b> intitulada <i>Estratégias Avançadas para Construção e Implantação de Microsserviços Escaláveis Utilizando Kubernetes e Ferramentas Modernas de Observabilidade Contínua</i>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": null,
+    "dataInicio": "2026-05-15T15:30:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": "<p>Apresentação do engenheiro <b>Thiago Sampaio</b> abordando <i>Modelagem Preditiva com Rust para o Agronegócio</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2026-05-15T16:00:00-03:00",
+    "dataFim": "2026-05-15T17:30:00-03:00",
+    "descricao": "<p>Atividade prática com foco em front-end com a instrutora <b>Renata Silveira</b> sobre <i>Design Systems Modernos no Figma</i>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Primeira Rodada de Mentoria Técnica",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-15T17:00:00-03:00",
+    "dataFim": "2026-05-15T19:00:00-03:00",
+    "descricao": "<p>Atendimento aos grupos com os mentores <b>Felipe Fagundes</b>, <b>Camila Zanella</b> e <b>Diego Morales</b> para validação da arquitetura de soluções.</p>",
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": null,
+    "dataInicio": "2026-05-15T18:00:00-03:00",
+    "dataFim": "2026-05-15T19:30:00-03:00",
+    "descricao": "<p>Discussão mediada por <b>Aline Pozzobon</b> com a presença dos convidados <b>Marcos Vinicius Viero</b> e <b>Beatriz Brandão</b> sobre <i>Cibersegurança e Proteção de Dados Críticos no Setor Financeiro</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Pausa para Jantar dos Hackers",
+    "lugar": null,
+    "dataInicio": "2026-05-15T20:00:00-03:00",
+    "dataFim": "2026-05-15T21:30:00-03:00",
+    "descricao": null,
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Sessão Madrugada de Validação de Pitch",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-16T02:00:00-03:00",
+    "dataFim": "2026-05-16T04:00:00-03:00",
+    "descricao": "<p>Simulações rápidas de pitch com os consultores <b>Rodrigo Mello</b> e <b>Vanessa Rios</b>.</p>",
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Café da Manhã dos Hackers",
+    "lugar": null,
+    "dataInicio": "2026-05-16T07:30:00-03:00",
+    "dataFim": "2026-05-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Palestra de Inovação",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2026-05-16T09:30:00-03:00",
+    "dataFim": "2026-05-16T10:45:00-03:00",
+    "descricao": "<p>Palestra de <b>Guilherme Trevisan</b> sobre <i>Desafios e Métodos para Captação de Recursos e Fomento à Inovação Tecnológica em Startups Regionais Emergentes no Sul</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Encerramento do Código e Congelamento dos Repositórios",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-16T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Prazo fatal para submissão final dos códigos-fonte e links de demonstração no repositório oficial da competição.</p>",
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Almoço dos Jurados e Participantes",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Final dos Projetos",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T16:30:00-03:00",
+    "descricao": "<p>Apresentação das 8 equipes finalistas para a banca julgadora presidida por <b>Helena Schmidt</b> e composta por <b>Paulo Ricardo Antunes</b> e <b>Cíntia Flores</b>.</p>",
+    "secao": "Hackathon 30 Horas"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Imembuí",
+    "dataInicio": "2026-05-16T17:00:00-03:00",
+    "dataFim": "2026-05-16T18:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do hackathon e entrega de troféus com os coordenadores <b>Carlos Eduardo Pippi</b> e <b>Letícia Albuquerque</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

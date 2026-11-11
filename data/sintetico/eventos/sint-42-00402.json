@@ -1,0 +1,261 @@
+{
+ "spec": {
+  "id": "sint-42-00402",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Florestal - MG",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 29,
+  "casos": [
+   "subtitulo_separado",
+   "sem_local",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:57+00:00",
+ "uso_tokens": {
+  "entrada": 666,
+  "saida": 4466
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Mostra de Extensão Universitária do Campus Florestal",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Prédio Principal",
+    "dataInicio": "2024-10-16T08:00:00-03:00",
+    "dataFim": "2024-10-16T09:00:00-03:00",
+    "descricao": "<p>Acolhimento dos participantes e entrega de materiais do evento pela comissão organizadora coordenada por <b>Mariana Castro Alvim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2024-10-16T09:00:00-03:00",
+    "dataFim": "2024-10-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor-geral <b>Prof. Antônio Carlos de Oliveira</b> e representantes comunitários da região metropolitana e do Colégio Técnico de Florestal.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2024-10-16T10:00:00-03:00",
+    "dataFim": "2024-10-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>A indissociabilidade entre Ensino, Pesquisa e Extensão na Educação Básica e Técnica</i>, ministrada pela <b>Dra. Elisângela Martins Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-16T11:30:00-03:00",
+    "dataFim": "2024-10-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Auditório da Biologia",
+    "dataInicio": "2024-10-16T13:30:00-03:00",
+    "dataFim": "2024-10-16T15:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Agricultura Familiar e Circuitos Curtos de Comercialização no Médio Paraopeba</i>. Mediador: <b>Renato Souza Figueiredo</b>. Debatedores convidados: <b>Dona Nair Batista</b> e <b>Valter de Assis Cunha</b>.</p>",
+    "secao": "Rodas Temáticas de Extensão"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Auditório da Tecnologia",
+    "dataInicio": "2024-10-16T13:30:00-03:00",
+    "dataFim": "2024-10-16T15:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Educação Ambiental Crítica nas Escolas Públicas do Entorno</i>. Mediação de <b>Profa. Camila Guimarães Nogueira</b>, com a participação de <b>Lucas Moreira Paiva</b>.</p>",
+    "secao": "Rodas Temáticas de Extensão"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Praça Central do Campus",
+    "dataInicio": "2024-10-16T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espetáculo musical <i>Vozes da Mata: Modas e Cantigas</i> com o grupo de extensão da Casa da Cultura, regido pelo maestro <b>Jonas Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo I",
+    "lugar": "Tenda Expositiva",
+    "dataInicio": "2024-10-16T15:30:00-03:00",
+    "dataFim": "2024-10-16T17:30:00-03:00",
+    "descricao": "<p>Exposição de ações extensionistas na área de Meio Ambiente e Saúde Comunitária. Avaliação conduzida pelo docente <b>Felipe Gabriel Resende</b> e bolsistas monitores.</p>",
+    "secao": "Mostra Interativa de Projetos"
+   },
+   {
+    "nome": "Lançamento de Cartilhas Comunitárias",
+    "lugar": null,
+    "dataInicio": "2024-10-16T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das publicações <i>Manual de Manejo Agroecológico para Produtores de Hortaliças</i> e <i>Plantas Medicinais da Nossa Horta</i>, elaboradas por <b>Juliana Pires Morais</b> e <b>Sebastião Vilela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Botânica",
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Produção Artesanal de Sabões Naturais a partir de Óleo Residual</i>. Ministrante: <b>Carla Beatriz Silveira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inclusão Digital para a Terceira Idade: Primeiros Passos no Smartphone e Redes Sociais</i>. Ministrantes: <b>Igor Santana Barreto</b> e <b>Letícia Duarte Santos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Horta Didática",
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Compostagem Doméstica e Implantação de Minhocários Escolares</i>. Condução do engenheiro agrônomo <b>Breno Maciel Cardoso</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-17T11:30:00-03:00",
+    "dataFim": "2024-10-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira da Economia Solidária",
+    "lugar": "Praça Central do Campus",
+    "dataInicio": "2024-10-17T13:30:00-03:00",
+    "dataFim": "2024-10-17T17:30:00-03:00",
+    "descricao": "<p>Exposição e venda de produtos artesanais e alimentos agroecológicos das cooperativas parceiras dos programas de extensão, com acolhimento por <b>Teresa Maria Braga</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicação Oral 1",
+    "lugar": "Sala 101 - Bloco B",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": "<p>Subtítulo da sessão: <i>Tecnologias Sociais e Sustentabilidade no Campo</i>. Apresentações mediadas por <b>Prof. Wesley de Freitas Costa</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicação Oral 2",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": "<p>Subtítulo da sessão: <i>Direitos Humanos, Memória e Patrimônio Cultural</i>. Coordenação de mesa por <b>Fernanda Lacerda de Melo</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicação Oral 3",
+    "lugar": "Sala 103 - Bloco B",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": "<p>Subtítulo da sessão: <i>Extensão na Escola Pública: Práticas Pedagógicas Inovadoras</i>. Avaliação conduzida por <b>Rodrigo Cordeiro Prado</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Tenda Expositiva",
+    "dataInicio": "2024-10-17T15:30:00-03:00",
+    "dataFim": "2024-10-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo II",
+    "lugar": "Tenda Expositiva",
+    "dataInicio": "2024-10-17T16:00:00-03:00",
+    "dataFim": "2024-10-17T18:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos nas áreas de Cultura, Trabalho e Direitos Humanos. Comitê de avaliação representado por <b>Flávia Muniz Viana</b> e <b>Otávio Augusto Neves</b>.</p>",
+    "secao": "Mostra Interativa de Projetos"
+   },
+   {
+    "nome": "Cine-Debate Extensionista",
+    "lugar": null,
+    "dataInicio": "2024-10-17T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exibição do documentário comunitário <i>Águas de Florestal: Memórias e Resistência</i>, seguida de debate com a diretora <b>Tatiane Meireles Prado</b> e o lider comunitário <b>Geraldo Mendes Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica Guiada",
+    "lugar": "Setor de Suinocultura e Zootecnia",
+    "dataInicio": "2024-10-18T08:00:00-03:00",
+    "dataFim": "2024-10-18T10:00:00-03:00",
+    "descricao": "<p>Atividade externa: <i>Conhecendo as Tecnologias Zootécnicas Apropriadas para Pequenas Propriedades</i>. Roteiro conduzido pelo médico veterinário <b>Guilherme Henrique Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2024-10-18T10:00:00-03:00",
+    "dataFim": "2024-10-18T11:45:00-03:00",
+    "descricao": "<p>Tema central: <i>Curricularização da Extensão: Desafios e Experiências nos Cursos Superiores e Técnicos</i>. Participantes: <b>Márcia Helena Fontes</b>, <b>Paulo Roberto Gontijo</b> e mediação de <b>Cláudia Regina Amaral</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-18T11:45:00-03:00",
+    "dataFim": "2024-10-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicação Oral 4",
+    "lugar": "Sala 101 - Bloco B",
+    "dataInicio": "2024-10-18T13:30:00-03:00",
+    "dataFim": "2024-10-18T15:00:00-03:00",
+    "descricao": "<p>Subtítulo da sessão: <i>Geração de Renda e Empreendedorismo Social</i>. Apresentação dos projetos extensionistas sob coordenação de <b>Débora Cristiane Borges</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicação Oral 5",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2024-10-18T13:30:00-03:00",
+    "dataFim": "2024-10-18T15:00:00-03:00",
+    "descricao": "<p>Subtítulo da sessão: <i>Comunicação Pública e Divulgação Científica Regional</i>. Mediação feita por <b>Marcos Vinícius Taveira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Reunião de Articulação do Fórum Regional de Extensão",
+    "lugar": null,
+    "dataInicio": "2024-10-18T15:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Encontro de coordenadores de projetos e representantes da sociedade civil organizada articulado por <b>Miriam Vasconcelos</b> e <b>Evaldo Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Fanfarra e Dança Folclórica",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2024-10-18T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Mostra artística <i>Fitas e Tambores da Mata</i> pelo grupo cultural de jovens extensionistas sob direção da coreógrafa <b>Aline Ferreira Bueno</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Premiação dos Melhores Trabalhos",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T17:30:00-03:00",
+    "descricao": "<p>Divulgação dos projetos vencedores do <i>Prêmio Destaque Extensionista 2024</i> anunciado pela comissão avaliadora presidida por <b>Prof. Vanderlei Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Oficial",
+    "lugar": null,
+    "dataInicio": "2024-10-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da pró-reitoria com <b>Prof. Ricardo Siqueira Martins</b> e agradecimentos aos voluntários e comunidades parceiras.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

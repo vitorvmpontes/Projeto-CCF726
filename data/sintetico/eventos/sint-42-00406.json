@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00406",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Recife - PE",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "titulos_longos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:53+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 1351
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Mostra de Extensão e Cultura da UFPE",
+   "local_geral": "Centro de Artes e Comunicação (CAC) - Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Hall do Bloco A",
+    "dataInicio": "2026-10-21T08:00:00-03:00",
+    "dataFim": "2026-10-21T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2026-10-21T08:45:00-03:00",
+    "dataFim": "2026-10-21T09:30:00-03:00",
+    "descricao": "<p>Abertura institucional da mostra com fala da pró-reitora <b>Maria do Carmo Albuquerque</b> e do coordenador de extensão <b>Thiago Henrique Valença</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2026-10-21T09:30:00-03:00",
+    "dataFim": "2026-10-21T10:45:00-03:00",
+    "descricao": "<p>Palestra com o tema <i>A práxis extensionista na construção de pontes sólidas entre o saber acadêmico contemporâneo e as comunidades periféricas do Nordeste</i>, ministrada pelo professor <b>Renato Cordeiro de Lima</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala de Criação 03",
+    "dataInicio": "2026-10-21T11:00:00-03:00",
+    "dataFim": "2026-10-21T12:30:00-03:00",
+    "descricao": "<p>Atividade prática com o título <i>Estratégias inovadoras e ferramentas digitais para catalogação participativa do patrimônio imaterial em comunidades ribeirinhas do Capibaribe</i>, facilitada por <b>Aline Guimarães Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2026-10-21T11:00:00-03:00",
+    "dataFim": "2026-10-21T12:30:00-03:00",
+    "descricao": "<p>Minicurso com o tema <i>Comunicação comunitária e podcasts</i>, ministrado pelo comunicólogo <b>Felipe Bezerra da Mata</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão de Painéis de Extensão",
+    "lugar": "Pátio Interno das Mangueiras",
+    "dataInicio": "2026-10-21T14:00:00-03:00",
+    "dataFim": "2026-10-21T16:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos banners dos projetos de extensão discentes vigentes. Avaliação conduzida pela comissão coordenada por <b>Juliana Dantas Cavalcanti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Denis Bernardes",
+    "dataInicio": "2026-10-21T16:15:00-03:00",
+    "dataFim": "2026-10-21T17:30:00-03:00",
+    "descricao": "<p>Apresentação especial com o tema <i>Metodologias ativas de intervenção territorial voltadas à emancipação socioambiental em áreas de manguezal e vulnerabilidade hídrica</i>, com apresentação de <b>Carlos Eduardo Souto Maior</b> e mediação de <b>Beatriz Mendonça Rios</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Intervenção Cultural e Premiação",
+    "lugar": "Palco Aberto do CAC",
+    "dataInicio": "2026-10-21T17:45:00-03:00",
+    "dataFim": "2026-10-21T19:00:00-03:00",
+    "descricao": "<p>Apresentação do grupo de Maracatu de Baque Virado sob direção do mestre <b>Joelson do Nascimento</b>, seguida da entrega dos prêmios de mérito extensionista anunciados por <b>Clarice Paes Barreto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

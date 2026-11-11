@@ -1,0 +1,83 @@
+{
+ "spec": {
+  "id": "sint-42-00444",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Florestal - MG",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:32+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 1118
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira de Negócios e Empreendedorismo Sebrae Florestal 2025",
+   "local_geral": "Centro de Convenções do Campus CEDAF - UFV, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas dos Expositores",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T09:15:00-03:00",
+    "descricao": "<p>Acolhimento aos microempreendedores e credenciamento com entrega de kits institucionais pelo coordenador regional <b>Marcos Vinícius de Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-15T09:30:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": "<p>Debate sob o tema <i>Inovação e Agronegócio Sustentável no Centro-Oeste Mineiro</i>, com a mediação de <b>Camila Duarte Nogueira</b> e palestras de <b>Otávio Ribeiro Gontijo</b> e <b>Luciana Vasconcelos</b>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2025-05-15T11:15:00-03:00",
+    "dataFim": "2025-05-15T12:45:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Precificação Inteligente e Gestão de Fluxo de Caixa para Pequenos Negócios</i>, conduzida pelo consultor financeiro <b>Renato Cordeiro Maia</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Área de Food Trucks",
+    "dataInicio": "2025-05-15T12:45:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atividade imersiva intitulada <i>Marketing Digital e Vendas por Redes Sociais no Comércio Local</i>, com a especialista <b>Patrícia Belisário Fernandes</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Espaço Conexões Sebrae",
+    "dataInicio": "2025-05-15T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão dinâmica de pitch e networking guiada por <b>Felipe de Paula Siqueira</b> para conectar produtores florestenses a redes distribuidoras e investidores regionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-15T17:30:00-03:00",
+    "dataFim": "2025-05-15T19:00:00-03:00",
+    "descricao": "<p>Apresentação especial <i>Transformação Digital e o Futuro das Microempresas Mineiras</i>, ministrada pela economista e mentora <b>Silvana Rezende Costa</b>.</p>",
+    "secao": "Painéis e Debates"
+   }
+  ]
+ }
+}

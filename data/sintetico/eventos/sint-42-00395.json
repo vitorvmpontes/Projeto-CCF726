@@ -1,0 +1,198 @@
+{
+ "spec": {
+  "id": "sint-42-00395",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Santa Maria - RS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "titulos_longos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:18+00:00",
+ "uso_tokens": {
+  "entrada": 709,
+  "saida": 3023
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Seminário Gaúcho de Sustentabilidade e Gestão Ambiental no Pampa",
+   "local_geral": "Centro de Convenções da Universidade Federal de Santa Maria (UFSM), Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-22T08:00:00-03:00",
+    "dataFim": "2025-05-22T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-22T09:00:00-03:00",
+    "dataFim": "2025-05-22T09:40:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do reitor <b>Dr. Luciano Dorneles Vargas</b> e representantes de comitês de bacias hidrográficas locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-22T09:40:00-03:00",
+    "dataFim": "2025-05-22T10:40:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>O Papel da Agroecologia e dos Serviços Ecossistêmicos na Preservação dos Campos Sulinos Frente às Mudanças Climáticas Globais</i>, ministrada pela <b>Dra. Clara Silveira Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café com Produtos Locais",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-22T10:40:00-03:00",
+    "dataFim": "2025-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-22T11:00:00-03:00",
+    "dataFim": "2025-05-22T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre recursos hídricos com a participação do engenheiro <b>Marcos Vinícius Fagundes</b> e mediação da bióloga <b>Renata Pippi Becker</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-22T12:30:00-03:00",
+    "dataFim": "2025-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Botânica Aplicada",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T16:00:00-03:00",
+    "descricao": "<p>Atividade temática com o minicurso <i>Estratégias Integradas de Monitoramento Ambiental e Mapeamento Participativo para Conservação Comunitária de Nascentes e Áreas de Preservação Permanente</i>, conduzida pelo geógrafo <b>Igor Meneghetti Silveira</b>.</p>",
+    "secao": "Oficinas e Capacitações Técnicas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Multiuso 102",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T16:00:00-03:00",
+    "descricao": "<p>Atividade formativa sobre <i>Compostagem Termofílica em Escala Comunitária</i>, ministrada pela agrônoma <b>Helena Fontoura Duarte</b>.</p>",
+    "secao": "Oficinas e Capacitações Técnicas"
+   },
+   {
+    "nome": "Pausa para Café com Produtos Locais",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-22T16:00:00-03:00",
+    "dataFim": "2025-05-22T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Corredor das Galerias",
+    "dataInicio": "2025-05-22T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição e avaliação dos trabalhos científicos de graduação e pós-graduação, sob coordenação do <b>Prof. André Castilhos</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mostra de Documentários Ambientais",
+    "lugar": "Cineclube Universitário",
+    "dataInicio": "2025-05-22T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exibição de curtas-metragens da região central do estado organizada pela produtora <b>Lurdes Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-05-23T08:30:00-03:00",
+    "dataFim": "2025-05-23T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Transição Energética e Desafios da Descarbonização no Setor Agroindustrial</i> com a debatedora <b>Carla Antunes de Quadros</b> e o pesquisador <b>Thiago Ribeiro Souza</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório C",
+    "dataInicio": "2025-05-23T08:30:00-03:00",
+    "dataFim": "2025-05-23T10:00:00-03:00",
+    "descricao": "<p>Sessão abordando <i>Políticas Públicas Municipais de Saneamento Básico e Resíduos Sólidos Urbanos</i> com os especialistas <b>Valdir Camargo</b> e <b>Sabrina Leite Nogueira</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café com Produtos Locais",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-23T10:00:00-03:00",
+    "dataFim": "2025-05-23T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-23T10:20:00-03:00",
+    "dataFim": "2025-05-23T12:00:00-03:00",
+    "descricao": "<p>Conferência especial com a apresentação intitulada <i>Diagnóstico Socioambiental das Matas Ciliares e Planejamento Regional para Mitigação dos Impactos de Eventos Hidrológicos Extremos</i>, ministrada pelo <b>Prof. Dr. Samuel Prado Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-23T12:00:00-03:00",
+    "dataFim": "2025-05-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala 204",
+    "dataInicio": "2025-05-23T13:30:00-03:00",
+    "dataFim": "2025-05-23T15:30:00-03:00",
+    "descricao": "<p>Apresentação oral dos artigos selecionados sob a avaliação dos docentes <b>Dra. Fabiana Morales</b> e <b>Dr. Cristiano Paz</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala 205",
+    "dataInicio": "2025-05-23T13:30:00-03:00",
+    "dataFim": "2025-05-23T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos relatos de experiência comunitária sob moderação da pesquisadora <b>Juliana Portela Costa</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Pausa para Café com Produtos Locais",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-23T15:30:00-03:00",
+    "dataFim": "2025-05-23T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Delegados Socioambientais",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-23T16:00:00-03:00",
+    "dataFim": "2025-05-23T17:30:00-03:00",
+    "descricao": "<p>Construção coletiva da carta de compromisso ambiental, liderada pela coordenadora <b>Mariana Alencar Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-23T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos científicos pela comissão julgadora representada por <b>Dr. Luciano Dorneles Vargas</b> e <b>Dra. Clara Silveira Ramos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

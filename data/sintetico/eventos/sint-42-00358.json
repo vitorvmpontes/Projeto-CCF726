@@ -1,0 +1,308 @@
+{
+ "spec": {
+  "id": "sint-42-00358",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "João Pessoa - PB",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 35,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:43+00:00",
+ "uso_tokens": {
+  "entrada": 653,
+  "saida": 4938
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival de Artes e Culturas do Sol - FACSol 2024",
+   "local_geral": "Espaço Cultural José Lins do Rego, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall das Entradas",
+    "dataInicio": "2024-11-14T09:00:00-03:00",
+    "dataFim": "2024-11-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial dos Salões de Arte",
+    "lugar": "Galeria Archidy Picado",
+    "dataInicio": "2024-11-14T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura das mostras simultâneas com intervenção da curadora <b>Lígia Albuquerque</b> e do secretário de cultura <b>Marcos Cavalcanti</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Visita Guiada à Exposição Coletiva",
+    "lugar": "Galeria Archidy Picado",
+    "dataInicio": "2024-11-14T11:00:00-03:00",
+    "dataFim": "2024-11-14T12:30:00-03:00",
+    "descricao": "<p>Circuito pela exposição <i>Horizontes Paraibanos</i> com os artistas visuais <b>Severino Ramos</b> e <b>Camila Diniz</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação Cultural",
+    "dataInicio": "2024-11-14T12:30:00-03:00",
+    "dataFim": "2024-11-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Xilogravura Tradicional",
+    "lugar": "Ateliê 1",
+    "dataInicio": "2024-11-14T14:00:00-03:00",
+    "dataFim": "2024-11-14T17:00:00-03:00",
+    "descricao": "<p>Prática de entalhe em madeira e técnicas de impressão em papel com o mestre <b>Chico Ferreira</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Sala de Concertos Maestro José Siqueira",
+    "dataInicio": "2024-11-14T15:30:00-03:00",
+    "dataFim": "2024-11-14T17:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>A Salvaguarda do Patrimônio Imaterial Nordestino</i>, reunindo <b>Maria do Carmo Santos</b> e <b>Valter Gusmão</b>. Mediação de <b>Renata Pimentel</b>.</p>",
+    "secao": "Fórum de Reflexão"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Foyer Central",
+    "dataInicio": "2024-11-14T17:00:00-03:00",
+    "dataFim": "2024-11-14T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Rabeca Instrumental",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2024-11-14T18:00:00-03:00",
+    "dataFim": "2024-11-14T19:30:00-03:00",
+    "descricao": "<p>Espetáculo sonoro conduzido pelo rabequeiro <b>Luizinho da Paraíba</b> acompanhado pelo percussionista <b>Tito Silva</b>.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Show Musical de Abertura",
+    "lugar": "Praça do Povo",
+    "dataInicio": "2024-11-14T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação especial do show <i>Cantos da Terra</i> pela cantora <b>Nathalia Bellar</b> e grupo convidado.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Oficina de Percussão e Ritmos Nordestinos",
+    "lugar": "Sala 4 de Dança",
+    "dataInicio": "2024-11-15T09:30:00-03:00",
+    "dataFim": "2024-11-15T12:00:00-03:00",
+    "descricao": "<p>Exercícios rítmicos abordando baião, maracatu e coco com a ritmista <b>Juliana Linhares</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Mostra de Cinema Paraibano",
+    "lugar": "Cine Bangüê",
+    "dataInicio": "2024-11-15T10:30:00-03:00",
+    "dataFim": "2024-11-15T12:30:00-03:00",
+    "descricao": "<p>Exibição de curtas metragens com debate coordenado pela cineasta <b>Sofia Wanderley</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação Cultural",
+    "dataInicio": "2024-11-15T12:30:00-03:00",
+    "dataFim": "2024-11-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Cerâmica e Modelagem Popular",
+    "lugar": "Ateliê 2",
+    "dataInicio": "2024-11-15T14:00:00-03:00",
+    "dataFim": "2024-11-15T16:30:00-03:00",
+    "descricao": "<p>Experimentações com argila conduzidas pelo mestre artesão <b>Benedito de Tambaú</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Sala de Concertos Maestro José Siqueira",
+    "dataInicio": "2024-11-15T15:00:00-03:00",
+    "dataFim": "2024-11-15T16:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Mulheres nas Artes e a Literatura de Cordel</i> com <b>Socorro Lacerda</b> e <b>Francisca Vieira</b>.</p>",
+    "secao": "Fórum de Reflexão"
+   },
+   {
+    "nome": "Circuito de Artesanato e Feira Criativa",
+    "lugar": "Foyer Central",
+    "dataInicio": "2024-11-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura do pavilhão de comercialização com artesãos de várias regiões do estado.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Espetáculo de Dança Popular",
+    "lugar": "Teatro Paulo Pontes",
+    "dataInicio": "2024-11-15T17:30:00-03:00",
+    "dataFim": "2024-11-15T19:00:00-03:00",
+    "descricao": "<p>Coreografia <i>Raízes em Movimento</i> apresentada pela companhia liderada por <b>Aline Meireles</b> e direção cênica de <b>Danilo Queiroz</b>.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Roda de Capoeira e Samba de Roda",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2024-11-15T19:30:00-03:00",
+    "dataFim": "2024-11-15T21:00:00-03:00",
+    "descricao": "<p>Vivência e integração conduzida pelo <b>Mestre Cascão</b> com grupos convidados da orla de João Pessoa.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Concerto Noturno",
+    "lugar": "Praça do Povo",
+    "dataInicio": "2024-11-15T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show eletroacústico da banda <b>Os Gonzagas</b> interpretando clássicos do cancioneiro regional.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Café Coletivo de Boas-Vindas",
+    "lugar": "Tenda do Poeta",
+    "dataInicio": "2024-11-16T09:00:00-03:00",
+    "dataFim": "2024-11-16T09:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Matinal de Poesia e Cordel",
+    "lugar": "Tenda do Poeta",
+    "dataInicio": "2024-11-16T09:45:00-03:00",
+    "dataFim": "2024-11-16T11:15:00-03:00",
+    "descricao": "<p>Declamações da obra <i>Versos sob as Falésias</i> apresentadas pelos poetas repentistas <b>Edmilson Santanna</b> e <b>Geraldo Amâncio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fotografia Urbana e Memória",
+    "lugar": "Sala de Multimídia",
+    "dataInicio": "2024-11-16T10:00:00-03:00",
+    "dataFim": "2024-11-16T12:30:00-03:00",
+    "descricao": "<p>Técnicas de captura da paisagem urbana do centro histórico com o fotógrafo <b>Antônio Vianna</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação Cultural",
+    "dataInicio": "2024-11-16T12:30:00-03:00",
+    "dataFim": "2024-11-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Sala de Concertos Maestro José Siqueira",
+    "dataInicio": "2024-11-16T14:00:00-03:00",
+    "dataFim": "2024-11-16T15:30:00-03:00",
+    "descricao": "<p>Conferência <i>Economia Criativa e Cidades Costeiras</i> ministrada pela pesquisadora <b>Dra. Heloísa Buarque</b> com comentários de <b>Jonas Figueiredo</b>.</p>",
+    "secao": "Fórum de Reflexão"
+   },
+   {
+    "nome": "Oficina de Escrita Criativa",
+    "lugar": "Biblioteca Juarez da Gama Batista",
+    "dataInicio": "2024-11-16T15:30:00-03:00",
+    "dataFim": "2024-11-16T17:30:00-03:00",
+    "descricao": "<p>Exercícios de prosa de ficção coordenados pela escritora <b>Ana Paula Maia</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Intervenção de Grafite ao Vivo",
+    "lugar": "Muro das Cores",
+    "dataInicio": "2024-11-16T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Pintura de mural comunitário pelos artistas urbanos <b>Guga Bastos</b> e <b>Flora Morais</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Intervalo para Convivência",
+    "lugar": "Foyer Central",
+    "dataInicio": "2024-11-16T17:30:00-03:00",
+    "dataFim": "2024-11-16T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Espetáculo Circense Familiar",
+    "lugar": "Teatro Paulo Pontes",
+    "dataInicio": "2024-11-16T18:00:00-03:00",
+    "dataFim": "2024-11-16T19:30:00-03:00",
+    "descricao": "<p>Apresentação da trupe de circo com o espetáculo <i>Picadeiro de Areia</i> protagonizado por <b>Carlos Drummond Filho</b> e <b>Elisa Montenegro</b>.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Show de Forró e Mestres da Sanfona",
+    "lugar": "Praça do Povo",
+    "dataInicio": "2024-11-16T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Baile tradicional com apresentação do sanfoneiro <b>Beto Brito</b> e participação de <b>Luciano Oliveira</b>.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Painel de Debates 3",
+    "lugar": "Auditório 3",
+    "dataInicio": "2024-11-17T10:00:00-03:00",
+    "dataFim": "2024-11-17T11:30:00-03:00",
+    "descricao": "<p>Mesa com tema <i>Políticas Públicas para a Difusão da Cultura Negra</i> com a socióloga <b>Clarice Paiva</b> e mediação de <b>Otávio Monteiro</b>.</p>",
+    "secao": "Fórum de Reflexão"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação Cultural",
+    "dataInicio": "2024-11-17T12:00:00-03:00",
+    "dataFim": "2024-11-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Infantojuvenil de Papietagem",
+    "lugar": "Ateliê 1",
+    "dataInicio": "2024-11-17T13:30:00-03:00",
+    "dataFim": "2024-11-17T15:30:00-03:00",
+    "descricao": "<p>Construção de brinquedos populares de papel machê ministrada por <b>Mariana Guedes</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Cortejo de Maracatu e Danças Populares",
+    "lugar": "Área Externa",
+    "dataInicio": "2024-11-17T16:00:00-03:00",
+    "dataFim": "2024-11-17T17:30:00-03:00",
+    "descricao": "<p>Desfile tradicional do grupo <b>Maracatu Pé de Elefante</b> sob o comando da mestra <b>Joana D'Arc Ribeiro</b>.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Premiação e Homenagens do Festival",
+    "lugar": "Teatro Paulo Pontes",
+    "dataInicio": "2024-11-17T18:00:00-03:00",
+    "dataFim": "2024-11-17T19:30:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do troféu <i>Sol da Paraíba</i> aos mestres da cultura popular conduzida por <b>Beatriz Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Coletivo de Encerramento",
+    "lugar": "Praça do Povo",
+    "dataInicio": "2024-11-17T20:00:00-03:00",
+    "dataFim": "2024-11-17T22:30:00-03:00",
+    "descricao": "<p>Grande celebração musical reunindo <b>Chico César</b>, <b>Seu Pereira e Coletivo 401</b> em apresentação conjunta.</p>",
+    "secao": "Shows e Performances"
+   },
+   {
+    "nome": "Queima de Fogos e Encerramento Geral",
+    "lugar": "Esplanada Principal",
+    "dataInicio": "2024-11-17T22:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

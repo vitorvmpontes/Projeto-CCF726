@@ -1,0 +1,59 @@
+{
+ "spec": {
+  "id": "sint-42-00285",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Londrina - PR",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:53+00:00",
+ "uso_tokens": {
+  "entrada": 639,
+  "saida": 656
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Torneio Integração Universitária de Londrina",
+   "local_geral": "Centro Esportivo da Universidade Estadual de Londrina (CEFE/UEL), Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits das Atléticas",
+    "lugar": "Hall de Entrada do Ginásio Central",
+    "dataInicio": "2023-10-21T07:30:00-03:00",
+    "dataFim": "2023-10-21T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura e Desfile das Delegações",
+    "lugar": "Quadra Principal do Ginásio Central",
+    "dataInicio": "2023-10-21T08:30:00-03:00",
+    "dataFim": "2023-10-21T09:30:00-03:00",
+    "descricao": "<p>Abertura solene com execução do hino nacional, juramento do atleta conduzido por <b>Mariana Siqueira</b> e pronunciamento do coordenador geral <b>Prof. Carlos Eduardo Fontana</b>.</p>",
+    "secao": "Torneio Esportivo"
+   },
+   {
+    "nome": "Almoço dos Atletas e Torcidas",
+    "lugar": "Praça de Alimentação do CEFE",
+    "dataInicio": "2023-10-21T12:00:00-03:00",
+    "dataFim": "2023-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Finais do Futsal Masculino e Feminino",
+    "lugar": "Quadra Principal do Ginásio Central",
+    "dataInicio": "2023-10-21T15:30:00-03:00",
+    "dataFim": "2023-10-21T18:00:00-03:00",
+    "descricao": "<p>Disputa das medalhas de ouro e encerramento com a premiação dos campeões, arbitrada por <b>Lucas Medeiros</b> e coordenada por <b>Renata Vianna</b>.</p>",
+    "secao": "Torneio Esportivo"
+   }
+  ]
+ }
+}

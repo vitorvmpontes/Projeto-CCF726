@@ -1,0 +1,52 @@
+{
+ "spec": {
+  "id": "sint-42-00246",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Macapá - AP",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:37+00:00",
+ "uso_tokens": {
+  "entrada": 655,
+  "saida": 502
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Amapaense de Direito Ambiental e Sustentabilidade na Amazônia",
+   "local_geral": "Centro de Convenções de Macapá, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Tucujuris",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Proteção Jurídica dos Ecossistemas Fluviais e Mudanças Climáticas no Estuário Amazônico</i>.</p><p>Debatedores: <b>Dra. Mariana Vasconcelos</b> (UNIFAP) e <b>Dr. Carlos Henrique Maciel</b> (Ministério Público do Estado do Amapá). Mediação: <b>Profa. Renata Furtado</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

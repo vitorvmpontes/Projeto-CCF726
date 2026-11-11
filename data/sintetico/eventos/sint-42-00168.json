@@ -1,0 +1,206 @@
+{
+ "spec": {
+  "id": "sint-42-00168",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Viçosa - MG",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 22,
+  "casos": [
+   "descricoes_ricas",
+   "nomes_repetidos",
+   "titulos_longos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:38+00:00",
+ "uso_tokens": {
+  "entrada": 716,
+  "saida": 3376
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jogos Universitários da Integração e Simpósio de Rendimento Físico",
+   "local_geral": "Campus UFV - Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Retirada de Kits e Recepção das Delegações",
+    "lugar": "Hall do Departamento de Educação Física",
+    "dataInicio": "2023-10-21T07:30:00-03:00",
+    "dataFim": "2023-10-21T08:30:00-03:00",
+    "descricao": "<p>Coordenação geral de <b>Lucas Silveira</b> e apoio dos monitores acadêmicos.</p>",
+    "secao": "Cerimonial e Integração"
+   },
+   {
+    "nome": "Cerimônia de Abertura e Desfile das Atléticas",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2023-10-21T08:30:00-03:00",
+    "dataFim": "2023-10-21T09:30:00-03:00",
+    "descricao": "<p>Abertura solene com presença do reitor <b>Prof. Demetrius David da Silva</b> e acendimento da pira pela atleta universitária <b>Camila Duarte</b>.</p>",
+    "secao": "Cerimonial e Integração"
+   },
+   {
+    "nome": "Partida Classificatória de Futsal",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2023-10-21T09:45:00-03:00",
+    "dataFim": "2023-10-21T11:00:00-03:00",
+    "descricao": "<p>Confronto da fase de grupos entre as atléticas de Engenharia e Ciências Biológicas. Arbitragem coordenada por <b>Renato Meireles</b>.</p>",
+    "secao": "Torneios Esportivos - Fase de Grupos"
+   },
+   {
+    "nome": "Partida Classificatória de Basquete",
+    "lugar": "Quadra Poliesportiva Externa 1",
+    "dataInicio": "2023-10-21T10:00:00-03:00",
+    "dataFim": "2023-10-21T11:15:00-03:00",
+    "descricao": null,
+    "secao": "Torneios Esportivos - Fase de Grupos"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Fernando Sabino",
+    "dataInicio": "2023-10-21T10:30:00-03:00",
+    "dataFim": "2023-10-21T12:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>O Impacto Biomecânico do Treinamento Intervalado de Alta Intensidade nas Estruturas Neuromusculares e na Prevenção Eficaz de Lesões Articulares em Atletas Universitários</i>, ministrada pelo <b>Prof. Dr. Mateus Valadares</b>.</p>",
+    "secao": "Ciclo de Debates e Rendimento Esportivo"
+   },
+   {
+    "nome": "Partida Classificatória de Futsal",
+    "lugar": "Ginásio Poliesportivo Secundário",
+    "dataInicio": "2023-10-21T11:15:00-03:00",
+    "dataFim": "2023-10-21T12:30:00-03:00",
+    "descricao": "<p>Confronto da fase de grupos entre Agronomia e Economia Doméstica. Coordenação de mesa por <b>Juliana Fontes</b>.</p>",
+    "secao": "Torneios Esportivos - Fase de Grupos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-21T12:30:00-03:00",
+    "dataFim": "2023-10-21T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica de Apresentação de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2023-10-21T14:00:00-03:00",
+    "dataFim": "2023-10-21T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Dra. Tânia Resende</b>. Trabalhos apresentados:</p><p><i>Análise da ingestão proteica diária e desempenho muscular em corredores universitários de média distância</i> por <b>Felipe Bastos</b> e <b>Marcio Lima</b>;</p><p><i>Prevalência de entorses de tornozelo em praticantes de handebol amador</i> por <b>Beatriz Rocha</b>.</p>",
+    "secao": "Ciclo de Debates e Rendimento Esportivo"
+   },
+   {
+    "nome": "Oficina Prática de Primeiros Socorros",
+    "lugar": "Sala de Dança do DFI",
+    "dataInicio": "2023-10-21T14:15:00-03:00",
+    "dataFim": "2023-10-21T16:15:00-03:00",
+    "descricao": "<p>Ministrante: <b>Enf. Tiago Antunes</b>. Práticas de imobilização e atendimento pré-hospitalar em quadra.</p>",
+    "secao": "Ciclo de Debates e Rendimento Esportivo"
+   },
+   {
+    "nome": "Partida Classificatória de Basquete",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2023-10-21T15:00:00-03:00",
+    "dataFim": "2023-10-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": "Torneios Esportivos - Fase de Grupos"
+   },
+   {
+    "nome": "Mesa-Redonda Temática",
+    "lugar": "Auditório Fernando Sabino",
+    "dataInicio": "2023-10-21T16:30:00-03:00",
+    "dataFim": "2023-10-21T18:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Desafios da Saúde Mental e a Gestão da Ansiedade Pré-Competitiva no Esporte Universitário de Alto Nível de Exigência Psicológica</i>. Coordenador: <b>Prof. Carlos Henrique Martins</b>. Debatedores: <b>Dra. Fernanda Ladeira</b> e <b>Psic. Rafael Albuquerque</b>.</p>",
+    "secao": "Ciclo de Debates e Rendimento Esportivo"
+   },
+   {
+    "nome": "Partida Classificatória de Futsal",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2023-10-21T18:15:00-03:00",
+    "dataFim": "2023-10-21T19:30:00-03:00",
+    "descricao": null,
+    "secao": "Torneios Esportivos - Fase de Grupos"
+   },
+   {
+    "nome": "Festival de Integração Cultural Universitária",
+    "lugar": "Espaço Multiuso da ADUV",
+    "dataInicio": "2023-10-21T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical da bateria universitária coordenada pelo estudante <b>Gabriel Dornelas</b>.</p>",
+    "secao": "Cerimonial e Integração"
+   },
+   {
+    "nome": "Aquecimento Coletivo e Práticas Funcionais",
+    "lugar": null,
+    "dataInicio": "2023-10-22T08:00:00-03:00",
+    "dataFim": "2023-10-22T08:45:00-03:00",
+    "descricao": "<p>Sessão guiada pela preparadora física <b>Mariana Siqueira</b> voltada para os semifinalistas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso Especializado",
+    "lugar": "Auditório do CCE",
+    "dataInicio": "2023-10-22T09:00:00-03:00",
+    "dataFim": "2023-10-22T11:00:00-03:00",
+    "descricao": "<p>Minicurso intitulado <i>Estratégias Nutricionais e Periodização Específica de Suplementação Hídrica para Otimização da Recuperação Muscular Pós-Treino Intenso</i>, ministrado pelo <b>Nutr. Rodrigo Peixoto</b>.</p>",
+    "secao": "Ciclo de Debates e Rendimento Esportivo"
+   },
+   {
+    "nome": "Semifinais de Voleibol Misto",
+    "lugar": "Quadra Poliesportiva Externa 2",
+    "dataInicio": "2023-10-22T09:30:00-03:00",
+    "dataFim": "2023-10-22T11:30:00-03:00",
+    "descricao": null,
+    "secao": "Torneios Esportivos - Finais"
+   },
+   {
+    "nome": "Disputa de 3º Lugar de Futsal",
+    "lugar": "Ginásio Poliesportivo Secundário",
+    "dataInicio": "2023-10-22T11:00:00-03:00",
+    "dataFim": "2023-10-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Torneios Esportivos - Finais"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-22T12:00:00-03:00",
+    "dataFim": "2023-10-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Final de Basquete",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2023-10-22T14:00:00-03:00",
+    "dataFim": "2023-10-22T15:30:00-03:00",
+    "descricao": "<p>Decisão do campeonato universitário com arbitragem federada liderada por <b>Sérgio Nogueira</b>.</p>",
+    "secao": "Torneios Esportivos - Finais"
+   },
+   {
+    "nome": "Final de Futsal Feminino e Masculino",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2023-10-22T15:45:00-03:00",
+    "dataFim": "2023-10-22T17:45:00-03:00",
+    "descricao": null,
+    "secao": "Torneios Esportivos - Finais"
+   },
+   {
+    "nome": "Solenidade de Premiação e Entrega de Troféus",
+    "lugar": null,
+    "dataInicio": "2023-10-22T18:00:00-03:00",
+    "dataFim": "2023-10-22T19:30:00-03:00",
+    "descricao": "<p>Apresentação das agremiações vencedoras e entrega de medalhas pelos coordenadores <b>Prof. André Calazans</b> e <b>Helena Ramos</b>.</p>",
+    "secao": "Cerimonial e Integração"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-10-22T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Pronunciamento de encerramento proferido pela diretora de esportes <b>Cláudia Viana</b>.</p>",
+    "secao": "Cerimonial e Integração"
+   }
+  ]
+ }
+}

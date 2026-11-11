@@ -1,0 +1,291 @@
+{
+ "spec": {
+  "id": "sint-42-00455",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Florianópolis - SC",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 33,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:49+00:00",
+ "uso_tokens": {
+  "entrada": 641,
+  "saida": 4664
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Sul 2025: Congresso de Inovação e Tecnologias Sustentáveis no Campo",
+   "local_geral": "Centro de Convenções CentroSul, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-19T08:00:00-03:00",
+    "dataFim": "2025-05-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-19T09:30:00-03:00",
+    "dataFim": "2025-05-19T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença de autoridades estaduais e lideranças do setor produtivo. Coordenação de <b>Eduardo Zimmermann</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-19T10:45:00-03:00",
+    "dataFim": "2025-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e Descarbonização nas Cadeias Produtivas</i>. Palestrante: <b>Dra. Mariana Dornelles</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-19T12:00:00-03:00",
+    "dataFim": "2025-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-19T13:30:00-03:00",
+    "dataFim": "2025-05-19T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Conectividade Rural: Desafios do 5G e Sensores IoT no Campo</i>. Moderador: <b>Carlos Henrique Peixoto</b>. Debatedores: <b>Beatriz Fontes</b> e <b>Lucas Silveira</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-19T15:30:00-03:00",
+    "dataFim": "2025-05-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel 2",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-19T16:00:00-03:00",
+    "dataFim": "2025-05-19T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Biotecnologia e Bioinsumos na Agricultura Regenerativa</i>. Debatedores: <b>Dra. Camila Ramos</b>, <b>Dr. Juliano Mattos</b> e <b>Fernando Guimarães</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Babitonga",
+    "dataInicio": "2025-05-20T08:30:00-03:00",
+    "dataFim": "2025-05-20T10:00:00-03:00",
+    "descricao": "<p>Apresentação: <i>Mapeamento por Drones Multiespectrais para Manejo de Pragas</i>, ministrada por <b>Rodrigo Castanho</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Babitonga",
+    "dataInicio": "2025-05-20T10:15:00-03:00",
+    "dataFim": "2025-05-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação: <i>Sensores Ópticos e Tomografia Aplicada ao Solo</i>, ministrada por <b>Profa. Vanessa Meireles</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-20T11:45:00-03:00",
+    "dataFim": "2025-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Sala de Inovação A",
+    "dataInicio": "2025-05-20T13:30:00-03:00",
+    "dataFim": "2025-05-20T15:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Práticas de Inteligência Artificial para Previsão de Safra</i>. Instrutor: <b>Felipe Albuquerque</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Sala de Inovação B",
+    "dataInicio": "2025-05-20T13:30:00-03:00",
+    "dataFim": "2025-05-20T15:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Modelagem de Carbono do Solo com Softwares Abertos</i>. Instrutora: <b>Tatiane Medeiros</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-20T15:30:00-03:00",
+    "dataFim": "2025-05-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Foyer das Laranjeiras",
+    "dataInicio": "2025-05-20T16:00:00-03:00",
+    "dataFim": "2025-05-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos acadêmicos selecionados. Coordenação de <b>Dr. Rogério Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Babitonga",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:00:00-03:00",
+    "descricao": "<p>Apresentação: <i>Rastreabilidade e Segurança Alimentar com Blockchain</i>, com <b>Guilherme Sato</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-21T10:15:00-03:00",
+    "dataFim": "2025-05-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Hídrica e Irrigação de Precisão em Santa Catarina</i>. Participantes: <b>Andréa Lins</b>, <b>Marcelo Dantas</b> e <b>Eng. Paula Furtado</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-21T12:00:00-03:00",
+    "dataFim": "2025-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch Day de Agrotechs",
+    "lugar": "Arena Startup",
+    "dataInicio": "2025-05-21T13:30:00-03:00",
+    "dataFim": "2025-05-21T16:00:00-03:00",
+    "descricao": "<p>Apresentação de 10 startups para investidores. Avaliação conduzida por <b>Luciana Prado</b> e <b>Roberto Assis</b>.</p>",
+    "secao": "Inovação Aberta"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-21T16:00:00-03:00",
+    "dataFim": "2025-05-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Espaço AgroConexão",
+    "dataInicio": "2025-05-21T16:30:00-03:00",
+    "dataFim": "2025-05-21T18:30:00-03:00",
+    "descricao": "<p>Encontros B2B entre cooperativas agropecuárias e desenvolvedores de tecnologia. Facilitação de <b>Marcos Vinícius Terra</b>.</p>",
+    "secao": "Inovação Aberta"
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Estação Experimental Epagri",
+    "dataInicio": "2025-05-22T08:00:00-03:00",
+    "dataFim": "2025-05-22T11:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Cultivo Protegido e Automação de Estufas na Prática</i>. Condução do pesquisador <b>Dr. Hélio Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-22T11:30:00-03:00",
+    "dataFim": "2025-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-22T13:30:00-03:00",
+    "dataFim": "2025-05-22T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Crédito Rural Verde e Mercados Futuros para Produtores Conectados</i>. Convidados: <b>Patrícia Siqueira</b>, <b>José Otávio Brandão</b> e <b>Cristina Klein</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Café da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-22T15:30:00-03:00",
+    "dataFim": "2025-05-22T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop 3",
+    "lugar": "Sala de Inovação A",
+    "dataInicio": "2025-05-22T16:00:00-03:00",
+    "dataFim": "2025-05-22T17:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Governança de Dados no Agronegócio Familiar</i>. Ministrante: <b>Gabriel Nozaki</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Premiação Melhores Agrotechs",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-22T17:30:00-03:00",
+    "dataFim": "2025-05-22T19:00:00-03:00",
+    "descricao": "<p>Divulgação dos projetos vencedores do Pitch Day com mediação de <b>Luciana Prado</b>.</p>",
+    "secao": "Inovação Aberta"
+   },
+   {
+    "nome": "Painel 3",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-23T09:00:00-03:00",
+    "dataFim": "2025-05-23T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Robótica Agrícola e Autonomia de Maquinário: O Estado da Arte</i>. Participação de <b>Tiago Bastos</b> e <b>Dra. Renata Frota</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-23T10:30:00-03:00",
+    "dataFim": "2025-05-23T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 4",
+    "lugar": "Auditório Babitonga",
+    "dataInicio": "2025-05-23T11:00:00-03:00",
+    "dataFim": "2025-05-23T12:30:00-03:00",
+    "descricao": "<p>Apresentação: <i>Sistemas Agrometeorológicos Baseados em Satélite de Baixa Órbita</i>, ministrada por <b>Vinícius Caldeira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-23T12:30:00-03:00",
+    "dataFim": "2025-05-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-23T14:00:00-03:00",
+    "dataFim": "2025-05-23T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>O Futuro do Agronegócio Brasileiro no Cenário Global de 2030</i>. Palestrante: <b>Prof. Marcos Fava Neves</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-23T15:30:00-03:00",
+    "dataFim": "2025-05-23T16:30:00-03:00",
+    "descricao": "<p>Agradecimentos finais e leitura da carta de compromisso pela comissão organizadora, coordenada por <b>Eduardo Zimmermann</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2025-05-23T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração de encerramento para congressistas e expositores.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

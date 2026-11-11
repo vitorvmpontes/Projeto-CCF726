@@ -1,0 +1,117 @@
+{
+ "spec": {
+  "id": "sint-42-00479",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Niterói - RJ",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 11,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:38+00:00",
+ "uso_tokens": {
+  "entrada": 666,
+  "saida": 1738
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Fluminense de Práticas Pedagógicas na Educação Básica",
+   "local_geral": "Faculdade de Educação da UFF, Campus Gragoatá, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Recepção dos Participantes",
+    "lugar": null,
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária",
+    "lugar": "Auditório Macunaíma - Bloco D",
+    "dataInicio": "2024-05-15T09:15:00-03:00",
+    "dataFim": "2024-05-15T11:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Desafios Curriculares e a Reconstrução Democrática da Escola Pública</i>, ministrada pela <b>Profa. Dra. Mônica Vasconcellos</b> e mediada pelo <b>Prof. Me. Rodrigo Azevedo</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica",
+    "lugar": "Laboratório de Ensino 102",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T17:00:00-03:00",
+    "descricao": "<p>Oficina <i>Práticas de Leitura Literária nos Anos Iniciais</i>, coordenada pela formadora <b>Juliana Medeiros</b>.</p>",
+    "secao": "Ateliês Formativos"
+   },
+   {
+    "nome": "Oficina Pedagógica",
+    "lugar": "Sala de Recursos Multimídia",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T17:00:00-03:00",
+    "descricao": "<p>Oficina <i>Jogos Didáticos e o Ensino de Frações</i>, facilitada pelo <b>Prof. Carlos Eduardo Silveira</b>.</p>",
+    "secao": "Ateliês Formativos"
+   },
+   {
+    "nome": "Mostra de Relatos de Experiência",
+    "lugar": null,
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos docentes submetidos ao eixo de Alfabetização e Letramento, sob coordenação da <b>Profa. Beatriz Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa Afetiva e Troca de Saberes",
+    "lugar": null,
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Círculo de Diálogos",
+    "lugar": "Tenda da Convivência",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Inclusão e Acessibilidade no Contexto da Sala Regular</i> com as professoras <b>Lúcia Helena Freitas</b> e <b>Clarice Monteiro</b>.</p>",
+    "secao": "Círculos de Diálogos"
+   },
+   {
+    "nome": "Círculo de Diálogos",
+    "lugar": "Sala de Seminários 2",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Discussão temática <i>Educação Antirracista na Prática Escolar Fluminense</i> conduzida por <b>Luiz Antônio Conceição</b> e <b>Patrícia Regina Souza</b>.</p>",
+    "secao": "Círculos de Diálogos"
+   },
+   {
+    "nome": "Sessão Plenária",
+    "lugar": "Auditório Macunaíma - Bloco D",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>A Saúde Mental dos Docentes da Rede Pública</i>, reunindo a psicóloga <b>Dra. Fernanda Telles</b> e o sociólogo <b>Marcos Vinícius Barreto</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Painel Autogestionado",
+    "lugar": null,
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço colaborativo para compartilhamento de estratégias sindicais e coletivas coordenado pelo delegado <b>Sérgio Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato Coletivo de Encerramento",
+    "lugar": "Pátio Central do Gragoatá",
+    "dataInicio": "2024-05-17T11:30:00-03:00",
+    "dataFim": "2024-05-17T13:00:00-03:00",
+    "descricao": "<p>Leitura da <i>Carta de Niterói pela Valorização dos Professores</i> redigida pela comissão do evento e apresentada por <b>Tereza Cristina Ramos</b>, seguida de intervenção musical do <b>Grupo Choro da UFF</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

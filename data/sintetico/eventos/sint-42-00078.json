@@ -1,0 +1,155 @@
+{
+ "spec": {
+  "id": "sint-42-00078",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Vitória - ES",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 16,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:23+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 2770
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Seminário Capixaba de Sustentabilidade e Gestão Ambiental",
+   "local_geral": "Centro de Convenções de Vitória, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Retirada de Material e Boas-Vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Mar Vermelho",
+    "dataInicio": "2026-05-18T09:30:00-03:00",
+    "dataFim": "2026-05-18T11:30:00-03:00",
+    "descricao": "<p>Conferência inaugural com a temática dos desafios costeiros frente às mudanças climáticas.</p><p>Palestrante: <b>Dra. Mariana Vasconcellos</b> (UFES).</p><p>Coordenação de mesa: <b>Dr. Roberto Esteves</b> (SEAMA-ES).</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2026-05-18T11:30:00-03:00",
+    "dataFim": "2026-05-18T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Mar Vermelho",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T16:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Restauração Florestal e Pagamento por Serviços Ambientais na Bacia do Rio Doce</i>.</p><p>Debatedores: <b>Carlos Eduardo Guimarães</b> (Instituto Terra) e <b>Beatriz Nogueira</b> (IEMA).</p><p>Coordenador: <b>Prof. Lucas Alvarenga</b> (Ifes).</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica A",
+    "lugar": "Sala 102 - Bloco Oceânico",
+    "dataInicio": "2026-05-19T08:30:00-03:00",
+    "dataFim": "2026-05-19T12:00:00-03:00",
+    "descricao": "<p>Aplicação de metodologias para cálculo de pegada de carbono corporativa.</p><p>Instrutora: <b>Eng. Patrícia Fontes</b> (SustentaLab).</p>",
+    "secao": "Capacitações"
+   },
+   {
+    "nome": "Oficina Técnica B",
+    "lugar": "Sala 104 - Bloco Oceânico",
+    "dataInicio": "2026-05-19T08:30:00-03:00",
+    "dataFim": "2026-05-19T12:00:00-03:00",
+    "descricao": "<p>Uso de SIG e sensoriamento remoto para monitoramento de manguezais urbanos.</p><p>Instrutor: <b>Felipe Sarmento</b> (GeoAmbiental).</p>",
+    "secao": "Capacitações"
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Auditório Baía das Tartarugas",
+    "dataInicio": "2026-05-19T14:00:00-03:00",
+    "dataFim": "2026-05-19T17:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos selecionados sobre ecossistemas costeiros.</p><p>Coordenadora: <b>Profa. Juliana Prado</b>.</p><p>Trabalhos apresentados: <i>Dinâmica de Nutrientes na Baía de Vitória</i> por <b>Guilherme Rezende</b>; <i>Impacto de Microplásticos na Ictiofauna Local</i> por <b>Camila Duarte</b> e <b>Otávio Mendonça</b>; <i>Avaliação da Qualidade da Água em Áreas Estuarinas</i> por <b>Renata Pires</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Auditório Baía das Tartarugas",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": "<p>Sessão dedicada a inovações em economia circular e gestão de resíduos sólidos.</p><p>Coordenador: <b>Dr. Marcos Tadeu Silveira</b>.</p><p>Apresentações: <i>Aproveitamento de Rejeitos da Indústria de Rochas Ornamentais</i> por <b>Tatiana Sampaio</b>; <i>Logística Reversa de Embalagens no Comércio Varejista</i> por <b>Henrique Brandão</b> e <b>Valéria Gomes</b>; <i>Compostagem Comunitária em Bairros Periféricos</i> por <b>Ana Cecília Matos</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Mostra de Painéis",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T17:00:00-03:00",
+    "descricao": "<p>Exposição e avaliação de pesquisas de iniciação científica e relatos de experiência comunitária.</p><p>Coordenação geral: <b>Profa. Sandra Regina Paiva</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Mar Vermelho",
+    "dataInicio": "2026-05-21T09:00:00-03:00",
+    "dataFim": "2026-05-21T11:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Transição Energética e Descarbonização no Transporte Marítimo e Portuário</i>.</p><p>Participantes: <b>Jorge Amado Loureiro</b> (Porto de Vitória) e <b>Helena Castello</b> (Transpetro).</p><p>Moderação: <b>Rodrigo Cordeiro</b> (Codesa).</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Parque Natural Municipal de Manguezal Itanguá",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T17:30:00-03:00",
+    "descricao": "<p>Trilha guiada para observação das ações de contenção de maré e recuperação da vegetação nativa de manguezal.</p><p>Guias responsáveis: <b>Biól. Fernanda Lins</b> e <b>Geraldo Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": "Varanda Náutica",
+    "dataInicio": "2026-05-21T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Diálogos com o Setor Produtivo",
+    "lugar": "Auditório Mar Vermelho",
+    "dataInicio": "2026-05-22T09:00:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": "<p>Mesa de diálogo sobre critérios ESG e conformidade ambiental para exportadores capixabas.</p><p>Palestrantes: <b>Vanessa Aguiar</b> (Findes) e <b>Thiago Meireles</b> (Banco do Brasil).</p><p>Coordenadora: <b>Clara Menezes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:00:00-03:00",
+    "dataFim": "2026-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Mar Vermelho",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Apresentação da <i>Carta de Vitória pela Sustentabilidade 2026</i> e palestra final sobre Governança Climática Global.</p><p>Palestrante: <b>Prof. André Vilarinho</b> (USP).</p><p>Coordenação: <b>Dra. Mariana Vasconcellos</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Premiação de Trabalhos e Encerramento",
+    "lugar": "Auditório Mar Vermelho",
+    "dataInicio": "2026-05-22T16:30:00-03:00",
+    "dataFim": "2026-05-22T17:30:00-03:00",
+    "descricao": "<p>Divulgação dos melhores artigos e menções honrosas do seminário com a comissão científica presidida por <b>Profa. Juliana Prado</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

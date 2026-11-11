@@ -1,0 +1,148 @@
+{
+ "spec": {
+  "id": "sint-42-00427",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Uberlândia - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 15,
+  "casos": [
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:33+00:00",
+ "uso_tokens": {
+  "entrada": 658,
+  "saida": 2264
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia Mecatrônica",
+   "local_geral": "Universidade Federal de Uberlândia - Campus Santa Mônica, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Hall do Bloco 1B",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório 5R",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a presença do coordenador do curso <b>Prof. Dr. Marcelo Guimarães Prado</b> e da diretora da Faculdade de Engenharia Mecânica <b>Profa. Dra. Letícia Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório 5R",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Tendências da Robótica Cooperativa na Indústria Automobilística</i>. Ministrada pelo engenheiro convidado <b>Dr. Arthur Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Iniciação Científica",
+    "lugar": "Pilotis do Bloco 1A",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição de pôsteres dos alunos de graduação com coordenação da <b>Dra. Simone Alencar</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório 5R",
+    "dataInicio": "2027-05-19T16:00:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transição Energética e os Desafios para a Automação Inteligente</i>. Com a participação dos debatedores <b>Dr. Renato Meireles</b> e <b>Eng. Juliana Fonseca</b>, mediada por <b>Prof. Carlos Eduardo Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Controle e Automação (Bloco 1E)",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Programação de Controladores Lógicos Programáveis com IEC 61131-3</i>. Ministrante: <b>Me. Thiago Sampaio</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática Industrial (Bloco 5K)",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução à Visão Computacional Aplicada a Manipuladores Robóticos usando OpenCV</i>. Ministrante: <b>Eng. Beatriz Novaes</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Painel de Egressos",
+    "lugar": "Auditório 5R",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Carreiras em Mecatrônica no Brasil e no Exterior</i>. Relatos com os engenheiros formados na UFU: <b>Vinícius Peixoto</b>, <b>Camila Duarte</b> e <b>Felipe Rossi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Ponto de Encontro: Estacionamento do Bloco 1A",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T18:30:00-03:00",
+    "descricao": "<p>Visita às linhas de montagem automatizadas da planta industrial parceira. Organização: <b>Profa. Renata Queiroz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres da Pós-Graduação",
+    "lugar": "Hall do Bloco 5R",
+    "dataInicio": "2027-05-20T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das pesquisas dos alunos de mestrado e doutorado em Engenharia Mecânica e Automação, coordenada pelo <b>Prof. Paulo Henrique Viana</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Espaço Maker (Bloco 1M)",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Prototipagem Rápida com Impressão 3D e Modelagem Paramétrica</i>. Conduzido por <b>Eng. Gabriela Figueiredo</b> e <b>Lucas Ramalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Competição de Robótica Seguidora de Linha",
+    "lugar": "Ginásio de Esportes do Campus",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": "<p>Competição entre equipes discentes com avaliação dos juízes <b>Prof. Roberto Chaves</b> e <b>Profa. Aline Gontijo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório 5R",
+    "dataInicio": "2027-05-21T17:00:00-03:00",
+    "dataFim": "2027-05-21T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Gêmeos Digitais e a Manutenção Preditiva na Era dos Dados</i>. Apresentada pelo pesquisador <b>Dr. Fernando Castilho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Cerimônia de Fechamento",
+    "lugar": "Auditório 5R",
+    "dataInicio": "2027-05-21T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos melhores projetos da mostra científica e vencedores da competição de robôs com o coordenador <b>Prof. Dr. Marcelo Guimarães Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": "Área de Convivência do Bloco 1E",
+    "dataInicio": "2027-05-21T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

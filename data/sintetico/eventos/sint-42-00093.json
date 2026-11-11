@@ -1,0 +1,110 @@
+{
+ "spec": {
+  "id": "sint-42-00093",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Belém - PA",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "titulos_longos",
+   "intervalos",
+   "nomes_repetidos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:35+00:00",
+ "uso_tokens": {
+  "entrada": 714,
+  "saida": 1722
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Amazônia 2026: Inovação e Bioeconomia Sustentável",
+   "local_geral": "Hangar Convenções e Feiras da Amazônia, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-08-18T08:00:00-03:00",
+    "dataFim": "2026-08-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2026-08-18T09:30:00-03:00",
+    "dataFim": "2026-08-18T11:00:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos sobre o futuro das cadeias produtivas amazônicas.</p><p>Coordenação: <b>Dra. Simone Alencar</b>.</p><p>Palestra magna: <i>O papel estratégico das tecnologias disruptivas aplicadas à bioeconomia e conservação florestal na nova fronteira agroecológica mundial</i>, ministrada por <b>Dr. Marcos Vinícius Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Demonstrações Tecnológicas",
+    "lugar": "Arena Inovação Norte",
+    "dataInicio": "2026-08-18T14:00:00-03:00",
+    "dataFim": "2026-08-18T16:00:00-03:00",
+    "descricao": "<p>Apresentação prática de maquinários e protótipos em campo reduzido.</p><p>Condução de <b>Eng. Thiago Furtado</b> e <b>Profa. Camila Nogueira</b>.</p>",
+    "secao": "Circuitos Tecnológicos"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço Samaúma",
+    "dataInicio": "2026-08-18T16:00:00-03:00",
+    "dataFim": "2026-08-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Solos e Imagens",
+    "dataInicio": "2026-08-19T09:00:00-03:00",
+    "dataFim": "2026-08-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento e implementação de algoritmos para monitoramento autônomo da saúde hídrica de plantios de açaí com sensoriamento remoto avançado</i>.</p><p>Instrutores: <b>Dr. Raimundo Nonato Castro</b> e <b>MSc. Beatriz Vasconcelos</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-08-19T12:00:00-03:00",
+    "dataFim": "2026-08-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala de Capacitação 3",
+    "dataInicio": "2026-08-19T14:00:00-03:00",
+    "dataFim": "2026-08-19T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Integração lavoura-pecuária-floresta em pequenas propriedades do norte brasileiro utilizando plataformas digitais colaborativas e agricultura de precisão acessível</i>.</p><p>Instrutor: <b>Dr. Marcelo Tavares</b> com assistência de <b>Helena Rocha</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Hall do Pavilhão B",
+    "dataInicio": "2026-08-20T09:00:00-03:00",
+    "dataFim": "2026-08-20T11:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Vanessa Meireles</b>.</p><p>Trabalhos em exposição:</p><p><i>Bioinsumos derivados de sementes amazônicas para controle biológico de pragas</i>, apresentado por <b>Lucas Barreto</b>.</p><p><i>Rastreabilidade de cadeias da castanha-do-pará via tecnologia blockchain descentralizada</i>, apresentado por <b>Juliana Pantoja</b> e <b>Fernando Braga</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Demonstrações Tecnológicas",
+    "lugar": "Estande Demo AgroTech",
+    "dataInicio": "2026-08-20T14:00:00-03:00",
+    "dataFim": "2026-08-20T16:00:00-03:00",
+    "descricao": "<p>Segunda rodada dedicada a sensores de umidade de baixo custo e telemetria para dendê.</p><p>Coordenador: <b>Eng. Thiago Furtado</b> com os pesquisadores convidados <b>Dra. Clarice Cunha</b> e <b>Renato Souza</b>.</p>",
+    "secao": "Circuitos Tecnológicos"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2026-08-20T16:30:00-03:00",
+    "dataFim": "2026-08-20T18:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Amazônia Inovadora 2026 conduzida por <b>Dra. Simone Alencar</b> e <b>Carlos Eduardo Pinheiro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

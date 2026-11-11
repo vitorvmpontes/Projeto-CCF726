@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-42-00205",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Florestal - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:17+00:00",
+ "uso_tokens": {
+  "entrada": 675,
+  "saida": 1638
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Mineiro de Inteligência Artificial Aplicada e Minicursos Avançados",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Hall do Prédio Principal",
+    "dataInicio": "2027-05-14T08:00:00-03:00",
+    "dataFim": "2027-05-14T08:30:00-03:00",
+    "descricao": "<p>Acolhimento aos participantes com entrega dos crachás institucionais e materiais de apoio.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Apresentação inaugural com o título <i>Investigação Crítica sobre o Impacto Social dos Modelos de Linguagem em Larga Escala nas Pequenas Comunidades Rurais Brasileiras Contemporâneas</i>, proferida pelo Prof. Dr. <b>Henrique Valadares de Castro</b> e coordenada pela Profa. Dra. <b>Juliana Mendonça Ramos</b>.</p>",
+    "secao": "Palestras"
+   },
+   {
+    "nome": "Intervalo para Convivência",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-14T10:00:00-03:00",
+    "dataFim": "2027-05-14T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Computação 3",
+    "dataInicio": "2027-05-14T10:30:00-03:00",
+    "dataFim": "2027-05-14T12:30:00-03:00",
+    "descricao": "<p>Oficina prática com o tema <i>Fundamentos de Visão Computacional com Redes Neurais Convolucionais para Classificação Automatizada de Folhagens no Contexto do Agronegócio Sustentável</i>, ministrada pelos pesquisadores <b>Rodrigo Capanema Neves</b> e <b>Bruna Figueiredo Lima</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Computação 4",
+    "dataInicio": "2027-05-14T10:30:00-03:00",
+    "dataFim": "2027-05-14T12:30:00-03:00",
+    "descricao": "<p>Treinamento intensivo sobre <i>Engenharia de Prompts e Agentes Autônomos em Python</i>, sob a instrução do especialista <b>Lucas Prado Meireles</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2027-05-14T12:30:00-03:00",
+    "dataFim": "2027-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-05-14T14:00:00-03:00",
+    "dataFim": "2027-05-14T16:00:00-03:00",
+    "descricao": "<p>Sessão de comunicação de artigos sob a coordenação do Prof. <b>Márcio Aurélio Fontes</b>. Trabalhos apresentados:</p><p>1. <i>Detecção Precoce de Pragas em Plantações de Eucalipto Utilizando Drones e Aprendizado Profundo</i> por <b>Aline Guimarães Ribeiro</b> e <b>Carlos Eduardo Amaral</b>;</p><p>2. <i>Predição de Queimadas no Cerrado Mineiro com Redes Recorrentes</i> por <b>Thiago Santos Nogueira</b> e <b>Vanessa Cristina Rezende</b>;</p><p>3. <i>Processamento de Linguagem Natural para Triagem Automática de Notificações Sanitárias Locais</i> por <b>Danilo Albuquerque Silva</b> e <b>Fernanda Silveira Bastos</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-14T16:15:00-03:00",
+    "dataFim": "2027-05-14T17:45:00-03:00",
+    "descricao": "<p>Conferência especial com a palestra <i>Desafios Regulatórios e Diretrizes Éticas na Implementação Segura de Mecanismos de Decisão Baseados em Aprendizado Estatístico Complexo</i>, apresentada pela Profa. Dra. <b>Renata Vasconcelos Pinheiro</b> com mediação do Prof. <b>Gustavo Henrique Faria</b>.</p>",
+    "secao": "Palestras"
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-14T17:45:00-03:00",
+    "dataFim": "2027-05-14T18:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Rumo da Inteligência Artificial em Minas Gerais</i> com os debatedores <b>Juliana Mendonça Ramos</b>, <b>Henrique Valadares de Castro</b> e convidados da indústria regional.</p>",
+    "secao": "Palestras"
+   }
+  ]
+ }
+}

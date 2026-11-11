@@ -1,0 +1,133 @@
+{
+ "spec": {
+  "id": "sint-42-00496",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Viçosa - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 13,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:55+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 2071
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Jornada Universitária de Medicina de Família e Comunidade da Zona da Mata",
+   "local_geral": "Centro de Ensino e Desenvolvimento Agrário de Viçosa (CEDAF/UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Participantes e Entrega de Crachás",
+    "lugar": "Hall do Centro de Convenções",
+    "dataInicio": "2025-08-22T07:30:00-03:00",
+    "dataFim": "2025-08-22T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-22T08:30:00-03:00",
+    "dataFim": "2025-08-22T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Desafios da Atenção Primária no Interior Mineiro: Fortalecendo Redes de Cuidado</i>, ministrada pelo Dr. <b>Carlos Eduardo Guimarães</b> e coordenada pela Dra. <b>Patrícia Vasconcelos de Resende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café e Prosa",
+    "lugar": "Foyer do Auditório Principal",
+    "dataInicio": "2025-08-22T10:00:00-03:00",
+    "dataFim": "2025-08-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Pequena Cirurgia Ambulatorial",
+    "lugar": "Laboratório de Habilidades Médicas A",
+    "dataInicio": "2025-08-22T10:30:00-03:00",
+    "dataFim": "2025-08-22T12:00:00-03:00",
+    "descricao": "<p>Treinamento prático de biópsias por punch, excisão de lesões cutâneas e técnicas de sutura em ferimentos superficiais na APS com o Dr. <b>Lucas Moreira Paiva</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Painel de Discussão Clínica",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2025-08-22T10:30:00-03:00",
+    "dataFim": "2025-08-22T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Manejo da Dor Crônica Não Oncológica na Unidade Básica de Saúde</i>. Participação da Dra. <b>Elisa Drumond Andrade</b> e do Dr. <b>Renato Silveira Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-22T12:00:00-03:00",
+    "dataFim": "2025-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala de Seminários 102",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T17:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos temas livres submetidos à jornada. Banca avaliadora: Profa. Dra. <b>Fernanda Lacerda de Castro</b> e Prof. Me. <b>Thiago Gomes Pereira</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Oficina Prática de Pequena Cirurgia Ambulatorial",
+    "lugar": "Laboratório de Habilidades Médicas B",
+    "dataInicio": "2025-08-23T08:30:00-03:00",
+    "dataFim": "2025-08-23T10:00:00-03:00",
+    "descricao": "<p>Segunda turma do treinamento prático focado em técnicas de hemostasia e exérese em nível ambulatorial, conduzida pela Dra. <b>Marcela Diniz Santos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Simpósio Temático",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T08:30:00-03:00",
+    "dataFim": "2025-08-23T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias de Intervenção em Saúde Mental Baseadas no Território</i>, com a presença do Dr. <b>Otávio Vianna Macedo</b> e da psicóloga <b>Camila Ribeiro Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café e Prosa",
+    "lugar": "Foyer do Auditório Principal",
+    "dataInicio": "2025-08-23T10:00:00-03:00",
+    "dataFim": "2025-08-23T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão Clínica",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T10:30:00-03:00",
+    "dataFim": "2025-08-23T12:00:00-03:00",
+    "descricao": "<p>Sessão com tema <i>Abordagem Multidisciplinar do Pé Diabético e Prevenção de Complicações</i> com exposições do enfermeiro <b>Rodrigo Assis Magalhães</b> e da médica <b>Mariana Siqueira Campos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala de Seminários 102",
+    "dataInicio": "2025-08-23T10:30:00-03:00",
+    "dataFim": "2025-08-23T12:00:00-03:00",
+    "descricao": "<p>Segunda sessão de apresentação oral de relatos de experiência e pesquisas de campo. Banca: Dra. <b>Helena Ramos Antunes</b> e Dr. <b>Guilherme Borges Brandão</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-23T12:15:00-03:00",
+    "dataFim": "2025-08-23T13:00:00-03:00",
+    "descricao": "<p>Entrega das premiações dos melhores trabalhos científicos apresentados e solenidade de encerramento conduzida pela Dra. <b>Patrícia Vasconcelos de Resende</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,261 @@
+{
+ "spec": {
+  "id": "sint-42-00248",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Belém - PA",
+  "ano": 2023,
+  "n_dias": 5,
+  "n_atividades": 29,
+  "casos": [
+   "atividades_paralelas",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:10+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 4527
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova Amazônia 2023: Congresso de Bioeconomia e Tecnologia Rural",
+   "local_geral": "Hangar Convenções e Feiras da Amazônia, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-11-06T08:00:00-03:00",
+    "dataFim": "2023-11-06T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-06T09:30:00-03:00",
+    "dataFim": "2023-11-06T11:00:00-03:00",
+    "descricao": "<p>Solenidade oficial com presença de autoridades locais e representantes do setor produtivo. Coordenação de <b>Dr. Marcelo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Inaugural",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-06T11:15:00-03:00",
+    "dataFim": "2023-11-06T12:30:00-03:00",
+    "descricao": "<p>Tema: O Futuro da Cadeia Produtiva Sustentável no Bioma Amazônico. Debatedores: <b>Dra. Simone Alencar</b> e <b>Roberto Nogueira</b>. Moderação por <b>Carlos Eduardo Paiva</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-11-06T12:30:00-03:00",
+    "dataFim": "2023-11-06T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Tapajós",
+    "dataInicio": "2023-11-06T14:00:00-03:00",
+    "dataFim": "2023-11-06T16:00:00-03:00",
+    "descricao": "<p>Biotecnologia e Melhoramento Genético de Espécies Nativas. Coordenação: <b>Profa. Renata Vasconcelos</b>.</p><p>Trabalhos apresentados: <i>Propagação clonal do açaizeiro via embriogênese somática</i> por <b>Juliana Meireles</b>; <i>Resistência a pragas no cultivo do cacau consorciado</i> por <b>Thiago Farias</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Xingu",
+    "dataInicio": "2023-11-06T14:00:00-03:00",
+    "dataFim": "2023-11-06T16:00:00-03:00",
+    "descricao": "<p>Sensoriamento Remoto e Manejo de Precisão. Coordenação: <b>Dr. Fábio Cordeiro</b>.</p><p>Apresentação dos trabalhos: <i>Uso de imagens SAR para monitoramento de pastagens degradadas</i> por <b>Gabriel Barreto</b>; <i>Drones na aplicação foliar de bioinsumos na cultura da mandioca</i> por <b>Mariana Sampaio</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Espaço Café & Conexões",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-11-06T16:00:00-03:00",
+    "dataFim": "2023-11-06T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-06T16:30:00-03:00",
+    "dataFim": "2023-11-06T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e o Pequeno Produtor Rural</i>, ministrada por <b>Henrique Vianna</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático 1",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2023-11-07T09:00:00-03:00",
+    "dataFim": "2023-11-07T12:00:00-03:00",
+    "descricao": "<p>Tema: Análise de Dados Agrometeorológicos com Python. Instrutor: <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Capacitação Tecnológica"
+   },
+   {
+    "nome": "Workshop Prático 2",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2023-11-07T09:00:00-03:00",
+    "dataFim": "2023-11-07T12:00:00-03:00",
+    "descricao": "<p>Tema: Ferramentas GIS Aplicadas ao Cadastro Ambiental Rural (CAR). Instrutora: <b>Bruna Camargo</b>.</p>",
+    "secao": "Capacitação Tecnológica"
+   },
+   {
+    "nome": "Painel 2",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-07T14:00:00-03:00",
+    "dataFim": "2023-11-07T16:00:00-03:00",
+    "descricao": "<p>Tema: Crédito de Carbono e Financiamento Verde na Amazônia. Participantes: <b>Luciana Aragão</b>, <b>Paulo Sérgio Mendonça</b> e <b>Beatriz Brandão</b>. Mediado por <b>Arthur Pires</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel 3",
+    "lugar": "Auditório Marajó",
+    "dataInicio": "2023-11-07T14:00:00-03:00",
+    "dataFim": "2023-11-07T16:00:00-03:00",
+    "descricao": "<p>Tema: Cadeias Produtivas da Sociobiodiversidade e Acesso ao Mercado Global. Palestrantes: <b>Manoel Silva</b> e <b>Eunice Tremembé</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mostra de Inovação Aberta",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2023-11-07T16:30:00-03:00",
+    "dataFim": "2023-11-07T18:30:00-03:00",
+    "descricao": "<p>Exposição de soluções tecnológicas desenvolvidas por agtechs da Região Norte. Coordenador da mostra: <b>Sandro Pimentel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-08T09:00:00-03:00",
+    "dataFim": "2023-11-08T11:00:00-03:00",
+    "descricao": "<p>Tema: Rastreabilidade e Certificação de Origem para Exportação. Convidados: <b>Patrícia Figueiredo</b> e <b>Waldir Queiroz</b>. Coordenação: <b>Elaine Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Tapajós",
+    "dataInicio": "2023-11-08T11:15:00-03:00",
+    "dataFim": "2023-11-08T12:45:00-03:00",
+    "descricao": "<p>Sistemas Agroflorestais e Recuperação Produtiva. Coordenação: <b>Prof. Gilberto Assis</b>.</p><p>Trabalhos: <i>Viabilidade econômica de SAFs de dendê e mandioca</i> por <b>Tatiane Rocha</b>; <i>Balanço de nutrientes em solos manejados sob consórcios agroecológicos</i> por <b>Felipe Bastos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala Xingu",
+    "dataInicio": "2023-11-08T11:15:00-03:00",
+    "dataFim": "2023-11-08T12:45:00-03:00",
+    "descricao": "<p>Automação e Robótica na Pós-colheita. Coordenação: <b>Dra. Camila Toledo</b>.</p><p>Trabalhos: <i>Classificador óptico para frutos de açaí baseado em visão computacional</i> por <b>Rodrigo Lemos</b>; <i>Despolpamento mecânico de cupuaçu com controle térmico automatizado</i> por <b>Aline Fonseca</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-11-08T12:45:00-03:00",
+    "dataFim": "2023-11-08T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demoday Agtech Amazônia",
+    "lugar": "Auditório Marajó",
+    "dataInicio": "2023-11-08T14:00:00-03:00",
+    "dataFim": "2023-11-08T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pitches de startups para fundos de venture capital e investidores-anjo. Bancada de jurados: <b>Cristina Beltrão</b>, <b>Lucas Gontijo</b> e <b>Rodrigo Santoro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel 4",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-09T09:00:00-03:00",
+    "dataFim": "2023-11-09T10:45:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial e Predição de Safras em Condições Tropicais Úmidas. Palestrantes: <b>Alexandre Matos</b> e <b>Tereza Cristina Neves</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel 5",
+    "lugar": "Auditório Marajó",
+    "dataInicio": "2023-11-09T09:00:00-03:00",
+    "dataFim": "2023-11-09T10:45:00-03:00",
+    "descricao": "<p>Tema: Logística Fluvial e Desafios de Escoamento para o Agronegócio Sustentável. Palestrantes: <b>Vicente Portela</b> e <b>Denise Magalhães</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-11-09T10:45:00-03:00",
+    "dataFim": "2023-11-09T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-09T11:15:00-03:00",
+    "dataFim": "2023-11-09T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Bioinsumos e Controle Biológico na Produção de Grãos no Norte</i>, apresentada por <b>Otávio Mesquita</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios B2B",
+    "lugar": "Sala Tapajós",
+    "dataInicio": "2023-11-09T14:00:00-03:00",
+    "dataFim": "2023-11-09T17:00:00-03:00",
+    "descricao": "<p>Encontros pré-agendados entre cooperativas agrícolas e empresas de tecnologia e logística. Organização: <b>Valéria Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Campo Experimental Embrapa Amazônia Oriental",
+    "dataInicio": "2023-11-10T08:00:00-03:00",
+    "dataFim": "2023-11-10T11:30:00-03:00",
+    "descricao": "<p>Visita a parcelas experimentais de integração Lavoura-Pecuária-Floresta (ILPF). Condução técnica: <b>Dr. Rogério Cavalcante</b> e <b>Dra. Cecília Morais</b>.</p>",
+    "secao": "Atividades Externas"
+   },
+   {
+    "nome": "Fórum de Políticas Públicas",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-10T14:00:00-03:00",
+    "dataFim": "2023-11-10T16:00:00-03:00",
+    "descricao": "<p>Tema: Marcos Regulatórios para a Bioeconomia no Brasil. Coordenador da mesa: <b>Danilo Albuquerque</b>. Painelistas: <b>Mércia Carvalho</b> e <b>Joaquim Ferreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Resultados das Sessões",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-10T16:00:00-03:00",
+    "dataFim": "2023-11-10T17:00:00-03:00",
+    "descricao": "<p>Síntese dos encaminhamentos técnicos e científicos aprovados no congresso, apresentada por <b>Profa. Renata Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-10T17:00:00-03:00",
+    "dataFim": "2023-11-10T18:00:00-03:00",
+    "descricao": "<p>Entrega dos prêmios <i>Inovação Rural Amazônica 2023</i> para as melhores pesquisas e startups do evento. Entrega conduzida por <b>Dr. Marcelo Guimarães</b> e <b>Dra. Simone Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Oficial",
+    "lugar": "Auditório Castanheira",
+    "dataInicio": "2023-11-10T18:00:00-03:00",
+    "dataFim": "2023-11-10T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coquetel Cultural de Despedida",
+    "lugar": "Varanda dos Buritis",
+    "dataInicio": "2023-11-10T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização com gastronomia paraense e apresentação do <b>Grupo Regional Sons da Terra</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

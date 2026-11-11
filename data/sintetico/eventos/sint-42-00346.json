@@ -1,0 +1,230 @@
+{
+ "spec": {
+  "id": "sint-42-00346",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim",
+   "intervalos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:37+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 3688
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXXII Jogos Universitários Cariocas - JUCs 2025",
+   "local_geral": "Centro Esportivo Universitário da UFRJ, Ilha do Fundão, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento das Delegações e Retirada de Kits",
+    "lugar": "Hall do Ginásio Poliesportivo",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Recepção dos chefes de delegação e atletas com a coordenadora geral <b>Juliana Meireles</b> para entrega de crachás, uniformes e regulamentos.</p>",
+    "secao": "Recepção e Administrativo"
+   },
+   {
+    "nome": "Congresso Técnico Geral",
+    "lugar": "Auditório Central de Educação Física",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Sorteio das chaves finais e validação das súmulas conduzida pelo árbitro-geral <b>Rodrigo Albuquerque</b>.</p>",
+    "secao": "Recepção e Administrativo"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": null,
+    "dataInicio": "2025-05-16T11:30:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Central de Educação Física",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:00:00-03:00",
+    "descricao": "<p>Palestra com o tema <i>A Importância do Preparo Psicológico e do Suporte Emocional Multidisciplinar para Jovens Atletas Universitários de Alto Rendimento no Cenário Contemporâneo</i>, ministrada pela psicóloga esportiva <b>Mariana Fagundes</b>.</p>",
+    "secao": "Formação e Saúde Esportiva"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Prevenção de Lesões",
+    "lugar": "Sala de Fisioterapia Aplicada",
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Treinamento funcional e cinesioterapia com o fisioterapeuta <b>Marcos Vinícius Prado</b> com a oficina <i>Estratégias de Aquecimento Neuromuscular Dinâmico</i>.</p>",
+    "secao": "Formação e Saúde Esportiva"
+   },
+   {
+    "nome": "Cerimônia Oficial de Abertura e Desfile dos Cursos",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura do evento com entrada solene das delegações, acendimento da pira com a ex-atleta olímpica <b>Beatriz Mendonça</b> e juramento do atleta com <b>Lucas Vasconcellos</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Torneio de Futsal Masculino - Fase de Grupos",
+    "lugar": "Quadra Poliesportiva 1",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Partidas classificatórias da primeira fase coordenadas pelo professor <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": "Torneios e Competições"
+   },
+   {
+    "nome": "Torneio de Voleibol Feminino - Fase de Grupos",
+    "lugar": "Quadra Poliesportiva 2",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Jogos classificatórios do voleibol universitário feminino sob arbitragem de <b>Simone Barreto</b>.</p>",
+    "secao": "Torneios e Competições"
+   },
+   {
+    "nome": "Competição de Natação - Provas Eliminatórias",
+    "lugar": "Parque Aquático Universitário",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:45:00-03:00",
+    "descricao": "<p>Disputas dos 50m livre, 100m peito e 200m medley, sob supervisão técnica do técnico <b>Fernando Castilho</b>.</p>",
+    "secao": "Torneios e Competições"
+   },
+   {
+    "nome": "Pausa para Hidratação e Frutas",
+    "lugar": null,
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Universitário",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": "2025-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Central de Educação Física",
+    "dataInicio": "2025-05-17T13:30:00-03:00",
+    "dataFim": "2025-05-17T15:00:00-03:00",
+    "descricao": "<p>Apresentação de <b>Thiago Rezende</b> com a palestra <i>Gestão Financeira Sustentável e Captação de Patrocínio Privado para Associações Atléticas Acadêmicas no Esporte Amador Universitário Nacional</i>.</p>",
+    "secao": "Formação e Saúde Esportiva"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Sala de Dança e Ginástica",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Treinamento coordenado por <b>Larissa Gusmão</b> com o tema <i>Metodologias Básicas de Treinamento Técnico e Segurança em Elevações Acrobáticas para Equipes de Cheerleading Universitário</i>.</p>",
+    "secao": "Formação e Saúde Esportiva"
+   },
+   {
+    "nome": "Torneio de Basquete 3x3 - Etapa Única",
+    "lugar": null,
+    "dataInicio": "2025-05-17T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Jogos eliminatórios de basquetebol de rua masculino e feminino, com organização de <b>Felipe Dornelles</b>.</p>",
+    "secao": "Torneios e Competições"
+   },
+   {
+    "nome": "Torneio de Judô Universitário",
+    "lugar": "Dojô do Centro de Lutas",
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": "2025-05-17T19:00:00-03:00",
+    "descricao": "<p>Combates por categorias de peso masculino e feminino, coordenados pelo sensei <b>Otávio Pinheiro</b>.</p>",
+    "secao": "Torneios e Competições"
+   },
+   {
+    "nome": "Batalha das Baterias Universitárias",
+    "lugar": "Tenda Cultural e Palco Aberto",
+    "dataInicio": "2025-05-17T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação competitiva das baterias de atléticas com avaliação do mestre de bateria <b>Henrique Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Finais da Natação e Entrega de Medalhas",
+    "lugar": "Parque Aquático Universitário",
+    "dataInicio": "2025-05-18T08:30:00-03:00",
+    "dataFim": "2025-05-18T10:30:00-03:00",
+    "descricao": "<p>Provas finais e premiação no pódio com a presença do diretor do instituto esportivo <b>Renato Nogueira</b>.</p>",
+    "secao": "Finais e Decisões"
+   },
+   {
+    "nome": "Disputa do 3º Lugar e Final do Voleibol Feminino",
+    "lugar": "Quadra Poliesportiva 2",
+    "dataInicio": "2025-05-18T09:00:00-03:00",
+    "dataFim": "2025-05-18T12:00:00-03:00",
+    "descricao": "<p>Decisão do torneio feminino de voleibol com arbitragem de <b>Simone Barreto</b>.</p>",
+    "secao": "Finais e Decisões"
+   },
+   {
+    "nome": "Coffee Break dos Delegados",
+    "lugar": null,
+    "dataInicio": "2025-05-18T10:30:00-03:00",
+    "dataFim": "2025-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Disputa do 3º Lugar e Final do Futsal Masculino",
+    "lugar": "Quadra Poliesportiva 1",
+    "dataInicio": "2025-05-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Grande final do campeonato masculino com apito inicial do juiz <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": "Finais e Decisões"
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": null,
+    "dataInicio": "2025-05-18T12:30:00-03:00",
+    "dataFim": "2025-05-18T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Cheerleading",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2025-05-18T14:30:00-03:00",
+    "dataFim": "2025-05-18T16:00:00-03:00",
+    "descricao": "<p>Mostra competitiva de rotinas de dança e acrobacias das equipes universitárias, sob jurado técnico de <b>Larissa Gusmão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação Geral",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2025-05-18T16:30:00-03:00",
+    "dataFim": "2025-05-18T18:00:00-03:00",
+    "descricao": "<p>Anúncio da atlética campeã geral e entrega do Troféu Eficiência com a coordenadora <b>Juliana Meireles</b> e o reitor <b>Paulo Sérgio Lacerda</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Festa Oficial de Confraternização dos Jogos",
+    "lugar": null,
+    "dataInicio": "2025-05-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração de encerramento do evento reunindo todas as delegações com o DJ <b>Gabriel Mattos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,270 @@
+{
+ "spec": {
+  "id": "sint-42-00227",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 30,
+  "casos": [
+   "titulos_longos",
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:23+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 3631
+ },
+ "saida": {
+  "evento": {
+   "nome": "Amazonas Game Jam & Code Marathon 2027",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Entrega de Kits",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-04-16T08:00:00-03:00",
+    "dataFim": "2027-04-16T09:30:00-03:00",
+    "descricao": "<p>Recepção dos participantes e validação das equipes credenciadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-16T09:30:00-03:00",
+    "dataFim": "2027-04-16T10:30:00-03:00",
+    "descricao": "<p>Apresentação das diretrizes com <b>Thiago Frota</b> e anúncio surpresa do tema unificado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-16T10:45:00-03:00",
+    "dataFim": "2027-04-16T11:45:00-03:00",
+    "descricao": "<p>Apresentação de <i>Desenvolvimento sustentável de motores gráficos de alta fidelidade e baixo consumo energético em sistemas embarcados e dispositivos computacionais móveis</i> conduzida por <b>Dra. Juliana Guimarães</b>.</p>",
+    "secao": "Palestras de Abertura"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Cupuaçu",
+    "dataInicio": "2027-04-16T10:45:00-03:00",
+    "dataFim": "2027-04-16T12:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Shaders e Renderização Procedural em Godot 4</i> com o instrutor <b>Marcos Vinícius Siqueira</b>.</p>",
+    "secao": "Workshops de Inicialização"
+   },
+   {
+    "nome": "Início da Prototipação",
+    "lugar": "Arena Dev",
+    "dataInicio": "2027-04-16T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Início oficial da contagem regressiva para desenvolvimento dos projetos da maratona e da game jam.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-04-16T12:00:00-03:00",
+    "dataFim": "2027-04-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Espaço Colaborativo",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T16:00:00-03:00",
+    "descricao": "<p>Suporte em arquitetura de software e game design com <b>Camila Brito</b> e <b>Carlos Eduardo Viana</b>.</p>",
+    "secao": "Mentorias Técnicas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório Cupuaçu",
+    "dataInicio": "2027-04-16T14:30:00-03:00",
+    "dataFim": "2027-04-16T16:00:00-03:00",
+    "descricao": "<p>Workshop sobre <i>Pipelines de Áudio Adaptativo Utilizando FMOD e Bancos de Sons Regionais</i> conduzido por <b>Larissa Paiva</b>.</p>",
+    "secao": "Workshops de Inicialização"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Mezanino",
+    "dataInicio": "2027-04-16T16:30:00-03:00",
+    "dataFim": "2027-04-16T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-16T17:30:00-03:00",
+    "dataFim": "2027-04-16T18:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Mercado de Jogos Independentes no Norte do Brasil: Desafios e Oportunidades</i> mediado por <b>Ewerton Vasconcelos</b> com os debatedores <b>Beatriz Mendonça</b> e <b>Rodrigo Assis</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Checkpoint de Validação",
+    "lugar": "Arena Dev",
+    "dataInicio": "2027-04-16T19:00:00-03:00",
+    "dataFim": "2027-04-16T20:30:00-03:00",
+    "descricao": "<p>Verificação de escopo e alinhamento dos protótipos com a banca preliminar.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Corujão Dev",
+    "lugar": "Arena Dev",
+    "dataInicio": "2027-04-16T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço aberto para programação contínua na madrugada sob monitoria de suporte técnico.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã dos Hackers",
+    "lugar": "Mezanino",
+    "dataInicio": "2027-04-17T07:30:00-03:00",
+    "dataFim": "2027-04-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-17T09:00:00-03:00",
+    "dataFim": "2027-04-17T10:15:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Otimização de rotinas assíncronas e gerência eficiente de memória com Rust em infraestruturas distribuídas para jogos massivos</i> ministrada por <b>Fernando Albuquerque</b>.</p>",
+    "secao": "Palestras Avançadas"
+   },
+   {
+    "nome": "Minicurso Especial",
+    "lugar": "Laboratório Cupuaçu",
+    "dataInicio": "2027-04-17T09:00:00-03:00",
+    "dataFim": "2027-04-17T11:00:00-03:00",
+    "descricao": "<p>Instrução de <i>Inteligência Artificial Não Jogável: Da Teoria dos Grafos às Redes Neurais Rápidas</i> com <b>Patrícia Nogueira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Arena Dev",
+    "dataInicio": "2027-04-17T10:30:00-03:00",
+    "dataFim": "2027-04-17T12:00:00-03:00",
+    "descricao": "<p>Sessão de mentoria com ênfase em usabilidade e performance conduzida por <b>Carlos Eduardo Viana</b> e <b>Aline Fonseca</b>.</p>",
+    "secao": "Mentorias Técnicas"
+   },
+   {
+    "nome": "Almoço dos Times",
+    "lugar": null,
+    "dataInicio": "2027-04-17T12:00:00-03:00",
+    "dataFim": "2027-04-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2027-04-17T14:00:00-03:00",
+    "dataFim": "2027-04-17T15:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Metodologias ágeis aplicadas ao desenvolvimento contínuo de artefatos digitais interativos sob forte restrição temporal e orçamentária</i> conduzida por <b>Mariana Xerez</b>.</p>",
+    "secao": "Palestras Avançadas"
+   },
+   {
+    "nome": "Playtest Guiado",
+    "lugar": "Lounge Gamer",
+    "dataInicio": "2027-04-17T14:00:00-03:00",
+    "dataFim": "2027-04-17T16:30:00-03:00",
+    "descricao": "<p>Testes cruzados de mecânica entre as equipes participantes supervisionados por <b>Lucas Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Ginástica Laboral",
+    "lugar": "Área Externa",
+    "dataInicio": "2027-04-17T16:30:00-03:00",
+    "dataFim": "2027-04-17T17:00:00-03:00",
+    "descricao": "<p>Atividade ergonômica e relaxamento com o fisioterapeuta <b>Danilo Queiroz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Espaço Colaborativo",
+    "dataInicio": "2027-04-17T18:00:00-03:00",
+    "dataFim": "2027-04-17T20:00:00-03:00",
+    "descricao": "<p>Revisão de pitching e preparação dos builds com <b>Thiago Frota</b> e <b>Camila Brito</b>.</p>",
+    "secao": "Mentorias Técnicas"
+   },
+   {
+    "nome": "Ceia Noturna",
+    "lugar": "Mezanino",
+    "dataInicio": "2027-04-17T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sprint Final de Código",
+    "lugar": "Arena Dev",
+    "dataInicio": "2027-04-18T00:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Horário reservado para congelamento de escopo e finalização de bugs.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã Final",
+    "lugar": "Mezanino",
+    "dataInicio": "2027-04-18T07:30:00-03:00",
+    "dataFim": "2027-04-18T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento das Submissões",
+    "lugar": "Arena Dev",
+    "dataInicio": "2027-04-18T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Bloqueio do repositório oficial e entrega de links de executáveis.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra Pública de Jogos",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-04-18T10:30:00-03:00",
+    "dataFim": "2027-04-18T13:00:00-03:00",
+    "descricao": "<p>Estandes com os projetos abertos à comunidade e visitantes externos para avaliação popular.</p>",
+    "secao": "Avaliação dos Projetos"
+   },
+   {
+    "nome": "Avaliação da Banca Examinadora",
+    "lugar": "Sala de Reuniões Rio Madeira",
+    "dataInicio": "2027-04-18T10:30:00-03:00",
+    "dataFim": "2027-04-18T13:00:00-03:00",
+    "descricao": "<p>Avaliação técnica das submissões pelos jurados convidados <b>Valéria Amazonas</b>, <b>Roberto Seixas</b> e <b>Dra. Juliana Guimarães</b>.</p>",
+    "secao": "Avaliação dos Projetos"
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Pátio Central",
+    "dataInicio": "2027-04-18T13:00:00-03:00",
+    "dataFim": "2027-04-18T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Finalistas",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-18T14:30:00-03:00",
+    "dataFim": "2027-04-18T16:30:00-03:00",
+    "descricao": "<p>Apresentação curta em formato pitch das 10 melhores soluções da maratona e jogos da jam com mediação de <b>Thiago Frota</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-18T17:00:00-03:00",
+    "dataFim": "2027-04-18T18:30:00-03:00",
+    "descricao": "<p>Divulgação dos vencedores de cada categoria e entrega dos troféus pelos organizadores <b>Thiago Frota</b> e <b>Valéria Amazonas</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

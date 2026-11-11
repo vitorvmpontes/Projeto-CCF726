@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-42-00364",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Niterói - RJ",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "subtitulo_separado",
+   "intervalos",
+   "nomes_repetidos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:55+00:00",
+ "uso_tokens": {
+  "entrada": 699,
+  "saida": 784
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum de Autoavaliação Institucional da CPA",
+   "local_geral": "Campus Gragoatá - Universidade Federal Fluminense, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Café de Boas-Vindas",
+    "lugar": "Hall do Bloco O",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": "Auditório Esperança Garcia",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T11:45:00-03:00",
+    "descricao": "<p>Tema: Desafios da Autoavaliação frente às Novas Diretrizes Curriculares</p><p>Coordenação: <b>Dra. Mariana Vasconcellos</b>.</p><p>Apresentação dos trabalhos:</p><p><i>1. Indicadores de Permanência e Evasão na Graduação</i> por <b>Prof. Carlos Eduardo Linhares</b>.</p><p><i>2. A Percepção Discente sobre Infraestrutura e Acessibilidade</i> por <b>Dra. Juliana Prado Meireles</b> e <b>Msc. Roberto Silveira</b>.</p>",
+    "secao": "Ciclo de Debates Institucionais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:00:00-03:00",
+    "dataFim": "2026-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": "Sala de Seminários 204",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:30:00-03:00",
+    "descricao": "<p>Tema: O Papel da CPA no Planejamento Estratégico e PDI</p><p>Coordenação: <b>Prof. Fernando Gusmão</b>.</p><p>Comunicações orais:</p><p><i>1. Integração entre Avaliação Docente e Planos de Capacitação</i> apresentada por <b>Profa. Beatriz Fontes</b>.</p><p><i>2. Transparência Pública e Devolutiva dos Resultados à Comunidade Externa</i> apresentada por <b>Dr. Henrique Alcantara</b>.</p>",
+    "secao": "Ciclo de Debates Institucionais"
+   }
+  ]
+ }
+}

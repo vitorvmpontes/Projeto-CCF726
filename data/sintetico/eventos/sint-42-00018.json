@@ -1,0 +1,254 @@
+{
+ "spec": {
+  "id": "sint-42-00018",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Viçosa - MG",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 28,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:51+00:00",
+ "uso_tokens": {
+  "entrada": 687,
+  "saida": 4491
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIII Mostra Integrada de Extensão Universitária da UFV",
+   "local_geral": "Campus Universitário da Universidade Federal de Viçosa (UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Espaço Multiuso",
+    "dataInicio": "2024-10-22T08:00:00-03:00",
+    "dataFim": "2024-10-22T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Fernando Sabino",
+    "dataInicio": "2024-10-22T09:30:00-03:00",
+    "dataFim": "2024-10-22T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Pró-Reitor de Extensão e Cultura <b>Demetrius David da Silva</b> e da Coordenadora Geral <b>Mariana Resende Fontes</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Fernando Sabino",
+    "dataInicio": "2024-10-22T10:30:00-03:00",
+    "dataFim": "2024-10-22T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Extensão Comunitária como Vetor de Transformação Regional</i>. Palestrante convidada: Profa. Dra. <b>Helena Vasconcelos de Arruda</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Feira da Agricultura Familiar e Economia Solidária",
+    "lugar": "Gramado das Quatro Pilastras",
+    "dataInicio": "2024-10-22T12:00:00-03:00",
+    "dataFim": "2024-10-22T18:00:00-03:00",
+    "descricao": "<p>Comercialização e partilha de saberes com pequenos produtores da Zona da Mata mineira, articulada pelo agrônomo <b>Carlos Eduardo Pimentel</b>.</p>",
+    "secao": "Circuito Cultural e Comunitário"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Pátio do CCE",
+    "dataInicio": "2024-10-22T14:00:00-03:00",
+    "dataFim": "2024-10-22T16:00:00-03:00",
+    "descricao": "<p>Sessão 1 do eixo temático Desenvolvimento Rural e Agroecologia. Avaliação conduzida pelo Prof. <b>Tiago Mendonça Vieira</b>.</p>",
+    "secao": "Sessões de Painéis"
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 101 do PVA",
+    "dataInicio": "2024-10-22T14:00:00-03:00",
+    "dataFim": "2024-10-22T17:30:00-03:00",
+    "descricao": "<p>Eixo: Direitos Humanos e Cidadania. Apresentação do projeto <i>Vozes do Campo: Assessoria Jurídica Popular</i> por <b>Juliana Nogueira Lima</b>, sob tutoria do Prof. <b>Rodrigo Castro Mendes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 103 do PVA",
+    "dataInicio": "2024-10-22T14:00:00-03:00",
+    "dataFim": "2024-10-22T17:30:00-03:00",
+    "descricao": "<p>Eixo: Educação e Relações Étnico-Raciais. Apresentação do trabalho <i>Brincadeiras Quilombolas e Práticas Pedagógicas</i> pela extensionista <b>Larissa Batista de Paula</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório da Engenharia Florestal",
+    "dataInicio": "2024-10-22T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo: <i>Desafios da Curricularização da Extensão nos Cursos de Bacharelado</i>. Facilitação: <b>Patrícia Carvalho Sampaio</b> e mediação de <b>Marcos André Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 2 - CCE",
+    "dataInicio": "2024-10-23T08:00:00-03:00",
+    "dataFim": "2024-10-23T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento Colaborativo com OpenStreetMap para Gestão de Bairros Periféricos</i>. Instrutor: <b>Felipe Guimarães Couto</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala 204 do PVA II",
+    "dataInicio": "2024-10-23T08:00:00-03:00",
+    "dataFim": "2024-10-23T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias Participativas para Diagnóstico Socioambiental</i>. Ministrado pela Profa. <b>Clarice Amaral dos Anjos</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Feira da Agricultura Familiar e Economia Solidária",
+    "lugar": "Gramado das Quatro Pilastras",
+    "dataInicio": "2024-10-23T09:00:00-03:00",
+    "dataFim": "2024-10-23T17:00:00-03:00",
+    "descricao": "<p>Espaço de troca de experiências comunitárias, comercialização direta e oficinas práticas com produtores, sob coordenação de <b>Carlos Eduardo Pimentel</b>.</p>",
+    "secao": "Circuito Cultural e Comunitário"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-23T12:00:00-03:00",
+    "dataFim": "2024-10-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Pátio do CCE",
+    "dataInicio": "2024-10-23T14:00:00-03:00",
+    "dataFim": "2024-10-23T16:00:00-03:00",
+    "descricao": "<p>Sessão 2 do eixo Saúde Coletiva e Bem-Estar Animal. Coordenação de <b>Aline Fonseca Brandão</b>.</p>",
+    "secao": "Sessões de Painéis"
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 101 do PVA",
+    "dataInicio": "2024-10-23T14:00:00-03:00",
+    "dataFim": "2024-10-23T17:30:00-03:00",
+    "descricao": "<p>Eixo: Inovação Tecnológica e Sustentabilidade. Trabalho apresentado: <i>Implantação de Biodigestores em Propriedades Familiares</i> pelo aluno <b>Bruno Fagundes Lima</b>, com orientação do Prof. <b>Samuel Rocha Prado</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 103 do PVA",
+    "dataInicio": "2024-10-23T14:00:00-03:00",
+    "dataFim": "2024-10-23T17:30:00-03:00",
+    "descricao": "<p>Eixo: Cultura e Linguagens. Apresentação do projeto <i>Memória Oral e Patrimônio Imaterial de Viçosa</i> por <b>Natália Xavier Teles</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Cine-Debate Extensionista",
+    "lugar": "Auditório da Coordenadoria de Educação Aberta e a Distância",
+    "dataInicio": "2024-10-23T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exibição de curtas-metragens universitários seguida de debate mediado pelo documentarista <b>Lucas Morais Faria</b> e pela pesquisadora <b>Renata Álvares Diniz</b>.</p>",
+    "secao": "Circuito Cultural e Comunitário"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 2 - CCE",
+    "dataInicio": "2024-10-24T08:00:00-03:00",
+    "dataFim": "2024-10-24T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento Colaborativo com OpenStreetMap para Gestão de Bairros Periféricos (Módulo Prático)</i>. Instrutor: <b>Felipe Guimarães Couto</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Oficina Comunitária",
+    "lugar": "Sede da Associação de Moradores do Bairro Silvestre",
+    "dataInicio": "2024-10-24T08:30:00-03:00",
+    "dataFim": "2024-10-24T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo Ecológico de Hortas Urbanas e Quintais Produtivos</i>. Coordenada pelos extensionistas <b>Gustavo Henrique Soares</b> e <b>Beatriz Alvarenga Silva</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Feira da Agricultura Familiar e Economia Solidária",
+    "lugar": "Gramado das Quatro Pilastras",
+    "dataInicio": "2024-10-24T09:00:00-03:00",
+    "dataFim": "2024-10-24T17:00:00-03:00",
+    "descricao": "<p>Continuação das trocas comunitárias e mostra de artesanato local, com apoio técnico do agrônomo <b>Carlos Eduardo Pimentel</b>.</p>",
+    "secao": "Circuito Cultural e Comunitário"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Pátio do CCE",
+    "dataInicio": "2024-10-24T14:00:00-03:00",
+    "dataFim": "2024-10-24T16:00:00-03:00",
+    "descricao": "<p>Sessão 3 do eixo Educação Básica e Políticas Públicas. Avaliador coordenador: Prof. <b>Henrique Duarte Ramos</b>.</p>",
+    "secao": "Sessões de Painéis"
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório do Departamento de Economia Rural",
+    "dataInicio": "2024-10-24T14:00:00-03:00",
+    "dataFim": "2024-10-24T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mulheres, Cooperativismo e Redes de Abastecimento Solidário</i>. Participação de <b>Marinalva da Conceição</b>, liderança sindical, da pesquisadora Profa. <b>Vânia Borges Esteves</b> e mediação de <b>Gisele Maria Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervenção Teatral",
+    "lugar": "Espaço Aberto em frente ao RU",
+    "dataInicio": "2024-10-24T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espetáculo <i>Contos e Cantos da Nossa Gente</i> com o Grupo de Teatro Universitário <b>Terra e Arte</b>, direção de <b>Camila Valadares</b>.</p>",
+    "secao": "Circuito Cultural e Comunitário"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Salão Nobre do Edifício Arthur Bernardes",
+    "dataInicio": "2024-10-24T18:30:00-03:00",
+    "dataFim": "2024-10-24T20:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Extensão e Movimentos Sociais: Alianças Históricas e Novos Horizontes</i>. Convidados: <b>João Pedro Antunes</b> e a assistente social <b>Tereza Cristina Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Avaliação dos Trabalhos Destaque",
+    "lugar": "Sala de Reuniões da Pró-Reitoria de Extensão",
+    "dataInicio": "2024-10-25T08:30:00-03:00",
+    "dataFim": "2024-10-25T11:00:00-03:00",
+    "descricao": "<p>Reunião do comitê de mérito composto pelos professores <b>Antônio Marcos Lourenço</b>, <b>Sabrina Kelly Fonseca</b> e <b>Wagner Martins de Oliveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Comunitária",
+    "lugar": "Laboratório de Educação em Solos - DER",
+    "dataInicio": "2024-10-25T09:00:00-03:00",
+    "dataFim": "2024-10-25T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Tintas Naturais com Solos Coloridos para Escolas Rurais</i>. Ministrante: <b>Priscila Neves Barreto</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Concha Acústica da UFV",
+    "dataInicio": "2024-10-25T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Concerto da <b>Orquestra de Viola Caipira de Viçosa</b> sob a regência do maestro <b>Sebastião Gonzaga</b>.</p>",
+    "secao": "Circuito Cultural e Comunitário"
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento e Premiação",
+    "lugar": "Auditório Fernando Sabino",
+    "dataInicio": "2024-10-25T14:30:00-03:00",
+    "dataFim": "2024-10-25T16:30:00-03:00",
+    "descricao": "<p>Divulgação dos projetos laureados com o Prêmio Extensão Destaque 2024, presidida por <b>Mariana Resende Fontes</b> e pelo Reitor <b>Demetrius David da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização de Encerramento",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2024-10-25T16:30:00-03:00",
+    "dataFim": "2024-10-25T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

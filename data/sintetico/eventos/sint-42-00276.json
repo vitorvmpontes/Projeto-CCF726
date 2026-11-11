@@ -1,0 +1,188 @@
+{
+ "spec": {
+  "id": "sint-42-00276",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Manaus - AM",
+  "ano": 2023,
+  "n_dias": 4,
+  "n_atividades": 20,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:25+00:00",
+ "uso_tokens": {
+  "entrada": 647,
+  "saida": 2939
+ },
+ "saida": {
+  "evento": {
+   "nome": "Sabores da Floresta: Festival Gastronômico Amazônico 2023",
+   "local_geral": "Centro Cultural Povos da Amazônia, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-19T17:00:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Abertura oficial do festival com as boas-vindas do curador <b>Thiago Castanho</b> e representantes da cultura gastronômica local.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-10-19T18:30:00-03:00",
+    "dataFim": "2023-10-19T19:45:00-03:00",
+    "descricao": "<p>Apresentação de <i>Alquimia do Tucupi e Peixes Nativos</i> conduzida pela chef <b>Debora Valente</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Degustação de Cachaças Regionais",
+    "lugar": "Espaço Mixologia & Bebidas",
+    "dataInicio": "2023-10-19T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação e prova guiada pelo sommelier <b>Marcelo Uchôa</b> intitulada <i>A Riqueza das Cachaças de Alambique com Jambu</i>.</p>",
+    "secao": "Harmonizações e Bebidas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-19T20:00:00-03:00",
+    "dataFim": "2023-10-19T21:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Manejo Sustentável do Pirarucu na Amazônia Central</i> com o pesquisador <b>Dr. Raimundo Nonato Ferreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-20T14:30:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Discussão com tema <i>PANC da Amazônia no Cotidiano Urbano</i> mediada pela botânica <b>Valdely Kinupp</b> e pelo gastrônomo <b>Claudio Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": "2023-10-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação culinária de <i>Tambaqui Assado na Brasa com Vinagrete de Camu-Camu</i> pelo chef <b>Felipe Schaedler</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": "2023-10-20T18:30:00-03:00",
+    "descricao": "<p>Aprenda <i>Massa Folhada com Geleia de Cupuaçu e Castanha-do-Brasil</i> com a chef pâtissière <b>Elisângela Matos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-20T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate <i>O Futuro da Cozinha Ribeirinha e a Identidade Cultural</i> com <b>Socorro Martins</b> e <b>Carlos Eduardo Peres</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-10-20T19:30:00-03:00",
+    "dataFim": "2023-10-20T21:00:00-03:00",
+    "descricao": "<p>O chef <b>Saulo Jennings</b> apresenta <i>Arroz Tapajônico e os Segredos dos Rios</i>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Confeitaria",
+    "dataInicio": "2023-10-21T10:00:00-03:00",
+    "dataFim": "2023-10-21T12:30:00-03:00",
+    "descricao": "<p>Prática de <i>Chocolataria Fina com Cacau Nativo da Várzea</i> ministrada pelo mestre chocolatier <b>André Barreto</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2023-10-21T12:30:00-03:00",
+    "dataFim": "2023-10-21T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Fermentação",
+    "lugar": "Laboratório de Gastronomia",
+    "dataInicio": "2023-10-21T14:30:00-03:00",
+    "dataFim": "2023-10-21T16:30:00-03:00",
+    "descricao": "<p>Técnicas com foco em <i>Tarubá e Fermentados Indígenas da Bacia Amazônica</i> com a pesquisadora <b>Iara Kaxinawá</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Coquetelaria",
+    "lugar": "Espaço Mixologia & Bebidas",
+    "dataInicio": "2023-10-21T15:00:00-03:00",
+    "dataFim": "2023-10-21T16:30:00-03:00",
+    "descricao": "<p>Criação prática de <i>Drinques Autorais com Gin Infusionado em Ervas da Floresta</i> com o bartender <b>Luciano Guimarães</b>.</p>",
+    "secao": "Harmonizações e Bebidas"
+   },
+   {
+    "nome": "Aula-Show 4",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-10-21T17:00:00-03:00",
+    "dataFim": "2023-10-21T18:30:00-03:00",
+    "descricao": "<p>Execução do prato <i>Pirarucu Fresco com Crosta de Castanha e Purê de Banana-Pacovã</i> pelo chef <b>Hiroya Takano</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Show Musical Regional",
+    "lugar": "Palco da Praça Cultural",
+    "dataInicio": "2023-10-21T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical ao vivo com a cantora <b>Márcia Novo</b> e repertório de toadas e beiradão.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-22T10:30:00-03:00",
+    "dataFim": "2023-10-22T12:00:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Turismo Gastronômico e Valorização dos Produtores Familiares</i> com <b>Ana Beatriz Mendonça</b> e <b>Jorge Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 5",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2023-10-22T14:00:00-03:00",
+    "dataFim": "2023-10-22T15:30:00-03:00",
+    "descricao": "<p>Apresentação técnica de <i>Sobremesas Modernas à Base de Buriti e Bacuri</i> com a confeiteira <b>Mariana Vasconcelos</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Palestra Magna de Encerramento",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-22T16:00:00-03:00",
+    "dataFim": "2023-10-22T17:30:00-03:00",
+    "descricao": "<p>Conferência especial <i>A Gastronomia Amazônica no Cenário Global</i> apresentada pelo renomado chef <b>Alex Atala</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Entrega do Prêmio Destaque Culinário",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-22T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Solenidade de premiação das melhores receitas do festival, conduzida pela jurada <b>Clarice Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Espaço Mixologia & Bebidas",
+    "dataInicio": "2023-10-22T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Harmonizações e Bebidas"
+   }
+  ]
+ }
+}

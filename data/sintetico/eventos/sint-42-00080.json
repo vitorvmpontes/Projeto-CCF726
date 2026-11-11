@@ -1,0 +1,147 @@
+{
+ "spec": {
+  "id": "sint-42-00080",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Natal - RN",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 15,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:29+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 2343
+ },
+ "saida": {
+  "evento": {
+   "nome": "XV Encontro Potiguar de Fé e Cidadania",
+   "local_geral": "Centro Pastoral Pio X e Catedral Metropolitana de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Materiais",
+    "lugar": "Pátio da Catedral",
+    "dataInicio": "2025-08-14T17:30:00-03:00",
+    "dataFim": "2025-08-14T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Celebração Eucarística de Abertura",
+    "lugar": "Nave Principal da Catedral",
+    "dataInicio": "2025-08-14T19:00:00-03:00",
+    "dataFim": "2025-08-14T20:30:00-03:00",
+    "descricao": "<p>Tema: <i>Esperança e Fraternidade em Terras Potiguares</i>.</p><p>Presidida por <b>Dom Jaime Vieira Rocha</b> e concelebrada pelo <b>Padre Flávio Medeiros</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Momento de Oração Matinal",
+    "lugar": "Capela do Centro Pastoral",
+    "dataInicio": "2025-08-15T08:00:00-03:00",
+    "dataFim": "2025-08-15T08:45:00-03:00",
+    "descricao": "<p>Conduzido pela <b>Irmã Lúcia Albuquerque</b> com a participação do Ministério de Música Emanuel.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Dom Nivaldo Monte",
+    "dataInicio": "2025-08-15T09:00:00-03:00",
+    "dataFim": "2025-08-15T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Cuidado com a Casa Comum: O Clamor dos Pobres e da Terra no Semiárido</i>.</p><p>Palestrante: <b>Profa. Dra. Maria do Socorro Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2025-08-15T12:00:00-03:00",
+    "dataFim": "2025-08-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-08-15T14:00:00-03:00",
+    "dataFim": "2025-08-15T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Práticas de Hortas Urbanas e Soberania Alimentar nas Paróquias</i>.</p><p>Facilitação de <b>Antônio Marcos Bezerra</b> e <b>Clarissa Figueiredo</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala 105",
+    "dataInicio": "2025-08-15T14:00:00-03:00",
+    "dataFim": "2025-08-15T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Comunicação Popular e Redes Comunitárias de Apoio</i>.</p><p>Ministrada pelo jornalista <b>Gabriel Arcanjo Saraiva</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Círculo Bíblico da Manhã",
+    "lugar": "Jardim das Oliveiras",
+    "dataInicio": "2025-08-16T08:30:00-03:00",
+    "dataFim": "2025-08-16T10:00:00-03:00",
+    "descricao": "<p>Meditação do texto bíblico de Miqueias com facilitação do <b>Diácono Roberto Carlos Neves</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Dom Nivaldo Monte",
+    "dataInicio": "2025-08-16T10:30:00-03:00",
+    "dataFim": "2025-08-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas Públicas e Protagonismo Juvenil nas Periferias Urbanas</i>.</p><p>Expositores: <b>Dra. Fabiana Mendonça</b> e o líder comunitário <b>Tiago Lima</b>. Moderação de <b>Renata Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2025-08-16T14:00:00-03:00",
+    "dataFim": "2025-08-16T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Economia Solidária e Cooperativismo de Base</i>.</p><p>Instrutora: <b>Tereza Cristina de Melo</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2025-08-16T14:00:00-03:00",
+    "dataFim": "2025-08-16T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Musicalidade Litúrgica e Expressão Corporal no Culto</i>.</p><p>Com coordenação de <b>Carlos Eduardo Souto</b> e <b>Aline Morais</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Noite Cultural e Vigília Solidária",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-08-16T19:30:00-03:00",
+    "dataFim": "2025-08-16T22:00:00-03:00",
+    "descricao": "<p>Apresentação dos violeiros populares sob coordenação do mestre <b>Zé do Cordel</b> e momento de oração conduzido pela <b>Pastoral da Juventude de Natal</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa de Envio e Compromisso",
+    "lugar": "Nave Principal da Catedral",
+    "dataInicio": "2025-08-17T09:00:00-03:00",
+    "dataFim": "2025-08-17T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ide e Transformai: A Missão Continua na Comunidade</i>.</p><p>Celebrada por <b>Dom Valdir Mamede</b> com a participação do coral Vozes do Potengi.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Assembleia Geral dos Delegados",
+    "lugar": "Auditório Dom Nivaldo Monte",
+    "dataInicio": "2025-08-17T11:30:00-03:00",
+    "dataFim": "2025-08-17T13:00:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta Compromisso de Natal por Justiça e Fraternidade</i>, coordenada por <b>Helena Cavalcanti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Bênção Final e Despedida",
+    "lugar": "Pátio da Catedral",
+    "dataInicio": "2025-08-17T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

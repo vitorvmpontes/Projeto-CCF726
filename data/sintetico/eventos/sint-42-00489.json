@@ -1,0 +1,155 @@
+{
+ "spec": {
+  "id": "sint-42-00489",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 16,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:40+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 3072
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Congresso Mineiro de Direito Processual e Inovação Jurisdicional",
+   "local_geral": "Centro de Convenções Center Convention Uberlândia"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Central",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pela presidente da comissão organizadora, Dra. <b>Patrícia Guimarães Rezende</b>, com pronunciamento dos representantes das entidades apoiadoras e do Tribunal de Justiça de Minas Gerais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda I",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-16T10:15:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial e a Valoração da Prova no Processo Civil</i>.</p><p>Coordenação: Des. <b>Marcus Vinícius Fagundes</b>.</p><p>Palestrantes: Profa. Dra. <b>Camila Duarte Alencar</b> abordando <i>Algoritmos Preditivos e Vieses Cognitivos nas Decisões Judiciais</i> e Dr. <b>Leandro Silveira Prado</b> apresentando <i>A Cadeia de Custódia da Prova Digital</i>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda II",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Precedentes Vinculantes e a Segurança Jurídica no STJ</i>.</p><p>Coordenadora: Dra. <b>Roberta Mendes Vilela</b>.</p><p>Expositores: Ministro <b>Paulo Sérgio Rangel</b> com a conferência <i>A Função Uniformizadora dos Recursos Repetitivos</i> e Prof. Me. <b>Rodrigo Otávio Bastos</b> debatendo <i>A Técnica da Distinção (Distinguishing) nos Tribunais Estaduais</i>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Painel de Comunicações Científicas A",
+    "lugar": "Sala Triângulo 1",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T17:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos com coordenação do Prof. Dr. <b>Otávio Augusto Neves</b>.</p><p>Trabalhos selecionados:<br/>1. <i>Tutela de Urgência Contra a Fazenda Pública: Limites Interpretativos</i> por <b>Mariana Castro Rios</b>;<br/>2. <i>O Papel do Amicus Curiae na Jurisdição Constitucional Difusa</i> por <b>Felipe Tancredo Moura</b>;<br/>3. <i>Execução Fiscal e Meios Atípicos de Coerção</i> por <b>Juliana Pimenta Godoy</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Painel de Comunicações Científicas B",
+    "lugar": "Sala Triângulo 2",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T17:30:00-03:00",
+    "descricao": "<p>Sessão temática de Direito Processual Coletivo coordenada pela Profa. Dra. <b>Helena Fonseca Siqueira</b>.</p><p>Apresentação das pesquisas:<br/>1. <i>A Coisa Julgada Secundum Eventum Probationis nas Ações Civis Públicas Ambientais</i> apresentada por <b>Lucas Barreto Brandão</b>;<br/>2. <i>Legitimidade Ativa da Defensoria Pública em Tutelas Coletivas</i> por <b>Beatriz Arantes Silvestre</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Lançamento de Livros e Coquetel de Boas-Vindas",
+    "lugar": "Espaço Boulevard",
+    "dataInicio": "2024-05-16T18:00:00-03:00",
+    "dataFim": "2024-05-16T20:00:00-03:00",
+    "descricao": "<p>Sessão de autógrafos das obras coletivas do congresso e confraternização entre palestrantes, congressistas e pesquisadores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda III",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Negócios Jurídicos Processuais e Autonomia Privada no CPC</i>.</p><p>Coordenação dos debates: Prof. <b>Tiago Albuquerque Ferraz</b>.</p><p>Palestrantes convidados: Profa. Dra. <b>Renata Cordeiro Nogueira</b> discutindo <i>Cláusulas de Foro de Eleição e Modificação de Competência</i> e Dr. <b>Gabriel Henrique Vasconcelos</b> analisando <i>Convenções Probatórias na Prática da Arbitragem Comercial</i>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Foyer Master",
+    "dataInicio": "2024-05-17T10:15:00-03:00",
+    "dataFim": "2024-05-17T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda IV",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-17T10:45:00-03:00",
+    "dataFim": "2024-05-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Execução Civil Contemporânea e Medidas Coercitivas Atípicas</i>.</p><p>Coordenadora: Desembargadora <b>Clarissa Fontes Esteves</b>.</p><p>Exposições a cargo de: Dr. <b>Marcelo Diniz Cunha</b> com <i>A Aplicação do Artigo 139, IV do CPC pelo STJ</i> e Dra. <b>Tatiana Meireles Xavier</b> apresentando <i>Apreensão de Passaporte, CNH e Fraude à Execução em Perspectiva Crítica</i>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:30:00-03:00",
+    "dataFim": "2024-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Comunicações Científicas C",
+    "lugar": "Sala Triângulo 1",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Coordenação: Prof. Me. <b>Eduardo Antunes Pires</b>.</p><p>Trabalhos:<br/>1. <i>Mediação Pré-Processual e o Tratamento Adequado de Disputas Empresariais</i> por <b>Clara Valadares Santos</b>;<br/>2. <i>Justiça Restaurativa Aplicada aos Conflitos de Família</i> por <b>Bruno Henrique de Assis</b>;<br/>3. <i>Eficácia dos Termos de Ajustamento de Conduta</i> por <b>Vanessa Mattos Lacerda</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-redonda V",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-17T15:45:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Processo Estrutural e a Concretização de Direitos Fundamentais</i>.</p><p>Coordenação: Dr. <b>Vinícius Caldeira Toledo</b>.</p><p>Participação de: Profa. Dra. <b>Letícia Figueiredo Rocha</b> com o trabalho <i>Planos de Intervenção Judicial e o Controle de Políticas Públicas</i> e Prof. Dr. <b>André Luiz Saraiva</b> explanando <i>O Litígio Estrutural perante o Supremo Tribunal Federal</i>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Conferência Plenária de Encerramento",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": "2024-05-17T19:00:00-03:00",
+    "descricao": "<p>Conferência especial ministrada pelo jurista <b>Nelson Sampaio Borges</b> com o tema <i>Os Desafios do Processo Civil no Século XXI: Entre a Eficiência e as Garantias Fundamentais</i>. A mesa será presidida pela Dra. <b>Patrícia Guimarães Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Entrega dos Prêmios de Mérito Acadêmico",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-05-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Cerimônia de premiação dos melhores trabalhos científicos apresentados durante o congresso, outorgada pela comissão avaliadora presidida pela Profa. Dra. <b>Helena Fonseca Siqueira</b> e encerramento oficial.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

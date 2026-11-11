@@ -1,0 +1,195 @@
+{
+ "spec": {
+  "id": "sint-42-00453",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Fortaleza - CE",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:35+00:00",
+ "uso_tokens": {
+  "entrada": 634,
+  "saida": 3175
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Cearense de Educadores da Educação Básica",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Secretário de Educação <b>Raimundo Nonato Silva</b> e da coordenadora pedagógica <b>Francisca Helena Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2024-05-16T10:15:00-03:00",
+    "dataFim": "2024-05-16T11:45:00-03:00",
+    "descricao": "<p>Conferência sobre o tema <i>Recomposição das Aprendizagens no Contexto Pós-Pandemia: Desafios e Metodologias</i> ministrada pela Profa. Dra. <b>Maria de Lourdes Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 102 - Bloco A",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T17:00:00-03:00",
+    "descricao": "<p>Atividade prática abordando <i>Jogos Didáticos e Letramento Matemático nos Anos Iniciais</i> conduzida pelo Prof. <b>Tiago Holanda Barros</b>.</p>",
+    "secao": "Oficinas de Formação Continuada"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala 104 - Bloco A",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T17:00:00-03:00",
+    "descricao": "<p>Exploração do tema <i>Educação Antirracista na Prática: Narrativas e Materiais para a Sala de Aula</i> orientada pela Profa. <b>Patrícia Regina dos Santos</b>.</p>",
+    "secao": "Oficinas de Formação Continuada"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Laboratório Multimeios",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T17:00:00-03:00",
+    "descricao": "<p>Debate e prática com o tema <i>Ferramentas Digitais e Gamificação para Professores de Ensino Fundamental II</i> com os facilitadores <b>Gilberto Sampaio Mendes</b> e <b>Clarisse Farias</b>.</p>",
+    "secao": "Oficinas de Formação Continuada"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda do Cordel",
+    "dataInicio": "2024-05-16T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de repente e literatura de cordel <i>O Saber Popular Encontra a Sala de Aula</i> com os poetas populares <b>Valdir Teles Filho</b> e <b>Luzia do Carmo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Inclusão e Atendimento Educacional Especializado (AEE) na Escola Pública</i>, mediada por <b>Tereza Cristina Aragão</b>, com relatos de <b>Carlos Eduardo Fontes</b> e <b>Renata Pimentel</b>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Lanche Coletivo",
+    "lugar": "Hall das Amendoeiras",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Painel sobre <i>A Gestão Democrática e a Articulação Comunidade-Escola</i> com o Prof. <b>Marcelo Freitas Aguiar</b> e a diretora escolar <b>Iolanda Cavalcante</b>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Relatos 1",
+    "lugar": "Sala 201 - Bloco B",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de experiência docente: <i>Leitura Compartilhada nas Séries Finais</i> pelo Prof. <b>Antônio Viana Lima</b> e <i>Horta Escolar como Laboratório Vivo</i> pela Profa. <b>Débora Meireles</b>.</p>",
+    "secao": "Comunicação de Práticas Exitosas"
+   },
+   {
+    "nome": "Sessão de Relatos 2",
+    "lugar": "Sala 203 - Bloco B",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Exposição dos projetos: <i>Teatro de Fantoches na Educação Infantil</i> pela educadora <b>Sônia Mara Bezerra</b> e <i>História Local e Memória Oral na Periferia de Fortaleza</i> pelo Prof. <b>Joaquim Castelo</b>.</p>",
+    "secao": "Comunicação de Práticas Exitosas"
+   },
+   {
+    "nome": "Mostra de Banners Pedagógicos",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição de pôsteres com projetos inovadores das escolas de Ensino Fundamental e Médio de Fortaleza e Região Metropolitana, coordenada por <b>Ana Cristina Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala de Dança do Bloco C",
+    "dataInicio": "2024-05-18T08:30:00-03:00",
+    "dataFim": "2024-05-18T10:00:00-03:00",
+    "descricao": "<p>Espaço de escuta e partilha: <i>Cuidado e Saúde Mental do Docente da Educação Básica</i>, facilitada pela psicóloga educacional <b>Beatriz Pontes Maia</b> e pelo orientador <b>Geraldo Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento de Convivência e Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Professores",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T12:00:00-03:00",
+    "descricao": "<p>Elaboração da <i>Carta de Fortaleza por uma Escola Pública de Qualidade</i> sob mediação dos delegados <b>José Aurélio Feitosa</b> e <b>Mônica Brandão Couto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-18T12:00:00-03:00",
+    "dataFim": "2024-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2024-05-18T13:30:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Conferência especial <i>Esperançar em Tempos Incertos: O Futuro da Carreira Docente</i> ministrada pelo educador e sociólogo <b>Otávio Pinheiro Sobrinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato de Encerramento",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2024-05-18T15:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura da carta final e homenagem aos professores aposentados da rede estadual, conduzida por <b>Francisca Helena Vasconcelos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

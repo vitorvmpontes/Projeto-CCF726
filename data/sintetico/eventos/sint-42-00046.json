@@ -1,0 +1,243 @@
+{
+ "spec": {
+  "id": "sint-42-00046",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Natal - RN",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 27,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:00+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 3919
+ },
+ "saida": {
+  "evento": {
+   "nome": "XVIII Encontro de Fé, Esperança e Cidadania",
+   "local_geral": "Centro Pastoral Pio X, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Recepção dos Peregrinos",
+    "lugar": "Pátio São José",
+    "dataInicio": "2027-08-20T14:00:00-03:00",
+    "dataFim": "2027-08-20T16:00:00-03:00",
+    "descricao": "<p>Distribuição de crachás, acomodação das caravanas e entrega dos materiais do encontro sob coordenação de <b>Irmã Clarice Bezerra</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Terço Mariano Comunitário",
+    "lugar": "Nave Central",
+    "dataInicio": "2027-08-20T16:00:00-03:00",
+    "dataFim": "2027-08-20T17:00:00-03:00",
+    "descricao": "<p>Momento devocional inicial conduzido por <b>Diácono Marcos Vinícius</b> com a participação do Coral Vozes da Graça.</p>",
+    "secao": "Celebrações de Abertura"
+   },
+   {
+    "nome": "Missa Solene de Abertura",
+    "lugar": "Nave Central",
+    "dataInicio": "2027-08-20T17:00:00-03:00",
+    "dataFim": "2027-08-20T18:30:00-03:00",
+    "descricao": "<p>Celebração eucarística presidida por <b>Dom Edivaldo Medeiros</b>, com homilia sobre a partilha comunitária.</p>",
+    "secao": "Celebrações de Abertura"
+   },
+   {
+    "nome": "Jantar Comunitário",
+    "lugar": "Refeitório Madre Teresa",
+    "dataInicio": "2027-08-20T18:30:00-03:00",
+    "dataFim": "2027-08-20T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Dom Nivaldo Monte",
+    "dataInicio": "2027-08-20T19:30:00-03:00",
+    "dataFim": "2027-08-20T21:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Solidariedade Cristã em Tempos de Desafios Urbanos</i>. Ministrada pelo <b>Pe. Antônio Soares de Carvalho</b>, com mediação de <b>Maria Luiza Fernandes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite de Louvor e Testemunhos",
+    "lugar": "Ginásio Comunitário",
+    "dataInicio": "2027-08-20T21:00:00-03:00",
+    "dataFim": "2027-08-20T22:30:00-03:00",
+    "descricao": "<p>Apresentação musical da banda Filhos da Paz e testemunhos coordenados por <b>Gabriel Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ofício da Manhã",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2027-08-21T07:00:00-03:00",
+    "dataFim": "2027-08-21T07:45:00-03:00",
+    "descricao": "<p>Oração das Laudes guiada pela <b>Irmã Teresa Cristina</b>.</p>",
+    "secao": "Espiritualidade Matinal"
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Refeitório Madre Teresa",
+    "dataInicio": "2027-08-21T07:45:00-03:00",
+    "dataFim": "2027-08-21T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Dom Nivaldo Monte",
+    "dataInicio": "2027-08-21T08:30:00-03:00",
+    "dataFim": "2027-08-21T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ecologia Integral e Cuidado com a Casa Comum</i>. Expositor convidado: <b>Prof. Lucas Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Lanche",
+    "lugar": "Pátio São José",
+    "dataInicio": "2027-08-21T10:00:00-03:00",
+    "dataFim": "2027-08-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala São Francisco",
+    "dataInicio": "2027-08-21T10:30:00-03:00",
+    "dataFim": "2027-08-21T12:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Comunicação Pastoral nas Redes Sociais</i>. Facilitadora: <b>Renata Albuquerque</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala Santa Clara",
+    "dataInicio": "2027-08-21T10:30:00-03:00",
+    "dataFim": "2027-08-21T12:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Canto Litúrgico e Vivência Sacramental</i>. Facilitador: <b>Mestre Carlos Eugênio</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Sala São João Paulo II",
+    "dataInicio": "2027-08-21T10:30:00-03:00",
+    "dataFim": "2027-08-21T12:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Metodologias Ativas na Catequese Infantojuvenil</i>. Facilitadora: <b>Professora Heloísa Moura</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina Prática 4",
+    "lugar": "Sala Santo Antônio",
+    "dataInicio": "2027-08-21T10:30:00-03:00",
+    "dataFim": "2027-08-21T12:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Hortas Comunitárias e Sustentabilidade Paroquial</i>. Facilitador: <b>Biólogo Francisco Canindé</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Almoço da Partilha",
+    "lugar": "Refeitório Madre Teresa",
+    "dataInicio": "2027-08-21T12:00:00-03:00",
+    "dataFim": "2027-08-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Momento de Espiritualidade e Adoração",
+    "lugar": "Nave Central",
+    "dataInicio": "2027-08-21T13:30:00-03:00",
+    "dataFim": "2027-08-21T14:45:00-03:00",
+    "descricao": "<p>Adoração ao Santíssimo Sacramento conduzida pelo <b>Pe. Marcelo Câmara</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Círculo de Diálogo Pastoral 1",
+    "lugar": "Auditório Dom Nivaldo Monte",
+    "dataInicio": "2027-08-21T15:00:00-03:00",
+    "dataFim": "2027-08-21T16:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Pastoral da Criança e Vulnerabilidade Social</i>. Mediação feita por <b>Socorro Leitão</b> com a colaboração do médico <b>Dr. Valdir Figueiredo</b>.</p>",
+    "secao": "Círculos de Diálogo"
+   },
+   {
+    "nome": "Círculo de Diálogo Pastoral 2",
+    "lugar": "Sala São Bento",
+    "dataInicio": "2027-08-21T15:00:00-03:00",
+    "dataFim": "2027-08-21T16:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Juventude, Empreendedorismo e Fé</i>. Debatedores: <b>Beatriz Azevedo</b> e <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Círculos de Diálogo"
+   },
+   {
+    "nome": "Pausa para Cafezinho",
+    "lugar": "Pátio São José",
+    "dataInicio": "2027-08-21T16:30:00-03:00",
+    "dataFim": "2027-08-21T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa Vespertina",
+    "lugar": "Nave Central",
+    "dataInicio": "2027-08-21T17:00:00-03:00",
+    "dataFim": "2027-08-21T18:15:00-03:00",
+    "descricao": "<p>Liturgia com bênção das famílias celebrada pelo <b>Cônego Josivaldo Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Festival Cultural da Cidadania",
+    "lugar": "Pátio São José",
+    "dataInicio": "2027-08-21T19:00:00-03:00",
+    "dataFim": "2027-08-21T21:30:00-03:00",
+    "descricao": "<p>Apresentações folclóricas locais e show com o grupo potiguar Esperança Viva, apresentado por <b>Juliana Pimentel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Caminhada Penitencial e Oração",
+    "lugar": "Entorno do Centro Pastoral Pio X",
+    "dataInicio": "2027-08-22T06:30:00-03:00",
+    "dataFim": "2027-08-22T07:30:00-03:00",
+    "descricao": "<p>Percurso pelas ruas adjacentes animado pelo <b>Seminarista Tiago Correia</b> com reflexões bíblicas.</p>",
+    "secao": "Atividades de Conclusão"
+   },
+   {
+    "nome": "Café Nordestino",
+    "lugar": "Refeitório Madre Teresa",
+    "dataInicio": "2027-08-22T07:30:00-03:00",
+    "dataFim": "2027-08-22T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Conclusões",
+    "lugar": "Auditório Dom Nivaldo Monte",
+    "dataInicio": "2027-08-22T08:30:00-03:00",
+    "dataFim": "2027-08-22T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Compromissos Pastorais para o Triênio 2027-2030</i>. Relatoria de <b>Irmã Sandra Queiroz</b> e coordenação geral de <b>Pe. Antônio Soares de Carvalho</b>.</p>",
+    "secao": "Atividades de Conclusão"
+   },
+   {
+    "nome": "Assembleia dos Delegados Paroquiais",
+    "lugar": "Sala São João Paulo II",
+    "dataInicio": "2027-08-22T10:15:00-03:00",
+    "dataFim": "2027-08-22T11:15:00-03:00",
+    "descricao": "<p>Aprovação da Carta de Compromissos de Natal redigida sob presidência de <b>Geraldo Wanderley</b>.</p>",
+    "secao": "Atividades de Conclusão"
+   },
+   {
+    "nome": "Missa Solene de Envio",
+    "lugar": "Nave Central",
+    "dataInicio": "2027-08-22T11:30:00-03:00",
+    "dataFim": "2027-08-22T13:00:00-03:00",
+    "descricao": "<p>Celebração de encerramento e envio dos missionários presidida pelo arcebispo <b>Dom Edivaldo Medeiros</b>, concelebrada por todos os sacerdotes presentes.</p>",
+    "secao": "Atividades de Conclusão"
+   },
+   {
+    "nome": "Almoço Festivo de Despedida",
+    "lugar": "Refeitório Madre Teresa",
+    "dataInicio": "2027-08-22T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização final dos agentes pastorais e voluntários sob agradecimentos de <b>Irmã Clarice Bezerra</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

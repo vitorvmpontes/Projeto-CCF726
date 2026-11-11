@@ -1,0 +1,182 @@
+{
+ "spec": {
+  "id": "sint-42-00352",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 19,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "titulos_longos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:09+00:00",
+ "uso_tokens": {
+  "entrada": 701,
+  "saida": 2793
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Mineiro de Sustentabilidade e Transição Ecológica 2024",
+   "local_geral": "Centro de Convenções de Belo Horizonte, MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Secretária de Meio Ambiente <b>Dra. Mariana Vasconcellos</b> e do Reitor <b>Prof. Carlos Eduardo Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T11:15:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>Diretrizes Integradas e Desafios Emergentes para a Conservação da Biodiversidade Frente aos Impactos Globais das Mudanças Climáticas no Cerrado</i> ministrada pelo biólogo <b>Dr. Henrique Albuquerque</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-16T11:15:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Exposição e avaliação de pesquisas científicas com a coordenação de <b>Dra. Laura Meireles</b> e <b>Prof. Tiago Fagundes</b>.</p>",
+    "secao": "Mostra Científica"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:30:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Governança Hídrica e Bacias Hidrográficas em Minas Gerais</i> com os palestrantes <b>Eng. Rodrigo Lacerda</b> e <b>Profa. Beatriz Nogueira</b>. Mediação por <b>Renata Pires</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T17:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Metodologias Participativas para Elaboração de Planos Municipais de Gestão Integrada de Resíduos Sólidos Urbanos em Pequenos Municípios</i> conduzida pelo especialista <b>Lucas Viana de Castro</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T17:30:00-03:00",
+    "descricao": "<p>Debate focado no tema <i>Mercado Voluntário de Créditos de Carbono</i> com os analistas <b>Dr. Gustavo Pinheiro</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2024-05-16T17:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical do violeiro <b>Chico Lobo</b> e intervenção poética com <b>Clarice Monteiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica Guiada",
+    "lugar": "Parque Municipal das Mangabeiras",
+    "dataInicio": "2024-05-17T08:00:00-03:00",
+    "dataFim": "2024-05-17T09:30:00-03:00",
+    "descricao": "<p>Visita a campo sobre trilhas ecológicas orientada pelo guia botânico <b>Marcelo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2024-05-17T09:30:00-03:00",
+    "dataFim": "2024-05-17T11:00:00-03:00",
+    "descricao": "<p>Treinamento em <i>Bioindicadores Aquáticos de Qualidade Ambiental</i> ministrado pela pesquisadora <b>Dra. Juliana Prado</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Mesa de Comunicação Oral",
+    "lugar": "Sala Jacarandá",
+    "dataInicio": "2024-05-17T09:30:00-03:00",
+    "dataFim": "2024-05-17T11:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos selecionados com moderação de <b>Prof. André Rezende</b>.</p>",
+    "secao": "Mostra Científica"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-17T11:00:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Segunda etapa de exposição dos trabalhos científicos sob supervisão de <b>Dra. Laura Meireles</b>.</p>",
+    "secao": "Mostra Científica"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Temático",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Modelos Econômicos Circulares para a Redução Sistemática da Pegada Ecológica nas Cadeias Produtivas da Agroindústria Regional Contemporânea</i> conduzida por <b>Prof. Fernando Antunes</b> e <b>Dra. Simone Caldas</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Sustentabilidade",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Segunda turma do treinamento prático de <i>Bioindicadores Aquáticos de Qualidade Ambiental</i> coordenado pela pesquisadora <b>Dra. Juliana Prado</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": null,
+    "dataInicio": "2024-05-17T15:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Balanço das metas climáticas com participação de <b>Sérgio Ramos</b> e <b>Dra. Mônica Brandão</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Entrega de Menções Honrosas",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Premiação dos melhores pôsteres e trabalhos pelo comitê acadêmico liderado por <b>Prof. Carlos Eduardo Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

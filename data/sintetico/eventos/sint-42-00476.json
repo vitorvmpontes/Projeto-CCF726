@@ -1,0 +1,219 @@
+{
+ "spec": {
+  "id": "sint-42-00476",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Macapá - AP",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 24,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:48+00:00",
+ "uso_tokens": {
+  "entrada": 633,
+  "saida": 3777
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Festival das Águas e Marabaixo de Macapá",
+   "local_geral": "Complexo Cultural Fortaleza de São José de Macapá"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Cortejo dos Tambores",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2023-10-14T09:00:00-03:00",
+    "dataFim": "2023-10-14T10:00:00-03:00",
+    "descricao": "<p>Abertura festiva pelas ruas do entorno com os mestres e caixeiros tradicionais, sob liderança de <b>Mestre Biló</b> e <b>Mestra Laura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura da Exposição de Artes Visuais",
+    "lugar": "Galeria das Casamatas",
+    "dataInicio": "2023-10-14T10:00:00-03:00",
+    "dataFim": "2023-10-14T12:00:00-03:00",
+    "descricao": "<p>Inauguração da mostra coletiva <i>Margens Amazônicas e Cores do Meio do Mundo</i>, com curadoria de <b>Tereza Ramos</b> e participação de artistas visuais do Amapá.</p>",
+    "secao": "Artes Visuais e Memória"
+   },
+   {
+    "nome": "Oficina de Percussão de Caixas de Marabaixo",
+    "lugar": "Sala de Oficinas 1",
+    "dataInicio": "2023-10-14T10:00:00-03:00",
+    "dataFim": "2023-10-14T12:00:00-03:00",
+    "descricao": "<p>Oficina prática com <b>Mestre Pedro Pretinho</b> sobre toques de caixa, ritmos tradicionais e dinâmica dos ladrões de marabaixo.</p>",
+    "secao": "Oficinas Matutinas"
+   },
+   {
+    "nome": "Oficina de Cerâmica e Trançado Indígena",
+    "lugar": "Sala de Oficinas 2",
+    "dataInicio": "2023-10-14T10:00:00-03:00",
+    "dataFim": "2023-10-14T12:00:00-03:00",
+    "descricao": "<p>Técnicas de modelagem em argila e fibras naturais orientadas pela artesã <b>Carina Karipuna</b>.</p>",
+    "secao": "Oficinas Matutinas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-14T12:00:00-03:00",
+    "dataFim": "2023-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Baluarte das Flores",
+    "dataInicio": "2023-10-14T14:00:00-03:00",
+    "dataFim": "2023-10-14T16:00:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Ancestralidade e Preservação do Patrimônio Imaterial Amapaense</i>, com mediação de <b>Eliana Pureza</b> e falas de <b>Raimundo Picanço</b> e <b>Valéria dos Santos</b>.</p>",
+    "secao": "Diálogos Culturais"
+   },
+   {
+    "nome": "Oficina de Dança do Marabaixo e Saiote",
+    "lugar": "Sala de Oficinas 1",
+    "dataInicio": "2023-10-14T14:00:00-03:00",
+    "dataFim": "2023-10-14T16:00:00-03:00",
+    "descricao": "<p>Passos fundamentais, postura corporal e a gestualidade do marabaixo com <b>Dona Josefa</b> e <b>Claudio Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento Coletivo de Livros Regionais",
+    "lugar": "Galeria das Casamatas",
+    "dataInicio": "2023-10-14T16:30:00-03:00",
+    "dataFim": "2023-10-14T18:00:00-03:00",
+    "descricao": "<p>Sessão de autógrafos das obras <i>Poéticas do Rio Amazonas</i> de <b>Fernando Canto</b> e <i>Vozes do Curiaú</i> de <b>Antônia Barbosa</b>.</p>",
+    "secao": "Artes Visuais e Memória"
+   },
+   {
+    "nome": "Oficina de Gastronomia Tucandeira e Sabores do Tucupi",
+    "lugar": "Cozinha Experimental",
+    "dataInicio": "2023-10-14T16:30:00-03:00",
+    "dataFim": "2023-10-14T18:00:00-03:00",
+    "descricao": "<p>Preparo de pratos com frutos e raízes da floresta com a chef <b>Socorro Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Instrumental de MPA e Jazz Amazônico",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2023-10-14T19:00:00-03:00",
+    "dataFim": "2023-10-14T20:30:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo comandado pelo violonista <b>Manoel Cordeiro</b> e o flautista <b>Davi Amorim</b> apresentando o espetáculo <i>Cordas da Floresta</i>.</p>",
+    "secao": "Shows e Espetáculos"
+   },
+   {
+    "nome": "Show de Marabaixo Contemporâneo",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2023-10-14T21:00:00-03:00",
+    "dataFim": "2023-10-14T22:30:00-03:00",
+    "descricao": "<p>Apresentação especial do grupo Berço do Marabaixo com participação da cantora <b>Patrícia Bastos</b>.</p>",
+    "secao": "Shows e Espetáculos"
+   },
+   {
+    "nome": "Discotecagem de Zouk e Ritmos Caribenhos",
+    "lugar": "Tenda Beira-Rio",
+    "dataInicio": "2023-10-14T22:45:00-03:00",
+    "dataFim": "2023-10-15T00:30:00-03:00",
+    "descricao": "<p>Seleção em vinil com o pesquisador e DJ <b>Marcio Macapá</b>.</p>",
+    "secao": "Shows e Espetáculos"
+   },
+   {
+    "nome": "Vivência Matinal de Yoga e Respiração",
+    "lugar": "Gramado da Fortaleza",
+    "dataInicio": "2023-10-15T08:00:00-03:00",
+    "dataFim": "2023-10-15T09:00:00-03:00",
+    "descricao": "<p>Prática de respiração e relaxamento à beira do Rio Amazonas ministrada por <b>Camila Brito</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Contação de Histórias e Lendas Ribeirinhas",
+    "lugar": "Espaço Infantil Curumim",
+    "dataInicio": "2023-10-15T09:30:00-03:00",
+    "dataFim": "2023-10-15T11:00:00-03:00",
+    "descricao": "<p>Narrativas orais infantis com a atriz e narradora <b>Jô Brandão</b> apresentando contos como <i>O Segredo do Boto Rosa</i>.</p>",
+    "secao": "Atividades Infantis"
+   },
+   {
+    "nome": "Oficina de Pintura Facial e Grafismos Indígenas",
+    "lugar": "Sala de Oficinas 1",
+    "dataInicio": "2023-10-15T09:30:00-03:00",
+    "dataFim": "2023-10-15T11:30:00-03:00",
+    "descricao": "<p>Prática de grafismos geométricos e uso do jenipapo e urucum com <b>Yawa Waiãpi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exibição do Documentário 'Sons da Terra'",
+    "lugar": "Cineclube Tucuju",
+    "dataInicio": "2023-10-15T10:00:00-03:00",
+    "dataFim": "2023-10-15T11:30:00-03:00",
+    "descricao": "<p>Projeção da obra audiovisual dirigida por <b>Geraldo Meireles</b> seguida de breve bate-papo com a equipe de produção.</p>",
+    "secao": "Audiovisual"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-15T12:00:00-03:00",
+    "dataFim": "2023-10-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fotografia Urbana na Orla",
+    "lugar": "Sala de Oficinas 2",
+    "dataInicio": "2023-10-15T14:00:00-03:00",
+    "dataFim": "2023-10-15T16:00:00-03:00",
+    "descricao": "<p>Saída a campo e teoria rápida de enquadramento com o fotógrafo <b>Luciano Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Baluarte das Flores",
+    "dataInicio": "2023-10-15T14:00:00-03:00",
+    "dataFim": "2023-10-15T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>A Força das Mulheres Negras e Indígenas no Marabaixo</i> com a socióloga <b>Dulce Maria</b> e as lideranças <b>Tia Eva</b> e <b>Ana Cleyde</b>.</p>",
+    "secao": "Diálogos Culturais"
+   },
+   {
+    "nome": "Mostra de Curtas-Metragens do Norte",
+    "lugar": "Cineclube Tucuju",
+    "dataInicio": "2023-10-15T16:00:00-03:00",
+    "dataFim": "2023-10-15T17:30:00-03:00",
+    "descricao": "<p>Exibição dos curtas <i>Rio de Memórias</i> e <i>Festa do Divino</i> de cineastas amapaenses, sob mediação de <b>Renata Nogueira</b>.</p>",
+    "secao": "Audiovisual"
+   },
+   {
+    "nome": "Desfile de Moda Autoral e Biojoias",
+    "lugar": "Pátio Interno",
+    "dataInicio": "2023-10-15T16:30:00-03:00",
+    "dataFim": "2023-10-15T18:00:00-03:00",
+    "descricao": "<p>Apresentação das criações das designers <b>Maíra Marinho</b> e <b>Nara Coutinho</b>, destacando elementos da bioeconomia amazônica.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Regional de Batuque e Toada",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2023-10-15T18:30:00-03:00",
+    "dataFim": "2023-10-15T20:00:00-03:00",
+    "descricao": "<p>Apresentação de cantadores tradicionais do Quilombo do Curiaú com <b>Seu Jorge do Curiaú</b> e banda.</p>",
+    "secao": "Shows e Espetáculos"
+   },
+   {
+    "nome": "Show de Encerramento com Artistas Amapaenses",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2023-10-15T20:30:00-03:00",
+    "dataFim": "2023-10-15T22:30:00-03:00",
+    "descricao": "<p>Grande celebração musical com <b>Amadeu Cavalcante</b>, <b>Osmar Júnior</b> e convidados interpretando clássicos da música amapaense.</p>",
+    "secao": "Shows e Espetáculos"
+   },
+   {
+    "nome": "Queima Simbólica e Roda Final do Marabaixo",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2023-10-15T22:45:00-03:00",
+    "dataFim": "2023-10-15T23:45:00-03:00",
+    "descricao": "<p>Celebração tradicional de fechamento do festival conduzida por todos os grupos participantes e coordenada por <b>Mestra Laura</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

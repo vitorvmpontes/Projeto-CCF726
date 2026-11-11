@@ -1,0 +1,300 @@
+{
+ "spec": {
+  "id": "sint-42-00266",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Santa Maria - RS",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 34,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:53+00:00",
+ "uso_tokens": {
+  "entrada": 648,
+  "saida": 5036
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Boca do Monte de Artes Integradas 2023",
+   "local_geral": "Centro Integrado de Cultura Evandro Behr, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Recepção",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-10-13T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Boas-vindas ao público com distribuição de mapa do festival e guia de exposições.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial do Festival",
+    "lugar": "Palco Principal (Teatro Caixa)",
+    "dataInicio": "2023-10-13T14:30:00-03:00",
+    "dataFim": "2023-10-13T15:30:00-03:00",
+    "descricao": "<p>Solenidade com a presença da secretária <b>Mariana Dornelles</b> e apresentação da comissão organizadora presidida por <b>Carlos Eduardo Ribas</b>.</p>",
+    "secao": "Cerimônias"
+   },
+   {
+    "nome": "Vernissage da Exposição Fotográfica",
+    "lugar": "Galeria Aldo Locatelli",
+    "dataInicio": "2023-10-13T15:30:00-03:00",
+    "dataFim": "2023-10-13T18:00:00-03:00",
+    "descricao": "<p>Inauguração da mostra <i>Caminhos da Quarta Colônia: Memória e Paisagem</i> pelo curador <b>Roberto Fagundes</b> e fotógrafa <b>Letícia Bortoluzzi</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Gravura em Metal",
+    "lugar": "Ateliê Livre 1",
+    "dataInicio": "2023-10-13T16:00:00-03:00",
+    "dataFim": "2023-10-13T18:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Técnicas Diretas da Calcografia</i> ministrada por <b>Fernando Carpes</b> com ênfase na ponta-seca.</p>",
+    "secao": "Oficinas e Laboratórios"
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-10-13T16:00:00-03:00",
+    "dataFim": "2023-10-13T17:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Fomento e Sustentabilidade Cultural no Interior Gaúcho</i> com os debatedores <b>Aline Pozzobon</b> e <b>Jorge Alberto Silveira</b>.</p>",
+    "secao": "Debates e Pensamento"
+   },
+   {
+    "nome": "Contação de Histórias",
+    "lugar": "Tenda Literária",
+    "dataInicio": "2023-10-13T16:30:00-03:00",
+    "dataFim": "2023-10-13T17:30:00-03:00",
+    "descricao": "<p>Sessão infantojuvenil <i>Lendas da Serra e do Pampa</i> narrada por <b>Tia Cecília</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Instrumental",
+    "lugar": "Palco Externo (Praça Central)",
+    "dataInicio": "2023-10-13T18:30:00-03:00",
+    "dataFim": "2023-10-13T19:45:00-03:00",
+    "descricao": "<p>Espetáculo <i>Cordas Pampeanas</i> com o violonista <b>Guilherme Zanini</b> e quinteto convidado.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Espetáculo Teatral",
+    "lugar": "Palco Principal (Teatro Caixa)",
+    "dataInicio": "2023-10-13T20:00:00-03:00",
+    "dataFim": "2023-10-13T21:15:00-03:00",
+    "descricao": "<p>Apresentação da peça <i>O Voo da Maria Fumaça</i> pelo grupo Cia Vento Forte, com direção de <b>Helena Schmidt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Noturno",
+    "lugar": "Palco Externo (Praça Central)",
+    "dataInicio": "2023-10-13T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show <i>Gauchesca Contemporânea</i> com a cantautora <b>Camila Toledo</b> e banda.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Intervenção Sonora e Discotecagem",
+    "lugar": "Espaço Mezanino",
+    "dataInicio": "2023-10-13T23:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Set musical com ritmos latinos e regionais conduzido por <b>DJ Lucas Vargas</b>.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Feira de Publicações Independentes",
+    "lugar": "Pátio das Esculturas",
+    "dataInicio": "2023-10-14T10:00:00-03:00",
+    "dataFim": "2023-10-14T19:00:00-03:00",
+    "descricao": "<p>Exposição e venda de zines, livros de artista e gravuras sob curadoria de <b>Patrícia Mello</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Roteiro Audiovisual",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2023-10-14T10:00:00-03:00",
+    "dataFim": "2023-10-14T12:30:00-03:00",
+    "descricao": "<p>Módulo intensivo <i>Da Ideia à Decupagem</i> conduzido pelo cineasta <b>Marcos Vinícius Ávila</b>.</p>",
+    "secao": "Oficinas e Laboratórios"
+   },
+   {
+    "nome": "Prática de Yoga e Consciência Corporal",
+    "lugar": "Jardim das Artes",
+    "dataInicio": "2023-10-14T10:30:00-03:00",
+    "dataFim": "2023-10-14T11:45:00-03:00",
+    "descricao": "<p>Atividade aberta ao público facilitada pela instrutora <b>Renata Cordeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-14T12:30:00-03:00",
+    "dataFim": "2023-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Percussão Gaúcha e Ritmos Platinos",
+    "lugar": "Ateliê Livre 2",
+    "dataInicio": "2023-10-14T14:00:00-03:00",
+    "dataFim": "2023-10-14T16:30:00-03:00",
+    "descricao": "<p>Vivência prática com bombo legüero ministrada pelo percussionista <b>Tiago Trindade</b>.</p>",
+    "secao": "Oficinas e Laboratórios"
+   },
+   {
+    "nome": "Mostra Competitiva de Curtas-Metragens",
+    "lugar": "Cinema Cineclube Imembuí",
+    "dataInicio": "2023-10-14T14:00:00-03:00",
+    "dataFim": "2023-10-14T16:00:00-03:00",
+    "descricao": "<p>Exibição dos curtas selecionados com mediação da crítica de cinema <b>Daniela Rossato</b>.</p>",
+    "secao": "Cinema e Audiovisual"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-10-14T14:30:00-03:00",
+    "dataFim": "2023-10-14T16:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Mulheres nas Artes Cênicas do Rio Grande do Sul</i> reunindo as atrizes <b>Sabrina Moreira</b> e <b>Valéria Rios</b>.</p>",
+    "secao": "Debates e Pensamento"
+   },
+   {
+    "nome": "Apresentação de Dança Contemporânea",
+    "lugar": "Palco Principal (Teatro Caixa)",
+    "dataInicio": "2023-10-14T16:30:00-03:00",
+    "dataFim": "2023-10-14T17:30:00-03:00",
+    "descricao": "<p>Coreografia <i>Corpo Fronteiriço</i> interpretada pela bailarina <b>Bruna Vasconcellos</b> com direção de <b>Mateus Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Debate com Realizadores Audiovisuais",
+    "lugar": "Cinema Cineclube Imembuí",
+    "dataInicio": "2023-10-14T16:30:00-03:00",
+    "dataFim": "2023-10-14T17:45:00-03:00",
+    "descricao": "<p>Conversa pós-sessão mediada por <b>Daniela Rossato</b> com a presença dos cineastas <b>Gabriel Menna</b> e <b>Clara Peixoto</b>.</p>",
+    "secao": "Cinema e Audiovisual"
+   },
+   {
+    "nome": "Oficina de Cerâmica Figurativa",
+    "lugar": "Ateliê Livre 1",
+    "dataInicio": "2023-10-14T17:00:00-03:00",
+    "dataFim": "2023-10-14T19:00:00-03:00",
+    "descricao": "<p>Modelagem em argila com inspiração nas culturas originárias ministrada por <b>Eloá Maciel</b>.</p>",
+    "secao": "Oficinas e Laboratórios"
+   },
+   {
+    "nome": "Roda de Poesia e Slam Universitário",
+    "lugar": "Tenda Literária",
+    "dataInicio": "2023-10-14T18:00:00-03:00",
+    "dataFim": "2023-10-14T19:30:00-03:00",
+    "descricao": "<p>Batalha de poesias autorais organizada pelo coletivo Verso Livre com o anfitrião <b>Rodrigo Caetano</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Regional",
+    "lugar": "Palco Externo (Praça Central)",
+    "dataInicio": "2023-10-14T19:30:00-03:00",
+    "dataFim": "2023-10-14T20:45:00-03:00",
+    "descricao": "<p>Concerto da banda <b>Trio Coração Campeiro</b> com participação especial do acordeonista <b>Paulo Salles</b>.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Espetáculo de Circo-Teatro",
+    "lugar": "Palco Principal (Teatro Caixa)",
+    "dataInicio": "2023-10-14T21:00:00-03:00",
+    "dataFim": "2023-10-14T22:15:00-03:00",
+    "descricao": "<p>Performance acrobática <i>Vertigens Urbanas</i> encenada pela Trupe do Riso sob coordenação de <b>André Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Principal de Sábado",
+    "lugar": "Palco Externo (Praça Central)",
+    "dataInicio": "2023-10-14T22:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação especial do grupo <b>Os Nômades do Sul</b> celebrando 20 anos de carreira.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Cortejo Folclórico e Tambor de Sopapo",
+    "lugar": "Área Externa",
+    "dataInicio": "2023-10-15T10:00:00-03:00",
+    "dataFim": "2023-10-15T11:30:00-03:00",
+    "descricao": "<p>Cortejo de abertura do último dia liderado pelo mestre de cultura popular <b>Geraldo Batuqueiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Danças Tradicionais e Fusão",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2023-10-15T10:30:00-03:00",
+    "dataFim": "2023-10-15T12:00:00-03:00",
+    "descricao": "<p>Aula prática de ritmos tradicionais do sul misturados com linguagens urbanas orientada por <b>Juliana Paim</b>.</p>",
+    "secao": "Oficinas e Laboratórios"
+   },
+   {
+    "nome": "Visita Guiada à Exposição Fotográfica",
+    "lugar": "Galeria Aldo Locatelli",
+    "dataInicio": "2023-10-15T11:00:00-03:00",
+    "dataFim": "2023-10-15T12:00:00-03:00",
+    "descricao": "<p>Percurso comentado pelo curador <b>Roberto Fagundes</b> e pelos artistas expositores da mostra.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Almoço Coletivo dos Artistas",
+    "lugar": "Restaurante do Centro Integrado",
+    "dataInicio": "2023-10-15T12:00:00-03:00",
+    "dataFim": "2023-10-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Infantil de Curtas Gaúchos",
+    "lugar": "Cinema Cineclube Imembuí",
+    "dataInicio": "2023-10-15T14:00:00-03:00",
+    "dataFim": "2023-10-15T15:15:00-03:00",
+    "descricao": "<p>Seleção de animações infantis brasileiras apresentadas pelo animador <b>Felipe Castilho</b>.</p>",
+    "secao": "Cinema e Audiovisual"
+   },
+   {
+    "nome": "Oficina de Encadernação Artesanal",
+    "lugar": "Ateliê Livre 2",
+    "dataInicio": "2023-10-15T14:00:00-03:00",
+    "dataFim": "2023-10-15T16:30:00-03:00",
+    "descricao": "<p>Confecção de cadernos artísticos em costura copta orientada pela encadernadora <b>Vanessa Silvestre</b>.</p>",
+    "secao": "Oficinas e Laboratórios"
+   },
+   {
+    "nome": "Painel de Debates 3",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-10-15T14:30:00-03:00",
+    "dataFim": "2023-10-15T16:00:00-03:00",
+    "descricao": "<p>Reflexão com o tema <i>Patrimônio Ferroviário e Futuro das Cidades Universitárias</i> reunindo o arquiteto <b>Luiz Otávio Bastos</b> e a historiadora <b>Sílvia Furtado</b>.</p>",
+    "secao": "Debates e Pensamento"
+   },
+   {
+    "nome": "Mostra de Resultados das Oficinas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-10-15T16:30:00-03:00",
+    "dataFim": "2023-10-15T18:00:00-03:00",
+    "descricao": "<p>Exibição aberta das peças e gravuras criadas pelos participantes das oficinas sob coordenação de <b>Fernando Carpes</b> e <b>Eloá Maciel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Palco Principal (Teatro Caixa)",
+    "dataInicio": "2023-10-15T18:30:00-03:00",
+    "dataFim": "2023-10-15T19:45:00-03:00",
+    "descricao": "<p>Anúncio dos curtas-metragens e fotografias premiados pelo júri presidido pela cineasta <b>Denise Guimarães</b>.</p>",
+    "secao": "Cerimônias"
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Palco Externo (Praça Central)",
+    "dataInicio": "2023-10-15T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da cantora <b>Juliana Spanevello</b> acompanhada por grande orquestra regional de violões.</p>",
+    "secao": "Programação Musical"
+   }
+  ]
+ }
+}

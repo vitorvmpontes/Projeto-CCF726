@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00172",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Florianópolis - SC",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "intervalos",
+   "descricoes_ricas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:39+00:00",
+ "uso_tokens": {
+  "entrada": 666,
+  "saida": 1208
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Catarinense de Mulheres na Computação",
+   "local_geral": "Centro de Informática da UFSC, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Café de Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2023-10-19T09:30:00-03:00",
+    "dataFim": "2023-10-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Trajetórias Femininas na Liderança Tecnológica no Sul do Brasil</i>.</p><p>Coordenação: <b>Dra. Renata Silveira</b> (UFSC).</p><p>Debatedoras: <b>Carla Mendonça</b> (TechFloripa) e <b>Beatriz Luz</b> (Inovação Digital SC).</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos selecionados na trilha de Inteligência Artificial e Sociedade.</p><p>Coordenação: <b>Profa. Juliana Fontes</b> (UDESC).</p><p>Trabalhos:</p><p>1. <i>Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural</i> por <b>Aline Vaz</b> e <b>Marina Souza</b>.</p><p>2. <i>Visão Computacional Aplicada ao Diagnóstico Oncológico Prematuro</i> por <b>Fernanda Bittencourt</b>, <b>Camila Duarte</b> e <b>Dra. Patrícia Klein</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:00:00-03:00",
+    "dataFim": "2023-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala de Seminários 204",
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos na trilha de Engenharia de Software e Inclusão.</p><p>Coordenação: <b>Dra. Simone Alcantara</b> (IFSC).</p><p>Trabalhos:</p><p>1. <i>Práticas Ágeis em Equipes Multidisciplinares Remotas: Uma Abordagem Inclusiva</i> por <b>Larissa Martins</b> e <b>Tatiane Gomes</b>.</p><p>2. <i>Análise de Métricas de Código Aberto sob a Ótica da Diversidade de Contribuintes</i> por <b>Clara Menezes</b> e <b>Dra. Simone Alcantara</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mesa de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-10-20T16:00:00-03:00",
+    "dataFim": "2023-10-20T17:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias de Retenção de Mulheres em Cursos de Exatas</i>.</p><p>Coordenação: <b>Profa. Helena Prado</b> (UFSC).</p><p>Palestrantes convidadas: <b>Dra. Vanessa Guimarães</b> (SBC) e <b>Gabriela Antunes</b> (Comunidade PyLadies Floripa).</p>",
+    "secao": "Painéis e Debates"
+   }
+  ]
+ }
+}

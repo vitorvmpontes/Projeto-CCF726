@@ -1,0 +1,107 @@
+{
+ "spec": {
+  "id": "sint-42-00015",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "São Paulo - SP",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 10,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:20+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 1909
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Recepção aos Calouros da Poli-USP 2025",
+   "local_geral": "Campus Cidade Universitária, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas da Diretoria e Apresentação do Curso",
+    "lugar": "Auditório Prof. Francisco Romeu Landi",
+    "dataInicio": "2025-02-24T08:30:00-03:00",
+    "dataFim": "2025-02-24T10:30:00-03:00",
+    "descricao": "<p>Acolhida oficial dos ingressantes pela equipe de gestão da faculdade. Coordenação do evento por <b>Profa. Dra. Marina Silveira Alencar</b> e fala de abertura com o Diretor <b>Prof. Dr. Reinaldo Pacheco Gomes</b> apresentando <i>A Engenharia do Futuro e a Trajetória na Poli</i>.</p>",
+    "secao": "Recepção Oficial"
+   },
+   {
+    "nome": "Tour Guiado pelo Campus e Centros Acadêmicos",
+    "lugar": "Pátio do Grêmio Politécnico",
+    "dataInicio": "2025-02-24T10:30:00-03:00",
+    "dataFim": "2025-02-24T12:30:00-03:00",
+    "descricao": "<p>Caminhada de reconhecimento dos prédios da engenharia, secretarias e laboratórios, organizada pelos veteranos.</p>",
+    "secao": "Recepção Oficial"
+   },
+   {
+    "nome": "Sessão de Apresentação de Projetos de Iniciação Científica",
+    "lugar": "Hall do Prédio da Engenharia Mecânica",
+    "dataInicio": "2025-02-25T09:00:00-03:00",
+    "dataFim": "2025-02-25T12:00:00-03:00",
+    "descricao": "<p>Mostra de pôsteres com projetos de veteranos recomendados para calouros que queiram ingressar na pesquisa. Coordenação do <b>Prof. Dr. Ricardo Queiroz Prado</b>.</p><p>Trabalhos apresentados: <i>Desenvolvimento de Prótese Mioelétrica de Baixo Custo</i> por <b>Juliana Mendes Barros</b>; <i>Otimização de Algoritmos para Redes Elétricas Inteligentes</i> por <b>Lucas Tanaka Ramos</b>; <i>Estudo de Materiais Compósitos para Carros de Corrida</i> por <b>Felipe Castanheira de Oliveira</b>.</p>",
+    "secao": "Feira de Oportunidades Acadêmicas"
+   },
+   {
+    "nome": "Painel com Ex-alunos do Mercado",
+    "lugar": "Auditório da Engenharia Elétrica",
+    "dataInicio": "2025-02-25T14:00:00-03:00",
+    "dataFim": "2025-02-25T16:30:00-03:00",
+    "descricao": "<p>Debate sobre trajetórias profissionais e os desafios do início da carreira. Coordenação de <b>Beatriz Fontes Nogueira</b>, com participação dos debatedores <b>Eng. Rodrigo Albuquerque Veiga</b>, falando sobre <i>Carreira em Fintechs e Soluções Digitais</i>, e <b>Enga. Camila Torres Guimarães</b>, com a palestra <i>Gestão de Infraestrutura e Meio Ambiente</i>.</p>",
+    "secao": "Feira de Oportunidades Acadêmicas"
+   },
+   {
+    "nome": "Gincana de Calouros e Trote Solidário",
+    "lugar": "Praça do Relógio",
+    "dataInicio": "2025-02-26T09:00:00-03:00",
+    "dataFim": "2025-02-26T13:00:00-03:00",
+    "descricao": "<p>Atividades recreativas entre turmas para arrecadação de alimentos e agasalhos para comunidades da Zona Oeste de São Paulo.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Oficina de Ferramentas Digitais e Apoio ao Estudante",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-02-26T14:30:00-03:00",
+    "dataFim": "2025-02-26T17:00:00-03:00",
+    "descricao": "<p>Treinamento prático de acesso aos sistemas acadêmicos e bibliotecas digitais ministrado por <b>Mônica Santana Rangel</b> e auxiliado pelo monitor <b>Gabriel Martins Dias</b>.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Apresentação dos Grupos de Extensão e Equipes de Competição",
+    "lugar": "Arena Politécnica",
+    "dataInicio": "2025-02-27T10:00:00-03:00",
+    "dataFim": "2025-02-27T12:30:00-03:00",
+    "descricao": "<p>Exibição dos projetos estudantis aplicados com coordenação de <b>Guilherme Diniz Arruda</b>. Apresentações dos líderes: <i>O Desafio Baja SAE e a Construção Veicular</i> por <b>Ana Cristina Lins</b>; <i>AeroDesign: Projeto de Aeronaves Rádio-Controladas</i> por <b>Pedro Henrique Viana</b>; e <i>Projetos Sociais de Engenharia Comunitária</i> por <b>Sofia Helena Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Lanche Coletivo",
+    "lugar": "Jardim das Palmeiras",
+    "dataInicio": "2025-02-27T12:30:00-03:00",
+    "dataFim": "2025-02-27T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Torneio Esportivo Intercalouros",
+    "lugar": "Centro de Práticas Esportivas da USP (CEPEUSP)",
+    "dataInicio": "2025-02-28T09:00:00-03:00",
+    "dataFim": "2025-02-28T14:00:00-03:00",
+    "descricao": "<p>Competições esportivas amigáveis de futsal, voleibol e queimada entre os cursos de engenharia organizada pela Associação Atlética Acadêmica.</p>",
+    "secao": "Encerramento e Celebração"
+   },
+   {
+    "nome": "Show de Talentos e Festival de Encerramento",
+    "lugar": "Palco do Vão Livre",
+    "dataInicio": "2025-02-28T16:00:00-03:00",
+    "dataFim": "2025-02-28T19:30:00-03:00",
+    "descricao": "<p>Apresentações musicais e artísticas com encerramento pelo coordenador de cultura da Atlética, <b>Thiago Meireles Pimenta</b>.</p>",
+    "secao": "Encerramento e Celebração"
+   }
+  ]
+ }
+}

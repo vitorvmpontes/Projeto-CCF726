@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-42-00480",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Fortaleza - CE",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 11,
+  "casos": [
+   "titulos_longos",
+   "atividades_paralelas",
+   "descricoes_ricas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:53+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 1977
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Cearense de Mulheres na Computação",
+   "local_geral": "Centro de Tecnologia, Universidade Federal do Ceará (UFC), Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Hall de Entrada do Bloco 710",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": "<p>Acolhida inicial com credenciamento, retirada de kits e confraternização entre as participantes sob coordenação de <b>Camila Duarte Parente</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T11:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Estratégias Práticas e Inclusivas Para Promover a Equidade de Gênero no Desenvolvimento e Ensino de Inteligência Artificial Responsável</i>, proferida por <b>Dra. Juliana Vasconcelos Albuquerque</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Software 02",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Minicurso com o tema <i>Desenvolvimento de Modelos de Aprendizado Profundo Aplicados à Saúde Digital e Detecção Precoce Usando Bibliotecas Abertas</i>, ministrado por <b>Bianca Moreira Rangel</b> e com tutoria de <b>Fernanda Lins Cavalcante</b>.</p>",
+    "secao": "Trilhas Práticas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Oficina prática abordando <i>Introdução à Cibersegurança Defensiva e Boas Práticas de Resposta a Incidentes</i>, conduzida pela engenheira de segurança <b>Marina Frota Sampaio</b>.</p>",
+    "secao": "Trilhas Práticas"
+   },
+   {
+    "nome": "Roda de Diálogo",
+    "lugar": null,
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Trajetórias de Liderança Feminina em Startups do Nordeste</i>. Mediação feita por <b>Larissa Barreto Menezes</b> com a presença de <b>Paula Meireles Aguiar</b> e <b>Sabrina Holanda Braga</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": null,
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Anfiteatro de Pós-Graduação",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos com coordenação de <b>Profa. Dra. Renata Castelo Branco</b>. Trabalhos selecionados:</p><p><i>1. Algoritmos de Otimização em Redes de Distribuição Elétrica Urbana</i>, autoria de <b>Beatriz Silveira Nogueira</b> e <b>Carlos Eduardo Fontes</b>;</p><p><i>2. Análise do Perfil Evasivo em Cursos de Engenharia de Software no Ceará</i>, por <b>Letícia Gadelha Rios</b> e <b>Aline Sales Peixoto</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mostra de Iniciação Científica",
+    "lugar": "Pátio Central de Convivência",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Exposição de pôsteres avaliados por <b>Helena Queiroz Bezerra</b> e <b>Tânia Maria Pontes</b>. Apresentações dos resumos <i>Interface Acessível para Deficientes Visuais na Navegação Web</i> por <b>Monique Carvalho Maia</b> e <i>Sensoriamento Agrícola em Pequenas Propriedades Rurais do Semiárido</i> por <b>Raquel Viana Chaves</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-16T09:30:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios Globais e Impactos Socioambientais no Uso Escalável de Métodos Computacionais Para Sustentabilidade em Comunidades Vulneráveis</i>, ministrada por <b>Dra. Thaís Guimarães Fontenele</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Painel de Carreira",
+    "lugar": null,
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Pós-Graduação e Mercado Internacional em Computação</i>, conduzida por <b>Lívia Mendes Aragão</b>, com relatos de <b>Débora Freitas Prado</b> e <b>Clara Antunes Sobral</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas às melhores pesquisas com a coordenadora-geral <b>Camila Duarte Parente</b> e anúncio da sede para o próximo ano.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

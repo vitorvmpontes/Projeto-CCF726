@@ -1,0 +1,291 @@
+{
+ "spec": {
+  "id": "sint-42-00295",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 33,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:49+00:00",
+ "uso_tokens": {
+  "entrada": 637,
+  "saida": 4664
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Seminário Mineiro de Sustentabilidade e Gestão Ambiental da Zona da Mata",
+   "local_geral": "Centro de Convenções da Universidade Federal de Juiz de Fora (UFJF)"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-06-02T08:00:00-03:00",
+    "dataFim": "2027-06-02T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-02T09:00:00-03:00",
+    "dataFim": "2027-06-02T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da reitora <b>Profa. Dra. Mariana Esteves Guimarães</b> e do secretário de meio ambiente <b>Carlos Eduardo Resende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Inaugural",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-02T09:45:00-03:00",
+    "dataFim": "2027-06-02T11:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Desafios Hídricos na Bacia do Rio Paraibuna</i>, apresentada pelo pesquisador <b>Dr. Henrique Viana Lins</b> e mediada por <b>Juliana Falcão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": null,
+    "dataInicio": "2027-06-02T11:00:00-03:00",
+    "dataFim": "2027-06-02T11:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-02T11:20:00-03:00",
+    "dataFim": "2027-06-02T12:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Transição Energética e Eficiência em Cidades Médias</i> por <b>Eng. Roberto Santiago de Mendonça</b>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-06-02T12:30:00-03:00",
+    "dataFim": "2027-06-02T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Sala Temática A",
+    "dataInicio": "2027-06-02T14:00:00-03:00",
+    "dataFim": "2027-06-02T16:00:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Mapeamento Geoespacial de Nascentes Urbanas</i> com o instrutor <b>Prof. Lucas Nogueira Meireles</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Computação Aplicada",
+    "dataInicio": "2027-06-02T14:00:00-03:00",
+    "dataFim": "2027-06-02T16:00:00-03:00",
+    "descricao": "<p>Atividade prática focada em <i>Indicadores ESG para Pequenas e Médias Empresas</i>, facilitada por <b>Camila Duarte Pires</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": null,
+    "dataInicio": "2027-06-02T14:00:00-03:00",
+    "dataFim": "2027-06-02T16:00:00-03:00",
+    "descricao": "<p>Exercício colaborativo de <i>Compostagem Doméstica e Redução de Resíduos Orgânicos</i> guiado por <b>Beatriz Alvarenga</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão de Pôsteres 1",
+    "lugar": "Foyer das Galerias",
+    "dataInicio": "2027-06-02T16:00:00-03:00",
+    "dataFim": "2027-06-02T17:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos sob coordenação do <b>Dr. Marcelo Tavares Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Debate Temático 1",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-02T17:00:00-03:00",
+    "dataFim": "2027-06-02T18:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Licenciamento Ambiental e Desafios para a Indústria Mineira</i> com <b>Renata Albuquerque Neves</b> e <b>Tiago Belchior</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2027-06-02T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Performance instrumental de boas-vindas com o violonista <b>Gabriel Toledo Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-03T08:30:00-03:00",
+    "dataFim": "2027-06-03T10:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas de Conservação da Mata Atlântica</i>, com <b>Patrícia Siqueira Campos</b> e o ambientalista <b>Fernando Prado Guedes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-03T10:00:00-03:00",
+    "dataFim": "2027-06-03T11:00:00-03:00",
+    "descricao": "<p>Abordagem do tema <i>Bioeconomia Circular na Agropecuária Familiar</i> com o palestrante <b>Dr. Vinícius Castelo Branco</b>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": null,
+    "dataInicio": "2027-06-03T11:00:00-03:00",
+    "dataFim": "2027-06-03T11:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicação Oral 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2027-06-03T11:20:00-03:00",
+    "dataFim": "2027-06-03T12:30:00-03:00",
+    "descricao": "<p>Exposição do artigo <i>Recuperação de Áreas Degradadas em Pastagens de Minas Gerais</i> por <b>Sofia Brandão</b> e <b>Igor Matos Peçanha</b>.</p>",
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Comunicação Oral 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-06-03T11:20:00-03:00",
+    "dataFim": "2027-06-03T12:30:00-03:00",
+    "descricao": "<p>Exposição do estudo <i>Impacto dos Microplásticos nos Efluentes Sanitários Municipais</i> por <b>Helena Silveira</b>.</p>",
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-06-03T12:30:00-03:00",
+    "dataFim": "2027-06-03T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Setorial",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-03T14:00:00-03:00",
+    "dataFim": "2027-06-03T15:30:00-03:00",
+    "descricao": "<p>Encontro focalizando <i>Logística Reversa e o Marco Legal do Saneamento</i>, mediado por <b>Clarissa Fontes</b> com participações de <b>Otávio Bicalho</b> e <b>Laura Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres 2",
+    "lugar": "Foyer das Galerias",
+    "dataInicio": "2027-06-03T15:30:00-03:00",
+    "dataFim": "2027-06-03T16:30:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas em biodiversidade sob mediação da <b>Dra. Cecília Andrade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento Convivência",
+    "lugar": null,
+    "dataInicio": "2027-06-03T16:30:00-03:00",
+    "dataFim": "2027-06-03T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-03T17:00:00-03:00",
+    "dataFim": "2027-06-03T18:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Adaptação Climática e Resiliência em Centros Urbanos</i>, com exposições de <b>Prof. André Barcellos</b> e <b>Marina Coutinho Lima</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Redes Ecológicas",
+    "lugar": null,
+    "dataInicio": "2027-06-03T18:30:00-03:00",
+    "dataFim": "2027-06-03T19:30:00-03:00",
+    "descricao": "<p>Articulação de ONGs e cooperativas locais coordenada por <b>Leandro Morais Furtado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-04T08:30:00-03:00",
+    "dataFim": "2027-06-04T09:40:00-03:00",
+    "descricao": "<p>Apresentação de <i>Monitoramento Remoto de Queimadas por Satélites</i> pelo pesquisador <b>Dr. Gustavo Pinheiro Valente</b>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Comunicação Oral 3",
+    "lugar": "Sala 101",
+    "dataInicio": "2027-06-04T09:40:00-03:00",
+    "dataFim": "2027-06-04T10:50:00-03:00",
+    "descricao": "<p>Sessão com leitura do trabalho <i>Arborização Urbana e Conforto Térmico no Bairro Cascatinha</i> por <b>Aline Furtado de Castro</b>.</p>",
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Comunicação Oral 4",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-06-04T09:40:00-03:00",
+    "dataFim": "2027-06-04T10:50:00-03:00",
+    "descricao": "<p>Exposição de <i>Valoração Econômica dos Serviços Ecossistêmicos em Juiz de Fora</i> por <b>Danilo Queiroz Pimenta</b>.</p>",
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-06-04T10:50:00-03:00",
+    "dataFim": "2027-06-04T11:10:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Comunitária",
+    "lugar": null,
+    "dataInicio": "2027-06-04T11:10:00-03:00",
+    "dataFim": "2027-06-04T12:30:00-03:00",
+    "descricao": "<p>Diálogo aberto sobre <i>Justiça Ambiental e Comunidades Periféricas</i> mediado pela líder comunitária <b>Valéria dos Santos Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-06-04T12:30:00-03:00",
+    "dataFim": "2027-06-04T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Delegados Ambientais",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-04T14:00:00-03:00",
+    "dataFim": "2027-06-04T15:30:00-03:00",
+    "descricao": "<p>Votação e redação da <i>Carta de Juiz de Fora pelo Clima 2027</i>, sob coordenação de <b>Flávia Muniz Lacerda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-04T15:30:00-03:00",
+    "dataFim": "2027-06-04T16:45:00-03:00",
+    "descricao": "<p>Conferência especial <i>Horizontes da Governança Ambiental Global</i> ministrada pela <b>Embaixadora Sílvia Amaral Bastos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos Científicos",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-06-04T16:45:00-03:00",
+    "dataFim": "2027-06-04T17:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas conduzida pelo <b>Prof. Dr. Samuel Antunes Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": null,
+    "dataInicio": "2027-06-04T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Agradecimentos institucionais com a comissão organizadora presidida por <b>Dra. Elisa Borges Fagundes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

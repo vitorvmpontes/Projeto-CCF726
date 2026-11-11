@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-42-00006",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Vitória - ES",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:43+00:00",
+ "uso_tokens": {
+  "entrada": 676,
+  "saida": 1255
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Brasileiro de Engenharia Costeira e Portuária",
+   "local_geral": "Centro de Convenções de Vitória, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Mar Caspio",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T09:15:00-03:00",
+    "descricao": "<p>Boas-vindas da comissão organizadora com a presença de <b>Dr. Henrique Vasconcellos</b> e autoridades portuárias locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": null,
+    "dataInicio": "2024-08-22T09:30:00-03:00",
+    "dataFim": "2024-08-22T11:00:00-03:00",
+    "descricao": "<p>Tema: Modelagem Hidrodinâmica e Transporte de Sedimentos.</p><p>Apresentação do artigo <i>Simulação numérica tridimensional da dispersão de plumas de dragagem no Canal de Cotovelo</i> por <b>Mariana Siqueira Rios</b> e <b>Carlos Eduardo Fontes</b>.</p><p>Apresentação do artigo <i>Análise de extremos de maré meteorológica na Baía de Vitória</i> por <b>Juliana P. Albuquerque</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": null,
+    "dataInicio": "2024-08-22T11:15:00-03:00",
+    "dataFim": "2024-08-22T12:30:00-03:00",
+    "descricao": "<p>Tema: Obras de Proteção Costeira e Sustentabilidade.</p><p>Apresentação do artigo <i>Comportamento estrutural de dissipadores com blocos pré-moldados intertravados</i> por <b>Felipe Bastos Prado</b>.</p><p>Apresentação do artigo <i>Avaliação da erosão em praias arenosas com monitoramento por VANT</i> por <b>Renata Nogueira Guimarães</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-22T12:30:00-03:00",
+    "dataFim": "2024-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-08-22T14:00:00-03:00",
+    "dataFim": "2024-08-22T15:30:00-03:00",
+    "descricao": "<p>Exposição e arguição de trabalhos de iniciação científica e pós-graduação sobre infraestrutura portuária e monitoramento oceanográfico. Coordenação de <b>Prof. Roberto Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": null,
+    "dataInicio": "2024-08-22T15:45:00-03:00",
+    "dataFim": "2024-08-22T17:15:00-03:00",
+    "descricao": "<p>Tema: Operações e Gestão Portuária Verde.</p><p>Apresentação do trabalho <i>Indicadores ambientais aplicados à dragagem de manutenção no Porto de Tubarão</i> por <b>Tatiana Mendes Vieira</b>.</p><p>Apresentação do trabalho <i>Eficiência energética e descarbonização em terminais de contêineres</i> por <b>Lucas Damasceno Ferraz</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Mar Caspio",
+    "dataInicio": "2024-08-22T17:30:00-03:00",
+    "dataFim": "2024-08-22T18:30:00-03:00",
+    "descricao": "<p>Anúncio dos melhores artigos científicos do congresso pelo comitê avaliador liderado por <b>Dra. Cecília Morais Dantas</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

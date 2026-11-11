@@ -1,0 +1,164 @@
+{
+ "spec": {
+  "id": "sint-42-00132",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Vitória - ES",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 17,
+  "casos": [
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:51+00:00",
+ "uso_tokens": {
+  "entrada": 651,
+  "saida": 2800
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Capixaba de Professores da Educação Básica",
+   "local_geral": "Centro Integrado de Educação Básica, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Material",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da secretária municipal de educação <b>Mariana Castro Alvim</b> e do reitor <b>Prof. Dr. Cláudio Rangel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-16T10:15:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios da Alfabetização no Pós-Pandemia: Recomposição e Afeto</i>, ministrada pela <b>Profa. Dra. Heloísa Vasconcelos</b> com coordenação de <b>Carlos Eduardo Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogos 1",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Práticas Antirracistas no Cotidiano Escolar</i>. Coordenação: <b>Luciana Pereira</b>. Participantes: <b>Marcus Vinícius Aguiar</b> e <b>Jocilene Barcelos</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos selecionados sob coordenação de <b>Patrícia Miguez</b>. Trabalhos: <i>Horta Comunitária como Ferramenta Interdisciplinar nos Anos Iniciais</i> por <b>Juliana Figueiredo</b> e <b>Gabriel Pires</b>; <i>Gamificação na Matemática: Experiências do 6º Ano</i> por <b>André Luiz Meireles</b>; <i>Mediação de Leitura e Contação de Histórias na Creche</i> por <b>Renata Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Laboratório Didático 1",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Criação de Histórias em Quadrinhos e Animação em Sala de Aula</i> com os professores <b>Danilo Albuquerque</b> e <b>Samara Antunes</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala de Multimeios 3",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Estratégias para Educação Inclusiva e Atendimento Educacional Especializado</i>, facilitada por <b>Tereza Cristina Ramos</b> e <b>Letícia Duarte</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa Pedagógica e Café",
+    "lugar": null,
+    "dataInicio": "2024-05-17T11:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Simone Beltrame</b>. Apresentações: <i>A Utilização de Podcast no Ensino Médio Público</i> por <b>Rodrigo Assis</b>; <i>Laboratório Itinerante de Ciências Naturais</i> por <b>Camila Siqueira</b> e <b>Tatiane Lourenço</b>; <i>Diários de Bordo e a Avaliação Formativa no Ensino Fundamental</i> por <b>Fábio Novaes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 104",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Prof. Roberto Coutinho</b>. Trabalhos em pauta: <i>EJA e Mundo do Trabalho: Saberes Docentes Compartilhados</i> por <b>Beatriz Valença</b>; <i>Educação Patrimonial no Centro Histórico de Vitória</i> por <b>Vitor Zanotti</b> e <b>Carla Mendonça</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Mesa de Diálogos 2",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Saúde Mental e Bem-Estar Docente nas Redes Públicas</i>. Mediação feita por <b>Kátia Toledo</b>, com exposições de <b>Dr. Henrique Paiva</b> e <b>Maristela Vianna</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mostra de Práticas Pedagógicas",
+    "lugar": null,
+    "dataInicio": "2024-05-18T08:30:00-03:00",
+    "dataFim": "2024-05-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação de relatos de experiência premiados da rede municipal. Coordenação de <b>Nádia Guimarães</b>. Projetos: <i>Cineclube Escolar e Crítica Social</i> apresentado por <b>Wellington Rosa</b>; <i>Robótica Sustentável com Materiais Recicláveis</i> apresentado por <b>Marina Paixão</b> e <b>Bruno Falcão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2024-05-18T10:45:00-03:00",
+    "dataFim": "2024-05-18T12:00:00-03:00",
+    "descricao": "<p>Tema livre: <i>Construção Coletiva do Currículo Escolar</i>, coordenada por <b>Glória Maria Peçanha</b> e com intervenções de <b>Fernando Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-18T13:30:00-03:00",
+    "dataFim": "2024-05-18T15:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>O Futuro da Educação Pública: Compromissos, Desafios e Esperança</i> ministrada pelo <b>Prof. Dr. Antônio Severino Matos</b> e presidida por <b>Mariana Castro Alvim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-05-18T15:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do coral dos estudantes municipais regido pelo maestro <b>Tiago Benevides</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

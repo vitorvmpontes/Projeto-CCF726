@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-42-00333",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Brasília - DF",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos",
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:27+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 856
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Brasiliense de Direito Constitucional e Jurisdição Administrativa",
+   "local_geral": "Centro de Convenções Ulysses Guimarães, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": null,
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática",
+    "lugar": "Auditório Master",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Mesa de abertura: <i>O Controle de Constitucionalidade e a Eficiência Administrativa</i>.</p><p>Coordenação: <b>Dra. Mariana Vasconcellos</b>.</p><p>Palestrantes convidados: <b>Prof. Dr. Ricardo Silveira Fontes</b> apresentando <i>Modulação de Efeitos na Jurisprudência Recente</i> e <b>Des. Cláudia Mendonça de Alencar</b> abordando <i>A Discricionariedade Técnica dos Tribunais de Contas</i>.</p>",
+    "secao": "Mesas-Redondas Matutinas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-Redondas Matutinas"
+   },
+   {
+    "nome": "Sessão Temática",
+    "lugar": "Auditório Master",
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Processo Administrativo e Garantias Fundamentais</i>.</p><p>Coordenador: <b>Dr. Henrique Paes Barreto</b>.</p><p>Apresentação dos trabalhos: <i>A Vinculação Administrativa aos Precedentes Judiciais</i>, por <b>Lucas Amaral Prado</b>; e <i>Devido Processo e Prova Digital nos Litígios Tributários</i>, por <b>Fernanda Bittencourt Soares</b>.</p>",
+    "secao": "Mesas-Redondas Matutinas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-18T12:30:00-03:00",
+    "dataFim": "2026-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

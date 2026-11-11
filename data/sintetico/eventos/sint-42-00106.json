@@ -1,0 +1,243 @@
+{
+ "spec": {
+  "id": "sint-42-00106",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Macapá - AP",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 27,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:40+00:00",
+ "uso_tokens": {
+  "entrada": 638,
+  "saida": 4193
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Pan-Amazônico de Direito Ambiental e Garantias Fundamentais",
+   "local_geral": "Centro de Convenções Territorial Marco Zero do Equador, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Congressistas e Entrega de Crachás",
+    "lugar": "Hall de Entrada Principal",
+    "dataInicio": "2026-08-17T14:00:00-03:00",
+    "dataFim": "2026-08-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-17T18:00:00-03:00",
+    "dataFim": "2026-08-17T19:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do desembargador <b>Carlos Augusto Picanço</b> e da procuradora-geral de justiça <b>Terezinha de Jesus Chaves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Inaugural",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-17T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência de abertura intitulada <i>O Constitucionalismo Ecológico frente aos Desafios Climáticos na Amazônia Setentrional</i>, proferida pelo jurista <b>Marcelo Varella</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda I",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-18T09:00:00-03:00",
+    "dataFim": "2026-08-18T11:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Litigância Climática e Responsabilidade Civil do Estado</i>. Participação de <b>Ingo Wolfgang Sarlet</b> e <b>Edis Milaré</b>. Mediação de <b>Luciana Trindade da Silva</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-08-18T11:00:00-03:00",
+    "dataFim": "2026-08-18T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda II",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-18T11:30:00-03:00",
+    "dataFim": "2026-08-18T13:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Proteção Transfronteiriça e Crimes Ambientais no Escudo das Guianas</i> com os expositores <b>François Garraud</b> e <b>Valdenir Montezel</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda III",
+    "lugar": "Auditório Bacaba",
+    "dataInicio": "2026-08-18T15:00:00-03:00",
+    "dataFim": "2026-08-18T17:00:00-03:00",
+    "descricao": "<p>Painel temático abordando <i>Marco Temporal e Demarcação de Terras Tradicionais</i>. Palestrantes: <b>Eloy Terena</b> e <b>Gisele Akemi Takahashi</b>. Coordenação dos trabalhos por <b>Sérgio Paulo Cavalcante</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Galeria das Nações",
+    "dataInicio": "2026-08-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição e avaliação de pesquisas jurídicas com a coordenação acadêmica da Profa. Dra. <b>Maria do Carmo Rebouças</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda IV",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-19T09:00:00-03:00",
+    "dataFim": "2026-08-19T10:45:00-03:00",
+    "descricao": "<p>Apresentação da temática <i>Créditos de Carbono, Mercado Voluntário e Soberania Nacional</i>, apresentada por <b>Gabriel Wedy</b> e <b>Ana Paula Leite Prates</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda V",
+    "lugar": "Auditório Bacaba",
+    "dataInicio": "2026-08-19T11:00:00-03:00",
+    "dataFim": "2026-08-19T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Mineração em Terras Públicas e Impactos aos Direitos Socioambientais</i> com os debatedores <b>Danielle de Andrade e Silva</b> e <b>Marcos André Souto Maior</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos - Eixo A",
+    "lugar": "Sala Temática 1",
+    "dataInicio": "2026-08-19T14:30:00-03:00",
+    "dataFim": "2026-08-19T16:30:00-03:00",
+    "descricao": "<p>Sessão com apresentação dos artigos: <i>O Acesso à Água Potável como Direito Humano Fundamental</i>, pelo pesquisador <b>Igor Sena Monteiro</b>, e <i>Licenciamento Ambiental no Amapá: Desafios Regulatórios</i>, apresentado por <b>Camila Duarte Figueira</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos - Eixo B",
+    "lugar": "Sala Temática 2",
+    "dataInicio": "2026-08-19T14:30:00-03:00",
+    "dataFim": "2026-08-19T16:30:00-03:00",
+    "descricao": "<p>Defesa de artigos científicos coordenada pelo Prof. Me. <b>Joaquim Braz do Nascimento</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda VI",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-19T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre <i>Direito Processual Coletivo e a Proteção das Florestas Tropicais</i>. Convidados: <b>Hermes Zaneti Junior</b> e <b>Patrícia Ferreira Ramos</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Workshop I",
+    "lugar": "Laboratório de Práticas Jurídicas",
+    "dataInicio": "2026-08-20T08:30:00-03:00",
+    "dataFim": "2026-08-20T10:30:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>Elaboração de Termos de Ajustamento de Conduta Ambiental</i>, ministrada pelo promotor de justiça <b>Adilson Garcia Gouvêa</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Workshop II",
+    "lugar": "Sala Temática 3",
+    "dataInicio": "2026-08-20T08:30:00-03:00",
+    "dataFim": "2026-08-20T10:30:00-03:00",
+    "descricao": "<p>Oficina metodológica sobre <i>Perícia Forense e Prova Pericial em Desastres Ecológicos</i>, conduzida pelo perito criminal federal <b>Roberto Meirelles Pontes</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Mesa-Redonda VII",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-20T11:00:00-03:00",
+    "dataFim": "2026-08-20T12:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Poder Judiciário, Direitos da Natureza e o Bem Viver</i>. Exposição de <b>Élida Lauris</b> e <b>Carlos Frederico Marés de Souza Filho</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-08-20T12:45:00-03:00",
+    "dataFim": "2026-08-20T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop III",
+    "lugar": "Laboratório de Práticas Jurídicas",
+    "dataInicio": "2026-08-20T14:30:00-03:00",
+    "dataFim": "2026-08-20T16:30:00-03:00",
+    "descricao": "<p>Oficina de treinamento sobre <i>Técnicas de Negociação em Conflitos Sociofundiários</i>, sob a instrução da mediadora <b>Helena Lacerda Fontes</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Mesa-Redonda VIII",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-20T17:00:00-03:00",
+    "dataFim": "2026-08-20T19:00:00-03:00",
+    "descricao": "<p>Análise do tema <i>Consulta Prévia, Livre e Informada (Convenção 169 da OIT): Eficácia e Jurisprudência</i>, com as presenças de <b>Manuela Carneiro da Cunha</b> e <b>Fábio Feldmann</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Lançamento de Obras Jurídicas",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-08-20T19:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos da coletânea <i>Direito Ecológico no Século XXI</i>, organizada pelos professores <b>Antônio Herman Benjamin</b> e <b>Clarissa Brandão Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda IX",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-21T09:00:00-03:00",
+    "dataFim": "2026-08-21T10:30:00-03:00",
+    "descricao": "<p>Painel sobre <i>Segurança Pública, Facções Criminosas e Narcogarimpo na Região Norte</i>. Palestras de <b>Aiala Colares Couto</b> e <b>Melina Risso</b>. Mediação de <b>Otávio Celso de Paula</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda X",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-21T10:45:00-03:00",
+    "dataFim": "2026-08-21T12:15:00-03:00",
+    "descricao": "<p>Debate abordando <i>Direito das Cidades Amazônicas e Regularização Fundiária Urbana</i> com <b>Nelson Saule Júnior</b> e <b>Betânia Alfonsin</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Assembleia dos Grupos de Trabalho",
+    "lugar": "Sala de Reuniões do Conselho",
+    "dataInicio": "2026-08-21T14:00:00-03:00",
+    "dataFim": "2026-08-21T15:30:00-03:00",
+    "descricao": "<p>Reunião de deliberação para redação da Carta de Macapá sobre Justiça Climática, coordenada pelo secretário-geral <b>Bruno Alcolumbre Sobral</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Plenária de Encerramento",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-21T16:00:00-03:00",
+    "dataFim": "2026-08-21T17:30:00-03:00",
+    "descricao": "<p>Apresentação especial com o tema <i>A Amazônia no Centro do Debate Geopolítico Internacional e os Direitos Humanos</i>, ministrada pelo jurista <b>Paulo Affonso Leme Machado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Leitura da Carta de Macapá",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-21T17:30:00-03:00",
+    "dataFim": "2026-08-21T18:00:00-03:00",
+    "descricao": "<p>Apresentação e aprovação plenária do documento oficial de proposições redigido durante o evento, conduzida pela relatora <b>Renata Cordeiro de Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2026-08-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Jovem Pesquisador Ambiental 2026 e encerramento protocolar com a comissão organizadora presidida pela juíza <b>Larissa Noronha Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Área Externa - Anfiteatro Rio Amazonas",
+    "dataInicio": "2026-08-21T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de marabaixo tradicional com o grupo cultural sob liderança de <b>Dona Esmeraldina dos Santos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

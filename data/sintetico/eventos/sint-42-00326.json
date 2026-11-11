@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00326",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "descricoes_ricas",
+   "titulos_longos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:03+00:00",
+ "uso_tokens": {
+  "entrada": 693,
+  "saida": 1363
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Centro-Oeste de Direito Ambiental e Agronegócio Sustentável",
+   "local_geral": "Centro de Eventos do Pantanal, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Tema de abertura: <i>Desafios contemporâneos da conciliação entre preservação dos biomas e desenvolvimento produtivo na região Centro-Oeste</i>.</p><p>Composição da mesa diretora com pronunciamentos da Dra. <b>Helena Silveira Prado</b> e do Dr. <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 1",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Tema central: <i>Impactos do Novo Marco Temporal e a Jurisprudência Recente dos Tribunais Superiores Sobre Conflitos Fundiários no Brasil</i>.</p><p>Coordenação dos trabalhos a cargo do Prof. <b>Rodrigo Vianna de Albuquerque</b>.</p><p>Palestrantes convidados: Dra. <b>Beatriz Mendonça Fontes</b> abordando <i>A segurança jurídica registral e as terras devolutas</i> e o Dr. <b>Luciano Queiroz Guimarães</b> expondo <i>Tutela possessória e mediação judicial em disputas agrárias coletivas</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Pantanal 3",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos científicos selecionados pelo comitê acadêmico.</p><p>Coordenação da mesa avaliadora: Profa. Dra. <b>Mariana Siqueira Campos</b>.</p><p>Trabalhos apresentados:</p><p>- <i>Análise crítica dos mecanismos extrajudiciais de resolução de conflitos socioambientais em bacias hidrográficas transfronteiriças sob a ótica constitucional</i>, por <b>Camila Duarte Nogueira</b> e <b>Otávio Henrique Pires</b>;</p><p>- <i>O papel dos créditos de descarbonização na governança corporativa e conformidade regulatória das cooperativas agropecuárias mato-grossenses</i>, por <b>Lucas Fernandes Roriz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 2",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mercado de carbono, tributação verde e governança ESG no campo</i>.</p><p>Coordenação: Des. <b>Marcos Vinicius Rezende</b>.</p><p>Debatedores: Profa. <b>Larissa Gomide Castro</b> analisando <i>Instrumentos econômicos de tutela ecológica</i> e Dr. <b>Felipe Bastos Nogueira</b> apresentando <i>A responsabilidade civil decorrente de irregularidades no Cadastro Ambiental Rural</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Painel Acadêmico Especial",
+    "lugar": "Auditório Guimarães",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Subtítulo do painel: <i>Responsabilidade Civil das Empresas do Setor Produtivo por Danos Transindividuais Decorrentes de Mudanças Climáticas Globais</i>.</p><p>Coordenação executiva do Dr. <b>Thiago Alencar Marinho</b>.</p><p>Exposições dos pesquisadores <b>Vanessa Toledo Carvalho</b> e Dr. <b>Guilherme Esteves Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Bororos",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação e aprovação da <i>Carta de Cuiabá sobre Direito Ambiental e Agronegócio</i>.</p><p>Leitura conduzida pela Dra. <b>Patrícia Vasconcelos Maia</b> com mediação do Prof. <b>Antônio Augusto Zanin</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

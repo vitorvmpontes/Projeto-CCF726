@@ -1,0 +1,195 @@
+{
+ "spec": {
+  "id": "sint-42-00157",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:37+00:00",
+ "uso_tokens": {
+  "entrada": 655,
+  "saida": 3040
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio de Pós-Graduação em Agroecologia e Sustentabilidade do Campus Florestal",
+   "local_geral": "Universidade Federal de Viçosa - Campus Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Congressistas e Entrega de Crachás",
+    "lugar": "Hall do Prédio Principal",
+    "dataInicio": "2026-05-20T08:00:00-03:00",
+    "dataFim": "2026-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da comissão organizadora, coordenada pelo <b>Prof. Dr. Marcelo Guimarães</b> e pela diretoria do campus.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-20T10:00:00-03:00",
+    "dataFim": "2026-05-20T11:45:00-03:00",
+    "descricao": "<p>Conferência <i>Transição Agroecológica e Soberania Alimentar Frente aos Cenários Críticos de Mudanças Climáticas Globais no Cerrado Mineiro Contemporâneo</i>, ministrada pela <b>Dra. Helena Brandão Resende</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:00:00-03:00",
+    "dataFim": "2026-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 1",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-20T13:30:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas para a Agricultura Familiar</i> com os debatedores <b>Dr. Rogério Meireles</b> e <b>Profa. Camila Vargas</b>. Moderação por <b>Profa. Beatriz Nogueira</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2026-05-20T15:30:00-03:00",
+    "dataFim": "2026-05-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis I",
+    "lugar": "Galeria de Exposições",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": "2026-05-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos de mestrado e doutorado com mediação de <b>Dr. Cláudio Peixoto</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Solos 2",
+    "dataInicio": "2026-05-21T08:00:00-03:00",
+    "dataFim": "2026-05-21T10:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Bioindicadores de Qualidade do Solo</i> conduzida pela <b>Profa. Tatiana Duarte</b>.</p>",
+    "secao": "Cursos de Curta Duração"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2026-05-21T08:00:00-03:00",
+    "dataFim": "2026-05-21T10:00:00-03:00",
+    "descricao": "<p>Oficina <i>Análise Espacial de Bacias Hidrográficas em R</i> lecionada pelo <b>Prof. Lucas Furtado</b>.</p>",
+    "secao": "Cursos de Curta Duração"
+   },
+   {
+    "nome": "Lanche da Manhã",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2026-05-21T10:00:00-03:00",
+    "dataFim": "2026-05-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-21T10:30:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desenvolvimento de Práticas Pedagógicas Inovadoras no Ensino Superior Aplicadas à Formação Interdisciplinar em Ciências Agrárias Contemporâneas</i>, proferida pela <b>Dra. Vanessa Mendonça</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T12:00:00-03:00",
+    "dataFim": "2026-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 2",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Painel <i>Manejo Biológico de Pragas e Conservação da Biodiversidade</i> com os especialistas <b>Dr. Thiago Alencar</b> e <b>Dra. Juliana Prado</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Sessão de Painéis II",
+    "lugar": "Galeria de Exposições",
+    "dataInicio": "2026-05-21T16:00:00-03:00",
+    "dataFim": "2026-05-21T18:00:00-03:00",
+    "descricao": "<p>Segunda rodada de avaliações com coordenação do <b>Prof. André Silveira</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Anfiteatro Externo",
+    "dataInicio": "2026-05-21T18:30:00-03:00",
+    "dataFim": "2026-05-21T19:30:00-03:00",
+    "descricao": "<p>Concerto de viola caipira com o músico <b>Renato Vilela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Sala 104 - Bloco C",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Atividade especial <i>Estratégias Avançadas para Redação e Publicação de Artigos Científicos de Alto Impacto em Revistas Acadêmicas Internacionais</i>, ministrada pelo <b>Prof. Dr. Ricardo Castanheira</b>.</p>",
+    "secao": "Cursos de Curta Duração"
+   },
+   {
+    "nome": "Pausa Matutina",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicação Oral dos Destaques",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": "2026-05-22T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos melhores resumos selecionados pelo comitê acadêmico sob supervisão de <b>Profa. Fernanda Sales</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:30:00-03:00",
+    "dataFim": "2026-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T15:45:00-03:00",
+    "descricao": "<p>Apresentação <i>Desafios da Pós-Graduação Brasileira</i> proferida pelo <b>Prof. Antônio Carlos de Souza</b>.</p>",
+    "secao": "Conferências"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-22T16:00:00-03:00",
+    "dataFim": "2026-05-22T17:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas e conclusão do simpósio com os professores <b>Marcelo Guimarães</b> e <b>Tatiana Duarte</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

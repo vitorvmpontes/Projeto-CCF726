@@ -1,0 +1,246 @@
+{
+ "spec": {
+  "id": "sint-42-00454",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 27,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:41+00:00",
+ "uso_tokens": {
+  "entrada": 712,
+  "saida": 3958
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Engenharia de Produção e Sustentabilidade",
+   "local_geral": "Centro de Convenções da Universidade Federal de Juiz de Fora, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-05-20T08:00:00-03:00",
+    "dataFim": "2026-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral <b>Carlos Eduardo Guimarães</b> e pela reitora <b>Maria Luiza Fernandes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-20T10:00:00-03:00",
+    "dataFim": "2026-05-20T11:30:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>Impactos Globais da Transição Energética Justa e os Desafios Contemporâneos para a Sustentabilidade Produtiva das Pequenas e Médias Indústrias</i>, ministrada pelo pesquisador <b>Álvaro Siqueira Bastos</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-20T11:30:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Cadeias de Suprimentos Sustentáveis",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Patrícia Ramos de Oliveira</b>. Apresentação do trabalho <i>Logística reversa de resíduos eletrônicos na Zona da Mata mineira</i> por <b>Felipe Augusto Paiva</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2: Indústria 4.0 e Automação",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Renato Silveira Pinto</b>. Apresentação do artigo <i>Aplicação de gêmeos digitais no monitoramento de plantas industriais</i> por <b>Juliana Costa Mendes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2026-05-20T15:30:00-03:00",
+    "dataFim": "2026-05-20T17:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos painéis acadêmicos sob a coordenação do docente <b>Marcos Vinícius Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório B",
+    "dataInicio": "2026-05-20T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre <i>Economia Circular em Centros Urbanos</i> mediado por <b>Larissa Fontes</b> com os debatedores <b>Gustavo Nogueira</b> e <b>Beatriz Valadares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2026-05-20T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Atividades Sociais"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T10:30:00-03:00",
+    "descricao": "<p>Atividade intitulada <i>Desenvolvimento de Modelos Preditivos com Aprendizado de Máquina Aplicados ao Diagnóstico de Falhas em Linhas Complexas de Produção Manufatureira</i>, com o facilitador <b>Bruno Alencar Neves</b>.</p>",
+    "secao": "Oficinas Técnicas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Ensaios Mecânicos",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T10:30:00-03:00",
+    "descricao": "<p>Minicurso prático sobre ensaios não destrutivos com o engenheiro <b>Thiago Rezende Matos</b>.</p>",
+    "secao": "Oficinas Técnicas"
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-21T10:30:00-03:00",
+    "dataFim": "2026-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-21T11:00:00-03:00",
+    "dataFim": "2026-05-21T12:30:00-03:00",
+    "descricao": "<p>Exposição da conferencista <b>Helena Moreira Dias</b> com a palestra <i>O Papel da Governança Socioambiental nas Cadeias Globais de Suprimentos</i>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão Técnica 3: Ergonomia e Segurança do Trabalho",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Sessão sob responsabilidade da professora <b>Cláudia Regina Barros</b>. Apresentação do artigo <i>Avaliação postural e fadiga muscular em operadores da indústria automobilística</i> por <b>Rodrigo Assis Lima</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4: Gestão da Qualidade e Produtividade",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Daniel Meireles Prado</b>. Trabalho apresentado: <i>Implementação do Seis Sigma em empresa farmacêutica</i> por <b>Camila Duarte Ferreira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2026-05-21T15:30:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Segunda rodada de avaliações de pôsteres com a comissão técnica liderada por <b>Aline Pires Santana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Coordenadores de Pós-Graduação",
+    "lugar": null,
+    "dataInicio": "2026-05-21T17:00:00-03:00",
+    "dataFim": "2026-05-21T18:30:00-03:00",
+    "descricao": "<p>Encontro institucional dirigido pelo professor <b>Fernando Antunes Cabral</b> para debater os critérios de avaliação e fomento de pesquisa.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral da Associação",
+    "lugar": "Auditório B",
+    "dataInicio": "2026-05-21T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Reunião de membros associados presidida por <b>Mariana Vasconcelos Rios</b> para deliberação de pautas internas e nova diretoria.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Jantar de Confraternização",
+    "lugar": null,
+    "dataInicio": "2026-05-21T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Atividades Sociais"
+   },
+   {
+    "nome": "Painel de Discussão Técnica",
+    "lugar": "Auditório B",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:00:00-03:00",
+    "descricao": "<p>Apresentação com o título <i>Integração de Tecnologias Limpas e Métodos Quantitativos para Redução de Emissões de Carbono no Transporte Pesado Rodoviário</i> pelo engenheiro <b>Lucas Queiroz Martins</b> e pela consultora <b>Valéria Gomes Freire</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-22T10:00:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5: Pesquisa Operacional Aplicada",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T12:00:00-03:00",
+    "descricao": "<p>Apresentações coordenadas por <b>Gabriel Rocha Magalhães</b>. Artigo em destaque: <i>Otimização de rotas de coleta urbana utilizando meta-heurísticas</i> por <b>Sabrina Toledo Borges</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 6: Engenharia Econômica e Finanças",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T12:00:00-03:00",
+    "descricao": "<p>Coordenação da docente <b>Tatiane Viana Carvalho</b>. Discussão sobre risco financeiro em projetos de infraestrutura com o autor <b>Leandro Silveira Santos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Especial: Fórum de Jovens Pesquisadores",
+    "lugar": null,
+    "dataInicio": "2026-05-22T13:30:00-03:00",
+    "dataFim": "2026-05-22T15:00:00-03:00",
+    "descricao": "<p>Espaço para pós-graduandos apresentarem projetos em andamento, coordenado por <b>André Luiz Castilho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-22T15:00:00-03:00",
+    "dataFim": "2026-05-22T16:30:00-03:00",
+    "descricao": "<p>Conferência ministrada pelo pesquisador emérito <b>Samuel Guimarães Prado</b> sobre os horizontes futuros da engenharia de produção no Brasil.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-22T16:30:00-03:00",
+    "dataFim": "2026-05-22T17:30:00-03:00",
+    "descricao": "<p>Divulgação dos melhores artigos científicos conduzida pelos coordenadores do comitê científico <b>Renata Barreto Fontoura</b> e <b>Jorge Henrique Salles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento das Atividades",
+    "lugar": null,
+    "dataInicio": "2026-05-22T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "spec": {
+  "id": "sint-42-00028",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 17,
+  "casos": [
+   "descricoes_ricas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:28+00:00",
+ "uso_tokens": {
+  "entrada": 651,
+  "saida": 2754
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Mostra Integrada de Extensão Universitária de Florestal",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Participantes e Entrega de Crachás",
+    "lugar": "Hall do Prédio Principal",
+    "dataInicio": "2026-10-22T08:00:00-03:00",
+    "dataFim": "2026-10-22T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2026-10-22T09:00:00-03:00",
+    "dataFim": "2026-10-22T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da diretora <b>Mariana Vasconcelos</b> e do pró-reitor adjunto <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2026-10-22T10:00:00-03:00",
+    "dataFim": "2026-10-22T11:30:00-03:00",
+    "descricao": "<p>Conferência <i>A Curricularização da Extensão e o Impacto no Desenvolvimento Regional</i> ministrada por <b>Luciana Guimarães Duarte</b>, com coordenação de <b>Renato Silveira Neves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2026-10-22T11:30:00-03:00",
+    "dataFim": "2026-10-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2026-10-22T14:00:00-03:00",
+    "dataFim": "2026-10-22T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mídias Digitais e Divulgação Científica para Comunidades Rurais</i>. Facilitador: <b>Otávio Augusto Morais</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Casa de Vegetação",
+    "dataInicio": "2026-10-22T14:00:00-03:00",
+    "dataFim": "2026-10-22T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Produção Agroecológica de Hortaliças em Pequenas Propriedades</i>. Ministrantes: <b>Patrícia Sampaio Ribeiro</b> e <b>Jorge Luís Camargo</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Bloco A",
+    "lugar": "Galeria Central de Convivência",
+    "dataInicio": "2026-10-22T16:15:00-03:00",
+    "dataFim": "2026-10-22T18:00:00-03:00",
+    "descricao": "<p>Coordenação geral de <b>Flávia Toledo</b>. Trabalhos apresentados:</p><p><i>Educação Ambiental nas Escolas Municipais de Florestal</i> por <b>Camila Santos Moura</b> e <b>Beatriz Rezende</b>;</p><p><i>Horta Comunitária: Segurança Alimentar no Bairro Nossa Senhora Aparecida</i> por <b>Rodrigo Alves Mendes</b>;</p><p><i>Inclusão Digital para Idosos da Região Central</i> por <b>Jéssica Fontes de Melo</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2026-10-22T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação especial do <i>Coral Vozes da Mata</i>, sob regência do maestro <b>Sebastião Valadares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": "Auditório da Engenharia",
+    "dataInicio": "2026-10-23T08:30:00-03:00",
+    "dataFim": "2026-10-23T10:30:00-03:00",
+    "descricao": "<p>Tema geral: <i>Extensão Universitária e Políticas Públicas de Saúde Coletiva</i>.</p><p>Coordenadora da mesa: <b>Denise Prado Rocha</b>. Debatedores convidados: <b>Gilberto Antunes Martins</b> e <b>Solange Ferreira Braga</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2026-10-23T10:30:00-03:00",
+    "dataFim": "2026-10-23T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala 104 - Bloco Pedagógico",
+    "dataInicio": "2026-10-23T11:00:00-03:00",
+    "dataFim": "2026-10-23T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Márcio Henrique Viana</b>. Comunicações orais na área de Meio Ambiente:</p><p>1. <i>Recuperação de Nascentes na Bacia do Rio Paraopeba</i> por <b>Thaís Helena Godoy</b>;</p><p>2. <i>Monitoramento da Qualidade das Águas Rurais</i> por <b>Danilo Queiroz Ramos</b>;</p><p>3. <i>Compostagem Escolar: Desafios e Resultados</i> por <b>Elisa Nogueira Pinheiro</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala 106 - Bloco Pedagógico",
+    "dataInicio": "2026-10-23T11:00:00-03:00",
+    "dataFim": "2026-10-23T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Heloísa Helena Miranda</b>. Comunicações orais na área de Educação e Cultura:</p><p>1. <i>Contação de Histórias na Primeira Infância</i> por <b>Aline Castro Peixoto</b>;</p><p>2. <i>Teatro Popular e Identidade Mineira</i> por <b>Felipe Gustavo Cunha</b>;</p><p>3. <i>Capacitação Docente em Tecnologias Assistivas</i> por <b>Sabrina Dias Prado</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Feira de Troca Solidária",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2026-10-23T13:30:00-03:00",
+    "dataFim": "2026-10-23T15:30:00-03:00",
+    "descricao": "<p>Espaço de economia popular e solidária organizado por <b>Valéria Cristina Borges</b> com cooperativas de Florestal e Juatuba.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": null,
+    "dataInicio": "2026-10-23T14:00:00-03:00",
+    "dataFim": "2026-10-23T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Boas Práticas na Manipulação Artesanal de Alimentos</i>. Facilitadora: <b>Renata Albuquerque Luz</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2026-10-23T16:00:00-03:00",
+    "dataFim": "2026-10-23T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Diálogos entre a Universidade e os Produtores da Agricultura Familiar</i>. Mediação de <b>Antônio Marcos Cordeiro</b> com a presença dos líderes comunitários <b>José Geraldo Trindade</b> e <b>Marta Eunice de Jesus</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos Destaque",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2026-10-23T17:30:00-03:00",
+    "dataFim": "2026-10-23T18:15:00-03:00",
+    "descricao": "<p>Divulgação dos premiados do programa <i>Extensão Destaque 2026</i>, conduzida pelo comitê avaliador liderado por <b>Miriam Esteves Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2026-10-23T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,285 @@
+{
+ "spec": {
+  "id": "sint-42-00103",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Uberlândia - MG",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 32,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:30+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 4523
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Triângulo 2026",
+   "local_geral": "Centro de Convenções Center Minas, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-13T08:00:00-03:00",
+    "dataFim": "2026-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-13T09:00:00-03:00",
+    "dataFim": "2026-05-13T10:00:00-03:00",
+    "descricao": "<p>Solenidade de abertura com a presença de <b>Carlos Mendonça</b> e da diretora executiva <b>Renata Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Circuito de Demonstração Tecnológica",
+    "lugar": "Arena Tech Externa",
+    "dataInicio": "2026-05-13T10:00:00-03:00",
+    "dataFim": "2026-05-13T11:00:00-03:00",
+    "descricao": "<p>Apresentação ao vivo de maquinário autônomo com o engenheiro <b>Thiago Rezende</b>.</p>",
+    "secao": "Dinâmicas de Campo"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-13T10:15:00-03:00",
+    "dataFim": "2026-05-13T11:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>O Futuro dos Bioinsumos no Brasil Central</i> mediada por <b>Mariana Vilela</b>, com os painelistas <b>Dr. Roberto Fagundes</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão Pitch AgroStartup",
+    "lugar": null,
+    "dataInicio": "2026-05-13T10:15:00-03:00",
+    "dataFim": "2026-05-13T12:00:00-03:00",
+    "descricao": "<p>Apresentação de soluções inovadoras avaliadas pelos investidores <b>Rodrigo Lemos</b> e <b>Luciana Prado</b>.</p>",
+    "secao": "Arena de Investimentos"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2026-05-13T11:00:00-03:00",
+    "dataFim": "2026-05-13T12:30:00-03:00",
+    "descricao": "<p>Prática sobre <i>Sensoriamento Remoto Aplicado à Cana-de-Açúcar</i> ministrada por <b>Fernando Castilho</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-13T12:30:00-03:00",
+    "dataFim": "2026-05-13T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-13T14:00:00-03:00",
+    "dataFim": "2026-05-13T15:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Conectividade no Campo e Conectividade 5G em Áreas Remotas</i> pelo especialista <b>Alexandre Faria</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Oficina de Drones Agrícolas",
+    "lugar": "Arena Tech Externa",
+    "dataInicio": "2026-05-13T14:00:00-03:00",
+    "dataFim": "2026-05-13T15:30:00-03:00",
+    "descricao": "<p>Treinamento prático de pulverização direcionada com o instrutor <b>Diego Barreto</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Circuito de Demonstração Tecnológica",
+    "lugar": "Espaço Inovação Aberta",
+    "dataInicio": "2026-05-13T15:30:00-03:00",
+    "dataFim": "2026-05-13T16:30:00-03:00",
+    "descricao": "<p>Segunda bateria de demonstrações de robótica agrícola conduzida por <b>Thiago Rezende</b>.</p>",
+    "secao": "Dinâmicas de Campo"
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-13T16:30:00-03:00",
+    "dataFim": "2026-05-13T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": null,
+    "dataInicio": "2026-05-13T17:15:00-03:00",
+    "dataFim": "2026-05-13T18:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Mercado de Crédito de Carbono no Agronegócio Mineiro</i> com mediação de <b>Beatriz Nogueira</b> e participação de <b>Gustavo Pimentel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Rastreabilidade e Inteligência Artificial na Cadeia Produtiva da Soja</i> com <b>Juliana Meireles</b> e <b>Paulo Sampaio</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão Pitch AgroStartup",
+    "lugar": null,
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T10:30:00-03:00",
+    "descricao": "<p>Rodada semifinal com bancada de avaliação composta por <b>Vanessa Rangel</b> e <b>Arthur Matos</b>.</p>",
+    "secao": "Arena de Investimentos"
+   },
+   {
+    "nome": "Oficina de Drones Agrícolas",
+    "lugar": "Arena Tech Externa",
+    "dataInicio": "2026-05-14T10:15:00-03:00",
+    "dataFim": "2026-05-14T11:45:00-03:00",
+    "descricao": "<p>Processamento de imagens multiespectrais ministrado por <b>Diego Barreto</b> e <b>Lorena Vasconcelos</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T11:45:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Manejo Biológico de Pragas em Grandes Culturas</i> conduzida pelo pesquisador <b>Dr. Samuel Fontes</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Mostra de Iniciação Científica e P&D",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-14T11:45:00-03:00",
+    "dataFim": "2026-05-14T12:45:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres científicos coordenada pela professora <b>Dra. Carla Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:45:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Módulo de capacitação em <i>Gestão Financeira Digital para Médios Produtores</i> ministrado por <b>Marcos Vinicius Cordeiro</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-14T14:15:00-03:00",
+    "dataFim": "2026-05-14T15:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios Regulatórios e Sanitários nas Exportações</i> com <b>Patrícia Albuquerque</b> e o auditor <b>Eduardo Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-14T15:45:00-03:00",
+    "dataFim": "2026-05-14T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Circuito de Demonstração Tecnológica",
+    "lugar": "Arena Tech Externa",
+    "dataInicio": "2026-05-14T16:30:00-03:00",
+    "dataFim": "2026-05-14T17:45:00-03:00",
+    "descricao": "<p>Demonstração de sistemas inteligentes de irrigação solar com <b>Guilherme Diniz</b>.</p>",
+    "secao": "Dinâmicas de Campo"
+   },
+   {
+    "nome": "Conferência Internacional",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-14T17:45:00-03:00",
+    "dataFim": "2026-05-14T19:00:00-03:00",
+    "descricao": "<p>Conferência especial <i>Global AgTech Trends for Tropical Agriculture</i> proferida pelo <b>Dr. Heinrich Schmidt</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Transição Energética e Biometano nas Agroindústrias</i> com mediação de <b>Tatiana Paiva</b> e debatedores <b>Felipe Guimarães</b> e <b>Marcelo Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios B2B",
+    "lugar": null,
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T11:30:00-03:00",
+    "descricao": "<p>Reuniões pré-agendadas entre cooperativas regionais e fornecedores de tecnologia, coordenadas por <b>Gabriel Tavares</b>.</p>",
+    "secao": "Arena de Investimentos"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2026-05-15T10:00:00-03:00",
+    "dataFim": "2026-05-15T11:30:00-03:00",
+    "descricao": "<p>Treinamento em <i>Blockchain na Certificação de Grãos Orgânicos</i> liderado por <b>Bruna Sales</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-15T10:15:00-03:00",
+    "dataFim": "2026-05-15T11:30:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Modelagem Preditiva Climática para a Safra 2026/2027</i> pela meteorologista <b>Dra. Cecília Bastos</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T11:30:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Pitch AgroStartup",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T15:00:00-03:00",
+    "descricao": "<p>Grande final da batalha de pitches com julgamento de <b>Rodrigo Lemos</b>, <b>Vanessa Rangel</b> e <b>Carlos Mendonça</b>.</p>",
+    "secao": "Arena de Investimentos"
+   },
+   {
+    "nome": "Espaço Café e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-15T15:00:00-03:00",
+    "dataFim": "2026-05-15T15:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação AgroInova 2026",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-15T15:45:00-03:00",
+    "dataFim": "2026-05-15T17:00:00-03:00",
+    "descricao": "<p>Cerimônia de premiação dos projetos vencedores apresentada por <b>Renata Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-15T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização final com produtos de origem do Cerrado mineiro.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

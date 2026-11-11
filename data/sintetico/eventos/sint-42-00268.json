@@ -1,0 +1,268 @@
+{
+ "spec": {
+  "id": "sint-42-00268",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 30,
+  "casos": [
+   "sem_horario_fim",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:00+00:00",
+ "uso_tokens": {
+  "entrada": 658,
+  "saida": 5124
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Paraibano de Autoavaliação Institucional e Gestão Acadêmica das CPAs",
+   "local_geral": "Centro de Convenções Poeta Ronaldo Cunha Lima, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Validação de Inscrições",
+    "lugar": "Hall do Pavilhão de Congressos",
+    "dataInicio": "2026-05-20T08:00:00-03:00",
+    "dataFim": "2026-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos com pronunciamento do Magnífico Reitor <b>Prof. Dr. Valmir Pontes de Holanda</b> e da Presidente da Comissão Própria de Avaliação, <b>Profa. Dra. Samara Cavalcanti Gondim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2026-05-20T10:15:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>O SINAES após duas décadas: desafios contemporâneos da autoavaliação continuada</i>. Coordenação do debate por <b>Prof. Me. George Alencar Maia</b> com intervenções de <b>Profa. Dra. Miriam Farias Brandão</b> (INEP) e <b>Prof. Dr. Carlos Eduardo Medeiros</b> (CONAES).</p>",
+    "secao": "Painéis Centrais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:00:00-03:00",
+    "dataFim": "2026-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático I",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Instrumentos avaliativos e engajamento da comunidade discente</i>. Palestrantes convidados: <b>Profa. Me. Tânia Silveira Peixoto</b> e <b>Prof. Dr. Roberto Lacerda Filho</b>. Mediação: <b>Profa. Dra. Cláudia Bezerra Uchôa</b>.</p>",
+    "secao": "Painéis Centrais"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala de Capacitação 101",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": "2026-05-20T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Tratamento estatístico de microdados do Censo da Educação Superior para relatórios da CPA</i>, ministrada por <b>Estat. Thiago Rangel Muniz</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Capacitação 102",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": "2026-05-20T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias qualitativas de escuta: grupos focais e análise de conteúdo</i>, ministrada por <b>Profa. Dra. Eliana Morais Albuquerque</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Laboratório Multimídia B",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": "2026-05-20T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento de dashboards de visualização de dados avaliativos no Power BI</i>, facilitada pelo <b>Anal. Diego Ramos Sampaio</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2026-05-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Intervenção artística do <b>Quarteto de Cordas da Paraíba</b>, sob regência do maestro <b>Antônio Marcos Leitão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Auditório Ponta do Seixas",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>A autoavaliação da pós-graduação stricto sensu articulada à CPA institucional</i>. Coordenação: <b>Profa. Dra. Larissa Wanderley Barreto</b>. Debatedores: <b>Prof. Dr. Gilberto Antunes Vianna</b> e <b>Prof. Dr. Mauro Cordeiro Ramos</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": "Auditório Cabo Branco",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Curricularização da extensão e métricas de impacto social nos relatórios das CPAs</i>. Coordenação: <b>Prof. Me. Fábio Dantas Nóbrega</b>. Debatedoras: <b>Profa. Dra. Joana D'Arc Maranhão</b> e <b>Profa. Me. Rita de Cássia Figueirêdo</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-21T10:00:00-03:00",
+    "dataFim": "2026-05-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Digitais",
+    "lugar": "Hall do Pavilhão de Congressos",
+    "dataInicio": "2026-05-21T10:30:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": "<p>Coordenação geral de <b>Profa. Dra. Sandra Maria Gusmão</b>. Trabalhos em exibição:</p><p><i>Painel integrado de metas do PDI e CPA: a experiência do Centro Universitário Potiguar</i>, por <b>Rodrigo Silva Pimentel</b> e <b>Aline Neves Castelo</b>;</p><p><i>Percepção dos servidores técnico-administrativos sobre o clima organizacional</i>, por <b>Marcos Vinícius Trindade</b>;</p><p><i>O papel da CPA na melhoria das bibliotecas setoriais</i>, por <b>Juliana Freire Albuquerque</b>.</p>",
+    "secao": "Mostra de Boas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T12:00:00-03:00",
+    "dataFim": "2026-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala Temática A",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:00:00-03:00",
+    "descricao": "<p>Eixo: <i>Dimensões Institucionais e Políticas de Gestão</i>. Coordenação de <b>Prof. Dr. Otávio Guedes Arruda</b>. Apresentação das comunicações orais:</p><p><i>Autoavaliação como subsídio ao plano de gestão de riscos</i>, autoria de <b>Beatriz Lima Soares</b> e <b>Hugo Meira Vasconcelos</b>;</p><p><i>Articulação entre ouvidoria e CPA na resolução de fragilidades acadêmicas</i>, autoria de <b>Patrícia Camurça Teles</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala Temática B",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:00:00-03:00",
+    "descricao": "<p>Eixo: <i>Políticas de Ensino e Avaliação da Aprendizagem</i>. Coordenação da <b>Profa. Dra. Mariana Esteves Cunha</b>. Apresentação das comunicações orais:</p><p><i>Avaliação formativa no ensino híbrido: dados de uma pesquisa longitudinal</i>, apresentada por <b>Lucas Montenegro Queiroz</b>;</p><p><i>A taxa de sucesso da graduação e os questionários de autoavaliação</i>, apresentada por <b>Camila Duarte Brandão</b> e <b>Jorge Luís Silveira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Sala Temática C",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Eixo: <i>Infraestrutura Física e Sustentabilidade Financeira</i>. Coordenação de <b>Prof. Me. Ivanildo Castro Batista</b>. Comunicação do artigo <i>Diagnóstico de acessibilidade física nas instituições comunitárias a partir das métricas da autoavaliação</i>, por <b>Fernanda Tavares Pires</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Painel Temático II",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2026-05-21T15:30:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transparência pública e devolução dos resultados da avaliação à sociedade</i>. Conferencistas: <b>Dra. Cecília Queiroga Macedo</b> e <b>Prof. Dr. Nelson Figueiredo Rocha</b>. Mediação: <b>Profa. Dra. Wanessa Lins Diniz</b>.</p>",
+    "secao": "Painéis Centrais"
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": "Auditório Ponta do Seixas",
+    "dataInicio": "2026-05-21T17:15:00-03:00",
+    "dataFim": "2026-05-21T18:45:00-03:00",
+    "descricao": "<p>Tema: <i>A representação estudantil na CPA: desafios da adesão e conscientização crítica</i>. Coordenação a cargo de <b>Yuri Barbosa Medeiros</b> e da líder estudantil <b>Renata Chaves Gouveia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento de Livro Institucional",
+    "lugar": "Hall do Pavilhão de Congressos",
+    "dataInicio": "2026-05-21T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Lançamento da coletânea <i>Cultura de Avaliação na Educação Superior Paraibana</i>, organizada pelos pesquisadores <b>Prof. Dr. Valmir Pontes de Holanda</b> e <b>Profa. Dra. Samara Cavalcanti Gondim</b>, com sessão de autógrafos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião do Colégio de Coordenadores de CPA",
+    "lugar": "Sala de Reuniões Executiva",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:00:00-03:00",
+    "descricao": "<p>Encontro reservado aos membros titulares e suplentes de CPAs da Paraíba. Pauta: <i>Articulação em rede e termos de cooperação técnica mútua</i>. Condução: <b>Profa. Dra. Samara Cavalcanti Gondim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 3",
+    "lugar": "Auditório Cabo Branco",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Avaliação docente pelos discentes: entre a regulação institucional e a formação pedagógica</i>. Coordenadora: <b>Profa. Me. Denise Fragoso Paiva</b>. Debatedores: <b>Prof. Dr. Anselmo Borges de Lima</b> e <b>Profa. Dra. Teresa Cristina Salles</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-22T10:00:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Sala de Capacitação 101",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Redação técnica e narrativa de relatórios de autoavaliação institucional conforme as diretrizes da Nota Técnica INEP</i>, ministrada por <b>Prof. Dr. Clóvis Saldanha Neto</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina 5",
+    "lugar": "Laboratório Multimídia B",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança da informação e LGPD aplicada a pesquisas com questionários de CPA</i>, com o especialista <b>Dpo. Fabiano Corrêa Falcão</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:00:00-03:00",
+    "dataFim": "2026-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Especial de Práticas Inovadoras",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2026-05-22T13:30:00-03:00",
+    "dataFim": "2026-05-22T15:00:00-03:00",
+    "descricao": "<p>Apresentação das experiências de destaque selecionadas pela comissão científica. Coordenação de <b>Profa. Dra. Natália Aguiar Fontes</b>:</p><p><i>Gamificação no processo avaliativo discente: superando barreiras de engajamento</i>, apresentada por <b>Heitor Queiroga Dantas</b>;</p><p><i>Comitê volante de avaliação nos campi do interior</i>, apresentada por <b>Soraia Teles Mendonça</b> e <b>Edivan Alves Cabral</b>.</p>",
+    "secao": "Mostra de Boas Práticas"
+   },
+   {
+    "nome": "Plenária de Deliberações",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2026-05-22T15:15:00-03:00",
+    "dataFim": "2026-05-22T16:45:00-03:00",
+    "descricao": "<p>Apresentação e votação da <i>Carta de João Pessoa em Defesa da Autoavaliação Democrática</i>. Presidência da mesa: <b>Profa. Dra. Samara Cavalcanti Gondim</b>, secretariada por <b>Bel. Daniel Farias Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Encerramento",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2026-05-22T17:00:00-03:00",
+    "dataFim": "2026-05-22T18:00:00-03:00",
+    "descricao": "<p>Agradecimentos institucionais, premiação das melhores práticas de CPA e encerramento com o <b>Prof. Dr. Valmir Pontes de Holanda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Brinde Comemorativo",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2026-05-22T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

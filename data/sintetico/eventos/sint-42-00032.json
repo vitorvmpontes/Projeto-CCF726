@@ -1,0 +1,196 @@
+{
+ "spec": {
+  "id": "sint-42-00032",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Viçosa - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:55+00:00",
+ "uso_tokens": {
+  "entrada": 652,
+  "saida": 2976
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival de Inverno e Artes Integradas de Viçosa",
+   "local_geral": "Espaço Cultural Fernando Sabino e arredores da UFV, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Centro de Vivência da UFV",
+    "dataInicio": "2027-07-16T17:00:00-03:00",
+    "dataFim": "2027-07-16T18:00:00-03:00",
+    "descricao": "<p>Cerimônia de abertura com a presença da curadora <b>Mariana Alvarenga</b> e autoridades convidadas da Zona da Mata.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cores da Terra",
+    "lugar": "Galeria do Espaço Cultural",
+    "dataInicio": "2027-07-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura da exposição de artes visuais <i>Cores da Terra: Pigmentos Naturais de Minas</i>, com obras da artista plástica <b>Clara Resende</b>.</p>",
+    "secao": "Mostras e Exposições"
+   },
+   {
+    "nome": "Intervenção Poética",
+    "lugar": null,
+    "dataInicio": "2027-07-16T19:00:00-03:00",
+    "dataFim": "2027-07-16T19:40:00-03:00",
+    "descricao": "<p>Declamação itinerante do coletivo liderado por <b>Tiago Benevides</b>, apresentando textos autorais da coletânea <i>Versos da Colina</i>.</p>",
+    "secao": "Mostras e Exposições"
+   },
+   {
+    "nome": "Show de Abertura",
+    "lugar": "Palco Quatro Pilastras",
+    "dataInicio": "2027-07-16T20:30:00-03:00",
+    "dataFim": "2027-07-16T22:00:00-03:00",
+    "descricao": "<p>Apresentação musical da cantora <b>Beatriz Lourenço</b> e banda, homenageando o cancioneiro regional mineiro.</p>",
+    "secao": "Palco Principal"
+   },
+   {
+    "nome": "Discotecagem Brasilidades",
+    "lugar": null,
+    "dataInicio": "2027-07-16T22:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Seleção especial de ritmos tropicais e samba-rock conduzida pelo <b>DJ Gabriel Santoro</b>.</p>",
+    "secao": "Palco Principal"
+   },
+   {
+    "nome": "Oficina de Gravura em Xilogravura",
+    "lugar": "Ateliê de Artes Plásticas",
+    "dataInicio": "2027-07-17T09:00:00-03:00",
+    "dataFim": "2027-07-17T12:00:00-03:00",
+    "descricao": "<p>Prática de talho e impressão gráfica ministrada pelo mestre artesão <b>Sebastião Pinho</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina de Percussão Afro-Mineira",
+    "lugar": null,
+    "dataInicio": "2027-07-17T09:30:00-03:00",
+    "dataFim": "2027-07-17T12:30:00-03:00",
+    "descricao": "<p>Vivência sobre os ritmos de congado e maracatu com o percussionista <b>Rafael Silveira</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Feira de Troca de Livros e Zines",
+    "lugar": "Gramado Central",
+    "dataInicio": "2027-07-17T11:00:00-03:00",
+    "dataFim": "2027-07-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": null,
+    "dataInicio": "2027-07-17T12:30:00-03:00",
+    "dataFim": "2027-07-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Produção Cultural Independente",
+    "lugar": "Sala de Reuniões 2",
+    "dataInicio": "2027-07-17T14:00:00-03:00",
+    "dataFim": "2027-07-17T17:00:00-03:00",
+    "descricao": "<p>Estratégias de captação e sustentabilidade conduzidas pela produtora cultural <b>Helena Guimarães</b> com o projeto <i>Circuitos Possíveis</i>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório do CCH",
+    "dataInicio": "2027-07-17T15:30:00-03:00",
+    "dataFim": "2027-07-17T17:30:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Patrimônio Imaterial e Memória Urbana no Interior</i> com <b>Prof. Lucas Drumond</b> e a pesquisadora <b>Aline Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cortejo de Maracatu",
+    "lugar": null,
+    "dataInicio": "2027-07-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação itinerante pelas alamedas do campus coordenada por <b>Mestra Ivone Souza</b>.</p>",
+    "secao": "Apresentações Cênicas e Rua"
+   },
+   {
+    "nome": "Espetáculo Teatral de Rua",
+    "lugar": "Praça das Palmeiras",
+    "dataInicio": "2027-07-17T18:30:00-03:00",
+    "dataFim": "2027-07-17T19:45:00-03:00",
+    "descricao": "<p>Apresentação da peça <i>O Andarilho dos Sonhos</i> encenada pela <b>Cia. Teatral Pé na Estrada</b> sob direção de <b>Rodrigo Lacerda</b>.</p>",
+    "secao": "Apresentações Cênicas e Rua"
+   },
+   {
+    "nome": "Show Instrumental",
+    "lugar": "Palco Quatro Pilastras",
+    "dataInicio": "2027-07-17T20:30:00-03:00",
+    "dataFim": "2027-07-17T22:00:00-03:00",
+    "descricao": "<p>Show com o grupo <b>Trio Matizes</b> apresentando o concerto autoral <i>Caminhos das Pedras</i>.</p>",
+    "secao": "Palco Principal"
+   },
+   {
+    "nome": "Concerto Noturno de Viola",
+    "lugar": "Palco Quatro Pilastras",
+    "dataInicio": "2027-07-17T22:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Recital solo do violeiro <b>Danilo Maciel</b> com o espetáculo <i>Cordas do Sertão</i>.</p>",
+    "secao": "Palco Principal"
+   },
+   {
+    "nome": "Yoga e Meditação no Gramado",
+    "lugar": "Gramado Central",
+    "dataInicio": "2027-07-18T08:30:00-03:00",
+    "dataFim": "2027-07-18T09:45:00-03:00",
+    "descricao": "<p>Sessão aberta ao público guiada pela instrutora <b>Camila Duarte</b> para relaxamento e conexão corporal.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fotografia Documental com Celular",
+    "lugar": null,
+    "dataInicio": "2027-07-18T10:00:00-03:00",
+    "dataFim": "2027-07-18T12:30:00-03:00",
+    "descricao": "<p>Exercícios de composição visual e narrativa gráfica com o fotógrafo <b>Felipe Dornelas</b> no curso <i>Olhares do Cotidiano</i>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Exibição de Curtas Universitários",
+    "lugar": "Auditório do CCH",
+    "dataInicio": "2027-07-18T14:00:00-03:00",
+    "dataFim": "2027-07-18T16:00:00-03:00",
+    "descricao": "<p>Sessão de curtas-metragens independentes seguida de debate com a cineasta <b>Renata Meireles</b>.</p>",
+    "secao": "Mostras e Exposições"
+   },
+   {
+    "nome": "Sarau Popular Aberto",
+    "lugar": null,
+    "dataInicio": "2027-07-18T16:30:00-03:00",
+    "dataFim": "2027-07-18T18:00:00-03:00",
+    "descricao": "<p>Palco aberto para poetas e músicos locais sob a mediação da artista <b>Júlia Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Palco Quatro Pilastras",
+    "dataInicio": "2027-07-18T18:30:00-03:00",
+    "dataFim": "2027-07-18T20:30:00-03:00",
+    "descricao": "<p>Concerto de encerramento do festival com a cantora <b>Teresa Martins</b> e o grupo <b>Batuque Mineiro</b>.</p>",
+    "secao": "Palco Principal"
+   },
+   {
+    "nome": "Encerramento das Atividades",
+    "lugar": null,
+    "dataInicio": "2027-07-18T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "spec": {
+  "id": "sint-42-00287",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Campinas - SP",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "descricoes_ricas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:00+00:00",
+ "uso_tokens": {
+  "entrada": 701,
+  "saida": 747
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Brasileiro de Ciência de Dados e Bioinformática",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Café de Boas-Vindas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Anfiteatro Verde",
+    "dataInicio": "2027-05-18T09:00:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Sessão dedicada a métodos estatísticos e genômica comparativa.</p><p>Coordenação: <b>Dra. Juliana Prado Albuquerque</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Desenvolvimento de abordagens analíticas baseadas em aprendizagem profunda aplicadas ao reconhecimento precoce de alterações genômicas em linhagens celulares eucarióticas</i>, apresentado por <b>Rafael Martins Siqueira</b> e <b>Mariana Castro Furtado</b>.</p><p>2. <i>Estudo computacional de predição estrutural de proteínas transmembranares com uso de algoritmos genéticos modificados para alta performance</i>, apresentado por <b>Carlos Eduardo Valença</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala de Reuniões 3",
+    "dataInicio": "2027-05-18T09:00:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos sobre aprendizado de máquina na saúde.</p><p>Coordenação: <b>Prof. Dr. Vinícius Guimarães Penteado</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Avaliação da acurácia de modelos ensemble supervisionados na triagem hospitalar automatizada de pacientes admitidos com sintomas respiratórios graves</i>, apresentado por <b>Beatriz Souza Silveira</b> e <b>Thiago Mendonça Leite</b>.</p><p>2. <i>Integração de ontologias médicas e processamento de linguagem natural clínico para padronização de registros de prontuários eletrônicos ambulatoriais</i>, apresentado por <b>Heloísa Nogueira Ramos</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   }
+  ]
+ }
+}

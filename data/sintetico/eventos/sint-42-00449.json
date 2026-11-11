@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-42-00449",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Fortaleza - CE",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "subtitulo_separado",
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:00+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 915
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Ecologia e Recursos Naturais",
+   "local_geral": "Centro de Ciências - Campus do Pici, Universidade Federal do Ceará (UFC), Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão de Painéis",
+    "lugar": "Hall do Bloco 902",
+    "dataInicio": "2027-05-18T09:00:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrandos da área de conservação ambiental. Avaliação conduzida pelo Prof. Dr. <b>Marcelo Freire Parente</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão de Painéis",
+    "lugar": "Espaço de Convivência do Bloco 904",
+    "dataInicio": "2027-05-18T11:00:00-03:00",
+    "dataFim": "2027-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas dos doutorandos voltadas à biologia marinha e estuarina. Coordenação da Profa. Dra. <b>Renata Albuquerque Lins</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Oficina Metodológica 1",
+    "lugar": "Laboratório de Informática da Pós-Graduação",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem de Nicho Ecológico Aplicada a Mudanças Climáticas no Semiárido</i>. Ministrada pelo pesquisador Dr. <b>Thiago Mendes Viana</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Metodológica 2",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Análise Multivariada de Dados Ecológicos com Linguagem R</i>. Ministrada pela Profa. Dra. <b>Camila Duarte Nogueira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Colóquio de Encerramento",
+    "lugar": "Auditório Prisco Bezerra",
+    "dataInicio": "2027-05-18T17:30:00-03:00",
+    "dataFim": "2027-05-18T19:00:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Desafios da Internacionalização da Pesquisa no Nordeste Brasileiro</i>, com a participação dos debatedores Prof. Dr. <b>Antônio Carlos Sampaio</b> e Profa. Dra. <b>Heloísa Helena Gondim</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

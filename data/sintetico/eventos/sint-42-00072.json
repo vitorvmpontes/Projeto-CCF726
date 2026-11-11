@@ -1,0 +1,387 @@
+{
+ "spec": {
+  "id": "sint-42-00072",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Campinas - SP",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 45,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:22+00:00",
+ "uso_tokens": {
+  "entrada": 653,
+  "saida": 6332
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio Brasileiro de Mulheres em Tecnologia da Informação e Computação (MulheresTIC 2026)",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Hall Central",
+    "dataInicio": "2026-05-13T08:00:00-03:00",
+    "dataFim": "2026-05-13T09:00:00-03:00",
+    "descricao": "<p>Retirada de crachás, entrega de kits e acolhimento das participantes da nona edição.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Boas-Vindas",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-13T09:00:00-03:00",
+    "dataFim": "2026-05-13T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com a coordenadora-geral <b>Camila Duarte</b> e a diretora do Instituto de Computação <b>Regina Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-13T09:40:00-03:00",
+    "dataFim": "2026-05-13T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Impactos da Inteligência Artificial Generativa na Redução de Disparidades de Gênero nas Carreiras Tecnológicas Globais e Regionais</i> ministrada por <b>Dra. Beatriz Fontana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-13T10:45:00-03:00",
+    "dataFim": "2026-05-13T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-13T11:15:00-03:00",
+    "dataFim": "2026-05-13T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Liderança Feminina no Setor de Software: Quebrando o Teto de Vidro</i> com mediação de <b>Renata Nogueira</b> e participação de <b>Fernanda Lins</b>, <b>Lúcia Maciel</b> e <b>Marina Prado</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-13T12:30:00-03:00",
+    "dataFim": "2026-05-13T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-13T14:00:00-03:00",
+    "dataFim": "2026-05-13T15:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos na área de aprendizado de máquina. Coordenação de <b>Silvia Guimarães</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2026-05-13T14:00:00-03:00",
+    "dataFim": "2026-05-13T15:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Fundamentos de Cibersegurança Defensiva</i> conduzida por <b>Mariana Siqueira</b> e <b>Patrícia Ramos</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2026-05-13T15:30:00-03:00",
+    "dataFim": "2026-05-13T16:30:00-03:00",
+    "descricao": "<p>Encontro temático sobre <i>Permanência Feminina nos Cursos de Engenharia e Computação</i> facilitado por <b>Tânia Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo Vespertino",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-13T16:30:00-03:00",
+    "dataFim": "2026-05-13T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-13T17:00:00-03:00",
+    "dataFim": "2026-05-13T18:00:00-03:00",
+    "descricao": "<p>Palestra <i>Arquitetura Orientada a Eventos na Nuvem</i> com <b>Juliana Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Integração",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2026-05-13T18:00:00-03:00",
+    "dataFim": "2026-05-13T19:30:00-03:00",
+    "descricao": "<p>Apresentação musical da cantora <b>Aline Morais</b> e networking livre.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Coletiva de Carreira",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": "<p>Sessão para graduandas e pós-graduandas orientada por <b>Vanessa Medeiros</b> e <b>Sabrina Couto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T10:45:00-03:00",
+    "descricao": "<p>Painel sobre <i>Ética Algorítmica e Vieses em Modelos Preditivos de Recrutamento</i> com <b>Flávia Toledo</b> e <b>Clarice Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break Matutino",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-14T10:45:00-03:00",
+    "dataFim": "2026-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Artigos sobre Visão Computacional e Processamento Digital de Imagens com coordenação de <b>Bruna Castanho</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Treinamento prático <i>Desenvolvimento de Microsserviços com Go</i> com a engenheira <b>Cláudia Pimentel</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:30:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Atividade imersiva intitulada <i>Construindo Pipelines Robustos de Engenharia de Dados para Aplicações em Larga Escala no Cenário Empresarial Atual</i> ministrada por <b>Helena Fonseca</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas em Engenharia de Software e Qualidade com <b>Marta Vasconcelos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Exposição de Pôsteres 1",
+    "lugar": "Foyer das Galerias",
+    "dataInicio": "2026-05-14T15:30:00-03:00",
+    "dataFim": "2026-05-14T16:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de iniciação científica por pesquisadoras juniores avaliadas por <b>Débora Meireles</b>.</p>",
+    "secao": "Exposição Científica"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-14T16:30:00-03:00",
+    "dataFim": "2026-05-14T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T17:00:00-03:00",
+    "dataFim": "2026-05-14T18:15:00-03:00",
+    "descricao": "<p>Apresentação <i>Internet das Coisas e Cidades Inteligentes</i> conduzida por <b>Dra. Thaís Guida</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encontro de Comunidades Meninas Digitais",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T18:15:00-03:00",
+    "dataFim": "2026-05-14T19:30:00-03:00",
+    "descricao": "<p>Relatos de experiências regionais com articulação de <b>Ingrid Bernardes</b> e <b>Letícia Goulart</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Temático com Patrocinadores",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T09:30:00-03:00",
+    "descricao": "<p>Espaço para conexão entre empresas de tecnologia e talentos femininos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T10:45:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Empreendedorismo Feminino em Deep Techs e Startups Inovadoras</i> mediada por <b>Aline Silveira</b> com participação de <b>Sandra Viegas</b> e <b>Lorena Batista</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos sobre Redes de Computadores e Sistemas Distribuídos organizada por <b>Paula Brandão</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Acessibilidade Web e Testes Automatizados para Interfaces</i> com <b>Joana Diniz</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:30:00-03:00",
+    "dataFim": "2026-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T15:30:00-03:00",
+    "descricao": "<p>Apresentações na área de Interação Humano-Computador sob coordenação de <b>Dra. Simone Paiva</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T15:30:00-03:00",
+    "descricao": "<p>Introdução prática a <i>Computação Quântica com Qiskit</i> ministrada por <b>Dra. Elisa Fagundes</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Exposição de Pôsteres 2",
+    "lugar": "Foyer das Galerias",
+    "dataInicio": "2026-05-15T15:30:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": "<p>Sessão de trabalhos de pós-graduação e projetos comunitários. Coordenação de <b>Tatiane Rocha</b>.</p>",
+    "secao": "Exposição Científica"
+   },
+   {
+    "nome": "Pausa para Lanche",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-15T16:30:00-03:00",
+    "dataFim": "2026-05-15T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T17:00:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Apresentação <i>Desafios da Criptografia Pós-Quântica</i> com <b>Prof. Raquel Barreto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Robótica e Projetos de Extensão",
+    "lugar": "Hall Central",
+    "dataInicio": "2026-05-15T18:00:00-03:00",
+    "dataFim": "2026-05-15T19:30:00-03:00",
+    "descricao": "<p>Demonstração de protótipos de robótica educativa sob supervisão de <b>Vivian Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Maratona de Ideias",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": "<p>Hackathon relâmpago focado em soluções para educação pública com mentoria de <b>Kelly Borges</b> e <b>Nathalia Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café de Encerramento",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:15:00-03:00",
+    "descricao": "<p>Conferência <i>O Papel Transformador das Mulheres na Construção de Políticas Públicas de Inclusão Digital no Cenário Contemporâneo</i> apresentada pela pesquisadora <b>Dra. Glória Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço dos Grupos Temáticos",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:15:00-03:00",
+    "dataFim": "2026-05-16T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia da Rede MulheresTIC",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T13:45:00-03:00",
+    "dataFim": "2026-05-16T15:00:00-03:00",
+    "descricao": "<p>Definição de metas e escolha da sede do evento para 2027 com a mesa diretora presidida por <b>Mariana Vilela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T16:00:00-03:00",
+    "descricao": "<p>Entrega das honrarias de melhores artigos científicos e premiação do hackathon apresentada por <b>Cecília Macedo</b> e <b>Bruna Castanho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café de Despedida",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-16T16:00:00-03:00",
+    "dataFim": "2026-05-16T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Fechamento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T16:30:00-03:00",
+    "dataFim": "2026-05-16T17:15:00-03:00",
+    "descricao": "<p>Show com o grupo de percussão feminina <b>Tambores de Dandara</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Institucional",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Agradecimentos finais pela comissão organizadora conduzida por <b>Camila Duarte</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-42-00199",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Santa Maria - RS",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "titulos_longos",
+   "intervalos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:57+00:00",
+ "uso_tokens": {
+  "entrada": 689,
+  "saida": 739
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UFSM 2024",
+   "local_geral": "Centro de Tecnologia - Universidade Federal de Santa Maria, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Hall do Prédio 7",
+    "dataInicio": "2024-03-11T08:00:00-03:00",
+    "dataFim": "2024-03-11T09:30:00-03:00",
+    "descricao": "<p>Distribuição de kits universitários e boas-vindas aos novos estudantes com a equipe de veteranos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna de Boas-Vindas aos Ingressantes sobre Desafios e Oportunidades na Trajetória Acadêmica para Formação de Excelência e Inovação",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2024-03-11T10:00:00-03:00",
+    "dataFim": "2024-03-11T12:00:00-03:00",
+    "descricao": "<p>Apresentação inaugural ministrada pelo Prof. <b>Carlos Eduardo Dornelles</b> com mediação da Profa. <b>Mariana Fontoura Becker</b>, abordando o tema <i>Adaptação, pesquisa e desenvolvimento profissional na universidade pública</i>.</p>",
+    "secao": "Ciclo de Formação Inicial"
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Restaurante Universitário I",
+    "dataInicio": "2024-03-11T12:00:00-03:00",
+    "dataFim": "2024-03-11T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Ferramentas Digitais e Recursos Tecnológicos Disponíveis para o Suporte aos Estudos Universitários e Gestão de Carreira",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-03-12T14:00:00-03:00",
+    "dataFim": "2024-03-12T17:00:00-03:00",
+    "descricao": "<p>Capacitação ministrada por <b>Lucas Medeiros da Rosa</b> e <b>Aline Guimarães Silveira</b>, com foco no tema <i>Sistemas acadêmicos, bases de periódicos e organização de rotinas de estudo</i>.</p>",
+    "secao": "Ciclo de Formação Inicial"
+   }
+  ]
+ }
+}

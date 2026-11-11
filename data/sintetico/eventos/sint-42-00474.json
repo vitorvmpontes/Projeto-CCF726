@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-42-00474",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Curitiba - PR",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim",
+   "subtitulo_separado",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:14+00:00",
+ "uso_tokens": {
+  "entrada": 665,
+  "saida": 889
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio do Programa de Pós-Graduação em Ecologia e Conservação",
+   "local_geral": "Setor de Ciências Biológicas da UFPR, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão de Abertura e Boas-Vindas",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T09:30:00-03:00",
+    "descricao": "<p>Acolhida dos discentes e apresentação das diretrizes gerais com a Profa. Dra. <b>Helena Soares Ribeiro</b> e o coordenador Prof. Dr. <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Sala 102 - Bloco Didático",
+    "dataInicio": "2025-05-22T10:00:00-03:00",
+    "dataFim": "2025-05-22T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem Ecológica e Mudanças Climáticas Globais</i>. Apresentações orais dos pós-graduandos com comentários do avaliador Dr. <b>Rodrigo Otávio Fontes</b>.</p>",
+    "secao": "Apresentações Orais"
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": "Sala 104 - Bloco Didático",
+    "dataInicio": "2025-05-22T10:00:00-03:00",
+    "dataFim": "2025-05-22T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ecologia de Populações e Conservação de Fragmentos Florestais</i>. Apresentações dos mestrandos sob coordenação da Profa. Dra. <b>Mariana Schuler Prado</b>.</p>",
+    "secao": "Apresentações Orais"
+   },
+   {
+    "nome": "Colóquio de Integração",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Internacionalização e Impacto Social na Pós-Graduação</i>. Debate mediado pela Profa. Dra. <b>Luciane Bressan</b> com a participação do convidado Dr. <b>Thiago Albuquerque de Matos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária de Encerramento",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2025-05-22T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>A interface entre ciência cidadã e políticas públicas ambientais</i>, ministrada pelo pesquisador Dr. <b>Fernando Antunes Viana</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

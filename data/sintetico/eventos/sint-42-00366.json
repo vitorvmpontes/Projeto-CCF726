@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-42-00366",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 10,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:06+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 1495
+ },
+ "saida": {
+  "evento": {
+   "nome": "BH GameDev Hack & Jam 2023",
+   "local_geral": "Hub de Inovação Paulo Freire, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Boas-Vindas",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-11-18T08:00:00-03:00",
+    "dataFim": "2023-11-18T08:45:00-03:00",
+    "descricao": "<p>Recepção dos participantes, entrega dos kits da maratona e confirmação de equipes com <b>Camila Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial e Revelação do Tema",
+    "lugar": "Arena Principal",
+    "dataInicio": "2023-11-18T08:45:00-03:00",
+    "dataFim": "2023-11-18T09:30:00-03:00",
+    "descricao": "<p>Apresentação das regras da jam e anúncio do tema surpresa conduzidos por <b>Thiago Meireles</b> e <b>Larissa Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Laboratório Alpha",
+    "dataInicio": "2023-11-18T09:45:00-03:00",
+    "dataFim": "2023-11-18T11:15:00-03:00",
+    "descricao": "<p>Apresentação prática sobre <i>Prototipagem Ágil com Godot Engine em 48 Horas</i> ministrada por <b>Rodrigo Capanema</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Laboratório Beta",
+    "dataInicio": "2023-11-18T09:45:00-03:00",
+    "dataFim": "2023-11-18T11:15:00-03:00",
+    "descricao": "<p>Oficina de <i>Pixel Art e Animação Rápida para Jogos Retrô</i> ministrada pela ilustradora <b>Marina Albuquerque</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Mentoria com Especialistas",
+    "lugar": "Área de Desenvolvimento",
+    "dataInicio": "2023-11-18T11:30:00-03:00",
+    "dataFim": "2023-11-18T12:30:00-03:00",
+    "descricao": "<p>Plantão de dúvidas sobre mecânicas de gameplay e game design com <b>Gabriel Vasconcelos</b> e <b>Beatriz Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2023-11-18T12:30:00-03:00",
+    "dataFim": "2023-11-18T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria com Especialistas",
+    "lugar": "Laboratório Alpha",
+    "dataInicio": "2023-11-18T15:00:00-03:00",
+    "dataFim": "2023-11-18T16:30:00-03:00",
+    "descricao": "<p>Sessão de suporte em código, otimização e deploy multiplataforma com o engenheiro <b>Lucas Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Lanche e Playtest Aberto",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2023-11-18T17:00:00-03:00",
+    "dataFim": "2023-11-18T17:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pitch e Demonstração",
+    "lugar": "Arena Principal",
+    "dataInicio": "2023-11-18T19:30:00-03:00",
+    "dataFim": "2023-11-18T21:00:00-03:00",
+    "descricao": "<p>Apresentação das versões jogáveis criadas ao longo do dia para o corpo de jurados composto por <b>Vanessa Gontijo</b>, <b>Felipe Castanheira</b> e <b>Otávio Rangel</b>.</p>",
+    "secao": "Fase Final"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Arena Principal",
+    "dataInicio": "2023-11-18T21:15:00-03:00",
+    "dataFim": "2023-11-18T22:00:00-03:00",
+    "descricao": "<p>Divulgação dos vencedores da maratona e entrega de troféus coordenada por <b>Camila Duarte</b> e <b>Thiago Meireles</b>.</p>",
+    "secao": "Fase Final"
+   }
+  ]
+ }
+}

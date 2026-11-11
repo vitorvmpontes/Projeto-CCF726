@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00249",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Belém - PA",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:54+00:00",
+ "uso_tokens": {
+  "entrada": 701,
+  "saida": 1203
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jogos Universitários Amazônicos e Simpósio de Desporto Acadêmico",
+   "local_geral": "Campus Guamá - Universidade Federal do Pará (UFPA), Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall do Ginásio Poliesportivo",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2025-05-16T09:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Desfile das delegações acadêmicas e acendimento da pira simbólica dos jogos.</p><p>Apresentação cultural com o grupo Parafolclórico sob coordenação de <b>Maiara Guimarães</b>.</p>",
+    "secao": "Cerimoniais"
+   },
+   {
+    "nome": "Torneio de Futsal",
+    "lugar": "Quadra 1",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T13:00:00-03:00",
+    "descricao": "<p>Fase classificatória masculina - Chave A.</p>",
+    "secao": "Competições Esportivas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2025-05-16T13:00:00-03:00",
+    "dataFim": "2025-05-16T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática",
+    "lugar": "Auditório Benito Vasconcelos",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T17:30:00-03:00",
+    "descricao": "<p>Tema: Saúde, Performance e Políticas Esportivas no Contexto Universitário.</p><p>Coordenador: Prof. Dr. <b>Carlos Eduardo Pantoja</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Avaliação da Composição Corporal de Atletas Universitários da Região Metropolitana de Belém</i>, por <b>Lucas Beltrão</b> e <b>Sabrina Neves</b>.</p><p>2. <i>Desafios da Gestão de Atléticas Estudantis no Norte do Brasil</i>, por <b>Fernanda Lobato</b> e <b>Rodrigo Assunção</b>.</p><p>3. <i>Impacto da Suplementação de Açaí no Rendimento Aeróbico</i>, por <b>Thiago Meireles</b>.</p>",
+    "secao": "Simpósio Científico"
+   },
+   {
+    "nome": "Torneio de Futsal",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Fase semifinal e grande final da categoria feminina.</p>",
+    "secao": "Competições Esportivas"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Entrega das medalhas e troféus gerais para as delegações vencedoras conduzida pela presidente da comissão organizadora <b>Renata Siqueira</b> e pelo diretor de esportes <b>João Paulo Chaves</b>.</p>",
+    "secao": "Cerimoniais"
+   }
+  ]
+ }
+}

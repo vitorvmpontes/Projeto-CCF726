@@ -1,0 +1,140 @@
+{
+ "spec": {
+  "id": "sint-42-00039",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 14,
+  "casos": [
+   "subtitulo_separado",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:27+00:00",
+ "uso_tokens": {
+  "entrada": 655,
+  "saida": 2364
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Amazonense de Infectologia e Medicina Tropical",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Curso Pré-Jornada 1",
+    "lugar": "Sala Rio Negro",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Tema: Manejo Clínico de Acidentes por Animais Peçonhentos na Amazônia Ocidental. Ministrado pelo <b>Dr. Raimundo Nonato de Almeida</b> e pela <b>Dra. Samanta Albuquerque</b>.</p>",
+    "secao": "Cursos Pré-Jornada"
+   },
+   {
+    "nome": "Curso Pré-Jornada 2",
+    "lugar": "Sala Solimões",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T18:00:00-03:00",
+    "descricao": "<p>Tema: Diagnóstico Molecular Rápido de Malária e Leishmanioses em Áreas Remotas. Coordenação do <b>Prof. Dr. Valdemar Cordeiro da Silva</b>.</p>",
+    "secao": "Cursos Pré-Jornada"
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-18T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Boas-vindas da presidência da Jornada, representada pela <b>Dra. Aldenira Marinho Castelo</b>, com apresentação do coral da Universidade Federal do Amazonas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Integrado 1",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:45:00-03:00",
+    "descricao": "<p>Tema: Desafios Contemporâneos da Febre de Oropouche e Mayaro no Norte do Brasil. Participação de <b>Dr. Carlos Henrique Nogueira</b> debatendo <i>Dinâmicas de Transmissão Vetorial</i> e de <b>Dra. Luísa Furtado Pantoja</b> com a palestra <i>Manifestações Atípicas e Diagnóstico Diferencial</i>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Integrado 2",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: Tuberculose e Coinfecção HIV em Populações Tradicionais Ribeirinhas. Expositores: <b>Dr. Jorge Bentes Ribeiro</b> e <b>Enf. Mayra dos Santos Telles</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala Anavilhanas",
+    "dataInicio": "2027-05-19T14:30:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos resumos aprovados na categoria Epidemiologia e Saúde Pública. Avaliadores: <b>Prof. Marcos Aurélio de Souza</b> e <b>Dra. Glória Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite",
+    "lugar": "Auditório Japurá",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Tema: Avanços no Tratamento Antifúngico de Micoses Sistêmicas Endêmicas. Apresentação do <b>Dr. Marcelo Guimarães Prado</b> com <i>Novas Moléculas e Terapias Combinadas para Paracoccidioidomicose</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Debate Clínico Interativo",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: Hepatites Virais Delta e B na Bacia Amazônica: Dificuldades Terapêuticas e Complicações Tardias. Moderadora: <b>Dra. Kátia Regina Siqueira</b>. Debatedores convidados: <b>Dr. Thiago Brandão Neves</b> e <b>Dra. Fernanda Lins Uchôa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Eletrônicos",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição e arguição temática com foco em Vigilância Entomológica e Doenças Transmitidas por Vetores. Coordenação da <b>Dra. Patrícia Helena Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Atualização",
+    "lugar": "Sala Rio Negro",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Tema: Resistência Antimicrobiana em Unidades de Terapia Intensiva da Região Norte. Apresentação de <b>Dr. André Queiroz Paiva</b> abordando <i>Perfil Fenotípico de Bacilos Gram-Negativos Multirresistentes</i>.</p>",
+    "secao": "Sessões de Atualização"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Escola",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Tema: Técnicas de Raspado Cutâneo e Leitura Microscópica para Leishmaniose Tegumentar Americana. Instrutora: <b>Biomédica Clarice Fonseca Guedes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Mudanças Climáticas, Desmatamento e Emergência de Novos Patógenos na Amazônia. Conferencista internacional: <b>Dr. Álvaro Mendez Morales</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Políticas Públicas",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-22T09:30:00-03:00",
+    "dataFim": "2027-05-22T11:30:00-03:00",
+    "descricao": "<p>Tema: Logística de Saúde e Acesso a Medicamentos em Territórios Fluviais e Indígenas. Com <b>Dra. Tânia Maquiné Viana</b> e <b>Sr. Daniel Yanomami</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-22T11:45:00-03:00",
+    "dataFim": "2027-05-22T13:00:00-03:00",
+    "descricao": "<p>Divulgação dos trabalhos premiados pelo comitê científico liderado pelo <b>Dr. Roberto Saraiva Antunes</b> e pronunciamento final da comissão organizadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

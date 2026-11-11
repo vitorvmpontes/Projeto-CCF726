@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00062",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:02+00:00",
+ "uso_tokens": {
+  "entrada": 633,
+  "saida": 957
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Mostra Intercampi de Extensão e Cultura da UFRJ",
+   "local_geral": "Centro de Tecnologia - Cidade Universitária, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall do Bloco A",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Hélio Fraga",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>A Curricularização da Extensão e os Impactos nas Comunidades Tradicionais da Baía de Guanabara</i>, mediado pela Profa. Dra. <b>Clarice Peixoto</b> e com participação de lideranças comunitárias convidadas, incluindo o mestre pescador <b>Severino dos Santos</b>.</p>",
+    "secao": "Mesas de Abertura"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:00:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala A-102",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Apresentação do projeto <i>Alfabetização Ecológica nas Escolas da Maré</i> coordenado por <b>Felipe Fagundes</b> e apresentado pela bolsista <b>Juliana Meireles</b>. Avaliação da banca presidida pelo Prof. <b>Henrique Vianna</b>.</p>",
+    "secao": "Apresentações de Projetos"
+   },
+   {
+    "nome": "Café Compartilhado",
+    "lugar": "Pátio das Esculturas",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T16:40:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala A-102",
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Exposição do relato de experiência <i>Promoção da Saúde Integral em Abrigos Institucionais</i> pelo estudante de enfermagem <b>Lucas Barreto</b> sob supervisão da Profa. <b>Márcia Guimarães</b>.</p>",
+    "secao": "Apresentações de Projetos"
+   }
+  ]
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-42-00421",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Viçosa - MG",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "descricoes_ricas",
+   "titulos_longos",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:51+00:00",
+ "uso_tokens": {
+  "entrada": 711,
+  "saida": 1244
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Simpósio de Pós-Graduação em Agroecologia e Sustentabilidade da UFV",
+   "local_geral": "Universidade Federal de Viçosa, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Apresentação do Programa",
+    "lugar": "Auditório do CEE",
+    "dataInicio": "2024-10-18T08:00:00-03:00",
+    "dataFim": "2024-10-18T09:00:00-03:00",
+    "descricao": "<p>Abertura do simpósio conduzida pela coordenadora-geral Profa. Dra. <b>Helena Vasconcelos Prado</b> e pelo vice-reitor Prof. Dr. <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Desafios contemporâneos para a transição agroecológica sustentável frente às mudanças climáticas globais e os impactos na agricultura familiar brasileira</i>, ministrada pelo pesquisador Dr. <b>Marcos Vinicius Rezende</b> e mediada pela Profa. Dra. <b>Juliana Meireles Fontes</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Sessão Técnica de Comunicação Oral",
+    "lugar": null,
+    "dataInicio": "2024-10-18T10:45:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Renata Albuquerque Neves</b>. Trabalhos apresentados:</p><p><i>1. Dinâmica da matéria orgânica em solos sob manejo agroflorestal na Zona da Mata mineira</i>, por <b>Lucas Barreto Sampaio</b> e <b>Otávio Mendes Camargo</b>.</p><p><i>2. Levantamento etnobotânico de plantas medicinais cultivadas por agricultores familiares</i>, por <b>Camila Duarte Ferreira</b> e <b>Aline Peixoto Silva</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Técnica de Comunicação Oral",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T15:45:00-03:00",
+    "descricao": "<p>Coordenação de Prof. Dr. <b>Fernando Pires Fagundes</b>. Trabalhos apresentados:</p><p><i>1. Indicadores biológicos de qualidade do solo em sistemas de plantio direto de hortaliças</i>, por <b>Gabriela Ramos Costa</b> e <b>Bruno Toledo Antunes</b>.</p><p><i>2. Avaliação de extratos botânicos alternativos no controle de pragas da cafeicultura orgânica</i>, por <b>Rodrigo Viana Borges</b> e <b>Mariana Castro Leão</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2024-10-18T16:00:00-03:00",
+    "dataFim": "2024-10-18T17:30:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Metodologias participativas e cartografia social aplicadas ao planejamento territorial e à conservação de recursos hídricos em comunidades tradicionais</i>, proferida pelo Prof. Dr. <b>Tiago Benevides Moreira</b>, com coordenação de debate por Profa. Dra. <b>Clarissa Silveira Ramos</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório do CEE",
+    "dataInicio": "2024-10-18T17:30:00-03:00",
+    "dataFim": "2024-10-18T18:15:00-03:00",
+    "descricao": "<p>Divulgação dos melhores trabalhos de pós-graduação e encerramento conduzidos pelos coordenadores <b>Helena Vasconcelos Prado</b> e <b>Fernando Pires Fagundes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

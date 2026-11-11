@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00400",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Florestal - MG",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:27+00:00",
+ "uso_tokens": {
+  "entrada": 637,
+  "saida": 1042
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum de Autoavaliação Institucional da CPA",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Solenidade de Abertura e Apresentação dos Indicadores",
+    "lugar": "Auditório Principal do Prédio Central",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral <b>Prof. Marcelo Guimarães</b>, seguida da apresentação dos resultados da avaliação docente e de infraestrutura com a pesquisadora institucional <b>Dra. Simone Rezende</b> sob o tema <i>Diagnóstico da Trajetória Acadêmica 2024-2026</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Principal do Prédio Central",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão sobre <i>A Efetividade dos Planos de Ação Setoriais no Ensino Superior</i> com participação de <b>Renata Viana Castro</b> e mediação de <b>Carlos Henrique Antunes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Salão Nobre da Biblioteca",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": "<p>Painel intitulado <i>Políticas de Permanência e Evasão: Desafios e Instrumentos da CPA</i>, contando com os debatedores <b>Dr. Rogério Meireles</b> e <b>Luciana Prado Fernandes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>Estruturação de Formulários e Métricas Qualitativas para Comissões Próprias</i>, ministrada pelo técnico em estatística <b>Fabrício Lacerda</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Sala de Reuniões da Diretoria",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Atividade voltada à elaboração de relatórios orientada por <b>Patrícia Albuquerque</b> com o tema <i>Alinhamento do Relatório Anual da CPA às Novas Diretrizes do SINAES</i>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": "Auditório Principal do Prédio Central",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura e aprovação da carta de recomendações à administração superior, sob a presidência de <b>Prof. Marcelo Guimarães</b> e relatoria de <b>Amanda Figueiredo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "spec": {
+  "id": "sint-42-00433",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 16,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:53+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 2410
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Centro-Oeste de Sustentabilidade e Conservação do Pantanal",
+   "local_geral": "Centro de Convenções Arquiteto Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do secretário estadual <b>Renato Silveira</b> e da diretora institucional <b>Cláudia Regina Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T11:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Desafios Hídricos e Preservação dos Biomas Sul-Mato-Grossenses</i> ministrada pelo Dr. <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T11:30:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Sala Águas de Bonito",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Técnicas de Monitoramento e Prevenção de Incêndios Florestais</i> conduzida pelo engenheiro florestal <b>Rodrigo Albuquerque</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Sala Tuiuiú",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Restauração Ecológica de Pastagens Degradadas no Cerrado</i> com a bióloga <b>Larissa Miranda</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Espaço Café e Conexões",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2024-05-16T15:30:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Agropecuária de Baixo Carbono e Sustentabilidade Econômica</i>. Moderação por <b>Juliana Pires</b> com participações de <b>Fernando Barreto</b> e <b>Patrícia Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural Pantaneira",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-16T18:15:00-03:00",
+    "dataFim": "2024-05-16T19:00:00-03:00",
+    "descricao": "<p>Apresentação musical e poética regional com o violeiro <b>Marcos Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas de Conservação da Biodiversidade no Pantanal</i> com os debatedores <b>Otávio Camargo</b> e <b>Beatriz Villela</b> sob coordenação de <b>Sérgio Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-17T10:15:00-03:00",
+    "dataFim": "2024-05-17T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala Águas de Bonito",
+    "dataInicio": "2024-05-17T10:45:00-03:00",
+    "dataFim": "2024-05-17T12:15:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>Análise Hidrológica da Bacia do Rio Paraguai</i> pela pesquisadora <b>Mariana Zanetti</b> e <i>Dinâmica Populacional da Ictiofauna no Rio Miranda</i> por <b>Gustavo Henrique Lopes</b>.</p>",
+    "secao": "Apresentação de Artigos Científicos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala Tuiuiú",
+    "dataInicio": "2024-05-17T10:45:00-03:00",
+    "dataFim": "2024-05-17T12:15:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>Ecoturismo Comunitário como Ferramenta de Conservação</i> por <b>Helena Vasconcelos</b> e <i>Educação Ambiental nas Escolas Rurais</i> por <b>Tiago Meireles</b>.</p>",
+    "secao": "Apresentação de Artigos Científicos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:15:00-03:00",
+    "dataFim": "2024-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Internacional",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Painel com o tema <i>Cooperação Transfronteiriça para a Gestão de Áreas Úmidas</i> reunindo a especialista <b>Valéria Arantes</b> e o pesquisador convidado <b>Mateo Benítez</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-17T16:30:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação da <i>Carta de Campo Grande pelo Pantanal Sustentável</i> coordenada por <b>Cláudia Regina Mendonça</b> e entrega de menções honrosas.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

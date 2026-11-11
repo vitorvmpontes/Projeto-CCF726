@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-42-00130",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:33+00:00",
+ "uso_tokens": {
+  "entrada": 676,
+  "saida": 1605
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia de Produção da UFPB",
+   "local_geral": "Centro de Tecnologia (CT), Campus I da Universidade Federal da Paraíba, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Crachás",
+    "lugar": "Hall do Bloco G",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Gerardo Ferrer",
+    "dataInicio": "2026-05-18T08:45:00-03:00",
+    "dataFim": "2026-05-18T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a coordenação do colegiado.</p><p>Coordenador: Prof. Dr. <b>Marcos Vinícius de Farias</b>.</p><p>Pronunciamento de boas-vindas da Profa. Dra. <b>Helena Soares Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Gerardo Ferrer",
+    "dataInicio": "2026-05-18T09:30:00-03:00",
+    "dataFim": "2026-05-18T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e Logística 4.0 nos Polos Industriais do Nordeste</i>.</p><p>Palestrante: Eng. <b>Danilo Coutinho Maranhão</b> (Diretor de Supply Chain do Grupo NeoNordeste).</p><p>Mediação: Profa. <b>Lívia Mendes Guimarães</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Otimização e Simulação (LabOS)",
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução à Simulação de Eventos Discretos com Simio</i>.</p><p>Instrutor: Me. <b>Rodrigo Pessoa de Queiroz</b>.</p>",
+    "secao": "Minicursos da Manhã"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Ergonomia e Métodos",
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Mapeamento de Fluxo de Valor Aplicado a Serviços Hospitalares</i>.</p><p>Instrutora: Esp. <b>Camila Dantas Nogueira</b>.</p>",
+    "secao": "Minicursos da Manhã"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-18T12:30:00-03:00",
+    "dataFim": "2026-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala de Multimídia 2",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T16:00:00-03:00",
+    "descricao": "<p>Coordenador da sessão: Prof. Dr. <b>Renato Castelo Branco</b>.</p><p>Apresentação dos trabalhos selecionados:</p><p>1. <i>Aplicação do Algoritmo Genético no Roteamento de Frotas de Coleta Seletiva em João Pessoa</i> - Autores: <b>Beatriz Montenegro Ramos</b>, <b>Igor Cavalcanti de Araújo</b> e <b>Renato Castelo Branco</b>.</p><p>2. <i>Análise Ergonômica do Trabalho em Linhas de Montagem do Setor Calçadista Paraibano</i> - Autores: <b>Talita Figueiredo Sales</b> e <b>Carlos Eduardo Lucena</b>.</p><p>3. <i>Implementação dos Princípios Enxutos em uma Microcervejaria Artesanal</i> - Autores: <b>Felipe Bezerra da Cunha</b> e <b>Gisela Moreira Pinto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Gerardo Ferrer",
+    "dataInicio": "2026-05-18T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Sustentabilidade Operacional e Economia Circular na Indústria de Alimentos</i>.</p><p>Palestrante: Profa. Dra. <b>Fernanda Tavares Gusmão</b> (UFCG).</p><p>Coordenação de mesa: Prof. <b>Tiago Meireles Prado</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Gerardo Ferrer",
+    "dataInicio": "2026-05-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos melhores trabalhos da sessão científica e agradecimentos finais pela comissão organizadora presidida por <b>Marcos Vinícius de Farias</b> e pela estudante <b>Letícia Ramalho Maia</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

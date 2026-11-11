@@ -1,0 +1,190 @@
+{
+ "spec": {
+  "id": "sint-42-00367",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Campo Grande - MS",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 20,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:19+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 2995
+ },
+ "saida": {
+  "evento": {
+   "nome": "Pantanal Tech & Hack Summit 2025",
+   "local_geral": "Centro de Convenções Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Welcome Coffee",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-14T09:30:00-03:00",
+    "dataFim": "2025-05-14T11:00:00-03:00",
+    "descricao": "<p>Apresentação inaugural conduzida por <b>Mariana Albuquerque</b> abordando o cenário de inovação aberta e o ecossistema tecnológico do Centro-Oeste brasileiro.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Mentoria Técnica de Hackathon",
+    "lugar": "Espaço Maker Lab",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T16:00:00-03:00",
+    "descricao": "<p>Orientações práticas para os competidores do hackathon com <b>Carlos Eduardo Santos</b> e <b>Beatriz Nogueira</b> sobre modelagem e viabilidade de MVP.</p>",
+    "secao": "Hackathon AgroTech & Sustentabilidade"
+   },
+   {
+    "nome": "Palestra Corporativa",
+    "lugar": null,
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Rodrigo Peixoto</b> intitulada <i>Estratégias avançadas de inteligência artificial aplicada ao agronegócio sustentável para redução de pegada de carbono em grandes propriedades rurais brasileiras</i> sobre tendências na cadeia de suprimentos.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Painel Setorial",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T10:30:00-03:00",
+    "descricao": "<p>Discussão com executivos liderada por <b>Fernanda Guimarães</b> e <b>Lucas Valente</b> debatendo conectividade rural e internet das coisas nas lavouras.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2025-05-15T10:45:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Workshop técnico ministrado por <b>Rafael Miranda</b>: <i>Desenvolvimento acelerado de microsserviços resilientes em nuvem híbrida utilizando contêineres e orquestração moderna com Kubernetes</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2025-05-15T10:45:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Treinamento intensivo facilitado por <b>Larissa Fontes</b> com foco em prototipação ágil de interfaces mobile para plataformas de crédito rural.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Mentoria Técnica de Hackathon",
+    "lugar": "Espaço Maker Lab",
+    "dataInicio": "2025-05-15T15:00:00-03:00",
+    "dataFim": "2025-05-15T17:00:00-03:00",
+    "descricao": "<p>Segunda rodada de suporte técnico com foco em arquitetura de dados e consumo de APIs públicas, conduzida por <b>Thiago Barreto</b>.</p>",
+    "secao": "Hackathon AgroTech & Sustentabilidade"
+   },
+   {
+    "nome": "Palestra Corporativa",
+    "lugar": null,
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": "<p>Talk com <b>Juliana Meireles</b> compartilhando experiências em escala de plataformas fintech para produtores cooperados.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Sala Ágata",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:45:00-03:00",
+    "descricao": "<p>Palestra de <b>Danilo Queiroz</b> com o título <i>Implementação de pipelines de observabilidade contínua e mitigação automatizada de falhas críticas em ambientes corporativos de alta demanda transacional</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Palestra Corporativa",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:45:00-03:00",
+    "descricao": "<p>Painel de inovação corporativa com <b>Cláudia Pires</b> e <b>Gustavo Zanin</b> sobre cultura de experimentação em startups e scale-ups.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Sessão de Validação e Feedback",
+    "lugar": null,
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Momento reservado para os jurados avaliarem os protótipos intermediários das equipes do hackathon. Coordenação por <b>Patrícia Castelo</b>.</p>",
+    "secao": "Hackathon AgroTech & Sustentabilidade"
+   },
+   {
+    "nome": "Pitch Treinamento",
+    "lugar": "Sala Quartzo",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": "<p>Simulação e orientação de oratória e apresentação comercial para os times finalistas, com <b>André Villas-Bôas</b>.</p>",
+    "secao": "Hackathon AgroTech & Sustentabilidade"
+   },
+   {
+    "nome": "Demo Day Empresarial",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-17T11:15:00-03:00",
+    "dataFim": "2025-05-17T12:45:00-03:00",
+    "descricao": "<p>Apresentação das soluções tecnológicas desenvolvidas por empresas parceiras do evento, mediada por <b>Vanessa Roriz</b>.</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Sprint Final de Programação",
+    "lugar": "Espaço Maker Lab",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Período de encerramento de commits e envio do código-fonte para o repositório oficial da competição sob supervisão de <b>Marcos Vinicius Maia</b>.</p>",
+    "secao": "Hackathon AgroTech & Sustentabilidade"
+   },
+   {
+    "nome": "Happy Hour de Networking",
+    "lugar": null,
+    "dataInicio": "2025-05-17T18:00:00-03:00",
+    "dataFim": "2025-05-17T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Pitches Finais",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-18T09:00:00-03:00",
+    "dataFim": "2025-05-18T11:30:00-03:00",
+    "descricao": "<p>Banca de avaliação final composta por investidores convidados: <b>Helena Dorneles</b>, <b>Paulo César Prado</b> e <b>Renata Siqueira</b>.</p>",
+    "secao": "Hackathon AgroTech & Sustentabilidade"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-18T12:00:00-03:00",
+    "dataFim": "2025-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-18T14:00:00-03:00",
+    "dataFim": "2025-05-18T15:30:00-03:00",
+    "descricao": "<p>Anúncio dos três times vencedores do hackathon e entrega dos prêmios institucionais com <b>Mariana Albuquerque</b> e <b>Carlos Eduardo Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Oficial",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2025-05-18T15:30:00-03:00",
+    "dataFim": "2025-05-18T16:30:00-03:00",
+    "descricao": "<p>Agradecimentos aos apoiadores, patrocinadores e encerramento oficial das atividades por <b>Mariana Albuquerque</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

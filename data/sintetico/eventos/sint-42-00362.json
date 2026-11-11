@@ -1,0 +1,246 @@
+{
+ "spec": {
+  "id": "sint-42-00362",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Fortaleza - CE",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 27,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "descricoes_ricas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:57+00:00",
+ "uso_tokens": {
+  "entrada": 698,
+  "saida": 3753
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Cearense de Mulheres na Computação",
+   "local_geral": "Centro de Convivência e Centro de Tecnologia da Universidade Federal do Ceará (UFC), Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Kits",
+    "lugar": "Hall do Auditório Candeia",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Boas-Vindas",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pela coordenadora geral <b>Prof. Dra. Camila Vasconcelos</b> e pela representante discente <b>Mariana Parente</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Da Graduação à Liderança Global em Computação: Conquistando Espaço e Construindo Comunidades de Apoio Mútuo</i> ministrada pela engenheira de software sênior <b>Beatriz Rocha de Alencar</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2026-05-14T10:45:00-03:00",
+    "dataFim": "2026-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda sobre Carreira",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Lívia Mendes</b>. Participação de <b>Sofia Nogueira</b> e <b>Eliane Frota</b> debatendo desafios de transição para cargos de liderança técnica em startups e multinacionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:30:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Machine Learning",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Instrutora: <b>Renata Albuquerque</b>. Práticas com bibliotecas open-source e modelos preditivos supervisionados.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Segurança Defensiva e Análise Forense para Proteção de Ambientes Críticos em Organizações Contemporâneas",
+    "lugar": "Laboratório de Software Livre",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Facilitadora: <b>Talita Saraiva Barreto</b>. Estudo de caso de mitigação de vulnerabilidades e resposta rápida a incidentes cibernéticos.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Mediação de <b>Jéssica Fontes</b> e relatos de alunas de graduação e pós-graduação sobre permanência nos cursos de exatas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Pôsteres Científicos",
+    "lugar": "Foyer do Bloco 700",
+    "dataInicio": "2026-05-14T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coordenação de <b>Dra. Vanessa Teles</b>. Apresentações de trabalhos em andamento de alunas da graduação de diversas instituições do Ceará.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Prof. Me. Fabiana Arruda</b>. Trabalhos apresentados: <i>Detecção de Discurso de Ódio Contra Mulheres no Twitter Usando BERT</i> por <b>Aline Guimarães</b>; <i>Análise de Desempenho de Redes Neurais em Borda</i> por <b>Karla Silveira</b> e <b>Clara Pontes</b>; <i>Interface Adaptativa para Idosos</i> por <b>Juliana Bezerra</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Dra. Patrícia Castelo Branco</b>. Trabalhos apresentados: <i>Smart Grids e Algoritmos Heurísticos de Roteamento</i> por <b>Letícia Freitas</b>; <i>Auditoria de Privacidade em Aplicativos Financeiros Brasileiros</i> por <b>Daniela Ramos</b>; <i>Ontologias na Representação do Conhecimento Médico</i> por <b>Érica Damasceno</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-15T11:00:00-03:00",
+    "dataFim": "2026-05-15T12:15:00-03:00",
+    "descricao": "<p>Palestrante: <b>Dra. Thaís Guimarães</b> apresentando a conferência <i>Arquiteturas Resilientes para Computação em Nuvem em Grande Escala</i>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:15:00-03:00",
+    "dataFim": "2026-05-15T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Desenvolvimento Frontend",
+    "lugar": "Laboratório de Software Livre",
+    "dataInicio": "2026-05-15T13:45:00-03:00",
+    "dataFim": "2026-05-15T16:45:00-03:00",
+    "descricao": "<p>Facilitadora: <b>Larissa Macedo</b> ensinando boas práticas e componentização moderna com React e TypeScript.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Design de Experiência do Usuário Aplicada ao Desenvolvimento Inclusivo de Tecnologias Móveis Assistivas",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-05-15T13:45:00-03:00",
+    "dataFim": "2026-05-15T16:45:00-03:00",
+    "descricao": "<p>Ministrante: <b>Lorena Dantas de Carvalho</b>. Técnicas de acessibilidade digital na prototipação e validação de interfaces.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Painel Mulheres na Indústria de Jogos",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-15T14:30:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Moderação por <b>Bárbara Aragão</b>. Participantes: <b>Cecília Lima</b>, <b>Nayara Prado</b> e <b>Gisele Sombra</b> compartilhando vivências no ecossistema independente de games.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço Mentoria de Carreira",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2026-05-15T17:00:00-03:00",
+    "dataFim": "2026-05-15T18:30:00-03:00",
+    "descricao": "<p>Sessão de orientação individual e revisão de currículos com as mentoras seniores <b>Milena Duarte</b>, <b>Camila Siqueira</b> e <b>Roberta Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encontro de Comunidades Femininas de TI",
+    "lugar": "Tenda Cultural",
+    "dataInicio": "2026-05-15T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Reunião de articulação interestadual conduzida por <b>Ísis Medeiros</b>, com representantes de coletivos de tecnologia do Nordeste.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda sobre Empreendedorismo",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": "<p>Debate sobre captação de recursos e criação de deep techs no Nordeste. Coordenadora: <b>Flávia Rabelo</b>. Debatedoras convidadas: <b>Monique Carvalho</b> e <b>Sabrina Holanda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Lanche",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Prof. Dra. Nairana Costa</b>. Apresentações: <i>Classificação de Imagens Médicas Mamográficas com Visão Computacional</i> por <b>Paula Cristina Chaves</b>; <i>Governança de Dados em Cooperativas de Crédito</i> por <b>Giovanna Viana</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Debate Aberto sobre Maternidade e Carreira Acadêmica",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Roda de conversa orientada pelas pesquisadoras <b>Dra. Mariana Gadelha</b> e <b>Prof. Samara Pinheiro</b> sobre políticas de apoio à parentalidade na pós-graduação.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:30:00-03:00",
+    "dataFim": "2026-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Apresentação de fechamento com tema <i>Ética Algorítmica e Inteligência Artificial Responsável: Quem Decide as Prioridades do Futuro?</i> ministrada pela cientista-chefe <b>Dra. Clarice Peixoto Fontenele</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão de Premiação e Encerramento",
+    "lugar": "Auditório Candeia",
+    "dataInicio": "2026-05-16T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio das menções honrosas e dos melhores artigos científicos da conferência, sob condução de <b>Prof. Dra. Camila Vasconcelos</b> e comissão avaliadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

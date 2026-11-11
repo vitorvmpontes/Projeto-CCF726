@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-42-00180",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "descricoes_ricas",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:14+00:00",
+ "uso_tokens": {
+  "entrada": 682,
+  "saida": 1189
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Ecologia e Conservação da Biodiversidade",
+   "local_geral": "Centro de Eventos do Pantanal, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala Aripuanã",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Eixo Temático: Dinâmica Populacional e Mudanças Climáticas no Cerrado.</p><p>Coordenação: <b>Dra. Mariana Prado Silveira</b> (UFMT).</p><p>Trabalhos apresentados:</p><p>- <i>Impactos do estresse hídrico na germinação de espécies arbóreas do Pantanal</i>, por <b>Lucas Barreto Rondon</b> e <b>Camila Duarte Arruda</b>;</p><p>- <i>Modelagem preditiva de nicho ecológico para pequenos mamíferos em áreas de transição</i>, por <b>Thiago Nogueira Borges</b> e <b>Dra. Mariana Prado Silveira</b>.</p>",
+    "secao": "Sessões Científicas"
+   },
+   {
+    "nome": "Colóquio Temático",
+    "lugar": "Auditório Guimarães",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:00:00-03:00",
+    "descricao": "<p>Tema: Desafios Contemporâneos na Gestão e Restauração de Terras Úmidas.</p><p>Palestrantes convidados: <b>Prof. Dr. Haroldo Benites</b> (INAU) e <b>Dra. Letícia Miranda Fagundes</b> (Embrapa Pantanal).</p><p>Coordenação dos debates: <b>Prof. Dr. Valdemir Alencastro</b> (UFMT).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-20T17:00:00-03:00",
+    "dataFim": "2027-05-20T18:30:00-03:00",
+    "descricao": "<p>Exposição e avaliação dos painéis da pós-graduação stricto sensu.</p><p>Comitê avaliador: <b>Dra. Renata Cintra Galvão</b>, <b>Dr. Fábio Esteves Manso</b> e <b>Profa. Ma. Cibele Ortiz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala Juruena",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Eixo Temático: Etnobiologia, Conservação Comunitária e Serviços Ecossistêmicos.</p><p>Coordenação: <b>Dr. Rodrigo Vasconcelos Paes</b> (Unemat).</p><p>Trabalhos apresentados:</p><p>- <i>Uso sustentável de recursos pesqueiros por comunidades ribeirinhas da Bacia do Rio Cuiabá</i>, por <b>Aline Guimarães Peixoto</b>;</p><p>- <i>Percepção socioambiental e conservação de quelônios em unidades de conservação estaduais</i>, por <b>Gustavo Henrique Antunes</b> e <b>Dr. Rodrigo Vasconcelos Paes</b>.</p>",
+    "secao": "Sessões Científicas"
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Guimarães",
+    "dataInicio": "2027-05-21T15:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Tema: Perspectivas para a Internacionalização da Pesquisa em Ciências Ambientais no Centro-Oeste.</p><p>Conferencista: <b>Profa. Dra. Carmen Lúcia Bittencourt</b> (UnB).</p><p>Mediação: <b>Dr. Valdecir Soares Mendonça</b> (UFMT).</p>",
+    "secao": null
+   }
+  ]
+ }
+}

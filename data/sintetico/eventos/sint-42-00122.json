@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-42-00122",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Vitória - ES",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "intervalos",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:00+00:00",
+ "uso_tokens": {
+  "entrada": 677,
+  "saida": 1099
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UFES 2027",
+   "local_geral": "Campus Goiabeiras - Vitória, ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Hall do Centro de Vivência",
+    "dataInicio": "2027-03-08T08:00:00-03:00",
+    "dataFim": "2027-03-08T09:00:00-03:00",
+    "descricao": "<p>Distribuição do kit do calouro e orientações gerais de chegada com a comissão discente liderada por <b>Lucas Pimentel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula Inaugural",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2027-03-08T09:00:00-03:00",
+    "dataFim": "2027-03-08T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Universidade Pública como Espaço de Cidadania e Inovação</i>.</p><p>Palestra de abertura proferida pela Profa. Dra. <b>Helena Vasconcellos</b> com mediação do Prof. <b>Rodrigo Capelari</b>.</p>",
+    "secao": "Boas-vindas Acadêmicas"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Tenda da Reitoria",
+    "dataInicio": "2027-03-08T10:30:00-03:00",
+    "dataFim": "2027-03-08T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": "Ponto de Encontro: Biblioteca Central",
+    "dataInicio": "2027-03-08T11:00:00-03:00",
+    "dataFim": "2027-03-08T12:30:00-03:00",
+    "descricao": "<p>Visita guiada aos laboratórios, restaurante universitário e serviços de apoio estudantil coordenada pelo monitor <b>Felipe Nascimento</b>.</p>",
+    "secao": "Atividades de Reconhecimento"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2027-03-08T12:30:00-03:00",
+    "dataFim": "2027-03-08T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": "Ponto de Encontro: Centro Tecnológico",
+    "dataInicio": "2027-03-08T14:00:00-03:00",
+    "dataFim": "2027-03-08T15:30:00-03:00",
+    "descricao": "<p>Segunda turma de visita guiada voltada aos ingressantes dos cursos de Exatas e Tecnologia, orientada pela monitora <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Atividades de Reconhecimento"
+   },
+   {
+    "nome": "Gincana dos Bixos",
+    "lugar": "Gramado Central",
+    "dataInicio": "2027-03-08T15:30:00-03:00",
+    "dataFim": "2027-03-08T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Conectando Cursos e Saberes</i>.</p><p>Jogos cooperativos e arrecadação de donativos organizados pelo Diretório Central dos Estudantes sob coordenação de <b>Gabriel Salles</b> e <b>Camila Duarte</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

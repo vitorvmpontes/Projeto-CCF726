@@ -1,0 +1,102 @@
+{
+ "spec": {
+  "id": "sint-42-00198",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Fortaleza - CE",
+  "ano": 2023,
+  "n_dias": 4,
+  "n_atividades": 9,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "descricoes_ricas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:51+00:00",
+ "uso_tokens": {
+  "entrada": 688,
+  "saida": 1649
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVI Mostra de Extensão Universitária da UFC: Conexões Comunitárias e Saberes Compartilhados",
+   "local_geral": "Campus do Pici, Universidade Federal do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Solenidade de Abertura e Cortejo Cultural",
+    "lugar": "Centro de Convivência do Pici",
+    "dataInicio": "2023-10-18T09:00:00-03:00",
+    "dataFim": "2023-10-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Pró-Reitora de Extensão <b>Bernadete de Lourdes Ramos Pires</b> e intervenção artística com o grupo Maracatu Solar, coordenado por <b>Pingo de Fortaleza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T17:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos do eixo Direitos Humanos e Cidadania. Coordenação da Profa. Dra. <b>Socorro de Maria Osterne</b>.</p><p>Trabalhos apresentados: <i>Rede de Apoio Jurídico a Comunidades Tradicionais do Ceará</i> por <b>Francisco Lucas Nobre</b>; <i>Mulheres da Maré: Tecendo Redes Solidárias no Grande Pirambu</i> por <b>Clara Silva Bezerra</b> e <b>Eunice Alencar</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Educação Popular - Bloco 714",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Capacitação voltada a lideranças comunitárias e estudantes. Ministrada por <b>Hélio Ramalho de Albuquerque</b> e <b>Francisca Janicleide Gomes</b> sobre o tema <i>Metodologias Participativas para Hortas Agroecológicas Urbanas</i>.</p>",
+    "secao": "Oficinas Comunitárias"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos do eixo Saúde e Meio Ambiente. Coordenador da sessão: <b>Marcio Roberto Peixoto</b>.</p><p>Trabalhos: <i>Promoção da Saúde Bucal nas Escolas Públicas do Benfica</i> apresentado por <b>Marina Dantas Barreto</b>; <i>Monitoramento da Qualidade das Águas na Bacia do Rio Cocó</i> por <b>Thiago Meireles Aguiar</b> e <b>Carla Regina Vasconcelos</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Castelo Branco - Reitoria",
+    "dataInicio": "2023-10-20T09:00:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Políticas Públicas e Impacto Social da Extensão no Semiárido</i>. Mediação feita por <b>Antônio Edmilson Pinheiro</b>, com a participação dos debatedores <b>Maria Zelma Rocha</b> (MST Ceará) e <b>João Paulo Chaves</b> (SECTET).</p>",
+    "secao": "Debates e Diálogos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Multiuso da Pró-Reitoria de Extensão",
+    "dataInicio": "2023-10-20T14:30:00-03:00",
+    "dataFim": "2023-10-20T17:30:00-03:00",
+    "descricao": "<p>Atividade voltada à produção audiovisual independente intitulada <i>Narrativas Audiovisuais da Periferia: Celular em Punho</i>, conduzida por <b>Camila Chaves Fontenele</b> e <b>Arthur Guimarães</b>.</p>",
+    "secao": "Oficinas Comunitárias"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": null,
+    "dataInicio": "2023-10-21T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Painel <i>Curricularização da Extensão: Desafios e Experiências Exitosas nos Cursos de Graduação</i>, coordenado por <b>Tânia Mara de Sousa</b>, com palestras de <b>Geraldo Veras de Medeiros</b> e <b>Sônia Fátima Holanda</b>.</p>",
+    "secao": "Debates e Diálogos"
+   },
+   {
+    "nome": "Feira de Saberes e Economia Solidária",
+    "lugar": "Bosque da Reitoria",
+    "dataInicio": "2023-10-21T11:00:00-03:00",
+    "dataFim": "2023-10-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-10-21T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos projetos extensionistas homenageados com o Prêmio Destaque Extensionista 2023, conduzida pela coordenadora-geral do evento <b>Lívia Mendes Cavalcante</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

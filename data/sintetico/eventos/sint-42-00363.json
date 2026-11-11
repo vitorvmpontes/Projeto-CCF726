@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-42-00363",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Salvador - BA",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "sem_horario_fim",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:52+00:00",
+ "uso_tokens": {
+  "entrada": 687,
+  "saida": 948
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Baiano de Direito Processual e Novas Tecnologias",
+   "local_geral": "Centro de Convenções de Salvador, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Jorge Amado",
+    "dataInicio": "2027-08-19T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura oficial dos trabalhos sob coordenação do Desembargador <b>Antônio Carlos Magalhães Filho</b>.</p><p>Pronunciamento inaugural com a participação de <b>Dra. Juliana Ribeiro Sampaio</b> e <b>Dr. Marcelo Tavares Bastos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda I",
+    "lugar": null,
+    "dataInicio": "2027-08-19T10:30:00-03:00",
+    "dataFim": "2027-08-19T12:30:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial e a Prova Digital no Processo Civil.</p><p>Coordenação: <b>Dra. Beatriz Gusmão de Queiroz</b>.</p><p>Palestrantes:</p><p><b>Prof. Rodrigo Alencar</b> apresentando a conferência <i>Limites Éticos e Constitucionais dos Algoritmos Probatórios</i>.</p><p><b>Dra. Camila Lins Peixoto</b> com a exposição <i>Valoração Jurídica da Cadeia de Custódia em Documentos Criptografados</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Sessão de Comunicações Científicas",
+    "lugar": null,
+    "dataInicio": "2027-08-19T14:30:00-03:00",
+    "dataFim": "2027-08-19T16:30:00-03:00",
+    "descricao": "<p>Apresentação dos artigos selecionados pelo Comitê Avaliador. Coordenador da sessão: <b>Prof. Marcos Vinícius Dantas</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Audiências Virtuais e o Acesso à Justiça nos Tribunais Estaduais</i>, por <b>Lucas Medeiros Barreto</b> e <b>Mariana Castro Villas</b>.</p><p>2. <i>A Eficácia Executiva dos Smart Contracts no Ordenamento Brasileiro</i>, por <b>Fernanda Nogueira Paes</b>.</p><p>3. <i>Precedentes Judiciais Vinculantes e Automação Decisória</i>, por <b>Gabriel Rocha Santana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda II",
+    "lugar": null,
+    "dataInicio": "2027-08-19T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Desafios Contemporâneos da Tutela Coletiva e Litigância Predatória.</p><p>Coordenação: <b>Dr. Paulo Roberto Vianna</b>.</p><p>Debatedores convidados:</p><p><b>Profa. Dra. Letícia Fontes Diniz</b> abordando o painel <i>Mecanismos de Prevenção e Saneamento Processual em Demandas de Massa</i>.</p><p><b>Dr. Samuel Prado Menezes</b> com a intervenção <i>O Papel da Defensoria Pública na Defesa Coletiva perante Plataformas Digitais</i>.</p>",
+    "secao": "Mesas de Debates"
+   }
+  ]
+ }
+}

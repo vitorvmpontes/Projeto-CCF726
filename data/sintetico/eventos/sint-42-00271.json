@@ -1,0 +1,252 @@
+{
+ "spec": {
+  "id": "sint-42-00271",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Manaus - AM",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 28,
+  "casos": [
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:10+00:00",
+ "uso_tokens": {
+  "entrada": 667,
+  "saida": 4120
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Amazonas 2025",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in de Visitantes",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e lançamento oficial do evento com <b>Ananda Guimarães</b> e <b>Carlos Eduardo Bessa</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Nobre 1",
+    "dataInicio": "2025-05-15T11:15:00-03:00",
+    "dataFim": "2025-05-15T12:45:00-03:00",
+    "descricao": "<p>Tema: <i>Planejamento Financeiro para Microempresas na Prática</i>. Conduzido pelo consultor <b>Marcos Aurélio Silveira</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Consultoria Individual",
+    "lugar": "Espaço Conecte",
+    "dataInicio": "2025-05-15T11:30:00-03:00",
+    "dataFim": "2025-05-15T13:00:00-03:00",
+    "descricao": "<p>Atendimento rápido e diagnóstico empresarial personalizado ministrado por <b>Patrícia Nogueira</b> e técnicos credenciados.</p>",
+    "secao": "Atendimento Sebrae"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Bioeconomia e Sustentabilidade na Amazônia</i>, com a participação de <b>Jonas Maciel</b> e <b>Drª. Clara Figueiredo</b>.</p>",
+    "secao": "Palestras e Debates"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Nobre 2",
+    "dataInicio": "2025-05-15T14:30:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Marketing Digital com Foco em Vendas pelo WhatsApp</i>. Facilitadora: <b>Lívia Castelo</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Salão de Oportunidades",
+    "dataInicio": "2025-05-15T16:00:00-03:00",
+    "dataFim": "2025-05-15T18:00:00-03:00",
+    "descricao": "<p>Sessão multissetorial de networking e parcerias comerciais coordenada por <b>Roberto Albuquerque</b>.</p>",
+    "secao": "Networking e Negócios"
+   },
+   {
+    "nome": "Consultoria Individual",
+    "lugar": "Espaço Conecte",
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": "2025-05-15T18:00:00-03:00",
+    "descricao": "<p>Orientação sobre formalização, gestão e acesso a microcrédito com <b>Patrícia Nogueira</b> e especialistas parceiros.</p>",
+    "secao": "Atendimento Sebrae"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2025-05-15T18:30:00-03:00",
+    "dataFim": "2025-05-15T20:00:00-03:00",
+    "descricao": "<p>Apresentação especial: <i>Inovação Disruptiva nos Negócios Tradicionais</i> por <b>Thiago Mendonça</b>.</p>",
+    "secao": "Palestras e Debates"
+   },
+   {
+    "nome": "Recepção e Check-in de Visitantes",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Nobre 1",
+    "dataInicio": "2025-05-16T09:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem de Negócios com Canvas</i>. Instrutor: <b>Fernando Picanço</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Panorama das Franquias no Norte do Brasil</i> por <b>Valéria Saraiva</b>.</p>",
+    "secao": "Palestras e Debates"
+   },
+   {
+    "nome": "Consultoria Individual",
+    "lugar": "Espaço Conecte",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Assessoria direcionada para microempreendedores individuais com a técnica <b>Renata Queiroz</b>.</p>",
+    "secao": "Atendimento Sebrae"
+   },
+   {
+    "nome": "Mostra de Startups",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição contínua de soluções tecnológicas desenvolvidas no ecossistema local, com coordenação de <b>Lucas Evangelista</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias de E-commerce e Logística Fluvial na Região Norte</i>. Debatedores: <b>Samuel Braga</b> e <b>Evelyn Vasconcelos</b>.</p>",
+    "secao": "Palestras e Debates"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Nobre 2",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Gestão de Estoque e Redução de Custos Operacionais</i>. Ministrada por <b>Danilo Albuquerque</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Salão de Oportunidades",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Sessão focada em empresas fornecedoras do Polo Industrial de Manaus, sob mediação de <b>Roberto Albuquerque</b>.</p>",
+    "secao": "Networking e Negócios"
+   },
+   {
+    "nome": "Consultoria Individual",
+    "lugar": "Espaço Conecte",
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Orientação sobre registro de marcas, patentes e tributação com o consultor <b>Renata Queiroz</b>.</p>",
+    "secao": "Atendimento Sebrae"
+   },
+   {
+    "nome": "Batalha de Pitch",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-16T18:30:00-03:00",
+    "dataFim": "2025-05-16T20:30:00-03:00",
+    "descricao": "<p>Competição de soluções inovadoras com banca avaliadora composta por <b>Mariana Sampaio</b> e <b>Bruno Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Recepção e Check-in de Visitantes",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Nobre 1",
+    "dataInicio": "2025-05-17T09:30:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Fotografia de Produtos com Smartphone para Pequenos Negócios</i>. Apresentada por <b>Aline Pinheiro</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Turismo Sustentável e Empreendedorismo de Base Comunitária</i>. Participantes: <b>Kátia Meireles</b> e <b>Jorge Uchoa</b>.</p>",
+    "secao": "Palestras e Debates"
+   },
+   {
+    "nome": "Consultoria Individual",
+    "lugar": "Espaço Conecte",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Plantão de orientações gerais de gestão e crédito com <b>Patrícia Nogueira</b> e especialistas.</p>",
+    "secao": "Atendimento Sebrae"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Apresentação: <i>Liderança Humanizada e Formação de Equipes Resilientes</i> por <b>Helena Dantas</b>.</p>",
+    "secao": "Palestras e Debates"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Nobre 2",
+    "dataInicio": "2025-05-17T14:30:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de Negociação e Fechamento de Vendas B2B</i> conduzida por <b>Guilherme Prado</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Encontro de Negócios da Economia Criativa",
+    "lugar": "Salão de Oportunidades",
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": "2025-05-17T17:30:00-03:00",
+    "descricao": "<p>Reunião temática para artistas, designers e produtores culturais mediada por <b>Vanessa Medeiros</b>.</p>",
+    "secao": "Networking e Negócios"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2025-05-17T18:00:00-03:00",
+    "dataFim": "2025-05-17T19:30:00-03:00",
+    "descricao": "<p>Apresentação: <i>O Futuro dos Negócios: Oportunidades e Desafios Globais</i> ministrada pelo palestrante <b>Rodrigo Cordeiro</b>.</p>",
+    "secao": "Palestras e Debates"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2025-05-17T19:45:00-03:00",
+    "dataFim": "2025-05-17T21:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores da Batalha de Pitch e fala de encerramento proferida por <b>Ananda Guimarães</b>.</p>",
+    "secao": "Solenidades"
+   }
+  ]
+ }
+}

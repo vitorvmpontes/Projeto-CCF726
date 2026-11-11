@@ -1,0 +1,198 @@
+{
+ "spec": {
+  "id": "sint-42-00389",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Recife - PE",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "subtitulo_separado",
+   "nomes_repetidos",
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:59+00:00",
+ "uso_tokens": {
+  "entrada": 694,
+  "saida": 3811
+ },
+ "saida": {
+  "evento": {
+   "nome": "XV Congresso Pernambucano de Cardiologia e Terapia Intensiva",
+   "local_geral": "Centro de Convenções de Pernambuco, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-05-16T07:30:00-03:00",
+    "dataFim": "2024-05-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Tema central: Desafios Contemporâneos no Manejo do Choque Cardiogênico.</p><p>Apresentação de <b>Dr. Marcelo Tavares Montenegro</b> com o tema <i>Novas Diretrizes no Suporte Circulatório Mecânico</i>.</p><p>Coordenação: <b>Dra. Beatriz Lins Cavalcanti</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Intervalo com Visita aos Estandes",
+    "lugar": null,
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Simulação Realística",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Foco: Via Aérea Difícil na UTI Cardiológica.</p><p>Instrutores: <b>Dr. Rodrigo Albuquerque Pires</b> e <b>Dra. Juliana Vasconcelos Ramos</b>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos resumos selecionados da área de Insuficiência Cardíaca.</p><p>Avaliadores: <b>Dr. Cláudio Arcoverde</b> e <b>Dra. Fernanda Matos</b>.</p><p>Trabalhos em destaque:<br>- <i>Incidência de Insuficiência Renal Aguda Pós-Cateterismo em Idosos</i>, apresentado por <b>Letícia Meireles Gondim</b>.<br>- <i>Estratificação de Risco na Miocardiopatia Chagásica Crônica</i>, apresentado por <b>Gabriel Fontes Vilar</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Olinda",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Controvérsias na Anticoagulação no Paciente Crítico.</p><p>Debatedores: <b>Dr. Paulo Roberto Saraiva</b> e <b>Dra. Cristina Maria Diniz</b>.</p><p>Moderação: <b>Dr. Eduardo Silveira Guimarães</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Workshop de Simulação Realística",
+    "lugar": "Laboratório de Habilidades 2",
+    "dataInicio": "2024-05-16T16:30:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Foco: Arritmias Malignas e Protocolos de Desfibrilação Avançada.</p><p>Instrutores: <b>Dr. Thiago Queiroz Leite</b> e <b>Enf. Renata Siqueira Melo</b>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Sessão Plenária",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Tema: Avanços Terapêuticos na Insuficiência Cardíaca com Fração de Ejeção Preservada (ICFEP).</p><p>Palestra de abertura: <i>Evidências Recentes com Inibidores de SGLT2</i> proferida por <b>Dr. Álvaro Neves Carneiro</b>.</p><p>Presidente de mesa: <b>Dra. Simone Paes Barreto</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Simulação Realística",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Foco: Ecocardiografia POCUS à Beira do Leito na Emergência.</p><p>Instrutora: <b>Dra. Mirella Galvão Falcão</b>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": "<p>Trabalhos selecionados na modalidade Terapia Intensiva e Enfermagem Cardiológica.</p><p>Comissão avaliadora: <b>Prof. Jorge Henrique Chaves</b> e <b>Dra. Natália Gusmão</b>.</p><p>Apresentações:<br>- <i>Cuidados de Enfermagem na Prevenção de Infecções por ECMO</i>, de <b>Camila Duarte de Lima</b>.<br>- <i>Desmame Ventilatório Difícil no Pós-Operatório Cardíaco</i>, de <b>Lucas Bezerra Santos</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Olinda",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Tema: Síndrome Coronariana Aguda sem Supradesnivelamento do Segmento ST: Estratégia Invasiva Precoce versus Seletiva.</p><p>Expositores: <b>Dr. Flávio Wanderley Holanda</b> e <b>Dr. Heitor Castro Peixoto</b>.</p><p>Coordenadora: <b>Dra. Isabela Pontes Rios</b>.</p>",
+    "secao": "Plenárias Temáticas"
+   },
+   {
+    "nome": "Colóquio Multidisciplinar",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Tema: Reabilitação Precoce no Paciente Cardiopata Pós-Cirúrgico.</p><p>Participantes convidados: a fisioterapeuta <b>Tatiana Freire de Arruda</b>, o nutricionista <b>Bruno César Brandão</b> e a médica intensivista <b>Dra. Vânia Mendonça Soares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Temas Livres Orais",
+    "lugar": null,
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": "2024-05-17T19:00:00-03:00",
+    "descricao": "<p>Apresentação dos melhores estudos observacionais de Pernambuco.</p><p>Coordenador de sessão: <b>Dr. Sérgio Murilo Martins</b>.</p><p>Comunicações:<br>- <i>Evolução Clínica de Pacientes Submetidos a Implante de TAVI em Centro Público do Nordeste</i>, por <b>Ana Clara Farias</b>.<br>- <i>Impacto dos Novos Hipoglicemiantes na Sobrevida de Diabéticos Coronariopatas</i>, por <b>Rodrigo Magalhães Ramos</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Conferência Especial",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-05-18T08:30:00-03:00",
+    "dataFim": "2024-05-18T09:30:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial e Algoritmos Preditivos na UTI Cardiológica.</p><p>Conferencista: <b>Prof. Dr. Arthur Silveira Noronha</b> (USP).</p><p>Presidente: <b>Dr. Manoel Coutinho Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-18T09:30:00-03:00",
+    "dataFim": "2024-05-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de Ligas Acadêmicas e Iniciação Científica.</p><p>Avaliadora: <b>Dra. Luciana Valença Torres</b>.</p><p>Trabalho em foco: <i>Triagem de Hipertensão Arterial Resistente em Comunidades Ribeirinhas</i>, apresentado pelo acadêmico <b>Vinícius Esteves Rocha</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Anatomoclínica",
+    "lugar": "Auditório Olinda",
+    "dataInicio": "2024-05-18T11:00:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Discussão de caso: Choque Misto com Tromboembolismo Pulmonar Maciço e Dissecção Aguda de Aorta Tipo A.</p><p>Apresentador do caso: <b>Dr. Daniel Paiva Correia</b>.</p><p>Comentadores: <b>Dr. Luiz Gonzaga Bezerra</b> e <b>Dra. Mariana Tenório Maranhão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Diretoria e Assembleia Geral",
+    "lugar": null,
+    "dataInicio": "2024-05-18T13:30:00-03:00",
+    "dataFim": "2024-05-18T15:00:00-03:00",
+    "descricao": "<p>Apreciação de contas e planejamento do biênio 2025-2026 da Sociedade Pernambucana de Cardiologia.</p><p>Conduzido pelo presidente da sociedade, <b>Dr. Rogério Moura Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos e Destaques Acadêmicos",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-05-18T15:00:00-03:00",
+    "dataFim": "2024-05-18T16:00:00-03:00",
+    "descricao": "<p>Anúncio dos premiados do Prêmio Mérito Científico Professor Fernando Simões.</p><p>Apresentação conduzida por <b>Dra. Clara Silvestre Pessoa</b> e <b>Dr. Marcos Aurelio Fontenele</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-05-18T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão organizadora, homenagens e anúncio da sede da próxima edição.</p><p>Discursos de <b>Dr. Rogério Moura Brandão</b> e <b>Dra. Beatriz Lins Cavalcanti</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

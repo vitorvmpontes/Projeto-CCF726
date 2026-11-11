@@ -1,0 +1,99 @@
+{
+ "spec": {
+  "id": "sint-42-00148",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:52+00:00",
+ "uso_tokens": {
+  "entrada": 646,
+  "saida": 1506
+ },
+ "saida": {
+  "evento": {
+   "nome": "BH Tech Summit & Hackathon 2025",
+   "local_geral": "Centro de Inovação e Negócios de Minas Gerais - Belo Horizonte, MG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Keynote Corporativo",
+    "lugar": "Auditório Principal Mangabeiras",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos desafios corporativos para o hackathon e visão de futuro com <b>Renata Silveira</b> trazendo a palestra <i>O Ecossistema Mineiro de Tecnologia na Era da IA</i>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Palco Inovação",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Engenharia de dados e confiabilidade em sistemas distribuídos apresentada por <b>Marcelo Guimarães</b> com o tema <i>Arquiteturas Resilientes para Altas Cargas Transacionais</i>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Kickoff do Hackathon",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T14:30:00-03:00",
+    "descricao": "<p>Divulgação dos temas secretos, formação de equipes e instruções gerais com o coordenador <b>Thiago Mendonça</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Co-working A",
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": "2025-05-16T17:30:00-03:00",
+    "descricao": "<p>Sessão de validação de arquitetura e tecnologia com os mentores <b>Camila Duarte</b> e <b>Lucas Furtado</b> para as equipes do desafio.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Principal Mangabeiras",
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": "2025-05-16T19:00:00-03:00",
+    "descricao": "<p>Abordagem sobre segurança de código e compliance em nuvem ministrada por <b>Patrícia Albuquerque</b> sob o título <i>DevSecOps na Prática: blindando pipelines corporativos</i>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Co-working B",
+    "dataInicio": "2025-05-17T09:30:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Segunda rodada de suporte aos competidores com foco em UX, viabilidade de negócio e prototipação, conduzida por <b>Juliana Nogueira</b> e <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Painel Tech Leaders",
+    "lugar": "Auditório Principal Mangabeiras",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Discussão com líderes de engenharia sobre tendências de contratação e novos modelos de trabalho. Participação de <b>Gabriel Santos</b>, <b>Beatriz Esteves</b> e mediação de <b>Carlos Henrique Paiva</b> no debate <i>Desafios de Escala e Retenção de Talentos em Tech</i>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Demoday de Pitches",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": "<p>Apresentação final das soluções finalistas para a banca julgadora composta por <b>Fernanda Lins</b>, <b>Alexandre Castro</b> e <b>Sofia Meireles</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Principal Mangabeiras",
+    "dataInicio": "2025-05-17T18:30:00-03:00",
+    "dataFim": "2025-05-17T19:30:00-03:00",
+    "descricao": "<p>Divulgação dos projetos vencedores do hackathon e entrega de troféus com os anfitriões <b>Renata Silveira</b> e <b>Thiago Mendonça</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

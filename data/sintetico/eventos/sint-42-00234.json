@@ -1,0 +1,157 @@
+{
+ "spec": {
+  "id": "sint-42-00234",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 16,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:51+00:00",
+ "uso_tokens": {
+  "entrada": 676,
+  "saida": 2770
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência de Dados e Inteligência Computacional (CBCDIC 2026)",
+   "local_geral": "Centro de Convenções SulAmérica, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos com a presidente da comissão organizadora, Profa. Dra. <b>Helena Vasconcellos</b> (UFRJ), e o coordenador de programa, Prof. Dr. <b>Marcelo Pimentel</b> (FGV).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Avanços em Modelos Fundacionais para Bioinformática e Saúde Pública</i>. Ministrada pelo pesquisador Dr. <b>Rodrigo Cordeiro Ramos</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Guanabara A",
+    "dataInicio": "2026-05-14T11:00:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Trilhas: Aprendizado Profundo e Visão Computacional. Apresentação dos artigos: <i>Segmentação de Imagens Médicas Usando Redes Neurais Convolucionais Otimizadas</i> por <b>Camila Sampaio</b> e <b>Bruno Guimarães</b>; e <i>Classificação de Padrões Sísmicos com Autoencoders</i> por <b>Felipe Castanheira</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Guanabara B",
+    "dataInicio": "2026-05-14T11:00:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Trilhas: Processamento de Linguagem Natural. Artigos selecionados: <i>Extração de Entidades Nomeadas em Textos Jurídicos Brasileiros</i> de <b>Lucas Mendonça</b> e <i>Análise de Sentimentos em Diários Oficiais Municipais</i> por <b>Juliana Portela</b> e <b>Otávio Neves</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão de Painéis",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres e trabalhos de iniciação científica. Coordenação geral: Profa. <b>Carla Diniz</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Guanabara A",
+    "dataInicio": "2026-05-14T16:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Trilhas: Grafos de Conhecimento e Web Semântica. Artigos: <i>Integração de Dados Heterogêneos de Mobilidade Urbana</i> por <b>Vanessa Couto</b> e <i>Geração Automática de Ontologias a Partir de Bases Relacionais</i> por <b>Tiago Rezende</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala Guanabara B",
+    "dataInicio": "2026-05-14T16:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Trilhas: Otimização e Inteligência de Enxames. Artigo em destaque: <i>Algoritmo de Colônia de Formigas para Roteamento de Frotas Elétricas</i> apresentado por <b>Danilo Albuquerque</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2026-05-14T17:45:00-03:00",
+    "dataFim": "2026-05-14T18:45:00-03:00",
+    "descricao": "<p>Tema: <i>Governança de Algoritmos e Ética em Inteligência Artificial no Setor Público</i>, proferida pela Profa. Dra. <b>Denise Silveira</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão Técnica 5",
+    "lugar": "Sala Guanabara A",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Trilhas: Mineração de Dados Educacionais. Artigo: <i>Predição de Evasão Universitária Utilizando Redes Neurais Recorrentes</i> pelos autores <b>Mariana Prado</b> e <b>Guilherme Batista</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 6",
+    "lugar": "Sala Guanabara B",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Trilhas: Segurança Cibernética e Inteligência Artificial. Artigo: <i>Detecção em Tempo Real de Ataques de Negação de Serviço via Aprendizado Não Supervisionado</i> apresentado por <b>Rafael Zanin</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão de Painéis",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2026-05-15T11:00:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Exibição e avaliação de projetos de dissertações de mestrado em andamento. Avaliadores: Prof. <b>Arthur Nogueira</b> e Profa. <b>Lívia Figueiredo</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Indústria Nacional no Financiamento de Pesquisa e Desenvolvimento em IA</i>. Moderador: <b>Sérgio Antunes</b>. Debatedores: <b>Beatriz Furtado</b> e <b>Marcos Valério Ribeiro</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão Técnica 7",
+    "lugar": "Sala Guanabara A",
+    "dataInicio": "2026-05-15T16:00:00-03:00",
+    "dataFim": "2026-05-15T17:15:00-03:00",
+    "descricao": "<p>Trilhas: Sistemas Multiagentes e Robótica. Artigo: <i>Coordenação Autônoma de Veículos Aéreos Não Tripulados para Monitoramento Ambiental</i> por <b>Alexandre Peixoto</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Premiação de Melhores Artigos",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2026-05-15T17:30:00-03:00",
+    "dataFim": "2026-05-15T18:15:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas e anúncio do prêmio de melhor artigo científico do congresso, conduzida pelo coordenador do comitê científico, Prof. <b>Henrique Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral da Sociedade",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2026-05-15T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Reunião de membros associados e deliberações sobre a sede da edição de 2027. Condução: <b>Renata Barcellos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

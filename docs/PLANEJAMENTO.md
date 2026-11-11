@@ -133,32 +133,48 @@ Formato de cada linha JSONL:
 
 ## 5. Schema de saída e pós-processamento
 
-- **Decidido**: **sem** raciocínio `<think>`. O modelo gera diretamente a saída estruturada.
-- **Decidido**: normalização de datas por **pós-processamento determinístico**.
+**Decidido (2026-10-21)** — revisa a proposta de 2026-09-28, que previa datas "como aparecem" montadas pelo código.
 
-**Proposto**: separar o que o modelo extrai do que o código monta.
-
-O **SLM gera** apenas campos presentes no texto, como aparecem:
+O **SLM gera** os mesmos 5 campos do gabarito (`inference/schema.py`, classe `AtividadeExtraida`):
 
 ```json
 {"atividades": [
-  {"nome": "...", "lugar": "...", "data": "10/09", "horaInicio": "9h", "horaFim": "10h30", "descricao": "..."}
+  {"nome": "...", "lugar": "... ou null", "dataInicio": "2025-09-10T09:00:00-03:00", "dataFim": "... ou null", "descricao": "<p>... <b>Nome</b></p>"}
 ]}
 ```
 
-O **código** (determinístico):
+- **Datas:** o modelo já gera ISO 8601 com offset `-03:00`. O ano é inferido do texto.
+- **Descrição:** o modelo já gera o HTML (`<p>`, `<b>`, `<i>`, `<br>`). A avaliação ignora as tags.
+- **Hora de fim ausente:** fica `null` (não é inferida).
+- **Rótulos de treino:** são exatamente o formato do gabarito, sem conversão.
 
-1. converte `data` + `horaInicio`/`horaFim` para ISO 8601 com offset `-03:00`, inferindo o ano a partir de um ano de referência passado como parâmetro;
-2. aplica as regras de ausência (hora de término ausente → início da próxima atividade ou duração padrão);
-3. injeta os campos constantes do myMobiConf (`eventoId`, `tagIds`, `configuracoes`), que não precisam ser gerados pelo modelo;
-4. valida o objeto final contra o schema do myMobiConf.
+O **código** (`inference/postprocess.py`) não inventa informação. Ele valida e corrige formato:
 
-Tradeoffs:
+1. Parse tolerante: cercas ```` ```json ````, `<think>`, texto antes ou depois do JSON.
+2. Datas:
+   - completa segundos e offset, força `-03:00`;
+   - repara anos malformados (`2S024` → `2024`);
+   - se o texto cita anos e o ano da data não está entre eles, usa o ano mais citado;
+   - data sem hora ou inexistente → `null`;
+   - `dataFim` anterior a `dataInicio` → `null`.
+3. HTML sanitizado: só tags permitidas, sem atributos, tags fechadas.
+4. Nome e local com espaços normalizados; atividade sem nome é descartada.
+5. Repetições idênticas seguidas além de 2 são cortadas (sinal de loop). Duplicatas legítimas, como no SEBRAE, são mantidas.
+6. `para_mymobiconf` injeta `eventoId`, `tagIds` e `configuracoes`, mapeia `lugar` → `lugarId` e valida com Pydantic.
 
-- **Prós**: menos tokens gerados, menos erro de formato, regras de negócio testáveis por teste unitário.
-- **Contra**: o modelo continua responsável por **associar** o horário certo à atividade certa. O pós-processamento resolve formato, não associação.
-- **Em aberto**: se `descricao` continua com HTML (`<p>`, `<b>`, `<i>`) gerado pelo modelo, ou se o modelo gera campos estruturados (palestrantes, trabalhos) e o HTML é montado por código. A segunda opção é mais robusta, mas muda a comparação com o TCC no campo descrição.
-- **Proposto**: usar geração restrita por JSON Schema na inferência (structured outputs do Ollama / gramática do llama.cpp) para garantir JSON válido, equivalente ao modo JSON do Gemini.
+Todas as correções são contadas e aparecem no resultado da avaliação (`--pos-processar`).
+
+Tradeoffs aceitos:
+
+- O modelo gera mais tokens que no schema compacto (cerca de 2× nos gabaritos) e pode errar formato. O pós-processamento cobre os erros de formato, mas não os de conteúdo.
+- Em textos sem ano (6 de 18), o ano depende do modelo.
+
+Validações:
+
+- Aplicado aos 17 gabaritos, o pós-processamento não altera nenhum campo (teste automático).
+- Nas baselines, a detecção não muda. No Gemini 2.0-Flash, ele reparou 2 anos malformados (`dataInicio` 64,97 → 65,31).
+
+**Proposto**: usar geração restrita por JSON Schema na inferência (`json_schema_saida()` → `format` do Ollama ou gramática do llama.cpp) para garantir JSON válido.
 
 ---
 
@@ -327,6 +343,18 @@ Projeto-CCF726/
 | 2026-10-05 | `descricao` comparada por similaridade ≥ 0,9 (sem HTML); inventada ou omitida = erro | Decidido | Igualdade exata punia diferenças de pontuação final |
 | 2026-10-05 | Atividade com `nome` = "-" no `opmed-html` mantida | Decidido | Existe assim na programação original |
 | 2026-10-05 | Fase 2 concluída | Concluído | Baseline em `evaluation/results/BASELINE.md` e análise em `ANALISE_BASELINE.md` |
+| 2026-10-21 | SLM gera datas em ISO 8601 completo (revisa a decisão de 2026-09-28) | Decidido | Rótulos iguais ao gabarito; pós-processamento valida e repara |
+| 2026-10-21 | Ano inferido do texto (pelo modelo; o código corrige quando o texto cita anos) | Decidido | Não depende de dados externos ao texto |
+| 2026-10-21 | SLM gera a `descricao` em HTML; código só sanitiza | Decidido | Mantém o formato do myMobiConf e do gabarito |
+| 2026-10-21 | `dataFim` ausente fica `null` | Decidido | Regra "só informação do texto"; organizador completa na revisão |
+| 2026-10-21 | Campos fixos (`eventoId`, `tagIds`, `configuracoes`) montados pelo código | Decidido | Não gastar tokens nem dar margem a erro |
+| 2026-10-21 | Fase 3 concluída: schema congelado (`inference/schema.py`) | Concluído | Pós-processamento testado (`tests/test_postprocess.py`) |
+| 2026-10-21 | Fase 5 começa pela fonte B (sintética); a fonte A entra depois da Fase 4 | Decidido | Não bloquear triagem e fine-tuning esperando o crawler |
+| 2026-10-21 | Fonte B: LLM gera o JSON do evento, código renderiza o texto (4 layouts × ruídos) | Decidido | Rótulo correto por construção; controle dos casos difíceis |
+| 2026-10-21 | Professor: `gemini-3.8-flash` | Decidido | Flash mais recente; custo baixo; regras de anotação no prompt + filtros |
+| 2026-10-21 | v1 com ~1.000 exemplos (500 eventos × 2 textos) | Decidido | Crescer só se a curva de aprendizado na validação pedir |
+| 2026-10-21 | O ano sempre aparece no texto sintético | Decidido | O rótulo precisa ser inferível do texto (decisão de inferir o ano do texto) |
+| 2026-10-21 | Não gerar grades com horários separados dos nomes | Decidido | Associação horário→atividade impossível pelo texto; ensinaria a alucinar |
 
 ---
 

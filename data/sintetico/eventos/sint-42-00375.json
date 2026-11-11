@@ -1,0 +1,292 @@
+{
+ "spec": {
+  "id": "sint-42-00375",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Londrina - PR",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 33,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:03+00:00",
+ "uso_tokens": {
+  "entrada": 681,
+  "saida": 4733
+ },
+ "saida": {
+  "evento": {
+   "nome": "Londrina Tech Summit & Hackathon 2023",
+   "local_geral": "Parque Tecnológico de Londrina, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in de Participantes",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T09:00:00-03:00",
+    "descricao": "<p>Retirada de crachás e kits de boas-vindas com a coordenação de <b>Mariana Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com os diretores <b>Carlos Eduardo Prado</b> e <b>Vanessa Guimarães</b>.</p>",
+    "secao": "Abertura"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T09:45:00-03:00",
+    "dataFim": "2023-10-19T10:45:00-03:00",
+    "descricao": "<p>O palestrante <b>Rodrigo Otávio Mendes</b> apresenta <i>Estratégias Avançadas para Construção de Arquiteturas Resilientes em Nuvem Híbrida Voltadas ao Setor Financeiro Global</i>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Networking",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2023-10-19T10:45:00-03:00",
+    "dataFim": "2023-10-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T11:15:00-03:00",
+    "dataFim": "2023-10-19T12:15:00-03:00",
+    "descricao": "<p>Apresentação de <b>Beatriz Zanin</b> sobre <i>Inteligência Artificial Generativa nos Processos Industriais</i>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:15:00-03:00",
+    "dataFim": "2023-10-19T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lançamento dos Desafios do Hackathon",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-10-19T13:45:00-03:00",
+    "dataFim": "2023-10-19T14:30:00-03:00",
+    "descricao": "<p>Apresentação das trilhas e problemas pelas empresas parceiras, com condução de <b>Lucas Furtado</b> e <b>Renata Meireles</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Beta",
+    "dataInicio": "2023-10-19T14:30:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Treinamento ministrado por <b>Tiago Alencar</b> com o tema <i>Desenvolvimento de Microsserviços com Go e Docker</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Gama",
+    "dataInicio": "2023-10-19T14:30:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>A instrutora <b>Patrícia Lemos</b> conduz <i>Prototipação Rápida no Figma para Validação de Modelos de Negócio</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Plantão de Dúvidas Técnicas",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-10-19T16:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Sessão de mentoria rápida com <b>Felipe Rossi</b> e <b>Aline Castro</b> para os inscritos no hackathon.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T17:30:00-03:00",
+    "dataFim": "2023-10-19T18:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Guilherme Dorneles</b> sobre <i>Cibersegurança e Privacidade em Aplicações Conectadas</i>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T18:30:00-03:00",
+    "dataFim": "2023-10-19T19:45:00-03:00",
+    "descricao": "<p>Debate mediado por <b>Larissa Fontes</b> com os executivos <b>Marcelo Pires</b> e <b>Camila Duarte</b> abordando <i>O Futuro dos Ecossistemas de Inovação e Startups no Interior do Brasil</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T09:30:00-03:00",
+    "descricao": "<p>Conferência conduzida por <b>Danilo Albuquerque</b> com o tema <i>Como Estruturar Pipelines de Dados Robustos Utilizando Ferramentas Open Source em Ambientes Corporativos Modernos</i>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão de Mentoria do Hackathon",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-10-20T09:30:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": "<p>Acompanhamento direto dos projetos das equipes com os mentores <b>Bruna Fagundes</b> e <b>Rogério Toledo</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Sala de Treinamento 1",
+    "dataInicio": "2023-10-20T10:00:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": "<p>Palestra técnica ministrada por <b>Fernando Nogueira</b> intitulada <i>Otimização de Consultas SQL em Ambientes de Alta Demanda</i>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Intervalo para Networking",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Sala de Treinamento 1",
+    "dataInicio": "2023-10-20T11:30:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Discussão técnica com <b>Isabela Ramos</b> sobre <i>Observabilidade e Métricas em Sistemas Distribuídos</i>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:30:00-03:00",
+    "dataFim": "2023-10-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Beta",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Workshop aplicado com <b>Alexandre Matos</b> abordando <i>Desenvolvimento e Publicação de Pacotes em Python</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Gama",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Oficina hands-on conduzida por <b>Juliana Ferraz</b> com o tema <i>Boas Práticas de Acessibilidade Digital na Web Moderna</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Plantão de Dúvidas Técnicas",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-10-20T15:30:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": "<p>Segunda rodada de suporte aos competidores com apoio de <b>André Paiva</b> e <b>Sabrina Neves</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Pitch de Negócios Corporativos",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-20T17:00:00-03:00",
+    "dataFim": "2023-10-20T18:30:00-03:00",
+    "descricao": "<p>Apresentação das soluções desenvolvidas por startups da região perante investidores, coordenada por <b>Márcio Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria do Hackathon",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-10-20T18:30:00-03:00",
+    "dataFim": "2023-10-20T20:30:00-03:00",
+    "descricao": "<p>Mentoria noturna focada na validação do protótipo com os especialistas <b>Thiago Rezende</b> e <b>Cláudia Borges</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Corujão de Desenvolvimento",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-10-20T21:00:00-03:00",
+    "dataFim": "2023-10-21T06:00:00-03:00",
+    "descricao": "<p>Espaço liberado durante a madrugada para codificação ininterrupta dos grupos com plantão de suporte do coordenador <b>Lucas Furtado</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Café da Manhã dos Hackers",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2023-10-21T07:30:00-03:00",
+    "dataFim": "2023-10-21T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento das Submissões do Hackathon",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-10-21T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Prazo final para envio dos repositórios e documentações pelas equipes concorrentes.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-21T09:30:00-03:00",
+    "dataFim": "2023-10-21T10:45:00-03:00",
+    "descricao": "<p>Palestra com <b>Helena Vasconcelos</b> intitulada <i>Impactos Socioeconômicos da Transformação Digital nas Cadeias Produtivas Regionais do Agronegócio e Indústria 4.0</i>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Networking",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2023-10-21T10:45:00-03:00",
+    "dataFim": "2023-10-21T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentações dos Finalistas",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-21T11:15:00-03:00",
+    "dataFim": "2023-10-21T13:00:00-03:00",
+    "descricao": "<p>Pitches ao vivo dos 8 times selecionados perante a banca avaliadora composta por <b>Gustavo Brandão</b>, <b>Vivian Rocha</b> e <b>Eduardo Peixoto</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-10-21T13:00:00-03:00",
+    "dataFim": "2023-10-21T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda com Líderes Tech",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-21T14:30:00-03:00",
+    "dataFim": "2023-10-21T16:00:00-03:00",
+    "descricao": "<p>Encontro de CTOs com a mediação de <b>Tatiana Figueiredo</b> e contribuições de <b>Paulo Henrique Viana</b> e <b>Samira Kfouri</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação do Hackathon",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-21T16:30:00-03:00",
+    "dataFim": "2023-10-21T17:30:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores e entrega dos troféus pelas mãos de <b>Mariana Siqueira</b> e <b>Carlos Eduardo Prado</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-21T17:30:00-03:00",
+    "dataFim": "2023-10-21T18:15:00-03:00",
+    "descricao": "<p>Agradecimentos finais e balanço do evento com os organizadores <b>Vanessa Guimarães</b> e <b>Lucas Furtado</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "spec": {
+  "id": "sint-42-00019",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Londrina - PR",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 13,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:45+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 2196
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Biotecnologia e Saúde Coletiva do Norte do Paraná",
+   "local_geral": "Centro de Ciências Biológicas - Universidade Estadual de Londrina (UEL), Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Validação de Inscrições e Entrega de Crachás",
+    "lugar": "Hall do Auditório Maior",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade Inaugural",
+    "lugar": "Auditório Maior",
+    "dataInicio": "2027-05-18T09:30:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral <b>Dr. Marcelo Faria Neves</b> e pela pró-reitora de pesquisa <b>Dra. Simone Alcantara Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Integração Científica",
+    "lugar": "Auditório Maior",
+    "dataInicio": "2027-05-18T10:45:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Inovações biotecnológicas aplicadas ao SUS</i> ministrada pelo <b>Prof. Dr. Henrique Diniz Guimarães</b> com mediação da <b>Dra. Cecília Morais Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrado na área de infectologia. Coordenação de <b>Dra. Juliana Bastos Prado</b>.</p><p>Trabalhos selecionados: <i>Marcadores moleculares em patologias emergentes</i> por <b>Felipe Torres Antunes</b> e <i>Análise epidemiológica no interior paranaense</i> por <b>Camila Siqueira Dias</b>.</p>",
+    "secao": "Comunicações Orais de Discentes"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala de Reuniões 3",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Comunicações de pesquisas em bioinformática e genômica estrutural sob coordenação do <b>Prof. Dr. Rodrigo Peixoto Vianna</b>.</p><p>Apresentações: <i>Modelagem computacional de peptídeos bioativos</i> por <b>Letícia Nogueira Maia</b> e <i>Filogenia de isolados clínicos multirresistentes</i> por <b>Lucas Medeiros Barreto</b>.</p>",
+    "secao": "Comunicações Orais de Discentes"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Maior",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:30:00-03:00",
+    "descricao": "<p>Painel <i>Desafios da inserção do doutor egresso no ecossistema de startups de saúde</i>, com a presença dos convidados <b>Dr. Rogério Vasconcellos</b>, <b>Dra. Vanessa Kuhlmann</b> e moderação de <b>Prof. Dr. Carlos Eduardo Sanches</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica A",
+    "lugar": "Laboratório de Informática Biomédica",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Oficina prática intitulada <i>Análise de dados de sequenciamento em ambiente R</i>, instruída pelo pós-doutorando <b>Dr. Bruno Telles Carvalho</b>.</p>",
+    "secao": "Oficinas Metodológicas Simultâneas"
+   },
+   {
+    "nome": "Oficina Técnica B",
+    "lugar": "Laboratório Multiuso II",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Capacitação <i>Metodologias qualitativas aplicadas à avaliação de serviços básicos</i>, coordenada pela <b>Profa. Dra. Marta Helena Fontes</b>.</p>",
+    "secao": "Oficinas Metodológicas Simultâneas"
+   },
+   {
+    "nome": "Mostra de Painéis Científicos",
+    "lugar": "Pátio Coberto do Bloco C",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T17:00:00-03:00",
+    "descricao": "<p>Exposição e avaliação de pôsteres dos alunos do primeiro ano. Avaliadores convidados: <b>Dra. Denise Paiva</b> e <b>Dr. Gustavo Henrique Fontana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Interativa",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-05-20T17:15:00-03:00",
+    "dataFim": "2027-05-20T18:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Saúde mental e produtividade na pós-graduação estrita</i>, conduzido pela psicóloga <b>Regina Albuquerque Soares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Tribuna de Teses e Dissertações",
+    "lugar": "Auditório Maior",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Apresentação relâmpago dos trabalhos defendidos no último ano. Mediação do <b>Prof. Dr. Valdemar Prado Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Maior",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas para as melhores pesquisas apresentadas no simpósio pelos membros do comitê <b>Dra. Tereza Cristina Arruda</b> e <b>Dr. Fernando Castilho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Maior",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discurso final de encerramento proferido pelo coordenador geral <b>Dr. Marcelo Faria Neves</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

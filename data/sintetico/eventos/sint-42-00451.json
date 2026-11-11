@@ -1,0 +1,102 @@
+{
+ "spec": {
+  "id": "sint-42-00451",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Londrina - PR",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos",
+   "descricoes_ricas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:18+00:00",
+ "uso_tokens": {
+  "entrada": 709,
+  "saida": 1734
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Paranaense de Sustentabilidade e Conservação dos Recursos Hídricos",
+   "local_geral": "Centro de Convenções de Londrina, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-05-17T08:00:00-03:00",
+    "dataFim": "2023-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-17T09:15:00-03:00",
+    "dataFim": "2023-05-17T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Gestão Integrada de Bacias Hidrográficas no Norte do Paraná: Desafios Contemporâneos da Crise Climática Global e Preservação de Mananciais</i>.</p><p>Palestrante: <b>Dra. Helena Moreira da Costa</b> (IAPAR/IDR-Paraná).</p><p>Coordenação dos trabalhos: <b>Prof. Dr. Marcos Vinicius Silveira</b> (UEL).</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2023-05-17T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coordenação: <b>Profa. Juliana Mendes Fagundes</b>.</p><p>Apresentação de trabalhos orais:</p><p>1. <i>Avaliação da Qualidade da Água do Ribeirão Cambé Através de Bioindicadores Bentônicos</i>, apresentado por <b>Lucas Ribeiro Prado</b> e <b>Beatriz Nogueira Soares</b>.</p><p>2. <i>Práticas Agroecológicas em Pequenas Propriedades Rurais no Vale do Tibagi</i>, apresentado por <b>Fernando Caetano Dias</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-18T09:00:00-03:00",
+    "dataFim": "2023-05-18T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias Avançadas para Mitigação de Efluentes Agroindustriais com Foco em Economia Circular e Tecnologias Sustentáveis de Baixo Custo</i>.</p><p>Conferencista convidado: <b>Eng. Roberto Alcântara Guimarães</b> (Sanepar).</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Oficina Prática de Compostagem Urbana",
+    "lugar": "Laboratório de Saneamento Ambiental",
+    "dataInicio": "2023-05-18T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo: <i>Técnicas de reaproveitamento de resíduos orgânicos para hortas comunitárias e escolas públicas</i>.</p><p>Ministrante: <b>Bióloga Camila Duarte Santana</b> (Coletivo Verde Londrina).</p>",
+    "secao": "Workshops e Oficinas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2023-05-18T14:30:00-03:00",
+    "dataFim": "2023-05-18T17:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Prof. Carlos Eduardo Antunes</b>.</p><p>Trabalhos selecionados:</p><p>1. <i>Zoneamento Ecológico e Dinâmica do Uso da Terra na Região Metropolitana de Londrina</i>, autoria de <b>Patrícia Lemos Fontes</b> e <b>Rodrigo Albuquerque Prado</b>.</p><p>2. <i>Implantação de Florestas Urbanas e Redução de Ilhas de Calor</i>, de autoria de <b>Mariana Viana Guedes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Oficina de Geoprocessamento Ambiental",
+    "lugar": "Laboratório de Informática II",
+    "dataInicio": "2023-05-19T08:30:00-03:00",
+    "dataFim": "2023-05-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento de Áreas de Preservação Permanente Utilizando Ferramentas Livres de Sensoriamento Remoto e Drones</i>.</p><p>Instrutor: <b>Msc. Thiago Henrique Beltrão</b> (UTFPR).</p>",
+    "secao": "Workshops e Oficinas"
+   },
+   {
+    "nome": "Mesa de Debate Intersetorial",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-19T14:00:00-03:00",
+    "dataFim": "2023-05-19T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas Públicas Municipais de Sustentabilidade e Parcerias Público-Privadas no Enfrentamento das Inundações Urbanas</i>.</p><p>Moderador: <b>Dr. André Carvalho Pires</b>.</p><p>Debatedores: <b>Secretário Paulo Sérgio Ramos</b> (SEMA Londrina) e <b>Dra. Renata Vasconcellos Lima</b> (Promotoria de Meio Ambiente).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-05-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Destaque Ambiental 2023 aos melhores artigos da pós-graduação e graduação conduzida pela presidente da comissão organizadora <b>Profa. Dra. Tânia Regina Castilho</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

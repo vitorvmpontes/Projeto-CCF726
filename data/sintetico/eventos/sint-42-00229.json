@@ -1,0 +1,148 @@
+{
+ "spec": {
+  "id": "sint-42-00229",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Recife - PE",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 15,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:24+00:00",
+ "uso_tokens": {
+  "entrada": 643,
+  "saida": 2454
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Mostra de Extensão e Cidadania da UFPE",
+   "local_geral": "Campus Universitário Reitor Joaquim Amazonas, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Hall do Centro de Convenções",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Professor Denis Bernardes",
+    "dataInicio": "2027-05-19T09:30:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais conduzidas pela <b>Profa. Maria do Carmo Lacerda</b> com conferência de abertura intitulada <i>A Universidade Pública nas Comunidades: Territorialidade e Transformação</i> proferida pelo <b>Dr. Josué de Andrade Lima</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Saúde e Direitos Humanos",
+    "lugar": "Tenda Expositiva A",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos extensionistas em formato de painel. Avaliação coordenada pela <b>Dra. Simone Albuquerque Farias</b> com presença dos monitores bolsistas.</p>",
+    "secao": "Mostra de Projetos de Extensão"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Meio Ambiente e Sustentabilidade",
+    "lugar": "Tenda Expositiva B",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:00:00-03:00",
+    "descricao": "<p>Exibição de práticas comunitárias sobre conservação de manguezais e saneamento básico no Grande Recife, com mediação do <b>Prof. Carlos Eduardo Vilar</b>.</p>",
+    "secao": "Mostra de Projetos de Extensão"
+   },
+   {
+    "nome": "Apresentação Cultural de Maracatu",
+    "lugar": "Concha Acústica",
+    "dataInicio": "2027-05-19T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Intervenção artística do grupo comunitário Estrela Brilhante com participação do mestre de baque virado <b>Luiz Gonzaga da Silva Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Robótica Educativa com Materiais Reciclados",
+    "lugar": "Laboratório Pedagógico 2",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Capacitação voltada a professores da rede pública estadual ministrada por <b>Thiago Vinícius Ramos</b> e <b>Beatriz Mendonça Siqueira</b>, abordando o projeto <i>Inclusão Tecnológica nas Periferias</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Produção de Horta Urbana em Pequenos Espaços",
+    "lugar": "Viveiro Escola",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Prática de plantio agroecológico ministrada pela extensionista <b>Mariana Vasconcelos de Arruda</b> no contexto da ação <i>Segurança Alimentar nas Favelas do Capibaribe</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Diálogo",
+    "lugar": "Sala de Seminários A",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Memória, Patrimônio e Cidadania nos Bairros Históricos</i> com a pesquisadora <b>Renata Coutinho Pires</b> e a liderança comunitária <b>Dona Josefa Ramos</b>.</p>",
+    "secao": "Diálogos Extensionistas"
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Curricularização da Extensão: Desafios e Experiências no Nordeste</i> conduzida pelo <b>Prof. Fernando Antônio Barreto</b> e pela debatedora <b>Clara Menezes de Souza</b>.</p>",
+    "secao": "Diálogos Extensionistas"
+   },
+   {
+    "nome": "Lançamento de Livros e Cartilhas Comunitárias",
+    "lugar": "Foyer do Auditório Professor Denis Bernardes",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos das publicações extensionistas, incluindo o lançamento do guia <i>Cuidar e Viver: Cartilha de Promoção à Saúde da Família</i> escrita por <b>Patrícia Galvão Nogueira</b> e colaboradores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Feira de Economia Solidária e Produtos Artesanais",
+    "lugar": "Praça Central do Campus",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Relatos de Experiência Estudantil",
+    "lugar": "Auditório 3 do Centro de Filosofia e Ciências Humanas",
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Estudantes relatam suas vivências nas ações do programa extensionista. Relato de <b>Lucas Silveira Duarte</b> sobre o trabalho <i>Alfabetização Popular de Jovens e Adultos no Coque</i> e de <b>Camila Brito Maciel</b> com o trabalho <i>Apoio Jurídico a Mulheres em Vulnerabilidade</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Coordenadores de Projetos de Extensão",
+    "lugar": "Sala de Reuniões da Pró-Reitoria",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Alinhamento técnico e prestação de contas com o Pró-Reitor Adjunto <b>Gilberto Matos Cavalcanti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento e Premiação",
+    "lugar": "Auditório Professor Denis Bernardes",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T18:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Mérito Extensionista Paulo Freire conduzida pela coordenadora geral <b>Helena Queiroz Beltrão</b> e pelo <b>Prof. Marcelo Tavares Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Festejo Cultural de Confraternização",
+    "lugar": "Bosque dos Eucaliptos",
+    "dataInicio": "2027-05-21T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de ciranda praieira com o grupo coordenado pela mestre <b>Severina Batista da Trindade</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

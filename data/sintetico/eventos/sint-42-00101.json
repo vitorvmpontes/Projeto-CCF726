@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00101",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Curitiba - PR",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:00+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 951
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada Franciscana de Espiritualidade e Ação Comunitária",
+   "local_geral": "Paróquia Bom Jesus dos Perdões, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Oração da Manhã e Acolhida",
+    "lugar": null,
+    "dataInicio": "2024-05-18T08:30:00-03:00",
+    "dataFim": "2024-05-18T09:15:00-03:00",
+    "descricao": "<p>Momento inicial de reflexão e cantos conduzido por <b>Frei Almir Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Escuta Fraterna",
+    "lugar": "Sala São Damião",
+    "dataInicio": "2024-05-18T09:30:00-03:00",
+    "dataFim": "2024-05-18T11:30:00-03:00",
+    "descricao": "<p>Treinamento prático sobre acolhimento comunitário e diálogo empático com a psicóloga <b>Regina Helena Cordeiro</b>, abordando a temática <i>A arte da presença no cuidado pastoral</i>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina de Hortas Comunitárias",
+    "lugar": "Pátio São Francisco",
+    "dataInicio": "2024-05-18T09:30:00-03:00",
+    "dataFim": "2024-05-18T11:30:00-03:00",
+    "descricao": "<p>Técnicas de cultivo agroecológico em pequenos espaços sob orientação do agrônomo <b>Tiago Zanetti</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Almoço Partilhado",
+    "lugar": null,
+    "dataInicio": "2024-05-18T12:00:00-03:00",
+    "dataFim": "2024-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Escuta Fraterna",
+    "lugar": "Salão Clara de Assis",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T16:00:00-03:00",
+    "descricao": "<p>Segunda turma da capacitação em acolhimento pastoral conduzida por <b>Regina Helena Cordeiro</b> com foco no tema <i>A arte da presença no cuidado pastoral</i>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Missa de Envio e Bênção das Famílias",
+    "lugar": null,
+    "dataInicio": "2024-05-18T16:30:00-03:00",
+    "dataFim": "2024-05-18T18:00:00-03:00",
+    "descricao": "<p>Celebração eucarística de encerramento presidida por <b>Dom José Mário Scalon</b> com a participação do coral comunitário regido por <b>Luciana Veiga</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

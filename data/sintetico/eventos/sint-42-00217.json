@@ -1,0 +1,99 @@
+{
+ "spec": {
+  "id": "sint-42-00217",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Vitória - ES",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:33+00:00",
+ "uso_tokens": {
+  "entrada": 639,
+  "saida": 1399
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jogos Universitários Capixabas 2026",
+   "local_geral": "Centro de Educação Física e Desportos (CEFD) - UFES, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Desfile das Delegações e Cerimônia de Abertura",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T10:00:00-03:00",
+    "descricao": "<p>Apresentação das atléticas participantes e acendimento da pira com a coordenadora geral <b>Larissa Benevides</b> e o atleta homenageado <b>Matheus Fontana</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Torneio de Voleibol Masculino - Fase de Grupos",
+    "lugar": "Quadra 1",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Primeira rodada de partidas classificatórias sob arbitragem de <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": "Fase Classificatória"
+   },
+   {
+    "nome": "Torneio de Futsal Feminino - Eliminatórias",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T14:30:00-03:00",
+    "descricao": "<p>Confrontos eliminatórios das equipes universitárias estaduais, organizados pelo árbitro <b>Rodrigo Guimarães</b>.</p>",
+    "secao": "Fase Classificatória"
+   },
+   {
+    "nome": "Competição de Natação: 50m e 100m Livre",
+    "lugar": "Parque Aquático Universitário",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T18:00:00-03:00",
+    "descricao": "<p>Provas individuais femininas e masculinas com coordenação técnica da Profa. <b>Camila Duarte Pires</b>.</p>",
+    "secao": "Fase Classificatória"
+   },
+   {
+    "nome": "Desafio de Xadrez Rápido",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2026-05-16T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Disputa no sistema suíço em cinco rodadas dirigida pelo mestre regional <b>Thiago Alvarenga</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Semifinais do Handebol Masculino e Feminino",
+    "lugar": "Quadra Externa Coberta",
+    "dataInicio": "2026-05-17T09:00:00-03:00",
+    "dataFim": "2026-05-17T12:00:00-03:00",
+    "descricao": "<p>Confrontos decisivos para as finais de handebol supervisionados pela técnica <b>Juliana Varejão</b>.</p>",
+    "secao": "Fase Final"
+   },
+   {
+    "nome": "Final do Torneio de Basquetebol",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2026-05-17T13:30:00-03:00",
+    "dataFim": "2026-05-17T15:30:00-03:00",
+    "descricao": "<p>Grande final masculina e feminina com comentários do técnico convidado <b>Felipe Vasconcellos</b>.</p>",
+    "secao": "Fase Final"
+   },
+   {
+    "nome": "Final do Torneio de Futsal Feminino",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2026-05-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Disputa pela medalha de ouro e troféu geral da modalidade com apito final de <b>Rodrigo Guimarães</b>.</p>",
+    "secao": "Fase Final"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Ginásio Poliesportivo Principal",
+    "dataInicio": "2026-05-17T18:30:00-03:00",
+    "dataFim": "2026-05-17T20:00:00-03:00",
+    "descricao": "<p>Entrega dos troféus de atlética campeã geral e medalhas aos vencedores conduzida por <b>Larissa Benevides</b> e pelo diretor <b>Marcos Antunes Ramos</b>.</p>",
+    "secao": "Solenidades"
+   }
+  ]
+ }
+}

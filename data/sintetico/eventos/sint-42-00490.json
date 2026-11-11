@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-42-00490",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "intervalos",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:25+00:00",
+ "uso_tokens": {
+  "entrada": 677,
+  "saida": 542
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Gastronômico Sabores do Sul 2027",
+   "local_geral": "Centro de Eventos Cais Embarcadero, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Café de Boas-Vindas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-15T09:00:00-03:00",
+    "dataFim": "2027-05-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Show 1",
+    "dataInicio": "2027-05-15T10:30:00-03:00",
+    "dataFim": "2027-05-15T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Tradição e Inovação na Cozinha Campeira Gaúcha</i>.</p><p>Apresentação e preparo de pratos autorais com o Chef <b>Rodrigo Bellora</b> e a pesquisadora <b>Clarice Chwartzmann</b>.</p>",
+    "secao": "Aulas-Show da Manhã"
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Show 2",
+    "dataInicio": "2027-05-15T14:30:00-03:00",
+    "dataFim": "2027-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sobremesas com Frutas Nativas dos Biomas do Sul</i>.</p><p>Demonstração técnica conduzida pela Chef Pâtissière <b>Natália Tussi</b> e pelo Chef <b>Marcelo Schambeck</b>.</p>",
+    "secao": "Aulas-Show da Tarde"
+   }
+  ]
+ }
+}

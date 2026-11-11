@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00147",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Campinas - SP",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:49+00:00",
+ "uso_tokens": {
+  "entrada": 643,
+  "saida": 1463
+ },
+ "saida": {
+  "evento": {
+   "nome": "Campinas Tech Summit & Hackathon 2027",
+   "local_geral": "Polo de Alta Tecnologia de Campinas, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Principal Alpha",
+    "dataInicio": "2027-05-14T09:00:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e lançamento oficial dos desafios tecnológicos com a coordenação de <b>Renata Silveira Guimarães</b> e <b>Carlos Eduardo Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Keynote Corporativo",
+    "lugar": "Auditório Principal Alpha",
+    "dataInicio": "2027-05-14T10:15:00-03:00",
+    "dataFim": "2027-05-14T11:30:00-03:00",
+    "descricao": "<p>Palestra magna intitulada <i>O Futuro dos Modelos de Linguagem na Automação Industrial</i>, ministrada por <b>Thiago Montalvão</b> (Diretor de IA na NexaCorp) com mediação de <b>Fernanda Lins</b>.</p>",
+    "secao": "Painéis e Palestras de Mercado"
+   },
+   {
+    "nome": "Painel de Inovação Aberta",
+    "lugar": "Auditório Principal Alpha",
+    "dataInicio": "2027-05-14T11:45:00-03:00",
+    "dataFim": "2027-05-14T13:00:00-03:00",
+    "descricao": "<p>Debate sobre conexões entre startups e grandes corporações, coordenado por <b>Mariana Bastos</b>. O painel inclui as exposições: <i>Venture Building na Prática</i> por <b>Rodrigo Cordeiro</b> e <i>Desafios Regulatórios em Deep Tech</i> por <b>Letícia Nogueira</b>.</p>",
+    "secao": "Painéis e Palestras de Mercado"
+   },
+   {
+    "nome": "Kick-off das Equipes",
+    "lugar": "Galpão Hacker",
+    "dataInicio": "2027-05-14T14:30:00-03:00",
+    "dataFim": "2027-05-14T16:00:00-03:00",
+    "descricao": "<p>Início da maratona de desenvolvimento com apresentação das regras e liberação das APIs. Coordenação técnica de <b>Danilo Rezende</b> e mentoria de <b>Camila Duarte</b> e <b>Bruno Falcão</b>.</p>",
+    "secao": "Hackathon 48h"
+   },
+   {
+    "nome": "Sessão de Mentoria Noturna",
+    "lugar": "Galpão Hacker",
+    "dataInicio": "2027-05-14T20:00:00-03:00",
+    "dataFim": "2027-05-14T22:30:00-03:00",
+    "descricao": "<p>Acompanhamento de arquitetura e prototipagem dos times com apoio dos mentores <b>Henrique Viana</b>, <b>Juliana Meireles</b> e <b>Gabriel Siqueira</b>.</p>",
+    "secao": "Hackathon 48h"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Sala de Workshop Beta",
+    "dataInicio": "2027-05-15T10:00:00-03:00",
+    "dataFim": "2027-05-15T11:30:00-03:00",
+    "descricao": "<p>Apresentação sobre desenvolvimento em nuvem intitulada <i>Escalabilidade Resiliente em Plataformas Concorrentes</i>, conduzida pelo engenheiro sênior <b>Marcio Bellini</b>.</p>",
+    "secao": "Painéis e Palestras de Mercado"
+   },
+   {
+    "nome": "Demoday dos Finalistas",
+    "lugar": "Auditório Principal Alpha",
+    "dataInicio": "2027-05-15T14:30:00-03:00",
+    "dataFim": "2027-05-15T17:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos finalistas para a banca avaliadora, com coordenação de <b>Carlos Eduardo Prado</b>. Lista dos trabalhos e pitches apresentados: <i>AgroPredict: IA no Campo</i> por <b>Aline Ferreira</b>; <i>LogiRoute: Otimização de Frotas Elétricas</i> por <b>Felipe Sanches</b>; e <i>CleanEnergy Ledger: Créditos Descentralizados</i> por <b>Natália Antunes</b>.</p>",
+    "secao": "Hackathon 48h"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Principal Alpha",
+    "dataInicio": "2027-05-15T17:30:00-03:00",
+    "dataFim": "2027-05-15T18:30:00-03:00",
+    "descricao": "<p>Anúncio das equipes vencedoras e entrega dos prêmios, conduzida pelos coordenadores gerais <b>Renata Silveira Guimarães</b> e <b>Danilo Rezende</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

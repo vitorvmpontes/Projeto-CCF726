@@ -1,0 +1,180 @@
+{
+ "spec": {
+  "id": "sint-42-00349",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:52+00:00",
+ "uso_tokens": {
+  "entrada": 654,
+  "saida": 2905
+ },
+ "saida": {
+  "evento": {
+   "nome": "XVIII Encontro de Fé e Ação Comunitária do Triângulo Mineiro",
+   "local_geral": "Centro Pastoral São Francisco de Assis, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Recepção das Caravanas",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-08-16T17:00:00-03:00",
+    "dataFim": "2024-08-16T18:30:00-03:00",
+    "descricao": "<p>Recepção fraterna dos participantes e entrega dos crachás e kits pastorais pela equipe de acolhimento coordenada por <b>Marisa Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-16T19:00:00-03:00",
+    "dataFim": "2024-08-16T20:30:00-03:00",
+    "descricao": "<p>Celebração eucarística inaugural presidida por <b>Dom Paulo Mendes Ribeiro</b> com o lema <i>Fraternidade, Esperança e Compromisso Social</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Partilha Fraterna de Caldos",
+    "lugar": "Salão Comunitário",
+    "dataInicio": "2024-08-16T20:30:00-03:00",
+    "dataFim": "2024-08-16T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Capela da Sagrada Família",
+    "dataInicio": "2024-08-17T08:00:00-03:00",
+    "dataFim": "2024-08-17T08:45:00-03:00",
+    "descricao": "<p>Liturgia das Horas cantada, animada pelo <b>Coral Santa Cecília</b> com reflexão breve da <b>Irmã Teresa Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Plenário",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-08-17T09:00:00-03:00",
+    "dataFim": "2024-08-17T10:30:00-03:00",
+    "descricao": "<p>Tema geral: <i>A Solidariedade em Rede no Cerrado: Ação Social Paroquial Frente aos Novos Desafios Urbanos</i>. Moderador: <b>Diácono Jorge Alencar</b>. Expositores: <b>Prof. Carlos Eduardo Silveira</b> e <b>Maria Auxiliadora Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Comunitário",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-08-17T10:30:00-03:00",
+    "dataFim": "2024-08-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala São João Batista",
+    "dataInicio": "2024-08-17T11:00:00-03:00",
+    "dataFim": "2024-08-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Hortas Comunitárias e Sustentabilidade nas Periferias</i>. Conduzida pelo agrônomo <b>Luciano Arantes</b> e pela líder comunitária <b>Zilda Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas e Pastorais"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala Santa Dulce dos Pobres",
+    "dataInicio": "2024-08-17T11:00:00-03:00",
+    "dataFim": "2024-08-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Cuidado com a Pessoa Idosa e a Pastoral da Escuta</i>. Facilitadores: <b>Psicóloga Rita de Cássia Brandão</b> e <b>Frei Matias Oliveira</b>.</p>",
+    "secao": "Oficinas Práticas e Pastorais"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala Betânia",
+    "dataInicio": "2024-08-17T11:00:00-03:00",
+    "dataFim": "2024-08-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Comunicação Popular e Mídias Paroquiais no Contexto Digital</i>. Ministrada pela comunicóloga <b>Fabiana Antunes</b> e pelo comunicador popular <b>Gabriel Nogueira</b>.</p>",
+    "secao": "Oficinas Práticas e Pastorais"
+   },
+   {
+    "nome": "Almoço Partilhado",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2024-08-17T12:30:00-03:00",
+    "dataFim": "2024-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Tenda da Paz",
+    "dataInicio": "2024-08-17T14:00:00-03:00",
+    "dataFim": "2024-08-17T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas Locais e Defesa dos Direitos Humanos na Bacia do Rio Uberabinha</i>, mediado pelo assistente social <b>Renato Castanho</b>.</p>",
+    "secao": "Círculos de Diálogo Comunitário"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Sala Emaús",
+    "dataInicio": "2024-08-17T14:00:00-03:00",
+    "dataFim": "2024-08-17T15:30:00-03:00",
+    "descricao": "<p>Diálogo sob o tema <i>Juventudes, Território e Espiritualidade Libertadora</i>, com a presença dos facilitadores <b>Camila Rezende</b> e <b>Thiago Bueno</b>.</p>",
+    "secao": "Círculos de Diálogo Comunitário"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-08-17T15:30:00-03:00",
+    "dataFim": "2024-08-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Vigília de Louvor e Testemunhos",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-17T16:00:00-03:00",
+    "dataFim": "2024-08-17T18:00:00-03:00",
+    "descricao": "<p>Momento devocional com relatos de superação comunitária conduzido pelo <b>Padre Márcio Guimarães</b> e apresentação musical de <b>Clara Evangelista</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural de Viola e Causos",
+    "lugar": "Anfiteatro Externo",
+    "dataInicio": "2024-08-17T19:30:00-03:00",
+    "dataFim": "2024-08-17T21:30:00-03:00",
+    "descricao": "<p>Apresentação da <b>Orquestra de Violeiros de Uberlândia</b> e contação de causos tradicionais mineiros com o contador popular <b>Tião da Vargem</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Caminhada Solidária pela Paz",
+    "lugar": "Praça das Mangueiras até o Centro Pastoral",
+    "dataInicio": "2024-08-18T07:30:00-03:00",
+    "dataFim": "2024-08-18T08:30:00-03:00",
+    "descricao": "<p>Caminhada reflexiva pelas ruas do bairro com paradas temáticas coordenadas pela <b>Pastoral da Juventude</b> sob liderança de <b>Felipe Salgado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Coletivo",
+    "lugar": "Salão Comunitário",
+    "dataInicio": "2024-08-18T08:30:00-03:00",
+    "dataFim": "2024-08-18T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral dos Delegados Paroquiais",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-08-18T09:15:00-03:00",
+    "dataFim": "2024-08-18T10:45:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta Compromisso das Comunidades do Triângulo Mineiro 2024-2025</i> sob coordenação de <b>Helena Esteves</b> e do <b>Padre Geraldo Maciel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Celebração Eucarística de Envio e Bênção das Sementes",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-18T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração de encerramento e envio dos missionários leigos, com rito de bênção das sementes nativas do Cerrado proferida pelo bispo diocesano <b>Dom Paulo Mendes Ribeiro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

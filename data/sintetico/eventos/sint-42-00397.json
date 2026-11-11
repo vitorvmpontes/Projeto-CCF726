@@ -1,0 +1,99 @@
+{
+ "spec": {
+  "id": "sint-42-00397",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:12+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 1376
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Encontro Fraterno de Ação Comunitária do Recife",
+   "local_geral": "Centro Pastoral São José dos Manguinhos, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Solidário",
+    "lugar": "Pátio Interno",
+    "dataInicio": "2023-08-19T08:00:00-03:00",
+    "dataFim": "2023-08-19T08:45:00-03:00",
+    "descricao": "<p>Recepção dos agentes pastorais e moradores locais com café da manhã comunitário.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oração Inicial e Cânticos de Louvor",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-19T08:45:00-03:00",
+    "dataFim": "2023-08-19T09:30:00-03:00",
+    "descricao": "<p>Momento de espiritualidade conduzido pelo <b>Padre Luciano Bezerra</b> e pelo <b>Ministério de Música Anunciadores</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": null,
+    "dataInicio": "2023-08-19T09:45:00-03:00",
+    "dataFim": "2023-08-19T11:45:00-03:00",
+    "descricao": "<p>Atividade prática <i>Hortas Comunitárias e Sustentabilidade nas Periferias</i>, facilitada pela agrônoma <b>Marina Albuquerque</b>.</p>",
+    "secao": "Oficinas de Capacitação Comunitária"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": null,
+    "dataInicio": "2023-08-19T09:45:00-03:00",
+    "dataFim": "2023-08-19T11:45:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Comunicação Popular e Mobilização em Redes</i>, ministrado pelo comunicador <b>Thiago Cavalcanti</b>.</p>",
+    "secao": "Oficinas de Capacitação Comunitária"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": null,
+    "dataInicio": "2023-08-19T09:45:00-03:00",
+    "dataFim": "2023-08-19T11:45:00-03:00",
+    "descricao": "<p>Capacitação <i>Gestão Financeira para Pequenas Associações e Coletivos</i>, orientada pela assistente social <b>Clarice Menezes</b>.</p>",
+    "secao": "Oficinas de Capacitação Comunitária"
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": "Refeitório São Francisco",
+    "dataInicio": "2023-08-19T12:00:00-03:00",
+    "dataFim": "2023-08-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Círculo de Diálogo Pastoral",
+    "lugar": null,
+    "dataInicio": "2023-08-19T13:30:00-03:00",
+    "dataFim": "2023-08-19T15:30:00-03:00",
+    "descricao": "<p>Debate ampliado com o tema <i>A Presença da Igreja nas Comunidades Vulneráveis do Grande Recife</i>, mediado pela <b>Irmã Teresa Vasconcelos</b> com participação do sociólogo <b>Roberto Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Pátio Interno",
+    "dataInicio": "2023-08-19T15:45:00-03:00",
+    "dataFim": "2023-08-19T16:30:00-03:00",
+    "descricao": "<p>Performance do espetáculo musical <i>Cantos de Esperança</i> pelo <b>Coral Vozes do Capibaribe</b>, sob a regência da maestrina <b>Helena Soares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Celebração Eucarística de Envio",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-19T16:30:00-03:00",
+    "dataFim": "2023-08-19T18:00:00-03:00",
+    "descricao": "<p>Missa solene de encerramento e bênção das lideranças, presidida por <b>Dom Gabriel Ramos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

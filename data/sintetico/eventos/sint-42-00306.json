@@ -1,0 +1,163 @@
+{
+ "spec": {
+  "id": "sint-42-00306",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 17,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:36+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 2735
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Mineiro de Direito Processual e Inovação Jurisdicional",
+   "local_geral": "Centro de Convenções Ouro Minas, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-16T17:00:00-03:00",
+    "dataFim": "2023-08-16T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Instalação dos Trabalhos",
+    "lugar": "Grande Auditório Vermelho",
+    "dataInicio": "2023-08-16T18:30:00-03:00",
+    "dataFim": "2023-08-16T19:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Presidente da OAB/MG <b>Sérgio Leonardo</b> e da Desembargadora <b>Mariângela Meyer</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Abertura",
+    "lugar": "Grande Auditório Vermelho",
+    "dataInicio": "2023-08-16T19:30:00-03:00",
+    "dataFim": "2023-08-16T21:00:00-03:00",
+    "descricao": "<p>Exposição sobre <i>O Futuro dos Precedentes Vinculantes no Sistema Brasileiro</i> conduzida pelo Ministro <b>Reynaldo Soares da Fonseca</b>, com mediação da Profa. Dra. <b>Dierle Nunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates I",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial e Valoração da Prova no Processo Civil</i>.</p><p>Debatedores: <b>Juliana Cordeiro de Faria</b> e <b>Flávio Quinaud Pedron</b>. Presidência de mesa por <b>Renato Brasileiro de Lima</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa de Debates II",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Tutelas Provisórias e os Desafios da Efetividade Executiva</i>.</p><p>Palestrantes convidados: <b>Humberto Theodoro Júnior</b> e <b>Clarisse Frechiani Lara Leite</b>. Moderação de <b>Vinicius Lott Gomide</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Espaço de Convivência e Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-17T10:45:00-03:00",
+    "dataFim": "2023-08-17T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates III",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2023-08-17T11:15:00-03:00",
+    "dataFim": "2023-08-17T12:45:00-03:00",
+    "descricao": "<p>Tema: <i>Negócios Jurídicos Processuais e Autonomia Privada</i>.</p><p>Participação especial de <b>Eduardo Talamini</b> e <b>Luciana Monducci Penna</b> sob coordenação do Prof. <b>Ronaldo Brêtas de Carvalho Dias</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa de Debates IV",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2023-08-17T11:15:00-03:00",
+    "dataFim": "2023-08-17T12:45:00-03:00",
+    "descricao": "<p>Tema: <i>A Relevância da Questão Federal no Recurso Especial</i>.</p><p>Exposições de <b>Teresa Arruda Alvim</b> e <b>Bernardo Ribeiro Câmara</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-17T12:45:00-03:00",
+    "dataFim": "2023-08-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Práticas Processuais",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2023-08-17T14:30:00-03:00",
+    "dataFim": "2023-08-17T16:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias de Sustentação Oral perante os Tribunais Superiores</i> com o Dr. <b>Marcelo Abelha Rodrigues</b> e a Dra. <b>Carolina Uzeda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates V",
+    "lugar": "Auditório Diamantina",
+    "dataInicio": "2023-08-17T17:00:00-03:00",
+    "dataFim": "2023-08-17T18:45:00-03:00",
+    "descricao": "<p>Tema: <i>Cooperação Judiciária Nacional e Desjudicialização</i>.</p><p>Com os palestrantes <b>Fredie Didier Jr.</b> e <b>Patrícia Henriques Ribeiro</b>. Coordenação dos trabalhos por <b>Glauco Gumerato Ramos</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa de Debates VI",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2023-08-17T17:00:00-03:00",
+    "dataFim": "2023-08-17T18:45:00-03:00",
+    "descricao": "<p>Tema: <i>Acesso à Justiça Digital e Vulnerabilidade Processual</i>.</p><p>Debatedores: <b>Fernanda Tartuce</b> e <b>José Henrique Mouta Araújo</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Sessão Temática Matutina A",
+    "lugar": "Sala Sabará",
+    "dataInicio": "2023-08-18T09:30:00-03:00",
+    "dataFim": "2023-08-18T11:00:00-03:00",
+    "descricao": "<p>Apresentação e debate sobre o tema <i>Repercussão Geral e Modulação de Efeitos</i> com os expositores <b>Bruno Bodart</b> e <b>Taís Schilling Ferraz</b>.</p>",
+    "secao": "Sessões Temáticas Simultâneas"
+   },
+   {
+    "nome": "Sessão Temática Matutina B",
+    "lugar": "Sala Congonhas",
+    "dataInicio": "2023-08-18T09:30:00-03:00",
+    "dataFim": "2023-08-18T11:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Meios Adequados de Solução de Conflitos na Administração Pública</i> apresentada por <b>Vanir Ribeiro da Silva</b> e <b>Luciana Silva Reis</b>.</p>",
+    "secao": "Sessões Temáticas Simultâneas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T11:00:00-03:00",
+    "dataFim": "2023-08-18T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Plenária de Fechamento",
+    "lugar": "Grande Auditório Vermelho",
+    "dataInicio": "2023-08-18T11:30:00-03:00",
+    "dataFim": "2023-08-18T13:00:00-03:00",
+    "descricao": "<p>Conferência especial <i>Direito Processual Constitucional e a Defesa Democrática</i> proferida pelo Prof. Dr. <b>Lenio Luiz Streck</b>, sob presidência de <b>Mônica Aragão Martiniano Ferreira e Costa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento e Entrega da Medalha Processualista Emérito",
+    "lugar": "Grande Auditório Vermelho",
+    "dataInicio": "2023-08-18T13:00:00-03:00",
+    "dataFim": "2023-08-18T13:45:00-03:00",
+    "descricao": "<p>Homenagem institucional com discurso de encerramento pelo coordenador-geral <b>Leonardo Carneiro da Cunha</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

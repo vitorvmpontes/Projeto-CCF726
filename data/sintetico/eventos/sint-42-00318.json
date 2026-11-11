@@ -1,0 +1,190 @@
+{
+ "spec": {
+  "id": "sint-42-00318",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 20,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "descricoes_ricas",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:33+00:00",
+ "uso_tokens": {
+  "entrada": 679,
+  "saida": 2991
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Fluminense de Mulheres na Computação",
+   "local_geral": "Centro de Tecnologia - UFRJ, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Bloco H",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Maria Esther Bueno",
+    "dataInicio": "2027-05-19T09:30:00-03:00",
+    "dataFim": "2027-05-19T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com as coordenadoras gerais <b>Dra. Mariana Bittencourt</b> e <b>Profa. Beatriz Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Inspiração",
+    "lugar": "Auditório Maria Esther Bueno",
+    "dataInicio": "2027-05-19T10:15:00-03:00",
+    "dataFim": "2027-05-19T11:45:00-03:00",
+    "descricao": "<p>Palestra <i>Quebrando Barreiras: Minha Jornada em Inteligência Artificial</i> ministrada por <b>Dra. Clara Vasconcellos</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-05-19T11:45:00-03:00",
+    "dataFim": "2027-05-19T12:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Liderança Técnica",
+    "lugar": "Auditório Maria Esther Bueno",
+    "dataInicio": "2027-05-19T12:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão sobre ascensão de carreira com mediação de <b>Camila Duarte</b> e participação das convidadas <b>Juliana Pires</b> e <b>Letícia Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Hacker 1",
+    "dataInicio": "2027-05-19T14:30:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Minicurso <i>Introdução à Ciência de Dados com Python</i> facilitado por <b>Bruna Meireles</b> e <b>Amanda Lins</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório Hacker 2",
+    "dataInicio": "2027-05-19T14:30:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Treinamento <i>Segurança Ofensiva para Iniciantes</i> conduzido pela instrutora <b>Roberta Guimarães</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Happy Hour de Integração",
+    "lugar": null,
+    "dataInicio": "2027-05-19T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro de networking e confraternização organizado por <b>Fernanda Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Maria Esther Bueno",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Desafios de Escalabilidade em Arquiteturas Serverless</i> com a engenheira <b>Paula Rezende</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão Técnica A",
+    "lugar": "Sala 101",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Vânia Albuquerque</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Detecção de Discurso de Ódio em Redes Sociais com Aprendizado Profundo</i> por <b>Taís Rocha</b> e <b>Dra. Vânia Albuquerque</b>;</p><p>2. <i>Otimização de Rotas de Transporte Público via Algoritmos Genéticos</i> por <b>Gabriela Fontana</b>.</p>",
+    "secao": "Sessões Técnicas de Pesquisa"
+   },
+   {
+    "nome": "Sessão Técnica B",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Profa. Helena Campos</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Usabilidade de Aplicativos de Telemedicina para Idosos</i> por <b>Renata Cordeiro</b>;</p><p>2. <i>Análise Comparativa de Métricas de Manutenibilidade em Microsserviços</i> por <b>Débora Matos</b> e <b>Profa. Helena Campos</b>.</p>",
+    "secao": "Sessões Técnicas de Pesquisa"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Laboratório Hacker 1",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:00:00-03:00",
+    "descricao": "<p>Oficina <i>Desenvolvimento Web Inclusivo com Diretrizes WCAG</i> orientada por <b>Aline Medeiros</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Rodada de Mentoria de Carreira",
+    "lugar": null,
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Sessões rápidas de mentoria conduzidas por <b>Sofia Carvalho</b>, <b>Natália Antunes</b> e <b>Karina Souza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Maria Esther Bueno",
+    "dataInicio": "2027-05-20T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre <i>Maternidade e Carreira Acadêmica na Computação</i> com <b>Profa. Patrícia Diniz</b> e <b>Dra. Cecília Queiroz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres e Relatos",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Coordenação geral de <b>Elisa Farias</b>.</p><p>Trabalhos expostos:</p><p>1. <i>Inclusão Digital de Meninas em Escolas Públicas da Baixada</i> por <b>Monique Castro</b>;</p><p>2. <i>Desenvolvimento de um Chatbot de Auxílio Jurídico</i> por <b>Lorena Martins</b>.</p>",
+    "secao": "Sessões Técnicas de Pesquisa"
+   },
+   {
+    "nome": "Espaço Comunidades",
+    "lugar": null,
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Apresentação das iniciativas PyLadies, WoMakersCode e Meninas Digitais com <b>Bianca Ferreira</b> e <b>Valéria Sales</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Empreendedorismo Feminino",
+    "lugar": "Auditório Maria Esther Bueno",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Discussão com fundadoras de startups de tecnologia: <b>Fabiana Tavares</b> e <b>Larissa Neves</b>. Mediação: <b>Ingrid Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Maria Esther Bueno",
+    "dataInicio": "2027-05-21T15:45:00-03:00",
+    "dataFim": "2027-05-21T16:45:00-03:00",
+    "descricao": "<p>Anúncio dos melhores artigos e menções honrosas apresentado por <b>Dra. Mariana Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Foto Oficial",
+    "lugar": null,
+    "dataInicio": "2027-05-21T16:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

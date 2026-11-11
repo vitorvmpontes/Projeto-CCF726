@@ -1,0 +1,252 @@
+{
+ "spec": {
+  "id": "sint-42-00337",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 28,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:55+00:00",
+ "uso_tokens": {
+  "entrada": 648,
+  "saida": 4166
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado de Autoavaliação Institucional e Gestão Universitária",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Validação de Inscrições",
+    "lugar": "Hall das Caaetês",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Instalação",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo Magnífico Reitor <b>Prof. Carlos Eduardo Mendonça</b> e pela Presidente da CPA Central <b>Profa. Dra. Samara Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T11:30:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Desafios e Perspectivas da Autoavaliação Institucional no Contexto Amazônico</i> pelo palestrante convidado <b>Dr. Valmir Bezerra de Castro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T11:30:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Sala Nobre Rio Solimões",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>A Dimensão 8 do SINAES: Planejamento, Sustentabilidade Financeira e Gestão</i> com moderação de <b>Dra. Cecília Nogueira</b> e exposições de <b>Prof. Arnaldo Silveira</b> e <b>Profa. Beatriz Fontes</b>.</p>",
+    "secao": "Painéis Temáticos da CPA"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Sala Rio Negro",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Políticas de Atendimento aos Discentes e Egressos: Mecanismos de Escuta</i> com os painelistas <b>Msc. Renata Chagas</b> e <b>Prof. Lucas Guimarães</b>.</p>",
+    "secao": "Painéis Temáticos da CPA"
+   },
+   {
+    "nome": "Painel de Debates 3",
+    "lugar": "Auditório Vitória-Régia",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Análise de <i>Infraestrutura Física, Tecnológica e Inclusão Digital na Amazônia Ocidental</i> conduzida por <b>Eng. Marcelo Picanço</b> e debatida por <b>Dra. Tereza Jatene</b>.</p>",
+    "secao": "Painéis Temáticos da CPA"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-19T15:30:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Dialógica",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-19T16:00:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Sessão integrada sobre <i>A Articulação entre Ensino, Pesquisa e Extensão sob a Ótica da CPA</i> mediada pelo <b>Prof. Fernando Maciel</b>, com contribuições de <b>Profa. Glória Antunes</b> e <b>Dr. Roberto Saraiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural Boi-Bumbá",
+    "lugar": "Espaço Sumaúma",
+    "dataInicio": "2027-05-19T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Performance folclórica com o grupo de dança universitário coordenado pela <b>Mestra Ivone Tapajós</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Elaboração e Tratamento de Instrumentos Avaliativos Online</i> ministrada por <b>Analista Tiago Paiva</b> e <b>Estatística Helena Mourão</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório Multiuso B",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Redação de Relatórios de Autoavaliação Institucional Segundo as Diretrizes do INEP</i> com a facilitadora <b>Profa. Luciana Barroso</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Sala de Seminários 2",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Metodologias Participativas para Envolvimento da Comunidade Externa nas CPAs</i> orientada por <b>Msc. Josué Ramos</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Compartilhamento de Experiências",
+    "lugar": "Auditório Vitória-Régia",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Troca de vivências entre comissões setoriais com mediação de <b>Profa. Clarice Diniz</b> e depoimentos de membros das unidades do interior do Amazonas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Hall das Caaetês",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos acadêmicos voltados para governança, regulação e métricas educacionais. Coordenação do comitê científico por <b>Dr. Henrique Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Docente e Discente",
+    "lugar": "Sala Rio Negro",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Debate focado na <i>Cultura Avaliativa e o Papel das Lideranças Estudantis</i>, com a participação dos líderes de centros acadêmicos <b>Larissa Sales</b> e <b>Gabriel Matos</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Colóquio dos Técnicos-Administrativos",
+    "lugar": "Sala Nobre Rio Solimões",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Aperfeiçoamento dos Fluxos Internos e a Percepção do Corpo Técnico na Autoavaliação</i> organizada por <b>Adm. Wanessa Coêlho</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Lançamento de Publicações",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-20T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos do e-book institucional organizado por <b>Dr. Almir Negreiros</b> e coautores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária 1",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Apresentação dos resultados consolidados da autoavaliação 2026/2027 pela relatora <b>Econ. Mariana Furtado</b>.</p>",
+    "secao": "Plenárias Deliberativas"
+   },
+   {
+    "nome": "Pausa para Café Matinal",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária 2",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Discussão das propostas de melhoria contínua e plano de providências com coordenação do <b>Prof. Otávio Ribeiro</b>.</p>",
+    "secao": "Plenárias Deliberativas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reunião Extraordinária da CPA Central",
+    "lugar": "Sala de Conselhos",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:00:00-03:00",
+    "descricao": "<p>Encontro deliberativo fechado com os conselheiros e a presidente <b>Profa. Dra. Samara Albuquerque</b> para formalização dos pareceres finais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Fechamento",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-21T15:00:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>O Papel Transformador dos Resultados da CPA no Plano de Desenvolvimento Institucional (PDI)</i> ministrada pela especialista <b>Dra. Simone Marinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Conclusão e Premiação de Boas Práticas",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Entrega de menções honrosas às subcomissões de destaque e encerramento conduzido pelo Vice-Reitor <b>Prof. Jorge Tananta</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel Amazônico de Encerramento",
+    "lugar": "Terraço Rio Solimões",
+    "dataInicio": "2027-05-21T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

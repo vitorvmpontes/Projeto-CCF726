@@ -1,0 +1,277 @@
+{
+ "spec": {
+  "id": "sint-42-00420",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Brasília - DF",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 31,
+  "casos": [
+   "nomes_repetidos",
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:09+00:00",
+ "uso_tokens": {
+  "entrada": 678,
+  "saida": 4635
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Brasiliense de Inteligência Artificial e Aplicações Práticas (WBIA 2027)",
+   "local_geral": "Centro de Convenções Ulysses Guimarães, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a coordenadora geral <b>Dra. Cecília Meireles Ribeiro</b> e representantes de órgãos federais parceiros.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-19T09:30:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Apresentação sob o tema <i>Modelos Fundacionais Multimodais: Fronteiras e Desafios para a Próxima Década</i>, proferida pelo <b>Prof. Dr. Marcelo Bastos Guimarães</b> (UnB).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Parte I do minicurso <i>Fine-tuning e Alinhamento Eficiente de LLMs com Técnicas de LoRA e QLoRA</i>, ministrado por <b>Msc. Renata Albuquerque</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Parte I do minicurso <i>Visão Computacional para Cidades Inteligentes: Detecção e Rastreamento em Tempo Real</i>, com <b>Dr. André Villela Vianna</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Parte I do minicurso <i>Grafos de Conhecimento e RAG Avançado para Sistemas Corporativos</i>, conduzido por <b>Dra. Talita Nogueira da Silva</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos curtos sobre Aprendizado Profundo. Coordenação de <b>Prof. Lucas Meneses</b>. Artigos: <i>Otimização de Redes Neurais Esparsas</i> por <b>Felipe Couto</b>; <i>Autoencoders Variacionais para Séries Temporais</i> por <b>Beatriz Brandão</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-19T16:00:00-03:00",
+    "dataFim": "2027-05-19T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-19T16:30:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Regulação da Inteligência Artificial e Soberania Digital no Brasil</i>. Moderado por <b>Dra. Juliana Prado</b>, com debatedores <b>Dr. Henrique Fontes</b> e <b>Msc. Patrícia Diniz Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T09:30:00-03:00",
+    "descricao": "<p>Tema: <i>IA Explicável e Causalidade em Saúde Pública</i> com a pesquisadora <b>Dra. Mariana Goulart</b> (Fiocruz).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2027-05-20T09:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": "<p>Parte II do minicurso <i>Fine-tuning e Alinhamento Eficiente de LLMs com Técnicas de LoRA e QLoRA</i>, ministrado por <b>Msc. Renata Albuquerque</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2027-05-20T09:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": "<p>Parte II do minicurso <i>Visão Computacional para Cidades Inteligentes: Detecção e Rastreamento em Tempo Real</i>, com <b>Dr. André Villela Vianna</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-20T09:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": "<p>Parte II do minicurso <i>Grafos de Conhecimento e RAG Avançado para Sistemas Corporativos</i>, conduzido por <b>Dra. Talita Nogueira da Silva</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-20T11:30:00-03:00",
+    "dataFim": "2027-05-20T13:00:00-03:00",
+    "descricao": "<p>Sessão dedicada a Processamento de Linguagem Natural. Apresentação do trabalho <i>Corpus Anotado para Análise de Sentimentos em Documentos Oficiais</i> por <b>Tiago Salgado</b> e <i>Detecção Automática de Vieses Textuais</i> por <b>Carla Antunes</b>. Moderação de <b>Prof. Dr. Sérgio Dorneles</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T13:00:00-03:00",
+    "dataFim": "2027-05-20T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": "<p>Módulo intensivo: <i>MLOps: Da Prototipagem ao Monitoramento de Modelos em Nuvem</i> com o instrutor <b>Eng. Rodrigo Cavalcanti</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 5",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": "<p>Módulo intensivo: <i>IA Generativa de Imagens com Modelos de Difusão Latente</i> sob orientação de <b>Dra. Vanessa Figueiredo</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": "2027-05-20T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2027-05-20T17:00:00-03:00",
+    "dataFim": "2027-05-20T18:30:00-03:00",
+    "descricao": "<p>Exibição e arguição de trabalhos de graduação e pós-graduação sobre aplicações práticas de inteligência artificial na indústria e serviços públicos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação do Setor Público por Meio de IA Ética</i>. Participação dos especialistas <b>Gustavo Faria</b>, <b>Dra. Helena Martins</b> e mediação do <b>Prof. Dr. Ricardo Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Parte III (finalização e projeto prático) do minicurso <i>Fine-tuning e Alinhamento Eficiente de LLMs com Técnicas de LoRA e QLoRA</i> com <b>Msc. Renata Albuquerque</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Parte III (aplicação e testes em vídeo) do minicurso <i>Visão Computacional para Cidades Inteligentes: Detecção e Rastreamento em Tempo Real</i> conduzido por <b>Dr. André Villela Vianna</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:30:00-03:00",
+    "dataFim": "2027-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demoday de Soluções de IA",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Apresentação ao vivo de protótipos de startups e grupos de pesquisa para bancas de investidores, sob avaliação de <b>Bruno Tavares</b> e <b>Fernanda Lins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Master",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Premiação dos melhores artigos e soluções do Demoday, conduzida pelos coordenadores <b>Dra. Cecília Meireles Ribeiro</b> e <b>Prof. Lucas Meneses</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2027-05-21T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de confraternização e networking final entre congressistas, patrocinadores e palestrantes.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

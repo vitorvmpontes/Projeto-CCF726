@@ -1,0 +1,131 @@
+{
+ "spec": {
+  "id": "sint-42-00470",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Vitória - ES",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:52+00:00",
+ "uso_tokens": {
+  "entrada": 636,
+  "saida": 1960
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UFES 2024",
+   "local_geral": "Campus de Goiabeiras, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Tenda Central - Centro de Vivência",
+    "dataInicio": "2024-03-04T08:00:00-03:00",
+    "dataFim": "2024-03-04T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula Inaugural",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2024-03-04T09:30:00-03:00",
+    "dataFim": "2024-03-04T11:30:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais aos novos estudantes com a presença do reitor <b>Paulo Roberto Vargas</b> e da pró-reitora de graduação <b>Cláudia Maria Santos</b>, com a palestra <i>A Universidade Pública como Espaço de Transformação Social</i>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2024-03-04T11:30:00-03:00",
+    "dataFim": "2024-03-04T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": "Ponto de Encontro: Biblioteca Central",
+    "dataInicio": "2024-03-04T13:30:00-03:00",
+    "dataFim": "2024-03-04T15:30:00-03:00",
+    "descricao": "<p>Visita às principais instalações e setores de apoio aos estudantes, conduzida pelos veteranos <b>Mariana Pires Leite</b> e <b>Lucas Gonzaga</b>.</p>",
+    "secao": "Vivência Universitária"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Manoel Vereza de Oliveira",
+    "dataInicio": "2024-03-04T16:00:00-03:00",
+    "dataFim": "2024-03-04T18:00:00-03:00",
+    "descricao": "<p>Encontro temático <i>Saúde Mental e Permanência Estudantil: Desafios do Primeiro Ano</i>, coordenado pelo psicólogo <b>Felipe Dornelles</b> com depoimentos dos estudantes <b>Bárbara Coitinho</b> e <b>Thiago Mendonça</b>.</p>",
+    "secao": "Vivência Universitária"
+   },
+   {
+    "nome": "Feira de Entidades Estudantis e Atléticas",
+    "lugar": "Gramado do CCJE",
+    "dataInicio": "2024-03-05T09:00:00-03:00",
+    "dataFim": "2024-03-05T12:00:00-03:00",
+    "descricao": "<p>Estandes dos Centros Acadêmicos, Empresa Júnior, Coletivos e Atléticas para apresentação das atividades extracurriculares aos novos ingressantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2024-03-05T12:00:00-03:00",
+    "dataFim": "2024-03-05T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 3 - CCHN",
+    "dataInicio": "2024-03-05T13:30:00-03:00",
+    "dataFim": "2024-03-05T15:00:00-03:00",
+    "descricao": "<p>Treinamento <i>Desbravando o Portal do Aluno e o Ambiente Virtual de Aprendizagem</i>, ministrado pelo técnico <b>Renato Guimarães Farias</b>.</p>",
+    "secao": "Oficinas de Ambientação"
+   },
+   {
+    "nome": "Lanche Coletivo",
+    "lugar": "Hall do Edifício Bárbara Weinberg",
+    "dataInicio": "2024-03-05T15:00:00-03:00",
+    "dataFim": "2024-03-05T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Escrita Acadêmica",
+    "lugar": "Sala 102 - IC-II",
+    "dataInicio": "2024-03-05T15:30:00-03:00",
+    "dataFim": "2024-03-05T17:30:00-03:00",
+    "descricao": "<p>Minicurso <i>Primeiros Passos na Pesquisa Científica e Normas ABNT</i>, conduzido pela professora <b>Helena Vasconcellos</b>.</p>",
+    "secao": "Oficinas de Ambientação"
+   },
+   {
+    "nome": "Trote Solidário",
+    "lugar": "Estacionamento do Centro de Artes",
+    "dataInicio": "2024-03-06T09:00:00-03:00",
+    "dataFim": "2024-03-06T12:00:00-03:00",
+    "descricao": "<p>Ação social de arrecadação de alimentos não perecíveis e cadastro de doadores de medula óssea em parceria com o Hemoes, coordenada pela assistente social <b>Carla Brandão</b>.</p>",
+    "secao": "Ações de Integração"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2024-03-06T12:00:00-03:00",
+    "dataFim": "2024-03-06T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Acolhimento",
+    "lugar": "Palco do Centro de Vivência",
+    "dataInicio": "2024-03-06T17:00:00-03:00",
+    "dataFim": "2024-03-06T20:00:00-03:00",
+    "descricao": "<p>Apresentação musical com bandas formadas por discentes e apresentação especial da bateria universitária ritmada por <b>Igor Cavalcanti</b>.</p>",
+    "secao": "Ações de Integração"
+   }
+  ]
+ }
+}

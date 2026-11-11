@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00391",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Fortaleza - CE",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:49+00:00",
+ "uso_tokens": {
+  "entrada": 656,
+  "saida": 1274
+ },
+ "saida": {
+  "evento": {
+   "nome": "II Workshop Cearense de Inteligência Artificial Aplicada",
+   "local_geral": "Centro de Tecnologia, Campus do Pici - UFC, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2024-05-14T08:30:00-03:00",
+    "dataFim": "2024-05-14T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com pronunciamento do coordenador geral <b>Prof. Carlos Eduardo de Alencar</b> e autoridades locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso: Fundamentos de Deep Learning",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-05-14T10:00:00-03:00",
+    "dataFim": "2024-05-14T12:00:00-03:00",
+    "descricao": "<p>Primeira parte prática abordando redes neurais com PyTorch conduzida por <b>Dra. Mariana Rios Bezerra</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T11:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos curtos, com moderação de <b>Dr. Thiago Fernandes Pinheiro</b>. Inclui o trabalho <i>Otimização de rotas de transporte usando aprendizado por reforço</i> de <b>Renata Sales Fontenele</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso: Fundamentos de Deep Learning",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T17:00:00-03:00",
+    "descricao": "<p>Continuação do minicurso com ênfase em visão computacional e transferência de aprendizado com <b>Dra. Mariana Rios Bezerra</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": null,
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T11:30:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Modelos de Linguagem de Grande Escala para Diagnóstico Clínico</i>, ministrada pelo pesquisador <b>Dr. Arthur Queiroz de Holanda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso: LLMs e RAG na Prática",
+    "lugar": "Laboratório Multimídia 1",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Treinamento avançado de engenharia de prompt e recuperação contextual com <b>Lucas Vasconcelos Pontes</b> e <b>Beatriz Lima Mendes</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Mostra de Demos e Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-17T09:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Exibição de protótipos de hardware e software aplicados ao setor industrial cearense, com presença dos pesquisadores e avaliadores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Cândido Pamplona",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos melhores trabalhos do workshop conduzido por <b>Prof. Carlos Eduardo de Alencar</b> e <b>Dra. Mariana Rios Bezerra</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

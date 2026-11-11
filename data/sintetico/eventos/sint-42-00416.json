@@ -1,0 +1,165 @@
+{
+ "spec": {
+  "id": "sint-42-00416",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Salvador - BA",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 17,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:41+00:00",
+ "uso_tokens": {
+  "entrada": 686,
+  "saida": 2396
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Oceanografia da UFBA",
+   "local_geral": "Instituto de Geociências - Campus Ondina, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall de Entrada do Pavilhão de Aulas da Federação (PAF I)",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Yeda de Andrade",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T09:45:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora do colegiado <b>Dra. Mariana Vasconcelos</b> e o diretor do instituto <b>Prof. Carlos Alberto Sanches</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Yeda de Andrade",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T11:45:00-03:00",
+    "descricao": "<p>Apresentação do trabalho <i>Investigações oceanográficas multidisciplinares e os impactos das mudanças climáticas globais sobre os ecossistemas recifais da costa do semiárido brasileiro</i>, conduzida pelo pesquisador <b>Dr. Henrique Fontes Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:00:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina A",
+    "lugar": "Laboratório de Oceanografia Física (Lab 204)",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Atividade prática de <i>Modelagem hidrodinâmica costeira com aplicação de ferramentas em Python para análise de dados oceanográficos</i> ministrada pelo oceanógrafo <b>Lucas Menezes de Paula</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina B",
+    "lugar": "Laboratório de Microscopia e Sedimentos",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abordagem laboratorial sobre <i>Métodos de identificação taxonômica do fitoplâncton estuarino</i> com a bióloga marinha <b>Dra. Beatriz Galvão</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Pátio Interno do IGEO",
+    "dataInicio": "2027-05-19T16:00:00-03:00",
+    "dataFim": "2027-05-19T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda Temática",
+    "lugar": "Auditório Yeda de Andrade",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Poluição por microplásticos na Baía de Todos-os-Santos</i> com <b>Profa. Fernanda Teles</b> e mediação do oceanógrafo <b>Renato Neves Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Pátio Interno do IGEO",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Yeda de Andrade",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Geotecnologias aplicadas ao mapeamento do fundo marinho: desafios do sensoriamento remoto acústico e óptico de alta resolução</i> com o especialista <b>Roberto Dantas Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Pilotis do Pavilhão de Aulas",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de iniciação científica e monitoria discente sob coordenação de <b>Dra. Cecília Morais Viana</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Apresentação Oral",
+    "lugar": "Sala de Reuniões 1",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Defesa oral dos melhores artigos submetidos pelos graduandos, avaliada por <b>Prof. Eduardo Ramos</b> e <b>Profa. Juliana Barreto</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Painel de Egressos",
+    "lugar": "Auditório Yeda de Andrade",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:45:00-03:00",
+    "descricao": "<p>Conversa com ex-alunos sobre inserção no mercado de trabalho com <b>Gabriel Guimarães</b> e <b>Thaís Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break de Encerramento",
+    "lugar": "Área Verde do IGEO",
+    "dataInicio": "2027-05-21T10:45:00-03:00",
+    "dataFim": "2027-05-21T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos Científicos",
+    "lugar": "Auditório Yeda de Andrade",
+    "dataInicio": "2027-05-21T11:15:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas conduzida por <b>Dra. Mariana Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Musical de Fechamento",
+    "lugar": "Praça das Artes - PAF I",
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show com o grupo percussivo da UFBA e convidados.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

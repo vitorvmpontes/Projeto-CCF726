@@ -1,0 +1,189 @@
+{
+ "spec": {
+  "id": "sint-42-00116",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "João Pessoa - PB",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 20,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:44+00:00",
+ "uso_tokens": {
+  "entrada": 680,
+  "saida": 2971
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Nordeste 2027: Simpósio de Inovação e Sustentabilidade no Campo",
+   "local_geral": "Centro de Convenções Poeta Ronaldo Cunha Lima, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Central",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-18T09:00:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial do congresso com a conferência <i>O Futuro da Agricultura Digital e a Resiliência Climática no Semiárido</i>, ministrada pelo <b>Dr. Roberto Maranhão</b> (Embrapa Semiárido) e mediada pela <b>Profa. Dra. Samara Albuquerque</b> (UFPB).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Tecnologias Aplicadas",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2027-05-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço aberto para interação com startups agro e empresas de maquinário inteligente.</p>",
+    "secao": "Feira de Negócios"
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-18T11:00:00-03:00",
+    "dataFim": "2027-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Conectividade Rural: Internet das Coisas e Drones no Monitoramento de Safras</i>. Participação de <b>Ingrid Vasconcelos</b> (AgroDrone Brasil) e <b>Lucas Mendonça</b> (Instituto de Telecomunicações do Agreste).</p>",
+    "secao": "Trilha Conectividade e IoT"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-18T12:30:00-03:00",
+    "dataFim": "2027-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Processamento de Imagens Multiespectrais para Detecção Precoce de Pragas</i>, ministrado pelo engenheiro agrônomo <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Sala Mandacaru",
+    "dataInicio": "2027-05-18T14:30:00-03:00",
+    "dataFim": "2027-05-18T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Crédito Verde e Mercado de Carbono na Agricultura Familiar</i>, com palestras de <b>Juliana Bezerra</b> (Banco do Nordeste) e mediação de <b>Marcos Vinícius Trindade</b>.</p>",
+    "secao": "Trilha Conectividade e IoT"
+   },
+   {
+    "nome": "Pitch de Startups Agtech",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": "2027-05-18T17:30:00-03:00",
+    "descricao": "<p>Apresentação de soluções inovadoras diante de banca examinadora composta por investidores-anjo, coordenada por <b>Fernanda Paiva</b>.</p>",
+    "secao": "Feira de Negócios"
+   },
+   {
+    "nome": "Happy Hour e Networking",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2027-05-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café com Inovação",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T09:15:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Biotecnologia e Melhoramento Genético Adaptado a Estresses Hídricos</i>, conduzida pelo pesquisador <b>Dr. Henrique Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Tecnologias Aplicadas",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Visitação aberta aos estandes com demonstrações de sensores de solo e automação para irrigação de precisão.</p>",
+    "secao": "Feira de Negócios"
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios Regulatórios da Inteligência Artificial na Gestão de Propriedades Rurais</i>, com as presenças de <b>Dra. Cecília Queiroz</b>, <b>Paulo Dantas</b> e facilitação de <b>Renato Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Automação Agrícola",
+    "dataInicio": "2027-05-19T10:45:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Montagem e Calibração de Sensores de Umidade de Baixo Custo para Pequenas Propriedades</i>, com o facilitador <b>Tiago Lins</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Mezanino do Bloco B",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos de pós-graduação sobre manejo de recursos hídricos e agroecologia. Coordenação do <b>Prof. Gilberto Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups Agtech",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Segunda rodada de apresentações rápidas de negócios com foco em pós-colheita e logística reversa, com avaliação conduzida por <b>Mariana Aragão</b>.</p>",
+    "secao": "Feira de Negócios"
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T15:30:00-03:00",
+    "dataFim": "2027-05-19T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Bioinsumos e Soluções Regenerativas: Rumo à Produção Sustentável em Larga Escala</i>, contando com exposições de <b>Dr. Wallace Silveira</b> e <b>Beatriz Nogueira</b>.</p>",
+    "secao": "Trilha Conectividade e IoT"
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T17:00:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio InovaCampo 2027 aos melhores projetos e startups da feira. Condução por <b>Renato Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discursos finais proferidos pelo comitê gestor liderado pela <b>Profa. Dra. Samara Albuquerque</b> e anúncio da sede para o AgroTech 2028.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

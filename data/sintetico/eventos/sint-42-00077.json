@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-42-00077",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Londrina - PR",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "sem_horario_fim",
+   "descricoes_ricas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:12+00:00",
+ "uso_tokens": {
+  "entrada": 676,
+  "saida": 1777
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Londrina 2024",
+   "local_geral": "Parque de Exposições Ney Braga, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-21T08:00:00-03:00",
+    "dataFim": "2024-08-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-08-21T09:00:00-03:00",
+    "dataFim": "2024-08-21T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor regional <b>Carlos Eduardo Mansur</b> e da coordenadora geral <b>Heloísa Helena Ribeiro</b>, apresentando o panorama do ecossistema de inovação do Norte Pioneiro.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-08-21T10:15:00-03:00",
+    "dataFim": "2024-08-21T11:45:00-03:00",
+    "descricao": "<p>Palestra de abertura com <b>Rodrigo Sanches</b> sobre o tema <i>Transformação Digital e o Futuro dos Pequenos Negócios</i>.</p>",
+    "secao": "Painéis e Palestras de Gestão"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-08-21T12:00:00-03:00",
+    "dataFim": "2024-08-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Espaço Maker - Sala 2",
+    "dataInicio": "2024-08-21T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Capacitação ministrada por <b>Mariana Fagundes</b> abordando a oficina <i>Modelagem Ágil de Negócios com Business Model Canvas</i>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Sessão de Pitch de Startups",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2024-08-21T16:00:00-03:00",
+    "dataFim": "2024-08-21T18:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Thiago Valente</b>. Apresentação dos seguintes projetos finalistas:</p><p><i>BioAgro Inteligente</i> por <b>Renata Silveira</b> e <b>Lucas Pavan</b>;</p><p><i>LogLocal Express</i> por <b>Juliana Prado</b>;</p><p><i>FinTech Simplifica</i> por <b>Marcos Vinicius Sato</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Networking e Café de Boas-Vindas",
+    "lugar": "Hall Central",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-08-22T09:30:00-03:00",
+    "dataFim": "2024-08-22T11:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Caminhos para a Sustentabilidade e ESG nas Microempresas</i>. Moderação de <b>Vanessa Alcantara</b> com os convidados <b>Gilberto Nogueira Neto</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Painéis e Palestras de Gestão"
+   },
+   {
+    "nome": "Workshop de Finanças",
+    "lugar": "Espaço Maker - Sala 1",
+    "dataInicio": "2024-08-22T11:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Treinamento intensivo <i>Gestão de Fluxo de Caixa e Precificação Estratégica</i> conduzido pelo consultor financeiro <b>André Meireles</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-08-22T12:30:00-03:00",
+    "dataFim": "2024-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios Multissetorial",
+    "lugar": "Pavilhão Integrado",
+    "dataInicio": "2024-08-22T14:00:00-03:00",
+    "dataFim": "2024-08-22T17:00:00-03:00",
+    "descricao": "<p>Encontros B2B coordenados por <b>Patrícia Gomide</b> reunindo compradores da cadeia do agronegócio e fornecedores de tecnologia e serviços.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Master",
+    "dataInicio": "2024-08-22T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra magna <i>Liderança Humanizada e Resiliência Comercial</i> apresentada pelo especialista <b>Fernando Cestari</b> com introdução da coordenadora <b>Heloísa Helena Ribeiro</b>.</p>",
+    "secao": "Painéis e Palestras de Gestão"
+   }
+  ]
+ }
+}

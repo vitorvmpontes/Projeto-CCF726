@@ -1,0 +1,187 @@
+{
+ "spec": {
+  "id": "sint-42-00459",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "João Pessoa - PB",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 20,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:04+00:00",
+ "uso_tokens": {
+  "entrada": 638,
+  "saida": 3042
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Mar & Raízes 2024",
+   "local_geral": "Espaço Cultural José Lins do Rego, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Feira de Economia Criativa",
+    "lugar": "Praça do Povo",
+    "dataInicio": "2024-11-15T09:00:00-03:00",
+    "dataFim": "2024-11-15T12:00:00-03:00",
+    "descricao": "<p>Abertura dos estandes de artesanato paraibano e gastronomia regional com a coordenação de <b>Maria do Carmo Silveira</b>.</p>",
+    "secao": "Feira & Exposições"
+   },
+   {
+    "nome": "Abertura da Exposição Fotográfica",
+    "lugar": "Galeria Archidy Picado",
+    "dataInicio": "2024-11-15T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição <i>Retratos das Marés: O Cotidiano das Marisqueiras da Paraíba</i>, com fotografias de <b>Tiago Rezende</b> e curadoria de <b>Luciana Farias</b>.</p>",
+    "secao": "Feira & Exposições"
+   },
+   {
+    "nome": "Oficina de Percussão Nordestina",
+    "lugar": "Sala de Dança 1",
+    "dataInicio": "2024-11-15T10:00:00-03:00",
+    "dataFim": "2024-11-15T12:00:00-03:00",
+    "descricao": "<p>Prática de ritmos tradicionais como coco de roda, ciranda e maracatu com o mestre <b>Chico Gomes</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina de Xilogravura Popular",
+    "lugar": "Ateliê de Artes Visuais",
+    "dataInicio": "2024-11-15T10:30:00-03:00",
+    "dataFim": "2024-11-15T12:30:00-03:00",
+    "descricao": "<p>Vivência prática de corte e impressão ministrada pelo gravador <b>Severino Batista</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Auditório Paulo Pontes",
+    "dataInicio": "2024-11-15T14:00:00-03:00",
+    "dataFim": "2024-11-15T15:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Preservação do Patrimônio Imaterial e Resistência Cultural</i>, com participação de <b>Dona Cida do Coco</b> e mediação do professor <b>Henrique Albuquerque</b>.</p>",
+    "secao": "Debates e Diálogos"
+   },
+   {
+    "nome": "Exibição de Curtas Paraibanos",
+    "lugar": "Cine Banguê",
+    "dataInicio": "2024-11-15T15:00:00-03:00",
+    "dataFim": "2024-11-15T17:00:00-03:00",
+    "descricao": "<p>Sessão especial com os curtas <i>Ventos da Borborema</i>, dirigido por <b>Renata Meireles</b>, e <i>Memórias Submersas</i>, de <b>Gabriel Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Danças Tradicionais",
+    "lugar": "Sala de Dança 2",
+    "dataInicio": "2024-11-15T16:00:00-03:00",
+    "dataFim": "2024-11-15T18:00:00-03:00",
+    "descricao": "<p>Passos e corporalidade do frevo e do xaxado orientados pela bailarina <b>Aline Medeiros</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Apresentação de Cordel e Repente",
+    "lugar": "Arena Teatro",
+    "dataInicio": "2024-11-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Duelo lírico e declamação com os poetas <b>Valdir Teles</b> e <b>Erivaldo Ferreira</b>.</p>",
+    "secao": "Programação Musical e Cênica"
+   },
+   {
+    "nome": "Show Musical 1",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-11-15T19:00:00-03:00",
+    "dataFim": "2024-11-15T20:30:00-03:00",
+    "descricao": "<p>Espetáculo <i>Sons da Areia</i> com o grupo <b>Banda Canto da Praia</b> e participação especial de <b>Socorro Lira</b>.</p>",
+    "secao": "Programação Musical e Cênica"
+   },
+   {
+    "nome": "Show Musical 2",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-11-15T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de encerramento do primeiro dia com <b>Totonho e os Cabra</b> interpretando faixas clássicas do cancioneiro experimental paraibano.</p>",
+    "secao": "Programação Musical e Cênica"
+   },
+   {
+    "nome": "Encontro de Mestres da Capoeira Angola",
+    "lugar": "Praça do Povo",
+    "dataInicio": "2024-11-16T09:00:00-03:00",
+    "dataFim": "2024-11-16T11:00:00-03:00",
+    "descricao": "<p>Roda aberta e celebração ancestral com condução de <b>Mestre Cascão</b> e convidados da Paraíba e Pernambuco.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Culinária Afrodiaspórica",
+    "lugar": "Cozinha Experimental",
+    "dataInicio": "2024-11-16T09:30:00-03:00",
+    "dataFim": "2024-11-16T12:00:00-03:00",
+    "descricao": "<p>Preparo de pratos com frutos do mar e raízes sertanejas conduzido pela chef <b>Kalina Amorim</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Lançamento Coletivo de Livros",
+    "lugar": "Mezanino 2",
+    "dataInicio": "2024-11-16T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos das obras <i>Canto de Maré Alta</i>, de <b>Beatriz Mendonça</b>, e <i>Crônicas Pessoenses</i>, de <b>Otávio Leitão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Auditório Paulo Pontes",
+    "dataInicio": "2024-11-16T14:00:00-03:00",
+    "dataFim": "2024-11-16T15:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>A Nova Cena da Música Autoral Nordestina</i>, reunindo a produtora <b>Flávia Maia</b> e o compositor <b>Lucas Dantas</b>.</p>",
+    "secao": "Debates e Diálogos"
+   },
+   {
+    "nome": "Espetáculo Teatral de Rua",
+    "lugar": "Área Externa",
+    "dataInicio": "2024-11-16T16:00:00-03:00",
+    "dataFim": "2024-11-16T17:15:00-03:00",
+    "descricao": "<p>Apresentação da peça <i>O Pavão Misterioso do Sertão</i> com o grupo <b>Teatro Experimental de Guarabira</b>, sob direção de <b>Wellington Costa</b>.</p>",
+    "secao": "Programação Musical e Cênica"
+   },
+   {
+    "nome": "Cortejo de Maracatu e Ciranda",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-11-16T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Arrasto popular pelas alamedas do Espaço Cultural com a <b>Nação Maracatu Pé de Elefante</b>.</p>",
+    "secao": "Programação Musical e Cênica"
+   },
+   {
+    "nome": "Premiação do Concurso de Artes Visuais",
+    "lugar": "Auditório Paulo Pontes",
+    "dataInicio": "2024-11-16T18:30:00-03:00",
+    "dataFim": "2024-11-16T19:30:00-03:00",
+    "descricao": "<p>Anúncio das três obras vencedoras do edital Novos Talentos Paraibanos, com entrega dos troféus realizada por <b>Danielle Coutinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical 3",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-11-16T20:00:00-03:00",
+    "dataFim": "2024-11-16T21:15:00-03:00",
+    "descricao": "<p>Show autoral <i>Alento</i> da cantora <b>Nathalia Bellar</b>.</p>",
+    "secao": "Programação Musical e Cênica"
+   },
+   {
+    "nome": "Show Musical 4",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-11-16T21:45:00-03:00",
+    "dataFim": "2024-11-16T23:00:00-03:00",
+    "descricao": "<p>Apresentação do instrumentista e sanfoneiro <b>Mestrinho</b> com repertório de forró tradicional e jazz nordestino.</p>",
+    "secao": "Programação Musical e Cênica"
+   },
+   {
+    "nome": "Baile de Encerramento",
+    "lugar": "Praça do Povo",
+    "dataInicio": "2024-11-16T23:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discotecagem tropicalista com repertório de ritmos caribenhos e paraibanos pelo <b>DJ Samir</b>.</p>",
+    "secao": "Programação Musical e Cênica"
+   }
+  ]
+ }
+}

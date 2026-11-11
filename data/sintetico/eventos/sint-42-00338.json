@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-42-00338",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Natal - RN",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:46+00:00",
+ "uso_tokens": {
+  "entrada": 667,
+  "saida": 1542
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Nordeste 2023: Inovação e Sustentabilidade no Semiárido",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-vindas",
+    "lugar": null,
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:00:00-03:00",
+    "descricao": "<p>Acolhimento dos participantes e entrega de crachás institucionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Potiguar",
+    "dataInicio": "2023-10-18T09:00:00-03:00",
+    "dataFim": "2023-10-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Conectividade no Campo e a Revolução das AgTechs no Nordeste</i> conduzida por <b>Dr. Marcelo Albuquerque</b> (Embrapa Semiárido).</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Circuito de Demonstração Tecnológica",
+    "lugar": "Espaço Agrofuturo",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": "<p>Apresentação prática de drones aplicadores de defensivos biológicos sob coordenação de <b>Larissa Medeiros</b>.</p>",
+    "secao": "Mostra de Inovação"
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Sala Mandacaru",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos <i>Manejo Hídrico Inteligente na Fruticultura Irrigada</i> por <b>Renata Vasconcelos</b> e <i>Sensoriamento Remoto Aplicado a Pastagens</i> por <b>Felipe Castelo Branco</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": "Sala Caatinga",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": "<p>Discussão do artigo <i>Biotecnologia e Fermentação para Alimentação Animal</i> pelo pesquisador <b>Igor Mendonça</b> e moderação de <b>Dra. Simone Galvão</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Rodada de Negócios e Investimentos",
+    "lugar": null,
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:00:00-03:00",
+    "descricao": "<p>Encontro entre fundos de venture capital e startups rurais potiguares organizado por <b>Carla Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Circuito de Demonstração Tecnológica",
+    "lugar": "Área Externa - Lote Demonstrativo",
+    "dataInicio": "2023-10-19T15:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Demonstração de sensores IoT para análise de solo em tempo real pelo engenheiro agrônomo <b>Thiago Paiva</b>.</p>",
+    "secao": "Mostra de Inovação"
+   },
+   {
+    "nome": "Consultoria Aberta para Startups",
+    "lugar": null,
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Potiguar",
+    "dataInicio": "2023-10-20T10:00:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>O Futuro do Agronegócio Sustentável e Crédito de Carbono</i> com os convidados <b>Beatriz Fontes</b> e <b>Jorge Linhares</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Premiação AgroInova RN",
+    "lugar": "Auditório Potiguar",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Anúncio das soluções vencedoras do hackathon rural sob condução de <b>Rodrigo Farias</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

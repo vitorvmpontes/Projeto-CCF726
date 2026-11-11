@@ -1,0 +1,310 @@
+{
+ "spec": {
+  "id": "sint-42-00253",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Goiânia - GO",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 35,
+  "casos": [
+   "nomes_repetidos",
+   "subtitulo_separado",
+   "titulos_longos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:43+00:00",
+ "uso_tokens": {
+  "entrada": 718,
+  "saida": 5118
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Cerrado Vivo de Arte e Cultura Popular 2025",
+   "local_geral": "Centro Cultural Oscar Niemeyer, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Feira Gastronômica",
+    "lugar": "Esplanada Juscelino Kubitschek",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T22:00:00-03:00",
+    "descricao": "<p>Abertura do espaço com estandes gastronômicos regionais e feira de artesanato tradicional goiano sob curadoria de <b>Dona Florinda Chaves</b>.</p>",
+    "secao": "Feira e Gastronomia"
+   },
+   {
+    "nome": "Exposição Fotográfica Olhares do Sertão",
+    "lugar": "Galeria Principal",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T21:00:00-03:00",
+    "descricao": "<p>Mostra com registros da fauna, flora e povos originários de Goiás. Curadoria de <b>Lucas Evangelista</b> e <b>Maria Antônia Silveira</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Cerâmica Tradicional",
+    "lugar": "Tenda das Artes 1",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Módulo iniciante: <i>Modelagem Básica em Barro Vermelho do Vale da Serra</i>. Ministrada pela artesã <b>Mestre Sebastiana Martins</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina de Dança Afro-Brasileira",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": "2025-05-16T17:30:00-03:00",
+    "descricao": "<p>Vivência prática de ritmos e passos de matriz africana com o bailarino <b>Tiago Oladipo</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Mesa de Debate 1",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas Públicas de Fomento à Cultura de Base Comunitária no Planalto Central</i>. Coordenação de <b>Renata Pimentel</b>, com falas de <b>Carlos Henrique Duarte</b> e <b>Edivaldo Santana</b>.</p>",
+    "secao": "Encontros e Debates"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2025-05-16T18:30:00-03:00",
+    "dataFim": "2025-05-16T20:00:00-03:00",
+    "descricao": "<p>Conferência especial com o título: <i>Memórias, oralidades e insurgências: caminhos para a preservação histórica do patrimônio imaterial das comunidades quilombolas do Centro-Oeste brasileiro contemporâneo</i>. Apresentada pelo professor e pesquisador <b>Dr. Ailton Ferreira de Souza</b> sob moderação de <b>Marina Toledo</b>.</p>",
+    "secao": "Encontros e Debates"
+   },
+   {
+    "nome": "Cortejo Folclórico de Catira",
+    "lugar": "Esplanada Juscelino Kubitschek",
+    "dataInicio": "2025-05-16T19:00:00-03:00",
+    "dataFim": "2025-05-16T20:00:00-03:00",
+    "descricao": "<p>Apresentação itinerante com o grupo <i>Os Pioneiros de Trindade</i>, coordenado pelo mestre catireiro <b>Valdir Camargo</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Ipê Amarelo",
+    "dataInicio": "2025-05-16T20:30:00-03:00",
+    "dataFim": "2025-05-16T22:00:00-03:00",
+    "descricao": "<p>Espetáculo <i>Raízes e Cordas</i>, com a violeira <b>Brisa de Jesus</b> acompanhada pelo contrabaixista <b>Felipe Gonzaga</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Ipê Amarelo",
+    "dataInicio": "2025-05-16T22:30:00-03:00",
+    "dataFim": "2025-05-17T00:00:00-03:00",
+    "descricao": "<p>Apresentação da banda de MPB psicodélica <i>Boitatá Urbano</i>, com participação especial do percussionista <b>Damião Silva</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Abertura dos Portões e Feira Gastronômica",
+    "lugar": "Esplanada Juscelino Kubitschek",
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T22:00:00-03:00",
+    "descricao": "<p>Continuação da feira gastronômica e economia criativa com curadoria de <b>Dona Florinda Chaves</b>.</p>",
+    "secao": "Feira e Gastronomia"
+   },
+   {
+    "nome": "Exposição Fotográfica Olhares do Sertão",
+    "lugar": "Galeria Principal",
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T21:00:00-03:00",
+    "descricao": "<p>Mostra aberta para visitação pública mediada pelos monitores <b>Guilherme Prado</b> e <b>Camila Siqueira</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Contação de Histórias Infantis",
+    "lugar": "Espaço Curumim",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Histórias do folclore goiano contadas pela atriz <b>Clarice Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Cerâmica Tradicional",
+    "lugar": "Tenda das Artes 1",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T13:00:00-03:00",
+    "descricao": "<p>Módulo intermediário: <i>Esmaltação Natural com Pigmentos Minerais Locais</i>. Ministrada por <b>Mestre Sebastiana Martins</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-17T13:00:00-03:00",
+    "dataFim": "2025-05-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Dança Afro-Brasileira",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2025-05-17T14:30:00-03:00",
+    "dataFim": "2025-05-17T16:30:00-03:00",
+    "descricao": "<p>Módulo prático continuado com o bailarino <b>Tiago Oladipo</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina de Escrita Criativa",
+    "lugar": "Biblioteca Setorial",
+    "dataInicio": "2025-05-17T15:00:00-03:00",
+    "dataFim": "2025-05-17T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Cartografias Poéticas e Narrativas da Paisagem do Cerrado</i>, com a escritora <b>Helena Castello Branco</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Tenda Literária",
+    "dataInicio": "2025-05-17T15:30:00-03:00",
+    "dataFim": "2025-05-17T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Literatura Periférica e Circulação Autoral no Centro-Oeste</i>. Mediação de <b>Rodrigo Vasconcelos</b> com os autores <b>Bia Rezende</b> e <b>Cássio Maciel</b>.</p>",
+    "secao": "Encontros e Debates"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2025-05-17T16:30:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": "<p>Título da apresentação: <i>Desafios contemporâneos para a sustentabilidade e circulação independente da produção artística autoral em cidades fora dos grandes eixos metropolitanos</i>. Convidada principal: <b>Dra. Juliana Brandão Meireles</b>, com mediação de <b>Fábio Nogueira</b>.</p>",
+    "secao": "Encontros e Debates"
+   },
+   {
+    "nome": "Mostra de Curtas Goianos",
+    "lugar": "Cinema Memorial",
+    "dataInicio": "2025-05-17T17:00:00-03:00",
+    "dataFim": "2025-05-17T19:00:00-03:00",
+    "descricao": "<p>Exibição e debate com realizadores. Coordenação de <b>Patrícia Albernaz</b>.<br>Filmes exibidos: <i>Vento na Vereda</i> de <b>Otávio Mendes</b>, <i>Barro Encantado</i> de <b>Joana Rios</b> e <i>Águas Emendadas</i> de <b>Marcelo Pires</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Cortejo de Folia de Reis",
+    "lugar": "Esplanada Juscelino Kubitschek",
+    "dataInicio": "2025-05-17T18:30:00-03:00",
+    "dataFim": "2025-05-17T19:30:00-03:00",
+    "descricao": "<p>Celebração tradicional liderada pelo <b>Capitão Romualdo Bento</b> com o grupo Estrela do Oriente.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Ipê Amarelo",
+    "dataInicio": "2025-05-17T20:00:00-03:00",
+    "dataFim": "2025-05-17T21:30:00-03:00",
+    "descricao": "<p>Apresentação do cantautor <b>Danilo Queiroz</b> com o show <i>Cantares das Gerais e Goyazes</i>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Ipê Amarelo",
+    "dataInicio": "2025-05-17T22:00:00-03:00",
+    "dataFim": "2025-05-17T23:30:00-03:00",
+    "descricao": "<p>Concerto da orquestra popular <i>Sinfonia do Cerrado</i> regida pela maestrina <b>Fernanda Bittencourt</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Abertura dos Portões e Feira Gastronômica",
+    "lugar": "Esplanada Juscelino Kubitschek",
+    "dataInicio": "2025-05-18T10:00:00-03:00",
+    "dataFim": "2025-05-18T21:00:00-03:00",
+    "descricao": "<p>Último dia da feira de delícias da culinária goiana coordenada por <b>Dona Florinda Chaves</b>.</p>",
+    "secao": "Feira e Gastronomia"
+   },
+   {
+    "nome": "Exposição Fotográfica Olhares do Sertão",
+    "lugar": "Galeria Principal",
+    "dataInicio": "2025-05-18T10:00:00-03:00",
+    "dataFim": "2025-05-18T20:00:00-03:00",
+    "descricao": "<p>Último dia de visitação com a presença dos fotógrafos expositores <b>Lucas Evangelista</b> e <b>Maria Antônia Silveira</b>.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Percussão em Ritmos Regionais",
+    "lugar": "Tenda das Artes 2",
+    "dataInicio": "2025-05-18T10:30:00-03:00",
+    "dataFim": "2025-05-18T12:30:00-03:00",
+    "descricao": "<p>Prática de zabumba, pandeiro e caixa ministrada pelo músico <b>Geraldo Batucada</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Contação de Histórias Infantis",
+    "lugar": "Espaço Curumim",
+    "dataInicio": "2025-05-18T11:00:00-03:00",
+    "dataFim": "2025-05-18T12:00:00-03:00",
+    "descricao": "<p>Sessão interativa com bonecos conduzida pelo animador cultural <b>Jonas Paixão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-18T12:30:00-03:00",
+    "dataFim": "2025-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 2",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2025-05-18T14:00:00-03:00",
+    "dataFim": "2025-05-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Sustentabilidade dos Saberes Tradicionais e Propriedade Coletiva</i>. Coordenador: <b>Vicente Godoi</b>. Debatedores: <b>Raquel Xavante</b> e <b>Osmar Guimarães</b>.</p>",
+    "secao": "Encontros e Debates"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2025-05-18T15:45:00-03:00",
+    "dataFim": "2025-05-18T17:15:00-03:00",
+    "descricao": "<p>Título completo da conferência: <i>Reflexões antropológicas sobre a transformação das manifestações festivas religiosas em patrimônios culturais de grande porte no interior do estado de Goiás</i>. Palestrante: <b>Prof. Gilberto Assunção</b>. Mediação: <b>Renata Pimentel</b>.</p>",
+    "secao": "Encontros e Debates"
+   },
+   {
+    "nome": "Apresentação Teatral de Rua",
+    "lugar": "Esplanada Juscelino Kubitschek",
+    "dataInicio": "2025-05-18T16:00:00-03:00",
+    "dataFim": "2025-05-18T17:15:00-03:00",
+    "descricao": "<p>Espetáculo <i>O Encantado do Rio Vermelho</i> encenado pelo coletivo <i>Cena Aberta</i> com direção de <b>Talita Bueno</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Sessão de Pôsteres Culturais",
+    "lugar": "Saguão Nobre",
+    "dataInicio": "2025-05-18T16:30:00-03:00",
+    "dataFim": "2025-05-18T18:00:00-03:00",
+    "descricao": "<p>Exposição e avaliação de pesquisas extensionistas. Coordenação de <b>Profª Sônia Lacerda</b>.<br>Trabalhos em painel: <i>Mapeamento das fiandeiras de Goiás Velho</i> por <b>Ana Clara Neves</b>; <i>Batuque e resistência em Cavalcante</i> por <b>Pedro Henrique Alencar</b>; <i>Plantas medicinais nos quintais de Pirenópolis</i> por <b>Letícia Correia</b>.</p>",
+    "secao": "Encontros e Debates"
+   },
+   {
+    "nome": "Cortejo Folclórico de Catira",
+    "lugar": "Esplanada Juscelino Kubitschek",
+    "dataInicio": "2025-05-18T17:30:00-03:00",
+    "dataFim": "2025-05-18T18:30:00-03:00",
+    "descricao": "<p>Apresentação de encerramento do circuito popular com os grupos <i>Os Pioneiros de Trindade</i> e <i>Pisa Mole</i> liderados por <b>Valdir Camargo</b> e <b>Sebastião Justino</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Ipê Amarelo",
+    "dataInicio": "2025-05-18T18:30:00-03:00",
+    "dataFim": "2025-05-18T20:00:00-03:00",
+    "descricao": "<p>Apresentação autoral da cantora e compositora <b>Iara Magalhães</b> com repertório do álbum <i>Canto Profundo</i>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Lygia Rassi",
+    "dataInicio": "2025-05-18T20:00:00-03:00",
+    "dataFim": "2025-05-18T21:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Mestre da Cultura Cerratense e falas de encerramento pelo diretor do festival <b>Álvaro Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical",
+    "lugar": "Palco Ipê Amarelo",
+    "dataInicio": "2025-05-18T21:00:00-03:00",
+    "dataFim": "2025-05-18T22:30:00-03:00",
+    "descricao": "<p>Grande show de encerramento com o grupo folclórico e instrumental <i>Tambores do Tocantins</i> sob direção de <b>Márcio Bello</b>.</p>",
+    "secao": "Programação Cultural"
+   }
+  ]
+ }
+}

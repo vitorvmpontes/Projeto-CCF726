@@ -1,0 +1,94 @@
+{
+ "spec": {
+  "id": "sint-42-00048",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Viçosa - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "titulos_longos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:51+00:00",
+ "uso_tokens": {
+  "entrada": 708,
+  "saida": 1202
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Fórum de Autoavaliação Institucional da CPA",
+   "local_geral": "Centro de Ensino e Desenvolvimento Agrário de Viçosa, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Materiais",
+    "lugar": "Hall de Entrada do Auditório Central",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura e Boas-Vindas",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral <b>Marcos Vinícius Silveira</b> com participação da pró-reitora <b>Helena Castro Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2026-05-14T09:15:00-03:00",
+    "dataFim": "2026-05-14T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios contemporâneos na consolidação de indicadores quantitativos e qualitativos para a melhoria continuada da qualidade acadêmica e gestão participativa</i>, ministrada pela pesquisadora convidada <b>Renata Albuquerque Fontes</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Plantão de Dúvidas da CPA",
+    "lugar": "Sala de Reuniões 102",
+    "dataInicio": "2026-05-14T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço para esclarecimento de dúvidas pontuais de representantes docentes e discentes com a técnica <b>Clara Menezes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T15:30:00-03:00",
+    "descricao": "<p>Exposição do tema <i>Instrumentos avaliativos e engajamento discente no aperfeiçoamento das práticas pedagógicas e das políticas de infraestrutura no ensino superior público</i> com o professor <b>Lucas Meireles Brandão</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2026-05-14T15:45:00-03:00",
+    "dataFim": "2026-05-14T17:00:00-03:00",
+    "descricao": "<p>Debate sobre o envolvimento do corpo técnico-administrativo nos relatórios de autoavaliação, mediado por <b>Patrícia Nogueira</b> e <b>Jorge Tadeu Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Dúvidas da CPA",
+    "lugar": null,
+    "dataInicio": "2026-05-14T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atendimento aos participantes com foco na submissão de relatórios setoriais orientado por <b>Clara Menezes</b> e <b>Rodrigo Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Encaminhamentos e Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-14T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Síntese das propostas prioritárias para o plano de desenvolvimento institucional liderada por <b>Marcos Vinícius Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

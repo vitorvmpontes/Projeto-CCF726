@@ -1,0 +1,187 @@
+{
+ "spec": {
+  "id": "sint-42-00418",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 20,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:52+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 3089
+ },
+ "saida": {
+  "evento": {
+   "nome": "28ª Mostra de Extensão Universitária da UFRGS",
+   "local_geral": "Campus Centro da UFRGS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Hall do Salão de Atos",
+    "dataInicio": "2027-10-18T08:30:00-03:00",
+    "dataFim": "2027-10-18T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Salão de Atos",
+    "dataInicio": "2027-10-18T10:00:00-03:00",
+    "dataFim": "2027-10-18T12:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Reitor <b>Carlos Alexandre Netto</b> e da Pró-Reitora de Extensão <b>Patrícia Dorneles</b>. Apresentação musical do <i>Coral da UFRGS</i> sob regência de <b>Lucas Alves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": null,
+    "dataInicio": "2027-10-18T14:00:00-03:00",
+    "dataFim": "2027-10-18T16:00:00-03:00",
+    "descricao": "<p>Apresentação oral dos projetos da área de Direitos Humanos e Justiça. Avaliação conduzida por <b>Mariana Fagundes</b> e <b>Jorge Alberto Silveira</b>.</p>",
+    "secao": "Sessões Temáticas de Extensão"
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": null,
+    "dataInicio": "2027-10-18T16:30:00-03:00",
+    "dataFim": "2027-10-18T18:30:00-03:00",
+    "descricao": "<p>Apresentações voltadas ao eixo de Comunicação e Cultura popular. Debatedor convidado: <b>Rafael Nogueira</b>.</p>",
+    "secao": "Sessões Temáticas de Extensão"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala 302 do Prédio Centenário",
+    "dataInicio": "2027-10-19T09:00:00-03:00",
+    "dataFim": "2027-10-19T12:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Mapeamento Colaborativo e Cartografia Social para Comunidades Tradicionais</i>, ministrada por <b>Camila Duarte Pires</b> e <b>Rodrigo Guimarães</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2027-10-19T14:00:00-03:00",
+    "dataFim": "2027-10-19T16:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Extensão Universitária nos Territórios Periféricos: Desafios e Alianças</i>, mediada por <b>Vanessa Medeiros</b>, com relatos de lideranças comunitárias representadas por <b>Dona Iara dos Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Pátio do Instituto de Artes",
+    "dataInicio": "2027-10-19T17:00:00-03:00",
+    "dataFim": "2027-10-19T18:00:00-03:00",
+    "descricao": "<p>Performance <i>Tambores da Cidade Baixa</i> com o grupo percussivo coordenado por <b>Mestre Tiago da Silva</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Sessão de Painéis Interativos 1",
+    "lugar": "Térreo do Anexo I",
+    "dataInicio": "2027-10-20T08:30:00-03:00",
+    "dataFim": "2027-10-20T11:30:00-03:00",
+    "descricao": "<p>Mostra visual de ações em Educação Básica. Coordenação de <b>Luciana Becker</b>.</p>",
+    "secao": "Mostra de Banners e Pôsteres"
+   },
+   {
+    "nome": "Almoço Coletivo",
+    "lugar": null,
+    "dataInicio": "2027-10-20T12:00:00-03:00",
+    "dataFim": "2027-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 3",
+    "lugar": null,
+    "dataInicio": "2027-10-20T14:00:00-03:00",
+    "dataFim": "2027-10-20T16:00:00-03:00",
+    "descricao": "<p>Eixo Meio Ambiente e Sustentabilidade Urbana. Avaliação sob responsabilidade de <b>Eduardo Meneghetti</b>.</p>",
+    "secao": "Sessões Temáticas de Extensão"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Laboratório de Informática 4",
+    "dataInicio": "2027-10-20T16:30:00-03:00",
+    "dataFim": "2027-10-20T18:30:00-03:00",
+    "descricao": "<p>Capacitação <i>Desenvolvimento de Podcasts Educativos para Escolas Públicas</i>, ministrada por <b>Fernando Bittencourt</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala 105 da Faculdade de Educação",
+    "dataInicio": "2027-10-21T09:00:00-03:00",
+    "dataFim": "2027-10-21T11:30:00-03:00",
+    "descricao": "<p>Atividade <i>Brinquedoteca Comunitária: Práticas Lúdicas na Formação Docente</i>, facilitada por <b>Aline Fagundes Rocha</b> e <b>Beatriz Klein</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Feira de Economia Solidária",
+    "lugar": "Largo da Reitoria",
+    "dataInicio": "2027-10-21T10:00:00-03:00",
+    "dataFim": "2027-10-21T17:00:00-03:00",
+    "descricao": "<p>Exposição e comercialização de produtos artesanais e agroecológicos desenvolvidos por cooperativas apoiadas pela incubadora social da universidade. Organização de <b>Gisele Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 4",
+    "lugar": null,
+    "dataInicio": "2027-10-21T14:00:00-03:00",
+    "dataFim": "2027-10-21T16:00:00-03:00",
+    "descricao": "<p>Projetos da área de Saúde Coletiva e Envelhecimento Saudável. Avaliadores: <b>Márcio Vinícius Ramos</b> e <b>Cláudia Peixoto</b>.</p>",
+    "secao": "Sessões Temáticas de Extensão"
+   },
+   {
+    "nome": "Sessão de Painéis Interativos 2",
+    "lugar": "Térreo do Anexo I",
+    "dataInicio": "2027-10-21T16:00:00-03:00",
+    "dataFim": "2027-10-21T18:00:00-03:00",
+    "descricao": "<p>Apresentação em formato pôster de projetos vinculados à Tecnologia Social e Trabalho. Coordenação de <b>Guilherme Azeredo</b>.</p>",
+    "secao": "Mostra de Banners e Pôsteres"
+   },
+   {
+    "nome": "Mostra Audiovisual Universitária",
+    "lugar": "Auditório da FACED",
+    "dataInicio": "2027-10-21T18:30:00-03:00",
+    "dataFim": "2027-10-21T20:30:00-03:00",
+    "descricao": "<p>Exibição de curtas-metragens e documentários produzidos em projetos extensionistas, com debate mediado pela cineasta <b>Letícia Bortolini</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Debate Integrador",
+    "lugar": null,
+    "dataInicio": "2027-10-22T09:00:00-03:00",
+    "dataFim": "2027-10-22T11:00:00-03:00",
+    "descricao": "<p>Painel <i>A Curricularização da Extensão: Balanço e Perspectivas para 2030</i>, coordenado por <b>Sérgio Castilhos</b> com exposições de <b>Denise Fontana</b> e <b>Mário Quintana Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Bolsistas",
+    "lugar": null,
+    "dataInicio": "2027-10-22T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço de troca de experiências entre estudantes bolsistas e voluntários de extensão. Condução do Diretório Central dos Estudantes com mediação de <b>Laura Zanella</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Salão de Atos",
+    "dataInicio": "2027-10-22T14:30:00-03:00",
+    "dataFim": "2027-10-22T16:00:00-03:00",
+    "descricao": "<p>Entrega do <i>Prêmio Destaque de Extensão Comunitária 2027</i> aos trabalhos mais relevantes de cada área temática. Apresentação por <b>Patrícia Dorneles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização de Encerramento",
+    "lugar": "Bosque dos Professores",
+    "dataInicio": "2027-10-22T16:30:00-03:00",
+    "dataFim": "2027-10-22T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

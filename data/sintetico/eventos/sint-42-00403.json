@@ -1,0 +1,123 @@
+{
+ "spec": {
+  "id": "sint-42-00403",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:40+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 1734
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Rio 2026",
+   "local_geral": "Centro de Convenções SulAmérica, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-20T08:30:00-03:00",
+    "dataFim": "2026-05-20T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Arena Principal",
+    "dataInicio": "2026-05-20T09:30:00-03:00",
+    "dataFim": "2026-05-20T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor superintendente <b>Antônio Carlos Alcantara</b> e autoridades convidadas para debater o cenário econômico fluminense.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Principal",
+    "dataInicio": "2026-05-20T10:30:00-03:00",
+    "dataFim": "2026-05-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação <i>Inovação Disruptiva para Pequenos Negócios</i> conduzida por <b>Mariana Vasconcelos</b>, abordando caminhos práticos para a transformação digital.</p>",
+    "secao": "Ciclo de Palestras Magna"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala Sandbox A",
+    "dataInicio": "2026-05-20T11:00:00-03:00",
+    "dataFim": "2026-05-20T12:30:00-03:00",
+    "descricao": "<p>Treinamento intensivo sobre <i>Precificação Estratégica e Gestão de Fluxo de Caixa</i> com o consultor financeiro <b>Rodrigo Peixoto</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala Sandbox B",
+    "dataInicio": "2026-05-20T11:00:00-03:00",
+    "dataFim": "2026-05-20T12:30:00-03:00",
+    "descricao": "<p>Capacitação voltada a <i>Presença Digital e Vendas por Redes Sociais</i> ministrada pela especialista <b>Camila Duarte</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Palco Conexões",
+    "dataInicio": "2026-05-20T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre <i>Economia Criativa e Negócios de Impacto nas Favelas Cariocas</i> com a participação de <b>Renan Lacerda</b> e <b>Taís Menezes</b>.</p>",
+    "secao": "Ciclo de Palestras Magna"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2026-05-20T13:00:00-03:00",
+    "dataFim": "2026-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios Multissetorial",
+    "lugar": "Espaço B2B",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T16:00:00-03:00",
+    "descricao": "<p>Encontro de compradores e fornecedores com mediação técnica conduzida por <b>Juliana Figueiredo</b> e apoio dos agentes locais de inovação.</p>",
+    "secao": "Oportunidades de Mercado"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena Startup Rio",
+    "dataInicio": "2026-05-20T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentações rápidas de soluções tecnológicas em <i>Batalha de Pitch: Soluções para o Varejo</i> avaliadas pelos investidores <b>Eduardo Farias</b> e <b>Beatriz Brandão</b>.</p>",
+    "secao": "Oportunidades de Mercado"
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Sala Sandbox A",
+    "dataInicio": "2026-05-20T16:15:00-03:00",
+    "dataFim": "2026-05-20T17:45:00-03:00",
+    "descricao": "<p>Workshop <i>Modelagem de Negócios com Canvas Ágil</i> facilitado pelo consultor <b>Henrique Vianna</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Arena Principal",
+    "dataInicio": "2026-05-20T18:00:00-03:00",
+    "dataFim": "2026-05-20T19:15:00-03:00",
+    "descricao": "<p>Conferência especial <i>Liderança Humanizada e Resiliência nos Negócios</i> proferida por <b>Clarice Prado</b>.</p>",
+    "secao": "Ciclo de Palestras Magna"
+   },
+   {
+    "nome": "Coquetel de Networking",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-20T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-42-00113",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "titulos_longos",
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:14+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 748
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae MS 2024",
+   "local_geral": "Centro de Convenções e Exposições Albano Franco, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina Prática de Modelagem Financeira",
+    "lugar": "Espaço Conexão - Sala Pantanal",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Aprenda a estruturar o fluxo de caixa do seu negócio com a consultora <b>Mariana Siqueira Castro</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Palestra Estratégica de Expansão e Competitividade no Mercado Regional e Nacional com Foco em Soluções Tecnológicas Sustentáveis e Inovação Contínua",
+    "lugar": null,
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Palestra magna com <b>Carlos Eduardo Albuquerque</b> abordando <i>A Reestruturação dos Negócios Tradicionais Frente às Novas Demandas da Bioeconomia e Transformação Digital</i>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Oficina Prática de Modelagem Financeira",
+    "lugar": null,
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T11:30:00-03:00",
+    "descricao": "<p>Segunda turma da atividade focada em planejamento orçamentário para micro e pequenas empresas, ministrada por <b>Mariana Siqueira Castro</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel de Discussão sobre os Desafios Práticos do Crédito e Linhas de Financiamento Destinados a Negócios Rurais e Startups do Centro-Oeste",
+    "lugar": null,
+    "dataInicio": "2024-05-18T15:00:00-03:00",
+    "dataFim": "2024-05-18T16:45:00-03:00",
+    "descricao": "<p>Debate conduzido por <b>Renato Vargas Mendes</b> e <b>Luciana Prado Taveira</b> sobre <i>Otimização do Acesso aos Recursos de Fomento Regional</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

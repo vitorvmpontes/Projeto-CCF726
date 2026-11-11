@@ -1,0 +1,227 @@
+{
+ "spec": {
+  "id": "sint-42-00488",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Viçosa - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:35+00:00",
+ "uso_tokens": {
+  "entrada": 657,
+  "saida": 3848
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Semana Acadêmica da Agronomia",
+   "local_geral": "Universidade Federal de Viçosa (UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall do Edifício Arthur Bernardes",
+    "dataInicio": "2023-10-18T07:30:00-03:00",
+    "dataFim": "2023-10-18T08:30:00-03:00",
+    "descricao": "<p>Boas-vindas aos participantes e distribuição dos crachás e pastas do evento com coordenação de <b>Juliana Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2023-10-18T08:30:00-03:00",
+    "dataFim": "2023-10-18T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor do Centro de Ciências Agrárias, <b>Prof. Marcos Antônio Fontes</b>, e representantes do Centro Acadêmico.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2023-10-18T09:30:00-03:00",
+    "dataFim": "2023-10-18T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios contemporâneos da agricultura de precisão frente às mudanças climáticas e à segurança alimentar global nas próximas décadas</i> conduzida pelo pesquisador <b>Dr. Henrique Albuquerque</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Área de Convivência do PVA",
+    "dataInicio": "2023-10-18T10:45:00-03:00",
+    "dataFim": "2023-10-18T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório do DFP",
+    "dataInicio": "2023-10-18T11:15:00-03:00",
+    "dataFim": "2023-10-18T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Manejo integrado de pragas na cultura da soja</i> apresentada pela engenheira agrônoma <b>Camila Duarte Pires</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-18T12:30:00-03:00",
+    "dataFim": "2023-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Sementes",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T17:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Metodologias aplicadas para testes rápidos de vigor e viabilidade fisiológica em sementes de espécies florestais nativas do bioma Mata Atlântica</i> orientada pelo <b>Prof. Renato Silveira</b> e pelos monitores <b>Ana Lúcia Ramos</b> e <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Setor de Fruticultura",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T17:00:00-03:00",
+    "descricao": "<p>Instrução sobre <i>Técnicas modernas de enxertia em pomares cítricos</i> ministrada pelo técnico <b>Rogério Toledo</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres 1",
+    "lugar": "Pilotis do Edifício Arthur Bernardes",
+    "dataInicio": "2023-10-18T17:15:00-03:00",
+    "dataFim": "2023-10-18T18:45:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de iniciação científica e extensão sob avaliação de <b>Prof. Teresa Cristina Ramos</b> e <b>Prof. Fernando Bastos</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T09:30:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Inovações na fertilidade do solo e uso de bioinsumos</i> pela pesquisadora <b>Dra. Mariana Vasconcellos</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2023-10-19T09:45:00-03:00",
+    "dataFim": "2023-10-19T11:45:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O papel da mulher no agronegócio e na pesquisa agronômica brasileira</i> reunindo <b>Dra. Beatriz Nogueira</b>, <b>Eng. Patrícia Valente</b> e moderado por <b>Profa. Sandra Helena Prado</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Centro de Ensino",
+    "dataInicio": "2023-10-19T11:45:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Auditório PVA-102",
+    "dataInicio": "2023-10-19T12:00:00-03:00",
+    "dataFim": "2023-10-19T13:30:00-03:00",
+    "descricao": "<p>Apresentação dos melhores trabalhos com bancas compostas por <b>Prof. Fábio Gusmão</b> e <b>Dra. Cecília Morais</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Geoprocessamento do DEF",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Módulo de capacitação em <i>Uso do QGIS para zoneamento edafoclimático em propriedades rurais</i> lecionado por <b>Lucas Vilela</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Casa de Vegetação 4",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Manejo de irrigação automatizada em ambiente protegido</i> instruída pelo especialista <b>Rodrigo Campelo</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Auditório do CCE",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Instrução teórica sobre <i>Elaboração de laudos periciais e avaliação de imóveis rurais</i> conduzida pelo perito agrônomo <b>Valter Magalhães</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Noite Cultural",
+    "lugar": "Gramado das Quatro Pilastras",
+    "dataInicio": "2023-10-19T18:30:00-03:00",
+    "dataFim": "2023-10-19T21:00:00-03:00",
+    "descricao": "<p>Apresentação musical da banda de discentes e confraternização sob organização de <b>Gabriel Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Horto Florestal de Viçosa",
+    "dataInicio": "2023-10-20T08:00:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": "<p>Atividade de campo com foco em recuperação de áreas degradadas acompanhada pelo engenheiro florestal <b>Márcio Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 3",
+    "lugar": "Auditório do Doutorado em Fitotecnia",
+    "dataInicio": "2023-10-20T10:45:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Biotecnologia aplicada ao melhoramento genético vegetal: perspectivas e regulação</i> pelo <b>Prof. Samuel Andrade</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:00:00-03:00",
+    "dataFim": "2023-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Discussão com o tema <i>Mercado de trabalho e oportunidades de carreira para novos agrônomos no setor sucroalcooleiro</i> mediada por <b>Cláudio Peixoto</b> e composta pelos debatedores <b>Danielle Paiva</b>, <b>Felipe Castanheira</b> e <b>Jorge Marcondes</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Sessão de Pôsteres 2",
+    "lugar": "Pilotis do Edifício Arthur Bernardes",
+    "dataInicio": "2023-10-20T15:45:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": "<p>Segunda etapa de exposição de pôsteres científicos coordenada por <b>Prof. Geraldo Moreira</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2023-10-20T17:15:00-03:00",
+    "dataFim": "2023-10-20T18:00:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas e prêmios para os melhores projetos da semana acadêmica pelos professores <b>Prof. Marcos Antônio Fontes</b> e <b>Profa. Sandra Helena Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral dos Estudantes",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2023-10-20T18:00:00-03:00",
+    "dataFim": "2023-10-20T19:00:00-03:00",
+    "descricao": "<p>Reunião de avaliação do curso e deliberações estudantis presidida pela discente <b>Larissa Miranda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Confraternização",
+    "lugar": "Sede da Associação dos Ex-Alunos da UFV",
+    "dataInicio": "2023-10-20T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração de conclusão do evento com os organizadores e participantes.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

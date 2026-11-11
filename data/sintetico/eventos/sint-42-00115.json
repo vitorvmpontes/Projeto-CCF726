@@ -1,0 +1,172 @@
+{
+ "spec": {
+  "id": "sint-42-00115",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:34+00:00",
+ "uso_tokens": {
+  "entrada": 652,
+  "saida": 2733
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Ecologia e Conservação da Biodiversidade",
+   "local_geral": "Campus do Vale - Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall do Prédio 43425",
+    "dataInicio": "2026-05-20T08:00:00-03:00",
+    "dataFim": "2026-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora do programa, Profa. Dra. <b>Helena Silveira Becker</b>, e do diretor do Instituto de Biociências, Prof. Dr. <b>Marcelo Dorneles de Vargas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2026-05-20T10:00:00-03:00",
+    "dataFim": "2026-05-20T11:45:00-03:00",
+    "descricao": "<p>Conferência sobre <i>Mudanças Climáticas e Resiliência dos Ecossistemas Subtropicais</i>, ministrada pelo pesquisador Dr. <b>Carlos Eduardo Guimarães</b> (INPA).</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:00:00-03:00",
+    "dataFim": "2026-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala 102 - Bloco IV",
+    "dataInicio": "2026-05-20T13:30:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Apresentações de mestrandos. Avaliação conduzida pelo Dr. <b>Fernando Tavares</b> e pela Dra. <b>Juliana Pires Zanin</b>. Destaque para o trabalho <i>Dinâmica Populacional de Anfíbios Anuros no Bioma Pampa</i> apresentado por <b>Lucas Medeiros Rocha</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Pátio Central do Instituto",
+    "dataInicio": "2026-05-20T15:30:00-03:00",
+    "dataFim": "2026-05-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão sobre <i>Restauração Ecológica no Sul do Brasil: Desafios e Metas para a Década</i>. Participação dos especialistas Dr. <b>Rodrigo Castanho</b>, Profa. Dra. <b>Clarissa Fontoura</b> e mediação de <b>Tatiane Morais Lemos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Geoprocessamento 2",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Atividade prática de <i>Modelagem de Nicho Ecológico Utilizando Linguagem R</i>, ministrada pelo pós-doutorando Dr. <b>Vinícius Ramos Siqueira</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório Didático B",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Capacitação em <i>Análise Filogenética Aplicada à Conservação de Espécies Ameaçadas</i> com a Profa. Dra. <b>Marina Fagundes Castro</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T11:30:00-03:00",
+    "dataFim": "2026-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala 102 - Bloco IV",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Apresentações de doutorandos com foco em ecologia aquática. Banca composta pela Profa. Dra. <b>Beatriz Albuquerque</b> e pelo Prof. Dr. <b>Tiago Munhoz</b>. Apresentação principal: <i>Efeitos dos Microplásticos na Ictiofauna Estuarina</i> por <b>Camila Duarte Ribeiro</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-21T15:30:00-03:00",
+    "dataFim": "2026-05-21T17:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação de trabalhos em andamento dos novos ingressantes de mestrado e doutorado, coordenada por <b>Gabriela Nogueira Ortiz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Discente",
+    "lugar": "Praça das Figueiras - Campus do Vale",
+    "dataInicio": "2026-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro de integração entre discentes e egressos organizado pela representação discente coordenada por <b>Mateus Antunes Goulart</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2026-05-22T09:00:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Carreira Acadêmica e Oportunidades no Setor Não Governamental</i> com os debatedores Dra. <b>Anelise Mello</b>, Dr. <b>Paulo Renato Krebs</b> e coordenação de <b>Lilian Viana Mendes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Lanche",
+    "lugar": "Hall do Auditório Almirante Barroso",
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": "2026-05-22T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2026-05-22T11:30:00-03:00",
+    "dataFim": "2026-05-22T12:45:00-03:00",
+    "descricao": "<p>Conferência <i>O Futuro das Unidades de Conservação frente à Expansão Agrícola</i> proferida pelo Prof. Dr. <b>Gustavo Henrique Trindade</b> (UFSM).</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:45:00-03:00",
+    "dataFim": "2026-05-22T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2026-05-22T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos melhores trabalhos de mestrado e doutorado e premiação do <i>Prêmio Jovem Pesquisador em Ecologia 2026</i>, conduzido pela Profa. Dra. <b>Helena Silveira Becker</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,286 @@
+{
+ "spec": {
+  "id": "sint-42-00493",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Niterói - RJ",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 32,
+  "casos": [
+   "descricoes_ricas",
+   "titulos_longos",
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:31:19+00:00",
+ "uso_tokens": {
+  "entrada": 709,
+  "saida": 6511
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Fluminense de Direito Constitucional e Relações Governamentais",
+   "local_geral": "Faculdade de Direito da UFF e Teatro Popular Oscar Niemeyer, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção de Congressistas e Validação de Inscrições",
+    "lugar": "Hall do Prédio Histórico da FD/UFF",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-18T09:30:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura institucional presidida pela coordenadora-geral <b>Profa. Dra. Mariana Guimarães Ribeiro</b>, com alocução da presidente do comitê científico <b>Dra. Cecília Alencar Fontes</b> e do diretor acadêmico <b>Prof. Dr. Cláudio Brandão de Menezes</b>.</p>",
+    "secao": "Abertura"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-18T10:45:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Conferência sobre <i>Os Desafios Contemporâneos da Jurisdição Constitucional Frente às Transformações Provocadas pelo Uso Intensivo de Inteligência Artificial nos Tribunais Superiores Latino-Americanos</i>, proferida pelo ministro aposentado <b>Dr. Henrique Viana de Albuquerque</b>, sob mediação do <b>Prof. Roberto Meireles Salles</b>.</p>",
+    "secao": "Abertura"
+   },
+   {
+    "nome": "Mesa-Redonda I",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-18T14:30:00-03:00",
+    "dataFim": "2026-05-18T17:00:00-03:00",
+    "descricao": "<p>Debate sobre federalismo cooperativo e competências tributárias. Coordenação: <b>Dra. Luísa Fagundes Brandão</b>. Palestrantes: <b>Prof. Geraldo Mattos Nogueira</b> falando sobre <i>Harmonização Fiscal Federativa</i>, <b>Profa. Renata Vasconcelos Rios</b> abordando <i>O Papel dos Municípios no Pacto Federativo</i> e <b>Dr. Marcelo Faria Bastos</b> discutindo <i>Guerra Fiscal e Finanças Públicas</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda II",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-18T14:30:00-03:00",
+    "dataFim": "2026-05-18T17:00:00-03:00",
+    "descricao": "<p>Tema: Controle de convencionalidade e cortes internacionais. Coordenador da sessão: <b>Prof. Dr. Thiago Quintanilha</b>. Exposições conduzidas por <b>Dra. Beatriz Prado Esteves</b>, apresentando <i>A Recepção dos Tratados de Direitos Humanos</i>, e <b>Dr. Fernando Castilho Neto</b>, que palestrará sobre <i>Margem de Apreciação Nacional no Sistema Interamericano</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Oficina Prática de Escrita Científica Jurídica",
+    "lugar": "Laboratório de Informática Jurídica",
+    "dataInicio": "2026-05-18T17:30:00-03:00",
+    "dataFim": "2026-05-18T19:30:00-03:00",
+    "descricao": "<p>Oficina metodológica conduzida pela <b>Profa. Dra. Samanta Lacerda Coutinho</b> para preparação de artigos e ensaios com foco em indexadores internacionais.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Mesa-Redonda III",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T11:30:00-03:00",
+    "descricao": "<p>Painel sobre regulação estatal e mercado de infraestrutura. Coordenadora: <b>Dra. Teresa Cristina Amado</b>. Palestrantes: <b>Dr. Maurício Godinho Filho</b> com <i>Agências Reguladoras e Autonomia Decisória</i> e <b>Dra. Juliana Pimentel Maia</b> com <i>Parcerias Público-Privadas no Contexto Pós-Pandemia</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda IV",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T11:30:00-03:00",
+    "descricao": "<p>Painel sobre separação de poderes e controle da administração. Mesa coordenada pelo <b>Prof. Antônio Macedo Neves</b>, contando com intervenções do procurador <b>Dr. Vicente Silveira Lobo</b> sobre <i>Limites Hermenêuticos do Controle Judicial de Políticas Públicas</i> e da defensora pública <b>Dra. Clarice Mendes Torres</b> abordando <i>Efetividade dos Direitos Sociais pela Via Coletiva</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Painéis de Pesquisa Discente",
+    "lugar": "Pátio Central da FD/UFF",
+    "dataInicio": "2026-05-19T11:30:00-03:00",
+    "dataFim": "2026-05-19T13:00:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres avaliados pela banca examinadora composta por <b>Prof. Lucas Duarte Figueira</b> e <b>Profa. Patrícia Helena Sobral</b>.</p>",
+    "secao": "Mostra Científica"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática A-1",
+    "dataInicio": "2026-05-19T14:00:00-03:00",
+    "dataFim": "2026-05-19T16:30:00-03:00",
+    "descricao": "<p>GT 01: Direitos Fundamentais na Era Digital. Coordenador: <b>Prof. Rogério Sampaio Cruz</b>. Trabalhos apresentados: <i>Proteção de Dados Sensíveis nas Relações Empregatícias</i> por <b>Camila Duarte Pires</b>; <i>Vigilância Algorítmica e Devido Processo Legal</i> por <b>Gabriel Queiroz Lima</b>; e <i>Discriminação Algorítmica em Políticas de Crédito</i> por <b>Jéssica Vilarinhos Ramos</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática B-2",
+    "dataInicio": "2026-05-19T14:00:00-03:00",
+    "dataFim": "2026-05-19T16:30:00-03:00",
+    "descricao": "<p>GT 02: Teoria Geral do Estado e Constitucionalismo Democrático. Coordenadora: <b>Profa. Helena Rocha Tavares</b>. Trabalhos: <i>Crise de Representatividade nos Partidos Políticos</i> por <b>Eduardo Antunes Ferraz</b>; <i>Poder Constituinte Difuso e Novas Tecnologias</i> por <b>Renato Castanheira Abreu</b>; e <i>Democracia Deliberativa em Esferas Locais</i> por <b>Larissa Gomes Medeiros</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-19T17:00:00-03:00",
+    "dataFim": "2026-05-19T18:45:00-03:00",
+    "descricao": "<p>Palestra de encerramento do dia com <b>Prof. Dr. Otávio Bueno Mendonça</b> abordando o estudo <i>A Sustentabilidade Ambiental Como Princípio Matriz do Desenvolvimento Econômico e da Segurança Jurídica das Gerações Futuras</i>. Mediação feita pela <b>Profa. Vanessa Albuquerque Paz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento Coletivo de Livros Jurídicos",
+    "lugar": "Hall do Prédio Histórico da FD/UFF",
+    "dataInicio": "2026-05-19T19:00:00-03:00",
+    "dataFim": "2026-05-19T20:30:00-03:00",
+    "descricao": "<p>Sessão de autógrafos com as seguintes obras: <i>Comentários à Lei de Processo Administrativo</i> de <b>Sérgio Ramos da Veiga</b>; <i>Hermenêutica e Direitos Sociais</i> de <b>Clara Valença Botelho</b>; e <i>Direito Municipal Comparado</i> de <b>Márcio Nogueira Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda V",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T11:30:00-03:00",
+    "descricao": "<p>Reflexões sobre o sistema eleitoral e financiamento de campanhas. Coordenador: <b>Dr. Paulo Emílio Cordeiro</b>. Debatedores: <b>Dra. Nair Fagundes de Castro</b> apresentando <i>Cotas de Gênero e Financiamento Partidário</i> e <b>Dr. Daniel Gusmão Villela</b> expondo <i>Desinformação e Integridade do Processo Eleitoral</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda VI",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T11:30:00-03:00",
+    "descricao": "<p>Debate sobre processo estrutural e litígios de alta complexidade. Coordenação: <b>Profa. Giselle Barros Sampaio</b>. Participantes: <b>Juiz Federal Leonardo Vargas Prado</b> abordando <i>Planos de Reparação Coletiva em Desastres Ambientais</i> e <b>Promotora Cíntia Morais Galvão</b> examinando <i>Termos de Ajustamento de Conduta Estruturantes</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Painéis de Pesquisa Discente",
+    "lugar": "Pátio Central da FD/UFF",
+    "dataInicio": "2026-05-20T11:30:00-03:00",
+    "dataFim": "2026-05-20T13:00:00-03:00",
+    "descricao": "<p>Segunda etapa de exposição dos pôsteres científicos, com avaliação conduzida por <b>Prof. Rodrigo Santana Barcellos</b> e <b>Dra. Thaís Campos Villanova</b>.</p>",
+    "secao": "Mostra Científica"
+   },
+   {
+    "nome": "Oficina Prática de Escrita Científica Jurídica",
+    "lugar": "Laboratório de Informática Jurídica",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T16:00:00-03:00",
+    "descricao": "<p>Segunda turma da atividade ministrada pela <b>Profa. Dra. Samanta Lacerda Coutinho</b> com foco em revisão por pares e respostas aos pareceristas em periódicos qualificados.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática C-3",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T16:30:00-03:00",
+    "descricao": "<p>GT 03: Governança Pública, Integridade e Anticorrupção. Coordenador: <b>Prof. Álvaro Junqueira Lima</b>. Artigos: <i>Compliance Público nas Empresas Estatais</i> por <b>Vinícius Fontoura Prado</b>; <i>Acordos de Leniência e Reparação ao Erário</i> por <b>Aline Guimarães Borges</b>; e <i>Transparência Passiva nos Consórcios Intermunicipais</i> por <b>Felipe Peixoto Carvalho</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática D-4",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T16:30:00-03:00",
+    "descricao": "<p>GT 04: Direito Urbanístico e Cidades Sustentáveis. Coordenadora: <b>Profa. Melissa Vianna Pimentel</b>. Trabalhos: <i>Regularização Fundiária Urbana em Áreas de Preservação Permanente</i> por <b>Guilherme Diniz Rocha</b>; <i>Outorga Onerosa e Gentrificação</i> por <b>Juliana Salgado Freire</b>; e <i>Mobilidade Urbana Sob a Ótica dos Direitos Fundamentais</i> por <b>Pedro Henrique Lins</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Encontro da Rede Fluminense de Pesquisa em Direito",
+    "lugar": "Sala de Reuniões da Congregação",
+    "dataInicio": "2026-05-20T17:00:00-03:00",
+    "dataFim": "2026-05-20T18:30:00-03:00",
+    "descricao": "<p>Reunião de coordenadores de programas de pós-graduação stricto sensu, conduzida pelo <b>Prof. Dr. Wanderley de Abreu Maia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda VII",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-21T09:00:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Mesa centrada em direito sancionador e consensualidade penal. Coordenação da <b>Dra. Mônica Silveira Caldas</b>. Palestrantes: <b>Prof. Dr. Rafael Camargo Neves</b> com a comunicação <i>Limites dos Acordos de Não Persecução Cível e Penal</i> e <b>Dr. Jorge Luís Barreto</b> apresentando <i>Garantismo Penal no Processo Contemporâneo</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda VIII",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-21T09:00:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Análise da segurança jurídica e precedentes vinculantes no processo civil. Coordenação: <b>Prof. Gustavo Affonso Ferreira</b>. Participações de <b>Desembargadora Cristina Pires Vasconcelos</b> com o tema <i>Reclamação Constitucional e Ratio Decidendi</i> e do <b>Advogado Elias Mourão Soares</b> abordando <i>Modulação de Efeitos Temporais</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Colóquio Docente de Metodologia Jurídica",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T16:00:00-03:00",
+    "descricao": "<p>Mesa de diálogo com professores convidados. Debatedores: <b>Prof. André Luiz Ramalho</b>, <b>Profa. Carmem Lúcia Esteves</b> e <b>Prof. Flávio Toledo Brandão</b>, discutindo métodos empíricos no ensino e pesquisa em direito.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática A-1",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T16:30:00-03:00",
+    "descricao": "<p>GT 05: Seguridade Social e Vulnerabilidades Sociais. Coordenador: <b>Dr. Marcelo Aguiar Pinto</b>. Trabalhos: <i>Benefício de Prestação Continuada e o Conceito Constitucional de Miserabilidade</i> por <b>Tatiana Silveira Ramos</b>; <i>Reforma Previdenciária e Impactos nas Pensões por Morte</i> por <b>Igor Carvalho Peixoto</b>; e <i>Proteção Social dos Trabalhadores por Aplicativos</i> por <b>Daniela Furtado Meireles</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática B-2",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T16:30:00-03:00",
+    "descricao": "<p>GT 06: Direito das Relações de Consumo e Tutela Coletiva. Coordenadora: <b>Dra. Fernanda Lemos Guedes</b>. Trabalhos: <i>Comércio Eletrônico Transfronteiriço e Vulnerabilidade do Consumidor</i> por <b>Rodrigo Castelo Branco</b>; <i>Superendividamento Familiar e Medidas Reparatórias</i> por <b>Priscila Dantas Nery</b>; e <i>Práticas Comerciais Abusivas na Internet das Coisas</i> por <b>Lucas Villela Antunes</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Tribunal Simulado: Direitos Fundamentais e Novas Tecnologias",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-21T16:30:00-03:00",
+    "dataFim": "2026-05-21T19:00:00-03:00",
+    "descricao": "<p>Sessão simulada de julgamento de caso hipotético sobre reconhecimento facial em espaços públicos. Presidência da corte simulada: <b>Dr. Wilson Salgado Guimarães</b>. Avaliação da atuação das equipes sob responsabilidade de <b>Dra. Letícia Drummond Paiva</b> e <b>Prof. Humberto Queiroz de Assis</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Especial",
+    "lugar": "Auditório Central do Teatro Popular Oscar Niemeyer",
+    "dataInicio": "2026-05-21T19:30:00-03:00",
+    "dataFim": "2026-05-21T21:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>O Papel da Jurisprudência Constitucional na Consolidação Institucional da Democracia Frente aos Desafios das Notícias Falsas e das Crises Políticas Contemporâneas</i>, proferida pelo jurista internacional convidado <b>Prof. Dr. Juan Manuel Álvarez</b>, com apresentação de <b>Profa. Dra. Mariana Guimarães Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda IX",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-22T09:00:00-03:00",
+    "dataFim": "2026-05-22T11:30:00-03:00",
+    "descricao": "<p>Discussão sobre direito internacional público e soberania compartilhada. Coordenador: <b>Dr. Cristiano Marcondes Leite</b>. Expositores: <b>Profa. Sílvia Regina Toledo</b> apresentando <i>A Proteção aos Refugiados Climáticos no Direito Internacional</i> e <b>Dr. Bernardo Vianna Teles</b> expondo <i>Arbitragem Internacional de Investimentos e a Ordem Pública Brasileira</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda X",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-22T09:00:00-03:00",
+    "dataFim": "2026-05-22T11:30:00-03:00",
+    "descricao": "<p>Debate sobre hermenêutica constitucional e mutações principiológicas. Coordenação: <b>Dra. Tatiana Albuquerque Santos</b>. Debatedores: <b>Prof. Dr. Raul Seixas Fontes</b> com o trabalho <i>Mutação Constitucional e Jurisdição Deliberativa</i> e <b>Profa. Maria Clara Rezende</b> discorrendo sobre <i>Ativismo Judicial e Autocontenção Democrática</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Solenidade de Premiação de Artigos Científicos",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-22T14:30:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Outorga do Prêmio Evaristo da Veiga para os melhores trabalhos acadêmicos nas categorias Graduação e Pós-Graduação, conduzida pelos professores <b>Prof. Dr. Cláudio Brandão de Menezes</b> e <b>Dra. Cecília Alencar Fontes</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Conferência Plenária de Encerramento",
+    "lugar": "Salão Nobre da FD/UFF",
+    "dataInicio": "2026-05-22T16:30:00-03:00",
+    "dataFim": "2026-05-22T18:00:00-03:00",
+    "descricao": "<p>Exposição magistral proferida pelo <b>Prof. Dr. Washington Peluso de Castro</b> sob a presidência da <b>Profa. Dra. Mariana Guimarães Ribeiro</b>, refletindo sobre o tema <i>Cinquenta Anos de Constitucionalismo Social e Perspectivas para o Próximo Século</i>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Jardins do Prédio Histórico da FD/UFF",
+    "dataInicio": "2026-05-22T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

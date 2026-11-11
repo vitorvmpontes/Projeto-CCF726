@@ -1,0 +1,94 @@
+{
+ "spec": {
+  "id": "sint-42-00071",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos",
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:46+00:00",
+ "uso_tokens": {
+  "entrada": 702,
+  "saida": 1216
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jogos Universitários Integrados do Cerrado",
+   "local_geral": "Centro Esportivo Universitário da UFG, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção das Delegações e Validação de Inscrições",
+    "lugar": null,
+    "dataInicio": "2023-10-14T07:30:00-03:00",
+    "dataFim": "2023-10-14T08:30:00-03:00",
+    "descricao": "<p>Acolhimento das atléticas participantes e entrega de kits com os coordenadores <b>Lucas Mendonça</b> e <b>Camila Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Poliesportivo Central",
+    "dataInicio": "2023-10-14T08:30:00-03:00",
+    "dataFim": "2023-10-14T09:30:00-03:00",
+    "descricao": "<p>Desfile das delegações esportivas, acendimento da pira e juramento dos atletas conduzido por <b>Mariana Pires Arantes</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório da Faculdade de Educação Física",
+    "dataInicio": "2023-10-14T09:45:00-03:00",
+    "dataFim": "2023-10-14T11:00:00-03:00",
+    "descricao": "<p>Apresentação especial intitulada <i>O Papel Transformador do Esporte Universitário no Desenvolvimento Pessoal Profissional e na Saúde Mental dos Jovens Acadêmicos Brasileiros</i>, ministrada pelo professor <b>Rodrigo Albuquerque Prado</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": null,
+    "dataInicio": "2023-10-14T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atividade prática com a temática <i>Estratégias Avançadas de Preparação Física Prevenção de Lesões e Recuperação Muscular Pós Jogo em Modalidades Coletivas de Alta Intensidade</i>, com <b>Beatriz Fontes Nogueira</b> e <b>Diego Meireles</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": null,
+    "dataInicio": "2023-10-14T12:30:00-03:00",
+    "dataFim": "2023-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Torneio de Futsal - Fase Eliminatória",
+    "lugar": "Quadra Coberta 1",
+    "dataInicio": "2023-10-14T14:00:00-03:00",
+    "dataFim": "2023-10-14T17:30:00-03:00",
+    "descricao": "<p>Disputas classificatórias masculinas e femininas sob coordenação técnica de <b>Thiago Valente Ramos</b>.</p>",
+    "secao": "Torneios e Disputas"
+   },
+   {
+    "nome": "Torneio de Voleibol de Areia",
+    "lugar": "Arena de Areia Externa",
+    "dataInicio": "2023-10-14T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Chaveamento principal de duplas mistas arbitrado pela juíza <b>Flávia Guimarães Diniz</b>.</p>",
+    "secao": "Torneios e Disputas"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-10-14T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega dos troféus, medalhas aos vencedores e confraternização final com o presidente da liga <b>Gustavo Henrique Rezende</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   }
+  ]
+ }
+}

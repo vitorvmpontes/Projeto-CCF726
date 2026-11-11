@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00003",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Campinas - SP",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 8,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:33+00:00",
+ "uso_tokens": {
+  "entrada": 649,
+  "saida": 1233
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Campineiro de Docentes da Educação Básica",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial e Palestra Inaugural",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-15T09:30:00-03:00",
+    "dataFim": "2024-05-15T11:45:00-03:00",
+    "descricao": "<p>Abertura com as boas-vindas da secretária municipal <b>Márcia Helena Ribeiro</b> e palestra <i>Desafios Curriculares e Inclusão Escolar no Século XXI</i> ministrada pelo Prof. Dr. <b>Carlos Eduardo Bueno</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para o Café",
+    "lugar": "Foyer Central",
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala de Multimeios 3",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Práticas ativas na alfabetização com foco no letramento digital: <i>Construindo Recursos Interativos com o Uso de Celulares em Sala</i>, mediado pela Profa. <b>Luciana Guimarães Pires</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Laboratório de Ensino 1",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Dinâmicas de ensino de ciências nos anos iniciais através do tema <i>Investigando a Natureza no Pátio Escolar</i> com a formadora <b>Juliana Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação do Campus",
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Relatos de Experiência",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de práticas exitosas na rede pública, mediada pelo coordenador pedagógico <b>Rodrigo Fontana</b>. Exposição dos trabalhos <i>Mediação de Conflitos e Cidadania no Ensino Fundamental II</i> da Profa. <b>Denise Alves Santana</b> e <i>Arte e Educação Antirracista na Primeira Infância</i> do Prof. <b>Tiago Mendes Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Atividade Cultural de Encerramento",
+    "lugar": "Tenda Externa",
+    "dataInicio": "2024-05-18T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical do coral estudantil sob regência do maestro <b>Fernando Nogueira Ramos</b> com o espetáculo <i>Vozes da Infância</i>, celebrando o encerramento do encontro docente.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

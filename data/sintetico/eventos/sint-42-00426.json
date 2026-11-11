@@ -1,0 +1,117 @@
+{
+ "spec": {
+  "id": "sint-42-00426",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Fortaleza - CE",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 11,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:26+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 2323
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Cearense de Terapia Intensiva e Medicina de Emergência",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Curso Pré-Jornada 1",
+    "lugar": "Sala Jangada",
+    "dataInicio": "2025-08-14T08:00:00-03:00",
+    "dataFim": "2025-08-14T12:00:00-03:00",
+    "descricao": "<p>Tema: Manejo Avançado de Vias Aéreas no Paciente Crítico.</p><p>Coordenador: Dr. <b>Raimundo Nonato Silveira</b>.</p><p>Instrutores: Dra. <b>Patrícia Albuquerque Ramos</b> e Dr. <b>Cláudio Mendes Farias</b>.</p>",
+    "secao": "Cursos Pré-Jornada"
+   },
+   {
+    "nome": "Curso Pré-Jornada 2",
+    "lugar": null,
+    "dataInicio": "2025-08-14T08:30:00-03:00",
+    "dataFim": "2025-08-14T12:00:00-03:00",
+    "descricao": "<p>Tema: Monitorização Hemodinâmica e Ultrassonografia Point-of-Care (POCUS).</p><p>Instrutores: Dr. <b>Felipe Bastos de Aguiar</b> e Dra. <b>Mariana Aragão Soares</b>.</p>",
+    "secao": "Cursos Pré-Jornada"
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Iracema",
+    "dataInicio": "2025-08-14T14:00:00-03:00",
+    "dataFim": "2025-08-14T15:00:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento da presidente da comissão organizadora, Dra. <b>Heloísa Vasconcelos Pontes</b>, e conferência de abertura com Dr. <b>Geraldo Bezerra de Castro</b> abordando <i>O Futuro da Terapia Intensiva no Brasil e os Desafios no SUS</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Iracema",
+    "dataInicio": "2025-08-14T15:30:00-03:00",
+    "dataFim": "2025-08-14T17:30:00-03:00",
+    "descricao": "<p>Tema: Estratégias Ventilatórias na SDRA Grave.</p><p>Coordenação: Dr. <b>Lucas Cavalcante Nogueira</b>.</p><p>Palestrantes: Dra. <b>Camila Siqueira Holanda</b> falando sobre <i>Pronação precoce e bloqueio neuromuscular</i> e Dr. <b>Alexandre Pinheiro Maia</b> abordando <i>Titulação da PEEP guiada por complacência pulmonar</i>.</p>",
+    "secao": "Painéis e Simpósios"
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": null,
+    "dataInicio": "2025-08-15T08:30:00-03:00",
+    "dataFim": "2025-08-15T10:30:00-03:00",
+    "descricao": "<p>Tema: Choque Séptico: Atualizações das Diretrizes de Sobrevivência à Sepse.</p><p>Moderador: Dr. <b>Igor Montenegro Prado</b>.</p><p>Painelistas: Dra. <b>Beatriz Fontenele Cruz</b> discutindo <i>Ressuscitação volêmica balanceada e alvos de perfusão</i> e Dr. <b>Vicente Queiroz Teles</b> com a apresentação <i>Vasopressores e inotrópicos: da noradrenalina ao levosimendan</i>.</p>",
+    "secao": "Painéis e Simpósios"
+   },
+   {
+    "nome": "Espaço de Convivência e Café",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2025-08-15T10:30:00-03:00",
+    "dataFim": "2025-08-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Comentados",
+    "lugar": null,
+    "dataInicio": "2025-08-15T11:00:00-03:00",
+    "dataFim": "2025-08-15T12:30:00-03:00",
+    "descricao": "<p>Avaliadores: Dr. <b>Marcelo Freitas Arruda</b> e Dra. <b>Renata Chaves Dantas</b>.</p><p>Trabalhos em avaliação:</p><p>1. <i>Avaliação do protocolo de sepse na sala de emergência de um hospital regional do Ceará</i>, apresentado por <b>Juliana Meireles Rocha</b>.</p><p>2. <i>Desfechos clínicos em idosos submetidos à oxigenação por membrana extracorpórea (ECMO)</i>, apresentado por <b>Gabriel Saraiva Leão</b>.</p><p>3. <i>Eficácia do cateter nasal de alto fluxo no desmame ventilatório complexo</i>, apresentado por <b>Larissa Barreto Gomes</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Colóquio Multiprofissional",
+    "lugar": "Sala Jericoacoara",
+    "dataInicio": "2025-08-15T14:00:00-03:00",
+    "dataFim": "2025-08-15T16:00:00-03:00",
+    "descricao": "<p>Tema: Reabilitação Precoce e Prevenção da Síndrome Pós-UTI.</p><p>Coordenação: Dra. <b>Tereza Cristina Linhares</b>.</p><p>Participantes: Fisioterapeuta <b>Rodrigo Magalhães Peixoto</b> apresentando <i>Mobilização precoce: segurança e barreiras na UTI</i> e Enfermeira <b>Danielle Moura Viana</b> abordando <i>Intervenções multiprofissionais para redução de delirium</i>.</p>",
+    "secao": "Painéis e Simpósios"
+   },
+   {
+    "nome": "Sessão Oral de Temas Livres",
+    "lugar": null,
+    "dataInicio": "2025-08-16T09:00:00-03:00",
+    "dataFim": "2025-08-16T10:30:00-03:00",
+    "descricao": "<p>Comissão avaliadora: Dra. <b>Samia Carvalho Frota</b> e Dr. <b>Leonardo Fontes Gadelha</b>.</p><p>Apresentação oral dos trabalhos finalistas:</p><p>1. <i>Incidência de infecção de corrente sanguínea associada a cateter central antes e após intervenção de bundle assistencial</i>, por <b>Lucas Medeiros Duarte</b>.</p><p>2. <i>Validação de escore prognóstico em parada cardiorrespiratória extra-hospitalar em Fortaleza</i>, por <b>Ana Carolina Esteves</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Iracema",
+    "dataInicio": "2025-08-16T10:45:00-03:00",
+    "dataFim": "2025-08-16T12:15:00-03:00",
+    "descricao": "<p>Tema: Parada Cardiorrespiratória e Cuidados Pós-Ressuscitação.</p><p>Coordenador: Dr. <b>Otávio Macedo Brandão</b>.</p><p>Palestrante convidado: Dr. <b>Carlos Eduardo Figueiredo</b> ministrando a conferência <i>Controle direcionado de temperatura: evidências atuais e novas diretrizes</i>.</p>",
+    "secao": "Painéis e Simpósios"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Iracema",
+    "dataInicio": "2025-08-16T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos melhores trabalhos científicos do evento e entrega do <i>Prêmio Dr. Walter de Moura Lima de Mérito em Terapia Intensiva</i> conduzida pela presidente da jornada, Dra. <b>Heloísa Vasconcelos Pontes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

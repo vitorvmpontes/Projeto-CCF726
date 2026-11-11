@@ -1,0 +1,124 @@
+{
+ "spec": {
+  "id": "sint-42-00260",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Curitiba - PR",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:57+00:00",
+ "uso_tokens": {
+  "entrada": 657,
+  "saida": 1830
+ },
+ "saida": {
+  "evento": {
+   "nome": "Curitiba Gastronômica & Sabores do Sul 2024",
+   "local_geral": "Mercado Municipal de Curitiba e Praça de Convivência"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Feira de Produtores Locais",
+    "lugar": null,
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T10:00:00-03:00",
+    "descricao": "<p>Acolhimento do público e visitação aos estandes de pequenos produtores da Região Metropolitana de Curitiba.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Show Pinhão",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T11:15:00-03:00",
+    "descricao": "<p>Preparo de pratos autorais na sessão <i>O Pinhão na Cozinha Contemporânea Paranaense</i> com a chef <b>Kátia Nascimento</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Degustação Guiada de Cafés Especiais",
+    "lugar": null,
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T11:30:00-03:00",
+    "descricao": "<p>Experiência sensorial com grãos do norte pioneiro do Paraná, conduzida pelo barista <b>Rodrigo Hayashi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Show Pinhão",
+    "dataInicio": "2024-05-18T11:30:00-03:00",
+    "dataFim": "2024-05-18T12:45:00-03:00",
+    "descricao": "<p>Apresentação da receita <i>Barreado Reinventado: Técnicas Ancestrais e Cocção Lenta</i> apresentada pelo chef <b>Marcelo Guimarães</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Circuito de Almoço na Praça",
+    "lugar": "Praça Central",
+    "dataInicio": "2024-05-18T12:45:00-03:00",
+    "dataFim": "2024-05-18T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-18T14:15:00-03:00",
+    "dataFim": "2024-05-18T15:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Indicações Geográficas e Valorização dos Produtos Tradicionais do Paraná</i> com a pesquisadora <b>Dra. Simone Beltrão</b> e mediação de <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": "Painéis Técnicos"
+   },
+   {
+    "nome": "Degustação Guiada de Cafés Especiais",
+    "lugar": "Espaço Torra & Aroma",
+    "dataInicio": "2024-05-18T14:30:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Segunda turma de análise sensorial e métodos de extração artesanal com o barista <b>Rodrigo Hayashi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2024-05-18T15:30:00-03:00",
+    "dataFim": "2024-05-18T16:30:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Desperdício Zero: Gestão Sustentável em Restaurantes Urbanos</i> pela gastrônoma <b>Helena Zanetti</b>.</p>",
+    "secao": "Painéis Técnicos"
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Show Pinhão",
+    "dataInicio": "2024-05-18T16:45:00-03:00",
+    "dataFim": "2024-05-18T18:00:00-03:00",
+    "descricao": "<p>Técnicas de panificação e fermentação natural com a demonstração <i>Pães Rústicos e Farinhas Nacionais</i> com o padeiro <b>Lucas Fagundes</b>.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Harmonização de Queijos e Cervejas Artesanais",
+    "lugar": null,
+    "dataInicio": "2024-05-18T18:00:00-03:00",
+    "dataFim": "2024-05-18T19:15:00-03:00",
+    "descricao": "<p>Sessão prática guiada pelo mestre-cervejeiro <b>Thiago Meirelles</b> e pela queijista <b>Patrícia Furlan</b>, explorando rótulos da Grande Curitiba e queijos da Serra da Bocaina.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Show Pinhão",
+    "dataInicio": "2024-05-18T18:15:00-03:00",
+    "dataFim": "2024-05-18T19:30:00-03:00",
+    "descricao": "<p>Elaboração de sobremesas nativas na apresentação <i>Frutos da Mata Atlântica na Confeitaria Fina</i> com a chef confeiteira <b>Mariana Schier</b>.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Brinde de Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-05-18T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

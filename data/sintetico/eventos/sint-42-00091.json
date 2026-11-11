@@ -1,0 +1,373 @@
+{
+ "spec": {
+  "id": "sint-42-00091",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Curitiba - PR",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 43,
+  "casos": [
+   "titulos_longos",
+   "intervalos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:46+00:00",
+ "uso_tokens": {
+  "entrada": 681,
+  "saida": 6207
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroFuturo Summit 2025: Inteligência e Sustentabilidade no Campo",
+   "local_geral": "Centro de Eventos Positivo - Curitiba, PR"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Kits",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-18T08:00:00-03:00",
+    "dataFim": "2025-08-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura Oficial",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-18T09:30:00-03:00",
+    "dataFim": "2025-08-18T10:30:00-03:00",
+    "descricao": "<p>Abertura solene com a presença do governador <b>Carlos Massa</b>, da diretora de inovação <b>Mariana Schuch</b> e lideranças do setor produtivo paranaense.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-18T10:30:00-03:00",
+    "dataFim": "2025-08-18T11:45:00-03:00",
+    "descricao": "<p>Palestra de abertura com <b>Roberto Rodrigues Filho</b> abordando o tema <i>O Papel Estratégico do Brasil na Segurança Alimentar Global Diante dos Desafios Climáticos e Tecnológicos Emergentes</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-08-18T12:00:00-03:00",
+    "dataFim": "2025-08-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-18T13:30:00-03:00",
+    "dataFim": "2025-08-18T15:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Conectividade Rural e a Revolução do 5G nas Lavouras</i> com os debatedores <b>Felipe Castanho</b> e <b>Bruna Marcondes</b>. Moderação de <b>Renato Cordeiro</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Sala de Inovação A",
+    "dataInicio": "2025-08-18T13:30:00-03:00",
+    "dataFim": "2025-08-18T15:00:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>Configuração Básica de Sensores IoT para Monitoramento Hidrológico de Solos em Pequenas Propriedades</i> conduzida por <b>Juliana Prado</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Café com Negócios",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-08-18T15:00:00-03:00",
+    "dataFim": "2025-08-18T15:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-18T15:45:00-03:00",
+    "dataFim": "2025-08-18T17:15:00-03:00",
+    "descricao": "<p>Mesa com <b>Camila Zanatta</b> e <b>Lucas Albuquerque</b> sobre <i>Mercado de Créditos de Carbono no Manejo Sustentável de Pastagens</i>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Sala de Inovação B",
+    "dataInicio": "2025-08-18T15:45:00-03:00",
+    "dataFim": "2025-08-18T17:15:00-03:00",
+    "descricao": "<p>Atividade prática <i>Uso de Drones Multiespectrais para Detecção Precoce de Pragas e Doenças Foliares</i> ministrada por <b>Fernando Seixas</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Demoday AgTechs - Rodada 1",
+    "lugar": "Arena Pitch",
+    "dataInicio": "2025-08-18T17:30:00-03:00",
+    "dataFim": "2025-08-18T19:00:00-03:00",
+    "descricao": "<p>Apresentação das startups finalistas com avaliação da banca composta por <b>Vanessa Roriz</b> e <b>Guilherme Batista</b>.</p>",
+    "secao": "Pitch & Startups"
+   },
+   {
+    "nome": "Painel Temático 3",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-19T08:30:00-03:00",
+    "dataFim": "2025-08-19T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Biotecnologia e Edição Gênica CRISPR Aplicada a Culturas Tropicais</i> com os pesquisadores <b>Henrique Pires</b> e <b>Aline Guimarães</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos 1",
+    "lugar": "Espaço Científico",
+    "dataInicio": "2025-08-19T08:30:00-03:00",
+    "dataFim": "2025-08-19T10:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Patrícia Beltrão</b> e apresentação de trabalhos acadêmicos de pós-graduação em engenharia agronômica.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-19T10:00:00-03:00",
+    "dataFim": "2025-08-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-19T10:30:00-03:00",
+    "dataFim": "2025-08-19T12:00:00-03:00",
+    "descricao": "<p>Palestra de <b>Marcos Vinícius Fagundes</b> com o tema <i>Aplicações Práticas de Inteligência Artificial Generativa para Tomada de Decisão na Gestão de Riscos Climáticos em Grandes Propriedades Agrícolas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo Regional",
+    "lugar": "Sala de Inovação A",
+    "dataInicio": "2025-08-19T10:30:00-03:00",
+    "dataFim": "2025-08-19T12:00:00-03:00",
+    "descricao": "<p>Encontro entre cooperativas do Sul do Brasil sob a coordenação de <b>Sérgio Ramos</b> e <b>Tatiane Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-08-19T12:00:00-03:00",
+    "dataFim": "2025-08-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 4",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-19T13:30:00-03:00",
+    "dataFim": "2025-08-19T15:00:00-03:00",
+    "descricao": "<p>Debate focado em <i>Bioinsumos e o Futuro da Nutrição Vegetal</i> com apresentação de <b>Cláudio Toledo</b> e <b>Mônica Estrela</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Sala de Inovação B",
+    "dataInicio": "2025-08-19T13:30:00-03:00",
+    "dataFim": "2025-08-19T15:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Processamento de Dados Espaciais e Imagens Orbitais no QGIS</i> com a especialista <b>Daniela Chaves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Coffee Break da Tarde",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-08-19T15:00:00-03:00",
+    "dataFim": "2025-08-19T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demoday AgTechs - Rodada 2",
+    "lugar": "Arena Pitch",
+    "dataInicio": "2025-08-19T15:30:00-03:00",
+    "dataFim": "2025-08-19T17:30:00-03:00",
+    "descricao": "<p>Apresentação das startups das verticais de biotecnologia e logística reversa com julgamento de <b>Paulo Lemes</b> e <b>Heloísa Fontes</b>.</p>",
+    "secao": "Pitch & Startups"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-20T08:30:00-03:00",
+    "dataFim": "2025-08-20T10:00:00-03:00",
+    "descricao": "<p>Apresentação do pesquisador <b>Gustavo Nogueira</b> discutindo <i>Automação de Tratores e Implementos Agrícolas com Sistemas Embarcados</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos 2",
+    "lugar": "Espaço Científico",
+    "dataInicio": "2025-08-20T08:30:00-03:00",
+    "dataFim": "2025-08-20T10:00:00-03:00",
+    "descricao": "<p>Exposição e arguição oral dos trabalhos selecionados com moderação de <b>Renata Vasconcelos</b>.</p>",
+    "secao": "Trabalhos Científicos"
+   },
+   {
+    "nome": "Coffee Break Matutino",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-20T10:00:00-03:00",
+    "dataFim": "2025-08-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 5",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-20T10:30:00-03:00",
+    "dataFim": "2025-08-20T12:00:00-03:00",
+    "descricao": "<p>Painel sobre <i>Rastreabilidade por Blockchain na Cadeia de Exportação de Grãos</i> com a participação de <b>Arthur Silveira</b> e <b>Débora Paiva</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-08-20T12:00:00-03:00",
+    "dataFim": "2025-08-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Avançado",
+    "lugar": "Sala de Inovação A",
+    "dataInicio": "2025-08-20T13:30:00-03:00",
+    "dataFim": "2025-08-20T15:30:00-03:00",
+    "descricao": "<p>Capacitação <i>Metodologias Ágeis de Governança e Rastreabilidade Socioambiental para Cooperativas Agropecuárias em Processo de Transformação Digital Sustentável</i> ministrada por <b>Rodrigo Castelo Branco</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Rodada de Negócios Internacionais",
+    "lugar": "Sala de Convenções 1",
+    "dataInicio": "2025-08-20T13:30:00-03:00",
+    "dataFim": "2025-08-20T15:30:00-03:00",
+    "descricao": "<p>Reuniões bilaterais pré-agendadas entre produtores locais e compradores estrangeiros, com apoio de <b>Letícia Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-08-20T15:30:00-03:00",
+    "dataFim": "2025-08-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 3",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-20T16:00:00-03:00",
+    "dataFim": "2025-08-20T17:30:00-03:00",
+    "descricao": "<p>Conferência ministrada por <b>Otávio Bittencourt</b> sobre <i>Soluções Eletromecânicas e Energia Solar no Manejo de Irrigação</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Tecnologias Sociais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-20T17:30:00-03:00",
+    "dataFim": "2025-08-20T19:00:00-03:00",
+    "descricao": "<p>Apresentação de soluções de baixo custo voltadas à agricultura familiar com curadoria de <b>Regina Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 6",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-21T08:30:00-03:00",
+    "dataFim": "2025-08-21T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Seguros Rurais Paramétricos e Modelagem Estatística Preditiva</i> conduzida por <b>Luciano Peixoto</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica 4",
+    "lugar": "Sala de Inovação A",
+    "dataInicio": "2025-08-21T08:30:00-03:00",
+    "dataFim": "2025-08-21T10:00:00-03:00",
+    "descricao": "<p>Oficina prática <i>Integração de APIs Meteorológicas Públicas em Painéis de Controle de Fazendas Inteligentes</i> com o desenvolvedor <b>Thiago Brandão</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Coffee Break Matutino",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-08-21T10:00:00-03:00",
+    "dataFim": "2025-08-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 7",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-21T10:30:00-03:00",
+    "dataFim": "2025-08-21T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia Circular e Transformação de Resíduos da Pecuária em Biometano</i> reunindo <b>Sabrina Leão</b> e <b>Eduardo Farias</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-08-21T12:00:00-03:00",
+    "dataFim": "2025-08-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demoday AgTechs - Grande Final",
+    "lugar": "Arena Pitch",
+    "dataInicio": "2025-08-21T13:30:00-03:00",
+    "dataFim": "2025-08-21T15:30:00-03:00",
+    "descricao": "<p>Apresentação final das 6 startups selecionadas diante de investidores e banca liderada por <b>Marcelo Vianna</b>.</p>",
+    "secao": "Pitch & Startups"
+   },
+   {
+    "nome": "Coffee Break da Tarde",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-08-21T15:30:00-03:00",
+    "dataFim": "2025-08-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 8",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-21T16:00:00-03:00",
+    "dataFim": "2025-08-21T17:30:00-03:00",
+    "descricao": "<p>Mesa redonda sobre <i>Juventude e Sucessão Familiar na Gestão Rural Conectada</i> com <b>Larissa Neves</b> e <b>Gabriel Siqueira</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mesa-Redonda de Políticas Públicas",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-22T08:30:00-03:00",
+    "dataFim": "2025-08-22T10:00:00-03:00",
+    "descricao": "<p>Debate sobre incentivos tributários à inovação rural com a deputada <b>Cristiane Munhoz</b> e o pesquisador <b>Igor Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break de Encerramento",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-22T10:00:00-03:00",
+    "dataFim": "2025-08-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação InovaAgro 2025",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-22T10:30:00-03:00",
+    "dataFim": "2025-08-22T11:30:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do Demoday e dos melhores trabalhos acadêmicos, com entrega de troféus por <b>Mariana Schuch</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-08-22T11:30:00-03:00",
+    "dataFim": "2025-08-22T12:30:00-03:00",
+    "descricao": "<p>Agradecimentos finais da comissão organizadora presidida por <b>João Pedro Cavalcanti</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Brunch de Confraternização",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2025-08-22T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro informal de celebração entre palestrantes, expositores e congressistas.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

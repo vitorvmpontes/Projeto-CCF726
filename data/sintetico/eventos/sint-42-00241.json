@@ -1,0 +1,214 @@
+{
+ "spec": {
+  "id": "sint-42-00241",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Campinas - SP",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 23,
+  "casos": [
+   "descricoes_ricas",
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:24+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 3286
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Encontro Mulheres na Computação de Campinas (EMCC 2025)",
+   "local_geral": "Instituto de Computação - UNICAMP, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a presença da coordenadora geral <b>Dra. Mariana Vasconcellos</b> e da vice-reitora <b>Profa. Beatriz Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-15T09:40:00-03:00",
+    "dataFim": "2025-05-15T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Trajetórias e Desafios de Liderança Feminina na Inteligência Artificial</i>.</p><p>Palestrante: <b>Dra. Camila Nogueira</b> (USP/IBM Research).</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-15T10:45:00-03:00",
+    "dataFim": "2025-05-15T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Anfiteatro 2",
+    "dataInicio": "2025-05-15T11:15:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Profa. Renata Furtado</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural</i> por <b>Aline Morais</b> e <b>Luciana Prado</b>.</p><p>2. <i>Otimização de Redes Complexas na Cadeia de Suprimentos</i> por <b>Fernanda Esteves</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-15T11:15:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Juliana Mendes</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Arquiteturas Seguras para Dispositivos IoT em Ambientes Hospitalares</i> por <b>Bruna Castilho</b> e <b>Helena Rocha</b>.</p><p>2. <i>Análise Empírica de Desempenho em Algoritmos Quânticos Aplicados à Criptografia</i> por <b>Tatiane Gomes</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução Prática à Visão Computacional com PyTorch</i>.</p><p>Instrutora: <b>Larissa Paiva</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Fundamentos de Engenharia de Dados em Nuvem</i>.</p><p>Instrutoras: <b>Carla Antunes</b> e <b>Patrícia Ramos</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-15T16:15:00-03:00",
+    "dataFim": "2025-05-15T17:45:00-03:00",
+    "descricao": "<p>Tema: <i>Inclusão, Retenção e Políticas Afirmativas na Pós-Graduação em TI</i>.</p><p>Debatedoras: <b>Dra. Mônica Albuquerque</b>, <b>Me. Tânia Fagundes</b> e <b>Dra. Vanessa Couto</b>. Mediação: <b>Renata Furtado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2025-05-15T17:45:00-03:00",
+    "dataFim": "2025-05-15T19:00:00-03:00",
+    "descricao": "<p>Coordenadora da sessão: <b>Dra. Cristina Loyola</b>.</p><p>Apresentação de pesquisas de iniciação científica e extensões comunitárias focadas em meninas na tecnologia.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Acolhimento e Credenciamento Diário",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Cibernética Ofensiva: Perspectivas e Práticas Modernas</i>.</p><p>Palestrante: <b>Dra. Débora Sales</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-16T10:15:00-03:00",
+    "dataFim": "2025-05-16T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T10:45:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Cristina Loyola</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Interfaces Acessíveis para Crianças com Deficiência Visual no Ensino de Algoritmos</i> por <b>Sabrina Alencar</b> e <b>Sofia Neves</b>.</p><p>2. <i>Uma Ferramenta de Análise de Código Estático para Sistemas Embarcados</i> por <b>Lorena Diniz</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Anfiteatro 2",
+    "dataInicio": "2025-05-16T10:45:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Me. Tânia Fagundes</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Avaliação da Eficácia de Agentes Virtuais no Suporte à Saúde Mental</i> por <b>Elisa Queiroz</b>.</p><p>2. <i>Classificação de Sentimentos em Grandes Volumes de Dados de Redes Sociais</i> por <b>Marta Pimentel</b> e <b>Ana Clara Dias</b>.</p>",
+    "secao": "Apresentação de Artigos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento Frontend Responsivo com React e TailwindCSS</i>.</p><p>Instrutora: <b>Ingrid Fontana</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Mentoria de Carreira",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Atividade prática para alunas de graduação. Conduzida por <b>Juliana Godoy</b> e <b>Priscila Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T15:45:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Carreiras Internacionais e Oportunidades em Big Techs</i>.</p><p>Palestrante: <b>Eng. Roberta Medeiros</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Mentoria de Carreira",
+    "lugar": "Sala 104 - Bloco B",
+    "dataInicio": "2025-05-16T15:45:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Sessão complementar direcionada a pós-graduandas e pesquisadoras em início de carreira, com as facilitadoras <b>Juliana Godoy</b> e <b>Priscila Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Premiação Meninas Digitais",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T17:15:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Premiação dos melhores artigos e menções honrosas da sessão de pôsteres. Condução pela coordenadora <b>Dra. Mariana Vasconcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Confraternização",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

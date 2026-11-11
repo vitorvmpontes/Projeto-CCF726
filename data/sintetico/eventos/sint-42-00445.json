@@ -1,0 +1,300 @@
+{
+ "spec": {
+  "id": "sint-42-00445",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "João Pessoa - PB",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 34,
+  "casos": [
+   "nomes_repetidos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:04+00:00",
+ "uso_tokens": {
+  "entrada": 660,
+  "saida": 5060
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Fórum Paraibano das Comissões Próprias de Avaliação e Regulação do Ensino Superior",
+   "local_geral": "Centro de Convenções Poeta Ronaldo Cunha Lima, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-18T09:30:00-03:00",
+    "dataFim": "2027-05-18T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do Magnífico Reitor <b>Valmir Ramalho de Alencar</b> e da Coordenadora Geral da CPA <b>Renata Meira Cavalcanti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-18T10:15:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Apresentação sob o tema <i>O Papel da Autoavaliação Institucional no Contexto do Novo Marco Regulatório</i>, proferida pela pesquisadora <b>Clarice Guimarães Furtado</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Panorâmico",
+    "dataInicio": "2027-05-18T12:00:00-03:00",
+    "dataFim": "2027-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-18T13:30:00-03:00",
+    "dataFim": "2027-05-18T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Integração entre Dados da CPA e o Plano de Desenvolvimento Institucional (PDI)</i>, com os debatedores <b>Marcos Aurélio Guedes</b>, <b>Tereza Cristina Falcão</b> e mediação de <b>Hélio Borges Pontes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2027-05-18T15:30:00-03:00",
+    "dataFim": "2027-05-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Sala Cabo Branco",
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": "2027-05-18T18:00:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Elaboração de Instrumentos de Avaliação com Escala Likert e Métricas Qualitativas</i>, conduzida por <b>Luciana Prado Queiroz</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Sala Manaira",
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": "2027-05-18T18:00:00-03:00",
+    "descricao": "<p>Abordagem técnica sobre <i>Construção de Indicadores de Egressos e Empregabilidade no SINAES</i>, facilitada por <b>Rodrigo Vasconcelos Lins</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Sessão focada em <i>Engajamento Estudantil na Autoavaliação: Desafios e Práticas Inovadoras</i>, contando com <b>Beatriz Mendonça Uchôa</b>, <b>Felipe Sarmento Neves</b> e moderação de <b>Aline Torres Castelo</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Relatos de Boas Práticas",
+    "lugar": "Sala Cabo Branco",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação do relato <i>Uso de Dashboards Interativos na Devolutiva dos Resultados para a Comunidade Acadêmica</i>, por <b>Samuel Dantas Maia</b>.</p>",
+    "secao": "Sessões de Compartilhamento"
+   },
+   {
+    "nome": "Relatos de Boas Práticas",
+    "lugar": "Sala Manaira",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação da experiência <i>Implementação do Ciclo Contínuo de Feedback Docente em Cursos da Saúde</i>, apresentada por <b>Camila Duarte Figueiredo</b>.</p>",
+    "secao": "Sessões de Compartilhamento"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Panorâmico",
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T15:45:00-03:00",
+    "descricao": "<p>Análise aprofundada sobre <i>Articulação entre Autoavaliação e Visitas In Loco do INEP</i>, com <b>Jorge Barreto Linhares</b> e <b>Eunice Silveira Bastos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2027-05-19T15:45:00-03:00",
+    "dataFim": "2027-05-19T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala Bessa",
+    "dataInicio": "2027-05-19T16:15:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Diálogo reflexivo sobre <i>O Papel dos Representantes Técnico-Administrativos nas CPAs</i>, mediado por <b>Geraldo Antunes Sobrinho</b>.</p>",
+    "secao": "Rodas de Diálogo"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala Intermares",
+    "dataInicio": "2027-05-19T16:15:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Intercâmbio participativo sobre <i>Desafios da Representação da Sociedade Civil Organizada</i>, conduzido por <b>Marta Pimentel Viana</b>.</p>",
+    "secao": "Rodas de Diálogo"
+   },
+   {
+    "nome": "Conferência Plenária",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:15:00-03:00",
+    "descricao": "<p>Conferência especial com o tema <i>Meta-Avaliação: Avaliando os Próprios Processos Avaliativos da Instituição</i>, ministrada pelo professor <b>Fernando Nogueira Ramos</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2027-05-20T10:15:00-03:00",
+    "dataFim": "2027-05-20T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Exercício prático de <i>Tratamento de Dados Qualitativos com Apoio de Software Aberto</i>, com tutoria de <b>Danilo Siqueira Arantes</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Treinamento prático de <i>Automatização de Relatórios Anuais de Avaliação Interna</i>, ministrado por <b>Vanessa Peixoto Sales</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Panorâmico",
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Institucionais",
+    "lugar": "Espaço Cultural do Foyer",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Exposição e avaliação comentada de experiências e relatórios resumidos de 24 instituições de ensino superior da Região Nordeste, sob coordenação de <b>Patrícia Beltrão Coeli</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T17:45:00-03:00",
+    "descricao": "<p>Painel temático sobre <i>Avaliação da Pós-Graduação Stricto Sensu e sua Conexão com os Eixos da CPA</i>, com exposições de <b>Cláudio Mendonça Dias</b> e <b>Iara Medeiros Cunha</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Teatro de Arena Externo",
+    "dataInicio": "2027-05-20T18:00:00-03:00",
+    "dataFim": "2027-05-20T19:30:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo regional de cordas e percussão paraibana, com regência do maestro <b>Anchieta Ferreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Plenária",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Ética, Proteção de Dados (LGPD) e Anonimização nas Pesquisas de Clima Institucional</i>, ministrada pela advogada e pesquisadora <b>Heloísa Albuquerque Maranhão</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>A Efetividade dos Planos de Ação Decorrentes dos Relatórios da CPA</i>, reunindo <b>Sérgio Ricardo Antilhas</b>, <b>Lúcia Helena Guimarães</b> e <b>Otávio Prado Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Panorâmico",
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Deliberativa",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Discussão e votação da <i>Carta de Recomendações das CPAs da Paraíba para o Biênio 2027-2029</i>, coordenada por <b>Renata Meira Cavalcanti</b> e <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": "Encerramento e Deliberações"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Rendeiras",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega do Prêmio Destaque em Autoavaliação",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:00:00-03:00",
+    "descricao": "<p>Reconhecimento das melhores iniciativas avaliativas institucionais, com outorga conduzida por <b>Valmir Ramalho de Alencar</b>.</p>",
+    "secao": "Encerramento e Deliberações"
+   },
+   {
+    "nome": "Sessão Solene de Encerramento",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-05-21T17:00:00-03:00",
+    "dataFim": "2027-05-21T17:45:00-03:00",
+    "descricao": "<p>Palavras finais da comissão organizadora e anúncio da sede da décima edição, com <b>Renata Meira Cavalcanti</b>.</p>",
+    "secao": "Encerramento e Deliberações"
+   }
+  ]
+ }
+}

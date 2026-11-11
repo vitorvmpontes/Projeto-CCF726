@@ -1,0 +1,140 @@
+{
+ "spec": {
+  "id": "sint-42-00425",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Santa Maria - RS",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 14,
+  "casos": [
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:16+00:00",
+ "uso_tokens": {
+  "entrada": 654,
+  "saida": 2267
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Gaúcho de Mulheres na Tecnologia da Informação e Computação",
+   "local_geral": "Centro de Tecnologia - Universidade Federal de Santa Maria (UFSM), Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Anexo do CT",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com as coordenadoras <b>Dra. Mariana Dorneles Schirmer</b> e <b>Ma. Renata Silveira da Fontoura</b>, com apresentação das metas de inclusão regional no setor de TI.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2026-05-14T09:40:00-03:00",
+    "dataFim": "2026-05-14T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Trajetórias Femininas na Engenharia de Software: Da Academia à Indústria Global</i>. Ministrada pela engenheira convidada <b>Camila Boaventura da Silva</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2026-05-14T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Retenção e Liderança Feminina em Projetos Open Source e Inteligência Artificial</i>. Com participação de <b>Profa. Dra. Letícia Viana Paim</b>, <b>Juliana Morais Antunes</b> e mediação de <b>Dra. Fernanda Rangel Guedes</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:30:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução à Ciência de Dados com Python e Análise de Viés Algorítmico</i>. Ministrada por <b>Sofia Bittencourt de Souza</b> e <b>Talita Medeiros Vargas</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Defensiva e Análise de Vulnerabilidades em Ambientes Web</i>. Conduzida por <b>Beatriz Albuquerque Nogueira</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Mentoria Coletiva de Carreira",
+    "lugar": "Salão de Eventos do Prédio 7",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:15:00-03:00",
+    "descricao": "<p>Sessão interativa com foco no início de carreira e preparação para processos seletivos em big techs. Mentoras convidadas: <b>Carla Regina Fagundes</b>, <b>Tatiane Meireles Prado</b> e <b>Vanessa Esteves Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala de Seminários 204",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos de graduação e pós-graduação. Trabalhos apresentados: <i>Arquiteturas Resilientes em Nuvem para Cidades Inteligentes</i> por <b>Aline Moreira Zanella</b> e <i>Detecção de Fraudes Financeiras Utilizando Modelos Híbridos de Aprendizado Profundo</i> por <b>Gabriela Duarte Siqueira</b>. Coordenação da sessão por <b>Profa. Dra. Cristina Helena Portela</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala de Seminários 205",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres e protótipos de extensão universitária com foco em computação desplugada nas escolas públicas da região central do RS. Coordenação de <b>Roberta Fagundes Lima</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Computação Quântica: Fundamentos e Oportunidades no Cenário Brasileiro</i>. Palestrante: <b>Dra. Simone Aguiar Casagrande</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2026-05-15T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Comunidades Femininas de Tecnologia no Interior do Estado: Desafios e Próximos Passos</i>. Diálogo aberto com representantes de coletivos universitários e profissionais, sob moderação de <b>Dra. Mariana Dorneles Schirmer</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Wilson Aita",
+    "dataInicio": "2026-05-15T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Premiação dos melhores artigos apresentados no evento e entrega do prêmio de incentivo à pesquisa para estudantes da região central do RS. Condução por <b>Dra. Mariana Dorneles Schirmer</b> e <b>Ma. Renata Silveira da Fontoura</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

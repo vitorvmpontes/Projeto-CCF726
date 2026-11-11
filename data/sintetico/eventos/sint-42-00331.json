@@ -1,0 +1,204 @@
+{
+ "spec": {
+  "id": "sint-42-00331",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 5,
+  "n_atividades": 22,
+  "casos": [
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:24+00:00",
+ "uso_tokens": {
+  "entrada": 664,
+  "saida": 3245
+ },
+ "saida": {
+  "evento": {
+   "nome": "Triângulo DevJam & Maratona Tech 2024",
+   "local_geral": "Centro de Convenções da UFU - Campus Santa Mônica, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Distribuição dos Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Central 5R",
+    "dataInicio": "2024-05-15T09:30:00-03:00",
+    "dataFim": "2024-05-15T11:00:00-03:00",
+    "descricao": "<p>Apresentação das regras gerais, anúncio dos patrocinadores e revelação do tema surpresa da Game Jam e dos desafios da maratona algorítmica pelos coordenadores <b>Lucas Nogueira</b> e <b>Mariana Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 1B",
+    "dataInicio": "2024-05-15T11:15:00-03:00",
+    "dataFim": "2024-05-15T13:00:00-03:00",
+    "descricao": "<p>Tema: <i>Prototipagem Rápida em Godot Engine para Game Jams</i>, ministrado por <b>Rafael de Carvalho</b>.</p>",
+    "secao": "Workshops Preparatórios"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 2B",
+    "dataInicio": "2024-05-15T14:30:00-03:00",
+    "dataFim": "2024-05-15T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Estruturas de Dados Avançadas e Técnicas de Otimização em C++</i>, com o prof. <b>Danilo Siqueira</b>.</p>",
+    "secao": "Workshops Preparatórios"
+   },
+   {
+    "nome": "Início do Hackathon",
+    "lugar": "Arena Tech (Ginásio)",
+    "dataInicio": "2024-05-15T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação dos servidores de submissão e início oficial do período de desenvolvimento contínuo dos projetos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T11:30:00-03:00",
+    "descricao": "<p>Palestra <i>Design de Som Adaptativo para Jogos Independentes</i> apresentada pela desenvolvedora e sound designer <b>Camila Rezende</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Espaço Co-working 1",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T17:00:00-03:00",
+    "descricao": "<p>Atendimento individualizado para equipes de desenvolvimento de jogos com os mentores <b>Guilherme Prata</b> e <b>Beatriz Faria</b> focando em level design e gameplay.</p>",
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Lanche Noturno",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2024-05-16T22:00:00-03:00",
+    "dataFim": "2024-05-16T23:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Warm-up Maratona",
+    "lugar": "Laboratório 3A",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Simulado com problemas de anos anteriores com mediação de <b>Prof. Marcos Teles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Palestra <i>Estratégias de Renderização com Shaders Customizados</i> conduzida por <b>Vitor Antunes</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Espaço Co-working 2",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T18:30:00-03:00",
+    "descricao": "<p>Sessão de mentoria especializada em modelagem matemática e arquitetura de software com <b>Helena Esteves</b> e <b>Bruno Fontes</b>.</p>",
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Midnight Code Sprint",
+    "lugar": "Arena Tech (Ginásio)",
+    "dataInicio": "2024-05-17T23:59:00-03:00",
+    "dataFim": "2024-05-18T03:00:00-03:00",
+    "descricao": "<p>Desafio relâmpago de codificação noturna coordenado por <b>Felipe Bastos</b> valendo pontuação extra no placar geral.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Maratona Oficial de Programação",
+    "lugar": "Laboratórios 1A, 2A e 3A",
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T14:00:00-03:00",
+    "descricao": "<p>Competição oficial com 12 problemas de algoritmos e estruturas de dados sob a coordenação do juiz-chefe <b>Carlos Eduardo Moreira</b>.</p>",
+    "secao": "Competição Principal"
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Espaço Co-working 1",
+    "dataInicio": "2024-05-18T15:00:00-03:00",
+    "dataFim": "2024-05-18T17:30:00-03:00",
+    "descricao": "<p>Revisão de builds intermediárias e testes de usabilidade dos jogos em desenvolvimento com <b>Fernanda Lins</b>.</p>",
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Showcase de Jogos",
+    "lugar": "Hall de Convivência",
+    "dataInicio": "2024-05-18T18:00:00-03:00",
+    "dataFim": "2024-05-18T20:30:00-03:00",
+    "descricao": "<p>Exposição de jogos independentes criados por estúdios de Minas Gerais, sob curadoria de <b>Thiago Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Fim das Submissões da Game Jam",
+    "lugar": null,
+    "dataInicio": "2024-05-19T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Congelamento do repositório e encerramento do prazo de envio dos builds executáveis e códigos-fonte para a plataforma oficial.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Playtest",
+    "lugar": "Arena Tech (Ginásio)",
+    "dataInicio": "2024-05-19T10:30:00-03:00",
+    "dataFim": "2024-05-19T12:30:00-03:00",
+    "descricao": "<p>Banca de avaliação formada pelos jurados <b>Larissa Macedo</b>, <b>Paulo Henrique Rocha</b> e <b>Aline Castro</b> testando os protótipos enviados.</p>",
+    "secao": "Avaliação"
+   },
+   {
+    "nome": "Sessão de Playtest",
+    "lugar": "Arena Tech (Ginásio)",
+    "dataInicio": "2024-05-19T13:30:00-03:00",
+    "dataFim": "2024-05-19T15:00:00-03:00",
+    "descricao": "<p>Abertura das estações de jogos para teste aberto ao público e votação da categoria <i>Escolha Popular</i> com suporte de <b>Lucas Nogueira</b>.</p>",
+    "secao": "Avaliação"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Central 5R",
+    "dataInicio": "2024-05-19T15:30:00-03:00",
+    "dataFim": "2024-05-19T16:45:00-03:00",
+    "descricao": "<p>Tema: <i>O Mercado Regional de Jogos e TI: Oportunidades no Interior de Minas</i>, mediado por <b>Rodrigo Capanema</b>, com participação de <b>Débora Paiva</b> e <b>Gabriel Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Análise das Soluções da Maratona",
+    "lugar": "Auditório Central 5R",
+    "dataInicio": "2024-05-19T17:00:00-03:00",
+    "dataFim": "2024-05-19T18:00:00-03:00",
+    "descricao": "<p>Discussão detalhada dos problemas computacionais com a equipe de juízes liderada por <b>Carlos Eduardo Moreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Central 5R",
+    "dataInicio": "2024-05-19T18:15:00-03:00",
+    "dataFim": "2024-05-19T19:45:00-03:00",
+    "descricao": "<p>Divulgação dos vencedores da Maratona de Programação e da Game Jam, entrega de troféus e fala de fechamento pelos organizadores <b>Mariana Alencar</b> e <b>Lucas Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Final",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2024-05-19T20:00:00-03:00",
+    "dataFim": "2024-05-19T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

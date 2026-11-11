@@ -1,0 +1,59 @@
+{
+ "spec": {
+  "id": "sint-42-00286",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Cuiabá - MT",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:55+00:00",
+ "uso_tokens": {
+  "entrada": 643,
+  "saida": 668
+ },
+ "saida": {
+  "evento": {
+   "nome": "Cuiabá Game & Code Jam 2023",
+   "local_geral": "Hub de Inovação Pantanal Tech, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema",
+    "lugar": "Auditório Tião Carreiro",
+    "dataInicio": "2023-11-18T08:00:00-03:00",
+    "dataFim": "2023-11-18T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas aos participantes e revelação da temática oficial com <b>Vinícius Rondon</b> e <b>Eliane Arantes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2023-11-18T10:30:00-03:00",
+    "dataFim": "2023-11-18T12:00:00-03:00",
+    "descricao": "<p>Apoio técnico para modelagem e mecânicas de gameplay com <b>Guilherme Sato</b> e <b>Beatriz Magalhães</b>.</p>",
+    "secao": "Mentorias Técnicas"
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Laboratório de Prototipagem",
+    "dataInicio": "2023-11-18T14:30:00-03:00",
+    "dataFim": "2023-11-18T16:00:00-03:00",
+    "descricao": "<p>Tira-dúvidas focado em sound design e otimização de shaders com <b>Thiago Albuquerque</b>.</p>",
+    "secao": "Mentorias Técnicas"
+   },
+   {
+    "nome": "Playtest Coletivo e Votação",
+    "lugar": "Arena Central de Jogos",
+    "dataInicio": "2023-11-18T19:00:00-03:00",
+    "dataFim": "2023-11-18T21:00:00-03:00",
+    "descricao": "<p>Apresentação dos protótipos funcionais desenvolvidos durante o dia, avaliados pelo comitê liderado por <b>Larissa Fontes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

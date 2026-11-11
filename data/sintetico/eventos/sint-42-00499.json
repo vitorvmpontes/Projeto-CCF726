@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-42-00499",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "intervalos",
+   "subtitulo_separado",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:31:13+00:00",
+ "uso_tokens": {
+  "entrada": 666,
+  "saida": 2635
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Pantaneiro de Mulheres na Computação",
+   "local_geral": "Complexo Multiuso da UFMS, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora geral <b>Dra. Luciana Ferreira Rios</b> e representantes da comunidade Meninas Digitais MS.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-17T09:30:00-03:00",
+    "dataFim": "2024-10-17T10:45:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Trajetórias Femininas na Ciência de Dados e Liderança Tecnológica</i>, proferida por <b>Mariana Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": null,
+    "dataInicio": "2024-10-17T10:45:00-03:00",
+    "dataFim": "2024-10-17T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-17T11:15:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Desafios e Conquistas no Mercado Corporativo de TI</i>. Participação de <b>Camila Duarte Pires</b>, <b>Beatriz Sanches</b> e mediação de <b>Renata Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-17T12:30:00-03:00",
+    "dataFim": "2024-10-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T16:00:00-03:00",
+    "descricao": "<p>Capacitação prática com foco em <i>Introdução ao Processamento de Linguagem Natural com spaCy</i>, ministrada por <b>Vanessa Gouveia</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T16:00:00-03:00",
+    "descricao": "<p>Treinamento em <i>Desenvolvimento Seguro e Práticas de DevSecOps</i> com a facilitadora <b>Tatiane Meireles</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Saguão dos Laboratórios",
+    "dataInicio": "2024-10-17T16:00:00-03:00",
+    "dataFim": "2024-10-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos de iniciação científica e extensão desenvolvidos por alunas da graduação. Avaliação conduzida por <b>Dra. Juliana Bastos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2024-10-17T17:30:00-03:00",
+    "dataFim": "2024-10-17T18:30:00-03:00",
+    "descricao": "<p>Troca de experiências sob o tema <i>Saúde Mental e Síndrome da Impostora na Pós-Graduação</i>, mediada por <b>Aline Morais</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-18T08:30:00-03:00",
+    "dataFim": "2024-10-18T09:45:00-03:00",
+    "descricao": "<p>Tema abordado: <i>Arquiteturas Resilientes em Nuvem Híbrida</i> com a arquiteta de soluções <b>Gabriela Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2024-10-18T10:00:00-03:00",
+    "dataFim": "2024-10-18T12:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos acadêmicos na área de Computação Aplicada. Coordenação de <b>Dra. Patrícia Viana</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 104",
+    "dataInicio": "2024-10-18T10:00:00-03:00",
+    "dataFim": "2024-10-18T12:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos acadêmicos sobre Sistemas Distribuídos e IA. Coordenação de <b>Dra. Fernanda Lemos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-18T12:00:00-03:00",
+    "dataFim": "2024-10-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel",
+    "lugar": null,
+    "dataInicio": "2024-10-18T13:30:00-03:00",
+    "dataFim": "2024-10-18T15:00:00-03:00",
+    "descricao": "<p>Discussão com foco em <i>Mulheres no Empreendedorismo Tecnológico e Startups do Centro-Oeste</i>, contando com <b>Priscila Furtado</b> e <b>Bruna Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-18T15:15:00-03:00",
+    "dataFim": "2024-10-18T17:00:00-03:00",
+    "descricao": "<p>Atividade imersiva com <i>Design de Experiência do Usuário (UX) para Ambientes Acessíveis</i> ministrada por <b>Carolina Mendonça</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-18T17:15:00-03:00",
+    "dataFim": "2024-10-18T18:15:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Futuro do Trabalho e Ética na Inteligência Artificial Generativa</i>, proferida por <b>Dra. Soraia Carvalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-18T18:15:00-03:00",
+    "dataFim": "2024-10-18T19:00:00-03:00",
+    "descricao": "<p>Anúncio dos melhores artigos e pôsteres, coordenado por <b>Dra. Luciana Ferreira Rios</b> e <b>Dra. Patrícia Viana</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

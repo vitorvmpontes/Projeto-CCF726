@@ -1,0 +1,67 @@
+{
+ "spec": {
+  "id": "sint-42-00386",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Recife - PE",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:30+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 774
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Pernambucano de Direito Processual e Inovação",
+   "local_geral": "Centro de Convenções de Pernambuco, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos com a presença do Presidente da Seccional, <b>Eduardo Cavalcanti</b>, e da Desembargadora <b>Mariana Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 1",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-05-14T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema central: <i>Inteligência Artificial e a Prova Digital no Processo Civil</i>.</p><p>Debatedores: <b>Carlos Henrique Paes</b> e <b>Beatriz Mendonça</b>. Moderação por <b>Roberto Guimarães Filho</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa de Debates 2",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-05-14T11:00:00-03:00",
+    "dataFim": "2027-05-14T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Precedentes Vinculantes e Segurança Jurídica no STJ</i> com os professores <b>Felipe Albuquerque</b> e <b>Camila Duarte Arcoverde</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa de Debates 3",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2027-05-14T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Negócios Jurídicos Processuais e Autonomia Privada</i>. Painelistas: <b>Juliana Braga Leite</b> e <b>Marcos Vinícius Sampaio</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Coquetel de Confraternização e Lançamento de Livros",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-14T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

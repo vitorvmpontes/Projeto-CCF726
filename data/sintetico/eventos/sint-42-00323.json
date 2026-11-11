@@ -1,0 +1,158 @@
+{
+ "spec": {
+  "id": "sint-42-00323",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 16,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:50+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 2434
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Ciência e Engenharia de Materiais do Sudeste",
+   "local_geral": "Faculdade de Engenharia - Universidade Federal de Juiz de Fora (UFJF), Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Bloco Tecnológico",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora-geral do programa, Profa. Dra. <b>Clarice Peixoto Resende</b>, e o diretor da Faculdade de Engenharia, Prof. Dr. <b>Marcos Vinícius Tostes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Fronteiras da Nanotecnologia Aplicada à Transição Energética</i>. Palestrante convidado: Prof. Dr. <b>Henrique Duarte Guimarães</b> (UFRJ).</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrandos na área de biomateriais e cerâmicas avançadas. Avaliação coordenada pela Profa. Dra. <b>Luciana Esteves Brandão</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": null,
+    "dataInicio": "2027-05-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre <i>Desafios no Financiamento da Pós-Graduação e Fomento à Inovação</i>, com a participação dos pesquisadores Dr. <b>Otávio Mendes Ribeiro</b> (FAPEMIG) e Profa. Dra. <b>Renata Nogueira Fialho</b> (UFJF).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Laboratório de Caracterização Estrutural",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Módulo: <i>Difração de Raios X e Método de Rietveld para Análise Quantitativa de Fases</i>, ministrado pelo Dr. <b>Felipe Moreira Castanheira</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 104 - Bloco B",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Comunicações orais do eixo de compósitos poliméricos sustentáveis. Mediação: Prof. Dr. <b>Thiago Alvarenga Leite</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Almoço Integrativo",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:00:00-03:00",
+    "dataFim": "2027-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Exposição dos painéis de doutorandos sobre materiais metálicos e processos de corrosão. Comitê avaliador liderado pelo Prof. Dr. <b>Bernardo Siqueira Campos</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Palestra Plenária",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência intitulada <i>Inteligência Artificial na Predição de Propriedades Mecânicas de Ligas Complexas</i>, proferida pela Dra. <b>Valéria Campos Vasconcellos</b> (USP).</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Reunião de Representantes Discentes",
+    "lugar": null,
+    "dataInicio": "2027-05-20T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro deliberativo com os delegados de pós-graduação, conduzido pelo pós-graduando <b>Gabriel Santana Matos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Laboratório de Computação Aplicada",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Módulo: <i>Modelagem Molecular e Dinâmica Clássica para Iniciantes</i>, ministrado pela Profa. Dra. <b>Carolina Becker Vilaça</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Apresentações de artigos sobre síntese coloidal e filmes finos funcionais. Coordenação do Prof. Dr. <b>Rodrigo Paiva Antunes</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Fórum de Egressos",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Mesa com os ex-alunos Dr. <b>Cristiano Prado Neves</b> e Ma. <b>Juliana Meireles Fontes</b> discutindo <i>Inserção de Mestres e Doutores na Indústria de Alta Tecnologia</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio <i>Jovem Pesquisador Destaque 2027</i> concedido pela comissão presidida pela Profa. Dra. <b>Clarice Peixoto Resende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": null,
+    "dataInicio": "2027-05-21T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

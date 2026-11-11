@@ -1,0 +1,230 @@
+{
+ "spec": {
+  "id": "sint-42-00203",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos",
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:24+00:00",
+ "uso_tokens": {
+  "entrada": 714,
+  "saida": 3994
+ },
+ "saida": {
+  "evento": {
+   "nome": "XVIII Encontro de Fé, Fraternidade e Cidadania Comunitária",
+   "local_geral": "Centro Pastoral São José dos Imigrantes, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida Fraterna e Retirada de Crachás",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2027-08-20T08:00:00-03:00",
+    "dataFim": "2027-08-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Celebração Ecumênica de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2027-08-20T09:00:00-03:00",
+    "dataFim": "2027-08-20T10:15:00-03:00",
+    "descricao": "<p>Abertura solene com oração inter-religiosa e rito da partilha da luz. Condução pelo <b>Padre Renato Silveira</b> e pela <b>Pastora Débora Antunes</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Momento de Oração Silenciosa e Escuta Pastoral",
+    "lugar": "Capela Menor",
+    "dataInicio": "2027-08-20T10:30:00-03:00",
+    "dataFim": "2027-08-20T11:30:00-03:00",
+    "descricao": "<p>Atendimento fraterno com a mediação da <b>Irmã Clarice Moura</b> e do <b>Diácono Jorge Viana</b>.</p>",
+    "secao": "Atendimentos e Espiritualidade"
+   },
+   {
+    "nome": "Conferência Plenária 1",
+    "lugar": "Auditório Santo Agostinho",
+    "dataInicio": "2027-08-20T10:30:00-03:00",
+    "dataFim": "2027-08-20T12:00:00-03:00",
+    "descricao": "<p>Conferência sobre o tema <i>O papel transformador das pastorais sociais e comunidades eclesiais na promoção da dignidade e acolhimento das famílias em vulnerabilidade extrema</i>, ministrada pelo <b>Prof. Marcos Aurélio de Souza</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Almoço Comunitário e Partilha",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2027-08-20T12:00:00-03:00",
+    "dataFim": "2027-08-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Canto Litúrgico",
+    "lugar": "Sala São Pio X",
+    "dataInicio": "2027-08-20T13:30:00-03:00",
+    "dataFim": "2027-08-20T15:30:00-03:00",
+    "descricao": "<p>Treinamento para animadores do canto sagrado com foco em partituras populares. Ministrante: <b>Maestra Bianca Meireles</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Hortas Comunitárias",
+    "lugar": "Horta Didática São Francisco",
+    "dataInicio": "2027-08-20T13:30:00-03:00",
+    "dataFim": "2027-08-20T15:30:00-03:00",
+    "descricao": "<p>Técnicas agroecológicas de cultivo comunitário em quintais urbanos. Instrutores: <b>Eng. Tiago Alencar</b> e <b>Luciana Guimarães</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa Inter-religiosa",
+    "lugar": null,
+    "dataInicio": "2027-08-20T15:45:00-03:00",
+    "dataFim": "2027-08-20T17:15:00-03:00",
+    "descricao": "<p>Debate sobre fraternidade cidadã coordenado pela <b>Dra. Teresa Albuquerque</b>, com a participação de <b>Babalorixá Carlos de Oxum</b> e <b>Sheik Amin Al-Mansur</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Mural de Boas Práticas Comunitárias",
+    "lugar": null,
+    "dataInicio": "2027-08-20T17:30:00-03:00",
+    "dataFim": "2027-08-20T19:00:00-03:00",
+    "descricao": "<p>Apresentação de relatos pastorais com mediação de <b>Rodrigo Castanho</b>. Trabalhos apresentados: <i>Cozinha solidária na Vila Esperança</i> por <b>Marta Figueiredo</b>; <i>Alfabetização de idosos pelo método freiriano na paróquia</i> por <b>Gilberto Santos</b>; <i>Juventude viva contra o extermínio na periferia</i> por <b>Aline Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Círculo de Cantos e Louvores",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2027-08-20T19:30:00-03:00",
+    "dataFim": "2027-08-20T21:00:00-03:00",
+    "descricao": "<p>Apresentação musical aberta ao bairro conduzida pelo <b>Coral Vozes da Esperança</b> sob regência de <b>Estêvão Prado</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Alvorada de Oração Comunitária",
+    "lugar": "Nave Principal",
+    "dataInicio": "2027-08-21T07:30:00-03:00",
+    "dataFim": "2027-08-21T08:30:00-03:00",
+    "descricao": "<p>Laudes matutinas cantadas e reflexão do dia sob a orientação do <b>Irmão Valdir Pereira</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Café Solidário",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2027-08-21T08:30:00-03:00",
+    "dataFim": "2027-08-21T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Santo Agostinho",
+    "dataInicio": "2027-08-21T09:15:00-03:00",
+    "dataFim": "2027-08-21T11:00:00-03:00",
+    "descricao": "<p>Painel com a coordenação de <b>Sílvia Brandão</b>. Temas apresentados: <i>Desafios contemporâneos da acolhida a imigrantes e refugiados</i> por <b>Felipe Dorneles</b>; <i>A justiça restaurativa como instrumento de paz nos bairros populares</i> por <b>Dra. Cecília Magalhães</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Momento de Oração Silenciosa e Escuta Pastoral",
+    "lugar": "Capela Menor",
+    "dataInicio": "2027-08-21T11:00:00-03:00",
+    "dataFim": "2027-08-21T12:00:00-03:00",
+    "descricao": "<p>Atendimento individual e escuta compassiva facilitada pela <b>Pastora Débora Antunes</b> e pelo <b>Padre Milton Carvalho</b>.</p>",
+    "secao": "Atendimentos e Espiritualidade"
+   },
+   {
+    "nome": "Oficina de Teatro Litúrgico Popular",
+    "lugar": "Salão Comunitário 2",
+    "dataInicio": "2027-08-21T14:00:00-03:00",
+    "dataFim": "2027-08-21T16:00:00-03:00",
+    "descricao": "<p>Práticas cênicas para representações bíblicas e comunitárias, dinamizadas pelo ator e dramaturgo <b>Danilo Resende</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Economia Popular Solidária",
+    "lugar": null,
+    "dataInicio": "2027-08-21T14:00:00-03:00",
+    "dataFim": "2027-08-21T16:00:00-03:00",
+    "descricao": "<p>Oficina de formação sobre cooperativismo comunitário e moedas sociais, mediada por <b>Vanessa Nogueira</b> e <b>Cláudio Peçanha</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Conferência Plenária 2",
+    "lugar": "Auditório Santo Agostinho",
+    "dataInicio": "2027-08-21T16:30:00-03:00",
+    "dataFim": "2027-08-21T18:00:00-03:00",
+    "descricao": "<p>Conferência tratando de <i>Metodologias participativas e processos formativos na construção da fraternidade dialógica entre juventudes periféricas e comunidades tradicionais</i>, proferida pela educadora popular <b>Profª. Helena Quintão</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Vigília Jovem pela Vida",
+    "lugar": "Nave Principal",
+    "dataInicio": "2027-08-21T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Noite de testemunhos, orações e adoração com animação do grupo jovem liderado por <b>Matheus Paiva</b> e <b>Lorena Ferraz</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Missa da Aliança dos Povos",
+    "lugar": "Nave Principal",
+    "dataInicio": "2027-08-22T08:30:00-03:00",
+    "dataFim": "2027-08-22T10:00:00-03:00",
+    "descricao": "<p>Celebração eucarística dominical presidida pelo <b>Bispo Dom Geraldo Nascimento</b> com a homilia de <b>Padre Renato Silveira</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Oficina de Mediação de Conflitos na Comunidade",
+    "lugar": "Salão Comunitário 1",
+    "dataInicio": "2027-08-22T10:15:00-03:00",
+    "dataFim": "2027-08-22T11:45:00-03:00",
+    "descricao": "<p>Treinamento para lideranças de bairro em diálogo pacífico, facilitado pela <b>Psic. Carla Mendonça</b> e pelo assistente social <b>Bruno Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Momento de Oração Silenciosa e Escuta Pastoral",
+    "lugar": "Jardim da Ressurreição",
+    "dataInicio": "2027-08-22T10:30:00-03:00",
+    "dataFim": "2027-08-22T11:30:00-03:00",
+    "descricao": "<p>Círculo de escuta ao ar livre sob a facilitação da <b>Irmã Clarice Moura</b>.</p>",
+    "secao": "Atendimentos e Espiritualidade"
+   },
+   {
+    "nome": "Apresentação da Carta de Compromissos Cidadãos",
+    "lugar": "Auditório Santo Agostinho",
+    "dataInicio": "2027-08-22T12:00:00-03:00",
+    "dataFim": "2027-08-22T13:00:00-03:00",
+    "descricao": "<p>Leitura e aprovação pública do documento final do encontro, com coordenação de <b>Dra. Teresa Albuquerque</b> e relatoria de <b>Vinícius Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Comunitário e Partilha",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2027-08-22T13:00:00-03:00",
+    "dataFim": "2027-08-22T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Círculos Bíblicos Populares",
+    "lugar": null,
+    "dataInicio": "2027-08-22T14:30:00-03:00",
+    "dataFim": "2027-08-22T16:00:00-03:00",
+    "descricao": "<p>Avaliação das ações das comunidades de base nas vilas da Região Metropolitana de BH. Coordenação: <b>Zilda Trindade</b> e <b>Frei Beto Lemos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Benção de Envio e Abraço da Paz",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2027-08-22T16:00:00-03:00",
+    "dataFim": "2027-08-22T17:00:00-03:00",
+    "descricao": "<p>Rito final de despedida com envio missionário das equipes e partilha simbólica de pães. Presidido por <b>Dom Geraldo Nascimento</b> e líderes locais.</p>",
+    "secao": "Celebrações Comunitárias"
+   }
+  ]
+ }
+}

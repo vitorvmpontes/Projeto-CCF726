@@ -1,0 +1,142 @@
+{
+ "spec": {
+  "id": "sint-42-00197",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 14,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:50+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 2044
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVI Mostra de Extensão e Cultura da UFPB",
+   "local_geral": "Campus I - Universidade Federal da Paraíba, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall do Centro de Vivência",
+    "dataInicio": "2026-10-21T08:00:00-03:00",
+    "dataFim": "2026-10-21T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Reitor Lynaldo Cavalcanti de Albuquerque",
+    "dataInicio": "2026-10-21T09:30:00-03:00",
+    "dataFim": "2026-10-21T11:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Pró-Reitora de Extensão <b>Maria das Graças Silva</b> e do Reitor <b>Valdiney Veloso Gouveia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda Cultural da Praça da Paz",
+    "dataInicio": "2026-10-21T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical do grupo <i>Coco de Roda do Litoral Paraibano</i>, sob coordenação do mestre <b>Ednaldo dos Santos</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-10-21T12:00:00-03:00",
+    "dataFim": "2026-10-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Térreo do Bloco de Aulas do CCHLA",
+    "dataInicio": "2026-10-21T14:00:00-03:00",
+    "dataFim": "2026-10-21T17:00:00-03:00",
+    "descricao": "<p>Exibição dos projetos da área de Direitos Humanos e Justiça. Avaliação conduzida pelo docente <b>Carlos Alberto Mendonça</b> com a participação da bolsista <b>Camila Peixoto</b> apresentando <i>Acesso à Cidadania nas Comunidades Ribeirinhas do Rio Sanhauá</i>.</p>",
+    "secao": "Mostra de Painéis"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": null,
+    "dataInicio": "2026-10-22T08:30:00-03:00",
+    "dataFim": "2026-10-22T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Práticas de Agroecologia Urbana em Quintais Produtivos</i>, ministrada pela engenheira agrônoma <b>Flávia Medeiros Rocha</b> e pelo técnico <b>Danilo Tavares</b>.</p>",
+    "secao": "Oficinas Comunitárias"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Laboratório de Informática 3 do CI",
+    "dataInicio": "2026-10-22T08:30:00-03:00",
+    "dataFim": "2026-10-22T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inclusão Digital para a Terceira Idade: Primeiros Passos no Smartphone</i>, conduzida pelo facilitador <b>Lucas Dantas Bezerra</b>.</p>",
+    "secao": "Oficinas Comunitárias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-10-22T12:00:00-03:00",
+    "dataFim": "2026-10-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2026-10-22T14:00:00-03:00",
+    "dataFim": "2026-10-22T17:00:00-03:00",
+    "descricao": "<p>Exposição dos trabalhos extensionistas vinculados às áreas de Saúde e Educação. Destaque para o trabalho <i>Prevenção de Doenças Crônicas na Atenção Básica de Mangabeira</i>, orientado pela Profa. Dra. <b>Helena Vasconcelos</b>.</p>",
+    "secao": "Mostra de Painéis"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Tenda Cultural da Praça da Paz",
+    "dataInicio": "2026-10-22T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espetáculo de dança contemporânea <i>Corpos e Marés</i> pelo coletivo teatral universitário, com direção coreográfica de <b>Renata Albuquerque</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2026-10-23T09:00:00-03:00",
+    "dataFim": "2026-10-23T11:00:00-03:00",
+    "descricao": "<p>Diálogo sobre <i>O Papel da Extensão na Formulação de Políticas Públicas Locais</i>, com os debatedores <b>Severino Ramos de Lima</b> e <b>Beatriz Farias Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Hall do Centro de Vivência",
+    "dataInicio": "2026-10-23T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação de Destaques da Extensão",
+    "lugar": "Auditório Reitor Lynaldo Cavalcanti de Albuquerque",
+    "dataInicio": "2026-10-23T14:30:00-03:00",
+    "dataFim": "2026-10-23T16:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas e do Prêmio Elo Cidadão 2026 sob condução da coordenadora <b>Patrícia Aragão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-10-23T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show comemorativo com a cantora paraibana <b>Val Donato</b> e banda convidada.</p>",
+    "secao": "Atividades Culturais"
+   }
+  ]
+ }
+}

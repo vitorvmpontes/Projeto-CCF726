@@ -1,0 +1,350 @@
+{
+ "spec": {
+  "id": "sint-42-00254",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Goiânia - GO",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 40,
+  "casos": [
+   "subtitulo_separado",
+   "titulos_longos",
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:52+00:00",
+ "uso_tokens": {
+  "entrada": 708,
+  "saida": 6315
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UFG 2025",
+   "local_geral": "Câmpus Samambaia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Estudantes e Distribuição de Kits",
+    "lugar": "Centro de Convivência",
+    "dataInicio": "2025-03-10T08:00:00-03:00",
+    "dataFim": "2025-03-10T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais aos calouros, entrega do guia do estudante e crachás de identificação.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Centro de Cultura e Eventos Ricardo Freua Bufáiçal",
+    "dataInicio": "2025-03-10T09:30:00-03:00",
+    "dataFim": "2025-03-10T11:00:00-03:00",
+    "descricao": "<p>Abertura do ano letivo com a presença da reitora <b>Angelita Pereira de Castro</b> e do pró-reitor <b>Israel Elias Trindade</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Centro de Cultura e Eventos Ricardo Freua Bufáiçal",
+    "dataInicio": "2025-03-10T11:00:00-03:00",
+    "dataFim": "2025-03-10T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>A universidade pública como espaço de transformação individual e coletiva na construção de uma sociedade brasileira plural, crítica e inclusiva</i>. Ministrada pela Profa. Dra. <b>Helena Maria dos Santos Barbosa</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Almoço Coletivo no Restaurante Universitário",
+    "lugar": "Restaurante Universitário 1",
+    "dataInicio": "2025-03-10T12:30:00-03:00",
+    "dataFim": "2025-03-10T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Câmpus Samambaia",
+    "lugar": null,
+    "dataInicio": "2025-03-10T14:00:00-03:00",
+    "dataFim": "2025-03-10T16:00:00-03:00",
+    "descricao": "<p>Visita guiada pelos principais prédios e laboratórios coordenada pelos veteranos <b>Rodrigo Alencar Silva</b> e <b>Bruna Meireles Prado</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Tenda Cultural em frente à Reitoria",
+    "dataInicio": "2025-03-10T16:00:00-03:00",
+    "dataFim": "2025-03-10T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Permanência estudantil e saúde mental: desafios do início da vida acadêmica</i>. Mediação de <b>Luciana Guimarães Pires</b> com depoimentos dos bolsistas <b>Thiago Rezende Cruz</b> e <b>Camila Duarte Nogueira</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Show de Acolhimento",
+    "lugar": "Bosque Auguste Saint-Hilaire",
+    "dataInicio": "2025-03-10T18:00:00-03:00",
+    "dataFim": "2025-03-10T20:00:00-03:00",
+    "descricao": "<p>Apresentação musical da banda de discentes sob regência de <b>Gabriel Matos Vilarinho</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Trote Solidário: Coleta de Sangue e Alimentos",
+    "lugar": "Hall do Prédio de Humanidades",
+    "dataInicio": "2025-03-11T08:00:00-03:00",
+    "dataFim": "2025-03-11T12:00:00-03:00",
+    "descricao": "<p>Campanha de doação de alimentos não-perecíveis e agendamento para o Hemocentro Goiás organizada por <b>Mariana Sampaio Correia</b>.</p>",
+    "secao": "Ações Solidárias e Cidadania"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório Multimeios 3",
+    "dataInicio": "2025-03-11T09:00:00-03:00",
+    "dataFim": "2025-03-11T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ferramentas digitais para pesquisa bibliográfica e gestão de tempo acadêmico</i>. Facilitador: <b>Marcos Vinicius Faria</b>.</p>",
+    "secao": "Oficinas de Formação Universitária"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Seminários B - ICB",
+    "dataInicio": "2025-03-11T09:00:00-03:00",
+    "dataFim": "2025-03-11T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução ao SIGAA e aos sistemas corporativos da universidade</i>. Instrutora: <b>Patrícia Lemes Mendonça</b>.</p>",
+    "secao": "Oficinas de Formação Universitária"
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": null,
+    "dataInicio": "2025-03-11T11:00:00-03:00",
+    "dataFim": "2025-03-11T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Compreendendo o funcionamento dos auxílios de alimentação, moradia e transporte da PRAE</i>. Apresentação conduzida por <b>Fernando Gomes Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-03-11T12:30:00-03:00",
+    "dataFim": "2025-03-11T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encontro com Coordenadores de Curso",
+    "lugar": "Auditório da Faculdade de Letras",
+    "dataInicio": "2025-03-11T14:00:00-03:00",
+    "dataFim": "2025-03-11T16:00:00-03:00",
+    "descricao": "<p>Reunião de integração por unidade acadêmica com a coordenadora de graduação <b>Clarice Peixoto Rios</b> e os professores <b>Fábio Augusto Ramos</b> e <b>Denise Albuquerque Vila</b>.</p>",
+    "secao": "Integração Acadêmica"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório da Faculdade de Letras",
+    "dataInicio": "2025-03-11T16:30:00-03:00",
+    "dataFim": "2025-03-11T18:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Representação estudantil e participação política: o papel dos CAs e DAEs</i>. Coordenador: <b>Lucas Peixoto Antunes</b>. Participantes convidados: <b>Amanda Silveira Costa</b> e <b>Jorge Luiz Fontenele</b>.</p>",
+    "secao": "Integração Acadêmica"
+   },
+   {
+    "nome": "Sessão de Pôsteres dos Veteranos",
+    "lugar": "Térreo do Bloco Acadêmico Integrado",
+    "dataInicio": "2025-03-11T18:00:00-03:00",
+    "dataFim": "2025-03-11T19:30:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas dos veteranos premiados no último ano: <i>Mapeamento socioambiental da bacia do Rio Meia Ponte</i>, por <b>Diego Bernardes Castro</b>; e <i>Estratégias de inteligência artificial aplicadas ao diagnóstico precoce</i>, por <b>Larissa Neves Bittencourt</b>.</p>",
+    "secao": "Mostra Científica"
+   },
+   {
+    "nome": "Sarau de Boas-Vindas",
+    "lugar": "Área Verde da Biblioteca Central",
+    "dataInicio": "2025-03-11T19:30:00-03:00",
+    "dataFim": "2025-03-11T21:00:00-03:00",
+    "descricao": "<p>Microfone aberto com intervenção poética dos veteranos e calouros. Curadoria de <b>Lorena Vasconcelos</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Visita Guiada à Biblioteca Central",
+    "lugar": "Biblioteca Central UFG",
+    "dataInicio": "2025-03-12T08:30:00-03:00",
+    "dataFim": "2025-03-12T10:00:00-03:00",
+    "descricao": "<p>Treinamento no acervo físico e bases virtuais de periódicos com a bibliotecária <b>Solange Xavier Morais</b>.</p>",
+    "secao": "Serviços Universitários"
+   },
+   {
+    "nome": "Feira de Oportunidades e Entidades Estudantis",
+    "lugar": "Pátio das Humanidades",
+    "dataInicio": "2025-03-12T10:00:00-03:00",
+    "dataFim": "2025-03-12T12:30:00-03:00",
+    "descricao": "<p>Estandes de empresas juniores, atléticas, coletivos e projetos de extensão. Coordenação geral: <b>Rafael Santana Prado</b>.</p>",
+    "secao": "Serviços Universitários"
+   },
+   {
+    "nome": "Almoço Cultural",
+    "lugar": "Restaurante Universitário 1",
+    "dataInicio": "2025-03-12T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Auditório da Engenharia",
+    "dataInicio": "2025-03-12T14:00:00-03:00",
+    "dataFim": "2025-03-12T16:00:00-03:00",
+    "descricao": "<p>Subtítulo da oficina: <i>Elaboração e estruturação de projetos científicos de extensão universitária com impacto social na comunidade goiana</i>. Conduzida pelo Prof. <b>Álvaro Henrique Siqueira</b> e pela pesquisadora <b>Cintia Fagundes Rocha</b>.</p>",
+    "secao": "Oficinas de Formação Universitária"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": null,
+    "dataInicio": "2025-03-12T16:00:00-03:00",
+    "dataFim": "2025-03-12T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mobilidade internacional e intercâmbio acadêmico para estudantes de graduação</i>. Apresentação de <b>Beatriz Arantes Caldas</b> da Diretoria de Relações Internacionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Cinema Universitário",
+    "lugar": "Cine UFG - Faculdade de Artes Visuais",
+    "dataInicio": "2025-03-12T18:00:00-03:00",
+    "dataFim": "2025-03-12T20:00:00-03:00",
+    "descricao": "<p>Exibição de curtas-metragens produzidos por discentes com debate mediado pelo cineasta e professor <b>Tales Moura Queiroz</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Gincana de Integração - Etapa 1",
+    "lugar": "Parque Aquático e Pista de Atletismo",
+    "dataInicio": "2025-03-13T08:00:00-03:00",
+    "dataFim": "2025-03-13T10:30:00-03:00",
+    "descricao": "<p>Competições esportivas e recreativas entre os cursos orientadas pelos instrutores <b>Otávio Bicalho Neto</b> e <b>Juliana Pavanelli</b>.</p>",
+    "secao": "Torneio Intercalouros"
+   },
+   {
+    "nome": "Gincana de Integração - Etapa 2",
+    "lugar": "Quadra Poliesportiva Coberta",
+    "dataInicio": "2025-03-13T10:30:00-03:00",
+    "dataFim": "2025-03-13T12:30:00-03:00",
+    "descricao": "<p>Provas de agilidade, conhecimentos gerais sobre a universidade e corrida de estafeta supervisionadas por <b>Juliana Pavanelli</b>.</p>",
+    "secao": "Torneio Intercalouros"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": null,
+    "dataInicio": "2025-03-13T12:30:00-03:00",
+    "dataFim": "2025-03-13T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Laboratório de Informática 2 - INF",
+    "dataInicio": "2025-03-13T14:00:00-03:00",
+    "dataFim": "2025-03-13T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Primeiros passos com Linux e softwares livres para uso em pesquisa acadêmica</i>. Ministrante: <b>Wagner Silveira Paiva</b>.</p>",
+    "secao": "Oficinas de Formação Universitária"
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Auditório do IPTSP",
+    "dataInicio": "2025-03-13T15:30:00-03:00",
+    "dataFim": "2025-03-13T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Políticas afirmativas, equidade racial e respeito à diversidade nos espaços acadêmicos de ensino</i>. Coordenadora: <b>Renata Dias Vasconcelos</b>. Debatedores: <b>Gilberto Evangelista dos Santos</b> e <b>Marta Regina Fonseca</b>.</p>",
+    "secao": "Debates Contemporâneos"
+   },
+   {
+    "nome": "Apresentação de Projetos Sociais",
+    "lugar": null,
+    "dataInicio": "2025-03-13T17:00:00-03:00",
+    "dataFim": "2025-03-13T18:30:00-03:00",
+    "descricao": "<p>Apresentação das iniciativas <i>Cursinho Popular Emancipa UFG</i>, por <b>Arthur Meireles Lins</b>, e <i>Educação Ambiental nas Escolas Periféricas</i>, por <b>Sabrina Gouveia Tavares</b>.</p>",
+    "secao": "Debates Contemporâneos"
+   },
+   {
+    "nome": "Festival de Talentos Calouros e Veteranos",
+    "lugar": "Teatro de Arena da UFG",
+    "dataInicio": "2025-03-13T19:00:00-03:00",
+    "dataFim": "2025-03-13T21:30:00-03:00",
+    "descricao": "<p>Apresentações musicais, dança e artes cênicas com jurados convidados sob coordenação de <b>Gisele Arruda Pinto</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Mutirão Ecológico no Câmpus",
+    "lugar": "Ponto de Encontro: Bosque Auguste Saint-Hilaire",
+    "dataInicio": "2025-03-14T08:00:00-03:00",
+    "dataFim": "2025-03-14T09:30:00-03:00",
+    "descricao": "<p>Plantio de mudas nativas do Cerrado e limpeza simbólica do câmpus com o engenheiro ambiental <b>Leandro Barreto Lima</b>.</p>",
+    "secao": "Ações Solidárias e Cidadania"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Central do Câmpus Samambaia",
+    "dataInicio": "2025-03-14T09:30:00-03:00",
+    "dataFim": "2025-03-14T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Iniciação científica e tecnológica: como ingressar em laboratórios desde o primeiro semestre letivo</i>. Palestrantes: <b>Valéria Dantas Barcellos</b> e <b>Sérgio Ricardo Naves</b>.</p>",
+    "secao": "Carreira e Pesquisa"
+   },
+   {
+    "nome": "Palestra 3",
+    "lugar": null,
+    "dataInicio": "2025-03-14T11:00:00-03:00",
+    "dataFim": "2025-03-14T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Planejamento financeiro, autogestão e sustentabilidade pessoal durante os anos de formação no ensino superior</i>. Ministrada pela economista <b>Tatiana Borges Figueiredo</b>.</p>",
+    "secao": "Carreira e Pesquisa"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-03-14T12:30:00-03:00",
+    "dataFim": "2025-03-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Final do Torneio Intercalouros de Futsal",
+    "lugar": "Ginásio de Esportes da UFG",
+    "dataInicio": "2025-03-14T14:00:00-03:00",
+    "dataFim": "2025-03-14T15:30:00-03:00",
+    "descricao": "<p>Partida decisiva entre os calouros de Exatas e Calouros de Biológicas apitada pelo árbitro <b>Marcondes Trindade Silva</b>.</p>",
+    "secao": "Torneio Intercalouros"
+   },
+   {
+    "nome": "Final do Torneio Intercalouros de Voleibol",
+    "lugar": "Ginásio de Esportes da UFG",
+    "dataInicio": "2025-03-14T15:30:00-03:00",
+    "dataFim": "2025-03-14T17:00:00-03:00",
+    "descricao": "<p>Disputa final mista acompanhada pela comissão desportiva coordenada por <b>Marcondes Trindade Silva</b>.</p>",
+    "secao": "Torneio Intercalouros"
+   },
+   {
+    "nome": "Premiação da Gincana e Trote Solidário",
+    "lugar": "Centro de Cultura e Eventos Ricardo Freua Bufáiçal",
+    "dataInicio": "2025-03-14T17:00:00-03:00",
+    "dataFim": "2025-03-14T18:00:00-03:00",
+    "descricao": "<p>Entrega de troféus e certificados às equipes vencedoras com anúncio oficial por <b>Mariana Sampaio Correia</b> e <b>Rodrigo Alencar Silva</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Sessão Solene de Encerramento",
+    "lugar": "Centro de Cultura e Eventos Ricardo Freua Bufáiçal",
+    "dataInicio": "2025-03-14T18:00:00-03:00",
+    "dataFim": "2025-03-14T19:30:00-03:00",
+    "descricao": "<p>Pronunciamento de encerramento da reitora <b>Angelita Pereira de Castro</b> e apresentação do coral da Escola de Música e Artes Cênicas.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Confraternização Universitária",
+    "lugar": "Praça Universitária Virtual / Estacionamento Central",
+    "dataInicio": "2025-03-14T19:30:00-03:00",
+    "dataFim": "2025-03-14T22:00:00-03:00",
+    "descricao": "<p>Momento de integração festiva com apresentações de DJs universitários organizadas pelo Diretório Central dos Estudantes com condução de <b>Camila Duarte Nogueira</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Plantão de Dúvidas sobre Matrícula e Ajuste de Horário",
+    "lugar": null,
+    "dataInicio": "2025-03-14T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atendimento online síncrono para os ingressantes com a equipe de assuntos acadêmicos liderada por <b>Patrícia Lemes Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento das Atividades Noturnas",
+    "lugar": null,
+    "dataInicio": "2025-03-14T22:00:00-03:00",
+    "dataFim": "2025-03-14T22:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

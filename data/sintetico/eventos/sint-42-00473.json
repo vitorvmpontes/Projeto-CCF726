@@ -1,0 +1,197 @@
+{
+ "spec": {
+  "id": "sint-42-00473",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:22+00:00",
+ "uso_tokens": {
+  "entrada": 694,
+  "saida": 3298
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Encontro Carioca de Fé, Cidadania e Ação Comunitária",
+   "local_geral": "Centro Comunitário São Francisco de Assis, Tijuca, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Materiais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Celebração Ecumênica de Abertura",
+    "lugar": "Nave Central",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Momento de oração e comunhão inicial conduzido pelo <b>Padre Marcos Silveira</b> e pela <b>Pastora Débora Lins</b>, celebrando a solidariedade e fraternidade entre as comunidades cariocas.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2025-05-16T10:15:00-03:00",
+    "dataFim": "2025-05-16T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2025-05-16T10:45:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema da conferência: <i>Os desafios contemporâneos da vivência espiritual integrada às ações de transformação social nas periferias urbanas brasileiras</i>. Palestrante: <b>Irmão Carlos Eduardo Peixoto</b>. Mediação: <b>Heloísa Guimarães</b>.</p>",
+    "secao": "Ciclo de Diálogos"
+   },
+   {
+    "nome": "Almoço Solidário",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Oficina: <i>Hortas comunitárias em pequenos espaços urbanos e paróquias</i>. Facilitador: <b>Bento Nogueira</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Oficina: <i>Mediação pacífica de conflitos comunitários e direitos fundamentais</i>. Facilitadora: <b>Clara Menezes</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Sessão de Relatos Comunitários",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Regina Coeli</b>. Trabalhos apresentados:</p><p><i>Pastoral da Criança e combate à desnutrição na Baixada Fluminense</i>, apresentado por <b>Teresa Cristina Rocha</b>;</p><p><i>Círculos bíblicos e acolhimento a imigrantes na Zona Norte</i>, apresentado por <b>Luciano Viana</b>;</p><p><i>Rede solidária de apoio a mães solo em comunidades populares</i>, apresentado por <b>Marta Figueira</b>.</p>",
+    "secao": "Apresentação de Experiências"
+   },
+   {
+    "nome": "Oração da Noite",
+    "lugar": "Nave Central",
+    "dataInicio": "2025-05-16T18:30:00-03:00",
+    "dataFim": "2025-05-16T19:30:00-03:00",
+    "descricao": "<p>Momento de meditação e cantos de Taizé coordenado por <b>Diácono Samuel Alencar</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Nave Central",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T09:00:00-03:00",
+    "descricao": "<p>Cânticos e salmos de acolhida ao novo dia conduzidos pela <b>Irmã Letícia Brandão</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Mesa de Debate Matutina",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>A preservação da casa comum através de práticas sustentáveis e ecológicas promovidas por lideranças de fé locais</i>. Coordenadora de mesa: <b>Mariana Penteado</b>. Expositores: <b>Frei Gustavo Barbosa</b> e <b>Valéria Fontes</b>.</p>",
+    "secao": "Ciclo de Diálogos"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Inter-religiosa",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Diálogo sobre acolhimento e coexistência nas periferias com <b>Mãe Nilce de Iansã</b>, <b>Rabino Marcelo Levin</b> e <b>Bispo Jorge Fagundes</b>. Coordenação: <b>Sérgio Antunes</b>.</p>",
+    "secao": "Ciclo de Diálogos"
+   },
+   {
+    "nome": "Almoço Solidário",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": "2025-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Sala 101",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Oficina de artesanato comunitário sustentável. Instrutores: <b>Alzira Gouveia</b> e <b>Jorge dos Santos</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina Prática 4",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Oficina: <i>Como estruturar projetos sociais comunitários e captar parcerias cidadãs transparentes para territórios de favela</i>. Facilitador: <b>Rodrigo Castanheira</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2025-05-17T16:30:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": "<p>Show com o grupo musical comunitário <i>Vozes da Colina</i>, sob a regência do maestro <b>Jonas Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Jovens Lideranças",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2025-05-18T09:00:00-03:00",
+    "dataFim": "2025-05-18T10:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Larissa Barreto</b>. Comunicações orais:</p><p><i>Juventude e combate à violência armada por meio da arte sacra</i>, apresentado por <b>Matheus Vinícius Dias</b>;</p><p><i>Educação popular e cursinhos comunitários em espaços eclesiais</i>, apresentado por <b>Camila Duarte</b>;</p><p><i>Comunicação digital e redes de apoio a jovens vulneráveis</i>, apresentado por <b>Felipe Andrade</b>.</p>",
+    "secao": "Apresentação de Experiências"
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2025-05-18T10:30:00-03:00",
+    "dataFim": "2025-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": "Auditório Esperança",
+    "dataInicio": "2025-05-18T11:00:00-03:00",
+    "dataFim": "2025-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação e aprovação da <i>Carta Carioca da Cidadania e Esperança</i>. Condução: <b>Padre Marcos Silveira</b> e <b>Regina Coeli</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa Solene de Envio",
+    "lugar": "Nave Central",
+    "dataInicio": "2025-05-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração de bênção e envio dos delegados pastorais e voluntários comunitários, presidida por <b>Dom Odilon Vasconcelos</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   }
+  ]
+ }
+}

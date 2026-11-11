@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00314",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Campinas - SP",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:07+00:00",
+ "uso_tokens": {
+  "entrada": 633,
+  "saida": 1211
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Campineiro de Recursos Hídricos e Justiça Climática 2026",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-21T08:00:00-03:00",
+    "dataFim": "2026-05-21T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-21T08:45:00-03:00",
+    "dataFim": "2026-05-21T10:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Governança das Bacias PCJ e Desafios da Adaptação Climática no Interior Paulista</i> com os especialistas <b>Dr. Henrique Vasconcelos</b> e <b>Eng. Mariana Silveira</b>.</p>",
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Pausa para Café Sustentável",
+    "lugar": null,
+    "dataInicio": "2026-05-21T10:15:00-03:00",
+    "dataFim": "2026-05-21T10:45:00-03:00",
+    "descricao": null,
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Sessão de Diálogos",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-21T10:45:00-03:00",
+    "dataFim": "2026-05-21T12:30:00-03:00",
+    "descricao": "<p>Apresentação da temática <i>Justiça Ambiental e Resiliência Urbana em Áreas Periféricas</i> conduzida por <b>Profa. Dra. Elaine Duarte</b> e mediação de <b>Carlos Eduardo Prado</b>.</p>",
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T12:30:00-03:00",
+    "dataFim": "2026-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": null,
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T16:00:00-03:00",
+    "descricao": "<p>Capacitação técnica intitulada <i>Mapeamento Comunitário de Risco de Enchentes com Ferramentas Livres</i> sob coordenação de <b>Lucas Moretti</b>.</p>",
+    "secao": "Workshops Temáticos"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": null,
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T16:00:00-03:00",
+    "descricao": "<p>Atividade formativa sobre <i>Soluções Baseadas na Natureza aplicadas à Drenagem Urbana Sustentável</i> facilitada por <b>Arq. Bianca Fontana</b>.</p>",
+    "secao": "Workshops Temáticos"
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-21T16:15:00-03:00",
+    "dataFim": "2026-05-21T17:30:00-03:00",
+    "descricao": "<p>Leitura da <i>Carta de Campinas pelas Águas</i> e considerações finais articuladas pelo relator <b>Prof. Gilberto Nogueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-42-00484",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "descricoes_ricas",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:02+00:00",
+ "uso_tokens": {
+  "entrada": 672,
+  "saida": 849
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Pantanal e Cerrado",
+   "local_geral": "Centro de Eventos do Pantanal, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Aula-show 1",
+    "lugar": null,
+    "dataInicio": "2027-08-21T10:00:00-03:00",
+    "dataFim": "2027-08-21T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Reinvenção dos Peixes de Água Doce na Cozinha Contemporânea Cuiabana</i>.</p><p>Coordenador: <b>Chef Marcelo Albuquerque</b> (SENAC-MT).</p><p>Palestrante: <b>Chef Ariadne Siqueira</b> (Restaurante Flor do Cerrado).</p><p>Trabalhos e preparações apresentados:</p><ul><li><i>Pintado em Crosta de Castanha-de-baru com Purê de Mandioca Amarela</i> por <b>Ariadne Siqueira</b></li><li><i>Tártaro de Pacu com Redução de Pequi</i> por <b>Lucas Brandão</b></li></ul>",
+    "secao": "Aulas-Show da Manhã"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": null,
+    "dataInicio": "2027-08-21T14:00:00-03:00",
+    "dataFim": "2027-08-21T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sustentabilidade e Ingredientes Nativos do Centro-Oeste</i>.</p><p>Coordenação: <b>Dra. Simone Matos</b> (UFMT).</p><p>Debatedores convidados: <b>Roberto Cândido</b> (Cooperativa de Pequenos Produtores de Poconé) e <b>Chef Mariana Loureiro</b>.</p><p>Apresentação dos trabalhos de campo:</p><ul><li><i>Manejo Sustentável da Bocaiúva na Baixada Cuiabana</i> por <b>Carlos Eduardo Peres</b></li><li><i>Cadeia Produtiva do Mel de Abelhas Nativas no Pantanal</i> por <b>Fernanda Silveira</b> e <b>Otávio Bastos</b></li></ul>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show 2",
+    "lugar": "Espaço Cozinha Pantaneira",
+    "dataInicio": "2027-08-21T17:30:00-03:00",
+    "dataFim": "2027-08-21T19:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sobremesas e Frutos do Bioma Mato-Grossense</i>.</p><p>Coordenadora de palco: <b>Patrícia Prado</b>.</p><p>Palestrante principal: <b>Chef Paulo Vítor Rondon</b> (Ateliê do Cerrado).</p><p>Demonstração dos pratos autorais:</p><ul><li><i>Mousse de Cumaru com Compota de Mangaba</i> por <b>Paulo Vítor Rondon</b></li><li><i>Sorbet de Cajuí com Telha de Rapadura de Santo Antônio</i> por <b>Renata Nogueira</b></li></ul>",
+    "secao": null
+   }
+  ]
+ }
+}

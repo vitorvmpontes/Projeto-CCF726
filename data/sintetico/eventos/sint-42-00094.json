@@ -1,0 +1,99 @@
+{
+ "spec": {
+  "id": "sint-42-00094",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:38+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 1964
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Congresso Paulista de Direito Processual e Novas Tecnologias",
+   "local_geral": "Centro de Convenções Rebouças, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Franco Montoro",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos com pronunciamento do Coordenador-Geral <b>Dr. Marcus Vinicius Alencar</b> e conferência inaugural proferida pela <b>Dra. Teresa Arruda Alvim</b> intitulada <i>O Impacto dos Precedentes Judiciais na Era Digital</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Franco Montoro",
+    "dataInicio": "2023-08-17T10:30:00-03:00",
+    "dataFim": "2023-08-17T12:30:00-03:00",
+    "descricao": "<p>Tema: Provas Digitais e Cadeia de Custódia no Processo Civil.</p><p>Coordenação de <b>Prof. Dr. Eduardo Talamini</b>. Debatedores: <b>Dra. Juliana Oliveira Nascimento</b> com a exposição <i>A Validade Probatória de Documentos em Blockchain</i> e <b>Dr. Paulo Henrique Lucon</b> abordando <i>Metadados e Ata Notarial Eletrônica: Limites e Possibilidades</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Franco Montoro",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T16:00:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial e Tomada de Decisão Judicial.</p><p>Coordenação de <b>Profa. Dra. Flávia Pereira Hill</b>. Palestrantes convidados: <b>Dr. Dierle Nunes</b> tratando de <i>Algoritmos e Vieses Cognitivos na Jurisdição</i> e <b>Juiz José Wilson Ferreira</b> debatendo <i>Automação de Minutas e a Garantia da Fundamentação Adequada</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Sessão Temática de Pôsteres e Resumos Expandidos",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2023-08-17T16:30:00-03:00",
+    "dataFim": "2023-08-17T18:30:00-03:00",
+    "descricao": "<p>Coordenação da banca de avaliação por <b>Prof. Dr. Ricardo Aprigliano</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Audiências Virtuais e a Efetividade do Contraditório</i>, autoria de <b>Camila Sampaio Rocha</b> e <b>Bruno Mendes Silveira</b>.</p><p>2. <i>A Responsabilidade Civil de Provedores em Decisões Automatizadas</i>, autoria de <b>Felipe Castanheira Neves</b>.</p><p>3. <i>Execução Civil e Ferramentas Eletrônicas de Penhora</i>, autoria de <b>Mariana Prado de Toledo</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Franco Montoro",
+    "dataInicio": "2023-08-18T09:00:00-03:00",
+    "dataFim": "2023-08-18T10:45:00-03:00",
+    "descricao": "<p>Tema: Plataformas ODR e Métodos Adequados de Resolução de Conflitos.</p><p>Coordenação conduzida por <b>Dra. Fernanda Tartuce</b>. Exposições: <b>Dr. Daniel Becker</b> abordando <i>A Mediação Pré-Processual em Ambientes Virtuais</i> e <b>Profa. Andrea Maia</b> apresentando <i>Design de Sistemas de Disputas Corporativas</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": "Auditório Franco Montoro",
+    "dataInicio": "2023-08-18T11:00:00-03:00",
+    "dataFim": "2023-08-18T12:30:00-03:00",
+    "descricao": "<p>Tema: Proteção de Dados e Publicidade Processual na LGPD.</p><p>Coordenação por <b>Dr. Fabrício da Mota Alves</b>. Palestras proferidas por <b>Dra. Laura Schertel Mendes</b> com o tema <i>Segredo de Justiça versus Princípio da Publicidade</i> e <b>Dr. Marcel Leonardi</b> com <i>Tratamento de Dados Pessoais Sensíveis nos Tribunais de Justiça</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Apresentação Oral de Artigos",
+    "lugar": "Sala Vermelha",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": "<p>Coordenadores de sessão: <b>Prof. Lucas Buril de Macêdo</b> e <b>Profa. Sofia Temer</b>.</p><p>Artigos selecionados:</p><p>1. <i>Smart Contracts e a Execução de Título Extrajudicial</i>, por <b>Rodrigo Valente Chaves</b>.</p><p>2. <i>Citações por Aplicativos de Mensagens Instantâneas: Um Estudo Empírico no TJSP</i>, por <b>Larissa Gomide Pinto</b> e <b>Otávio Ribeiro Guedes</b>.</p><p>3. <i>O Uso de Jurimetria na Fixação do Quantum Indenizatório</i>, por <b>Beatriz Coutinho Fagundes</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer Central",
+    "dataInicio": "2023-08-18T16:00:00-03:00",
+    "dataFim": "2023-08-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Franco Montoro",
+    "dataInicio": "2023-08-18T16:30:00-03:00",
+    "dataFim": "2023-08-18T18:00:00-03:00",
+    "descricao": "<p>Conferência magna conduzida pelo <b>Ministro Luís Roberto Barroso</b> com a exposição <i>O Futuro da Justiça e as Transformações Digitais no Poder Judiciário Brasileiro</i>, sob a presidência de mesa de <b>Dra. Patricia Ferraz</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

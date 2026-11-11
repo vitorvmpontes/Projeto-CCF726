@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-42-00327",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Salvador - BA",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "descricoes_ricas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:00+00:00",
+ "uso_tokens": {
+  "entrada": 663,
+  "saida": 926
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum de Autoavaliação Institucional da CPA",
+   "local_geral": "Campus Universitário do Canela, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura das discussões sobre indicadores de qualidade e regulação da educação superior. Coordenação de <b>Patrícia Vilas Boas</b>.</p><p>Palestrantes convidados: <b>Marcos Vinícius Santana</b> abordando <i>A Reestruturação dos Instrumentos Avaliativos do SINAES</i> e <b>Cláudia Meireles de Souza</b> apresentando <i>A Cultura da Autoavaliação e a Tomada de Decisão na Gestão Acadêmica</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Relatos de Experiência",
+    "lugar": "Sala 102 - Pavilhão de Aulas",
+    "dataInicio": "2027-05-18T11:00:00-03:00",
+    "dataFim": "2027-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação de boas práticas nas subcomissões setoriais de avaliação. Coordenação realizada por <b>Jorge Alberto Ramos</b>.</p><p>Trabalhos apresentados: <i>Engajamento Estudantil na Avaliação Docente do Centro de Humanidades</i> por <b>Aline Ferreira Gusmão</b> e <b>Carlos Eduardo Trindade</b>; e <i>Uso de Painéis Interativos de Business Intelligence para Gestão da CPA</i> por <b>Rodrigo Peixoto</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Relatos de Experiência",
+    "lugar": "Sala 104 - Pavilhão de Aulas",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T15:30:00-03:00",
+    "descricao": "<p>Continuidade das apresentações técnicas sobre intervenções de melhoria acadêmica. Coordenação de <b>Lilian Maria Dantas</b>.</p><p>Trabalhos apresentados: <i>Impacto da Avaliação de Infraestrutura no Campus Anísio Teixeira</i> de <b>Danilo Cerqueira Lima</b>; e <i>A Percepção dos Técnicos-Administrativos no Diagnóstico Institucional</i> por <b>Mariana Castro Alencar</b> e <b>Bruno Valadares</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Assembleia Plenária da CPA",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": "2027-05-18T18:00:00-03:00",
+    "descricao": "<p>Sistematização dos resultados e encaminhamentos das diretrizes para o Relatório Anual de Avaliação Institucional. Condução por <b>Patrícia Vilas Boas</b> e <b>Gilberto Sampaio Neves</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

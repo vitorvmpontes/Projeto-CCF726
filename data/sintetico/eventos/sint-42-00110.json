@@ -1,0 +1,155 @@
+{
+ "spec": {
+  "id": "sint-42-00110",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Viçosa - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 16,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:57+00:00",
+ "uso_tokens": {
+  "entrada": 630,
+  "saida": 2392
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Mineiro de Mulheres na Computação",
+   "local_geral": "Departamento de Informática - Universidade Federal de Viçosa (UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Hall do Edifício Arthur Bernardes",
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com a coordenadora geral <b>Dra. Sabrina Silveira</b> e boas-vindas da comissão organizadora das Meninas Digitais UFV.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-17T09:40:00-03:00",
+    "dataFim": "2024-10-17T10:50:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Quebrando Barreiras: A Trajetória Feminina na Ciência de Dados e Inteligência Artificial</i> ministrada por <b>Dra. Clarice de Almeida Faria</b>.</p>",
+    "secao": "Palestras"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2024-10-17T10:50:00-03:00",
+    "dataFim": "2024-10-17T11:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-17T11:20:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Permanência e Representatividade de Gênero na Pós-Graduação em Computação</i>, mediado por <b>Profa. Mirella Martins Moro</b> com as debatedoras <b>Beatriz Guimarães</b> e <b>Luciana Pereira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-17T12:30:00-03:00",
+    "dataFim": "2024-10-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Computação 2",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T17:00:00-03:00",
+    "descricao": "<p>Oficina <i>Desenvolvimento Web Inclusivo com Foco em Acessibilidade Digital</i>, conduzida pela instrutora <b>Renata Vasconcelos</b>.</p>",
+    "secao": "Workshops e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T17:00:00-03:00",
+    "descricao": "<p>Oficina <i>Introdução à Cibersegurança Defensiva e Análise Forense</i>, ministrada pela especialista <b>Mariana Fontes</b>.</p>",
+    "secao": "Workshops e Oficinas"
+   },
+   {
+    "nome": "Sessão de Pôsteres e Projetos",
+    "lugar": "Hall do Edifício Arthur Bernardes",
+    "dataInicio": "2024-10-17T17:00:00-03:00",
+    "dataFim": "2024-10-17T18:30:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos de graduação e pós-graduação sob coordenação de <b>Camila Duarte de Resende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Computação Quântica: Fundamentos e Oportunidades Emergentes</i>, apresentada por <b>Dra. Kelly Cristina Paim</b>.</p>",
+    "secao": "Palestras"
+   },
+   {
+    "nome": "Pitch de Ideias e Startups",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-18T10:30:00-03:00",
+    "dataFim": "2024-10-18T12:00:00-03:00",
+    "descricao": "<p>Apresentação rápida de projetos empreendedores liderados por mulheres, com avaliação das mentoras <b>Flávia Ramos</b> e <b>Ingrid Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-18T12:00:00-03:00",
+    "dataFim": "2024-10-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Computação 1",
+    "dataInicio": "2024-10-18T13:30:00-03:00",
+    "dataFim": "2024-10-18T16:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Processamento de Linguagem Natural com Transformers em Python</i>, facilitada por <b>Carla Regina Mendonça</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Multimídia",
+    "dataInicio": "2024-10-18T13:30:00-03:00",
+    "dataFim": "2024-10-18T16:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Design de Interfaces e Experiência do Usuário (UI/UX) para Sistemas Complexos</i>, com a designer <b>Juliana Nogueira Lima</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Mesa de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-18T16:45:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Mesa com tema <i>Futuro do Trabalho na Tecnologia e Liderança Feminina</i> com participação de <b>Aline Siqueira</b>, <b>Patrícia Gonçalves</b> e mediação de <b>Dra. Sabrina Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Fechamento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-18T18:00:00-03:00",
+    "dataFim": "2024-10-18T18:45:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos e anúncios para o próximo ano com <b>Dra. Sabrina Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

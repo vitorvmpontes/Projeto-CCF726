@@ -1,0 +1,190 @@
+{
+ "spec": {
+  "id": "sint-42-00262",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 20,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "subtitulo_separado",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:16+00:00",
+ "uso_tokens": {
+  "entrada": 697,
+  "saida": 2854
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroBahia Tech Summit 2025",
+   "local_geral": "Centro de Convenções de Salvador, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Oficial",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-11T09:00:00-03:00",
+    "dataFim": "2025-08-11T10:00:00-03:00",
+    "descricao": "<p>Sessão solene de abertura com a participação de <b>Cláudio Meireles</b> e <b>Luciana Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-11T10:30:00-03:00",
+    "dataFim": "2025-08-11T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Transformação Digital e Sustentabilidade no Semiárido Nordestino: Desafios Regulatórios e Oportunidades Tecnológicas para Cadeias Produtivas Regionais</i>, conduzido por <b>Roberto Fontes</b> e <b>Mariana Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2025-08-11T14:00:00-03:00",
+    "dataFim": "2025-08-11T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Thiago Queiroz</b> com o tema <i>Aplicações de Inteligência Artificial Preditiva no Monitoramento de Recursos Hídricos e Otimização do Consumo Energético na Fruticultura Irrigada</i>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Espaço Conexão",
+    "dataInicio": "2025-08-11T14:00:00-03:00",
+    "dataFim": "2025-08-11T15:30:00-03:00",
+    "descricao": "<p>Discussão apresentada por <b>Aline Barreto</b>: <i>Biotecnologia e Bioinsumos na Lavoura Cacaueira</i>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Coquetel de Networking",
+    "lugar": null,
+    "dataInicio": "2025-08-11T18:00:00-03:00",
+    "dataFim": "2025-08-11T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico A",
+    "lugar": "Laboratório 101",
+    "dataInicio": "2025-08-12T09:00:00-03:00",
+    "dataFim": "2025-08-12T11:00:00-03:00",
+    "descricao": "<p>Treinamento prático sob coordenação de <b>Gabriel Sampaio</b> focando em <i>Telemetria e Sensores IoT para Pequenos Produtores</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop Técnico B",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2025-08-12T09:00:00-03:00",
+    "dataFim": "2025-08-12T11:00:00-03:00",
+    "descricao": "<p>Capacitação ministrada por <b>Vanessa Pires</b> sobre <i>Imagens de Satélite no Diagnóstico Nutricional de Pastagens</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-08-12T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups - Etapa 1",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2025-08-12T14:30:00-03:00",
+    "dataFim": "2025-08-12T17:00:00-03:00",
+    "descricao": "<p>Apresentação das agtechs finalistas avaliadas pelos investidores <b>Rodrigo Vasconcelos</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Rodada de Startups"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Espaço Conexão",
+    "dataInicio": "2025-08-13T09:30:00-03:00",
+    "dataFim": "2025-08-13T11:30:00-03:00",
+    "descricao": "<p>Oficina conduzida por <b>Danilo Cerqueira</b>: <i>Elaboração e Gerenciamento de Projetos Agroflorestais com Tecnologias Emergentes Baseadas em Geoprocessamento Avançado e Dados Meteorológicos</i>.</p>",
+    "secao": "Oficinas de Campo"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório 101",
+    "dataInicio": "2025-08-13T09:30:00-03:00",
+    "dataFim": "2025-08-13T11:30:00-03:00",
+    "descricao": "<p>Instrução especializada com <b>Fátima Nogueira</b> abordando <i>Manejo de Drones em Pulverização Agrícola</i>.</p>",
+    "secao": "Oficinas de Campo"
+   },
+   {
+    "nome": "Painel Setorial",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-13T14:00:00-03:00",
+    "dataFim": "2025-08-13T16:00:00-03:00",
+    "descricao": "<p>Mesa com <b>Eduardo Peixoto</b> e <b>Camila Dantas</b> debatendo <i>Rastreabilidade Bovina e Certificações Sustentáveis</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2025-08-13T16:30:00-03:00",
+    "dataFim": "2025-08-13T18:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos sob a coordenação do Prof. <b>Igor Carvalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Inovações",
+    "lugar": null,
+    "dataInicio": "2025-08-14T09:00:00-03:00",
+    "dataFim": "2025-08-14T12:00:00-03:00",
+    "descricao": "<p>Espaço aberto para interação entre empresas e pesquisadores convidados.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups - Etapa 2",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2025-08-14T14:00:00-03:00",
+    "dataFim": "2025-08-14T16:00:00-03:00",
+    "descricao": "<p>Fase classificatória dos modelos de negócio, com banca examinadora chefiada por <b>Patrícia Ramos</b>.</p>",
+    "secao": "Rodada de Startups"
+   },
+   {
+    "nome": "Mesa-redonda Especial",
+    "lugar": "Espaço Conexão",
+    "dataInicio": "2025-08-14T14:00:00-03:00",
+    "dataFim": "2025-08-14T16:00:00-03:00",
+    "descricao": "<p>Com <b>Sérgio Antunes</b> e <b>Tatiana Figueiredo</b> sobre <i>Logística Intermodal e Conectividade no Escoamento da Safra Baiana</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": null,
+    "dataInicio": "2025-08-14T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Governança e Financiamento",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-15T09:30:00-03:00",
+    "dataFim": "2025-08-15T11:30:00-03:00",
+    "descricao": "<p>Discussão liderada por <b>Marcelo Viana</b> com foco em <i>Crédito Verde e Mercado de Capitais para o Agro</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-15T14:30:00-03:00",
+    "dataFim": "2025-08-15T16:00:00-03:00",
+    "descricao": "<p>Entrega dos prêmios de inovação apresentada por <b>Helena Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Atração Cultural",
+    "lugar": null,
+    "dataInicio": "2025-08-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

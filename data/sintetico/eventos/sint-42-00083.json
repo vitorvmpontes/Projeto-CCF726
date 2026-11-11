@@ -1,0 +1,310 @@
+{
+ "spec": {
+  "id": "sint-42-00083",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Salvador - BA",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 35,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:03+00:00",
+ "uso_tokens": {
+  "entrada": 680,
+  "saida": 5956
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Baiano de Educadores da Educação Básica (ENBAED)",
+   "local_geral": "Faculdade de Educação da UFBA, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Acolhimento",
+    "lugar": "Hall de Entrada do Pavilhão de Aulas",
+    "dataInicio": "2024-08-21T08:00:00-03:00",
+    "dataFim": "2024-08-21T09:00:00-03:00",
+    "descricao": "<p>Distribuição de crachás, pastas institucionais e informações gerais aos participantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-21T09:00:00-03:00",
+    "dataFim": "2024-08-21T10:00:00-03:00",
+    "descricao": "<p>Solenidade de boas-vindas com a presença de <b>Profa. Dra. Marlene Santana</b> (UFBA) e <b>Prof. Me. Carlos Eduardo Vieira</b> (Secretaria Municipal de Educação de Salvador).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-21T10:00:00-03:00",
+    "dataFim": "2024-08-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios da Escola Pública Contemporânea: Práticas Antirracistas e Inclusão Social no Cotidiano Docente</i>. Palestrante: <b>Profa. Dra. Nilma Lino Gomes</b>. Coordenação: <b>Prof. Dr. Clóvis Ramaiana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-08-21T12:00:00-03:00",
+    "dataFim": "2024-08-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 101 - Bloco B",
+    "dataInicio": "2024-08-21T13:30:00-03:00",
+    "dataFim": "2024-08-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Alfabetização e Letramento nos Anos Iniciais: Jogos Didáticos e Oralidade</i>. Ministrante: <b>Profa. Ma. Tatiana Meireles</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2024-08-21T13:30:00-03:00",
+    "dataFim": "2024-08-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Educação Especial na Perspectiva Inclusiva: Recursos de Tecnologia Assistiva de Baixo Custo</i>. Ministrante: <b>Prof. Esp. Bruno Matos Costa</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Laboratório de Ciências - Bloco A",
+    "dataInicio": "2024-08-21T13:30:00-03:00",
+    "dataFim": "2024-08-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Investigação Científica no Ensino Fundamental II a partir de Experimentos Cotidianos</i>. Ministrante: <b>Profa. Dra. Gabriela Pinho</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 4",
+    "lugar": "Sala 204 - Bloco C",
+    "dataInicio": "2024-08-21T13:30:00-03:00",
+    "dataFim": "2024-08-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Literatura Infantojuvenil Negra na Construção da Identidade Escolar</i>. Ministrante: <b>Prof. Me. Rodrigo dos Santos Oliveira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-08-21T15:30:00-03:00",
+    "dataFim": "2024-08-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Sala de Dança - Térreo",
+    "dataInicio": "2024-08-21T16:00:00-03:00",
+    "dataFim": "2024-08-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Saúde Mental e Bem-Estar Docente: Cuidar de Quem Ensina</i>. Mediadora: <b>Psic. Fernanda Guimarães</b>. Debatedoras convidadas: <b>Profa. Renata Caldas</b> e <b>Profa. Joana Angélica Ribeiro</b>.</p>",
+    "secao": "Rodas Dialógicas"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Auditório 2 - Glauber Rocha",
+    "dataInicio": "2024-08-21T16:00:00-03:00",
+    "dataFim": "2024-08-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Gestão Democrática e Participação Comunitária na Escola Básica</i>. Mediador: <b>Prof. Dr. Washington Conceição</b>. Debatedores: <b>Prof. Marcos Vinicius Alencar</b> e <b>Profa. Débora Silveira</b>.</p>",
+    "secao": "Rodas Dialógicas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-08-21T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do grupo percussivo da Escola Comunitária Ilê Aiyê, com direção musical de <b>Mestre Jackson Bahia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Currículo da Bahia e BNCC: Alinhamentos, Críticas e Desafios de Implementação</i>. Coordenação: <b>Profa. Dra. Sueli Cerqueira</b>. Debatedores: <b>Prof. Dr. Gilmar Ferreira</b> e <b>Profa. Ma. Eliana Passos</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório 2 - Glauber Rocha",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial e Tecnologias Digitais em Sala de Aula: Usos Críticos e Criativos</i>. Coordenação: <b>Prof. Me. Robson Araújo</b>. Palestrantes: <b>Profa. Dra. Larissa Viana</b> e <b>Prof. Me. Caio Castro Santos</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Intervalo com Lanche",
+    "lugar": null,
+    "dataInicio": "2024-08-22T10:30:00-03:00",
+    "dataFim": "2024-08-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Foyer do Auditório 1",
+    "dataInicio": "2024-08-22T11:00:00-03:00",
+    "dataFim": "2024-08-22T12:30:00-03:00",
+    "descricao": "<p>Exposição de trabalhos de professores da rede estadual e municipal. Trabalhos em destaque: <i>Horta Escolar Como Laboratório Vivo nos Anos Iniciais</i>, por <b>Ana Paula Lemos</b>; <i>Matemática e Etnomatemática no Terreiro de Candomblé</i>, por <b>Darlan dos Anjos</b>; <i>Leitura Compartilhada com Famílias na Educação Infantil</i>, por <b>Clara Menezes</b>.</p>",
+    "secao": "Mostra de Experiências"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-22T12:30:00-03:00",
+    "dataFim": "2024-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 101 - Bloco B",
+    "dataInicio": "2024-08-22T14:00:00-03:00",
+    "dataFim": "2024-08-22T16:00:00-03:00",
+    "descricao": "<p>Eixo: Alfabetização e Letramento. Coordenação: <b>Profa. Dra. Ivoneide Cruz</b>. Apresentações: <i>A Cantiga Popular no Processo de Alfabetização</i>, por <b>Lúcia Helena Barbosa</b>; <i>Práticas de Leitura Literária no 3º Ano do Ensino Fundamental</i>, por <b>Mariana Pires</b> e <b>Jorge Luís Teixeira</b>; <i>O Diário de Bordo como Instrumento de Avaliação Formativa</i>, por <b>Rita de Cássia Moura</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2024-08-22T14:00:00-03:00",
+    "dataFim": "2024-08-22T16:00:00-03:00",
+    "descricao": "<p>Eixo: Educação das Relações Étnico-Raciais. Coordenação: <b>Prof. Dr. Valter Silva</b>. Trabalhos: <i>História Afro-Brasileira nas Séries Finais: Uma Proposta Interdisciplinar</i>, por <b>Fabiana Santana</b>; <i>Capoeira e Educação Física Escolar: Saberes Ancestrais</i>, por <b>Moisés de Jesus Bispo</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 3",
+    "lugar": "Sala 203 - Bloco C",
+    "dataInicio": "2024-08-22T14:00:00-03:00",
+    "dataFim": "2024-08-22T16:00:00-03:00",
+    "descricao": "<p>Eixo: Ensino de Ciências e Matemática. Coordenador: <b>Prof. Me. Paulo Sérgio Ramos</b>. Trabalhos: <i>Modelagem Matemática na Educação de Jovens e Adultos</i>, por <b>Camila Duarte</b>; <i>Astronomia Amadora com Sucata no Ensino Médio</i>, por <b>Felipe Fagundes</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-08-22T16:00:00-03:00",
+    "dataFim": "2024-08-22T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-22T16:30:00-03:00",
+    "dataFim": "2024-08-22T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Lei 10.639/03 Completa 21 Anos: O Que Avançamos e Para Onde Vamos?</i>. Coordenadora da sessão: <b>Profa. Dra. Bárbara Carine</b>. Debatedoras: <b>Profa. Ma. Vânia Lúcia Alves</b> e <b>Profa. Rosangela Accioly</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento de Livros e Sessão de Autógrafos",
+    "lugar": "Hall de Entrada do Pavilhão de Aulas",
+    "dataInicio": "2024-08-22T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Lançamento coletivo de obras pedagógicas de autoria de professores da rede pública baiana. Autores presentes: <b>Maria da Glória Assis</b>, <b>José Roberto Brandão</b> e <b>Aline Valéria Matos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates Matutino",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-23T08:30:00-03:00",
+    "dataFim": "2024-08-23T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Novo Ensino Médio e a Educação Profissional: Impactos na Realidade Escolar da Bahia</i>. Palestrantes: <b>Prof. Dr. Dante Henrique Moura</b> e <b>Profa. Tereza Farias</b>. Mediação: <b>Prof. Antônio Carlos Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 5",
+    "lugar": "Sala 101 - Bloco B",
+    "dataInicio": "2024-08-23T10:15:00-03:00",
+    "dataFim": "2024-08-23T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Podcast Escolar e Produção de Áudio como Prática de Letramento Digital</i>. Ministrante: <b>Prof. Me. Lucas Dantas</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 6",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2024-08-23T10:15:00-03:00",
+    "dataFim": "2024-08-23T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Avaliação Formativa e Rubricas: Saindo da Cultura da Nota Punitiva</i>. Ministrante: <b>Profa. Dra. Simone Souza</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 7",
+    "lugar": "Sala 204 - Bloco C",
+    "dataInicio": "2024-08-23T10:15:00-03:00",
+    "dataFim": "2024-08-23T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Brincadeiras e Tradições Indígenas e Afro-Brasileiras na Educação Infantil</i>. Ministrante: <b>Profa. Ma. Nairan Silva Barreto</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-23T12:00:00-03:00",
+    "dataFim": "2024-08-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Relatos de Experiência 1",
+    "lugar": "Sala 101 - Bloco B",
+    "dataInicio": "2024-08-23T13:30:00-03:00",
+    "dataFim": "2024-08-23T15:00:00-03:00",
+    "descricao": "<p>Eixo: Gestão de Sala de Aula e Convivência Escolar. Relatos apresentados: <i>Círculos Restaurativos e Mediação de Conflitos no Cotidiano da Escola</i>, por <b>Silvana Portela</b>; <i>Assembleia Escolar com Crianças de 6 a 8 Anos</i>, por <b>Daniela Figueiredo</b>. Coordenação: <b>Prof. Esp. Otávio Ramos</b>.</p>",
+    "secao": "Mostra de Experiências"
+   },
+   {
+    "nome": "Relatos de Experiência 2",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2024-08-23T13:30:00-03:00",
+    "dataFim": "2024-08-23T15:00:00-03:00",
+    "descricao": "<p>Eixo: Educação do Campo e Saberes Tradicionais. Relatos apresentados: <i>Agroecologia e Soberania Alimentar na Escola Quilombola</i>, por <b>Tiago de Jesus Santos</b>; <i>Memória Oral dos Pescadores Artesanais e o Currículo de Geografia</i>, por <b>Vera Lúcia Gomes</b>. Coordenadora: <b>Profa. Dra. Eunice Macedo</b>.</p>",
+    "secao": "Mostra de Experiências"
+   },
+   {
+    "nome": "Relatos de Experiência 3",
+    "lugar": "Sala 203 - Bloco C",
+    "dataInicio": "2024-08-23T13:30:00-03:00",
+    "dataFim": "2024-08-23T15:00:00-03:00",
+    "descricao": "<p>Eixo: Artes e Corporeidade. Relatos apresentados: <i>Teatro do Oprimido com Alunos da EJA</i>, por <b>Marcos André Prado</b>; <i>Expressão Corporal e Samba de Roda no Espaço Escolar</i>, por <b>Nádia Soares</b>. Coordenador: <b>Prof. Me. Leandro Nogueira</b>.</p>",
+    "secao": "Mostra de Experiências"
+   },
+   {
+    "nome": "Pausa Café",
+    "lugar": null,
+    "dataInicio": "2024-08-23T15:00:00-03:00",
+    "dataFim": "2024-08-23T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Docentes",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-23T15:30:00-03:00",
+    "dataFim": "2024-08-23T16:45:00-03:00",
+    "descricao": "<p>Apresentação e aprovação da <i>Carta de Salvador pela Valorização dos Professores da Educação Básica</i>. Condução: <b>Prof. Rui Barbosa de Oliveira</b> e <b>Profa. Clarice Nascimento</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-23T17:00:00-03:00",
+    "dataFim": "2024-08-23T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Esperançar em Tempos Incertos: O Futuro da Profissão Docente no Brasil</i>. Conferencista: <b>Prof. Dr. Gaudêncio Frigotto</b>. Mediação: <b>Profa. Dra. Marlene Santana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório 1 - Dois de Julho",
+    "dataInicio": "2024-08-23T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Premiação dos melhores relatos de prática pedagógica, entrega simbólica de certificados e apresentação da comissão organizadora de 2025.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,131 @@
+{
+ "spec": {
+  "id": "sint-42-00332",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Campinas - SP",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 13,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:23+00:00",
+ "uso_tokens": {
+  "entrada": 636,
+  "saida": 1973
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Campineiro de Direito Digital e Sociedade",
+   "local_geral": "Centro de Convenções Expo D. Pedro, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral <b>Dr. Marcos Vinícius Prado</b> e pela presidente da comissão <b>Dra. Cecília Arantes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": "2025-05-15T11:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Inteligência Artificial e Processo Civil: Desafios Probatórios</i>, com intervenções de <b>Prof. Dr. Juliano Moreira</b> e <b>Dra. Patrícia Alencar</b>. Mediação de <b>Renato Nogueira</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T11:45:00-03:00",
+    "dataFim": "2025-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-15T13:30:00-03:00",
+    "dataFim": "2025-05-15T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Proteção de Dados Pessoais nas Relações de Trabalho Remoto</i>, apresentada por <b>Dra. Fernanda Lins</b> e <b>Dr. Carlos Eduardo Barreto</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Coffee Break da Tarde",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-15T15:30:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-15T16:00:00-03:00",
+    "dataFim": "2025-05-15T18:00:00-03:00",
+    "descricao": "<p>Painel intitulado <i>Regulação de Plataformas Digitais e Liberdade de Expressão</i> com <b>Prof. Rodolfo Siqueira</b>, <b>Dra. Beatriz Castello</b> e mediação de <b>Dr. Thiago Guimarães</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Painel de Abertura do Segundo Dia",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Exposição especial com o tema <i>Segurança Cibernética e a Resiliência das Instituições Públicas</i> conduzida pelo conselheiro <b>Dr. Otávio Bueno</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 4",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Criptoativos, Smart Contracts e o Direito Cambial Moderno</i> com palestras de <b>Dra. Helena Furtado</b> e <b>Dr. Marcelo Fagundes</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:45:00-03:00",
+    "dataFim": "2025-05-16T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 5",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-16T14:15:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Análise do tema <i>Responsabilidade Civil de Provedores e Algoritmos Preditivos</i> com o desembargador <b>Dr. Flávio Antunes</b> e a pesquisadora <b>Profa. Mariana Sales</b>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Jequitibá",
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": "2025-05-16T17:15:00-03:00",
+    "descricao": "<p>Considerações finais apresentadas pela coordenadora acadêmica <b>Dra. Cecília Arantes</b> e entrega de menções honrosas pelo diretor <b>Dr. Marcos Vinícius Prado</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

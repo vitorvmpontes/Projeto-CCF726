@@ -1,0 +1,270 @@
+{
+ "spec": {
+  "id": "sint-42-00242",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Goiânia - GO",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 30,
+  "casos": [
+   "subtitulo_separado",
+   "nomes_repetidos",
+   "sem_local",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:33+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 3891
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Centro-Oeste de Sustentabilidade e Conservação do Cerrado",
+   "local_geral": "Centro de Convenções de Goiânia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora geral <b>Dra. Mariana Fagundes</b> e autoridades ambientais convidadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-15T09:45:00-03:00",
+    "dataFim": "2024-05-15T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>O papel das savanas tropicais no equilíbrio climático global</i>. Palestrante: <b>Prof. Dr. Henrique Cerqueira</b> (UFG).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T10:45:00-03:00",
+    "dataFim": "2024-05-15T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-15T11:15:00-03:00",
+    "dataFim": "2024-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Recuperação de nascentes e bacias hidrográficas no Planalto Central</i>. Debatedores: <b>Dra. Clarice Mendes</b> e <b>Eng. Roberto Godoy</b>. Moderação: <b>Me. Lucas Alencar</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:30:00-03:00",
+    "dataFim": "2024-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala Buriti",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Módulo prático sobre <i>Geoprocessamento aplicado ao monitoramento de desmatamento</i>, ministrado pelo instrutor <b>Geógrafo Thiago Peixoto</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala Jatobá",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Capacitação técnica em <i>Técnicas de restauração florestal em áreas degradadas</i> com a especialista <b>Biol. Flávia Nogueira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-15T16:00:00-03:00",
+    "dataFim": "2024-05-15T17:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos científicos submetidos sob coordenação de <b>Prof. Valter Antunes</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-15T17:00:00-03:00",
+    "dataFim": "2024-05-15T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Agroecologia e produção familiar sustentável em Goiás</i>. Participação de <b>Maria Aparecida Silveira</b> e <b>Dr. Elton Tavares</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mostra de Curtas Ambientais",
+    "lugar": null,
+    "dataInicio": "2024-05-15T18:45:00-03:00",
+    "dataFim": "2024-05-15T20:00:00-03:00",
+    "descricao": "<p>Exibição e debate do documentário <i>Vozes das Águas do Cerrado</i>, com comentários da cineasta <b>Camila Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Licenciamento ambiental e segurança jurídica de empreendimentos</i>. Expositores: <b>Dr. André Villas-Bôas</b> e <b>Dra. Simone Rezende</b>. Mediação de <b>Profa. Renata Carvalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Trabalhos Orais",
+    "lugar": "Sala Buriti",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Sessão de artigos no eixo temático <i>Recursos Hídricos e Saneamento Básico</i>. Avaliadores: <b>Dr. Gilberto Brandão</b> e <b>Dra. Juliana Prado</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação de Trabalhos Orais",
+    "lugar": "Sala Jatobá",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Apresentações no eixo <i>Políticas Públicas e Conservação da Biodiversidade</i>. Comitê examinador: <b>Prof. Márcio Queiroz</b> e <b>Dra. Eliana Salles</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:30:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Sala Buriti",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Elaboração de inventários de emissões de gases de efeito estufa para municípios</i>. Facilitadora: <b>Eng. Patrícia Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T17:00:00-03:00",
+    "descricao": "<p>Exposição e arguição da segunda rodada de pôsteres científicos, coordenada por <b>Profa. Beatriz Viana</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-16T17:00:00-03:00",
+    "dataFim": "2024-05-16T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Transição energética e desafios das matrizes renováveis no Centro-Oeste</i>. Palestrantes: <b>Dr. Samuel Linhares</b> e <b>Enga. Soraia Fontes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Lançamento de Livros",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2024-05-16T18:30:00-03:00",
+    "dataFim": "2024-05-16T19:30:00-03:00",
+    "descricao": "<p>Sessão de autógrafos da obra <i>Flora Ameaçada de Goiás: Diagnóstico e Conservação</i> com os autores <b>Dr. Marcelo Guimarães</b> e <b>Dra. Lívia Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mercado de créditos de carbono e governança socioambiental corporativa (ESG)</i>. Palestrantes: <b>Alexandre Motta</b> e <b>Dra. Fernanda Siqueira</b>. Mediação: <b>Prof. Daniel Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala Buriti",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Bioindicadores aquáticos na avaliação da integridade ambiental</i>, ministrado pelo <b>Prof. Rogério Bastos</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Sala Jatobá",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Gestão de resíduos sólidos e logística reversa na prática empresarial</i>, com a consultora <b>Denise Albuquerque</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:30:00-03:00",
+    "dataFim": "2024-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Fórum de Debates",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias intersetoriais para mitigação de queimadas no Bioma Cerrado</i>. Participação aberta com coordenação de <b>Coronel Ciro Ramos</b> e <b>Dra. Teresa Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": null,
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T17:00:00-03:00",
+    "descricao": "<p>Divulgação dos premiados nas modalidades oral e pôster pela presidente do comitê científico <b>Profa. Helena Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-17T17:00:00-03:00",
+    "dataFim": "2024-05-17T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Futuros sustentáveis: a urgência de um pacto nacional pelo Cerrado</i>, apresentada pelo <b>Dr. Washington Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Ipê Amarelo",
+    "dataInicio": "2024-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão organizadora presidida pela <b>Dra. Mariana Fagundes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "spec": {
+  "id": "sint-42-00351",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Campo Grande - MS",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos",
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:50+00:00",
+ "uso_tokens": {
+  "entrada": 703,
+  "saida": 1461
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Pantanal e Cerrado 2026",
+   "local_geral": "Parque das Nações Indígenas, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Degustação de Boas-Vindas",
+    "lugar": "Arena Gourmet Pantaneira",
+    "dataInicio": "2026-05-14T18:00:00-03:00",
+    "dataFim": "2026-05-14T20:00:00-03:00",
+    "descricao": "<p>Abertura solene conduzida pelo coordenador geral <b>Carlos Eduardo Mansur</b>, seguida por degustação harmonizada com produtos regionais da agricultura familiar sul-mato-grossense.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2026-05-14T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Nesta sessão especial, a chef <b>Renata Albuquerque</b> apresenta a aula intitulada <i>Técnicas Contemporâneas de Cocção Lenta Aplicadas aos Cortes Nobres de Carnes Autóctones da Planície Pantaneira e Bacia Platina</i>.</p>",
+    "secao": "Aulas-Show e Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Gastronômica Matutina",
+    "lugar": null,
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Oficina prática com mediação da gastrônoma <b>Mariana Fagundes</b>. Trabalhos demonstrados pelos pesquisadores convidados: <i>Resgate de fermentações tradicionais com mandioca brava</i> por <b>Guilherme Dorneles</b> e <i>Aproveitamento integral da bocaiuva na panificação artesanal</i> por <b>Ana Beatriz Silveira</b>.</p>",
+    "secao": "Aulas-Show e Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão Técnica de Comunicações Gastronômicas",
+    "lugar": null,
+    "dataInicio": "2026-05-15T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coordenação de <b>Prof. Dr. Marcos Vinícius Nogueira</b>. Apresentações dos artigos: <i>Sustentabilidade e valorização da cadeia produtiva do pequi</i> por <b>Clarisse Antunes</b> e <i>Cartografia dos saberes culinários terena em Mato Grosso do Sul</i> por <b>Tariq Benites</b>.</p>",
+    "secao": "Painéis e Debates Científicos"
+   },
+   {
+    "nome": "Painel de Sustentabilidade",
+    "lugar": null,
+    "dataInicio": "2026-05-16T10:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Painel coordenado pela pesquisadora <b>Heloísa Brandão</b> com a palestra <i>Desafios Logísticos e Culturais para a Comercialização Ética de Ingredientes Nativos Coletados Sustentavelmente por Comunidades Tradicionais do Cerrado</i>, proferida pelo biólogo <b>Rodrigo Viana</b> e complementada pela agrônoma <b>Solange Prado</b>.</p>",
+    "secao": "Painéis e Debates Científicos"
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Show Principal",
+    "dataInicio": "2026-05-16T16:00:00-03:00",
+    "dataFim": "2026-05-16T18:00:00-03:00",
+    "descricao": "<p>Demonstração culinária com a chef confeiteira <b>Lúcia Helena Siqueira</b>, abordando técnicas modernas de confeitaria utilizando frutas nativas como jatobá, guavira e cumbaru.</p>",
+    "secao": "Aulas-Show e Oficinas Práticas"
+   },
+   {
+    "nome": "Circuito Degustativo dos Saberes Indígenas",
+    "lugar": "Espaço Aldeia Urbana",
+    "dataInicio": "2026-05-17T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Experiência guiada pela líder comunitária <b>Iara Kadiwéu</b> e pela cozinheira <b>Neide Souza</b>, apresentando preparos ancestrais à base de milho e peixes de água doce.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-17T16:30:00-03:00",
+    "dataFim": "2026-05-17T18:30:00-03:00",
+    "descricao": "<p>Conferência especial ministrada pelo chef e historiador <b>Paulo Mendes Ribeiro</b> com o tema <i>A Cozinha de Fronteira como Elemento Unificador das Matrizes Identitárias Entre o Pantanal Brasileiro e o Chaco Paraguaio</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

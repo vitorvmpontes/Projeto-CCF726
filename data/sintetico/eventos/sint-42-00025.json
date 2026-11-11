@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-42-00025",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local",
+   "intervalos",
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:05+00:00",
+ "uso_tokens": {
+  "entrada": 678,
+  "saida": 773
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Confluências Urbanas 2023",
+   "local_geral": "Centro Cultural São Paulo, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Acolhimento",
+    "lugar": null,
+    "dataInicio": "2023-10-14T09:00:00-03:00",
+    "dataFim": "2023-10-14T10:00:00-03:00",
+    "descricao": "<p>Retirada de pulseiras e material informativo do festival.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala de Ensaio 2",
+    "dataInicio": "2023-10-14T10:30:00-03:00",
+    "dataFim": "2023-10-14T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Xilogravura Popular e Estamparia Manual</i>. Ministrada pela artista visual <b>Camila Rezende</b>, abordando processos artesanais de matriz e impressão têxtil.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2023-10-14T10:30:00-03:00",
+    "dataFim": "2023-10-14T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Construção de Beats e Paisagens Sonoras Periféricas</i>. Conduzida pelo produtor <b>DJ Marcelo Guarnieri</b>, explorando softwares livres de produção musical.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-14T12:30:00-03:00",
+    "dataFim": "2023-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-10-14T14:30:00-03:00",
+    "dataFim": "2023-10-14T16:00:00-03:00",
+    "descricao": "<p>Apresentação do espetáculo <i>Cantos de Barro e Asfalto</i>, com a cantora <b>Iara Silveira</b> e o percussionista <b>Thiago dos Santos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

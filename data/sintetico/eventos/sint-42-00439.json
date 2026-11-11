@@ -1,0 +1,163 @@
+{
+ "spec": {
+  "id": "sint-42-00439",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Natal - RN",
+  "ano": 2023,
+  "n_dias": 4,
+  "n_atividades": 17,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:15+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 2716
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXII Semana Acadêmica de Engenharia de Aquicultura da UFRN",
+   "local_geral": "Campus Central da UFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Calouros e Entrega de Kits",
+    "lugar": "Hall do Centro de Biociências",
+    "dataInicio": "2023-10-17T08:00:00-03:00",
+    "dataFim": "2023-10-17T09:00:00-03:00",
+    "descricao": "<p>Acolhimento dos estudantes de graduação e distribuição de material institucional conduzido por <b>Juliana Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2023-10-17T09:30:00-03:00",
+    "dataFim": "2023-10-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inovações Biotecnológicas no Cultivo de Tilápias em Águas Potiguares</i>, ministrada pelo <b>Dr. Marcelo Tavares Montenegro</b> (EMPARN) com mediação da <b>Profa. Dra. Samara Cavalcanti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2023-10-17T14:00:00-03:00",
+    "dataFim": "2023-10-17T16:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Desafios Sanitários e Licenciamento Ambiental na Carcinicultura do Semiárido</i>. Participação de <b>Eng. Rodrigo Albuquerque</b> (ABCC) e <b>Dra. Cecília Pontes</b> (IDEMA). Moderação de <b>Prof. Gilberto Assis</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2023-10-17T16:45:00-03:00",
+    "dataFim": "2023-10-17T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de iniciação científica avaliados pelos docentes <b>Prof. Renan Dantas</b> e <b>Profa. Teresa Cristina Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Nutrição Aquática",
+    "dataInicio": "2023-10-18T08:30:00-03:00",
+    "dataFim": "2023-10-18T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Formulação de Rações Alternativas com Subprodutos Regionais</i>, ministrado pelo zootecnista <b>Felipe Bezerra de Araújo</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Sanidade Aquícola",
+    "dataInicio": "2023-10-18T08:30:00-03:00",
+    "dataFim": "2023-10-18T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Diagnóstico Rápido de Patologias em Camarão-Branco-do-Pacífico</i>, conduzido pela <b>Dra. Lorena Albuquerque Meireles</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Sistemas de Recirculação de Água (RAS) para Pequenos Produtores</i>, com o consultor <b>Eng. Walter Pinheiro Neto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Centro de Biociências",
+    "dataInicio": "2023-10-18T15:30:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala 104 - Bloco C",
+    "dataInicio": "2023-10-18T16:00:00-03:00",
+    "dataFim": "2023-10-18T18:00:00-03:00",
+    "descricao": "<p>Comissão avaliadora composta por <b>Prof. Dr. Cláudio Hissa</b> e <b>Profa. Mayara Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Ecologia Aquática",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Monitoramento da Qualidade de Água e Efluentes em Fazendas de Aquicultura</i>, com o <b>Biól. Danilo Moura Freire</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Painel de Egressos",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Caminhos Profissionais e Mercado de Trabalho no Litoral Nordestino</i>, reunindo os ex-alunos <b>Eng. Igor Vasconcelos</b>, <b>Enga. Patrícia Lucena</b> e <b>M.Sc. Carlos Eduardo Viana</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Sala de Informática 2",
+    "dataInicio": "2023-10-19T16:15:00-03:00",
+    "dataFim": "2023-10-19T18:15:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem Hidráulica Básica para Viveiros de Escavação</i>, facilitada por <b>Prof. Hugo Leonardo Falcão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural Universitária",
+    "lugar": "Anfiteatro das Aves",
+    "dataInicio": "2023-10-19T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical do grupo potiguar liderado por <b>Alana Cortez</b> e declamação de cordel com <b>Mestre Severino do Alecrim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Estação Experimental de Aquicultura de Nísia Floresta",
+    "dataInicio": "2023-10-20T07:30:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Acompanhamento prático das rotinas de reprodução de peixes nativos guiado pelo <b>Técnico Agrícola Josué Mendonça</b> e pelo <b>Prof. Fernando Gurgel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2023-10-20T14:30:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>O Futuro da Maricultura Sustentável no Brasil Frente às Mudanças Climáticas</i>, proferida pela pesquisadora <b>Dra. Beatriz Lins Gondim</b> (UFPE).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2023-10-20T16:15:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": "<p>Divulgação dos melhores trabalhos científicos apresentados na semana, coordenada pela <b>Profa. Helena Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2023-10-20T17:00:00-03:00",
+    "dataFim": "2023-10-20T18:00:00-03:00",
+    "descricao": "<p>Discursos finais com o coordenador do curso <b>Prof. Dr. Vinícius Paiva Nogueira</b> e a presidente do centro acadêmico <b>Larissa Fontes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

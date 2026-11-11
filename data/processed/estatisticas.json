@@ -1,0 +1,75 @@
+{
+  "gerado_em": "2026-10-22T19:37:13+00:00",
+  "parametros": {
+    "por_evento": 2,
+    "val": 0.15,
+    "semente": 42
+  },
+  "eventos_gerados": 500,
+  "eventos_aprovados": 498,
+  "exemplos": {
+    "train": 845,
+    "val": 150,
+    "total": 995
+  },
+  "atividades": {
+    "train": 14024,
+    "val": 2686
+  },
+  "rejeicoes": {
+    "muito_longo": 5
+  },
+  "layouts": {
+    "cartaz": 275,
+    "tabela": 256,
+    "lista": 240,
+    "colunas": 224
+  },
+  "ruidos": {
+    "quebra": 502,
+    "secoes": 494,
+    "decorativo": 418,
+    "ocr": 243
+  },
+  "caixa_alta": {
+    "exemplos": 365,
+    "fracao": 0.367
+  },
+  "tipos_evento": {
+    "simpósio de pós-graduação": 66,
+    "congresso jurídico com mesas-redondas": 64,
+    "encontro de mulheres na computação": 64,
+    "evento de inovação no agronegócio": 62,
+    "evento religioso/comunitário com celebrações e oficinas": 60,
+    "evento de tecnologia com palestras de empresas e hackathon": 54,
+    "maratona de programação e game jam": 52,
+    "fórum institucional de avaliação (CPA)": 52,
+    "workshop de inteligência artificial com minicursos": 52,
+    "encontro de professores da educação básica": 48,
+    "festival gastronômico com aulas-show": 48,
+    "jornada médica / congresso de saúde": 48,
+    "mostra de extensão universitária": 47,
+    "seminário de sustentabilidade e meio ambiente": 46,
+    "congresso científico nacional com sessões técnicas de artigos": 44,
+    "semana de calouros com atividades de integração": 44,
+    "feira de negócios e empreendedorismo do Sebrae": 40,
+    "evento esportivo universitário com torneios e cerimônias": 36,
+    "semana acadêmica de um curso de graduação": 34,
+    "festival cultural com shows, oficinas e exposições": 34
+  },
+  "casos": {
+    "sem_local": 344,
+    "sem_horario_fim": 336,
+    "nomes_repetidos": 325,
+    "titulos_longos": 323,
+    "subtitulo_separado": 305,
+    "descricoes_ricas": 297,
+    "intervalos": 272,
+    "atividades_paralelas": 266
+  },
+  "tokens_estimados": {
+    "p50": 2378,
+    "p95": 5261,
+    "max": 6962
+  }
+}

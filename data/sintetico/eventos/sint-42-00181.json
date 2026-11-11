@@ -1,0 +1,187 @@
+{
+ "spec": {
+  "id": "sint-42-00181",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 20,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:35+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 3036
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Pantanal Sustentável: Desafios e Práticas Ecoeficientes",
+   "local_geral": "Centro de Convenções Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a coordenadora-geral <b>Dra. Mariana Rios Albuquerque</b> e autoridades convidadas do setor público e privado ambiental de Mato Grosso do Sul.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-15T10:15:00-03:00",
+    "dataFim": "2024-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Biomas em Transição: Conservação da Biodiversidade e Mudanças Climáticas no Pantanal</i>, conduzida pelo pesquisador <b>Dr. Carlos Eduardo Nogueira</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:00:00-03:00",
+    "dataFim": "2024-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Recursos Hídricos e Governança na Bacia do Alto Paraguai</i>, com moderação de <b>Prof. Renato Godoy</b> e participação dos especialistas <b>Eng. Beatriz Silveira Fagundes</b> e <b>Dr. Almir Mendonça</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Germano Barros de Souza",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Agropecuária Regenerativa e Manejo de Pastagens no Cerrado</i>, reunindo o consultor <b>Thiago Paes de Barros</b> e a pesquisadora <b>Dra. Cláudia Marcondes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café com Produtos Regionais",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2024-05-15T15:30:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-15T16:00:00-03:00",
+    "dataFim": "2024-05-15T18:00:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Profa. Juliana Telles Ortiz</b>, com a comunicação científica <i>Indicadores de Regeneração Natural no Parque Estadual do Prosa</i> apresentada por <b>Lucas Vinícius Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica A",
+    "lugar": "Sala Águas de Bonito",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Mapeamento por Satélite Aplicado à Fiscalização Florestal</i> ministrada pelo geógrafo <b>Marcelo Pires Loureiro</b>.</p>",
+    "secao": "Capacitações Simultâneas"
+   },
+   {
+    "nome": "Oficina Técnica B",
+    "lugar": "Sala Gruta do Lago Azul",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Instrução prática sobre <i>Elaboração e Implantação de Planos de Recuperação de Áreas Degradadas (PRAD)</i> com o agrônomo <b>Dr. Flávio Antunes Garcia</b>.</p>",
+    "secao": "Capacitações Simultâneas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Foyer Superior",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Diálogo Setorial",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Encontro multissetorial com foco em <i>Bioeconomia, Turismo Ecológico e Comunidades Tradicionais pantaneiras</i>, coordenado por <b>Sônia Regina Duarte</b> e com relatos de <b>Mário Benites Guató</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Avaliação dos painéis acadêmicos orientada pela comissão científica presidida pelo <b>Prof. Nilson Esteves da Cruz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna Intermediária",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-16T16:30:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Financiamento Verde e Mercado Voluntário de Carbono na América Latina</i>, com a economista ambiental <b>Patrícia Leão Varella</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Momento Cultural Pantaneiro",
+    "lugar": "Deck Externo",
+    "dataInicio": "2024-05-16T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical e declamação de poesia regional com o violeiro <b>Gabriel Salles</b> e a poetisa <b>Catarina Bueno</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Sala Águas de Bonito",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Treinamento em <i>Metodologias de Inventário de Fauna e Monitoramento por Armadilhas Fotográficas</i> oferecido pelo biólogo <b>Fernando Prado Castilho</b>.</p>",
+    "secao": "Minicursos Avançados"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala Gruta do Lago Azul",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Curso intensivo de <i>Auditoria Ambiental e Indicadores ESG para Empreendimentos Rurais</i> ministrado pela advogada e consultora <b>Vanessa Rondon Meireles</b>.</p>",
+    "secao": "Minicursos Avançados"
+   },
+   {
+    "nome": "Assembleia Geral de Resoluções",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Redação e votação pública da <i>Carta de Campo Grande pela Resiliência Climática</i> sob condução da plenária liderada por <b>Dr. Almir Mendonça</b> e <b>Dra. Mariana Rios Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Sustentabilidade do Pantanal aos melhores artigos, conduzida pelo comitê acadêmico e por <b>Profa. Juliana Telles Ortiz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Brinde de Confraternização",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

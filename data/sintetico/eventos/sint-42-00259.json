@@ -1,0 +1,262 @@
+{
+ "spec": {
+  "id": "sint-42-00259",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 29,
+  "casos": [
+   "sem_local",
+   "titulos_longos",
+   "descricoes_ricas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:14+00:00",
+ "uso_tokens": {
+  "entrada": 708,
+  "saida": 4384
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada Diocesana de Espiritualidade, Cidadania e Ação Comunitária",
+   "local_geral": "Centro Pastoral São Francisco de Assis, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Comunitário",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": "Abertura"
+   },
+   {
+    "nome": "Missa Solene de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Celebração presidida por <b>Dom Paulo Silveira</b> com participação do coral comunitário Menino Jesus.</p>",
+    "secao": "Abertura"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Dom Helder Camara",
+    "dataInicio": "2025-05-16T10:45:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Importância do Diálogo Inter-religioso e da Cooperação Solidária no Enfrentamento das Desigualdades Sociais Contemporâneas no Brasil</i>.</p><p>Palestrante: <b>Dra. Tereza Cristina Meireles</b>. Coordenação: <b>Padre Marcos Vinícius Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Práticas de Comunicação Não-Violenta e Mediação de Conflitos para Voluntários que Atuam em Comunidades Periféricas e Situações de Alta Vulnerabilidade</i>.</p><p>Facilitadora: <b>Psic. Luciana Valadares</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala 104",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Gestão e Captação de Recursos para Projetos Sociais Comunitários</i>.</p><p>Facilitador: <b>Carlos Alberto Fontes</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": null,
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Música Sacra e Canto Pastoral nas Pequenas Comunidades</i>.</p><p>Facilitador: <b>Irmão Estêvão Rocha</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Momento de Partilha e Chá",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2025-05-16T16:15:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Juventudes, Fé e Participação Política Cidadã</i>.</p><p>Moderador: <b>Fabiano Antunes</b>. Debatedores: <b>Mariana Prado</b> e <b>Lucas Evangelista</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Terço Luminoso Comunitário",
+    "lugar": "Jardim da Gruta",
+    "dataInicio": "2025-05-16T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Oração conduzida pela <b>Irmã Benigna Soares</b> e pelos jovens da Pastoral Vocacional.</p>",
+    "secao": "Celebrações Noturnas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2025-05-16T20:30:00-03:00",
+    "dataFim": "2025-05-16T22:00:00-03:00",
+    "descricao": "<p>Espetáculo do grupo teatral <b>Sementes de Esperança</b>, com direção de <b>Helena Nogueira</b>.</p>",
+    "secao": "Celebrações Noturnas"
+   },
+   {
+    "nome": "Oração da Manhã - Laudes",
+    "lugar": "Capela Menor",
+    "dataInicio": "2025-05-17T07:30:00-03:00",
+    "dataFim": "2025-05-17T08:15:00-03:00",
+    "descricao": "<p>Liturgia conduzida pelo diácono <b>Geraldo Magela</b>.</p>",
+    "secao": "Espiritualidade Matutina"
+   },
+   {
+    "nome": "Café Coletivo",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2025-05-17T08:15:00-03:00",
+    "dataFim": "2025-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática 1",
+    "lugar": "Auditório Dom Helder Camara",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Alimentar e Solidariedade nas Periferias Urbanas</i>.</p><p>Coordenação: <b>Profa. Rita de Cássia Drummond</b>.</p><p>Palestrantes convidados: <b>João Batista Alencar</b> e <b>Dra. Simone Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Comunitários",
+    "lugar": "Galeria Central",
+    "dataInicio": "2025-05-17T10:45:00-03:00",
+    "dataFim": "2025-05-17T12:15:00-03:00",
+    "descricao": "<p>Apresentação dos seguintes projetos pastorais e sociais:</p><p><i>Hortas Comunitárias e Sustentabilidade no Bairro Morumbi</i>, por <b>Marcos André Ferreira</b>.</p><p><i>Apoio a Famílias de Encarcerados: Presença e Dignidade</i>, por <b>Maria Antônia Siqueira</b> e <b>Padre Jorge Linhares</b>.</p><p><i>Alfabetização Popular de Idosos na Paróquia Cristo Redentor</i>, por <b>Cláudia Regina Amaral</b>.</p><p>Coordenação da sessão: <b>Prof. Nilton César Peixoto</b>.</p>",
+    "secao": "Mostra de Iniciativas Sociais"
+   },
+   {
+    "nome": "Almoço e Descanso",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2025-05-17T12:15:00-03:00",
+    "dataFim": "2025-05-17T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Sala 106",
+    "dataInicio": "2025-05-17T13:45:00-03:00",
+    "dataFim": "2025-05-17T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias Ativas de Evangelização e Formação Cidadã de Crianças nas Comunidades Eclesiais de Base</i>.</p><p>Coordenadora: <b>Pedagoga Denise Furtado</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 5",
+    "lugar": null,
+    "dataInicio": "2025-05-17T13:45:00-03:00",
+    "dataFim": "2025-05-17T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Ecologia Integral e Cuidado com a Casa Comum</i>.</p><p>Facilitador: <b>Biól. Renato Junqueira</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 6",
+    "lugar": "Sala 108",
+    "dataInicio": "2025-05-17T13:45:00-03:00",
+    "dataFim": "2025-05-17T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Saúde Mental e Acolhimento Fraterno em Ambientes Paroquiais</i>.</p><p>Facilitadora: <b>Dra. Juliana Pires</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2025-05-17T15:45:00-03:00",
+    "dataFim": "2025-05-17T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática 2",
+    "lugar": "Auditório Dom Helder Camara",
+    "dataInicio": "2025-05-17T16:15:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Pastoral Carcerária e os Direitos Fundamentais da População Encarcerada</i>.</p><p>Coordenador: <b>Adv. Wagner Guimarães</b>.</p><p>Participantes: <b>Dra. Camila Assunção</b> e <b>Irmã Dulce Maria de Abreu</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Vigília de Adoração e Louvor",
+    "lugar": "Nave Principal",
+    "dataInicio": "2025-05-17T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conduzida pelo ministério de louvor <b>Luz da Vida</b> com bênção ministrada por <b>Padre Otávio Mendonça</b>.</p>",
+    "secao": "Celebrações Noturnas"
+   },
+   {
+    "nome": "Caminhada Penitencial e Ecológica",
+    "lugar": null,
+    "dataInicio": "2025-05-18T06:30:00-03:00",
+    "dataFim": "2025-05-18T07:45:00-03:00",
+    "descricao": "<p>Percurso pelas ruas do bairro Tubalina em direção ao Centro Pastoral, com reflexões coordenadas por <b>Antônio Vilela</b>.</p>",
+    "secao": "Espiritualidade Matutina"
+   },
+   {
+    "nome": "Café Solidário",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2025-05-18T07:45:00-03:00",
+    "dataFim": "2025-05-18T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Experiências Comunitárias",
+    "lugar": "Auditório Dom Helder Camara",
+    "dataInicio": "2025-05-18T08:30:00-03:00",
+    "dataFim": "2025-05-18T10:15:00-03:00",
+    "descricao": "<p>Apresentação dos relatos pastorais:</p><p><i>Cozinha Solidária Santo Expedito: Alimentando Vidas e Restaurando Dignidade</i>, apresentado por <b>Carmem Lúcia Bastos</b>.</p><p><i>Cursinho Popular Esperança Viva: Democratizando o Acesso ao Ensino Superior</i>, apresentado por <b>Tiago Mendes Barreto</b>.</p><p>Coordenação dos debates: <b>Padre Rogério Santos</b>.</p>",
+    "secao": "Mostra de Iniciativas Sociais"
+   },
+   {
+    "nome": "Sessão Plenária",
+    "lugar": null,
+    "dataInicio": "2025-05-18T10:30:00-03:00",
+    "dataFim": "2025-05-18T11:45:00-03:00",
+    "descricao": "<p>Aprovação da <i>Carta Pastoral de Uberlândia por Justiça e Paz</i>. Relatoria conduzida por <b>Profa. Beatriz Silveira Maia</b> e <b>Guilherme Henrique Vaz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Celebração Eucarística de Envio",
+    "lugar": "Nave Principal",
+    "dataInicio": "2025-05-18T12:00:00-03:00",
+    "dataFim": "2025-05-18T13:30:00-03:00",
+    "descricao": "<p>Missa presidida por <b>Padre Otávio Mendonça</b> e concelebrada pelo clero diocesano.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Festivo de Encerramento",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2025-05-18T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Bênção de Despedida",
+    "lugar": null,
+    "dataInicio": "2025-05-18T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento final de oração e envio dos delegados paroquiais, com <b>Dom Paulo Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

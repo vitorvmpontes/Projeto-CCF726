@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00008",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "descricoes_ricas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:55+00:00",
+ "uso_tokens": {
+  "entrada": 659,
+  "saida": 1609
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Simpósio de Pós-Graduação em Ecologia e Conservação da Biodiversidade",
+   "local_geral": "Centro Cultural da Universidade Federal de Mato Grosso (UFMT), Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2024-10-18T08:00:00-03:00",
+    "dataFim": "2024-10-18T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Alencastro",
+    "dataInicio": "2024-10-18T08:45:00-03:00",
+    "dataFim": "2024-10-18T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a presença da coordenadora do programa, Profa. Dra. <b>Beatriz Mendonça Ramos</b>, e do Pró-Reitor de Pesquisa, Prof. Dr. <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Alencastro",
+    "dataInicio": "2024-10-18T09:30:00-03:00",
+    "dataFim": "2024-10-18T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios e Perspectivas para a Preservação do Pantanal Norte Frente às Mudanças Climáticas</i>.</p><p>Coordenação: Profa. Dra. <b>Helena Soares Ribeiro</b>.</p><p>Debatedores: Dr. <b>Marcos Vinícius Prado</b> (INPA) e Dra. <b>Fernanda Lacerda de Albuquerque</b> (Embrapa Pantanal).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Coordenada 1",
+    "lugar": "Sala 102 - Bloco Didático",
+    "dataInicio": "2024-10-18T11:15:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Tema da sessão: <i>Ecologia Aquática e Qualidade da Água</i>.</p><p>Coordenador: Prof. Dr. <b>Thiago Antunes Farias</b>.</p><p>Apresentações de dissertações e teses em andamento:</p><p>- <i>Dinâmica de nutrientes no Rio Cuiabá durante o período de estiagem</i>, por <b>Lucas Morais de Oliveira</b> e <b>Marina Duarte Castro</b>.</p><p>- <i>Impactos de macrocontaminantes na comunidade de macroinvertebrados bentônicos</i>, por <b>Rafaela Nogueira Gomes</b>.</p>",
+    "secao": "Apresentações Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Sessão Coordenada 2",
+    "lugar": "Sala 104 - Bloco Didático",
+    "dataInicio": "2024-10-18T11:15:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Tema da sessão: <i>Interações Tróficas e Dinâmica de Populações</i>.</p><p>Coordenadora: Profa. Dra. <b>Cristiane Peixoto Barros</b>.</p><p>Apresentações de dissertações e teses em andamento:</p><p>- <i>Padrões de frugivoria e dispersão de sementes por aves no Cerrado mato-grossense</i>, por <b>Guilherme Henrique Sampaio</b>.</p><p>- <i>Efeito de borda na abundância de pequenos mamíferos em fragmentos florestais</i>, por <b>Aline Cristina Viana</b> e <b>Rodrigo César Toledo</b>.</p>",
+    "secao": "Apresentações Orais de Pós-Graduandos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-18T12:30:00-03:00",
+    "dataFim": "2024-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis e Pôsteres",
+    "lugar": "Galeria Central de Exposições",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Exposição e avaliação dos projetos de mestrado e doutorado em andamento. Comissão avaliadora coordenada pelo Dr. <b>Sérgio Paulo Junqueira</b>, com presença dos pareceristas Dra. <b>Camila Rezende Pires</b> e Dr. <b>Juliano Barreto Neto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Alencastro",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Título da apresentação: <i>Integração de Modelagens Ecológicas e Políticas Públicas de Conservação</i>.</p><p>Palestrante: Dr. <b>Valter Silveira Martins</b> (Universidade Estadual de Campinas - UNICAMP).</p><p>Coordenação dos trabalhos: Profa. Dra. <b>Beatriz Mendonça Ramos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

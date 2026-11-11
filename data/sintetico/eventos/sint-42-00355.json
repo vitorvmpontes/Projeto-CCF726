@@ -1,0 +1,267 @@
+{
+ "spec": {
+  "id": "sint-42-00355",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Niterói - RJ",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 30,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:31+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 4503
+ },
+ "saida": {
+  "evento": {
+   "nome": "12º Encontro de Fé, Cidadania e Comunidade de Niterói",
+   "local_geral": "Centro Pastoral São Vicente de Paulo, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Recepção dos Peregrinos",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2026-05-15T16:00:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Boas-vindas às caravanas comunitárias com a coordenação de <b>Maria Lúcia Brandão</b> e <b>Irmão Sebastião Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Celebração Eucarística de Abertura",
+    "lugar": "Nave Central",
+    "dataInicio": "2026-05-15T18:30:00-03:00",
+    "dataFim": "2026-05-15T20:00:00-03:00",
+    "descricao": "<p>Missa inaugural presidida por <b>Dom Geraldo Figueiredo</b> e concelebrada pelo <b>Padre Roberto Albuquerque</b>.</p>",
+    "secao": "Celebrações e Ritos"
+   },
+   {
+    "nome": "Vigília Jovem e Momento de Louvor",
+    "lugar": "Tenda da Esperança",
+    "dataInicio": "2026-05-15T20:30:00-03:00",
+    "dataFim": "2026-05-15T22:00:00-03:00",
+    "descricao": "<p>Cânticos e partilhas animadas por <b>Lucas Medeiros</b> e pelo grupo musical <i>Luz do Mundo</i>.</p>",
+    "secao": "Celebrações e Ritos"
+   },
+   {
+    "nome": "Oração da Manhã e Laudes",
+    "lugar": "Nave Central",
+    "dataInicio": "2026-05-16T08:00:00-03:00",
+    "dataFim": "2026-05-16T08:45:00-03:00",
+    "descricao": "<p>Oração comunitária conduzida pela <b>Irmã Terezinha Prado</b>.</p>",
+    "secao": "Celebrações e Ritos"
+   },
+   {
+    "nome": "Painel Comunitário",
+    "lugar": "Auditório Dom Helder Camara",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O Papel da Fé na Reconstrução das Periferias</i>, moderado por <b>Antônio Carlos Peixoto</b>, com contribuições de <b>Regina Coeli Santana</b> e <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Tenda de Convivência",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala São Francisco",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Hortas Comunitárias e Agroecologia Solidária</i> ministrada pela agrônoma <b>Fernanda Villas Boas</b>.</p>",
+    "secao": "Oficinas de Transformação Social"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala Santa Dulce dos Pobres",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Atividade temática <i>Acolhimento Comunitário de Pessoas em Situação de Rua</i>, facilitada pelo assistente social <b>Mateus Gontijo</b>.</p>",
+    "secao": "Oficinas de Transformação Social"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala Betânia",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Formação bíblica e reflexão com o tema <i>Mulheres no Evangelho: Liderança e Testemunho</i>, liderada pela teóloga <b>Clara Valença</b>.</p>",
+    "secao": "Oficinas de Transformação Social"
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Prática criativa <i>Música Sacra Popular e Expressão Litúrgica</i> orientada pelo maestro <b>Vinícius Ramos</b>.</p>",
+    "secao": "Oficinas de Transformação Social"
+   },
+   {
+    "nome": "Almoço Coletivo",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2026-05-16T12:30:00-03:00",
+    "dataFim": "2026-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Sala São Francisco",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Diálogo aberto <i>Economia Solidária e Redes de Troca Local</i> com <b>Juliana Penteado</b> e <b>Renato Furtado</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Sala Santa Dulce dos Pobres",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Troca de experiências sobre <i>Juventude, Cidadania e Enfrentamento às Drogas</i> sob a orientação de <b>Márcio Nogueira</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 3",
+    "lugar": "Sala Betânia",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Saúde Mental e Amparo Emocional nas Paróquias</i> com a psicóloga comunitária <b>Vanessa Esteves</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 4",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Reflexão ecumênica <i>Diálogo Inter-religioso em Prol da Paz</i>, mediada pelo <b>Pastor Henrique Vianna</b> e pela <b>Pastora Letícia Queiroz</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Momento de Espiritualidade Silenciosa",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2026-05-16T15:30:00-03:00",
+    "dataFim": "2026-05-16T16:15:00-03:00",
+    "descricao": "<p>Adoração e meditação guiada pelo <b>Diácono Gustavo Camargo</b>.</p>",
+    "secao": "Celebrações e Ritos"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Tenda de Convivência",
+    "dataInicio": "2026-05-16T16:15:00-03:00",
+    "dataFim": "2026-05-16T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Iniciativas Comunitárias",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2026-05-16T16:45:00-03:00",
+    "dataFim": "2026-05-16T18:30:00-03:00",
+    "descricao": "<p>Apresentação dos projetos sociais de Niterói e São Gonçalo, coordenada por <b>Bárbara Castilho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa da Esperança",
+    "lugar": "Nave Central",
+    "dataInicio": "2026-05-16T18:30:00-03:00",
+    "dataFim": "2026-05-16T20:00:00-03:00",
+    "descricao": "<p>Liturgia presidida pelo <b>Padre Luciano Sampaio</b> com cantos litúrgicos entoados pelo <i>Coral Esperança Viva</i>.</p>",
+    "secao": "Celebrações e Ritos"
+   },
+   {
+    "nome": "Sarau Comunitário e Apresentações Artísticas",
+    "lugar": "Tenda da Esperança",
+    "dataInicio": "2026-05-16T20:30:00-03:00",
+    "dataFim": "2026-05-16T22:30:00-03:00",
+    "descricao": "<p>Apresentação teatral <i>Caminhos da Misericórdia</i> com o grupo paroquial coordenado por <b>Tatiana Barcellos</b> e recital de violão com <b>Gabriel Morais</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Caminhada da Fraternidade",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2026-05-17T07:30:00-03:00",
+    "dataFim": "2026-05-17T08:30:00-03:00",
+    "descricao": "<p>Caminhada orante pelo bairro com bênção aos moradores conduzida pelo <b>Padre Roberto Albuquerque</b>.</p>",
+    "secao": "Celebrações e Ritos"
+   },
+   {
+    "nome": "Café da Manhã Partilhado",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2026-05-17T08:30:00-03:00",
+    "dataFim": "2026-05-17T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna Comunitária",
+    "lugar": "Auditório Dom Helder Camara",
+    "dataInicio": "2026-05-17T09:15:00-03:00",
+    "dataFim": "2026-05-17T10:30:00-03:00",
+    "descricao": "<p>Conferência <i>Compromisso Evangélico e Sustentabilidade Integral</i> proferida pelo teólogo <b>Leonardo Bicalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ateliê Formativo 1",
+    "lugar": "Sala São Francisco",
+    "dataInicio": "2026-05-17T10:45:00-03:00",
+    "dataFim": "2026-05-17T12:00:00-03:00",
+    "descricao": "<p>Laboratório prático <i>Comunicação Não-Violenta nos Ambientes Paroquiais</i> com a mediadora de conflitos <b>Priscila Diniz</b>.</p>",
+    "secao": "Ateliês Formativos"
+   },
+   {
+    "nome": "Ateliê Formativo 2",
+    "lugar": "Sala Santa Dulce dos Pobres",
+    "dataInicio": "2026-05-17T10:45:00-03:00",
+    "dataFim": "2026-05-17T12:00:00-03:00",
+    "descricao": "<p>Prática de gestão <i>Organização de Cozinhas Solidárias Paroquiais</i> com a nutricionista <b>Gisele Toledo</b>.</p>",
+    "secao": "Ateliês Formativos"
+   },
+   {
+    "nome": "Ateliê Formativo 3",
+    "lugar": "Sala Betânia",
+    "dataInicio": "2026-05-17T10:45:00-03:00",
+    "dataFim": "2026-05-17T12:00:00-03:00",
+    "descricao": "<p>Vivência intitulada <i>Contação de Histórias e Evangelização Infantil</i> com o educador <b>Fábio Meireles</b>.</p>",
+    "secao": "Ateliês Formativos"
+   },
+   {
+    "nome": "Plenária de Articulação Social",
+    "lugar": "Auditório Dom Helder Camara",
+    "dataInicio": "2026-05-17T12:00:00-03:00",
+    "dataFim": "2026-05-17T13:00:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta de Compromissos de Niterói</i> com relatoria de <b>Silvia Guimarães</b> e <b>Paulo Sérgio Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Festivo",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2026-05-17T13:00:00-03:00",
+    "dataFim": "2026-05-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa Solene de Envio",
+    "lugar": "Nave Central",
+    "dataInicio": "2026-05-17T15:00:00-03:00",
+    "dataFim": "2026-05-17T16:30:00-03:00",
+    "descricao": "<p>Celebração de encerramento e envio dos missionários leigos presidida pelo <b>Bispo Auxiliar Dom Marcos Silveira</b>.</p>",
+    "secao": "Celebrações e Ritos"
+   },
+   {
+    "nome": "Bênção Final e Abraço da Paz",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2026-05-17T16:30:00-03:00",
+    "dataFim": "2026-05-17T17:00:00-03:00",
+    "descricao": "<p>Despedida fraterna com animação de <b>Maria Lúcia Brandão</b> e bênção comunitária.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

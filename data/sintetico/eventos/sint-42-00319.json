@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-42-00319",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 8,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:27+00:00",
+ "uso_tokens": {
+  "entrada": 675,
+  "saida": 1288
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Simpósio de Pós-Graduação em Ecologia e Conservação da UFRGS",
+   "local_geral": "Campus do Vale, Universidade Federal do Rio Grande do Sul, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Materiais",
+    "lugar": null,
+    "dataInicio": "2024-05-15T08:30:00-03:00",
+    "dataFim": "2024-05-15T09:30:00-03:00",
+    "descricao": "<p>Recepção dos discentes e entrega dos kits do evento pela comissão organizadora coordenada por <b>Mariana Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Temático",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2024-05-15T10:00:00-03:00",
+    "dataFim": "2024-05-15T12:00:00-03:00",
+    "descricao": "<p>Tema: Desafios Contemporâneos na Conservação do Bioma Pampa. Participação de <b>Carlos Eduardo Becker</b> ministrando a fala <i>Mudanças Climáticas e Resiliência de Pastagens Nativas</i> e coordenação de <b>Renata Viana Souza</b>.</p>",
+    "secao": "Colóquios Integrados"
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": null,
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Exposição dos trabalhos de discentes de mestrado. Avaliação conduzida pelo docente <b>Felipe Fagundes</b>.</p>",
+    "secao": "Sessões Científicas"
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Modelagem Ecológica 02",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: Introdução a Modelos Mistos em Ecologia com R. Ministrada pelo pós-doutorando <b>Rodrigo Schein</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": "Hall do Prédio 43422",
+    "dataInicio": "2024-05-16T14:30:00-03:00",
+    "dataFim": "2024-05-16T16:30:00-03:00",
+    "descricao": "<p>Exposição dos trabalhos de discentes de doutorado e projetos de qualificação com parecer da banca liderada por <b>Juliana Bastos Martins</b>.</p>",
+    "secao": "Sessões Científicas"
+   },
+   {
+    "nome": "Colóquio Temático",
+    "lugar": null,
+    "dataInicio": "2024-05-17T09:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Tema: Restauração Ecológica em Larga Escala. Palestra <i>Desafios Silviculturais para Espécies Campestres</i> apresentada por <b>Guilherme Trevisan da Rosa</b>.</p>",
+    "secao": "Colóquios Integrados"
+   },
+   {
+    "nome": "Assembleia dos Pós-Graduandos",
+    "lugar": null,
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Reunião geral discente para discussão de pautas acadêmicas e eleição da nova representação, conduzida por <b>Camila Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos melhores trabalhos do simpósio apresentada pelo coordenador de pós-graduação <b>Paulo Henrique Alves</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

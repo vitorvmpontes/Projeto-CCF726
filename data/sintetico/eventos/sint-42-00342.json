@@ -1,0 +1,158 @@
+{
+ "spec": {
+  "id": "sint-42-00342",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Campo Grande - MS",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 16,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "sem_local",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:12+00:00",
+ "uso_tokens": {
+  "entrada": 692,
+  "saida": 2441
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Centro-Oeste de Infectologia e Saúde Coletiva",
+   "local_geral": "Centro de Convenções Rubens Gil de Camillo, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2026-05-14T07:30:00-03:00",
+    "dataFim": "2026-05-14T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do coordenador geral <b>Dr. Marcos Vinícius Peixoto</b> e representantes das entidades apoiadoras da saúde regional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T10:45:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Panorama Atual das Arboviroses Emergentes e Reemergentes no Pantanal Sul-Mato-Grossense Frente às Mudanças Climáticas Globais</i> ministrada pelo <b>Prof. Dr. Henrique Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2026-05-14T10:45:00-03:00",
+    "dataFim": "2026-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Temático 1",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias de Imunização em Populações Tradicionais e Indígenas</i>, com moderação da <b>Dra. Simone Alencar</b> e intervenção de <b>Dr. Cássio Guimarães</b>.</p>",
+    "secao": "Simpósios Temáticos"
+   },
+   {
+    "nome": "Simpósio Temático 2",
+    "lugar": "Sala Tuiuiú",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:45:00-03:00",
+    "descricao": "<p>Debate focado no <i>Uso Racional de Antimicrobianos em Unidades de Terapia Intensiva</i>, coordenado pelo <b>Dr. Leonardo Vasconcelos</b> com os relatores convidados <b>Dra. Mariana Furtado</b> e <b>Dr. Roberto Sampaio</b>.</p>",
+    "secao": "Simpósios Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:45:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala Guató",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Treinamento prático sob coordenação da <b>Dra. Clarice Mendes</b> e do <b>Enf. Esp. Thiago Nogueira</b> abordando o manejo de cateteres venosos centrais e prevenção de bacteremias associadas.</p>",
+    "secao": "Oficinas de Capacitação"
+   },
+   {
+    "nome": "Painel de Atualização",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:15:00-03:00",
+    "descricao": "<p>Mesa com apresentação do tema <i>Desafios Contemporâneos para o Diagnóstico Laboratorial Precoce e Manejo Terapêutico Otimizado de Micoses Endêmicas Sistêmicas e Oportunistas</i> conduzida pelo <b>Dr. Paulo Esteves</b> e pela <b>Dra. Fernanda Rangel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": null,
+    "dataInicio": "2026-05-15T10:15:00-03:00",
+    "dataFim": "2026-05-15T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral de Temas Livres",
+    "lugar": "Sala Tuiuiú",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Apresentação oral de trabalhos selecionados pela comissão científica avaliados por <b>Dra. Lilian Queiroz</b> e <b>Dr. Valdir Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala Guató",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Oficina de simulação em investigação epidemiológica de surtos comunitários conduzida pelo <b>Dr. Renato Bicalho</b>.</p>",
+    "secao": "Oficinas de Capacitação"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:30:00-03:00",
+    "dataFim": "2026-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Multiprofissional",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": "<p>Discussão interdisciplinar intitulada <i>Impactos Psissociais e Desafios de Adesão Terapêutica Prolongada em Pessoas Vivendo com Infecções Crônicas em Áreas Remotas</i>, mediada pela psicóloga <b>Dra. Juliana Prado</b> com participação do farmacêutico <b>Dr. Bruno Fontes</b> e do assistente social <b>Lucas Carvalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Especial de Premiação",
+    "lugar": "Auditório Manoel de Barros",
+    "dataInicio": "2026-05-16T11:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos melhores trabalhos científicos e entrega do prêmio Mérito Científico Pantanal entregue pela presidente da comissão <b>Dra. Beatriz Gusmão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Agradecimentos e considerações finais da comissão organizadora apresentados pelo <b>Dr. Marcos Vinícius Peixoto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

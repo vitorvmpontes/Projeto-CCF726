@@ -1,0 +1,230 @@
+{
+ "spec": {
+  "id": "sint-42-00111",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Goiânia - GO",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos",
+   "nomes_repetidos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:09+00:00",
+ "uso_tokens": {
+  "entrada": 701,
+  "saida": 3587
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Goiano de Educadores da Educação Básica",
+   "local_geral": "Centro de Convenções de Goiânia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Hall de Entrada Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com participação de <b>Regina Helena Guimarães</b> e <b>Carlos Eduardo Valente</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2024-05-15T10:00:00-03:00",
+    "dataFim": "2024-05-15T12:00:00-03:00",
+    "descricao": "<p>Conferência com o Prof. Dr. <b>Marcos Vinícius Trindade</b> abordando <i>A reconstrução dos saberes docentes diante das transformações contemporâneas e dos novos arranjos curriculares da rede pública estadual</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:00:00-03:00",
+    "dataFim": "2024-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Ministrada por <b>Cláudia Pires Brandão</b>, com o tema <i>Jogos matemáticos e letramento nos anos iniciais do ensino fundamental</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Ministrada por <b>Fernando Duarte Santos</b> com o tema <i>Produção textual e tecnologias digitais na sala de aula</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para o Café",
+    "lugar": "Foyer das Salas Temáticas",
+    "dataInicio": "2024-05-15T15:30:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 103",
+    "dataInicio": "2024-05-15T16:00:00-03:00",
+    "dataFim": "2024-05-15T18:00:00-03:00",
+    "descricao": "<p>Segunda turma da oficina ministrada por <b>Cláudia Pires Brandão</b> com o tema <i>Jogos matemáticos e letramento nos anos iniciais do ensino fundamental</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa Temática",
+    "lugar": "Sala 104",
+    "dataInicio": "2024-05-15T16:00:00-03:00",
+    "dataFim": "2024-05-15T18:00:00-03:00",
+    "descricao": "<p>Debate sobre mediação de conflitos escolares, conduzido por <b>Mariana Alencar Ribeiro</b> e <b>Jorge Tadeu Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Palestra com a Profa. <b>Ana Beatriz Meireles</b> abordando <i>Desafios da alfabetização na idade certa após os impactos da defasagem escolar pós-pandemia</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para o Café",
+    "lugar": "Foyer Central",
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 1",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Debate com <b>Sérgio Ricardo Nogueira</b> e <b>Luciana Prado Furtado</b> sobre <i>Políticas públicas para a educação inclusiva na rede regular</i>.</p>",
+    "secao": "Mesas Redondas"
+   },
+   {
+    "nome": "Mesa de Debates 2",
+    "lugar": "Auditório Bernardo Élis",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Mesa com <b>Renato Cordeiro Filho</b> e <b>Camila Siqueira Bastos</b> discutindo <i>Gestão democrática e participação da comunidade nas decisões pedagógicas</i>.</p>",
+    "secao": "Mesas Redondas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço de Exposições",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Apresentação de relatos de experiência docente. Coordenação de <b>Patrícia Antunes Lima</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Laboratório Multimídia",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Facilitada por <b>Rodrigo Otávio Paiva</b> e <b>Elisa Morais Gomes</b> com o título <i>Estratégias inovadoras para o ensino interdisciplinar de ciências da natureza articuladas às metodologias ativas no ambiente escolar</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para o Café",
+    "lugar": "Foyer Central",
+    "dataInicio": "2024-05-16T15:30:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Apresentação de <b>Valéria Cristina Toledo</b> discutindo <i>Avaliação da aprendizagem e práticas restaurativas em sala de aula</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2024-05-16T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical do coral estudantil sob regência do maestro <b>Geraldo Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Bernardo Élis",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Painelistas: <b>Juliana Mendes Arantes</b> e <b>Felipe Castanheira Neves</b> abordando <i>A saúde mental e o bem-estar dos professores no contexto pós-reestruturação escolar</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para o Café",
+    "lugar": "Foyer Central",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicações Orais 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Mirian Barreto</b> com apresentação de artigos sobre formação docente.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Comunicações Orais 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Tadeu Moreira Castro</b> reunindo estudos sobre práticas inclusivas.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Apresentação da carta de proposições para a educação básica com <b>Regina Helena Guimarães</b> e palestra de despedida conduzida por <b>Heloísa Figueiredo Ramos</b> com o título <i>Caminhos colaborativos para fortalecer a docência e garantir uma formação integral equitativa às juventudes periféricas brasileiras</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

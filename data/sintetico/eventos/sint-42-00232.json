@@ -1,0 +1,203 @@
+{
+ "spec": {
+  "id": "sint-42-00232",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Viçosa - MG",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 22,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:47+00:00",
+ "uso_tokens": {
+  "entrada": 645,
+  "saida": 3357
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Simpósio de Pós-Graduação em Agroecologia e Sustentabilidade",
+   "local_geral": "Centro de Ensino e Extensão (CEE) - Universidade Federal de Viçosa (UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Centro de Ensino e Extensão",
+    "dataInicio": "2027-05-20T08:00:00-03:00",
+    "dataFim": "2027-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora do programa, Profa. <b>Clarissa Medeiros Rezende</b>, e do Pró-Reitor de Pós-Graduação, Prof. <b>Henrique Duarte Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-20T09:40:00-03:00",
+    "dataFim": "2027-05-20T10:40:00-03:00",
+    "descricao": "<p>Conferência inaugural com o tema <i>Desafios da Transição Agroecológica na Zona da Mata Mineira</i>, ministrada pelo pesquisador <b>Geraldo Magela de Oliveira</b> (EPAMIG).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Convivência",
+    "lugar": "Área Externa do Auditório",
+    "dataInicio": "2027-05-20T10:40:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Serviços Ecossistêmicos e Governança da Água em Bacias Agrícolas</i>. Participantes: Profa. <b>Marina Fagundes Castro</b> (UFV) e Prof. <b>Renato Silveira Bueno</b> (UFMG). Mediação: <b>Daniela Furtado Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática Aplicada A",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem de Nicho Ecológico com R</i>. Instrutor: Dr. <b>Felipe Augusto Nogueira</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala de Aulas 102",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo de Bioinsumos na Produção Agroecológica</i>. Instrutora: Dra. <b>Tatiane Prado Guimarães</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Térreo - Hall dos Painéis",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Sessão de trabalhos de mestrado com avaliação da comissão científica presidida por <b>Lucas Neves Barreto</b>.</p>",
+    "secao": "Sessões de Pôsteres"
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-05-20T17:30:00-03:00",
+    "dataFim": "2027-05-20T19:00:00-03:00",
+    "descricao": "<p>Apresentação oral de projetos de doutorado na linha de <i>Microbiologia do Solo e Nutrição de Plantas</i>, moderada pelo Prof. <b>André Queiroz Fontes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Anfiteatro C",
+    "dataInicio": "2027-05-20T17:30:00-03:00",
+    "dataFim": "2027-05-20T19:00:00-03:00",
+    "descricao": "<p>Apresentação oral na área de <i>Sistemas Silvipastoris e Fixação de Carbono</i>, coordenada pela Profa. <b>Elisa Carvalho Matos</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T09:45:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Inovação Biotecnológica e Conservação da Biodiversidade</i>, com o Prof. <b>Tiago Mendonça Alvarenga</b> (UFLA).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Convivência",
+    "lugar": "Área Externa do Auditório",
+    "dataInicio": "2027-05-21T09:45:00-03:00",
+    "dataFim": "2027-05-21T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T10:15:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Políticas Públicas e Agroecologia: Trajetórias e Perspectivas para a Pós-Graduação</i>, com a participação de <b>Sônia Regina Bastos</b> e <b>Valéria Gomes Camargo</b>. Coordenação: <b>Eduardo Peixoto Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática Aplicada A",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Segunda parte da capacitação <i>Modelagem de Nicho Ecológico com R</i>, com o Dr. <b>Felipe Augusto Nogueira</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala de Aulas 102",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Segunda parte da capacitação <i>Manejo de Bioinsumos na Produção Agroecológica</i>, com a Dra. <b>Tatiane Prado Guimarães</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Térreo - Hall dos Painéis",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T16:45:00-03:00",
+    "descricao": "<p>Sessão de pôsteres com foco em trabalhos de iniciação científica e pós-doutorado. Coordenação de <b>Patrícia Albuquerque Lopes</b>.</p>",
+    "secao": "Sessões de Pôsteres"
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-05-21T16:45:00-03:00",
+    "dataFim": "2027-05-21T18:00:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas sob a temática <i>Economia Solidária e Circuitos Curtos de Comercialização</i>, sob mediação da Profa. <b>Carla Vasconcellos Cruz</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T18:15:00-03:00",
+    "dataFim": "2027-05-21T19:30:00-03:00",
+    "descricao": "<p>Conferência especial proferida pelo Prof. <b>Álvaro Siqueira Junqueira</b> abordando o tema <i>O Futuro da Pesquisa Agrária no Antropoceno</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T19:30:00-03:00",
+    "dataFim": "2027-05-21T20:00:00-03:00",
+    "descricao": "<p>Anúncio dos trabalhos de destaque do simpósio conduzido pelo coordenador da comissão de avaliação, Prof. <b>Rodrigo Assis Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento oficial das atividades com fala da comissão organizadora representada por <b>Clarissa Medeiros Rezende</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

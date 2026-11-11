@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-42-00376",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:54+00:00",
+ "uso_tokens": {
+  "entrada": 683,
+  "saida": 2670
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Salão de Extensão Universitária da UFRGS",
+   "local_geral": "Campus Centro da UFRGS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento dos Participantes",
+    "lugar": "Hall do Salão de Atos",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:30:00-03:00",
+    "descricao": "<p>Distribuição de crachás e materiais informativos aos congressistas e expositores de ações extensionistas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Salão de Atos",
+    "dataInicio": "2023-10-18T09:30:00-03:00",
+    "dataFim": "2023-10-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do reitor <b>Carlos André Bulhões</b> e da pró-reitora de extensão <b>Adelina Mezzari</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": "Salão de Atos",
+    "dataInicio": "2023-10-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da conferência <i>Os Desafios Contemporâneos da Integração Comunitária e Práticas Transformadoras no Contexto das Políticas Públicas de Extensão no Ensino Superior Brasileiro</i>, ministrada pela Profa. Dra. <b>Clarissa Ribeiro Fontoura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-18T12:00:00-03:00",
+    "dataFim": "2023-10-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Prédio Centenário - Sala 102",
+    "dataInicio": "2023-10-18T13:30:00-03:00",
+    "dataFim": "2023-10-18T15:30:00-03:00",
+    "descricao": "<p>Apresentação oral de projetos de saúde pública comunitária. Coordenação de <b>Patrícia Silveira Dorneles</b>.</p>",
+    "secao": "Apresentação de Trabalhos Extensionistas"
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": "Prédio Centenário - Sala 104",
+    "dataInicio": "2023-10-18T13:30:00-03:00",
+    "dataFim": "2023-10-18T15:30:00-03:00",
+    "descricao": "<p>Relatos de experiência sobre preservação da memória local e patrimônio cultural gaúcho. Mediado por <b>Rodrigo Cordeiro Ramos</b>.</p>",
+    "secao": "Apresentação de Trabalhos Extensionistas"
+   },
+   {
+    "nome": "Pausa para Café com Arte",
+    "lugar": "Pátio da Faculdade de Educação",
+    "dataInicio": "2023-10-18T15:30:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática 3 - FACED",
+    "dataInicio": "2023-10-18T16:00:00-03:00",
+    "dataFim": "2023-10-18T18:00:00-03:00",
+    "descricao": "<p>Facilitada por <b>Marcelo Pires Nogueira</b> e <b>Luciana Becker Vargas</b> com a proposta prática voltada à curricularização das ações sociais.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Mostra Interativa de Projetos",
+    "lugar": "Largo das Bandeiras",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Exposição em estandes abertos ao público. Supervisão de <b>Beatriz Elena Machado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Intersetorial",
+    "lugar": "Auditório da Engenharia Velha",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate intitulado <i>Articulações Necessárias Entre Cooperativas Populares Coletivos Periféricos e Espaços Acadêmicos Para a Construção da Soberania Alimentar em Regiões Metropolitanas</i>, com a participação de <b>Tiago Marques Guimarães</b>, <b>Rosângela Peixoto</b> e <b>Frei Wilson dos Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:00:00-03:00",
+    "dataFim": "2023-10-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Audiovisual",
+    "lugar": "Estúdio de Rádio - FABICO",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T16:30:00-03:00",
+    "descricao": "<p>Capacitação ministrada por <b>Fernando Scheffer</b> em divulgação científica e produção de podcasts comunitários.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Sessão de Pôsteres Comentados",
+    "lugar": "Mezanino do Salão de Atos",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Avaliação técnica das pesquisas aplicadas. Avaliadores: <b>Juliana Bastos Freire</b> e <b>Guilherme Azambuja</b>.</p>",
+    "secao": "Apresentação de Trabalhos Extensionistas"
+   },
+   {
+    "nome": "Coffee Break Coletivo",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-19T16:30:00-03:00",
+    "dataFim": "2023-10-19T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Anfiteatro 1 da FACED",
+    "dataInicio": "2023-10-20T09:30:00-03:00",
+    "dataFim": "2023-10-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação do painel temático <i>Reflexões Críticas Acerca dos Impactos Territoriais Gerados Por Ações Comunitárias Desenvolvidas em Vilas e Bairros Vulnerabilizados de Porto Alegre</i>, mediado por <b>Sônia Mara Camargo</b>, com exposições de <b>Diego Ortiz Vianna</b> e <b>Viviane Silveira Leite</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:00:00-03:00",
+    "dataFim": "2023-10-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação do Grupo de Percussão da UFRGS",
+    "lugar": "Concha Acústica",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Intervenção artística coordenada pelo maestro <b>Carlos Renato Moreira</b> com participação dos bolsistas de extensão do Instituto de Artes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Salão de Atos",
+    "dataInicio": "2023-10-20T15:30:00-03:00",
+    "dataFim": "2023-10-20T17:30:00-03:00",
+    "descricao": "<p>Entrega dos certificados de Destaque Extensionista 2023, conduzida pela coordenadora-geral <b>Adelina Mezzari</b> e pelo comitê avaliador liderado por <b>Miriam Fagundes Soares</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

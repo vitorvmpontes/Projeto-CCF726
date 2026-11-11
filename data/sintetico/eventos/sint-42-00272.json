@@ -1,0 +1,117 @@
+{
+ "spec": {
+  "id": "sint-42-00272",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 11,
+  "casos": [
+   "titulos_longos",
+   "subtitulo_separado",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:05+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 1647
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Mato-Grossense de Inteligência Artificial Aplicada",
+   "local_geral": "Centro de Eventos do Pantanal, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Central",
+    "dataInicio": "2024-05-18T08:00:00-03:00",
+    "dataFim": "2024-05-18T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura Institucional",
+    "lugar": "Auditório Bororo",
+    "dataInicio": "2024-05-18T08:30:00-03:00",
+    "dataFim": "2024-05-18T09:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do coordenador geral <b>Carlos Henrique Rondon</b> e representantes da comunidade acadêmica regional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Bororo",
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T10:00:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>O avanço e impacto dos modelos generativos multimodais na transformação digital de cadeias produtivas no agronegócio moderno</i>, conduzida pela pesquisadora <b>Mariana Siqueira Luz</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Networking e Café",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Visão Computacional voltada ao monitoramento e identificação precoce de pragas agrícolas em lavouras de soja</i>, ministrado pelo prof. <b>Danilo Albuquerque Viana</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Ajuste fino de grandes modelos de linguagem em infraestrutura local para segurança e privacidade de dados corporativos</i>, conduzido por <b>Juliana Prado Esteves</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-18T12:30:00-03:00",
+    "dataFim": "2024-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de aprendizado por reforço profundo aplicadas ao gerenciamento autônomo de frotas agrícolas</i>, com o engenheiro <b>Thiago Godoy Mendes</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Construção de pipelines de dados em tempo real com processamento escalável para inteligência artificial</i>, orientado por <b>Renata Barreto Fontes</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Bororo",
+    "dataInicio": "2024-05-18T17:00:00-03:00",
+    "dataFim": "2024-05-18T18:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios éticos, regulação e soberania tecnológica no ecossistema de dados da região Centro-Oeste brasileira</i>, mediado por <b>Vanessa Mattos Pinheiro</b>, com a participação de <b>Luciano Silveira Maia</b> e <b>Edivaldo Campos Corrêa</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Encerramento e Sorteio de Brindes",
+    "lugar": "Auditório Bororo",
+    "dataInicio": "2024-05-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão e sorteio de acessos a cursos online com <b>Carlos Henrique Rondon</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

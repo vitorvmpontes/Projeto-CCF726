@@ -1,0 +1,347 @@
+{
+ "spec": {
+  "id": "sint-42-00441",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Belém - PA",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 40,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:51+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 6681
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Fórum de Autoavaliação Institucional da Região Norte: Perspectivas e Práticas da CPA",
+   "local_geral": "Campus Universitário do Guamá - Universidade Federal do Pará (UFPA), Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Hall do Centro de Eventos Benedito Nunes",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a presença do Magnífico Reitor <b>Prof. Dr. Cláudio Manoel Pinheiro</b>, da Coordenadora da CPA Geral <b>Profa. Dra. Samara Albuquerque</b> e do representante do INEP <b>Dr. Marcos Vinícius da Costa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T12:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>O Papel Transformador da Autoavaliação Institucional no Contexto Amazônico</i>, ministrada pela <b>Profa. Dra. Lúcia Helena Cavalcante</b> (UFAM). Coordenação da mesa por <b>Prof. Carlos Eduardo Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-18T12:00:00-03:00",
+    "dataFim": "2026-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Engajamento Estudantil e Técnicos-Administrativos no Processo Avaliativo</i>. Expositores: <b>Dra. Mariana Guedes Barata</b> (UEPA) e <b>Me. Roberto Sena Pantoja</b> (IFPA). Coordenação: <b>Profa. Kátia Cilene Moraes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-18T15:45:00-03:00",
+    "dataFim": "2026-05-18T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-18T16:15:00-03:00",
+    "dataFim": "2026-05-18T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transparência Pública e Devolutiva dos Resultados da CPA para a Sociedade</i>. Participação dos debatedores <b>Dr. Marcelo Tavares Bastos</b> (UNIFAP) e <b>Profa. Dra. Nair Conde</b> (UFRR). Mediação realizada por <b>Profa. Joana Dar'c Figueiredo</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-19T08:30:00-03:00",
+    "dataFim": "2026-05-19T10:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Instrumentos de Coleta e Indicadores Próprios na Amazônia</i>. Apresentações de <b>Prof. Dr. Thiago Vianna Cruz</b> e <b>Esp. Renata Gusmão de Souza</b>. Coordenação: <b>Prof. Anderson Lima de Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Bloco Mirante",
+    "dataInicio": "2026-05-19T10:15:00-03:00",
+    "dataFim": "2026-05-19T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 101 - Bloco Profissional",
+    "dataInicio": "2026-05-19T10:45:00-03:00",
+    "dataFim": "2026-05-19T12:30:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Profa. Dra. Elaine Cristina Silva</b>.</p><p>Trabalhos apresentados: <i>A Percepção Discente nos Campi do Interior</i> por <b>Felipe Araújo Meireles</b> e <b>Ana Beatriz Rabelo</b>; <i>Uso de Formulários Eletrônicos Acessíveis</i> por <b>Lucas Medeiros Santana</b>; <i>Avaliação da Infraestrutura Laboratorial</i> por <b>Juliana Pires Castelo</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 102 - Bloco Profissional",
+    "dataInicio": "2026-05-19T10:45:00-03:00",
+    "dataFim": "2026-05-19T12:30:00-03:00",
+    "descricao": "<p>Coordenador: <b>Prof. Dr. Valter Mendonça Chaves</b>.</p><p>Apresentação das pesquisas: <i>Desafios na Autoavaliação da Pós-Graduação Stricto Sensu</i> por <b>Priscila Neves Furtado</b> e <b>Rodrigo Campos Rocha</b>; <i>Metodologias Participativas em Comunidades Ribeirinhas</i> por <b>Camila Duarte Nogueira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-19T12:30:00-03:00",
+    "dataFim": "2026-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática A",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-05-19T14:00:00-03:00",
+    "dataFim": "2026-05-19T17:30:00-03:00",
+    "descricao": "<p>Atividade formativa: <i>Tratamento Estatístico de Dados Quantitativos para Relatórios da CPA</i>, ministrada por <b>Prof. Me. Gustavo Henrique Leite</b> e assistida pelo monitor <b>Yuri Brandão</b>.</p>",
+    "secao": "Oficinas de Metodologia"
+   },
+   {
+    "nome": "Oficina Prática B",
+    "lugar": "Laboratório Multimídia 1",
+    "dataInicio": "2026-05-19T14:00:00-03:00",
+    "dataFim": "2026-05-19T17:30:00-03:00",
+    "descricao": "<p>Atividade formativa: <i>Elaboração de Dashboards Interativos no Power BI para Gestão Universitária</i>, facilitada por <b>Esp. Débora Assis Carneiro</b> e mediada por <b>Prof. Fernando Braga Sobrinho</b>.</p>",
+    "secao": "Oficinas de Metodologia"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Praça Universitária",
+    "dataInicio": "2026-05-19T18:00:00-03:00",
+    "dataFim": "2026-05-19T19:00:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo de carimbó coordenado pelo mestre <b>Sebastião Gonzaga</b> com estudantes do Instituto de Ciências da Arte.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-20T08:30:00-03:00",
+    "dataFim": "2026-05-20T10:15:00-03:00",
+    "descricao": "<p>Debate focado em <i>SINAES e as Diretrizes Curriculares Nacionais de Extensão</i>. Palestrantes: <b>Dra. Vera Lúcia Magalhães</b> (UFPA) e <b>Prof. Dr. Otávio Ramos</b> (UEMA). Coordenação da sessão: <b>Profa. Solange Paiva Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Lanche da Manhã",
+    "lugar": "Hall do Centro de Eventos Benedito Nunes",
+    "dataInicio": "2026-05-20T10:15:00-03:00",
+    "dataFim": "2026-05-20T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 3",
+    "lugar": "Sala 101 - Bloco Profissional",
+    "dataInicio": "2026-05-20T10:45:00-03:00",
+    "dataFim": "2026-05-20T12:30:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Prof. Dr. Henrique Soares Dias</b>.</p><p>Trabalhos: <i>Autoavaliação Docente: Reflexões sobre Práticas Pedagógicas</i> por <b>Tânia Maria Fonseca</b>; <i>Sistemas de Governança e Feedback Institucional</i> por <b>Bruno César Matos</b>; <i>Análise Comparada dos Ciclos Avaliativos 2021-2025</i> por <b>Sabrina Kelly Maciel</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 4",
+    "lugar": "Sala 102 - Bloco Profissional",
+    "dataInicio": "2026-05-20T10:45:00-03:00",
+    "dataFim": "2026-05-20T12:30:00-03:00",
+    "descricao": "<p>Sessão sob coordenação de <b>Profa. Me. Carla Simone Borges</b>.</p><p>Apresentação dos trabalhos: <i>A Inclusão de Pessoas com Deficiência no Diagnóstico da CPA</i> por <b>Letícia Nogueira</b> e <b>Edivaldo Castro</b>; <i>Comunicação Pública e Divulgação dos Relatórios de Autoavaliação</i> por <b>Álvaro Toledo</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:30:00-03:00",
+    "dataFim": "2026-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres Institucionais",
+    "lugar": "Hall do Centro de Eventos Benedito Nunes",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T16:00:00-03:00",
+    "descricao": "<p>Avaliadores da mostra: <b>Profa. Sandra Regina Paes</b> e <b>Prof. Dr. Geraldo Muniz</b>.</p><p>Apresentação dos pôsteres: <i>Avaliando o Ensino Remoto Emergencial em Retrospectiva</i> por <b>Igor Feitosa</b>; <i>Estratégias de Engajamento via Redes Sociais</i> por <b>Patrícia Albuquerque Mendes</b>; <i>Comissão Própria de Avaliação e o PDI Integrado</i> por <b>Cláudia Regina Vilaça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo Vespertino",
+    "lugar": "Hall do Centro de Eventos Benedito Nunes",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": "2026-05-20T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 3",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-20T16:30:00-03:00",
+    "dataFim": "2026-05-20T18:15:00-03:00",
+    "descricao": "<p>Tema: <i>A Autoavaliação como Base para o Recredenciamento Institucional</i>. Participantes convidados: <b>Dr. Agenor Peixoto Ramos</b> (MEC/INEP) e <b>Profa. Dra. Walkíria Holanda</b> (UFOPA). Coordenadora da mesa: <b>Profa. Dra. Samara Albuquerque</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Prática C",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias Qualitativas: Grupos Focais com a Comunidade Acadêmica</i>. Ministrantes: <b>Dra. Cecília Morais Dantas</b> e <b>Me. Wagner Ribeiro Silva</b>.</p>",
+    "secao": "Oficinas de Metodologia"
+   },
+   {
+    "nome": "Oficina Prática D",
+    "lugar": "Laboratório Multimídia 1",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Redação e Estruturação do Relatório Anual da CPA conforme as Orientações Técnicas</i>. Ministrantes: <b>Prof. Dr. Samuel Antunes Pinto</b> e <b>Profa. Maíra Castro Gusmão</b>.</p>",
+    "secao": "Oficinas de Metodologia"
+   },
+   {
+    "nome": "Espaço Café",
+    "lugar": "Hall do Bloco Profissional",
+    "dataInicio": "2026-05-21T11:30:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Alinhamento de CPAs Setoriais",
+    "lugar": "Mini-Auditório da Reitoria",
+    "dataInicio": "2026-05-21T12:00:00-03:00",
+    "dataFim": "2026-05-21T13:30:00-03:00",
+    "descricao": "<p>Encontro reservado de trabalho coordenado por <b>Dr. Guilherme Miranda Prado</b> reunindo coordenadores das subcomissões de todos os campi regionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2026-05-21T14:30:00-03:00",
+    "dataFim": "2026-05-21T16:00:00-03:00",
+    "descricao": "<p>Atividade autogestionada pelo corpo estudantil com o tema <i>Como a Avaliação Melhora Minha Formação?</i>. Facilitação: <b>Mariana Siqueira Leão</b> (DCE) e <b>Thiago Mendonça Alencar</b> (Pós-graduação).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Tarde Regional",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-21T16:00:00-03:00",
+    "dataFim": "2026-05-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 4",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-21T16:30:00-03:00",
+    "dataFim": "2026-05-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sustentabilidade Institucional e Responsabilidade Social no Relatório da CPA</i>. Debatedores: <b>Prof. Dr. Jean Carlos Sombra</b> e <b>Profa. Dra. Teresinha Farias Caldas</b>. Mediação: <b>Dr. Daniel Silveira Ramos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Sessão Plenária Preparatória",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-21T18:00:00-03:00",
+    "dataFim": "2026-05-21T19:30:00-03:00",
+    "descricao": "<p>Leitura dos encaminhamentos propostos pelas comissões temáticas. Condução dos trabalhos: <b>Profa. Samara Albuquerque</b> e <b>Prof. Me. Gustavo Henrique Leite</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Grupo de Trabalho 1",
+    "lugar": "Sala 101 - Bloco Profissional",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Dimensões Pedagógicas e Ensino de Graduação</i>. Relatoria e mediação por <b>Prof. Dr. Ricardo Monteiro Queiroz</b> e <b>Profa. Dra. Ângela Noronha</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Grupo de Trabalho 2",
+    "lugar": "Sala 102 - Bloco Profissional",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Gestão, Infraestrutura e Sustentabilidade Financeira</i>. Relatoria e mediação por <b>Dr. Fábio Augusto Valente</b> e <b>Esp. Giselle Marinho</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Grupo de Trabalho 3",
+    "lugar": "Sala 103 - Bloco Profissional",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Políticas de Atendimento aos Estudantes e Ações Afirmativas</i>. Relatoria e mediação por <b>Profa. Dra. Joênia Batista</b> e <b>Me. André Luís Damasceno</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Intervalo com Café de Encerramento",
+    "lugar": "Hall do Centro de Eventos Benedito Nunes",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral de Aprovação da Carta de Belém",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": "2026-05-22T13:00:00-03:00",
+    "descricao": "<p>Votação das propostas consolidadas dos Grupos de Trabalho e redação da <i>Carta de Belém pela Autoavaliação das IES Amazônicas</i>. Coordenação plenária: <b>Profa. Dra. Samara Albuquerque</b>, com participação do relator-geral <b>Dr. Marcos Vinícius da Costa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Restaurante Universitário Central",
+    "dataInicio": "2026-05-22T13:00:00-03:00",
+    "dataFim": "2026-05-22T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-22T14:30:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Conferência <i>O Futuro da Avaliação da Educação Superior no Brasil: Desafios e Rumos para o Triênio 2027-2029</i>, proferida pelo <b>Prof. Dr. Anísio Teixeira Filho</b> (CES/CNE). Presidência da sessão: <b>Prof. Dr. Cláudio Manoel Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-22T16:00:00-03:00",
+    "dataFim": "2026-05-22T17:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio <i>Boas Práticas de Autoavaliação CPA-Norte 2026</i> conduzida por <b>Profa. Dra. Samara Albuquerque</b> e anúncio da sede da décima edição.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

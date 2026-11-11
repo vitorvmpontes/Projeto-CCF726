@@ -1,0 +1,214 @@
+{
+ "spec": {
+  "id": "sint-42-00436",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Natal - RN",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 23,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "subtitulo_separado",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:09+00:00",
+ "uso_tokens": {
+  "entrada": 713,
+  "saida": 3432
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jogos Universitários Potiguares Integrados",
+   "local_geral": "Complexo Esportivo da UFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Retirada de Kits e Confirmação de Equipes",
+    "lugar": "Hall de Entrada do Ginásio 1",
+    "dataInicio": "2024-05-17T07:30:00-03:00",
+    "dataFim": "2024-05-17T09:00:00-03:00",
+    "descricao": "<p>Apresentação de documentos originais e retirada dos crachás com coordenação de <b>Bruna Marinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Poliesportivo 1",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": "<p>Desfile das delegações acadêmicas, acendimento da pira e juramento dos atletas liderado por <b>Lucas Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do DEF",
+    "dataInicio": "2024-05-17T10:45:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A importância do suporte psicológico e nutricional para estudantes universitários que atuam em competições de alto rendimento no cenário potiguar</i> com o Prof. Dr. <b>Renato Caldas</b> e mediação de <b>Camila Soares</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Torneio de Voleibol Masculino",
+    "lugar": "Ginásio Poliesportivo 1",
+    "dataInicio": "2024-05-17T10:45:00-03:00",
+    "dataFim": "2024-05-17T12:15:00-03:00",
+    "descricao": "<p>Partida classificatória do Grupo A entre Atlética Engenharia e Atlética Saúde. Arbitragem de <b>Carlos Eduardo Santos</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Torneio de Futsal Feminino",
+    "lugar": "Ginásio Poliesportivo 2",
+    "dataInicio": "2024-05-17T11:00:00-03:00",
+    "dataFim": "2024-05-17T12:30:00-03:00",
+    "descricao": "<p>Primeira rodada: Direito versus Medicina. Coordenação técnica de <b>Mariana Fagundes</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:30:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Dança do DEF",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:00:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias práticas e abordagens táticas contemporâneas aplicadas ao treinamento de esportes de invasão em ambientes acadêmicos e amadores</i> ministrada pelo preparador físico <b>Diego Farias</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Torneio de Futsal Feminino",
+    "lugar": "Ginásio Poliesportivo 2",
+    "dataInicio": "2024-05-17T13:45:00-03:00",
+    "dataFim": "2024-05-17T15:15:00-03:00",
+    "descricao": "<p>Segunda rodada: Humanas versus Ciências Exatas. Supervisão de <b>Mariana Fagundes</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Torneio de Basquete 3x3",
+    "lugar": "Quadra Externa 1",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Fase classificatória eliminatória rápida das chaves A e B. Coordenação da mesa por <b>Juliana Bezerra</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Torneio de Voleibol Masculino",
+    "lugar": "Ginásio Poliesportivo 1",
+    "dataInicio": "2024-05-17T15:30:00-03:00",
+    "dataFim": "2024-05-17T17:00:00-03:00",
+    "descricao": "<p>Semifinal do torneio universitário. Coordenação geral de <b>Carlos Eduardo Santos</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Reunião de Delegados e Capitães",
+    "lugar": null,
+    "dataInicio": "2024-05-17T17:15:00-03:00",
+    "dataFim": "2024-05-17T18:00:00-03:00",
+    "descricao": "<p>Ajuste de chaveamentos e resolução de recursos disciplinares conduzida por <b>Alexandre Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Torneio Universitário de E-Sports",
+    "lugar": "Laboratório Multimídia de Informática",
+    "dataInicio": "2024-05-17T18:30:00-03:00",
+    "dataFim": "2024-05-17T21:00:00-03:00",
+    "descricao": "<p>Etapa de quartas de final de League of Legends com narração de <b>Pedro Henrique Lima</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Torneio de Xadrez Rápido",
+    "lugar": "Sala Multiuso 3",
+    "dataInicio": "2024-05-18T08:00:00-03:00",
+    "dataFim": "2024-05-18T10:30:00-03:00",
+    "descricao": "<p>Sistema suíço em cinco rodadas individuais supervisionado pelo árbitro regional <b>Vicente Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Torneio de Judô Universitário",
+    "lugar": "Sala de Lutas do DEF",
+    "dataInicio": "2024-05-18T08:30:00-03:00",
+    "dataFim": "2024-05-18T11:00:00-03:00",
+    "descricao": "<p>Disputas nas categorias ligeiro, meio-médio e pesado com organização da mestra <b>Aline Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do DEF",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T11:45:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias avançadas de recuperação muscular e prevenção de lesões ortopédicas crônicas em atletas de esportes coletivos universitários</i> proferida pelo fisioterapeuta <b>Marcos Vinícius Cunha</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Torneio de Basquete 3x3",
+    "lugar": "Quadra Externa 1",
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T12:00:00-03:00",
+    "descricao": "<p>Finais e disputa de terceiro lugar com apitação de <b>Juliana Bezerra</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-18T12:00:00-03:00",
+    "dataFim": "2024-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Disputa de 3º Lugar de Futsal Feminino",
+    "lugar": "Ginásio Poliesportivo 2",
+    "dataInicio": "2024-05-18T13:30:00-03:00",
+    "dataFim": "2024-05-18T14:45:00-03:00",
+    "descricao": "<p>Definição do pódio com acompanhamento de <b>Mariana Fagundes</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Grande Final de Voleibol Masculino",
+    "lugar": "Ginásio Poliesportivo 1",
+    "dataInicio": "2024-05-18T15:00:00-03:00",
+    "dataFim": "2024-05-18T16:30:00-03:00",
+    "descricao": "<p>Confronto decisivo da modalidade com equipe de árbitros chefiada por <b>Carlos Eduardo Santos</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Grande Final de Futsal Feminino",
+    "lugar": "Ginásio Poliesportivo 1",
+    "dataInicio": "2024-05-18T16:45:00-03:00",
+    "dataFim": "2024-05-18T18:00:00-03:00",
+    "descricao": "<p>Decisão do ouro das modalidades de quadra com supervisão de <b>Mariana Fagundes</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Apresentação Cultural das Baterias Universitárias",
+    "lugar": null,
+    "dataInicio": "2024-05-18T18:15:00-03:00",
+    "dataFim": "2024-05-18T19:15:00-03:00",
+    "descricao": "<p>Apresentação ritmada das agremiações e baterias parceiras coordenada por <b>Sofia Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Ginásio Poliesportivo 1",
+    "dataInicio": "2024-05-18T19:30:00-03:00",
+    "dataFim": "2024-05-18T21:00:00-03:00",
+    "descricao": "<p>Entrega de troféus gerais para atléticas campeãs e medalhas individuais com a presença da comissão representada por <b>Bruna Marinho</b> e <b>Alexandre Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização dos Atletas",
+    "lugar": null,
+    "dataInicio": "2024-05-18T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro festivo de integração com DJ <b>Rafael Moura</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

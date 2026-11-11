@@ -1,0 +1,197 @@
+{
+ "spec": {
+  "id": "sint-42-00051",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:18+00:00",
+ "uso_tokens": {
+  "entrada": 668,
+  "saida": 3139
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Jornada Brasiliense de Medicina Intensiva e Cuidados Paliativos",
+   "local_geral": "Centro de Convenções Ulysses Guimarães, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção de Inscritos e Retirada de Crachás",
+    "lugar": "Foyer Central",
+    "dataInicio": "2025-05-16T07:30:00-03:00",
+    "dataFim": "2025-05-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Desafios Atuais da Sepse no Cenário Hospitalar Brasileiro</i>, ministrada pelo Dr. <b>Carlos Eduardo Guimarães</b> e coordenada pela Dra. <b>Patrícia Lins e Silva</b>.</p>",
+    "secao": "Conferências Principais"
+   },
+   {
+    "nome": "Espaço Café e Integração",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Temático",
+    "lugar": "Sala Ágata",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ventilação Mecânica Protetora em Pacientes com SDRA</i>. Participação dos debatedores Dr. <b>Henrique Valadares</b> e Dra. <b>Fernanda Bittencourt</b>.</p>",
+    "secao": "Eixos Clínicos"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Treinamento em <i>Ultrassonografia Point-of-Care (POCUS) na Instabilidade Hemodinâmica</i>, conduzido pelo Dr. <b>Márcio Toledo Arruda</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Multidisciplinar",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Comunicação de Más Notícias e Tomada de Decisão Compartilhada em UTI</i>, com o enfermeiro <b>Rodrigo Albuquerque</b>, a psicóloga <b>Clarice Monteiro</b> e a médica intensivista <b>Beatriz Furtado</b>.</p>",
+    "secao": "Eixos Clínicos"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Habilidades 2",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:00:00-03:00",
+    "descricao": "<p>Prática de <i>Manejo de Via Aérea Difícil e Videolaringoscopia</i>, facilitado pela Dra. <b>Sofia Meireles</b> e pelo Dr. <b>Lucas Pimentel</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Espaço Café e Integração",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Temas Livres",
+    "lugar": "Sala Topázio",
+    "dataInicio": "2025-05-16T15:30:00-03:00",
+    "dataFim": "2025-05-16T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos melhores resumos submetidos sobre monitorização invasiva. Avaliação da banca composta pela Profa. Dra. <b>Renata Sampaio</b> e Dr. <b>Gilberto Neves</b>.</p>",
+    "secao": "Produção Científica"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Foyer das Araras",
+    "dataInicio": "2025-05-16T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição e avaliação comentada dos trabalhos de residência médica e multiprofissional com o coordenador Dr. <b>Vitor Rezende</b>.</p>",
+    "secao": "Produção Científica"
+   },
+   {
+    "nome": "Apresentação Oral de Temas Livres",
+    "lugar": "Sala Topázio",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T09:30:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas em terapia nutricional enteral e parenteral no paciente crítico. Avaliação pelo Dr. <b>Otávio Camargo</b> e Dra. <b>Letícia Nogueira</b>.</p>",
+    "secao": "Produção Científica"
+   },
+   {
+    "nome": "Simpósio Temático",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:00:00-03:00",
+    "descricao": "<p>Abordagem sobre <i>Delirium e Humanização do Ambiente de Tratamento Intensivo</i> com palestra da Profa. <b>Cláudia Diniz</b> e moderação do Dr. <b>Leandro Macedo</b>.</p>",
+    "secao": "Eixos Clínicos"
+   },
+   {
+    "nome": "Espaço Café e Integração",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Capacitação em <i>Terapia Renal Substitutiva Contínua para Intensivistas</i>, orientada pela Dra. <b>Heloísa Vasconcelos</b>.</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Colóquio de Bioética",
+    "lugar": "Sala Ágata",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Limitação de Suporte Terapêutico e Diretivas Antecipadas de Vontade</i> com os convidados Dr. <b>André Barreto</b> e Dra. <b>Mariana Bastos</b>.</p>",
+    "secao": "Eixos Clínicos"
+   },
+   {
+    "nome": "Almoço com Especialistas",
+    "lugar": "Restaurante Panorâmico",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro informal com a Profa. Dra. <b>Juliana Prado</b> para discussão de casos clínicos desafiadores da UTI neurológica.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Multidisciplinar",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Mobilização Precoce e Prevenção da Síndrome Pós-Cuidados Intensivos</i> ministrada pelo fisioterapeuta <b>Thiago Mendonça</b> e médica assistente <b>Aline Borges</b>.</p>",
+    "secao": "Eixos Clínicos"
+   },
+   {
+    "nome": "Espaço Café e Integração",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2025-05-17T15:30:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": "2025-05-17T17:15:00-03:00",
+    "descricao": "<p>Palestra de encerramento intitulada <i>O Futuro da Medicina Intensiva: Inteligência Artificial e Humanismo</i> proferida pelo Dr. <b>Gustavo Queiroz Moreira</b>.</p>",
+    "secao": "Conferências Principais"
+   },
+   {
+    "nome": "Premiação de Trabalhos e Solenidade Final",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-17T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos vencedores do Prêmio Jovem Intensivista e encerramento oficial conduzido pela presidente da comissão organizadora Dra. <b>Patrícia Lins e Silva</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

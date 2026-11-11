@@ -1,0 +1,211 @@
+{
+ "spec": {
+  "id": "sint-42-00460",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Recife - PE",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 23,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:14+00:00",
+ "uso_tokens": {
+  "entrada": 632,
+  "saida": 3832
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência e Tecnologia de Alimentos",
+   "local_geral": "Centro de Convenções de Pernambuco, Olinda/Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Retirada de Material e Recepção dos Congressistas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-10-15T08:00:00-03:00",
+    "dataFim": "2024-10-15T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-15T09:30:00-03:00",
+    "dataFim": "2024-10-15T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do presidente da comissão organizadora, Prof. Dr. <b>Marcelo Queiroz</b> (UFPE), e autoridades convidadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-15T10:30:00-03:00",
+    "dataFim": "2024-10-15T12:00:00-03:00",
+    "descricao": "<p>Palestra ministrada pela Dra. <b>Helena Vasconcelos</b> (Embrapa Alimentos) intitulada <i>Inovação Biotecnológica e Soberania Alimentar no Semiárido Brasileiro</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-15T12:00:00-03:00",
+    "dataFim": "2024-10-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Boa Viagem",
+    "dataInicio": "2024-10-15T14:00:00-03:00",
+    "dataFim": "2024-10-15T16:00:00-03:00",
+    "descricao": "<p>Coordenação: Profa. Dra. <b>Carla Mendonça</b>.</p><p>Apresentação dos trabalhos:</p><p><i>Aproveitamento de subprodutos do maracujá-da-caatinga para formulação de filmes biodegradáveis</i> por <b>Felipe Andrade</b> e <b>Luciana Bezerra</b>.</p><p><i>Cinética de secagem em leito de jorro de polpa de acerola enriquecida com probióticos</i> por <b>Marcos Aurélio Santos</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Capibaribe",
+    "dataInicio": "2024-10-15T14:00:00-03:00",
+    "dataFim": "2024-10-15T16:00:00-03:00",
+    "descricao": "<p>Coordenação: Dr. <b>Guilherme Silveira</b>.</p><p>Apresentação dos trabalhos:</p><p><i>Perfil volátil de méis florais da Zona da Mata pernambucana</i> por <b>Renata Albuquerque</b>.</p><p><i>Determinação de compostos fenólicos totais e atividade antioxidante em frutos nativos do Nordeste</i> por <b>Diego Barreto</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo I",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2024-10-15T16:00:00-03:00",
+    "dataFim": "2024-10-15T18:00:00-03:00",
+    "descricao": "<p>Avaliação dos painéis das áreas de Microbiologia de Alimentos e Bioprocessos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório Multidisciplinar A",
+    "dataInicio": "2024-10-16T08:30:00-03:00",
+    "dataFim": "2024-10-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Análise Reológica Aplicada a Hidrocoloides em Matrizes Alimentares</i>. Instrutora: Dra. <b>Fernanda Tavares</b> (UFRPE).</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Multidisciplinar B",
+    "dataInicio": "2024-10-16T08:30:00-03:00",
+    "dataFim": "2024-10-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Microencapsulação de Compostos Bioativos por Spray Drying</i>. Instrutor: Dr. <b>Rodrigo Pires</b> (UNICAMP).</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-16T12:00:00-03:00",
+    "dataFim": "2024-10-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-16T13:30:00-03:00",
+    "dataFim": "2024-10-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios Regulatórios e Sanitários na Introdução de Novel Foods</i>. Participantes convidados: <b>Patrícia Nogueira</b> (Anvisa), <b>Sérgio Lins</b> (ABIA) e moderação de <b>Beatriz Gouveia</b> (UFPE).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Boa Viagem",
+    "dataInicio": "2024-10-16T16:00:00-03:00",
+    "dataFim": "2024-10-16T18:00:00-03:00",
+    "descricao": "<p>Coordenação: Prof. Dr. <b>Thiago Paixão</b>.</p><p>Trabalhos:</p><p><i>Extração assistida por ultrassom de antocianinas da casca de jabuticaba</i> apresentado por <b>Marina Castello</b>.</p><p><i>Otimização do processo de clarificação de mosto cervejeiro utilizando quitosana</i> apresentado por <b>Leandro Vianna</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala Capibaribe",
+    "dataInicio": "2024-10-16T16:00:00-03:00",
+    "dataFim": "2024-10-16T18:00:00-03:00",
+    "descricao": "<p>Coordenação: Profa. Dra. <b>Viviane Morais</b>.</p><p>Trabalhos:</p><p><i>Estudo da estabilidade lipídica em emulsões cárneas enriquecidas com farinha de baru</i> apresentado por <b>Cláudio Peixoto</b>.</p><p><i>Aplicação de espectroscopia NIR na autenticação de queijos artesanais de coalho</i> apresentado por <b>Tatiana Freire</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Conferência Temática",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T10:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Bioeconomia Circular na Cadeia Produtiva Agroindustrial</i>, com o conferencista <b>Arthur Meireles</b> (USP).</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-10-17T10:30:00-03:00",
+    "dataFim": "2024-10-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5",
+    "lugar": "Sala Boa Viagem",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Coordenação: Dra. <b>Juliana Falcão</b>.</p><p>Trabalhos orais:</p><p><i>Isolamento e caracterização de bactérias ácido-láticas autóctones para produção de fermentados vegetais</i> por <b>Igor Campelo</b>.</p><p><i>Desenvolvimento de iogurte simbiótico adicionado de polpa de umbu-cajá</i> por <b>Samara Pinheiro</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 6",
+    "lugar": "Sala Capibaribe",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Coordenação: Dr. <b>Otávio Fontes</b>.</p><p>Trabalhos orais:</p><p><i>Microbiota fúngica deterioradora associada a grãos de café arábica armazenados</i> por <b>Gisele Mattos</b>.</p><p><i>Efeito do tratamento por alta pressão hidrostática na inativação de Salmonella spp. em suco de manga</i> por <b>Danilo Siqueira</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo II",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2024-10-17T14:30:00-03:00",
+    "dataFim": "2024-10-17T16:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos painéis científicos das áreas de Química, Análise Sensorial e Engenharia de Alimentos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral da Sociedade",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-17T17:00:00-03:00",
+    "dataFim": "2024-10-17T18:30:00-03:00",
+    "descricao": "<p>Reunião estatutária ordinária conduzida pela diretoria da Sociedade Brasileira de Ciência de Alimentos, sob liderança de <b>Tereza Cristina Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Encerramento Científico",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:45:00-03:00",
+    "descricao": "<p>Discussão temática sobre <i>O Futuro dos Alimentos e a Sustentabilidade Global até 2050</i>, com <b>Paulo Zanin</b> (Embrapa Agroindústria Tropical) e <b>Mônica Prado</b> (UFRJ).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-10-18T10:45:00-03:00",
+    "dataFim": "2024-10-18T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação de Trabalhos Científicos",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-18T11:15:00-03:00",
+    "dataFim": "2024-10-18T12:15:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Jovem Pesquisador conduzida pela Profa. <b>Eliane Fontenele</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Encerramento",
+    "lugar": "Auditório Tabocas",
+    "dataInicio": "2024-10-18T12:15:00-03:00",
+    "dataFim": "2024-10-18T13:00:00-03:00",
+    "descricao": "<p>Apresentação musical com o grupo de frevo e maracatu sob regência do maestro <b>Aníbal Coutinho</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

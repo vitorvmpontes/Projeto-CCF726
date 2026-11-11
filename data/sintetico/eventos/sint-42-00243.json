@@ -1,0 +1,131 @@
+{
+ "spec": {
+  "id": "sint-42-00243",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 13,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:26+00:00",
+ "uso_tokens": {
+  "entrada": 636,
+  "saida": 1972
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores da Floresta: Gastronomia e Saberes Amazônicos",
+   "local_geral": "Centro Cultural dos Povos da Amazônia, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Kits",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2027-08-14T09:00:00-03:00",
+    "dataFim": "2027-08-14T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Arena Gastronômica",
+    "dataInicio": "2027-08-14T10:00:00-03:00",
+    "dataFim": "2027-08-14T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial do festival com as boas-vindas do curador <b>Thiago Paiva</b> e da secretária de cultura <b>Maria do Carmo Seixas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Show Rio Negro",
+    "dataInicio": "2027-08-14T10:30:00-03:00",
+    "dataFim": "2027-08-14T11:45:00-03:00",
+    "descricao": "<p>Apresentação <i>Peixes da Bacia Amazônica: Técnicas Ancestrais de Moquém e Fermentação</i> ministrada pela chef <b>Debora Shornik</b> e pelo mestre ribeirinho <b>Benedito de Souza</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Show Rio Negro",
+    "dataInicio": "2027-08-14T11:45:00-03:00",
+    "dataFim": "2027-08-14T13:00:00-03:00",
+    "descricao": "<p>O chef <b>Felipe Schaedler</b> apresenta <i>O Uso Inovador de Cogumelos Yanomami e Ervas Locais</i>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Vila Gastronômica Externa",
+    "dataInicio": "2027-08-14T13:00:00-03:00",
+    "dataFim": "2027-08-14T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Cozinha Show Rio Solimões",
+    "dataInicio": "2027-08-14T14:30:00-03:00",
+    "dataFim": "2027-08-14T16:00:00-03:00",
+    "descricao": "<p>Sessão prática intitulada <i>Doceria Cabocla: Sobremesas Contemporâneas com Cupuaçu e Castanha-do-Brasil</i> com a confeiteira <b>Mariana Batista</b>.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Pausa para Café Regional",
+    "lugar": "Espaço Samaúma",
+    "dataInicio": "2027-08-14T16:00:00-03:00",
+    "dataFim": "2027-08-14T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Vitória-Régia",
+    "dataInicio": "2027-08-14T16:45:00-03:00",
+    "dataFim": "2027-08-14T18:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Sustentabilidade e Cadeias Produtivas da Sociobiodiversidade Amazônica</i> com a participação do pesquisador <b>Carlos Nobre Filho</b> e mediação de <b>Clarissa Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Culinário",
+    "dataInicio": "2027-08-15T09:30:00-03:00",
+    "dataFim": "2027-08-15T11:00:00-03:00",
+    "descricao": "<p>Capacitação <i>Manipulação Segura e Extração Tradicional do Tucupi Amarelo e Negro</i> com a tacacazeira <b>Dona Antônia Ramos</b>.</p>",
+    "secao": "Oficinas de Imersão"
+   },
+   {
+    "nome": "Aula-Show 4",
+    "lugar": "Cozinha Show Rio Solimões",
+    "dataInicio": "2027-08-15T11:15:00-03:00",
+    "dataFim": "2027-08-15T12:45:00-03:00",
+    "descricao": "<p>Apresentação da receita autoral <i>Pirarucu Fresco Selado em Crosta de Farinha de Uarini</i> conduzida pelo chef <b>Saulo Jennings</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre e Visita aos Estandes",
+    "lugar": "Vila Gastronômica Externa",
+    "dataInicio": "2027-08-15T12:45:00-03:00",
+    "dataFim": "2027-08-15T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Desafio Cozinha Criativa",
+    "lugar": "Arena Gastronômica",
+    "dataInicio": "2027-08-15T14:30:00-03:00",
+    "dataFim": "2027-08-16T16:30:00-03:00",
+    "descricao": "<p>Competição ao vivo com avaliação dos jurados <b>Tereza Paim</b>, <b>Paulo Martins Neto</b> e mediação de <b>Elisângela Cordeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Encerramento e Premiação",
+    "lugar": "Arena Gastronômica",
+    "dataInicio": "2027-08-15T17:00:00-03:00",
+    "dataFim": "2027-08-15T18:30:00-03:00",
+    "descricao": "<p>Cerimônia final com entrega do troféu <i>Inovação das Florestas</i> conduzida por <b>Thiago Paiva</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "spec": {
+  "id": "sint-42-00084",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Cuiabá - MT",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 13,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:42+00:00",
+ "uso_tokens": {
+  "entrada": 678,
+  "saida": 2012
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Centro-Oeste de Sustentabilidade e Conservação do Pantanal",
+   "local_geral": "Centro de Eventos do Pantanal, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-06-09T08:00:00-03:00",
+    "dataFim": "2026-06-09T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório das Águas",
+    "dataInicio": "2026-06-09T09:30:00-03:00",
+    "dataFim": "2026-06-09T11:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Estratégias Integradas para a Preservação da Biodiversidade e Mitigação de Efeitos Climáticos Severos no Bioma Pantaneiro</i>, proferida pela Dra. <b>Helena Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": null,
+    "dataInicio": "2026-06-09T14:00:00-03:00",
+    "dataFim": "2026-06-09T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Manejo Sustentável das Bacias Hidrográficas Urbanas e Rurais</i> com <b>Rodrigo Albuquerque</b> e mediação de <b>Camila Duarte Siqueira</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": null,
+    "dataInicio": "2026-06-09T16:30:00-03:00",
+    "dataFim": "2026-06-09T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas de Fomento à Economia Circular em Comunidades Tradicionais</i> apresentado por <b>Marcos Aurélio Guedes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Técnica A",
+    "lugar": "Laboratório de Geoprocessamento 2",
+    "dataInicio": "2026-06-10T08:30:00-03:00",
+    "dataFim": "2026-06-10T12:00:00-03:00",
+    "descricao": "<p>Oficina prática intitulada <i>Utilização de Imagens de Satélite e Drones no Monitoramento Sistemático de Queimadas e Áreas Degradadas</i>, ministrada pelo Prof. <b>Tiago Mendes Barreto</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Técnica B",
+    "lugar": "Sala de Capacitação 104",
+    "dataInicio": "2026-06-10T08:30:00-03:00",
+    "dataFim": "2026-06-10T12:00:00-03:00",
+    "descricao": "<p>Capacitação voltada para <i>Técnicas de Restauração Ecológica Florestal com Espécies Arbóreas Nativas em Áreas de Preservação Permanente</i> sob instrução de <b>Fernanda Lins Maciel</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Espaço de Integração",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-06-10T12:00:00-03:00",
+    "dataFim": "2026-06-10T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Diálogo Interdisciplinar",
+    "lugar": null,
+    "dataInicio": "2026-06-10T14:00:00-03:00",
+    "dataFim": "2026-06-10T17:00:00-03:00",
+    "descricao": "<p>Debate aberto coordenado por <b>Larissa Fontes</b> com participação de líderes comunitários e representantes de cooperativas agrícolas locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Trabalhos 1",
+    "lugar": "Auditório Guimarães",
+    "dataInicio": "2026-06-11T09:00:00-03:00",
+    "dataFim": "2026-06-11T12:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos selecionados com avaliação do comitê composto por <b>Valter Nogueira</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Apresentação de Trabalhos 2",
+    "lugar": "Auditório Bororo",
+    "dataInicio": "2026-06-11T09:00:00-03:00",
+    "dataFim": "2026-06-11T12:00:00-03:00",
+    "descricao": "<p>Sessão temática de iniciação científica e relatos de extensão comunitária com mediação da Profa. <b>Cláudia Penteado</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Mesa Especial",
+    "lugar": null,
+    "dataInicio": "2026-06-11T14:30:00-03:00",
+    "dataFim": "2026-06-11T17:30:00-03:00",
+    "descricao": "<p>Encontro focado no <i>Financiamento Internacional e Mecanismos de Crédito Verde para a Agropecuária Regenerativa</i>, liderado por <b>Lucas Carvalho Furtado</b> e <b>Patrícia Ramos Xavier</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral de Resoluções",
+    "lugar": "Auditório das Águas",
+    "dataInicio": "2026-06-12T09:30:00-03:00",
+    "dataFim": "2026-06-12T12:00:00-03:00",
+    "descricao": "<p>Discussão e redação conjunta da Carta de Cuiabá para a Sustentabilidade com os relatores <b>Sérgio Antunes Pires</b> e <b>Renata Villela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-06-12T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas pelo presidente do comitê <b>Eduardo Brandão</b> e apresentação cultural pantaneira.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

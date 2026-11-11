@@ -1,0 +1,221 @@
+{
+ "spec": {
+  "id": "sint-42-00288",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Vitória - ES",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 24,
+  "casos": [
+   "subtitulo_separado",
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:17+00:00",
+ "uso_tokens": {
+  "entrada": 692,
+  "saida": 3509
+ },
+ "saida": {
+  "evento": {
+   "nome": "Capixaba Tech Summit & Hackathon 2027",
+   "local_geral": "Centro de Convenções de Vitória, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in dos Participantes",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:30:00-03:00",
+    "descricao": "<p>Retirada de crachás, kits de boas-vindas e acesso à área de expositores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-18T09:30:00-03:00",
+    "dataFim": "2027-05-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação das trilhas e diretrizes do hackathon com <b>Mariana Fagundes</b> e <b>Carlos Eduardo Bento</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Corporativa 1",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-18T10:45:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e Arquiteturas Escaláveis na Nuvem</i>, conduzida por <b>Roberto Guimarães</b> (AWS Brasil).</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Palestra Corporativa 2",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Engenharia de Dados Aplicada à Eficiência Logística Portuária</i>, ministrada por <b>Fernanda Bittencourt</b> (Vale) e <b>Lucas Meireles</b> (Porto de Tubarão).</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Lançamento dos Desafios do Hackathon",
+    "lugar": "Arena de Inovação",
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": "2027-05-18T17:30:00-03:00",
+    "descricao": "<p>Divulgação dos problemas de negócios reais propostos pelas empresas parceiras. Coordenação de <b>Patrícia Alvarenga</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Lab de Informática A",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Prototipagem Ágil de Microsserviços com Contêineres e Kubernetes para Ambientes Produtivos de Alta Disponibilidade e Baixa Latência</i>. Instrutor: <b>Thiago Vasconcellos</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Lab de Informática B",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Construção de Pipelines Inteligentes de Dados com Apache Kafka</i>. Instrutora: <b>Camila Siqueira</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Almoço Livre e Networking",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:00:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel com Executivos",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo: <i>O Futuro do Trabalho e a Retenção de Talentos Tecnológicos no Espírito Santo</i>. Debatedores: <b>Beatriz Brandão</b>, <b>Gustavo Nogueira</b> e <b>Jéssica Trindade</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Início da Imersão Hackathon",
+    "lugar": "Arena de Inovação",
+    "dataInicio": "2027-05-19T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Início oficial do período de desenvolvimento com mentores de mercado à disposição das equipes sob liderança de <b>Felipe Dorneles</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Mentoria Técnica Coletiva",
+    "lugar": "Arena de Inovação",
+    "dataInicio": "2027-05-20T09:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Apoio de arquitetura de software e design de interfaces conduzido por <b>Juliana Vianna</b> e <b>Diego Furtado</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Lab de Informática A",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança em APIs RESTful e Boas Práticas OWASP</i>. Ministrado por <b>Danilo Queiroz</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Palestra Técnica Especial",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Implementação Prática de Modelos Fundacionais de Inteligência Artificial Generativa para Automação de Processos Críticos e Tomada de Decisão Empresarial</i>. Palestrante: <b>Dr. Marcelo Prado</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Demoday de Startups Locais",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação de soluções capixabas para fundos de investimento. Avaliadores convidados: <b>Renata Pimentel</b> e <b>Afonso Lins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão Noturno de Mentoria",
+    "lugar": "Arena de Inovação",
+    "dataInicio": "2027-05-20T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão tira-dúvidas de código e modelagem de banco para maratonistas com <b>Rafael Castelo</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Checkpoint dos Projetos",
+    "lugar": "Arena de Inovação",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Revisão intermediária obrigatória com a comissão técnica liderada por <b>Aline Guastini</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Técnica 4",
+    "lugar": "Lab de Informática B",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Design System Escalável com Figma e React</i>. Conduzida por <b>Clarissa Fontes</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Palestra Corporativa 3",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-21T14:30:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Governança de Dados, Privacidade e Aplicação Efetiva da LGPD nos Setores Financeiro e de Saúde Pública</i>, apresentada por <b>Dr. Rogério Mattos</b> e <b>Simone Coutinho</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Oficina de Pitch",
+    "lugar": "Auditório Ilha",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo: <i>Como Apresentar um Produto Mínimo Viável em 3 Minutos</i>. Instrutor: <b>Vinícius Peixoto</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Encerramento da Codificação",
+    "lugar": "Arena de Inovação",
+    "dataInicio": "2027-05-22T08:00:00-03:00",
+    "dataFim": "2027-05-22T08:15:00-03:00",
+    "descricao": "<p>Congelamento dos repositórios e entrega final dos protótipos do Hackathon.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Apresentação dos Pitches Finais",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-22T09:30:00-03:00",
+    "dataFim": "2027-05-22T12:30:00-03:00",
+    "descricao": "<p>Apresentação das 10 equipes finalistas para a banca julgadora presidida por <b>Helena Mascarenhas</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Brunch de Confraternização",
+    "lugar": "Área Externa Gourmet",
+    "dataInicio": "2027-05-22T12:30:00-03:00",
+    "dataFim": "2027-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-22T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Ecossistemas de Inovação Aberta e o Impacto Social da Tecnologia</i>. Palestrante convidado: <b>Rodrigo Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2027-05-22T16:00:00-03:00",
+    "dataFim": "2027-05-22T17:30:00-03:00",
+    "descricao": "<p>Anúncio dos três times vencedores do hackathon e entrega de troféus com <b>Mariana Fagundes</b> e <b>Carlos Eduardo Bento</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

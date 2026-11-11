@@ -1,0 +1,110 @@
+{
+ "spec": {
+  "id": "sint-42-00020",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Niterói - RJ",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas",
+   "descricoes_ricas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:50+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 2063
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Fluminense de Mulheres na Tecnologia e Computação (FlumiMulheres.Tech 2027)",
+   "local_geral": "Instituto de Computação - Universidade Federal Fluminense (UFF), Campus da Praia Vermelha, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Institucional",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-04-14T09:00:00-03:00",
+    "dataFim": "2027-04-14T10:15:00-03:00",
+    "descricao": "<p>Acolhimento da comissão organizadora com fala de abertura conduzida pela coordenadora-geral <b>Profa. Dra. Luciana Salgado</b> e presença da diretoria do Instituto de Computação.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-04-14T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Trajetórias Femininas na Inteligência Artificial: Desafios Epistêmicos e Mercado Global</i>.</p><p>Palestrante convidada: <b>Dra. Beatriz Sanches Moreira</b> (UFRJ/Ceweb.br).</p>",
+    "secao": "Palestras Convidadas"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 302 - Bloco E",
+    "dataInicio": "2027-04-14T14:00:00-03:00",
+    "dataFim": "2027-04-14T16:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos de pós-graduação. Coordenação da sessão por <b>Profa. Camila Dias Vasconcelos</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Detecção de Vieses Algorítmicos de Gênero em Modelos de Linguagem Pré-treinados</i>, por <b>Mariana Paes Leme</b> e <b>Profa. Vanessa Bragança</b>.</p><p>2. <i>Arquiteturas Eficientes para Internet das Coisas em Ambientes Hospitalares</i>, por <b>Thaís Helena Barreto</b>.</p><p>3. <i>Framework de Governança de Dados para Startups</i>, por <b>Gabriela Pinho Rezende</b> e <b>Clarice Antunes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 304 - Bloco E",
+    "dataInicio": "2027-04-14T14:00:00-03:00",
+    "dataFim": "2027-04-14T16:00:00-03:00",
+    "descricao": "<p>Trabalhos de iniciação científica e extensão universitária. Coordenação da sessão por <b>Dra. Renata Albuquerque Castro</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Meninas Digitais no Leste Fluminense: Relato de Experiência em Escolas Públicas</i>, por <b>Juliana Prado Mendes</b> e <b>Aline Fonseca Rocha</b>.</p><p>2. <i>Desenvolvimento de Aplicativo Assistivo para Crianças com TEA</i>, por <b>Fernanda Esteves Cordeiro</b> e <b>Letícia Nogueira</b>.</p><p>3. <i>Mapeamento de Egressas dos Cursos de TI da Região Metropolitana do Rio</i>, por <b>Isabela Fontes Guimarães</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-04-15T09:30:00-03:00",
+    "dataFim": "2027-04-15T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Liderança Técnica e Retenção de Mulheres em Engenharia de Software</i>.</p><p>Painelistas: <b>Carla Vignoli</b> (Tech Lead na Stone), <b>Danielle Amorim</b> (Diretora de Engenharia na Nubank) e <b>Paula Silveira Gomes</b> (Arquiteta de Soluções na AWS). Mediação conduzida por <b>Profa. Viviane Torres da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Redes (LabRedes)",
+    "dataInicio": "2027-04-15T14:00:00-03:00",
+    "dataFim": "2027-04-15T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia Reversa e Cibersegurança Ofensiva na Prática</i>.</p><p>Instrutoras: <b>Eng. Natália Siqueira</b> e <b>Roberta Meirelles Dantas</b> (Security Researchers no LabSec).</p>",
+    "secao": "Workshops e Tutoriais"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Software Livre (LSL)",
+    "dataInicio": "2027-04-15T14:00:00-03:00",
+    "dataFim": "2027-04-15T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Pipelines de MLOps com Ferramentas Open Source</i>.</p><p>Instrutora: <b>Dr.ª Sílvia Regina Lourenço</b> (Pesquisadora no LNCC).</p>",
+    "secao": "Workshops e Tutoriais"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Espaço de Convivência Externa",
+    "dataInicio": "2027-04-16T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Saúde Mental, Síndrome da Impostora e Maternidade na Academia e Indústria de TI</i>.</p><p>Facilitadoras: <b>Dra. Mônica Fleury Barcellos</b> (Psicóloga Convidada) e <b>Profa. Kelly Rosa Braghetto</b> (DCC/UFRJ).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Projetos e Pôsteres",
+    "lugar": "Hall do Prédio Novo de Ciência da Computação",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T16:00:00-03:00",
+    "descricao": "<p>Exposição de protótipos de conclusão de curso e produtos de pesquisa aplicada com avaliação de comitê formado por <b>Dra. Cristina Nader Vasconcelos</b> e <b>Dra. Aura Conci</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-04-16T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das conclusões do evento, anúncio do <i>Prêmio Jovem Cientista Ada Lovelace Fluminense</i> e lançamento do documento de diretrizes regionais. Apresentação coordenada por <b>Profa. Dra. Luciana Salgado</b> e comissão de avaliação.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

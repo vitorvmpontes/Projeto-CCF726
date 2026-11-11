@@ -1,0 +1,268 @@
+{
+ "spec": {
+  "id": "sint-42-00482",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 5,
+  "n_atividades": 30,
+  "casos": [
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:18+00:00",
+ "uso_tokens": {
+  "entrada": 664,
+  "saida": 4582
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXII Semana Acadêmica de Agronomia da UFMS",
+   "local_geral": "Faculdade de Medicina Veterinária e Zootecnia (FAMEZ) - UFMS, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada do Auditório Central",
+    "dataInicio": "2024-05-20T07:30:00-03:00",
+    "dataFim": "2024-05-20T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-20T08:30:00-03:00",
+    "dataFim": "2024-05-20T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor da faculdade <b>Dr. Marcos Vinicius Alencar</b> e a coordenadora do curso <b>Dra. Cecília Nogueira Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-20T09:45:00-03:00",
+    "dataFim": "2024-05-20T11:45:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios e perspectivas da agricultura sustentável no Cerrado sul-mato-grossense</i>, apresentada pelo pesquisador <b>Dr. Lucas Ramires Fagundes</b> (Embrapa Gado de Corte).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Solos",
+    "dataInicio": "2024-05-20T14:00:00-03:00",
+    "dataFim": "2024-05-20T17:30:00-03:00",
+    "descricao": "<p>Módulo prático: <i>Interpretação e recomendação de adubação e calagem para culturas anuais</i>, ministrado pelo <b>Prof. Roberto Meireles</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Geotecnologias",
+    "dataInicio": "2024-05-20T14:00:00-03:00",
+    "dataFim": "2024-05-20T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Uso de drones e mapeamento aéreo aplicado à agricultura de precisão</i>, conduzido pela engenheira agrônoma <b>Marina Godoy Siqueira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-21T08:00:00-03:00",
+    "dataFim": "2024-05-21T09:45:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo integrado de pragas da soja com foco em controle biológico</i>, ministrada pelo pesquisador <b>Dr. Gilberto Pires Duarte</b>.</p>",
+    "secao": "Ciclo de Palestras Técnicas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2024-05-21T09:45:00-03:00",
+    "dataFim": "2024-05-21T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-21T10:15:00-03:00",
+    "dataFim": "2024-05-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Biotecnologia e edição gênica no melhoramento de pastagens tropicais</i>, com a <b>Dra. Fernanda Bicalho</b>.</p>",
+    "secao": "Ciclo de Palestras Técnicas"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Solos",
+    "dataInicio": "2024-05-21T14:00:00-03:00",
+    "dataFim": "2024-05-21T17:30:00-03:00",
+    "descricao": "<p>Continuação do módulo prático: <i>Interpretação e recomendação de adubação e calagem para culturas anuais</i>, com o <b>Prof. Roberto Meireles</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Casa de Vegetação 2",
+    "dataInicio": "2024-05-21T14:00:00-03:00",
+    "dataFim": "2024-05-21T17:30:00-03:00",
+    "descricao": "<p>Prática de campo: <i>Propagação vegetativa e enxertia de fruteiras de clima subtropical</i>, ministrado pelo <b>Eng. Agr. Valdemir Couto</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-22T08:00:00-03:00",
+    "dataFim": "2024-05-22T10:00:00-03:00",
+    "descricao": "<p>Debate: <i>Mercado de carbono e as oportunidades para o agronegócio no Centro-Oeste</i>. Participantes: <b>Mariana Dornelles</b> (Federação da Agricultura e Pecuária de MS), <b>Carlos Augusto Trindade</b> e mediação de <b>Profa. Renata Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2024-05-22T10:00:00-03:00",
+    "dataFim": "2024-05-22T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-22T10:20:00-03:00",
+    "dataFim": "2024-05-22T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Fisiologia da produção e manejo do estresse hídrico no milho safrinha</i>, proferida pelo <b>Prof. Dr. Tiago Henrique Lins</b>.</p>",
+    "secao": "Ciclo de Palestras Técnicas"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Galpão Multiuso",
+    "dataInicio": "2024-05-22T14:00:00-03:00",
+    "dataFim": "2024-05-22T16:00:00-03:00",
+    "descricao": "<p>Sessão de avaliação de trabalhos científicos de iniciação científica e extensão nas áreas de Fitotecnia e Solos. Coordenação da <b>Dra. Juliana Vilarinho</b>.</p>",
+    "secao": "Sessões Científicas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2024-05-22T16:15:00-03:00",
+    "dataFim": "2024-05-22T17:45:00-03:00",
+    "descricao": "<p>Tema: <i>Atuação do engenheiro agrônomo no crédito rural e perícia judicial</i>, com <b>Marcio Barreto da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Dia de Campo",
+    "lugar": "Fazenda Escola da UFMS",
+    "dataInicio": "2024-05-23T07:30:00-03:00",
+    "dataFim": "2024-05-23T09:30:00-03:00",
+    "descricao": "<p>Estação 1: <i>Consórcio de braquiária com milho e sistemas de integração Lavoura-Pecuária (ILP)</i>, guiada pelo pesquisador <b>Dr. Henrique Mendes Castro</b>.</p>",
+    "secao": "Dia de Campo Tecnológico"
+   },
+   {
+    "nome": "Dia de Campo",
+    "lugar": "Fazenda Escola da UFMS",
+    "dataInicio": "2024-05-23T09:45:00-03:00",
+    "dataFim": "2024-05-23T11:45:00-03:00",
+    "descricao": "<p>Estação 2: <i>Calibração de pulverizadores e técnicas para redução de deriva</i>, com o especialista <b>Eng. Agr. Rogério Santana</b>.</p>",
+    "secao": "Dia de Campo Tecnológico"
+   },
+   {
+    "nome": "Almoço dos Participantes",
+    "lugar": "Refeitório da Fazenda Escola",
+    "dataInicio": "2024-05-23T12:00:00-03:00",
+    "dataFim": "2024-05-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-23T14:00:00-03:00",
+    "dataFim": "2024-05-23T15:45:00-03:00",
+    "descricao": "<p>Apresentação dos artigos selecionados para premiação. Comitê avaliador composto pelos professores <b>Dr. André Queiroz</b> e <b>Dra. Lilian Paiva</b>.</p>",
+    "secao": "Sessões Científicas"
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Galpão Multiuso",
+    "dataInicio": "2024-05-23T14:00:00-03:00",
+    "dataFim": "2024-05-23T16:00:00-03:00",
+    "descricao": "<p>Sessão de pôsteres com foco em Proteção de Plantas, Zootecnia e Economia Rural. Avaliação liderada por <b>Prof. Bruno Camargo</b>.</p>",
+    "secao": "Sessões Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-23T16:15:00-03:00",
+    "dataFim": "2024-05-23T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mulheres no agronegócio: liderança, gestão e pesquisa</i>, com a participação de <b>Beatriz Mendonça Fontes</b>, <b>Camila Rezende</b> e <b>Patrícia Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-24T08:00:00-03:00",
+    "dataFim": "2024-05-24T09:30:00-03:00",
+    "descricao": "<p>Tema: <i>Plantas de cobertura e saúde biológica do solo em sistemas de plantio direto</i>, proferida pelo <b>Prof. Dr. Samuel Antunes Neves</b>.</p>",
+    "secao": "Ciclo de Palestras Técnicas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2024-05-24T09:30:00-03:00",
+    "dataFim": "2024-05-24T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-24T10:00:00-03:00",
+    "dataFim": "2024-05-24T11:45:00-03:00",
+    "descricao": "<p>Tema: <i>Inovações na nutrição e sanidade do eucalipto no leste de MS</i>, ministrada pela <b>Dra. Simone Galvão Rabelo</b>.</p>",
+    "secao": "Ciclo de Palestras Técnicas"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2024-05-24T13:30:00-03:00",
+    "dataFim": "2024-05-24T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução ao software R para análise estatística de experimentos agrícolas</i>, facilitada por <b>Otávio Garcia Morais</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina",
+    "lugar": "Setor de Olericultura",
+    "dataInicio": "2024-05-24T13:30:00-03:00",
+    "dataFim": "2024-05-24T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Montagem e manejo de sistemas hidropônicos de baixo custo</i>, facilitada pelo técnico agropecuário <b>Claudio Diniz Ramos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-24T15:45:00-03:00",
+    "dataFim": "2024-05-24T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>O futuro da formação agronômica diante da transformação digital no campo</i>, ministrada pelo <b>Eng. Agr. Fernando Vasconcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos e Sessão de Homenagens",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-24T17:00:00-03:00",
+    "dataFim": "2024-05-24T18:00:00-03:00",
+    "descricao": "<p>Entrega dos certificados aos melhores trabalhos científicos do evento conduzida pela <b>Dra. Cecília Nogueira Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Central da FAMEZ",
+    "dataInicio": "2024-05-24T18:00:00-03:00",
+    "dataFim": "2024-05-24T18:30:00-03:00",
+    "descricao": "<p>Palavras finais da comissão organizadora e agradecimentos institucionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": "Área de Lazer dos Servidores da FAMEZ",
+    "dataInicio": "2024-05-24T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização tradicional de encerramento com apresentação musical dos alunos do curso.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

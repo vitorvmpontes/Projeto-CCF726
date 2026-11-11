@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-42-00144",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Florestal - MG",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "titulos_longos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:38+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 1118
+ },
+ "saida": {
+  "evento": {
+   "nome": "HackaGame Florestal 2024: Maratona Integrada de Desenvolvimento de Jogos e Soluções Digitais",
+   "local_geral": "Campus UFV - Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Café de Boas-Vindas",
+    "lugar": "Hall do Prédio Central",
+    "dataInicio": "2024-05-18T08:00:00-03:00",
+    "dataFim": "2024-05-18T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Arquitetura de Jogos",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T11:00:00-03:00",
+    "descricao": "<p>Apresentação prática conduzida por <b>Lucas Rezende Moreira</b> abordando <i>Desenvolvimento de Mecânicas de Jogos Sustentáveis Utilizando Padrões de Projeto em Godot Engine para Equipes Independentes de Pequeno Porte</i>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Palestra sobre Otimização de Código",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-18T11:10:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>A palestra <i>Estratégias Avançadas para Resolução Eficiente de Gargalos Computacionais e Gerenciamento de Memória em Algoritmos Competitivos sob Restrições Severas de Tempo</i> será ministrada por <b>Camila Duarte Nogueira</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Almoço dos Competidores",
+    "lugar": "Refeitório Universitário",
+    "dataInicio": "2024-05-18T12:30:00-03:00",
+    "dataFim": "2024-05-18T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Início da Maratona e Liberação do Tema Secreto",
+    "lugar": "Espaço Coworking Maker",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T16:30:00-03:00",
+    "descricao": "<p>Abertura oficial do sprint de desenvolvimento com a mentoria dos coordenadores <b>Thiago Salles Barbosa</b> e <b>Larissa Fontes Ribeiro</b> para direcionamento das equipes.</p>",
+    "secao": "Maratona e Game Jam"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Tenda Externa",
+    "dataInicio": "2024-05-18T16:30:00-03:00",
+    "dataFim": "2024-05-18T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Apresentação e Julgamento Final",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-05-18T17:00:00-03:00",
+    "dataFim": "2024-05-18T19:30:00-03:00",
+    "descricao": "<p>Apresentação das demos jogáveis e dos protótipos de software desenvolvidos perante o comitê avaliador composto por <b>Rodrigo Menezes Faria</b> e <b>Juliana Pimenta Castro</b>.</p>",
+    "secao": "Maratona e Game Jam"
+   }
+  ]
+ }
+}

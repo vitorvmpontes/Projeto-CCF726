@@ -1,0 +1,380 @@
+{
+ "spec": {
+  "id": "sint-42-00061",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Curitiba - PR",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 44,
+  "casos": [
+   "intervalos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:36+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 6459
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Paranaense de Autoavaliação Institucional e Gestão Universitária",
+   "local_geral": "Campus Botânico da UFPR, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada do Prédio Central",
+    "dataInicio": "2024-05-21T08:00:00-03:00",
+    "dataFim": "2024-05-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-21T09:00:00-03:00",
+    "dataFim": "2024-05-21T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do reitor <b>Ricardo Marcelo Fonseca</b> e da coordenadora geral da CPA <b>Helena Schmidt de Mello</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-21T09:45:00-03:00",
+    "dataFim": "2024-05-21T11:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>O Papel Estratégico da Autoavaliação no Desenvolvimento Institucional</i>, ministrada pelo professor <b>Dilvo Ristoff</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Debate Plenário",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-21T11:00:00-03:00",
+    "dataFim": "2024-05-21T12:00:00-03:00",
+    "descricao": "<p>Sessão de perguntas mediada pela professora <b>Carmen Lúcia Lourenço</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-21T12:00:00-03:00",
+    "dataFim": "2024-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-21T13:30:00-03:00",
+    "dataFim": "2024-05-21T15:30:00-03:00",
+    "descricao": "<p>Painel com o tema <i>Articulação entre PDI e Relatório de Autoavaliação Institucional</i>. Participantes: <b>Mariângela Vandresen</b> e <b>Carlos Eduardo Beltrão</b>. Moderação de <b>Sandra Mara Zanin</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-21T15:30:00-03:00",
+    "dataFim": "2024-05-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-21T16:00:00-03:00",
+    "dataFim": "2024-05-21T18:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Instrumentos de Avaliação Externa do Inep e a Prática Interna da CPA</i> com <b>Igor de Oliveira Lima</b> e <b>Beatriz Maria Silveira</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mostra de Banners das CPAs",
+    "lugar": null,
+    "dataInicio": "2024-05-21T18:00:00-03:00",
+    "dataFim": "2024-05-21T19:00:00-03:00",
+    "descricao": "<p>Exposição de pôsteres com sínteses de relatórios institucionais do Paraná, organizada por <b>Clara Beatriz Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Anfiteatro 2",
+    "dataInicio": "2024-05-22T08:30:00-03:00",
+    "dataFim": "2024-05-22T10:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Engajamento Estudantil na Avaliação de Disciplinas e Cursos</i> com mediação de <b>Rodrigo Otávio Moretti</b> e contribuições de <b>Larissa Pires Meneghetti</b> e <b>Jorge Tadeu Silveira</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": "Anfiteatro 3",
+    "dataInicio": "2024-05-22T08:30:00-03:00",
+    "dataFim": "2024-05-22T10:15:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>A Percepção dos Técnicos Administrativos no Clima Organizacional</i> com exposições de <b>Fernando Cesar Guimarães</b> e <b>Renata Albuquerque Luz</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-22T10:15:00-03:00",
+    "dataFim": "2024-05-22T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com Coordenadores de Curso",
+    "lugar": null,
+    "dataInicio": "2024-05-22T10:45:00-03:00",
+    "dataFim": "2024-05-22T12:00:00-03:00",
+    "descricao": "<p>Troca de experiências conduzida pela docente <b>Tatiana Freitas Diniz</b> a partir do tema <i>Usos Pedagógicos dos Indicadores da CPA nos Colegiados</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-22T12:00:00-03:00",
+    "dataFim": "2024-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2024-05-22T13:30:00-03:00",
+    "dataFim": "2024-05-22T15:30:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>Elaboração e Validação de Questionários de Avaliação Docente</i>, ministrada por <b>Vanessa Cristina Ribeiro</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2024-05-22T13:30:00-03:00",
+    "dataFim": "2024-05-22T15:30:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Tratamento de Dados e Visualização em Dashboards para CPAs</i>, conduzido por <b>Lucas Gabriel Antunes</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Sala de Reuniões da Pró-Reitoria",
+    "dataInicio": "2024-05-22T13:30:00-03:00",
+    "dataFim": "2024-05-22T15:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Metodologias Qualitativas: Grupos Focais e Análise de Conteúdo na Avaliação Institucional</i>, facilitada por <b>Priscila Neves Duarte</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": null,
+    "dataInicio": "2024-05-22T15:30:00-03:00",
+    "dataFim": "2024-05-22T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática de Relatos 1",
+    "lugar": "Sala 101 - Bloco Didático",
+    "dataInicio": "2024-05-22T16:00:00-03:00",
+    "dataFim": "2024-05-22T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos selecionados sobre boas práticas de autoavaliação. Avaliador responsável: <b>Marcos Aurélio Guedes</b>.</p>",
+    "secao": "Sessões de Comunicação"
+   },
+   {
+    "nome": "Sessão Temática de Relatos 2",
+    "lugar": "Sala 102 - Bloco Didático",
+    "dataInicio": "2024-05-22T16:00:00-03:00",
+    "dataFim": "2024-05-22T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas sobre impacto das devolutivas à comunidade acadêmica. Coordenação de <b>Gisele Santos Fagundes</b>.</p>",
+    "secao": "Sessões de Comunicação"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-22T18:00:00-03:00",
+    "dataFim": "2024-05-22T19:00:00-03:00",
+    "descricao": "<p>Apresentação musical do Quarteto de Cordas da UFPR sob direção artística de <b>Vinícius Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Alinhamento das Comissões Setoriais",
+    "lugar": "Sala de Atos",
+    "dataInicio": "2024-05-23T08:30:00-03:00",
+    "dataFim": "2024-05-23T10:00:00-03:00",
+    "descricao": "<p>Encontro de alinhamento com os membros das comissões setoriais de avaliação, conduzido por <b>Simone Aparecida Maciel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 3",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-23T10:00:00-03:00",
+    "dataFim": "2024-05-23T11:45:00-03:00",
+    "descricao": "<p>Painel focado em <i>Dimensões do SINAES: Desafios na Avaliação da Responsabilidade Social e Extensão Universitária</i>, com conferência de <b>Sérgio Luiz Paulino</b> e comentários de <b>Marlene Farias Castilho</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-23T11:45:00-03:00",
+    "dataFim": "2024-05-23T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-23T12:00:00-03:00",
+    "dataFim": "2024-05-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 3",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-23T13:30:00-03:00",
+    "dataFim": "2024-05-23T15:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>A Avaliação da Pós-Graduação Stricto Sensu e sua Conexão com a CPA</i>, com a participação de <b>Emerson José Baggio</b> e <b>Juliana Penteado</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Sessão Temática de Relatos 3",
+    "lugar": "Sala 101 - Bloco Didático",
+    "dataInicio": "2024-05-23T15:15:00-03:00",
+    "dataFim": "2024-05-23T16:45:00-03:00",
+    "descricao": "<p>Apresentações sob o tema da transparência e gestão de dados institucionais, coordenadas por <b>Antônio Carlos Peixoto</b>.</p>",
+    "secao": "Sessões de Comunicação"
+   },
+   {
+    "nome": "Sessão Temática de Relatos 4",
+    "lugar": "Sala 102 - Bloco Didático",
+    "dataInicio": "2024-05-23T15:15:00-03:00",
+    "dataFim": "2024-05-23T16:45:00-03:00",
+    "descricao": "<p>Apresentações voltadas para a autoavaliação nas modalidades presencial e EaD. Avaliação a cargo de <b>Patrícia Kloss</b>.</p>",
+    "secao": "Sessões de Comunicação"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-23T16:45:00-03:00",
+    "dataFim": "2024-05-23T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 4",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-23T17:15:00-03:00",
+    "dataFim": "2024-05-23T18:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Devolutivas e Fechamento de Ciclo Avaliativo: Como Comunicar Resultados à Comunidade</i> com <b>Cláudio Henrique Zanatta</b> e <b>Valéria Cristina Fontana</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Reunião Plenária da Rede Paranaense de CPAs",
+    "lugar": null,
+    "dataInicio": "2024-05-23T19:00:00-03:00",
+    "dataFim": "2024-05-23T20:30:00-03:00",
+    "descricao": "<p>Encontro restrito a representantes institucionais da Rede de CPAs sob condução de <b>Helena Schmidt de Mello</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 4",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2024-05-24T08:30:00-03:00",
+    "dataFim": "2024-05-24T10:00:00-03:00",
+    "descricao": "<p>Minicurso prático <i>Sistematização de Relatórios de Autoavaliação para o Sistema e-MEC</i> com <b>Danilo Ferreira Ramos</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Técnica 5",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2024-05-24T08:30:00-03:00",
+    "dataFim": "2024-05-24T10:00:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Indicadores de Evasão e Retenção: Métricas e Acompanhamento Institucional</i> coordenada por <b>Roberta Vasconcelos Prado</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-24T10:00:00-03:00",
+    "dataFim": "2024-05-24T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática de Relatos 5",
+    "lugar": "Sala 101 - Bloco Didático",
+    "dataInicio": "2024-05-24T10:30:00-03:00",
+    "dataFim": "2024-05-24T11:45:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos com foco em sustentabilidade e acessibilidade nos relatórios de autoavaliação, mediada por <b>Alexandre Nogueira Vianna</b>.</p>",
+    "secao": "Sessões de Comunicação"
+   },
+   {
+    "nome": "Sessão Temática de Relatos 6",
+    "lugar": "Sala 102 - Bloco Didático",
+    "dataInicio": "2024-05-24T10:30:00-03:00",
+    "dataFim": "2024-05-24T11:45:00-03:00",
+    "descricao": "<p>Comunicações orais sobre inovações tecnológicas na coleta de dados das CPAs, com moderação de <b>Clarice Monteiro Simas</b>.</p>",
+    "secao": "Sessões de Comunicação"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-24T11:45:00-03:00",
+    "dataFim": "2024-05-24T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral das CPAs do Paraná",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-24T13:30:00-03:00",
+    "dataFim": "2024-05-24T15:00:00-03:00",
+    "descricao": "<p>Plenária para formulação e votação da <i>Carta de Curitiba sobre Autoavaliação Institucional</i>, presidida por <b>Helena Schmidt de Mello</b> e secretariada por <b>Felipe Rossi de Andrade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-24T15:00:00-03:00",
+    "dataFim": "2024-05-24T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 4",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-24T15:30:00-03:00",
+    "dataFim": "2024-05-24T16:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>O Futuro do SINAES: Duas Décadas de Aprendizado e Desafios Emergentes</i> com exposições de <b>Maria Inês Fini</b> e debate conduzido por <b>Gilberto Garcia</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Apresentação dos Resultados dos Grupos de Trabalho",
+    "lugar": null,
+    "dataInicio": "2024-05-24T16:30:00-03:00",
+    "dataFim": "2024-05-24T17:15:00-03:00",
+    "descricao": "<p>Síntese das recomendações levantadas durante o evento, apresentada pela comissão relatora liderada por <b>Tânia Mara Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Boas Práticas Avaliativas",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-24T17:15:00-03:00",
+    "dataFim": "2024-05-24T17:45:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Inovação em Autoavaliação 2024 pela comissão julgadora coordenada por <b>Luiz Roberto Liza Curi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2024-05-24T17:45:00-03:00",
+    "dataFim": "2024-05-24T18:15:00-03:00",
+    "descricao": "<p>Encerramento oficial com leitura do relatório síntese e anúncio da sede da próxima edição por <b>Helena Schmidt de Mello</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": null,
+    "dataInicio": "2024-05-24T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

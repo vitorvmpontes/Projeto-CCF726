@@ -1,0 +1,252 @@
+{
+ "spec": {
+  "id": "sint-42-00204",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 28,
+  "casos": [
+   "descricoes_ricas",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:30+00:00",
+ "uso_tokens": {
+  "entrada": 655,
+  "saida": 4380
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXII Semana Acadêmica de Agronomia da UFMT: Inovação e Sustentabilidade no Cerrado e Pantanal",
+   "local_geral": "Faculdade de Agronomia e Zootecnia (FAAZ), Campus Universitário de Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Calouros e Entrega de Materiais",
+    "lugar": "Hall de Entrada do Bloco Central",
+    "dataInicio": "2025-05-14T07:30:00-03:00",
+    "dataFim": "2025-05-14T08:30:00-03:00",
+    "descricao": "<p>Acolhimento aos participantes e retirada de crachás coordenado por <b>Mariana Siqueira Campos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-14T08:30:00-03:00",
+    "dataFim": "2025-05-14T09:30:00-03:00",
+    "descricao": "<p>Mesa com a presença do diretor <b>Prof. Dr. Ricardo Albuquerque</b> e a coordenadora de curso <b>Profa. Dra. Elaine Cristina Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-14T09:30:00-03:00",
+    "dataFim": "2025-05-14T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo Biológico de Solos e Mitigação de Estresse Hídrico no Cerrado</i> com o palestrante <b>Dr. Gustavo Henrique Mello</b> (Embrapa Agrossilvipastoril).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço Café e Integração",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2025-05-14T10:45:00-03:00",
+    "dataFim": "2025-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-14T11:15:00-03:00",
+    "dataFim": "2025-05-14T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios Fitossanitários da Soja e do Milho em MT</i>, mediado por <b>Profa. Camila Guimarães Ortiz</b>, com apresentações de <b>Renato Viana Fagundes</b> (Aprosoja) e <b>Dra. Simone Batistella</b> (Instituto Mato-grossense do Algodão).</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-14T12:30:00-03:00",
+    "dataFim": "2025-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Geotecnologias Aplicadas",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Processamento de Imagens de Drones e NDVI no QGIS</i> ministrado pelo instrutor <b>Eng. Agr. Lucas Ferreira de Arruda</b>.</p>",
+    "secao": "Minicursos e Workshops Técnicos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Análise de Sementes",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias Rápidas de Vigor e Germinação em Grandes Culturas</i> ministrado pela <b>Profa. Dra. Vanessa Lacerda Prado</b>.</p>",
+    "secao": "Minicursos e Workshops Técnicos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Campo Experimental da Fazenda UFMT",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Regulagem e Calibração de Pulverizadores Terrestres</i> conduzido pelo especialista <b>Tarcísio Borges Nogueira</b>.</p>",
+    "secao": "Minicursos e Workshops Técnicos"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2025-05-14T18:00:00-03:00",
+    "dataFim": "2025-05-14T19:00:00-03:00",
+    "descricao": "<p>Apresentação do grupo <b>Cururu e Siriri Flor Ribeirinha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": null,
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:15:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Pecuária Sustentável e Sistemas ILPF em Mato Grosso</i>, ministrada por <b>Dr. Flávio Jesus Wruck</b>.</p>",
+    "secao": "Palestras da Manhã"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": null,
+    "dataInicio": "2025-05-15T09:15:00-03:00",
+    "dataFim": "2025-05-15T10:30:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Créditos de Carbono no Mercado Agrícola</i> apresentada por <b>Juliana Parente Teles</b>.</p>",
+    "secao": "Palestras da Manhã"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T10:50:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-15T10:50:00-03:00",
+    "dataFim": "2025-05-15T12:20:00-03:00",
+    "descricao": "<p>Painel sobre <i>Mulheres no Agronegócio: Gestão, Sucessão e Liderança</i>, moderado por <b>Luciana Brandão Moreira</b> com participação de <b>Tereza Cristina Dal Pai</b> e <b>Beatriz Mendonça Fontes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:20:00-03:00",
+    "dataFim": "2025-05-15T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala de Aulas 102 - Bloco A",
+    "dataInicio": "2025-05-15T13:45:00-03:00",
+    "dataFim": "2025-05-15T15:45:00-03:00",
+    "descricao": "<p>Coordenador: <b>Prof. Anderson Caetano Lima</b>. Trabalhos apresentados: <br/>- <i>Produtividade do Milheto sob Diferentes Doses de Adubação Nitrogenada</i> por <b>Caio Vinícius Prado</b> e <b>Prof. Anderson Caetano Lima</b>;<br/>- <i>Eficiência de Bioestimulantes no Enraizamento da Cana-de-Açúcar</i> por <b>Isabela Cristina Neves</b> e <b>Márcia Helena Morais</b>;<br/>- <i>Teor de Fósforo Remanescente em Vertissolos do Pantanal Norte</i> por <b>Danilo Antunes Ramos</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala de Aulas 104 - Bloco A",
+    "dataInicio": "2025-05-15T13:45:00-03:00",
+    "dataFim": "2025-05-15T15:45:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Profa. Dra. Sandra Maria Rondon</b>. Trabalhos apresentados: <br/>- <i>Incidência de Helicoverpa armigera em Cultivares de Soja Bt</i> por <b>Guilherme Sato Tanaka</b>;<br/>- <i>Dinâmica de Populações de Percevejo-Marrom em Safrinha</i> por <b>Leticia Meireles Gomes</b> e <b>Dra. Sandra Maria Rondon</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições da FAAZ",
+    "dataInicio": "2025-05-15T15:45:00-03:00",
+    "dataFim": "2025-05-15T17:15:00-03:00",
+    "descricao": "<p>Avaliação dos trabalhos de Iniciação Científica e Extensão sob comissão liderada por <b>Prof. Carlos Eduardo Peixoto</b>.</p>",
+    "secao": "Apresentação de Trabalhos Científicos"
+   },
+   {
+    "nome": "Roda de Conversa com Egressos",
+    "lugar": null,
+    "dataInicio": "2025-05-15T17:30:00-03:00",
+    "dataFim": "2025-05-15T19:00:00-03:00",
+    "descricao": "<p>Troca de experiências sobre o mercado mato-grossense com os ex-alunos <b>Eng. Agr. Bruno Casagrande Silva</b> e <b>Eng. Agr. Patrícia Alencar Rossi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Fisiologia Vegetal",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Nutrição Foliar e Respostas Fisiológicas ao Calor no Algodoeiro</i> conduzido por <b>Dr. Marcos Venício Toledo</b>.</p>",
+    "secao": "Minicursos e Workshops Técnicos"
+   },
+   {
+    "nome": "Minicurso 5",
+    "lugar": "Casa de Vegetação 2",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Produção Agroecológica de Hortaliças no Sistema de Mandalas</i> com a facilitadora <b>Fabiana Antônia de Morais</b>.</p>",
+    "secao": "Minicursos e Workshops Técnicos"
+   },
+   {
+    "nome": "Minicurso 6",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Legislação e Perícia Ambiental para Agrônomos</i> ministrado pelo perito federal <b>Dr. Arthur Queiroz Mendanha</b>.</p>",
+    "secao": "Minicursos e Workshops Técnicos"
+   },
+   {
+    "nome": "Visita Técnica ao Viveiro Florestal",
+    "lugar": "Viveiro Florestal Universitário",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T11:30:00-03:00",
+    "descricao": "<p>Monitoria técnica com <b>Eng. Ftal. Roberto Chagas Vilela</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-16T11:30:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>O Futuro da Agricultura Regenerativa na América do Sul</i> pelo palestrante <b>Dr. Marcelo Xavier da Cunha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas da comissão científica presidida por <b>Profa. Dra. Sandra Maria Rondon</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Professor Gabriel Zanatta",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discursos finais proferidos pela representante discente <b>Thalita Vasconcelos</b> e pelo coordenador do evento <b>Prof. Dr. Ricardo Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Discente",
+    "lugar": null,
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro de celebração organizado pelo <b>Centro Acadêmico de Agronomia (CAAGRO)</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

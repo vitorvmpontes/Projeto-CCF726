@@ -1,0 +1,182 @@
+{
+ "spec": {
+  "id": "sint-42-00264",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 19,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:22+00:00",
+ "uso_tokens": {
+  "entrada": 694,
+  "saida": 3029
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVIII Jornada Médica da Zona da Mata Mineira",
+   "local_geral": "Centro de Convenções Expominas, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Clínica Integrada",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T10:30:00-03:00",
+    "descricao": "<p>Tema: Abordagem da Insuficiência Cardíaca Refratária na Emergência.</p><p>Apresentação de casos pelo Dr. <b>Lucas Resende Mourão</b> e moderação da Dra. <b>Patrícia Albuquerque Neves</b> com a palestra <i>Novos horizontes farmacológicos no manejo hospitalar da IC aguda</i>.</p>",
+    "secao": "Casos Clínicos e Debates"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-14T10:30:00-03:00",
+    "dataFim": "2025-05-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Curso Pré-Jornada",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2025-05-14T11:00:00-03:00",
+    "dataFim": "2025-05-14T13:00:00-03:00",
+    "descricao": "<p>Módulo I: Ultrassonografia Point-of-Care (POCUS) no Paciente Crítico.</p><p>Instrutor convidado: Dr. <b>Bernardo Freitas Silveira</b> apresentando <i>Fundamentos ecocardiográficos para intensivistas</i>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Curso Pré-Jornada",
+    "lugar": "Sala Multiuso B",
+    "dataInicio": "2025-05-14T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Módulo II: Ventilação Mecânica Protetora na SDRA.</p><p>Coordenação do Prof. Dr. <b>Guilherme Henrique Bastos</b> com o módulo prático <i>Ajustes finos do ventilador e assincronias paciente-ventilador</i>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Cerimônia de Abertura Solene",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2025-05-14T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Boas-vindas da presidência da Sociedade de Medicina com a participação do Prof. <b>Antônio Carlos Peixoto</b> e homenagem ao Dr. <b>Eduardo Werneck</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Especialidades",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T10:00:00-03:00",
+    "descricao": "<p>Foco: Desafios Terapêuticos na Nefropatia Diabética.</p><p>Painelistas confirmados: Dr. <b>Vinícius Amaral Ribeiro</b> apresentando <i>Inibidores de SGLT2 e proteção renal</i> e Dra. <b>Fernanda Lacerda Dutra</b> abordando <i>Metas de controle glicêmico no idoso dialítico</i>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": "2025-05-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Especialidades",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Foco: Estratégias no Diagnóstico Precoce das Neoplasias Gastrointestinais.</p><p>Debatedores: Dra. <b>Carla Monteiro Sampaio</b> com <i>Rastreamento endoscópico em populações assintomáticas</i> e Dr. <b>Marcos Vinicius Toledo</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Sessão Temas Livres",
+    "lugar": "Espaço de Pôsteres",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação oral dos trabalhos concorrentes ao prêmio acadêmico da comarca.</p><p>Avaliadores: Dra. <b>Tatiana Ramos Meireles</b> e Prof. <b>João Pedro Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Atualização Terapêutica",
+    "lugar": null,
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tópico: Racionalização do Uso de Antimicrobianos na Prática Ambulatorial.</p><p>Expositor: Dr. <b>Felipe Augusto Nogueira</b> abordando <i>Stewardship comunitário contra superbactérias</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite de Cardiologia",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Mesa redonda: Fibrilação Atrial e Anticoagulação no Paciente Frágil.</p><p>Com coordenação de <b>Rodrigo Vasconcellos Silva</b> e palestras de Dra. <b>Mariana Costa e Silva</b> (<i>DOACs versus antagonistas de vitamina K: onde estamos?</i>) e Dr. <b>Cláudio Mansur Couto</b>.</p>",
+    "secao": "Simpósios das Sociedades Afiliadas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite de Pediatria",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Tema: Emergências Respiratórias no Lactente: Desafios Atuais.</p><p>Palestrante: Dra. <b>Heloísa Figueiredo Mendes</b> apresentando <i>Bronquiolite viral aguda e o papel da cânula nasal de alto fluxo</i>.</p>",
+    "secao": "Simpósios das Sociedades Afiliadas"
+   },
+   {
+    "nome": "Colóquio de Bioética Médica",
+    "lugar": null,
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Discussão: Diretivas Antecipadas de Vontade e Cuidados Paliativos em UTI.</p><p>Painel moderado pelo Dr. <b>Renato Cordeiro Valente</b> com contribuições da Dra. <b>Camila Soares Pires</b> e do jurista <b>Marcelo de Paiva Lima</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Clínica Integrada",
+    "lugar": "Sala Multiuso B",
+    "dataInicio": "2025-05-16T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Manifestações Atípicas das Doenças Autoimunes Reumatológicas.</p><p>Apresentação da médica residente <b>Beatriz Nery Fontes</b> com comentários do preceptor Dr. <b>Sérgio Murilo Gonzaga</b>.</p>",
+    "secao": "Casos Clínicos e Debates"
+   },
+   {
+    "nome": "Fórum de Saúde Pública e Gestão",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": "<p>Eixo estruturante: Regionalização e Linhas de Cuidado no SUS Regional.</p><p>Conferencista convidada: Dra. <b>Clarisse Esteves Fagundes</b> com a palestra <i>Integração entre atenção primária e terciária nas redes de urgência</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos Científicos",
+    "lugar": "Auditório Tiradentes",
+    "dataInicio": "2025-05-17T11:15:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Anúncio dos premiados da mostra científica conduzido pela presidente da comissão examinadora Dra. <b>Tatiana Ramos Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

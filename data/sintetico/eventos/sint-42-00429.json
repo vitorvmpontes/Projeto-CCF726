@@ -1,0 +1,123 @@
+{
+ "spec": {
+  "id": "sint-42-00429",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Salvador - BA",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:37+00:00",
+ "uso_tokens": {
+  "entrada": 633,
+  "saida": 1842
+ },
+ "saida": {
+  "evento": {
+   "nome": "Bahia Tech Summit & Hackathon 2023",
+   "local_geral": "Hub Salvador, Comércio, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Welcome Coffee",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-19T08:00:00-03:00",
+    "dataFim": "2023-08-19T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Keynote de Abertura",
+    "lugar": "Auditório Baía de Todos os Santos",
+    "dataInicio": "2023-08-19T08:45:00-03:00",
+    "dataFim": "2023-08-19T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com <b>Lorena Queiroz</b> apresentando a palestra <i>O Ecossistema de Inovação Baiano e as Oportunidades Globais</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Kick-off do Hackathon",
+    "lugar": "Espaço Maker & Arena Hack",
+    "dataInicio": "2023-08-19T09:45:00-03:00",
+    "dataFim": "2023-08-19T10:30:00-03:00",
+    "descricao": "<p>Divulgação dos desafios temáticos e início da maratona de desenvolvimento. Facilitação por <b>Thiago Meireles</b> e <b>Beatriz Vianna</b>.</p>",
+    "secao": "Hackathon TechInova"
+   },
+   {
+    "nome": "Palestra Empresarial 1",
+    "lugar": "Auditório Baía de Todos os Santos",
+    "dataInicio": "2023-08-19T10:45:00-03:00",
+    "dataFim": "2023-08-19T11:45:00-03:00",
+    "descricao": "<p>Apresentação de <b>Marcos André Ribeiro</b> (iFood) abordando <i>Arquiteturas Resilientes para Aplicações de Alto Volume</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica 1",
+    "lugar": "Espaço Maker & Arena Hack",
+    "dataInicio": "2023-08-19T10:45:00-03:00",
+    "dataFim": "2023-08-19T12:00:00-03:00",
+    "descricao": "<p>Rodada de validação de hipóteses com os mentores <b>Carla Mendonça</b> e <b>Felipe Santana</b>.</p>",
+    "secao": "Hackathon TechInova"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-19T12:00:00-03:00",
+    "dataFim": "2023-08-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial 2",
+    "lugar": "Auditório Baía de Todos os Santos",
+    "dataInicio": "2023-08-19T13:30:00-03:00",
+    "dataFim": "2023-08-19T14:30:00-03:00",
+    "descricao": "<p>Palestra de <b>Patrícia Nogueira</b> (Nubank) com o tema <i>Engenharia de Dados e Governança em Serviços Financeiros Críticos</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria de Negócios e Pitch",
+    "lugar": "Espaço Maker & Arena Hack",
+    "dataInicio": "2023-08-19T13:30:00-03:00",
+    "dataFim": "2023-08-19T15:00:00-03:00",
+    "descricao": "<p>Apoio na modelagem de negócios e estruturação de pitches com os especialistas <b>Rodrigo Vasconcelos</b> e <b>Aline Guimarães</b>.</p>",
+    "secao": "Hackathon TechInova"
+   },
+   {
+    "nome": "Palestra Empresarial 3",
+    "lugar": "Auditório Baía de Todos os Santos",
+    "dataInicio": "2023-08-19T14:45:00-03:00",
+    "dataFim": "2023-08-19T15:45:00-03:00",
+    "descricao": "<p>Sessão conduzida por <b>Danilo Cerqueira</b> (Google Cloud) apresentando <i>Inteligência Artificial Generativa Aplicada à Produtividade de Software</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Submissão Final dos Projetos",
+    "lugar": "Espaço Maker & Arena Hack",
+    "dataInicio": "2023-08-19T17:00:00-03:00",
+    "dataFim": "2023-08-19T17:30:00-03:00",
+    "descricao": "<p>Encerramento do código e envio de repositórios sob coordenação de <b>Thiago Meireles</b>.</p>",
+    "secao": "Hackathon TechInova"
+   },
+   {
+    "nome": "Banca de Pitch e Avaliação",
+    "lugar": "Auditório Baía de Todos os Santos",
+    "dataInicio": "2023-08-19T18:00:00-03:00",
+    "dataFim": "2023-08-19T19:30:00-03:00",
+    "descricao": "<p>Apresentação das cinco equipes finalistas perante a banca julgadora composta por <b>Lorena Queiroz</b>, <b>Patrícia Nogueira</b> e <b>Danilo Cerqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Happy Hour de Encerramento",
+    "lugar": "Rooftop Hub Salvador",
+    "dataInicio": "2023-08-19T19:30:00-03:00",
+    "dataFim": "2023-08-19T21:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do hackathon com <b>Thiago Meireles</b> e confraternização musical com networking.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

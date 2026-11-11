@@ -1,0 +1,164 @@
+{
+ "spec": {
+  "id": "sint-42-00170",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 17,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:41+00:00",
+ "uso_tokens": {
+  "entrada": 654,
+  "saida": 2482
+ },
+ "saida": {
+  "evento": {
+   "nome": "12º Encontro Diocesano de Fé e Cidadania do Triângulo",
+   "local_geral": "Centro Pastoral São Francisco de Assis, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Comunitário",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2024-08-17T07:30:00-03:00",
+    "dataFim": "2024-08-17T08:30:00-03:00",
+    "descricao": "<p>Recepção das caravanas paroquiais e partilha matinal de alimentos organizada pela <b>Pastoral da Fraternidade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oração Inicial e Celebração da Luz",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-17T08:30:00-03:00",
+    "dataFim": "2024-08-17T09:30:00-03:00",
+    "descricao": "<p>Momento de mística e envio conduzido pelo <b>Padre Renato Silveira</b> e pela <b>Irmã Teresa Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-17T09:45:00-03:00",
+    "dataFim": "2024-08-17T11:15:00-03:00",
+    "descricao": "<p>Reflexão temática com a conferência <i>Cuidado com a Casa Comum e Políticas Públicas nos Cerrados</i>, ministrada pelo sociólogo <b>Dr. Marcos Vinícius Andrade</b> e mediada pela assistente social <b>Clara Menezes</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-17T11:20:00-03:00",
+    "dataFim": "2024-08-17T12:30:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Juventudes, Evangelização e Direitos Humanos na Periferia</i>, com participação de <b>Luciana Guimarães</b>, do líder comunitário <b>Thiago Rezende</b> e de <b>Felipe Bastos</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2024-08-17T12:30:00-03:00",
+    "dataFim": "2024-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala 03 - Bloco Catequético",
+    "dataInicio": "2024-08-17T14:00:00-03:00",
+    "dataFim": "2024-08-17T16:30:00-03:00",
+    "descricao": "<p>Práticas comunitárias com a oficina <i>Música Litúrgica Popular e Animação de Cantos de Romaria</i>, orientada pelo maestro <b>Gilberto Soares</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": null,
+    "dataInicio": "2024-08-17T14:00:00-03:00",
+    "dataFim": "2024-08-17T16:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Comunicação Popular nas Redes Paroquiais</i>, facilitada pela jornalista <b>Mariana Fontes</b> e pelo comunicador comunitário <b>Samuel Rocha</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": null,
+    "dataInicio": "2024-08-17T14:00:00-03:00",
+    "dataFim": "2024-08-17T16:30:00-03:00",
+    "descricao": "<p>Encontro formativo com o tema <i>Hortas Comunitárias Urbanas e Soberania Alimentar</i>, coordenado pelo engenheiro agrônomo <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2024-08-17T16:30:00-03:00",
+    "dataFim": "2024-08-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural e Cantoria da Terra",
+    "lugar": null,
+    "dataInicio": "2024-08-17T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de folia de reis e violeiros com o grupo <b>Vozes da Esperança</b> e participação especial da cantora regional <b>Helena Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Terço Cantado e Alvorada",
+    "lugar": "Capela Menino Jesus",
+    "dataInicio": "2024-08-18T07:30:00-03:00",
+    "dataFim": "2024-08-18T08:15:00-03:00",
+    "descricao": "<p>Momento devocional mariano conduzido pelo <b>Apostolado da Oração</b> com coordenação de <b>Dona Nair Batista</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Matinal",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2024-08-18T08:15:00-03:00",
+    "dataFim": "2024-08-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Círculos Bíblicos e Partilha em Grupos",
+    "lugar": null,
+    "dataInicio": "2024-08-18T09:00:00-03:00",
+    "dataFim": "2024-08-18T10:45:00-03:00",
+    "descricao": "<p>Leitura orante popular sob a inspiração do texto de Amós, animada pelo biblista <b>Prof. Antônio Carlos Meira</b> e assessores pastorais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Relatos de Experiências Comunitárias",
+    "lugar": "Auditório Dom Helder",
+    "dataInicio": "2024-08-18T11:00:00-03:00",
+    "dataFim": "2024-08-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação das iniciativas <i>Cozinha Solidária do Bairro Dom Almir</i> por <b>Marta Regina Oliveira</b> e <i>Mutirão de Reforma Habitacional</i> por <b>João Bosco Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço dos Romeiros",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2024-08-18T12:30:00-03:00",
+    "dataFim": "2024-08-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aprovação da Carta de Compromissos",
+    "lugar": null,
+    "dataInicio": "2024-08-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura e homologação do documento final redigido pela comissão coordenada por <b>Beatriz Salgado</b> e pelo <b>Diácono Jorge Ferreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa Solene de Encerramento e Envio",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-08-18T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração eucarística presidida pelo bispo diocesano <b>Dom Geraldo Martins</b> e concelebrada pelo clero local.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,380 @@
+{
+ "spec": {
+  "id": "sint-42-00054",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Vitória - ES",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 44,
+  "casos": [
+   "subtitulo_separado",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:58+00:00",
+ "uso_tokens": {
+  "entrada": 652,
+  "saida": 6736
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Simpósio de Pós-Graduação em Ecologia e Recursos Naturais do Sudeste",
+   "local_geral": "Centro de Ciências Humanas e Naturais - CCHN, UFES, Campus Goiabeiras, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Prédio IC-II",
+    "dataInicio": "2025-05-19T08:00:00-03:00",
+    "dataFim": "2025-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-19T09:00:00-03:00",
+    "dataFim": "2025-05-19T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora <b>Dra. Mariana Peçanha Guimarães</b> e do diretor de centro <b>Prof. Dr. Ricardo Silveira Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-19T10:30:00-03:00",
+    "dataFim": "2025-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Conservação da Mata Atlântica Costeira frente às Mudanças Climáticas</i>. Palestrante: <b>Prof. Dr. Cláudio Henrique Lacerda</b> (UFRJ).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-19T12:00:00-03:00",
+    "dataFim": "2025-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-05-19T14:00:00-03:00",
+    "dataFim": "2025-05-19T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução à Modelagem de Nicho Ecológico no R</i>. Instrutora: <b>Dra. Fabiana Dorneles Santos</b>.</p>",
+    "secao": "Minicursos - Módulo I"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala 102 - Bloco de Biologia",
+    "dataInicio": "2025-05-19T14:00:00-03:00",
+    "dataFim": "2025-05-19T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de Monitoramento Acústico Passivo de Cetáceos</i>. Instrutor: <b>Dr. Arthur Meireles Pinto</b>.</p>",
+    "secao": "Minicursos - Módulo I"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": null,
+    "dataInicio": "2025-05-19T14:00:00-03:00",
+    "dataFim": "2025-05-19T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Escrita Científica de Alto Impacto para Ciências Ambientais</i>. Ministrado por <b>Profa. Dra. Letícia Varejão Borges</b>.</p>",
+    "secao": "Minicursos - Módulo I"
+   },
+   {
+    "nome": "Coquetel de Boas-Vindas",
+    "lugar": "Pátio Central do CCHN",
+    "dataInicio": "2025-05-19T18:00:00-03:00",
+    "dataFim": "2025-05-19T19:30:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo de choro regional organizado por <b>Tarcísio Gomes de Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-20T08:30:00-03:00",
+    "dataFim": "2025-05-20T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Governança das Bacias Hidrográficas do Espírito Santo: Conflitos e Soluções</i>. Participantes: <b>Dra. Vanessa Rangel Esteves</b>, <b>Dr. Marcelo Prado Nogueira</b> e mediação de <b>Prof. Dr. Otávio Ramos Cordeiro</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Prédio IC-II",
+    "dataInicio": "2025-05-20T10:30:00-03:00",
+    "dataFim": "2025-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Plenária",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-20T11:00:00-03:00",
+    "dataFim": "2025-05-20T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Restauração Ecológica em Larga Escala: Desafios Socioambientais</i>. Palestrante convidado: <b>Prof. Dr. Geraldo Wilson Fernandes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-20T12:30:00-03:00",
+    "dataFim": "2025-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Anfiteatro II",
+    "dataInicio": "2025-05-20T14:00:00-03:00",
+    "dataFim": "2025-05-20T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ecologia Vegetal e Dinâmica de Florestas</i>. Trabalhos apresentados por <b>Camila Duarte Freitas</b> (<i>Padrões de recrutamento arbóreo em fragmentos urbanos</i>) e <b>Rodrigo Vasconcelos</b> (<i>Fenologia de espécies pioneiras no Parque Estadual da Fonte Grande</i>). Coordenadora: <b>Profa. Dra. Sandra Belmiro</b>.</p>",
+    "secao": "Apresentação de Trabalhos - Sessões Orais"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala 204 - Bloco de Biologia",
+    "dataInicio": "2025-05-20T14:00:00-03:00",
+    "dataFim": "2025-05-20T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ecologia Aquática e Limnologia</i>. Apresentações de mestrandos com mediação de <b>Prof. Dr. Valdemar Klippel</b>.</p>",
+    "secao": "Apresentação de Trabalhos - Sessões Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres 1",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-20T16:00:00-03:00",
+    "dataFim": "2025-05-20T17:30:00-03:00",
+    "descricao": "<p>Áreas de Ecologia Aplicada e Conservação da Biodiversidade. Avaliadores: <b>Dr. Daniel Zanotti</b> e <b>Dra. Renata Caldeira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encontro com Editores de Periódicos",
+    "lugar": null,
+    "dataInicio": "2025-05-20T17:30:00-03:00",
+    "dataFim": "2025-05-20T19:00:00-03:00",
+    "descricao": "<p>Mesa de orientação editorial com a participação de <b>Dra. Beatriz Menezes Leão</b> (Editora-chefe do Journal of Coastal Research) e <b>Prof. Dr. Samuel Aguiar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Biotecnologia e Valorização da Flora Neotropical</i>. Expositores: <b>Dra. Cristina Holz Campanha</b> e <b>Prof. Dr. Flávio Brandão Novaes</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Prédio IC-II",
+    "dataInicio": "2025-05-21T10:30:00-03:00",
+    "dataFim": "2025-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 1",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-21T11:00:00-03:00",
+    "dataFim": "2025-05-21T12:15:00-03:00",
+    "descricao": "<p>Tema: <i>Interações Tróficas em Ecossistemas de Manguezal</i>. Apresentada pelo <b>Dr. Gustavo Pinheiro Andrade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-21T12:15:00-03:00",
+    "dataFim": "2025-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2025-05-21T14:00:00-03:00",
+    "dataFim": "2025-05-21T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de Amostragem de Sedimentos Costeiros</i>. Responsável: <b>Dra. Juliana Bastos Viana</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2025-05-21T14:00:00-03:00",
+    "dataFim": "2025-05-21T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Uso de Imagens de Satélite Sentinel no QGIS</i>. Facilitador: <b>Msc. Bruno Pimentel Toledo</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Anfiteatro II",
+    "dataInicio": "2025-05-21T16:15:00-03:00",
+    "dataFim": "2025-05-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Comportamento e Zoologia de Vertebrados</i>. Trabalhos expostos por <b>Leonardo Castelo</b> e <b>Sabrina Loureiro</b>, sob a coordenação de <b>Dra. Mônica Albuquerque</b>.</p>",
+    "secao": "Apresentação de Trabalhos - Sessões Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres 2",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-21T16:15:00-03:00",
+    "dataFim": "2025-05-21T18:00:00-03:00",
+    "descricao": "<p>Área de Genética Ecológica e Sistemática Molecular. Moderadora: <b>Profa. Dra. Elaine Gouveia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": null,
+    "dataInicio": "2025-05-21T18:00:00-03:00",
+    "dataFim": "2025-05-21T19:30:00-03:00",
+    "descricao": "<p>Tema: <i>Saúde Mental e Permanência na Pós-Graduação Stricto Sensu</i>. Debate mediado pelos representantes discentes <b>Guilherme Trindade</b> e <b>Thaís Meirelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mudanças Climáticas e Cidades Resilientes no Litoral Sudeste</i>. Palestras com <b>Dr. Rogério Paiva Coutinho</b> e <b>Dra. Silvia Regina Mattos</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Prédio IC-II",
+    "dataInicio": "2025-05-22T10:30:00-03:00",
+    "dataFim": "2025-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 2",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-22T11:00:00-03:00",
+    "dataFim": "2025-05-22T12:15:00-03:00",
+    "descricao": "<p>Tema: <i>Biogeografia da Conservação nas Ilhas Oceânicas Brasileiras</i>. Palestrante: <b>Prof. Dr. Hudson Tercio Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-22T12:15:00-03:00",
+    "dataFim": "2025-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 4",
+    "lugar": "Anfiteatro II",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Poluição Ambiental e Ecotoxicologia</i>. Apresentação dos pós-graduandos <b>Felipe Sarmento</b> e <b>Lívia Breciani</b>. Debatedor: <b>Prof. Dr. Marcos Pellegrini</b>.</p>",
+    "secao": "Apresentação de Trabalhos - Sessões Orais"
+   },
+   {
+    "nome": "Sessão Oral 5",
+    "lugar": "Sala 204 - Bloco de Biologia",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Educação Ambiental e Conhecimento Ecológico Tradicional</i>. Coordenação: <b>Dra. Clara Fagundes de Oliveira</b>.</p>",
+    "secao": "Apresentação de Trabalhos - Sessões Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres 3",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-22T16:00:00-03:00",
+    "dataFim": "2025-05-22T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de dissertação em andamento da turma ingressante de 2024. Comissão avaliadora coordenada por <b>Dr. Wagner Colodete</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Coordenadores de Programas",
+    "lugar": "Sala de Reuniões da Pró-Reitoria de Pós-Graduação",
+    "dataInicio": "2025-05-22T17:30:00-03:00",
+    "dataFim": "2025-05-22T19:00:00-03:00",
+    "descricao": "<p>Encontro para discussão do Plano de Desenvolvimento Institucional e avaliação quadrienal CAPES. Conduzido pelo Pró-Reitor <b>Prof. Dr. Valdir de Souza Barbosa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exibição de Documentário Científico",
+    "lugar": null,
+    "dataInicio": "2025-05-22T19:00:00-03:00",
+    "dataFim": "2025-05-22T20:30:00-03:00",
+    "descricao": "<p>Exibição do média-metragem <i>Vozes do Manguezal Capixaba</i>, seguida de debate com a diretora <b>Tatiana Zamborlini</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 3",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-23T08:30:00-03:00",
+    "dataFim": "2025-05-23T09:45:00-03:00",
+    "descricao": "<p>Tema: <i>Interações Inseto-Planta em Florestas Neotropicais Úmidas</i>. Ministrada pelo <b>Dr. Paulo Roberto Menandro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 4",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-23T09:45:00-03:00",
+    "dataFim": "2025-05-23T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Paleoecologia e Reconstrução de Paleoclimas no Quaternário</i>. Apresentação da <b>Dra. Kátia Mansur</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Prédio IC-II",
+    "dataInicio": "2025-05-23T11:00:00-03:00",
+    "dataFim": "2025-05-23T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-23T11:30:00-03:00",
+    "dataFim": "2025-05-23T13:00:00-03:00",
+    "descricao": "<p>Tema: <i>O Futuro do Financiamento à Pesquisa no Espírito Santo</i>. Debatedores convidados: <b>Dr. Denio Arantes</b> (FAPES) e <b>Profa. Dra. Maria Lúcia Calmon</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-23T13:00:00-03:00",
+    "dataFim": "2025-05-23T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 6",
+    "lugar": "Anfiteatro II",
+    "dataInicio": "2025-05-23T14:30:00-03:00",
+    "dataFim": "2025-05-23T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sistemas Agroflorestais e Serviços Ecossistêmicos</i>. Apresentação final dos bolsistas de doutorado. Coordenação de <b>Prof. Dr. Nelson Barreto Fraga</b>.</p>",
+    "secao": "Apresentação de Trabalhos - Sessões Orais"
+   },
+   {
+    "nome": "Assembleia Geral dos Pós-Graduandos",
+    "lugar": null,
+    "dataInicio": "2025-05-23T16:00:00-03:00",
+    "dataFim": "2025-05-23T17:00:00-03:00",
+    "descricao": "<p>Reunião da Associação Nacional de Pós-Graduandos local conduzida por <b>Igor Santana Barcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-23T17:00:00-03:00",
+    "dataFim": "2025-05-23T18:15:00-03:00",
+    "descricao": "<p>Tema: <i>Ciência Cidadã e Democracia: Caminhos para a Ecologia do Século XXI</i>. Conferencista: <b>Profa. Dra. Helena de Godoy Bergallo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-23T18:15:00-03:00",
+    "dataFim": "2025-05-23T19:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Científico para os melhores trabalhos orais e painéis apresentados, sob condução de <b>Dra. Mariana Peçanha Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2025-05-23T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Considerações finais da comissão organizadora composta por <b>Prof. Dr. Cláudio Henrique Lacerda</b> e <b>Dra. Vanessa Rangel Esteves</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

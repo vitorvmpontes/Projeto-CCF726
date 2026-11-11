@@ -1,0 +1,165 @@
+{
+ "spec": {
+  "id": "sint-42-00258",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Recife - PE",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 17,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:59+00:00",
+ "uso_tokens": {
+  "entrada": 678,
+  "saida": 2633
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Simpósio de Pós-Graduação em Ciência da Computação e Engenharia de Software da UFPE",
+   "local_geral": "Centro de Informática (CIn) - UFPE, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Pós-Graduandos e Entrega de Kits",
+    "lugar": "Hall de Entrada do Bloco E",
+    "dataInicio": "2026-05-19T08:00:00-03:00",
+    "dataFim": "2026-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Sérgio Falcão",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo coordenador geral do simpósio, Prof. Dr. <b>Marcelo Soares Ramos</b>, e pela diretora do centro, Profa. Dra. <b>Helena Cristina Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Sérgio Falcão",
+    "dataInicio": "2026-05-19T10:30:00-03:00",
+    "dataFim": "2026-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelos de Linguagem de Grande Escala Aplicados à Engenharia de Requisitos</i>. Palestra ministrada pelo pesquisador convidado Dr. <b>Thiago Mendonça Fagundes</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala A-105",
+    "dataInicio": "2026-05-19T14:00:00-03:00",
+    "dataFim": "2026-05-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrado na área de Sistemas Inteligentes. Moderação por <b>Juliana Pires Peixoto</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala A-107",
+    "dataInicio": "2026-05-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo da sessão: <i>Arquiteturas Resilientes para Computação em Borda</i>. Coordenação do Prof. <b>Rodrigo Lins de Vasconcelos</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2026-05-20T08:30:00-03:00",
+    "dataFim": "2026-05-20T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Análise Empírica de Repositórios de Código com Python e PyDriller</i>. Ministrante: <b>Carla Beatriz Silveira</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Sérgio Falcão",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios na Validação e Teste de Sistemas Críticos em Ambientes Concorrentes</i>, proferida pela Profa. Dra. <b>Fernanda Tavares Gusmão</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão de Painéis de Doutorado",
+    "lugar": "Átrio das Placas",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição e avaliação em andamento das propostas de tese dos pós-graduandos sob coordenação da Profa. <b>Márcia Regina Valença</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Inteligência Artificial",
+    "dataInicio": "2026-05-21T09:00:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Implementação e Calibração de Modelos de Difusão para Imagens Médicas</i>. Instrutor: <b>Felipe Gustavo Amorim</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala A-105",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T16:00:00-03:00",
+    "descricao": "<p>Apresentação das dissertações focadas em Engenharia de Software e Testes Ágeis. Coordenada pelo Prof. <b>Danilo Queiroz Sampaio</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2026-05-21T16:00:00-03:00",
+    "dataFim": "2026-05-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Sérgio Falcão",
+    "dataInicio": "2026-05-21T16:30:00-03:00",
+    "dataFim": "2026-05-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ética, Transparência e Financiamento na Pesquisa Científica no Nordeste</i>. Participantes: <b>Andréa Lúcia Gouveia</b>, <b>Paulo Roberto Cavalcanti</b> e <b>Bruno Fontes Arcoverde</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala A-107",
+    "dataInicio": "2026-05-22T09:00:00-03:00",
+    "dataFim": "2026-05-22T11:00:00-03:00",
+    "descricao": "<p>Apresentação oral com foco em Interação Humano-Computador e Acessibilidade Web. Mediador: <b>Leonardo Bastos Castelo Branco</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Encontro com Egressos",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2026-05-22T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Painel de relatos com egressos inseridos na indústria e na academia. Convidados: <b>Patrícia Arruda Brandão</b> e <b>Carlos Eduardo Wanderley</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Inovação Aberta",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Redação Científica e Boas Práticas de Submissão para Periódicos Qualis A</i>. Ministrado pela Profa. Dra. <b>Renata Maria Figueirôa</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Premiação de Artigos Destaque",
+    "lugar": "Auditório Sérgio Falcão",
+    "dataInicio": "2026-05-22T17:00:00-03:00",
+    "dataFim": "2026-05-22T18:00:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos de mestrado e doutorado, presidida pelo coordenador acadêmico <b>Gabriel Dantas Pontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Sérgio Falcão",
+    "dataInicio": "2026-05-22T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Agradecimentos finais e balanço da décima segunda edição do simpósio com o Prof. <b>Marcelo Soares Ramos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

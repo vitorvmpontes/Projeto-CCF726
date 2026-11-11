@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-42-00126",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:21+00:00",
+ "uso_tokens": {
+  "entrada": 670,
+  "saida": 1381
+ },
+ "saida": {
+  "evento": {
+   "nome": "VIII Simpósio de Pós-Graduação em Ecologia e Recursos Naturais da Amazônia Meridional",
+   "local_geral": "Câmpus Universitário de Cuiabá - Universidade Federal de Mato Grosso"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall do Auditório da FAET",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório da FAET",
+    "dataInicio": "2026-05-18T08:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Boas-vindas com a coordenação do programa, representada pelo Prof. Dr. <b>Henrique Meireles Bastos</b> e pela Profa. Dra. <b>Tatiane Rocha Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório da FAET",
+    "dataInicio": "2026-05-18T09:15:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Desafios contemporâneos para a conservação da biodiversidade frente às mudanças climáticas globais e às pressões antrópicas no ecótono Cerrado-Pantanal</i>, ministrada pelo Prof. Dr. <b>Carlos Eduardo Albuquerque</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência da FAET",
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres I",
+    "lugar": "Hall Central",
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrandos da linha de Conservação e Manejo. Avaliação conduzida pelos pesquisadores Dr. <b>Sérgio Nogueira Prado</b> e Dra. <b>Fernanda Lins Camargo</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-18T12:30:00-03:00",
+    "dataFim": "2026-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das pesquisas de doutorado em andamento com moderação de <b>Juliana Pires Castilho</b>. Destaque para a comunicação oral <i>Análise integrativa de indicadores ecológicos e sensoriamento remoto para modelagem da dinâmica hídrica na bacia do alto rio Cuiabá</i> apresentada por <b>Rodrigo Vianna Medeiros</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Oficina Temática",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2026-05-18T16:00:00-03:00",
+    "dataFim": "2026-05-18T18:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Introdução à modelagem de nicho ecológico utilizando pacotes em linguagem R com foco no monitoramento de espécies ameaçadas</i>, ministrada pela Dra. <b>Luciana Barreto Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação e Encerramento",
+    "lugar": "Auditório da FAET",
+    "dataInicio": "2026-05-18T18:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos melhores trabalhos do simpósio e encerramento com a Profa. Dra. <b>Tatiane Rocha Guimarães</b> e a comissão organizadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

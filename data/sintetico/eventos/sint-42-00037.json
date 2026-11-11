@@ -1,0 +1,221 @@
+{
+ "spec": {
+  "id": "sint-42-00037",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 24,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:20+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 3636
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia Florestal da Amazônia",
+   "local_geral": "Faculdade de Ciências Agrárias da UFAM, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall do Bloco Rio Negro",
+    "dataInicio": "2027-05-20T08:00:00-03:00",
+    "dataFim": "2027-05-20T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas aos participantes com entrega dos kits de inscrição pelos monitores <b>Carla Ribeiro Menezes</b> e <b>Lucas Farias de Souza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor <b>Prof. Carlos Eduardo Mendonça</b> e da coordenadora do curso <b>Dra. Simone Brandão Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação <i>Desafios da Silvicultura de Espécies Nativas e o Futuro do Manejo na Amazônia Ocidental</i> com o pesquisador <b>Dr. Henrique Cavalcante Barbosa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Térreo do Bloco Rio Negro",
+    "dataInicio": "2027-05-20T11:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:00:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Tecnologia da Madeira",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Dendrologia e Identificação Macroscópica de Madeiras Amazônicas Comerciais</i>, ministrada pelo técnico <b>Msc. Geraldo Picanço Nogueira</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Geoprocessamento e Sensoriamento Remoto",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Atividade prática de <i>Mapeamento Temático de Cobertura Florestal Utilizando QGIS</i>, conduzida pela pesquisadora <b>Dra. Juliana Prado Antunes</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala 102 - Bloco Rio Madeira",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Sessão temática sobre Manejo e Silvicultura coordenada pela <b>Profa. Renata Vasconcelos</b>. Apresentação dos resumos aprovados por discentes de graduação e pós-graduação.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala 104 - Bloco Rio Madeira",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Sessão temática voltada para Conservação da Biodiversidade e Ecologia Florestal, sob coordenação do <b>Prof. Thiago Marinho Leitão</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições da FCA",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos pôsteres científicos. Avaliadores responsáveis: <b>Dr. Marcos Vinícius Paiva</b> e <b>Dra. Elaine Tavares</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Rio Amazonas",
+    "dataInicio": "2027-05-20T18:00:00-03:00",
+    "dataFim": "2027-05-20T19:30:00-03:00",
+    "descricao": "<p>Discussão com egressos sobre <i>Inserção Profissional e Oportunidades no Setor Florestal Público e Privado</i>. Participantes convidados: <b>Eng. Mayara Castro Fontes</b> e <b>Eng. Rodrigo Albuquerque Sá</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Área Verde Central",
+    "dataInicio": "2027-05-20T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Performance do grupo regional de toadas do Amazonas com coordenação do percussionista <b>Nilson do Boi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica",
+    "lugar": "Reserva Florestal Adolpho Ducke",
+    "dataInicio": "2027-05-21T07:30:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Aula prática em campo com foco em parcelas permanentes e inventário florestal contínuo guiada pelo <b>Prof. Daniel Guimarães Sales</b> e pela bióloga <b>Patrícia Sampaio</b>.</p>",
+    "secao": "Atividades de Campo"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Conferência <i>Bioeconomia e Cadeias de Produtos Não Madeireiros no Amazonas</i> apresentada pelo consultor <b>Fábio Noronha Guimarães</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Rio Amazonas",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Tecnologias de Monitoramento por Satélite para Combate ao Desmatamento Ilegal</i> pelo analista ambiental <b>Mário Sérgio Cordeiro</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Térreo do Bloco Rio Negro",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate Temático",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Mesa de debates <i>Mudanças Climáticas e Políticas Públicas de Restauração Ecológica</i> com a mediação da <b>Dra. Vanessa Lima Pinheiro</b> e presença de <b>Dr. Samuel Barreto Neto</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Sementes Florestais",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": "<p>Curso intensivo de <i>Técnicas de Quebra de Dormência e Análise de Qualidade de Sementes Florestais Nativas</i> ministrado pela pesquisadora <b>Dra. Fernanda Lins Botelho</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala 102 - Bloco Rio Madeira",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Segunda etapa de avaliações orais com ênfase na linha de Tecnologia e Utilização de Produtos Florestais, com moderação do <b>Prof. André Gomes Matos</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala 104 - Bloco Rio Madeira",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão complementar de resumos com foco em Economia e Política Florestal coordenada pela pesquisadora <b>Msc. Beatriz Campos de Araújo</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Assembleia Geral dos Estudantes",
+    "lugar": "Auditório Rio Amazonas",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Reunião conduzida pelo presidente do Centro Acadêmico <b>Gabriel Nunes Feitosa</b> para prestação de contas e eleição da nova comissão discente.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2027-05-21T17:30:00-03:00",
+    "dataFim": "2027-05-21T18:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos científicos das modalidades oral e pôster pela presidente do comitê científico <b>Profa. Cecília Xavier Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2027-05-21T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão organizadora presidida pela acadêmica <b>Larissa Medeiros Bastos</b> e encerramento oficial da programação.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,174 @@
+{
+ "spec": {
+  "id": "sint-42-00167",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Natal - RN",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "descricoes_ricas",
+   "titulos_longos",
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:24+00:00",
+ "uso_tokens": {
+  "entrada": 708,
+  "saida": 2805
+ },
+ "saida": {
+  "evento": {
+   "nome": "II Workshop Potiguar de Inteligência Artificial Aplicada",
+   "local_geral": "Centro de Tecnologia, UFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Auditório A",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório A",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial do evento conduzida pelo coordenador geral <b>Prof. Carlos Eduardo Cavalcanti</b> e a vice-coordenadora <b>Dra. Juliana Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório A",
+    "dataInicio": "2023-10-19T09:15:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Desafios contemporâneos no processamento de linguagem natural e modelos generativos aplicados à preservação de ecossistemas costeiros do semiárido brasileiro</i>, apresentada pelo pesquisador <b>Dr. Rodrigo Albuquerque</b> da UFPE.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2023-10-19T10:30:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-10-19T11:00:00-03:00",
+    "dataFim": "2023-10-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Visão Computacional na Detecção de Anomalias Industriais com PyTorch</i>. Ministrado por <b>Msc. Renata Albuquerque Farias</b>.</p>",
+    "secao": "Minicursos - Trilha A"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2023-10-19T11:00:00-03:00",
+    "dataFim": "2023-10-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Modelos de Grafos e Aprendizado Profundo para Descoberta de Fármacos</i>. Ministrante: <b>Dr. Marcos Felipe Saraiva</b>.</p>",
+    "secao": "Minicursos - Trilha B"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:30:00-03:00",
+    "dataFim": "2023-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Continuação das atividades práticas com foco em pipelines de treinamento. Instrutora: <b>Msc. Renata Albuquerque Farias</b>.</p>",
+    "secao": "Minicursos - Trilha A"
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Profa. Beatriz Vasconcelos</b>. Trabalhos apresentados:</p><p><i>Otimização de rotas de transporte escolar rural via algoritmos genéticos</i> por <b>Lucas Barreto</b> e <b>Iara Dantas</b>.</p><p><i>Classificação automatizada de imagens térmicas de pás eólicas</i> por <b>Felipe Montenegro</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório A",
+    "dataInicio": "2023-10-19T16:30:00-03:00",
+    "dataFim": "2023-10-19T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Impactos socioeconômicos e regulatórios da inteligência artificial generativa no ecossistema de inovação e startups do Nordeste</i>. Coordenadora: <b>Dra. Juliana Medeiros</b>. Debatedores convidados: <b>Tiago Lins</b> e <b>Camila Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório A",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:00:00-03:00",
+    "descricao": "<p>Palestra com a convidada internacional <b>Dra. Sofia Mendez</b> abordando <i>Arquiteturas neurais eficientes para inferência em borda aplicadas à agricultura de precisão</i>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2023-10-20T10:00:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Atividade focada em <i>Construção de pipelines de governança, auditoria e explicabilidade para modelos de aprendizado de máquina em ambientes corporativos</i>. Instrutor: <b>Diego Marinho</b>.</p>",
+    "secao": "Minicursos - Trilha B"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Prof. Anderson Tavares</b>. Apresentações de artigos:</p><p><i>Predição de vazão de bacias hidrográficas potiguares utilizando redes LSTM</i> por <b>Clarissa Figueiredo</b> e <b>Jorge Paiva</b>.</p><p><i>Segmentação semântica de recifes de corais via U-Net modificada</i> por <b>Henrique Varela</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:30:00-03:00",
+    "dataFim": "2023-10-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Segunda etapa do minicurso com desenvolvimento de aplicações usando PyTorch Geometric. Instrutor: <b>Dr. Marcos Felipe Saraiva</b>.</p>",
+    "secao": "Minicursos - Trilha B"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall do Auditório A",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos de graduação e iniciação científica. Coordenador da banca: <b>Prof. Marcelo Brandão</b>. Autores em destaque: <b>Gabriela Prado</b>, <b>Mateus Antunes</b> e <b>Patrícia Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": "Auditório A",
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": "2023-10-20T17:30:00-03:00",
+    "descricao": "<p>Premiação dos melhores artigos e encerramento com <b>Prof. Carlos Eduardo Cavalcanti</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

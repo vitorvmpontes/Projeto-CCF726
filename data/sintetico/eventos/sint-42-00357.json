@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-42-00357",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:19+00:00",
+ "uso_tokens": {
+  "entrada": 649,
+  "saida": 1086
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Triângulo Sustentável: Desafios Hídricos e Transição Ecológica no Cerrado",
+   "local_geral": "Centro de Convenções Center Minas, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T10:40:00-03:00",
+    "descricao": "<p>Apresentação do panorama regional com a conferência <i>Gestão de Recursos Hídricos e Conservação de Nascentes no Bioma Cerrado</i>, ministrada pelo <b>Dr. Marcelo Rezende Faria</b> e mediada pela <b>Profa. Dra. Elaine Cristina Bernardes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Momento Conexão e Café",
+    "lugar": null,
+    "dataInicio": "2025-05-14T10:40:00-03:00",
+    "dataFim": "2025-05-14T11:10:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Debates 1",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2025-05-14T11:10:00-03:00",
+    "dataFim": "2025-05-14T12:30:00-03:00",
+    "descricao": "<p>Discussão com foco em <i>Agroecologia e Mitigação de Efeitos Climáticos nas Bacias do Paranaíba e Araguari</i>, contando com os debatedores <b>Lucas Mendonça de Toledo</b> e <b>Valéria Guimarães Prado</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-14T12:30:00-03:00",
+    "dataFim": "2025-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Sala Ipê-Amarelo",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T11:30:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>Inventário de Emissões de Gases de Efeito Estufa para Municípios do Interior</i>, facilitada pela engenheira ambiental <b>Camila Duarte Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final e Carta de Uberlândia",
+    "lugar": null,
+    "dataInicio": "2025-05-15T14:30:00-03:00",
+    "dataFim": "2025-05-15T16:30:00-03:00",
+    "descricao": "<p>Leitura das propostas de sustentabilidade urbana e assinatura do documento coletivo sob a coordenação de <b>Rogério Antunes de Siqueira</b> e da relatora <b>Beatriz Nogueira Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

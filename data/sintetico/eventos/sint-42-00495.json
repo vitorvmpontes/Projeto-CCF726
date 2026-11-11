@@ -1,0 +1,107 @@
+{
+ "spec": {
+  "id": "sint-42-00495",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:52+00:00",
+ "uso_tokens": {
+  "entrada": 659,
+  "saida": 1565
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae RS 2024",
+   "local_geral": "Centro de Eventos FIERGS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor-superintendente do Sebrae RS, <b>André Vanoni de Godoy</b>, e autoridades locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Apresentação de <b>Mariana Vasconcelos</b> abordando <i>Estratégias Disruptivas para Alavancar Pequenos Negócios em Mercados Altamente Competitivos e Cenários Econômicos Desafiadores</i>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Espaço Conexões - Sala B",
+    "dataInicio": "2024-05-16T14:30:00-03:00",
+    "dataFim": "2024-05-16T16:30:00-03:00",
+    "descricao": "<p>Facilitada por <b>Rodrigo Cintra</b>, a atividade desenvolve <i>Como Implementar Modelos Sustentáveis de Gestão Financeira Aplicados Diretamente à Rotina Operacional de Microempresas Urbanas</i>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Sessão de Networking e Negócios",
+    "lugar": "Arena Sebrae Delas",
+    "dataInicio": "2024-05-16T17:00:00-03:00",
+    "dataFim": "2024-05-16T18:30:00-03:00",
+    "descricao": "<p>Encontro promovido por <b>Carla Silveira</b> com dinâmicas voltadas para parcerias B2B.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Debate sobre tendências de mercado mediado por <b>Patrícia Ramos</b> com participação de <b>Lucas Mendes</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Espaço Conexões - Sala A",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Conduzida por <b>Juliana Bezerra</b> com o tema <i>Técnicas de Marketing Digital e Conversão Omnichannel Essenciais para Construir Presença de Marca Relevante nas Redes</i>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena Sebrae Delas",
+    "dataInicio": "2024-05-17T16:30:00-03:00",
+    "dataFim": "2024-05-17T18:00:00-03:00",
+    "descricao": "<p>Apresentação rápida de soluções inovadoras para investidores-anjo, com curadoria de <b>Felipe Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Setorial",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T12:00:00-03:00",
+    "descricao": "<p>Apresentada por <b>Guilherme Dorneles</b> focando no varejo físico e eletrônico.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Consultoria Coletiva",
+    "lugar": "Espaço Conexões - Sala B",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Orientação tira-dúvidas de regularização fiscal e MEI com a consultora <b>Bruna Fagundes</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Showcase de Encerramento",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-05-18T16:30:00-03:00",
+    "dataFim": "2024-05-18T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

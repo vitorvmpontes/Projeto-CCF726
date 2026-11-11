@@ -1,0 +1,148 @@
+{
+ "spec": {
+  "id": "sint-42-00183",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 15,
+  "casos": [
+   "nomes_repetidos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:40+00:00",
+ "uso_tokens": {
+  "entrada": 678,
+  "saida": 2309
+ },
+ "saida": {
+  "evento": {
+   "nome": "Amazon GameDev & Hackathon Experience 2027",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Montagem dos QGs",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-04-14T08:00:00-03:00",
+    "dataFim": "2027-04-14T10:00:00-03:00",
+    "descricao": "<p>Recepção das equipes, validação de crachás e montagem das estações de trabalho para a maratona.</p>",
+    "secao": "Abertura e Integração"
+   },
+   {
+    "nome": "Cerimônia de Revelação dos Temas",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-14T10:30:00-03:00",
+    "dataFim": "2027-04-14T12:00:00-03:00",
+    "descricao": "<p>Apresentação oficial dos desafios da maratona e da Game Jam com os coordenadores <b>Thiago Mendonça</b> e <b>Camila Siqueira</b>.</p>",
+    "secao": "Abertura e Integração"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-14T14:00:00-03:00",
+    "dataFim": "2027-04-14T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Desenvolvimento de narrativas interativas imersivas e ecossistemas procedurais em motores gráficos modernos aplicados à preservação da memória e saberes tradicionais amazônicos</i> conduzida por <b>Lucas Viana</b> e <b>Iara Vasconcelos</b>.</p>",
+    "secao": "Trilhas de Conhecimento"
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2027-04-14T16:00:00-03:00",
+    "dataFim": "2027-04-14T18:00:00-03:00",
+    "descricao": "<p>Sessão aberta de validação de escopo e arquitetura técnica com o mentor <b>Rodrigo Hayashi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório Digital 1",
+    "dataInicio": "2027-04-15T09:00:00-03:00",
+    "dataFim": "2027-04-15T11:00:00-03:00",
+    "descricao": "<p>Atividade prática com <b>Beatriz Brandão</b> abordando shaders e otimização para dispositivos móveis.</p>",
+    "secao": "Trilhas de Conhecimento"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2027-04-15T14:00:00-03:00",
+    "dataFim": "2027-04-15T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Construção de pipelines de inteligência artificial generativa em tempo real para automação de testes de segurança em softwares distribuídos críticos</i> pelo engenheiro <b>Felipe Castanheira</b>.</p>",
+    "secao": "Trilhas de Conhecimento"
+   },
+   {
+    "nome": "Playtest Coletivo",
+    "lugar": "Arena Central de Jogos",
+    "dataInicio": "2027-04-15T19:00:00-03:00",
+    "dataFim": "2027-04-15T21:00:00-03:00",
+    "descricao": "<p>Primeira rodada de testes cruzados dos protótipos jogáveis com mediação de <b>Marcelo Pantoja</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentoria",
+    "lugar": "Sala de Reuniões B",
+    "dataInicio": "2027-04-16T10:00:00-03:00",
+    "dataFim": "2027-04-16T12:00:00-03:00",
+    "descricao": "<p>Atendimento focado em modelagem de negócios e viabilidade financeira ministrado por <b>Aline Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-16T14:30:00-03:00",
+    "dataFim": "2027-04-16T16:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Estratégias avançadas de monetização sustentável e retenção de usuários para estúdios independentes em mercados emergentes globais altamente competitivos</i> com a especialista <b>Juliana Dantas</b>.</p>",
+    "secao": "Trilhas de Conhecimento"
+   },
+   {
+    "nome": "Corujão de Codificação",
+    "lugar": "Arena Central de Jogos",
+    "dataInicio": "2027-04-16T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Madrugada de desenvolvimento contínuo com fornecimento de energéticos e suporte técnico dos monitores <b>Gabriel Trindade</b> e <b>Samuel Braga</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Congelamento de Código e Submissão",
+    "lugar": "Plataforma Online do Evento",
+    "dataInicio": "2027-04-17T12:00:00-03:00",
+    "dataFim": "2027-04-17T13:00:00-03:00",
+    "descricao": "<p>Prazo final improrrogável para upload dos repositórios e compilações dos jogos e aplicativos.</p>",
+    "secao": "Bancas e Demonstrações"
+   },
+   {
+    "nome": "Playtest Coletivo",
+    "lugar": "Arena Central de Jogos",
+    "dataInicio": "2027-04-17T15:00:00-03:00",
+    "dataFim": "2027-04-17T18:00:00-03:00",
+    "descricao": "<p>Exibição aberta ao público dos jogos finalizados e coleta de avaliações da comunidade.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitching dos Finalistas",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-17T19:00:00-03:00",
+    "dataFim": "2027-04-17T21:30:00-03:00",
+    "descricao": "<p>Apresentação das soluções finalistas para a banca examinadora composta por <b>Vanessa Amorim</b>, <b>Carlos Eduardo Cunha</b> e <b>Renato Neves</b>.</p>",
+    "secao": "Bancas e Demonstrações"
+   },
+   {
+    "nome": "Mostra de Games e Softwares",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2027-04-18T10:00:00-03:00",
+    "dataFim": "2027-04-18T14:00:00-03:00",
+    "descricao": "<p>Stands de demonstração de todos os projetos submetidos na maratona e na jam.</p>",
+    "secao": "Bancas e Demonstrações"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2027-04-18T15:30:00-03:00",
+    "dataFim": "2027-04-18T17:30:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores das categorias gerais e entrega dos troféus sob coordenação de <b>Thiago Mendonça</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

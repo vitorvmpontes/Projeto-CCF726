@@ -1,0 +1,171 @@
+{
+ "spec": {
+  "id": "sint-42-00384",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:32+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 3040
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Mineiro de Mulheres na Computação",
+   "local_geral": "Universidade Federal de Juiz de Fora (UFJF), Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Institucional",
+    "lugar": "Anfiteatro das Engenharias",
+    "dataInicio": "2024-10-16T08:30:00-03:00",
+    "dataFim": "2024-10-16T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a coordenadora-geral <b>Dra. Simone Rezende</b> e representantes dos capítulos estudantis locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Anfiteatro das Engenharias",
+    "dataInicio": "2024-10-16T09:15:00-03:00",
+    "dataFim": "2024-10-16T10:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Mulheres, Ciência de Dados e Justiça Social na Era da Inteligência Artificial</i>, proferida por <b>Dra. Marcela Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Hall do Anfiteatro",
+    "dataInicio": "2024-10-16T10:30:00-03:00",
+    "dataFim": "2024-10-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Anfiteatro das Engenharias",
+    "dataInicio": "2024-10-16T11:00:00-03:00",
+    "dataFim": "2024-10-16T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Transição de Carreira e Sobrevivência Feminina na Indústria de Software</i>. Coordenação: <b>Dra. Fernanda Prado</b>. Painelistas convidadas: <b>Carla Vasconcellos</b>, <b>Juliana Meireles</b> e <b>Patrícia Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T17:30:00-03:00",
+    "descricao": "<p>Minicurso com tema <i>Introdução à Cibersegurança Prática para Aplicações Web</i>, ministrado por <b>Msc. Bianca Guimarães</b> e auxiliado por <b>Larissa Fontes</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Multimídia",
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T17:30:00-03:00",
+    "descricao": "<p>Oficina prática com o tema <i>Pipeline de Engenharia de Dados em Nuvem utilizando Apache Spark</i>, conduzida por <b>Eng. Tatiane Ramos</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório 2 do ICE",
+    "dataInicio": "2024-10-17T09:00:00-03:00",
+    "dataFim": "2024-10-17T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Maternidade, Academia e Mercado Tecnológico: Quebrando Barreiras</i>. Mediadora: <b>Prof. Camila Nogueira</b>. Participantes: <b>Dra. Renata Lacerda</b> e <b>Heloísa Figueiredo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-10-17T10:30:00-03:00",
+    "dataFim": "2024-10-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório 2 do ICE",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Coordenadora de sessão: <b>Dra. Aline Mourão</b>.</p><p>Trabalhos apresentados: <i>Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural</i> por <b>Mariana Castro</b> e <b>Prof. Luísa Fagundes</b>; <i>Algoritmos Genéticos Aplicados à Otimização Logística Urbana</i> por <b>Letícia Duarte</b>; <i>Análise Comparativa de Frameworks para Edge Computing</i> por <b>Gabriela Sampaio</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Auditório 2 do ICE",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": "<p>Coordenadora de sessão: <b>Prof. Luciana Queiroz</b>.</p><p>Trabalhos apresentados: <i>Interação Humano-Computador Acessível para Pessoas com Deficiência Visual</i> por <b>Sofia Toledo</b>; <i>Uso de Blockchain para Rastreabilidade na Agricultura Familiar</i> por <b>Camila Beltrão</b> e <b>Dra. Clara Silveira</b>; <i>Estudo Empírico sobre a Eficiência de Arquiteturas de Microsserviços</i> por <b>Natália Arruda</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall do Prédio Central do ICE",
+    "dataInicio": "2024-10-17T15:30:00-03:00",
+    "dataFim": "2024-10-17T17:00:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas de iniciação científica e extensão. Coordenadora de avaliação: <b>Dra. Viviane Teles</b>. Trabalhos em exibição incluem pesquisas desenvolvidas por <b>Beatriz Silvano</b>, <b>Manuela Neves</b>, <b>Rafaela Paiva</b> e <b>Isabela Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Coletiva de Carreira",
+    "lugar": "Sala de Seminários 101",
+    "dataInicio": "2024-10-17T17:00:00-03:00",
+    "dataFim": "2024-10-17T18:30:00-03:00",
+    "descricao": "<p>Sessão de mentoria focada em revisão de currículo, entrevistas para big techs e liderança técnica. Mentoras: <b>Valéria Montenegro</b>, <b>Flávia Cordeiro</b> e <b>Msc. Débora Alcantara</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Laboratório de Software Livre",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T11:00:00-03:00",
+    "descricao": "<p>Oficina prática intitulada <i>Como Contribuir com Projetos de Código Aberto: Seu Primeiro Pull Request</i>, com a desenvolvedora <b>Roberta Guedes</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Anfiteatro das Engenharias",
+    "dataInicio": "2024-10-18T11:15:00-03:00",
+    "dataFim": "2024-10-18T12:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Computação Quântica: Fundamentos e Desafios para a Nova Década</i> com a pesquisadora <b>Dra. Teresa Cristina Maia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Anfiteatro das Engenharias",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T15:15:00-03:00",
+    "descricao": "<p>Palestra com o tema <i>Inovação Aberta e Empreendedorismo de Base Tecnológica Liderado por Mulheres</i> ministrada por <b>CEO Cláudia Xavier</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia da Comunidade",
+    "lugar": "Anfiteatro das Engenharias",
+    "dataInicio": "2024-10-18T15:30:00-03:00",
+    "dataFim": "2024-10-18T16:30:00-03:00",
+    "descricao": "<p>Reunião aberta para discussão e estruturação de novos projetos regionais de incentivo a meninas na tecnologia. Coordenadores: <b>Dra. Simone Rezende</b> e <b>Prof. Amanda Valadares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Anfiteatro das Engenharias",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T17:30:00-03:00",
+    "descricao": "<p>Entrega das premiações para os melhores artigos e pôsteres com a comissão formada por <b>Dra. Viviane Teles</b> e <b>Dra. Aline Mourão</b>, seguida de encerramento do encontro.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Happy Hour de Integração",
+    "lugar": "Espaço Cultural dos Estudantes",
+    "dataInicio": "2024-10-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

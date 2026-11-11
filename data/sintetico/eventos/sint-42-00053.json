@@ -1,0 +1,204 @@
+{
+ "spec": {
+  "id": "sint-42-00053",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 22,
+  "casos": [
+   "descricoes_ricas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:31+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 3599
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Mineiro de Mulheres na Computação (EMMC 2027)",
+   "local_geral": "Centro de Atividades Didáticas 3 (CAD 3), Universidade Federal de Minas Gerais (UFMG), Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-13T08:00:00-03:00",
+    "dataFim": "2027-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2027-05-13T09:00:00-03:00",
+    "dataFim": "2027-05-13T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas da coordenação geral com <b>Dra. Juliana Guimarães Silveira</b> e <b>Profa. Camila Duarte Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2027-05-13T09:30:00-03:00",
+    "dataFim": "2027-05-13T10:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Quebrando Barreiras e Construindo o Futuro da Inteligência Artificial Responsável</i>, ministrada por <b>Dra. Beatriz Helena Fontes</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Café com Redes",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-13T10:30:00-03:00",
+    "dataFim": "2027-05-13T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-13T11:00:00-03:00",
+    "dataFim": "2027-05-13T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Larissa Mendes Castro</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Detecção de Vieses Algorítmicos em Modelos de Processamento de Linguagem Natural</i> por <b>Mariana Costa Silva</b> e <b>Fernanda Rocha Dias</b>.</p><p>2. <i>Análise Comparativa de Algoritmos Criptográficos Pós-Quânticos</i> por <b>Aline Viana Toledo</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 104",
+    "dataInicio": "2027-05-13T11:00:00-03:00",
+    "dataFim": "2027-05-13T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Renata Souza e Silva</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Arquiteturas Resilientes para Computação em Borda em Cidades Inteligentes</i> por <b>Clara Fagundes Lima</b>.</p><p>2. <i>Mapeamento Sistemático da Participação Feminina no Desenvolvimento de Jogos Digitais no Brasil</i> por <b>Sofia Nogueira Ramos</b> e <b>Gabriela Esteves Pires</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-13T12:30:00-03:00",
+    "dataFim": "2027-05-13T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-13T14:00:00-03:00",
+    "dataFim": "2027-05-13T16:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Introdução à Computação Quântica com Qiskit</i>, ministrada por <b>Eng. Patrícia Alvarenga Gomes</b> e mediada por <b>Letícia Borges Sampaio</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 4",
+    "dataInicio": "2027-05-13T14:00:00-03:00",
+    "dataFim": "2027-05-13T16:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Desenvolvimento de APIs RESTful Seguras com Rust</i>, ministrada por <b>Paula Antunes Meireles</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall do 1º Andar",
+    "dataInicio": "2027-05-13T16:00:00-03:00",
+    "dataFim": "2027-05-13T17:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de iniciação científica e extensão universitária. Coordenação de <b>Dra. Viviane Teles Morais</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2027-05-13T17:00:00-03:00",
+    "dataFim": "2027-05-13T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Liderança Feminina na Indústria de Alta Tecnologia</i>. Debatedoras: <b>Carla Peixoto Naves</b>, <b>Vanessa Queiroz Campos</b> e <b>Mônica Brandão Ribeiro</b>. Mediação: <b>Profa. Camila Duarte Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Painel: <i>Inclusão, Acessibilidade e Neurodiversidade nos Cursos de Exatas</i>, com as expositoras <b>Dra. Thaís Vasconcelos</b>, <b>Elisa Martins Rezende</b> e <b>Marta Assis Valente</b>. Coordenação da mesa por <b>Juliana Guimarães Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café com Redes",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-05-14T10:00:00-03:00",
+    "dataFim": "2027-05-14T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-14T10:30:00-03:00",
+    "dataFim": "2027-05-14T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profa. Tatiana Barreto Fonseca</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Avaliação da Usabilidade de Interfaces Adaptativas para Idosos</i> por <b>Rebeca Santos Carvalho</b>.</p><p>2. <i>Classificação de Imagens Médicas Utilizando Aprendizado Profundo Auto-supervisionado</i> por <b>Bruna Marinho Leite</b> e <b>Isabela Diniz Moreira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala 104",
+    "dataInicio": "2027-05-14T10:30:00-03:00",
+    "dataFim": "2027-05-14T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Dra. Luciana Ferreira Rios</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Monitoramento de Queimadas no Cerrado via Sensoriamento Remoto e Aprendizado de Máquina</i> por <b>Nayara Vilela Pinto</b>.</p><p>2. <i>Engenharia de Prompt para Sistemas Especialistas em Direito Tributário</i> por <b>Debora Antunes Figueiredo</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-14T12:00:00-03:00",
+    "dataFim": "2027-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-14T13:30:00-03:00",
+    "dataFim": "2027-05-14T15:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Pipeline de Engenharia de Dados em Nuvem com Apache Spark</i>, ministrada por <b>Sabrina Neves Pimenta</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 4",
+    "dataInicio": "2027-05-14T13:30:00-03:00",
+    "dataFim": "2027-05-14T15:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Design System e Acessibilidade Digital na Prática</i>, conduzida por <b>Daniela Lacerda Couto</b>.</p>",
+    "secao": "Oficinas e Minicursos"
+   },
+   {
+    "nome": "Mentoria Coletiva de Carreira",
+    "lugar": "Sala Multiuso",
+    "dataInicio": "2027-05-14T15:30:00-03:00",
+    "dataFim": "2027-05-14T16:30:00-03:00",
+    "descricao": "<p>Sessão aberta de orientação acadêmica e profissional com as mentoras <b>Dra. Flávia Andrade Bastos</b>, <b>Eng. Roberta Camargo Lima</b> e <b>Marina Siqueira Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2027-05-14T16:30:00-03:00",
+    "dataFim": "2027-05-14T17:30:00-03:00",
+    "descricao": "<p>Apresentação magistral com tema <i>Trajetórias Científicas e Soberania Digital Nacional</i>, proferida por <b>Dra. Tereza Cristina Magalhães</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Premiação de Trabalhos",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2027-05-14T17:30:00-03:00",
+    "dataFim": "2027-05-14T18:00:00-03:00",
+    "descricao": "<p>Anúncio dos melhores artigos e pôsteres do evento. Coordenação do comitê científico: <b>Dra. Juliana Guimarães Silveira</b> e <b>Dra. Viviane Teles Morais</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2027-05-14T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Considerações finais e anúncio da sede do EMMC 2028 com a comissão organizadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

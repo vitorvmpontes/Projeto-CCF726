@@ -1,0 +1,149 @@
+{
+ "spec": {
+  "id": "sint-42-00163",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Brasília - DF",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 15,
+  "casos": [
+   "subtitulo_separado",
+   "nomes_repetidos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:06+00:00",
+ "uso_tokens": {
+  "entrada": 699,
+  "saida": 2277
+ },
+ "saida": {
+  "evento": {
+   "nome": "BSB Tech Summit & Hackathon 2026",
+   "local_geral": "Centro de Convenções Ulysses Guimarães, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Boas-Vindas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-04-16T08:00:00-03:00",
+    "dataFim": "2026-04-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2026-04-16T09:00:00-03:00",
+    "dataFim": "2026-04-16T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital Soberana e os Impactos Sociais da Inteligência Artificial em Países em Desenvolvimento</i>.</p><p>Palestrante: <b>Dra. Mariana Albuquerque</b> (Diretora de Inovação do Serpro).</p>",
+    "secao": "Keynotes e Painéis Principais"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Maker / Arena Hackathon",
+    "dataInicio": "2026-04-16T10:30:00-03:00",
+    "dataFim": "2026-04-16T12:00:00-03:00",
+    "descricao": "<p>Primeira rodada de alinhamento com os mentores <b>Carlos Eduardo Pires</b> e <b>Beatriz Mendonça</b> para validação da arquitetura de dados dos projetos inscritos.</p>",
+    "secao": "Hackathon GovTech"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Planalto",
+    "dataInicio": "2026-04-16T14:00:00-03:00",
+    "dataFim": "2026-04-16T15:00:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Arquiteturas Resilientes em Nuvem</i> com o engenheiro <b>Thiago Ramos</b> (AWS Brasil).</p>",
+    "secao": "Trilhas de Engenharia"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2026-04-16T15:30:00-03:00",
+    "dataFim": "2026-04-16T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento Seguro de APIs com Rust e Políticas Modernas de Identidade Federada para Integração de Sistemas Distribuídos e Microsserviços</i>.</p><p>Instrutor: <b>Rodrigo Fontana</b>.</p>",
+    "secao": "Trilhas de Engenharia"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2026-04-17T09:30:00-03:00",
+    "dataFim": "2026-04-17T11:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios Regulatórios e Éticos no Uso de Grandes Modelos de Linguagem no Setor Público Federal</i>.</p><p>Participantes: <b>Vanessa Nogueira</b> (Ministério da Gestão e Inovação) e <b>Lucas Furtado</b> (OAB/DF).</p>",
+    "secao": "Keynotes e Painéis Principais"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Maker / Arena Hackathon",
+    "dataInicio": "2026-04-17T11:15:00-03:00",
+    "dataFim": "2026-04-17T12:45:00-03:00",
+    "descricao": "<p>Segunda rodada com foco em prototipação e experiência do usuário (UX), conduzida por <b>Juliana Prado</b> e <b>Felipe Castanheira</b>.</p>",
+    "secao": "Hackathon GovTech"
+   },
+   {
+    "nome": "Showcase de Startups",
+    "lugar": "Palco Conexão",
+    "dataInicio": "2026-04-17T14:00:00-03:00",
+    "dataFim": "2026-04-17T15:30:00-03:00",
+    "descricao": "<p>Apresentação das 5 soluções em inteligência de dados selecionadas para o programa de aceleração regional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Planalto",
+    "dataInicio": "2026-04-17T16:00:00-03:00",
+    "dataFim": "2026-04-17T17:00:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Estratégias Avançadas de Observabilidade e Monitoramento Contínuo para Aplicações de Missão Crítica sob Altíssima Concorrência</i> conduzida por <b>Marcelo Siqueira</b> (Senior Staff Engineer na Stone).</p>",
+    "secao": "Trilhas de Engenharia"
+   },
+   {
+    "nome": "Happy Hour & Networking",
+    "lugar": "Área Externa",
+    "dataInicio": "2026-04-17T18:00:00-03:00",
+    "dataFim": "2026-04-17T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Sala de Reuniões B",
+    "dataInicio": "2026-04-18T09:00:00-03:00",
+    "dataFim": "2026-04-18T10:30:00-03:00",
+    "descricao": "<p>Plantão de dúvidas sobre pitch e modelo de sustentabilidade para as equipes finalistas com o consultor <b>Gustavo Meireles</b>.</p>",
+    "secao": "Hackathon GovTech"
+   },
+   {
+    "nome": "Feira de Carreiras",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-04-18T10:00:00-03:00",
+    "dataFim": "2026-04-18T12:00:00-03:00",
+    "descricao": "<p>Estandes de contratação e conexão com times de talentos de grandes empresas de TI e startups do Centro-Oeste.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch Day Final",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2026-04-18T13:30:00-03:00",
+    "dataFim": "2026-04-18T15:30:00-03:00",
+    "descricao": "<p>Apresentação das soluções desenvolvidas para a banca avaliadora composta por <b>Dra. Mariana Albuquerque</b>, <b>Camila Duarte</b> e <b>Vinícius Peixoto</b>.</p>",
+    "secao": "Hackathon GovTech"
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2026-04-18T16:30:00-03:00",
+    "dataFim": "2026-04-18T17:30:00-03:00",
+    "descricao": "<p>Entrega das premiações aos três primeiros colocados do hackathon e anúncio das bolsas de incentivo.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Oficial",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2026-04-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

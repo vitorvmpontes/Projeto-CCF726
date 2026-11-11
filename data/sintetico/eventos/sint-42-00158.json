@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00158",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Goiânia - GO",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:34+00:00",
+ "uso_tokens": {
+  "entrada": 666,
+  "saida": 1370
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada Arquidiocesana de Ação Social e Espiritualidade",
+   "local_geral": "Centro Comunitário São João Bosco, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Capela Central",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T08:45:00-03:00",
+    "descricao": "<p>Abertura com momento de louvor conduzido pelo <b>Padre Lucas Ferreira</b> e acolhida pastoral aos voluntários.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Círculo de Oração e Partilha",
+    "lugar": "Tenda da Acolhida",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T10:15:00-03:00",
+    "descricao": "<p>Momento comunitário de intercessão e escuta fraterna mediado por <b>Irmã Teresa Cristina</b> e pela coordenadora <b>Maria das Graças Silva</b>.</p>",
+    "secao": "Atividades Espirituais"
+   },
+   {
+    "nome": "Mostra de Iniciativas Comunitárias",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos sociais das comunidades locais, sob coordenação do <b>Diácono Jorge Antunes</b>. Trabalhos apresentados: <i>Sopa Solidária: Dignidade para Pessoas em Situação de Rua</i>, pelo palestrante <b>Carlos Eduardo Mendes</b>; <i>Bazar Fraterno e Empreendedorismo de Mulheres</i>, apresentado por <b>Marta Helena Guimarães</b>; e <i>Alfabetização de Adultos na Periferia</i>, relatado por <b>Prof. Nilton Batista</b>.</p>",
+    "secao": "Painéis e Relatos"
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": "Refeitório Comunitário",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": "2025-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 3",
+    "dataInicio": "2025-05-17T13:30:00-03:00",
+    "dataFim": "2025-05-17T15:00:00-03:00",
+    "descricao": "<p>Atividade temática sobre <i>Captação de Recursos e Gestão Transparente para Obras Sociais</i>, conduzida pelo facilitador <b>Bruno Cavalcanti</b> com colaboração da assistente social <b>Fernanda Prado</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala 4",
+    "dataInicio": "2025-05-17T15:15:00-03:00",
+    "dataFim": "2025-05-17T16:45:00-03:00",
+    "descricao": "<p>Capacitação com foco em <i>Comunicação Não-Violenta e Mediação de Conflitos no Território</i>, ministrada pela psicóloga comunitária <b>Dra. Renata Vasconcelos</b> sob coordenação de <b>Sebastião Moreira</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Círculo de Oração e Partilha",
+    "lugar": "Capela Central",
+    "dataInicio": "2025-05-17T17:00:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": "<p>Segundo momento de meditação e avaliação pessoal da jornada, com coordenação de <b>Irmã Teresa Cristina</b> e cânticos orientados por <b>Gabriel Siqueira</b>.</p>",
+    "secao": "Atividades Espirituais"
+   },
+   {
+    "nome": "Missa de Envio e Celebração Eucarística",
+    "lugar": "Nave Principal",
+    "dataInicio": "2025-05-17T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração de encerramento presidida pelo <b>Bispo Dom Valdir Meireles</b> e concelebrada pelo <b>Padre Lucas Ferreira</b>, com benção especial aos voluntários das pastorais sociais.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

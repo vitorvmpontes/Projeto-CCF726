@@ -1,0 +1,102 @@
+{
+ "spec": {
+  "id": "sint-42-00065",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Belém - PA",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "titulos_longos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:14+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 1501
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores da Amazônia e Cultura Alimentar Paraense 2024",
+   "local_geral": "Hangar Convenções & Feiras da Amazônia, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-10-18T08:30:00-03:00",
+    "dataFim": "2024-10-18T10:00:00-03:00",
+    "descricao": "<p>Recepção dos participantes e retirada dos kits gastronômicos com a equipe de voluntários da <b>Universidade Federal do Pará</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show de Abertura",
+    "lugar": "Cozinha Show Tucupi",
+    "dataInicio": "2024-10-18T10:00:00-03:00",
+    "dataFim": "2024-10-18T11:45:00-03:00",
+    "descricao": "<p>Apresentação especial conduzida pelo chef <b>Thiago Castanho</b>, explorando o preparo do clássico <i>Maniçoba Contemporânea com Redução de Tucupi Preto e Pescado da Costa Marajoara</i>.</p>",
+    "secao": "Aulas-show e Demonstrações"
+   },
+   {
+    "nome": "Oficina Culinária 1",
+    "lugar": "Espaço Cozinha Cabocla",
+    "dataInicio": "2024-10-18T10:00:00-03:00",
+    "dataFim": "2024-10-18T12:00:00-03:00",
+    "descricao": "<p>A chef ribeirinha <b>Dona Nalva de Igarapé-Miri</b> apresenta a aula prática intitulada <i>Tradições e Práticas Ancestrais no Uso Criativo da Farinha de Bragança e do Tucupi Amarelo na Cozinha Contemporânea</i>.</p>",
+    "secao": "Aulas-show e Demonstrações"
+   },
+   {
+    "nome": "Circuito Gastronômico e Almoço Livre",
+    "lugar": "Praça de Alimentação Ver-o-Peso",
+    "dataInicio": "2024-10-18T12:00:00-03:00",
+    "dataFim": "2024-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2024-10-18T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Mesa expositiva mediada por <b>Patrícia Ramos</b> com fala do pesquisador <b>João Paulo Bacelar</b> abordando o painel <i>Desafios Logísticos e Potencialidades Econômicas da Cadeia Sustentável do Cacau Nativo e Frutas Típicas no Baixo Tocantins Paraense</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento Caboco: Café com Pupunha",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-show de Confeitaria Amazônica",
+    "lugar": "Cozinha Show Tucupi",
+    "dataInicio": "2024-10-19T09:30:00-03:00",
+    "dataFim": "2024-10-19T11:30:00-03:00",
+    "descricao": "<p>A renomada confeiteira <b>Angela Sicília</b> ensina a receita <i>Torta Entremet de Cupuaçu com Crocante de Castanha-do-Brasil e Geleia de Pimenta-de-Cheiro</i>.</p>",
+    "secao": "Aulas-show e Demonstrações"
+   },
+   {
+    "nome": "Oficina Culinária 2",
+    "lugar": "Espaço Cozinha Cabocla",
+    "dataInicio": "2024-10-19T09:30:00-03:00",
+    "dataFim": "2024-10-19T11:30:00-03:00",
+    "descricao": "<p>O mestre cervejeiro e gastrônomo <b>Carlos Eduardo Mendes</b> lidera o minicurso prático <i>Harmonização Sensorial de Cervejas Artesanais Locais com Petiscos Ribeirinhos à Base de Pirarucu Seco e Queijo do Marajó</i>.</p>",
+    "secao": "Aulas-show e Demonstrações"
+   },
+   {
+    "nome": "Festa dos Fermentados da Floresta",
+    "lugar": "Área Externa - Jardim das Mangueiras",
+    "dataInicio": "2024-10-19T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Degustação coletiva e encerramento cultural comandado pelo mixologista <b>Yuri Guimarães</b> com drinks autorais à base de cachaça de jambu e fermentados de açaí.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

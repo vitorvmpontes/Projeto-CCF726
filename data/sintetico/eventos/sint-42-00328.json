@@ -1,0 +1,142 @@
+{
+ "spec": {
+  "id": "sint-42-00328",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Florianópolis - SC",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 14,
+  "casos": [
+   "subtitulo_separado",
+   "sem_local",
+   "atividades_paralelas",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:10+00:00",
+ "uso_tokens": {
+  "entrada": 686,
+  "saida": 2310
+ },
+ "saida": {
+  "evento": {
+   "nome": "Floripa Tech & Hack Summit 2025",
+   "local_geral": "Centro de Inovação ACATE Primavera, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Institucional",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com coordenação de <b>Marina Silveira</b> e participação dos diretores da ACATE.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Keynote Empresarial 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T09:30:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Escalando Plataformas de Pagamento em Nuvem Distribuída</i>.</p><p>Palestrante: <b>Rodrigo Duarte Martins</b> (Lead Architect na Stone).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Keynote Empresarial 2",
+    "lugar": "Sala de Workshop A",
+    "dataInicio": "2025-05-16T09:30:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial Generativa Aplicada ao Suporte ao Cliente B2B</i>.</p><p>Palestrante: <b>Beatriz Mendonça</b> (Head de AI na Neoway).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Líderes",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios de Contratação e Retenção Global de Talentos Tech</i>.</p><p>Coordenação: <b>Carlos Eduardo Guimarães</b>.</p><p>Debatedores: <b>Fernanda Lins</b> (RD Station), <b>Lucas Vianna</b> (CI&T) e <b>Juliana Pires</b> (Softplan).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Briefing e Lançamento dos Desafios",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T15:00:00-03:00",
+    "descricao": "<p>Divulgação dos temas e critérios de avaliação do hackathon. Coordenadores: <b>Matheus Becker</b> e <b>Camila Takahashi</b>.</p>",
+    "secao": "Hackathon Smart Island"
+   },
+   {
+    "nome": "Maratona de Desenvolvimento - Etapa 1",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T20:00:00-03:00",
+    "descricao": "<p>Início do desenvolvimento de protótipos focados em cidades inteligentes e mobilidade urbana.</p>",
+    "secao": "Hackathon Smart Island"
+   },
+   {
+    "nome": "Sessão de Mentorias Técnicas",
+    "lugar": null,
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T18:30:00-03:00",
+    "descricao": "<p>Atendimento aos grupos com os mentores convidados: <b>Felipe Rossi</b> (DevOps), <b>Patrícia Ramos</b> (Product Design) e <b>Guilherme Santos</b> (Data Science).</p>",
+    "secao": "Hackathon Smart Island"
+   },
+   {
+    "nome": "Maratona de Desenvolvimento - Etapa 2",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Finalização da codificação, arquitetura de APIs e preparação do pitch.</p>",
+    "secao": "Hackathon Smart Island"
+   },
+   {
+    "nome": "Talk Corporativa 1",
+    "lugar": "Sala Tech 1",
+    "dataInicio": "2025-05-17T09:30:00-03:00",
+    "dataFim": "2025-05-17T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança em APIs de Missão Crítica: Do Design ao Monitoramento</i>.</p><p>Palestrante: <b>André Luiz Silveira</b> (Especialista em AppSec).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Talk Corporativa 2",
+    "lugar": "Sala Tech 2",
+    "dataInicio": "2025-05-17T09:30:00-03:00",
+    "dataFim": "2025-05-17T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias de Green IT: Reduzindo a Pegada de Carbono em Clusters Kubernetes</i>.</p><p>Palestrante: <b>Vanessa Moreira</b> (Cloud Sustainability Lead).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Submissão Final dos Projetos",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Envio de repositórios, links de demonstração e documentação pela plataforma oficial.</p>",
+    "secao": "Hackathon Smart Island"
+   },
+   {
+    "nome": "Apresentação dos Pitches",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:30:00-03:00",
+    "descricao": "<p>Apresentação das soluções finalistas avaliadas pela banca de jurados com coordenação de <b>Marina Silveira</b>.</p><p>Trabalhos apresentados:</p><p>- <i>FloripaFlow: Roteamento Dinâmico de Tráfego por Visão Computacional</i> (Autores: <b>Gabriel Diniz</b>, <b>Lara Mattos</b>)</p><p>- <i>Ecolha: Gestão Comunitária de Resíduos Eletrônicos com IoT</i> (Autores: <b>Thiago Antunes</b>, <b>Rebeca Fontana</b>)</p><p>- <i>BusAlert: Previsão Estocástica de Chegada de Transporte Público</i> (Autores: <b>Vinicius Morais</b>, <b>Sabrina Leal</b>)</p>",
+    "secao": "Hackathon Smart Island"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos três melhores projetos e entrega dos prêmios institucionais conduzida por <b>Carlos Eduardo Guimarães</b> e <b>Matheus Becker</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

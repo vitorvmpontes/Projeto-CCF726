@@ -1,0 +1,260 @@
+{
+ "spec": {
+  "id": "sint-42-00070",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Natal - RN",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 29,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:56+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 4248
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Potiguar de Docentes da Educação Básica",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-21T08:00:00-03:00",
+    "dataFim": "2026-05-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura e Apresentação Cultural",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-21T09:00:00-03:00",
+    "dataFim": "2026-05-21T10:00:00-03:00",
+    "descricao": "<p>Apresentação musical do coral infantil e boas-vindas da comissão organizadora com <b>Maria das Neves Bezerra</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-21T10:00:00-03:00",
+    "dataFim": "2026-05-21T11:45:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Os caminhos e desafios da prática pedagógica interdisciplinar integrada ao currículo contemporâneo das redes públicas brasileiras na atualidade</i>, ministrada por <b>Carlos Alberto Mendonça</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T11:45:00-03:00",
+    "dataFim": "2026-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Ministrada por <b>Tatiana Medeiros de Souza</b>, com a atividade <i>Alfabetização e letramento nos anos iniciais</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Facilitada por <b>Rodrigo Silva Galvão</b>, com o tema <i>Jogos matemáticos e raciocínio lógico no ensino fundamental</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Laboratório Multimídia",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Abordagem conduzida por <b>Juliana Dantas Cavalcante</b> sobre <i>Recursos educacionais digitais abertos</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-21T15:30:00-03:00",
+    "dataFim": "2026-05-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-21T16:00:00-03:00",
+    "dataFim": "2026-05-21T18:00:00-03:00",
+    "descricao": "<p>Discussão com <b>Francisca Lúcia Pinheiro</b> e <b>Jorge Luiz Nogueira</b> abordando <i>Gestão democrática e participação da comunidade escolar</i>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Roda de Diálogo Matutina",
+    "lugar": "Auditório Carnaúba",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:00:00-03:00",
+    "descricao": "<p>Mediação de <b>Renata Albuquerque</b> com foco em <i>Saúde mental docente e bem-estar em sala de aula</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Lanche",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-22T10:00:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Gilberto Fernandes Lima</b>. Apresentação do trabalho <i>Sequências didáticas para o ensino de ciências</i> por <b>Aline Farias Maia</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Patrícia Ramos Torres</b>. Apresentação do relato de experiência <i>Práticas avaliativas formativas no ensino médio regular</i> por <b>Marcos Vinícius Costa</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2026-05-22T10:30:00-03:00",
+    "dataFim": "2026-05-22T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Hélio Barreto Filho</b>. Apresentação do trabalho <i>Literatura de cordel potiguar como ferramenta de incentivo à leitura</i> por <b>Samara Cristina Araújo</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:00:00-03:00",
+    "dataFim": "2026-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall do Mezanino",
+    "dataInicio": "2026-05-22T13:30:00-03:00",
+    "dataFim": "2026-05-22T14:45:00-03:00",
+    "descricao": "<p>Apresentação de banners e projetos escolares orientados por professores de escolas municipais e estaduais do RN.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 4",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-22T15:00:00-03:00",
+    "dataFim": "2026-05-22T17:00:00-03:00",
+    "descricao": "<p>Atividade <i>Estratégias inovadoras para o ensino inclusivo de estudantes com transtorno do espectro autista na educação básica pública</i> conduzida por <b>Clarisse Vilarinho Sampaio</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 5",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-22T15:00:00-03:00",
+    "dataFim": "2026-05-22T17:00:00-03:00",
+    "descricao": "<p>Atividade <i>Educação ambiental crítica no semiárido potiguar</i> com <b>Bruno Esteves Brandão</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 6",
+    "lugar": "Laboratório Multimídia",
+    "dataInicio": "2026-05-22T15:00:00-03:00",
+    "dataFim": "2026-05-22T17:00:00-03:00",
+    "descricao": "<p>Atividade <i>Produção de podcasts pedagógicos em sala de aula</i> orientada por <b>Vanessa Guedes Paiva</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mostra de Cinema e Educação",
+    "lugar": "Auditório Carnaúba",
+    "dataInicio": "2026-05-22T17:15:00-03:00",
+    "dataFim": "2026-05-22T18:45:00-03:00",
+    "descricao": "<p>Exibição comentada de curtas-metragens com mediação de <b>Diego Peixoto Câmara</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-23T08:30:00-03:00",
+    "dataFim": "2026-05-23T10:15:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Políticas públicas para valorização da carreira docente e valorização salarial</i> com os convidados <b>Antônio Marcos Sales</b> e <b>Valéria Soares de Lima</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-23T10:15:00-03:00",
+    "dataFim": "2026-05-23T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Grupo de Trabalho 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-23T10:45:00-03:00",
+    "dataFim": "2026-05-23T12:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Currículo da educação infantil e os campos de experiências</i> sob facilitação de <b>Lilian Duarte Barbalho</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Grupo de Trabalho 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-23T10:45:00-03:00",
+    "dataFim": "2026-05-23T12:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Novo ensino médio e itinerários formativos técnicos</i> sob facilitação de <b>Gustavo Henrique Antunes</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Grupo de Trabalho 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2026-05-23T10:45:00-03:00",
+    "dataFim": "2026-05-23T12:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Educação de jovens e adultos e integração com o mundo do trabalho</i> sob facilitação de <b>Marlene Pires Queiroz</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-23T12:15:00-03:00",
+    "dataFim": "2026-05-23T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária de Encerramento",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-23T13:45:00-03:00",
+    "dataFim": "2026-05-23T15:30:00-03:00",
+    "descricao": "<p>Palestra com o tema <i>A formação continuada docente enquanto elemento transformador da qualidade social da aprendizagem na escola pública contemporânea</i>, apresentada por <b>Eunice Fagundes Toledo</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Apresentação da Carta de Natal",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-23T15:30:00-03:00",
+    "dataFim": "2026-05-23T16:30:00-03:00",
+    "descricao": "<p>Leitura do documento oficial pelos relatores <b>Márcio Silveira</b> e <b>Fabiana Fontes Correia</b> contendo reivindicações e propostas para a educação estadual.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2026-05-23T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas e sorteio de livros didáticos com <b>Maria das Neves Bezerra</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

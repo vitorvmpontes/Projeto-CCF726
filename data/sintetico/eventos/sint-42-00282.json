@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00282",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Fortaleza - CE",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:48+00:00",
+ "uso_tokens": {
+  "entrada": 638,
+  "saida": 1190
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada Paroquial da Fraternidade e Cidadania 2027",
+   "local_geral": "Centro Pastoral Padre Cícero, Bairro Benfica, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Comunitário",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2027-04-17T07:30:00-03:00",
+    "dataFim": "2027-04-17T08:30:00-03:00",
+    "descricao": "<p>Recepção dos participantes e partilha do café matinal organizado pela <b>Pastoral da Acolhida</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": "Igreja Matriz",
+    "dataInicio": "2027-04-17T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração eucarística presidida pelo <b>Padre Francisco Silveira</b> com participação do <b>Coral Santa Cecília</b>.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Círculo de Diálogo",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-04-17T10:00:00-03:00",
+    "dataFim": "2027-04-17T11:45:00-03:00",
+    "descricao": "<p>Discussão temática com o tema <i>Ação Social e Evangelização na Periferia Urbana</i>, mediada por <b>Maria Helena Albuquerque</b> e com falas de <b>Irmã Teresa Bezerra</b> e <b>Diácono Jorge Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Solidário",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2027-04-17T12:00:00-03:00",
+    "dataFim": "2027-04-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala São Paulo",
+    "dataInicio": "2027-04-17T13:30:00-03:00",
+    "dataFim": "2027-04-17T15:30:00-03:00",
+    "descricao": "<p>Atividade prática com o tema <i>Hortas Urbanas e Ecologia Integral na Comunidade</i>, ministrada por <b>Carlos Eduardo Vasconcelos</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala São Pedro",
+    "dataInicio": "2027-04-17T13:30:00-03:00",
+    "dataFim": "2027-04-17T15:30:00-03:00",
+    "descricao": "<p>Capacitação voltada para jovens com o tema <i>Comunicação Pastoral e Redes Comunitárias</i>, facilitada por <b>Juliana Mendes Barreto</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Terço Cantado e Adoração",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2027-04-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de oração contemplativa conduzido por <b>Luciano Aragão</b> e músicos da comunidade local.</p>",
+    "secao": "Celebrações"
+   },
+   {
+    "nome": "Apresentação Cultural e Encerramento",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2027-04-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espetáculo popular <i>Cantos de Fé e Esperança no Ceará</i> com o <b>Grupo Raízes da Terra</b> e bênção final com o <b>Padre Francisco Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

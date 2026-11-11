@@ -1,0 +1,179 @@
+{
+ "spec": {
+  "id": "sint-42-00068",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Fortaleza - CE",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:40+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 2802
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Cearense de Mulheres na Computação",
+   "local_geral": "Centro de Convivência da Universidade Federal do Ceará (Campus do Pici), Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T09:15:00-03:00",
+    "descricao": "<p>Abertura solene com a coordenação-geral do evento, com <b>Profa. Dra. Mariana Cavalcante</b> e <b>Dra. Juliana Siqueira</b>, celebrando a presença feminina no ecossistema de TI cearense.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-19T09:15:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Inteligência Artificial Responsável e Equidade de Gênero</i> conduzida por <b>Dra. Camila Nogueira Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café com Conexões",
+    "lugar": null,
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Painel sobre <i>Carreiras em Cibersegurança: Desafios e Oportunidades</i>, mediado por <b>Fernanda Lins</b>, com a participação de <b>Luciana Prado</b> e <b>Rafaela Peixoto</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Redes B",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Construindo Microsserviços Resilientes com Go</i>, ministrada pela desenvolvedora sênior <b>Beatriz Alencar Monteiro</b>.</p>",
+    "secao": "Minicursos e Workshops"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Multimídia 4",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Introdução à Computação Quântica e Qiskit</i> sob a instrução de <b>Profa. Samara Guedes</b>.</p>",
+    "secao": "Minicursos e Workshops"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall do Bloco 910",
+    "dataInicio": "2027-05-19T17:30:00-03:00",
+    "dataFim": "2027-05-19T18:45:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos de graduação e pós-graduação, avaliados pelo comitê técnico presidido por <b>Dra. Thaís Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": null,
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T10:15:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Engenharia de Dados em Escala: Do Pipeline à Tomada de Decisão</i> com <b>Eng. Patrícia Dantas</b>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": null,
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação <i>Design Inclusivo e Acessibilidade Web</i> conduzida por <b>Mariana Fonteles Barreto</b>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala de Seminários A",
+    "dataInicio": "2027-05-20T11:45:00-03:00",
+    "dataFim": "2027-05-20T12:45:00-03:00",
+    "descricao": "<p>Diálogo sobre <i>Maternidade, Academia e Mercado de Tecnologia</i> mediado por <b>Renata Albuquerque</b> e <b>Clara Valença</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:45:00-03:00",
+    "dataFim": "2027-05-20T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Redes B",
+    "dataInicio": "2027-05-20T14:15:00-03:00",
+    "dataFim": "2027-05-20T17:45:00-03:00",
+    "descricao": "<p>Prática de <i>Visão Computacional Aplicada à Saúde com PyTorch</i> ministrada por <b>Dra. Lídia Carneiro</b>.</p>",
+    "secao": "Minicursos e Workshops"
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Mesa com lideranças femininas discutindo <i>Empreendedorismo Feminino em Startups no Nordeste</i>, com <b>Aline Bezerra</b>, <b>Vanessa Pontes</b> e mediação de <b>Sofia Chaves</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Relatos de Experiência",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Apresentação das trajetórias inspiradoras <i>Do Sertão ao Vale do Silício: Histórias de Superação</i> pelas engenheiras <b>Monique Freire</b> e <b>Gabriela Araripe</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Coletiva",
+    "lugar": null,
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Sessão de aconselhamento profissional e revisão de currículos liderada por <b>Carla Vianna</b> e <b>Eveline Aragão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos e Hackathon",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T16:15:00-03:00",
+    "dataFim": "2027-05-21T17:15:00-03:00",
+    "descricao": "<p>Anúncio dos melhores pôsteres e das soluções vencedoras do desafio comunitário, entregue pela coordenadora da banca <b>Profa. Dra. Mariana Cavalcante</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Happy Hour",
+    "lugar": null,
+    "dataInicio": "2027-05-21T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração final e confraternização com todas as participantes e convidadas.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

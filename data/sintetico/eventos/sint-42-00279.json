@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-42-00279",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:37+00:00",
+ "uso_tokens": {
+  "entrada": 674,
+  "saida": 729
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Pernambucano de Mulheres na Computação",
+   "local_geral": "Centro de Informática da UFPE, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina Prática de Mentoria Técnica",
+    "lugar": "Laboratório Graduação 2",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T11:30:00-03:00",
+    "descricao": "<p>Primeira turma da capacitação focada em desenvolvimento profissional ministrada por <b>Camila Duarte</b> e <b>Renata Albuquerque</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Sérgio Didier",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios e Estratégias Inclusivas para Retenção de Mulheres na Pós-Graduação em Computação no Ecossistema Tecnológico do Nordeste</i>, conduzida pela Dra. <b>Fernanda Lins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Mentoria Técnica",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2023-10-20T09:30:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Segunda turma da sessão colaborativa voltada para alunas ingressantes, facilitada por <b>Camila Duarte</b> e <b>Patrícia Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão Técnica Especial",
+    "lugar": "Auditório Sérgio Didier",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Apresentação do trabalho <i>Análise dos Impactos Sociais e Éticos no Treinamento de Modelos Generativos com Viés de Gênero em Bases Textuais Abertas</i>, com <b>Mariana Siqueira</b> e coordenação de <b>Juliana Bezerra</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

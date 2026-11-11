@@ -1,0 +1,278 @@
+{
+ "spec": {
+  "id": "sint-42-00014",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Macapá - AP",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 31,
+  "casos": [
+   "titulos_longos",
+   "sem_local",
+   "intervalos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:35+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 4607
+ },
+ "saida": {
+  "evento": {
+   "nome": "HackaJam Tucuju 2025: Maratona Amazônica de Jogos e Soluções Digitais",
+   "local_geral": "Campus Marco Zero da Universidade Federal do Amapá (UNIFAP), Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Retirada de Kits",
+    "lugar": "Hall do Bloco de Ciência da Computação",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema Geral",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": "<p>Apresentação das diretrizes da maratona, comitê de avaliação e revelação da temática secreta da competição com a coordenação de <b>Dra. Simone Picanço</b> e <b>Prof. Marcondes Rabelo</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Palestra ministrada por <b>Thiago Viana</b> abordando o tema <i>Desenvolvimento de Jogos Independentes em Ambientes de Alta Pressão Utilizando Técnicas de Escopo Reduzido e Prototipagem Ágil com Motores Gráficos Modernos</i>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Pitch de Ideias e Formação de Equipes",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Dinâmica para conexão de participantes, apresentação de propostas de projetos e formação de times multidisciplinares, facilitada por <b>Aline Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:30:00-03:00",
+    "dataFim": "2025-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Início Oficial do Hacking e Game Dev",
+    "lugar": "Laboratório de Redes e Sistemas Distribuídos",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura das estações de trabalho e início do cronômetro contínuo da competição técnica.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Laboratório Multimídia A",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Instrutores: <b>Camila Brito</b> e <b>Lucas Favacho</b>. Oficina prática com foco em <i>Pixel Art e Sprites para Jogos Retro 2D na Godot Engine</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Laboratório Multimídia B",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Oficina ministrada por <b>Rodrigo Sanches</b> apresentando o tema <i>Construção de APIs REST Escaláveis em Node.js e Serverless para Aplicações em Nuvem com Alto Desempenho</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Técnica 1: Arquitetura e Modelagem",
+    "lugar": null,
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": "2025-05-16T18:30:00-03:00",
+    "descricao": "<p>Sessão de mentoria itinerante com os especialistas <b>Juliana Maciel</b>, <b>Felipe Castelo</b> e <b>Carlos Eduardo Paiva</b>.</p>",
+    "secao": "Sessões de Mentoria"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T19:00:00-03:00",
+    "dataFim": "2025-05-16T20:00:00-03:00",
+    "descricao": "<p>Palestrante: <b>Beatriz Mendonça</b>. Tema: <i>Design Sonoro Imersivo e Foley com Recursos Acessíveis para Produções Independentes</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Jantar dos Competidores",
+    "lugar": "Refeitório Universitário",
+    "dataInicio": "2025-05-16T20:00:00-03:00",
+    "dataFim": "2025-05-16T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão Noturno de Suporte Técnico",
+    "lugar": null,
+    "dataInicio": "2025-05-16T23:00:00-03:00",
+    "dataFim": "2025-05-17T02:00:00-03:00",
+    "descricao": "<p>Atendimento de dúvidas com monitores e suporte a bugs críticos, sob liderança de <b>Rafael Lobato</b> e <b>Vinicius Serra</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Café da Manhã dos Sobreviventes",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2025-05-17T07:30:00-03:00",
+    "dataFim": "2025-05-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Checkpoint de Escopo e Progresso",
+    "lugar": null,
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": "<p>Avaliação parcial dos repositórios e branches principais de cada equipe pelos mentores <b>Renata Guedes</b> e <b>Hélio Farias</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Oficina Relâmpago",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Facilitador: <b>Enzo Tavares</b>. Tema: <i>Game Feel e Polimento Visual em Motores 3D</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": "2025-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:15:00-03:00",
+    "descricao": "<p>Apresentação especial com <b>Dra. Lorena Alcolumbre</b>: <i>Desafios Práticos da Implementação de Inteligência Artificial Generativa e Algoritmos Preditivos no Desenvolvimento de Jogos Contemporâneos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Técnica 2: Game Feel e UX/UI",
+    "lugar": null,
+    "dataInicio": "2025-05-17T15:30:00-03:00",
+    "dataFim": "2025-05-17T17:30:00-03:00",
+    "descricao": "<p>Consultoria focada na experiência do jogador e usabilidade do software com <b>Naiara Matos</b> e <b>Gabriel Silveira</b>.</p>",
+    "secao": "Sessões de Mentoria"
+   },
+   {
+    "nome": "Coffee Break da Tarde",
+    "lugar": "Hall do Bloco de Ciência da Computação",
+    "dataInicio": "2025-05-17T17:30:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Playtest Aberto",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2025-05-17T18:30:00-03:00",
+    "dataFim": "2025-05-17T20:30:00-03:00",
+    "descricao": "<p>Momento de troca mútua entre equipes para validação de jogabilidade, teste de estresse de software e coleta de feedback imediato, coordenada por <b>Marcelo Uchôa</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Jantar e Pausa Noturna",
+    "lugar": "Refeitório Universitário",
+    "dataInicio": "2025-05-17T20:30:00-03:00",
+    "dataFim": "2025-05-17T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reta Final de Programação",
+    "lugar": "Laboratório de Redes e Sistemas Distribuídos",
+    "dataInicio": "2025-05-17T22:00:00-03:00",
+    "dataFim": "2025-05-18T06:00:00-03:00",
+    "descricao": "<p>Sprint ininterrupto da madrugada dedicado a correções finais e empacotamento dos executáveis.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2025-05-18T07:00:00-03:00",
+    "dataFim": "2025-05-18T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Oratória e Pitching",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-18T08:30:00-03:00",
+    "dataFim": "2025-05-18T09:30:00-03:00",
+    "descricao": "<p>Palestrante: <b>Larissa Fontes</b>. Estratégias e técnicas para construir uma apresentação de três minutos convincente para bancas de tecnologia e investidores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento das Submissões e Code Freeze",
+    "lugar": null,
+    "dataInicio": "2025-05-18T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Prazo limite improrrogável para upload dos builds, links dos repositórios no GitHub e preenchimento da ficha técnica do projeto.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Validação de Builds e Testes de Homologação",
+    "lugar": "Laboratório Multimídia A",
+    "dataInicio": "2025-05-18T10:15:00-03:00",
+    "dataFim": "2025-05-18T12:00:00-03:00",
+    "descricao": "<p>Checagem técnica dos arquivos submetidos realizada pela equipe técnica liderada por <b>Igor Tolosa</b> e <b>Monique Dias</b>.</p>",
+    "secao": "Banca e Apresentações"
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": null,
+    "dataInicio": "2025-05-18T12:00:00-03:00",
+    "dataFim": "2025-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Pitches Finais",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-18T13:30:00-03:00",
+    "dataFim": "2025-05-18T16:30:00-03:00",
+    "descricao": "<p>Demonstração pública dos jogos e softwares finalizados para a banca julgadora composta por <b>Prof. Anderson Teles</b>, <b>Sabrina Coutinho</b> e <b>Everaldo Neves</b>.</p><p>Trabalhos avaliados:</p><p>- <i>Pororoca VR: Simulador de Marés e Preservação Ribeirinha</i>, por <b>Equipe Tucunaré</b>;</p><p>- <i>Guardiões do Curiaú: Plataforma 2D Educacional</i>, por <b>Equipe Marabaixo Devs</b>;</p><p>- <i>EcoRota Macapá: Logística Inteligente para Resíduos Sólidos</i>, por <b>Equipe Açaí Byte</b>;</p><p>- <i>Fortaleza Defense: Jogo Tático Baseado no Patrimônio Histórico</i>, por <b>Equipe Zero Grau</b>.</p>",
+    "secao": "Banca e Apresentações"
+   },
+   {
+    "nome": "Deliberação dos Jurados",
+    "lugar": null,
+    "dataInicio": "2025-05-18T16:30:00-03:00",
+    "dataFim": "2025-05-18T17:15:00-03:00",
+    "descricao": "<p>Reunião fechada da comissão de avaliação para consolidação das notas e definição das equipes vencedoras por categoria.</p>",
+    "secao": "Banca e Apresentações"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-18T17:30:00-03:00",
+    "dataFim": "2025-05-18T19:00:00-03:00",
+    "descricao": "<p>Anúncio dos premiados nas trilhas Game Jam e Inovação Tecnológica com discursos de encerramento proferidos por <b>Dra. Simone Picanço</b> e convidados de honra.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

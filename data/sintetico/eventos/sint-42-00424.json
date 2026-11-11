@@ -1,0 +1,293 @@
+{
+ "spec": {
+  "id": "sint-42-00424",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Brasília - DF",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 33,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:25+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 4902
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado das Comissões Próprias de Avaliação do Distrito Federal",
+   "local_geral": "Centro Universitário de Brasília - UniCEUB, Campus Asa Norte, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Bloco 3",
+    "dataInicio": "2023-05-17T08:00:00-03:00",
+    "dataFim": "2023-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-17T09:00:00-03:00",
+    "dataFim": "2023-05-17T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento do Reitor <b>Carlos Alberto Mendonça</b> e da coordenadora geral da CPA <b>Renata Silveira Guimarães</b>.</p>",
+    "secao": "Atos Institucionais"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-17T09:45:00-03:00",
+    "dataFim": "2023-05-17T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>A evolução regulatória do Sistema Nacional de Avaliação da Educação Superior e os novos desafios para a gestão acadêmica participativa contemporânea</i>.</p><p>Palestrante: <b>Maria Lúcia Vasconcelos</b>.</p>",
+    "secao": "Atos Institucionais"
+   },
+   {
+    "nome": "Intervalo para Convivência",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2023-05-17T11:00:00-03:00",
+    "dataFim": "2023-05-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-17T11:30:00-03:00",
+    "dataFim": "2023-05-17T12:45:00-03:00",
+    "descricao": "<p>Tema: <i>Engajamento Estudantil na Autoavaliação Institucional: Desafios Metodológicos</i>.</p><p>Participantes: <b>Bruno Fagundes</b> e <b>Camila Duarte Pires</b>. Moderação: <b>Rodrigo Otávio Neves</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-05-17T12:45:00-03:00",
+    "dataFim": "2023-05-17T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica 1",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2023-05-17T14:15:00-03:00",
+    "dataFim": "2023-05-17T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Construção de instrumentos avaliativos para cursos de modalidade a distância</i>.</p><p>Facilitador: <b>Jorge Henrique Salles</b>.</p>",
+    "secao": "Oficinas Práticas de Avaliação"
+   },
+   {
+    "nome": "Oficina Metodológica 2",
+    "lugar": "Laboratório Multiuso B",
+    "dataInicio": "2023-05-17T14:15:00-03:00",
+    "dataFim": "2023-05-17T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Análise quantitativa de dados avaliativos com planilhas e softwares abertos</i>.</p><p>Facilitadora: <b>Mariana Prado Xavier</b>.</p>",
+    "secao": "Oficinas Práticas de Avaliação"
+   },
+   {
+    "nome": "Oficina Metodológica 3",
+    "lugar": "Sala de Capacitação 102",
+    "dataInicio": "2023-05-17T14:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Técnicas de grupos focais e abordagens qualitativas na escuta da comunidade universitária</i>.</p><p>Ministrante: <b>Flávio Castelo Branco</b>.</p>",
+    "secao": "Oficinas Práticas de Avaliação"
+   },
+   {
+    "nome": "Pausa para Lanche",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2023-05-17T16:00:00-03:00",
+    "dataFim": "2023-05-17T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-17T16:30:00-03:00",
+    "dataFim": "2023-05-17T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Autoavaliação como Subsídio para a Revisão do Plano de Desenvolvimento Institucional</i>.</p><p>Expositores: <b>Helena Esteves</b> e <b>Marcio Vinicius Ramos</b>. Coordenação: <b>Viviane Bastos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mostra de Boas Práticas - Eixo 1",
+    "lugar": "Espaço Colaborativo",
+    "dataInicio": "2023-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação oral dos relatos selecionados sobre gestão e planejamento institucional. Coordenação de <b>Patrícia Antunes</b>.</p>",
+    "secao": "Relatos de Experiência"
+   },
+   {
+    "nome": "Mesa Temática 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-18T08:30:00-03:00",
+    "dataFim": "2023-05-18T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>O papel do corpo técnico-administrativo nos relatórios de autoavaliação</i>.</p><p>Debatedores: <b>Guilherme Toledo</b> e <b>Sabrina Alencar</b>.</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-05-18T10:00:00-03:00",
+    "dataFim": "2023-05-18T11:15:00-03:00",
+    "descricao": "<p>Apresentação de <b>Fernando Cesar Montenegro</b> sobre <i>A integração articulada dos relatórios da CPA com as metas de responsabilidade social e desenvolvimento sustentável das instituições universitárias</i>.</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": "Foyer do Bloco 3",
+    "dataInicio": "2023-05-18T11:15:00-03:00",
+    "dataFim": "2023-05-18T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicação Oral 1",
+    "lugar": "Sala 201",
+    "dataInicio": "2023-05-18T11:30:00-03:00",
+    "dataFim": "2023-05-18T12:45:00-03:00",
+    "descricao": "<p>Trabalho apresentado por <b>Diego Meireles</b> e <b>Paula Fontana</b>: <i>Metodologias ativas e o impacto na percepção discente</i>.</p>",
+    "secao": "Comunicações Coordenadas"
+   },
+   {
+    "nome": "Comunicação Oral 2",
+    "lugar": "Sala 202",
+    "dataInicio": "2023-05-18T11:30:00-03:00",
+    "dataFim": "2023-05-18T12:45:00-03:00",
+    "descricao": "<p>Trabalho apresentado por <b>Tatiana Nogueira</b>: <i>Avaliação da infraestrutura física sob a ótica da acessibilidade universal</i>.</p>",
+    "secao": "Comunicações Coordenadas"
+   },
+   {
+    "nome": "Comunicação Oral 3",
+    "lugar": "Sala 203",
+    "dataInicio": "2023-05-18T11:30:00-03:00",
+    "dataFim": "2023-05-18T12:45:00-03:00",
+    "descricao": "<p>Apresentação conduzida por <b>Lucas Barreto</b>: <i>Comunicação interna e divulgação dos relatórios da CPA</i>.</p>",
+    "secao": "Comunicações Coordenadas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-05-18T12:45:00-03:00",
+    "dataFim": "2023-05-18T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Grupos de Trabalho 1",
+    "lugar": "Sala de Seminários A",
+    "dataInicio": "2023-05-18T14:15:00-03:00",
+    "dataFim": "2023-05-18T16:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Indicadores de Pós-Graduação Stricto Sensu e Pesquisa</i> com mediação de <b>Anselmo Guedes</b>.</p>",
+    "secao": "Grupos de Trabalho Temáticos"
+   },
+   {
+    "nome": "Grupos de Trabalho 2",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2023-05-18T14:15:00-03:00",
+    "dataFim": "2023-05-18T16:00:00-03:00",
+    "descricao": "<p>Discussão temática sobre <i>Avaliação da Extensão Universitária e Curricularização</i> coordenada por <b>Bárbara Coimbra</b>.</p>",
+    "secao": "Grupos de Trabalho Temáticos"
+   },
+   {
+    "nome": "Lanche Coletivo",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2023-05-18T16:00:00-03:00",
+    "dataFim": "2023-05-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica Avançada",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2023-05-18T16:30:00-03:00",
+    "dataFim": "2023-05-18T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem e visualização de dados avaliativos para composição de painéis executivos dinâmicos institucionais em plataformas de inteligência de negócios</i>.</p><p>Instrutor: <b>Rogério Cavalcante</b>.</p>",
+    "secao": "Oficinas Práticas de Avaliação"
+   },
+   {
+    "nome": "Mostra de Boas Práticas - Eixo 2",
+    "lugar": "Espaço Colaborativo",
+    "dataInicio": "2023-05-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de pôsteres e trocas de experiências entre comissões. Organização a cargo de <b>Silvia Vasconcellos</b>.</p>",
+    "secao": "Relatos de Experiência"
+   },
+   {
+    "nome": "Mesa Redonda 3",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-19T08:30:00-03:00",
+    "dataFim": "2023-05-19T10:00:00-03:00",
+    "descricao": "<p>Tema central: <i>A autoavaliação institucional no contexto das avaliações in loco do Inep</i>.</p><p>Palestrantes convidados: <b>Valmir Rios</b> e <b>Cláudia Penteado</b>. Moderação de <b>Sônia Regina Albuquerque</b>.</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Painel de Debates 3",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-19T10:00:00-03:00",
+    "dataFim": "2023-05-19T11:15:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Ética, proteção de dados e transparência no tratamento das informações dos questionários institucionais</i>.</p><p>Debatedora: <b>Elisa Fagundes Viana</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer do Auditório",
+    "dataInicio": "2023-05-19T11:15:00-03:00",
+    "dataFim": "2023-05-19T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Coordenadores de CPA",
+    "lugar": "Sala de Atos",
+    "dataInicio": "2023-05-19T11:30:00-03:00",
+    "dataFim": "2023-05-19T13:00:00-03:00",
+    "descricao": "<p>Encontro deliberativo coordenado por <b>Renata Silveira Guimarães</b> e <b>Arnaldo Medeiros</b> para criação da Rede Brasiliense de Avaliação Institucional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-05-19T13:00:00-03:00",
+    "dataFim": "2023-05-19T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Apresentação de Sínteses",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-19T14:30:00-03:00",
+    "dataFim": "2023-05-19T15:45:00-03:00",
+    "descricao": "<p>Apresentação das conclusões dos grupos temáticos e comunicações pelos relatores <b>Bárbara Coimbra</b> e <b>Anselmo Guedes</b>.</p>",
+    "secao": "Encerramento e Deliberações"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-19T15:45:00-03:00",
+    "dataFim": "2023-05-19T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Horizontes da qualidade formativa no ensino superior brasileiro e a consolidação das culturas avaliativas democráticas</i>.</p><p>Conferencista: <b>Antônio Carlos da Rocha</b>.</p>",
+    "secao": "Encerramento e Deliberações"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2023-05-19T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Concerto de cordas sob regência do maestro <b>Marcelo Jardim</b>.</p>",
+    "secao": "Encerramento e Deliberações"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-05-19T17:45:00-03:00",
+    "dataFim": "2023-05-19T18:15:00-03:00",
+    "descricao": "<p>Leitura da Carta de Brasília sobre Avaliação Institucional e agradecimentos finais pela comissão organizadora conduzida por <b>Renata Silveira Guimarães</b>.</p>",
+    "secao": "Encerramento e Deliberações"
+   }
+  ]
+ }
+}

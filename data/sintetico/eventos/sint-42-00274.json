@@ -1,0 +1,364 @@
+{
+ "spec": {
+  "id": "sint-42-00274",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Santa Maria - RS",
+  "ano": 2023,
+  "n_dias": 4,
+  "n_atividades": 42,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:37+00:00",
+ "uso_tokens": {
+  "entrada": 657,
+  "saida": 5358
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVIII Jogos Universitários de Santa Maria - JUSM 2023",
+   "local_geral": "Centro de Educação Física e Desportos (CEFD/UFSM), Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Acolhimento das Delegações",
+    "lugar": "Hall do Prédio 51 (CEFD)",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Acolhimento dos atletas e distribuição dos crachás oficiais coordenado por <b>Juliana Meireles</b> e equipe de apoio discente.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Congresso Técnico Geral",
+    "lugar": "Auditório Suely Oliveira",
+    "dataInicio": "2023-10-19T10:30:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Alinhamento dos regulamentos com os chefes de delegação e sorteio das chaves eliminatórias. Condução pelo diretor técnico <b>Marcos Vinícius Pozzobon</b>.</p>",
+    "secao": "Reuniões Técnicas"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:00:00-03:00",
+    "dataFim": "2023-10-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Futsal Masculino - Jogo 1",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T14:45:00-03:00",
+    "descricao": "<p>Fase de grupos: Engenharia UFSM vs. Medicina UFN. Apita o árbitro <b>Rogério Becker</b>.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Voleibol Feminino - Jogo 1",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T14:45:00-03:00",
+    "descricao": "<p>Fase de grupos: Direito UFSM vs. Educação Física URCAMP.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Futsal Masculino - Jogo 2",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-19T15:00:00-03:00",
+    "dataFim": "2023-10-19T16:15:00-03:00",
+    "descricao": "<p>Fase de grupos: Agronomia vs. Comunicação Social.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Voleibol Feminino - Jogo 2",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-19T15:00:00-03:00",
+    "dataFim": "2023-10-19T16:15:00-03:00",
+    "descricao": "<p>Fase de grupos: Odontologia vs. Arquitetura.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Concentração dos Atletas",
+    "lugar": null,
+    "dataInicio": "2023-10-19T17:30:00-03:00",
+    "dataFim": "2023-10-19T18:30:00-03:00",
+    "descricao": "<p>Organização das delegações para o desfile de abertura dos jogos.</p>",
+    "secao": "Cerimônia de Abertura"
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2023-10-19T19:00:00-03:00",
+    "dataFim": "2023-10-19T21:00:00-03:00",
+    "descricao": "<p>Desfile das atléticas, juramento do atleta conduzido por <b>Camila Duarte</b> e acendimento da pira olímpica pelo reitor <b>Luciano Schuch</b>.</p>",
+    "secao": "Cerimônia de Abertura"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2023-10-19T21:15:00-03:00",
+    "dataFim": "2023-10-19T22:30:00-03:00",
+    "descricao": "<p>Apresentação especial do espetáculo <i>Canto Missioneiro e Expressão Corporal</i> pelo grupo de dança universitário coordenado por <b>Tânia Farias</b>.</p>",
+    "secao": "Cerimônia de Abertura"
+   },
+   {
+    "nome": "Handebol Feminino - Jogo 1",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-20T08:00:00-03:00",
+    "dataFim": "2023-10-20T09:15:00-03:00",
+    "descricao": "<p>Fase classificatória da modalidade feminina entre Atlética da Saúde e Atlética Humanas.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Basquetebol Masculino - Jogo 1",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-20T08:00:00-03:00",
+    "dataFim": "2023-10-20T09:30:00-03:00",
+    "descricao": "<p>Partida eliminatória preliminar. Arbitragem de <b>Carlos Henrique Antunes</b>.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Eliminatórias de Natação",
+    "lugar": "Parque Aquático",
+    "dataInicio": "2023-10-20T09:00:00-03:00",
+    "dataFim": "2023-10-20T11:45:00-03:00",
+    "descricao": "<p>Provas de 50m livre, 100m peito e 4x50m medley sob coordenação do árbitro geral <b>Fernando Silveira</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Handebol Feminino - Jogo 2",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-20T09:30:00-03:00",
+    "dataFim": "2023-10-20T10:45:00-03:00",
+    "descricao": "<p>Fase classificatória: Fisioterapia vs. Ciências Sociais.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Basquetebol Masculino - Jogo 2",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-20T09:45:00-03:00",
+    "dataFim": "2023-10-20T11:15:00-03:00",
+    "descricao": "<p>Partida eliminatória da chave B.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": "Auditório Suely Oliveira",
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Tema central: <i>Saúde Mental e Desempenho no Esporte Universitário</i>, mediada pela psicóloga <b>Carla Vianna</b>, com presença do médico do esporte <b>Rodrigo Dornelles</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:30:00-03:00",
+    "dataFim": "2023-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Futsal Feminino - Jogo 1",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T14:45:00-03:00",
+    "descricao": "<p>Primeira rodada classificatória: Educação Física vs. Enfermagem.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Voleibol Masculino - Jogo 1",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T15:00:00-03:00",
+    "descricao": "<p>Chave A: Engenharia Civil vs. Direito.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Torneio de Xadrez Rápido",
+    "lugar": "Sala de Reuniões 102",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T18:00:00-03:00",
+    "descricao": "<p>Disputa individual em sistema suíço em 5 rodadas com arbitragem de <b>Guilherme Dorneles</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Futsal Feminino - Jogo 2",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-20T15:00:00-03:00",
+    "dataFim": "2023-10-20T16:15:00-03:00",
+    "descricao": "<p>Primeira rodada: Veterinária vs. Odontologia.</p>",
+    "secao": "Torneios - Fase Classificatória"
+   },
+   {
+    "nome": "Reunião da Comissão Disciplinar",
+    "lugar": null,
+    "dataInicio": "2023-10-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Julgamento de relatórios de arbitragem e recursos da primeira rodada presidida por <b>Lucas Arantes</b>.</p>",
+    "secao": "Reuniões Técnicas"
+   },
+   {
+    "nome": "Eliminatórias de Atletismo",
+    "lugar": "Pista de Atletismo da UFSM",
+    "dataInicio": "2023-10-21T08:00:00-03:00",
+    "dataFim": "2023-10-21T11:30:00-03:00",
+    "descricao": "<p>Provas de 100m rasos, revezamento 4x100m e salto em distância sob a supervisão técnica de <b>Marta Helena Bastos</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Futsal Masculino - Semifinal 1",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-21T09:00:00-03:00",
+    "dataFim": "2023-10-21T10:15:00-03:00",
+    "descricao": "<p>Confronto da primeira semifinal masculina.</p>",
+    "secao": "Torneios - Semifinais"
+   },
+   {
+    "nome": "Voleibol Feminino - Semifinal 1",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-21T09:00:00-03:00",
+    "dataFim": "2023-10-21T10:30:00-03:00",
+    "descricao": "<p>Primeira disputa pela vaga na grande final.</p>",
+    "secao": "Torneios - Semifinais"
+   },
+   {
+    "nome": "Futsal Masculino - Semifinal 2",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-21T10:30:00-03:00",
+    "dataFim": "2023-10-21T11:45:00-03:00",
+    "descricao": "<p>Confronto da segunda semifinal masculina.</p>",
+    "secao": "Torneios - Semifinais"
+   },
+   {
+    "nome": "Voleibol Feminino - Semifinal 2",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-21T10:45:00-03:00",
+    "dataFim": "2023-10-21T12:00:00-03:00",
+    "descricao": "<p>Segunda semifinal feminina com arbitragem de <b>Renata Peixoto</b>.</p>",
+    "secao": "Torneios - Semifinais"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": null,
+    "dataInicio": "2023-10-21T12:00:00-03:00",
+    "dataFim": "2023-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Torneio de Judô Universitário",
+    "lugar": "Dojô do CEFD",
+    "dataInicio": "2023-10-21T13:30:00-03:00",
+    "dataFim": "2023-10-21T16:30:00-03:00",
+    "descricao": "<p>Lutas individuais nas categorias peso leve, médio e pesado. Coordenador da mesa: <b>Sensei Paulo Ricardo Ramos</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Basquetebol Masculino - Semifinal 1",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-21T14:00:00-03:00",
+    "dataFim": "2023-10-21T15:30:00-03:00",
+    "descricao": "<p>Disputa de vaga para a decisão de basquete masculino.</p>",
+    "secao": "Torneios - Semifinais"
+   },
+   {
+    "nome": "Futsal Feminino - Semifinal 1",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-21T14:30:00-03:00",
+    "dataFim": "2023-10-21T15:45:00-03:00",
+    "descricao": "<p>Definição da primeira finalista do futsal feminino.</p>",
+    "secao": "Torneios - Semifinais"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Suely Oliveira",
+    "dataInicio": "2023-10-21T16:30:00-03:00",
+    "dataFim": "2023-10-21T18:00:00-03:00",
+    "descricao": "<p>Subtítulo do encontro: <i>Nutrição Esportiva Aplicada ao Rendimento de Atletas Universitários</i>, ministrada pela nutricionista <b>Sabrina Fontoura</b>.</p>",
+    "secao": "Ciclo Formativo"
+   },
+   {
+    "nome": "Festa dos Atletas",
+    "lugar": null,
+    "dataInicio": "2023-10-21T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização e integração oficial entre as delegações universitárias com discotecagem do <b>DJ Bruno Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Finais de Natação e Premiação por Equipes",
+    "lugar": "Parque Aquático",
+    "dataInicio": "2023-10-22T08:30:00-03:00",
+    "dataFim": "2023-10-22T10:30:00-03:00",
+    "descricao": "<p>Baterias finais e entrega de medalhas presidida pela delegada técnica <b>Cristina Silveira</b>.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Final do Handebol Feminino",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-22T09:00:00-03:00",
+    "dataFim": "2023-10-22T10:30:00-03:00",
+    "descricao": "<p>Decisão do título de handebol feminino da edição 2023.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Final do Voleibol Feminino",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-22T10:30:00-03:00",
+    "dataFim": "2023-10-22T12:00:00-03:00",
+    "descricao": "<p>Disputa da medalha de ouro do vôlei feminino.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Final do Basquetebol Masculino",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2023-10-22T13:00:00-03:00",
+    "dataFim": "2023-10-22T14:30:00-03:00",
+    "descricao": "<p>Grande final masculina da modalidade basquete.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Final do Futsal Feminino",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-22T13:30:00-03:00",
+    "dataFim": "2023-10-22T14:45:00-03:00",
+    "descricao": "<p>Decisão de 1º e 2º lugar feminino.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Final do Futsal Masculino",
+    "lugar": "Ginásio 1",
+    "dataInicio": "2023-10-22T15:00:00-03:00",
+    "dataFim": "2023-10-22T16:30:00-03:00",
+    "descricao": "<p>Partida decisiva valendo a taça de campeão geral de futsal.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Cerimônia de Premiação Geral",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2023-10-22T17:00:00-03:00",
+    "dataFim": "2023-10-22T18:30:00-03:00",
+    "descricao": "<p>Outorga dos troféus de atlética campeã geral e melhor torcida pela coordenadora geral <b>Daniela Fagan</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2023-10-22T18:30:00-03:00",
+    "dataFim": "2023-10-22T19:30:00-03:00",
+    "descricao": "<p>Extinção do fogo simbólico e discurso oficial do pró-reitor <b>Flávio Medeiros</b>, declarando encerrada a edição dos jogos.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Desmobilização das Delegações",
+    "lugar": null,
+    "dataInicio": "2023-10-22T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "spec": {
+  "id": "sint-42-00374",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Natal - RN",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 20,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:48+00:00",
+ "uso_tokens": {
+  "entrada": 670,
+  "saida": 2893
+ },
+ "saida": {
+  "evento": {
+   "nome": "Potiguar Tech Summit & Hackathon 2027",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Entrega de Kits",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-20T08:00:00-03:00",
+    "dataFim": "2027-05-20T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-20T09:30:00-03:00",
+    "dataFim": "2027-05-20T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a coordenadora-geral <b>Marina Fagundes</b> e o representante da federação de tecnologia <b>Carlos Eduardo Pontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Corporativa 1",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:45:00-03:00",
+    "descricao": "<p><i>Arquiteturas Resilientes em Nuvem Híbrida: Desafios Globais</i>, apresentada pelo engenheiro sênior <b>Rodrigo Barreto</b> (CloudNative Solutions).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:00:00-03:00",
+    "dataFim": "2027-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lançamento e Divulgação dos Desafios",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": "2027-05-20T14:30:00-03:00",
+    "descricao": "<p>Apresentação dos temas de impacto socioambiental para a maratona de desenvolvimento com <b>Beatriz Alencar</b> e <b>Igor Medeiros</b>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Palestra Corporativa 2",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T15:45:00-03:00",
+    "descricao": "<p><i>Inteligência Artificial Aplicada a Pagamentos Instantâneos e Prevenção a Fraudes</i>, ministrada por <b>Juliana Vasconcelos</b> (FinTech Nordeste).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Início do Coding e Formação de Equipes",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2027-05-20T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Disponibilização de infraestrutura e alinhamento inicial dos participantes supervisionado pelo mentor-chefe <b>Fernando Galvão</b>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Networking e Café da Tarde",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Corporativa 3",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-20T16:45:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p><i>Do Monólito aos Microsserviços Reativos: Histórias de Trincheira</i> com a arquiteta de software <b>Patrícia Antunes</b> (TechVentures).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Mentoria Técnica de Soluções",
+    "lugar": null,
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Sessão de mentoria especializada para as equipes inscritas no hackathon, com apoio de <b>Thiago Meireles</b> e <b>Camila Siqueira</b>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Palestra Corporativa 4",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T11:15:00-03:00",
+    "descricao": "<p><i>Cibersegurança Ofensiva na Era da Automação de Exploits</i>, conduzida pelo consultor <b>Henrique Varela</b> (SecGuard Brasil).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Intervalo Livre para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel com Startups Potiguares",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Inovação Fora do Eixo Sudeste: Oportunidades no Polo Tecnológico de Natal</i>. Moderação de <b>Renata Albuquerque</b> e participações de <b>Daniel Coutinho</b> e <b>Aline Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria de Pitch e Modelo de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Auxílio focado em validação de valor e técnicas de apresentação rápida com a investidora <b>Sofia Kramer</b>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Palestra Corporativa 5",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:15:00-03:00",
+    "descricao": "<p><i>Green Computing: Sustentabilidade e Otimização Energética de Datacenters</i> ministrada por <b>Marcos Vinícius Lira</b> (EcoTech Global).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Prazo Final de Submissão dos Projetos",
+    "lugar": null,
+    "dataInicio": "2027-05-22T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento do commit final e envio dos protótipos na plataforma sob supervisão de <b>Fernando Galvão</b>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Palestra Corporativa 6",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-22T10:30:00-03:00",
+    "dataFim": "2027-05-22T11:45:00-03:00",
+    "descricao": "<p><i>Engenharia de Plataforma e o Futuro do Desenvolvedor Moderno</i>, ministrada por <b>Letícia Ramalho</b> (PlatformIO).</p>",
+    "secao": "Palestras de Empresas"
+   },
+   {
+    "nome": "Apresentação dos Projetos Finalistas",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-22T14:00:00-03:00",
+    "dataFim": "2027-05-22T16:30:00-03:00",
+    "descricao": "<p>Banca avaliadora de pitches com os jurados convidados: <b>Sofia Kramer</b>, <b>Rodrigo Barreto</b> e <b>Carlos Eduardo Pontes</b>.</p>",
+    "secao": "Hackathon Potiguar"
+   },
+   {
+    "nome": "Premiação do Hackathon",
+    "lugar": "Auditório Dunas",
+    "dataInicio": "2027-05-22T17:00:00-03:00",
+    "dataFim": "2027-05-22T18:00:00-03:00",
+    "descricao": "<p>Anúncio dos três melhores projetos e entrega dos troféus por <b>Marina Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2027-05-22T18:00:00-03:00",
+    "dataFim": "2027-05-22T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

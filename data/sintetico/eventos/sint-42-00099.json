@@ -1,0 +1,67 @@
+{
+ "spec": {
+  "id": "sint-42-00099",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Natal - RN",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:52+00:00",
+ "uso_tokens": {
+  "entrada": 636,
+  "saida": 816
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia de Petróleo da UFRN",
+   "local_geral": "Setor de Aulas Teóricas IV, Campus Central da UFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura e Boas-Vindas",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2026-05-18T08:30:00-03:00",
+    "dataFim": "2026-05-18T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial com o coordenador do curso <b>Prof. Carlos Eduardo Silveira</b> e o diretor de centro <b>Prof. Marcos Aurélio Bezerra</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2026-05-18T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da palestra <i>Desafios da Transição Energética e a Descarbonização da Bacia Potiguar</i>, ministrada pela engenheira <b>Juliana Falcão Medeiros</b>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Inovações em Recuperação Avançada de Petróleo (EOR) em Campos Maduros</i> pelo consultor <b>Roberto Guimarães da Silva</b>.</p>",
+    "secao": "Palestras Técnicas"
+   },
+   {
+    "nome": "Minicurso",
+    "lugar": "Laboratório de Informática II",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T17:30:00-03:00",
+    "descricao": "<p>Prática sobre <i>Introdução à Simulação Numérica de Reservatórios com Open Porous Media</i>, conduzida pelo pós-graduando <b>Lucas Varela Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Otto de Brito Guerra",
+    "dataInicio": "2026-05-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão com a participação de egressos do curso, incluindo <b>Mariana Costa Diniz</b> e <b>Felipe Albuquerque Santiago</b>, sobre trajetórias profissionais e inserção na indústria offshore.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

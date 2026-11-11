@@ -1,0 +1,341 @@
+{
+ "spec": {
+  "id": "sint-42-00302",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Manaus - AM",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 39,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:40+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 6634
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Pan-Amazônico de Direito Ambiental e Sustentabilidade",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-21T08:00:00-03:00",
+    "dataFim": "2024-08-21T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-21T09:30:00-03:00",
+    "dataFim": "2024-08-21T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do presidente da comissão organizadora <b>Dr. Thiago Brandão Cavalcante</b> e pronunciamento da desembargadora <b>Dra. Socorro Guedes Moura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-21T10:30:00-03:00",
+    "dataFim": "2024-08-21T12:00:00-03:00",
+    "descricao": "<p>Conferencista: <b>Ministro Herman Benjamin</b>.</p><p>Tema: <i>O Princípio da Proibição do Retrocesso Ecológico na Jurisprudência Superior</i>.</p><p>Coordenação: <b>Dra. Maristela Silva de Oliveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-21T12:00:00-03:00",
+    "dataFim": "2024-08-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2024-08-21T14:00:00-03:00",
+    "dataFim": "2024-08-21T15:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Litigância Climática e Tutela dos Direitos Indígenas</i>.</p><p>Coordenação de <b>Dra. Fabíola Nogueira Bentes</b>.</p><p>Expositores convidados: <b>Dr. Almir Suruí</b> apresentando <i>A Proteção Territorial como Garantia Climática</i> e <b>Prof. Ingo Wolfgang Sarlet</b> com a reflexão <i>Deveres de Proteção do Estado Brasileiro Frente às Mudanças Globais</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2024-08-21T16:00:00-03:00",
+    "dataFim": "2024-08-21T17:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Valoração do Dano Ambiental em Ecossistemas Tropicais</i>.</p><p>Coordenador: <b>Dr. Paulo Afonso Leme Machado</b>.</p><p>Palestrantes: <b>Dra. Édis Milaré</b> explanando <i>Critérios Periciais de Reparação Integral</i> e <b>Dr. Leonardo de Almeida Chaves</b> apresentando <i>Jurisprudência Aplicada aos Crimes Contra a Flora Amazônica</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall das Cestas",
+    "dataInicio": "2024-08-21T17:30:00-03:00",
+    "dataFim": "2024-08-21T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis de Pesquisa 1",
+    "lugar": null,
+    "dataInicio": "2024-08-21T18:00:00-03:00",
+    "dataFim": "2024-08-21T19:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos com coordenação de <b>Dra. Cristina Maria Seixas</b>.</p><p>Trabalhos selecionados:</p><p>1. <i>Mercado Voluntário de Carbono na Amazônia Ocidental</i> por <b>Renan Siqueira Viana</b>.</p><p>2. <i>Conflitos Fundiários e Reserva Extrativista do Médio Purus</i> por <b>Juliana Pantoja de Castro</b> e <b>Carlos Eduardo Neves</b>.</p><p>3. <i>Eficácia das Medidas Liminares em Ações Civis Públicas Ambientais no Amazonas</i> por <b>Rodrigo Peixoto Lins</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Lançamento Coletivo de Livros Jurídicos",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-21T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos com as presenças de <b>Dr. Tiago Fensterseifer</b>, <b>Dra. Sandra Cureau</b> e <b>Dr. Gabriel Wedy</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática A",
+    "lugar": "Sala Nobre 1",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T10:00:00-03:00",
+    "descricao": "<p>Instrução conduzida por <b>Dra. Vanessa Hasson</b>.</p><p>Assunto: <i>Elaboração de Termos de Ajustamento de Conduta Ambiental</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Prática B",
+    "lugar": "Sala Nobre 2",
+    "dataInicio": "2024-08-22T08:30:00-03:00",
+    "dataFim": "2024-08-22T10:00:00-03:00",
+    "descricao": "<p>Instrução conduzida por <b>Dr. Marcelo Buzaglo Dantas</b>.</p><p>Assunto: <i>Processo Administrativo Sancionador perante o IBAMA e Órgãos Estaduais</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Café da Manhã de Relacionamento",
+    "lugar": "Hall das Cestas",
+    "dataInicio": "2024-08-22T10:00:00-03:00",
+    "dataFim": "2024-08-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-22T10:30:00-03:00",
+    "dataFim": "2024-08-22T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Maria Luiza Grabner</b>.</p><p>Painelistas: <b>Dra. Samara Pataxó</b> ministrando <i>Consulta Prévia Livre e Informada: A Convenção 169 da OIT na Prática Judiciária</i> e <b>Dr. Daniel Sarmento</b> abordando <i>Constitucionalismo Ecológico e Proteção de Povos Tradicionais</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-08-22T12:00:00-03:00",
+    "dataFim": "2024-08-22T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-22T13:45:00-03:00",
+    "dataFim": "2024-08-22T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Bioeconomia e Regulação Jurídica do Patrimônio Genético</i>.</p><p>Coordenadora: <b>Dra. Elida Séguin</b>.</p><p>Debatedores: <b>Prof. Marcus Vinicius Lisboa Furtado</b> com a apresentação <i>Marco Legal da Biodiversidade e Acesso a Recursos Genéticos</i> e <b>Dra. Ana Flávia Granja e Barros</b> apresentando <i>Inovação Biotecnológica e Soberania Nacional</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Sessão Especial de Jurisprudência Comparada",
+    "lugar": null,
+    "dataInicio": "2024-08-22T15:45:00-03:00",
+    "dataFim": "2024-08-22T17:15:00-03:00",
+    "descricao": "<p>Análise comparada entre Brasil, Colômbia e Peru.</p><p>Expositor principal: <b>Dr. Ramiro Ávila Santamaría</b>.</p><p>Comentários: <b>Dra. Patricia Borba Marinho</b> e <b>Dr. Gonzalo Zambrano</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Hall das Cestas",
+    "dataInicio": "2024-08-22T17:15:00-03:00",
+    "dataFim": "2024-08-22T17:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis de Pesquisa 2",
+    "lugar": null,
+    "dataInicio": "2024-08-22T17:45:00-03:00",
+    "dataFim": "2024-08-22T19:15:00-03:00",
+    "descricao": "<p>Avaliador-chefe: <b>Prof. Helton Haruo Terada</b>.</p><p>Apresentações orais de resumos expandidos:</p><p>1. <i>Mineração Ilegal em Terras Yanomami e Responsabilização Internacional do Estado</i> por <b>Lucas Medeiros Barreto</b>.</p><p>2. <i>Tributação Verde e Incentivos Fiscais no Polo Industrial de Manaus</i> por <b>Beatriz Figueiredo Cunha</b>.</p><p>3. <i>A Aplicação da Teoria do Risco Integral aos Desastres Ecológicos</i> por <b>Guilherme Antunes Prado</b> e <b>Sabrina Alencar Vilela</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Reunião Ordinária da Rede de Promotores Ambientais",
+    "lugar": "Sala de Reuniões 3",
+    "dataInicio": "2024-08-22T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Convocação do coordenador-geral <b>Dr. Luciano Furtado Loubet</b> com a participação do relator <b>Dr. Fernando Reverendo Vidal Akaoui</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 5",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2024-08-23T08:30:00-03:00",
+    "dataFim": "2024-08-23T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Governança das Águas e o Novo Marco Legal do Saneamento Básico</i>.</p><p>Coordenação: <b>Dra. Clarissa Brandão Pires</b>.</p><p>Palestras de <b>Dr. Delton Winter de Carvalho</b> apresentando <i>Gerenciamento de Riscos e Segurança Hídrica</i> e <b>Dra. Cristiane Derani</b> com o tema <i>Acesso Universal à Água Potável nas Populações Ribeirinhas</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-23T10:15:00-03:00",
+    "dataFim": "2024-08-23T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 6",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2024-08-23T10:45:00-03:00",
+    "dataFim": "2024-08-23T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Crimes Ambientais Transfronteiriços e Cooperação Jurídica Internacional</i>.</p><p>Coordenador: <b>Dr. Vladimir Aras</b>.</p><p>Expositores: <b>Dra. Denise Neves Abade</b> com <i>Tráfico Ilícito de Madeira e Operações Conjuntas</i> e <b>Dr. Jorge Octavio Lavocat Galvão</b> proferindo a aula <i>Inteligência Financeira no Combate ao Garimpo Clandestino</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Pausa para Refeição",
+    "lugar": null,
+    "dataInicio": "2024-08-23T12:30:00-03:00",
+    "dataFim": "2024-08-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática C",
+    "lugar": "Sala Nobre 1",
+    "dataInicio": "2024-08-23T14:00:00-03:00",
+    "dataFim": "2024-08-23T15:30:00-03:00",
+    "descricao": "<p>Treinamento com <b>Dr. Werner Grau Neto</b> sobre <i>Auditoria e Compliance Socioambiental Corporativo (ESG)</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Prática D",
+    "lugar": "Sala Nobre 2",
+    "dataInicio": "2024-08-23T14:00:00-03:00",
+    "dataFim": "2024-08-23T15:30:00-03:00",
+    "descricao": "<p>Atividade ministrada por <b>Dra. Erika Bechara</b> abordando <i>A Utilização de Drones e Satélites como Prova no Processo Civil Ambiental</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa-Redonda 7",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-23T15:45:00-03:00",
+    "dataFim": "2024-08-23T17:30:00-03:00",
+    "descricao": "<p>Painel: <i>Direito Urbanístico e Adaptação Climática nas Cidades da Pan-Amazônia</i>.</p><p>Coordenação: <b>Prof. Betânia de Moraes Alfonsin</b>.</p><p>Palestrantes: <b>Dr. Nelson Saule Júnior</b> abordando <i>Zonas Especiais de Interesse Social e Risco Geológico</i> e <b>Dra. Daniela Campos Libório</b> ministrando <i>Políticas Públicas Resilientes e Prevenção de Enchentes Urbanas</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Coffee Break Vespertino",
+    "lugar": "Hall das Cestas",
+    "dataInicio": "2024-08-23T17:30:00-03:00",
+    "dataFim": "2024-08-23T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis de Pesquisa 3",
+    "lugar": null,
+    "dataInicio": "2024-08-23T18:00:00-03:00",
+    "dataFim": "2024-08-23T19:30:00-03:00",
+    "descricao": "<p>Sessão mediada por <b>Dra. Talita Furtado Montezuma</b>.</p><p>Comunicações orais:</p><p>1. <i>Segurança Alimentar e Direito Agroecológico em Comunidades Ribeirinhas do Baixo Amazonas</i> por <b>Monique Vasconcelos Rios</b>.</p><p>2. <i>O Papel da Defensoria Pública na Defesa Coletiva dos Catadores de Manaus</i> por <b>Felipe Santana Magalhães</b>.</p><p>3. <i>Ecocídio: Desafios Dogmáticos para a Tipificação no Estatuto de Roma</i> por <b>Lorena Castello Branco</b> e <b>Arthur Guimarães Teles</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-23T19:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical da orquestra de violões de Manaus com coordenação cultural de <b>Maestro Davi Nunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Jovens Juristas Ambientais",
+    "lugar": null,
+    "dataInicio": "2024-08-24T08:30:00-03:00",
+    "dataFim": "2024-08-24T10:00:00-03:00",
+    "descricao": "<p>Mesa de debates com jovens advogados e pesquisadores sob coordenação de <b>Dra. Raíssa Pimentel Mendes</b> e comentários de <b>Dr. Marcelo Pedroso Goulart</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-24T10:00:00-03:00",
+    "dataFim": "2024-08-24T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 8",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-24T10:30:00-03:00",
+    "dataFim": "2024-08-24T12:00:00-03:00",
+    "descricao": "<p>Mesa sobre <i>Transição Energética Justa e Usinas Hidrelétricas na Bacia Amazônica</i>.</p><p>Coordenadora: <b>Dra. Carolina Dutra</b>.</p><p>Participantes: <b>Dr. Celso Antônio Pacheco Fiorillo</b> com a exposição <i>Tutela Constitucional da Energia Limpa sem Danos Socioambientais</i> e <b>Dr. Célio Bermann</b> apresentando <i>Os Custos Ocultos dos Grandes Empreendimentos Energéticos</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-24T12:00:00-03:00",
+    "dataFim": "2024-08-24T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Grupos de Trabalho",
+    "lugar": "Sala de Reuniões 1",
+    "dataInicio": "2024-08-24T13:30:00-03:00",
+    "dataFim": "2024-08-24T15:00:00-03:00",
+    "descricao": "<p>Sessão deliberativa para consolidação dos enunciados doutrinários.</p><p>Secretariada por <b>Dr. Roberto Senise Lisboa</b> e <b>Dra. Annelise Steigleder</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 9",
+    "lugar": "Auditório Rio Solimões",
+    "dataInicio": "2024-08-24T15:00:00-03:00",
+    "dataFim": "2024-08-24T16:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Direito dos Animais e Biodiversidade Silvestre</i>.</p><p>Coordenação: <b>Dra. Danielle Tetü Rodrigues</b>.</p><p>Conferências ministradas por <b>Dr. Heron José de Santana Gordilho</b> com <i>Habeas Corpus para Grandes Primatas e Personalidade Jurídica Animal</i> e <b>Dra. Vânia Tuglio</b> discutindo <i>Maus-tratos e Repressão Penal no Tráfico de Fauna</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Coffee Break Final",
+    "lugar": "Hall das Cestas",
+    "dataInicio": "2024-08-24T16:30:00-03:00",
+    "dataFim": "2024-08-24T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Plenária de Encerramento",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-24T17:00:00-03:00",
+    "dataFim": "2024-08-24T18:30:00-03:00",
+    "descricao": "<p>Conferência magna de encerramento ministrada por <b>Prof. Antônio Augusto Cançado Trindade in memoriam</b> através de homenagem especial pelo relator <b>Dr. Paulo de Bessa Antunes</b> com o tema <i>Humanização do Direito Internacional e Proteção Planetária</i>.</p><p>Presidência de mesa por <b>Dra. Sílvia Cappelli</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Leitura e Aprovação da Carta de Manaus",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2024-08-24T18:30:00-03:00",
+    "dataFim": "2024-08-24T19:30:00-03:00",
+    "descricao": "<p>Apresentação solene do documento final aprovado pelos congressistas, lido pelo secretário-geral <b>Dr. Álvaro Luís Valery Mirra</b> e referendado por <b>Dra. Maria Cláudia da Silva Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2024-08-24T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

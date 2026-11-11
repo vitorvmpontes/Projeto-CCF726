@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-42-00125",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Natal - RN",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 10,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:13+00:00",
+ "uso_tokens": {
+  "entrada": 675,
+  "saida": 1402
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Potiguar de Inteligência Artificial Aplicada",
+   "local_geral": "Centro de Tecnologia, UFRN, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall de Entrada do CIVT",
+    "dataInicio": "2024-08-14T08:00:00-03:00",
+    "dataFim": "2024-08-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-08-14T09:30:00-03:00",
+    "dataFim": "2024-08-14T12:00:00-03:00",
+    "descricao": "<p>Primeira parte do curso <i>Introdução ao Aprendizado Profundo com PyTorch</i>, ministrado pelo <b>Prof. Dr. Cláudio Bezerra</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-08-14T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2024-08-15T09:00:00-03:00",
+    "dataFim": "2024-08-15T12:00:00-03:00",
+    "descricao": "<p>Continuação prática do curso <i>Introdução ao Aprendizado Profundo com PyTorch</i> conduzido pelo <b>Prof. Dr. Cláudio Bezerra</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-08-15T12:00:00-03:00",
+    "dataFim": "2024-08-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-08-15T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação sobre <i>Modelos de Linguagem de Grande Porte e Aplicações Industriais</i> com a engenheira sênior <b>Mariana Vasconcelos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-08-16T09:00:00-03:00",
+    "dataFim": "2024-08-16T12:00:00-03:00",
+    "descricao": "<p>Treinamento prático <i>Visão Computacional Aplicada a Veículos Autônomos</i> com o pesquisador <b>Thiago Mendonça</b> e assistência de <b>Juliana Freire</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-08-16T14:30:00-03:00",
+    "dataFim": "2024-08-16T16:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios Éticos e Regulamentação da IA no Brasil</i> reunindo <b>Dra. Fernanda Albuquerque</b> e <b>Prof. Marcelo Dantas</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-08-17T10:00:00-03:00",
+    "dataFim": "2024-08-17T11:30:00-03:00",
+    "descricao": "<p>Sessão com o tema <i>IA Explicável: Da Teoria à Prática Clínica</i> ministrada pelo <b>Dr. Roberto Guedes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-08-17T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Cerimônia de encerramento do workshop e premiação dos melhores trabalhos apresentados, coordenada por <b>Renata Sales</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

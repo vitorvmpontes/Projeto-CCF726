@@ -1,0 +1,300 @@
+{
+ "spec": {
+  "id": "sint-42-00447",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 34,
+  "casos": [
+   "titulos_longos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:04+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 4716
+ },
+ "saida": {
+  "evento": {
+   "nome": "Carioca Game Jam & DevHack 2024",
+   "local_geral": "Hub de Inovação Porto Maravalley, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in de Participantes",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-16T08:00:00-03:00",
+    "dataFim": "2024-08-16T09:00:00-03:00",
+    "descricao": "<p>Distribuição de crachás, kits oficiais e boas-vindas com a coordenação de <b>Renata Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café de Boas-Vindas",
+    "lugar": "Lounge de Convivência",
+    "dataInicio": "2024-08-16T09:00:00-03:00",
+    "dataFim": "2024-08-16T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2024-08-16T09:30:00-03:00",
+    "dataFim": "2024-08-16T10:15:00-03:00",
+    "descricao": "<p>Apresentação das regras gerais, anúncio dos patrocinadores e revelação do tema surpresa com <b>Thiago Mendonça</b> e <b>Camila Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2024-08-16T10:15:00-03:00",
+    "dataFim": "2024-08-16T11:15:00-03:00",
+    "descricao": "<p>Apresentação de <i>Desenvolvimento Rápido de Jogos Eletrônicos com Godot e Boas Práticas para Equipes Multidisciplinares em Competições e Maratonas Universitárias de Alta Intensidade</i>, conduzida por <b>Lucas Medeiros</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Pão de Açúcar",
+    "dataInicio": "2024-08-16T11:15:00-03:00",
+    "dataFim": "2024-08-16T12:00:00-03:00",
+    "descricao": "<p>Apresentação de <i>Shaders e Otimização para Mobile</i> pelo especialista <b>Eduardo Farias</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-08-16T12:00:00-03:00",
+    "dataFim": "2024-08-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Formação de Equipes e Ideação",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-16T13:30:00-03:00",
+    "dataFim": "2024-08-16T14:30:00-03:00",
+    "descricao": "<p>Dinâmica para formação de times e estruturação do pitch inicial facilitada por <b>Juliana Paes Barreto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Lab de Criação A",
+    "dataInicio": "2024-08-16T14:30:00-03:00",
+    "dataFim": "2024-08-16T16:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Modelagem Low-Poly no Blender</i> ministrada pela artista 3D <b>Beatriz Rocha</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Lab de Criação B",
+    "dataInicio": "2024-08-16T14:30:00-03:00",
+    "dataFim": "2024-08-16T16:00:00-03:00",
+    "descricao": "<p>Prática de <i>Fundamentos de Trilha Sonora Dinâmica com FMOD</i> ministrada por <b>Rodrigo Vianna</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Lounge de Convivência",
+    "dataInicio": "2024-08-16T16:00:00-03:00",
+    "dataFim": "2024-08-16T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Início Oficial do Desenvolvimento",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-16T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Disparo do cronômetro da hackathon e abertura dos servidores de deploy com <b>Thiago Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Primeira Rodada de Mentorias Técnicas",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-16T18:00:00-03:00",
+    "dataFim": "2024-08-16T20:00:00-03:00",
+    "descricao": "<p>Apoio de arquitetura de software e game design com <b>Gabriel Antunes</b>, <b>Aline Fonseca</b> e <b>Marcos Vinicius Lima</b>.</p>",
+    "secao": "Sessões de Mentoria"
+   },
+   {
+    "nome": "Jantar dos Competidores",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-08-16T20:00:00-03:00",
+    "dataFim": "2024-08-16T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Corujão de Programação: Bloco 1",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-16T22:00:00-03:00",
+    "dataFim": "2024-08-17T02:00:00-03:00",
+    "descricao": "<p>Madrugada de código com suporte dos monitores <b>Felipe Bastos</b> e <b>Clarice Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lanche Noturno",
+    "lugar": "Lounge de Convivência",
+    "dataInicio": "2024-08-17T02:00:00-03:00",
+    "dataFim": "2024-08-17T02:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": "Lounge de Convivência",
+    "dataInicio": "2024-08-17T07:30:00-03:00",
+    "dataFim": "2024-08-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Auditório Pão de Açúcar",
+    "dataInicio": "2024-08-17T09:00:00-03:00",
+    "dataFim": "2024-08-17T10:30:00-03:00",
+    "descricao": "<p>Instrução sobre <i>Construção de Narrativas Não-Lineares e Design de Personagens Memoráveis para Jogos Independentes em Produções de Escopo Extremamente Reduzido</i> com a escritora e roteirista <b>Mariana Sampaio</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Segunda Rodada de Mentorias Técnicas",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-17T10:30:00-03:00",
+    "dataFim": "2024-08-12T12:00:00-03:00",
+    "descricao": "<p>Validação da jogabilidade e correções de mecânicas com <b>Diego Ramos</b> e <b>Fernanda Nogueira</b>.</p>",
+    "secao": "Sessões de Mentoria"
+   },
+   {
+    "nome": "Almoço de Sábado",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-08-17T12:00:00-03:00",
+    "dataFim": "2024-08-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Checkpoint de Entrega: Alpha",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-17T14:00:00-03:00",
+    "dataFim": "2024-08-17T15:00:00-03:00",
+    "descricao": "<p>Submissão da primeira build jogável para avaliação de progresso junto ao comitê de <b>Pedro Guedes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 3",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2024-08-17T15:00:00-03:00",
+    "dataFim": "2024-08-17T16:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Estratégias de Publicação de Jogos Independentes em Plataformas Digitais Internacionais e Estruturação Financeira Sustentável para Novos Estúdios Emergentes da América Latina</i> conduzido pelo produtor <b>Henrique Aragão</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": "Lounge de Convivência",
+    "dataInicio": "2024-08-17T16:15:00-03:00",
+    "dataFim": "2024-08-17T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Playtest Aberto",
+    "lugar": "Espaço Mezanino",
+    "dataInicio": "2024-08-17T17:00:00-03:00",
+    "dataFim": "2024-08-17T19:00:00-03:00",
+    "descricao": "<p>Testes cruzados entre as equipes para detectar bugs e avaliar curva de dificuldade, sob mediação de <b>Aline Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Jantar e Happy Hour sem Álcool",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-08-17T19:30:00-03:00",
+    "dataFim": "2024-08-17T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Corujão de Programação: Bloco 2",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-17T22:00:00-03:00",
+    "dataFim": "2024-08-18T03:00:00-03:00",
+    "descricao": "<p>Reta final de implementação com auxílio dos desenvolvedores <b>Carlos Eduardo Neves</b> e <b>Marina Souza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lanche da Madrugada",
+    "lugar": "Lounge de Convivência",
+    "dataInicio": "2024-08-18T03:00:00-03:00",
+    "dataFim": "2024-08-18T03:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã de Encerramento",
+    "lugar": "Lounge de Convivência",
+    "dataInicio": "2024-08-18T07:30:00-03:00",
+    "dataFim": "2024-08-18T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Terceira Rodada de Mentorias Técnicas",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-18T08:30:00-03:00",
+    "dataFim": "2024-08-18T10:00:00-03:00",
+    "descricao": "<p>Apoio focado em build, polimento final e vídeo de apresentação com <b>Lucas Medeiros</b> e <b>Beatriz Rocha</b>.</p>",
+    "secao": "Sessões de Mentoria"
+   },
+   {
+    "nome": "Bloqueio de Código e Envio Final",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-18T11:00:00-03:00",
+    "dataFim": "2024-08-18T11:30:00-03:00",
+    "descricao": "<p>Fim do prazo para submissão dos repositórios no GitHub e página na plataforma itch.io sob supervisão de <b>Renata Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2024-08-18T11:30:00-03:00",
+    "dataFim": "2024-08-18T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Demonstração e Avaliação",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-08-18T13:00:00-03:00",
+    "dataFim": "2024-08-18T15:30:00-03:00",
+    "descricao": "<p>Estandes de demonstração abertos ao público e bancas examinadoras formadas pelos jurados <b>André Castello</b>, <b>Vanessa Guimarães</b> e <b>Leonardo Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pitches dos Finalistas",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2024-08-18T15:30:00-03:00",
+    "dataFim": "2024-08-18T17:00:00-03:00",
+    "descricao": "<p>Apresentação relâmpago de três minutos para os dez melhores projetos selecionados, coordenada por <b>Camila Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Deliberação dos Jurados e Coffee Break",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-18T17:00:00-03:00",
+    "dataFim": "2024-08-18T17:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Corcovado",
+    "dataInicio": "2024-08-18T17:45:00-03:00",
+    "dataFim": "2024-08-18T19:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores em cinco categorias e entrega dos troféus pelos organizadores <b>Thiago Mendonça</b> e <b>Renata Silveira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

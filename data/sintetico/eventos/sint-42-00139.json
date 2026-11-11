@@ -1,0 +1,213 @@
+{
+ "spec": {
+  "id": "sint-42-00139",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 23,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:30+00:00",
+ "uso_tokens": {
+  "entrada": 677,
+  "saida": 3275
+ },
+ "saida": {
+  "evento": {
+   "nome": "HackaGame Triângulo 2025: Maratona de Desenvolvimento e Jogos Digitais",
+   "local_geral": "Centro de Incubação de Empresas Tecnológicas da UFU, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in dos Participantes",
+    "lugar": "Hall de Entrada - Bloco 5R",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T09:45:00-03:00",
+    "descricao": "<p>Apresentação das regras gerais, anúncio dos patrocinadores e revelação do tema surpresa com <b>Carlos Eduardo Guimarães</b> e <b>Juliana Prado</b>.</p>",
+    "secao": "Abertura e Teaming"
+   },
+   {
+    "nome": "Dinâmica de Formação de Equipes",
+    "lugar": "Arena Maker",
+    "dataInicio": "2025-05-17T09:45:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Atividade interativa para participantes sem equipe definida formarem novos grupos com a mediação de <b>Rodrigo Alencar</b>.</p>",
+    "secao": "Abertura e Teaming"
+   },
+   {
+    "nome": "Início da Maratona de Desenvolvimento",
+    "lugar": null,
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação oficial do sistema para envio de propostas e início da contagem regressiva de produção de jogos e softwares.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Prototipagem Rápida na Godot Engine 4: Criando Mecânicas de Plataforma em Poucas Horas</i> com <b>Vinícius Fontes</b>.</p>",
+    "secao": "Workshops Rápidos"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>APIs Reativas com Spring Boot e Kotlin para Jogos Multiplayer</i> conduzida por <b>Mariana Castro</b>.</p>",
+    "secao": "Workshops Rápidos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": "2025-05-17T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Especializada",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Primeira rodada de suporte aos competidores com foco em Game Design e Arquitetura de Software com os mentores <b>Henrique Vilela</b>, <b>Camila Duarte</b> e <b>Lucas Takahashi</b>.</p>",
+    "secao": "Ciclo de Mentorias"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-05-17T15:00:00-03:00",
+    "dataFim": "2025-05-17T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Direção de Arte e Criação de Sprites 2D com Aseprite</i> ministrada por <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Workshops Rápidos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-17T16:30:00-03:00",
+    "dataFim": "2025-05-17T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Especializada",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2025-05-17T18:00:00-03:00",
+    "dataFim": "2025-05-17T20:00:00-03:00",
+    "descricao": "<p>Segunda rodada com foco em testes de usabilidade, balanceamento e pipeline com os mentores <b>Felipe Rossi</b> e <b>Larissa Bernardes</b>.</p>",
+    "secao": "Ciclo de Mentorias"
+   },
+   {
+    "nome": "Jantar e Reposição Energética",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-17T20:30:00-03:00",
+    "dataFim": "2025-05-17T21:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Checkpoint de Validação Noturna",
+    "lugar": null,
+    "dataInicio": "2025-05-17T22:30:00-03:00",
+    "dataFim": "2025-05-17T23:30:00-03:00",
+    "descricao": "<p>Submissão do primeiro build jogável da aplicação na plataforma oficial do evento para acompanhamento dos avaliadores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Madrugada de Gameplay e Playtest",
+    "lugar": "Arena Maker",
+    "dataInicio": "2025-05-18T02:00:00-03:00",
+    "dataFim": "2025-05-18T04:00:00-03:00",
+    "descricao": "<p>Momento livre para troca de experiências entre equipes, testes mútuos das builds e feedback informal com <b>Thiago Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-18T06:30:00-03:00",
+    "dataFim": "2025-05-18T07:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-18T08:30:00-03:00",
+    "dataFim": "2025-05-18T09:30:00-03:00",
+    "descricao": "<p>Tema: <i>Pitch Perfeito: Como Vender seu Jogo para Investidores e Júris Técnicos em 3 Minutos</i> com <b>Patrícia Sampaio</b>.</p>",
+    "secao": "Workshops Rápidos"
+   },
+   {
+    "nome": "Mentoria Especializada",
+    "lugar": "Espaço Co-working",
+    "dataInicio": "2025-05-18T09:30:00-03:00",
+    "dataFim": "2025-05-18T11:00:00-03:00",
+    "descricao": "<p>Plantão de dúvidas e mentoria de pitch para refinamento das apresentações com a consultora <b>Patrícia Sampaio</b>.</p>",
+    "secao": "Ciclo de Mentorias"
+   },
+   {
+    "nome": "Congelamento de Código e Submissão Final",
+    "lugar": null,
+    "dataInicio": "2025-05-18T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento do prazo para commit e envio dos executáveis, repositórios e apresentações.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-18T12:00:00-03:00",
+    "dataFim": "2025-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Demonstração e Avaliação Técnica",
+    "lugar": "Arena Maker",
+    "dataInicio": "2025-05-18T13:30:00-03:00",
+    "dataFim": "2025-05-18T15:30:00-03:00",
+    "descricao": "<p>Bancas avaliadoras visitam as bancadas para experimentar os jogos desenvolvidos. Comissários: <b>Prof. André Rezende</b>, <b>Fernanda Lins</b> e <b>Gabriel Meireles</b>.</p>",
+    "secao": "Julgamento e Apresentações"
+   },
+   {
+    "nome": "Apresentação dos Finalistas",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-18T15:45:00-03:00",
+    "dataFim": "2025-05-18T17:15:00-03:00",
+    "descricao": "<p>Apresentação dos pitches no palco principal com transmissão ao vivo sob coordenação de <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Julgamento e Apresentações"
+   },
+   {
+    "nome": "Deliberação do Júri",
+    "lugar": null,
+    "dataInicio": "2025-05-18T17:15:00-03:00",
+    "dataFim": "2025-05-18T18:00:00-03:00",
+    "descricao": "<p>Reunião a portas fechadas do comitê julgador para consolidação das pontuações e definição dos vencedores de cada categoria.</p>",
+    "secao": "Julgamento e Apresentações"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-05-18T18:00:00-03:00",
+    "dataFim": "2025-05-18T19:30:00-03:00",
+    "descricao": "<p>Cerimônia de entrega dos troféus e premiações aos três melhores colocados e menções honrosas, conduzida por <b>Juliana Prado</b> e convidados.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

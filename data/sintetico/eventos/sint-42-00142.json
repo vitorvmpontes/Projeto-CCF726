@@ -1,0 +1,94 @@
+{
+ "spec": {
+  "id": "sint-42-00142",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "titulos_longos",
+   "intervalos",
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:30+00:00",
+ "uso_tokens": {
+  "entrada": 700,
+  "saida": 1340
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Gaúcho de Mulheres na Tecnologia da Informação e Computação",
+   "local_geral": "Prédio 32, PUCRS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T09:15:00-03:00",
+    "descricao": "<p>Distribuição de crachás, ecobags e materiais institucionais para as participantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura: Desafios Contemporâneos na Formação e Retenção de Mulheres em Áreas de Ciências Exatas e Tecnologia da Informação no Brasil",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-19T09:15:00-03:00",
+    "dataFim": "2023-10-19T10:45:00-03:00",
+    "descricao": "<p>Apresentação de abertura com a pesquisadora <b>Carla Maria Dal Sasso Freitas</b>, abordando estatísticas educacionais recentes e políticas públicas institucionais.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": null,
+    "dataInicio": "2023-10-19T10:45:00-03:00",
+    "dataFim": "2023-10-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica de Trabalhos Acadêmicos",
+    "lugar": null,
+    "dataInicio": "2023-10-19T11:15:00-03:00",
+    "dataFim": "2023-10-19T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Luciana Salgado</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Análise de Sentimentos em Relatos de Assédio no Meio Acadêmico</i> por <b>Fernanda Silveira</b> e <b>Mariana Becker</b>;</p><p>2. <i>Framework de Acessibilidade Digital para Idosas em Plataformas de Saúde</i> por <b>Juliana Pavan</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Pausa de Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:30:00-03:00",
+    "dataFim": "2023-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Construção de Algoritmos Justos para Evitar Vieses Discriminatórios de Gênero e Raça em Sistemas Automatizados",
+    "lugar": "Laboratório 204",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:00:00-03:00",
+    "descricao": "<p>Oficina ministrada pelas desenvolvedoras <b>Tatiane Nogueira Santos</b> e <b>Camila Duarte</b>, focada em métricas de equidade em bibliotecas Python.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Mesa-Redonda: Liderança Feminina em Startups",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-20T09:30:00-03:00",
+    "dataFim": "2023-10-20T11:30:00-03:00",
+    "descricao": "<p>Debate mediado pela coordenadora <b>Renata Vieira</b> com a participação de <b>Bárbara Fontes</b>, fundadora da DataInova, e <b>Paula Silveira Castro</b>, diretora de engenharia na TechSul.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento: Estratégias Inovadoras de Computação em Nuvem e Arquitetura de Microsserviços para Escalabilidade de Grandes Portais de Notícias",
+    "lugar": null,
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra ministrada pela engenheira de software sênior <b>Aline Menezes</b>, compartilhando experiências de migração de infraestrutura de alta complexidade.</p>",
+    "secao": "Palestras Principais"
+   }
+  ]
+ }
+}

@@ -1,0 +1,220 @@
+{
+ "spec": {
+  "id": "sint-42-00120",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Macapá - AP",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 24,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:04+00:00",
+ "uso_tokens": {
+  "entrada": 658,
+  "saida": 3062
+ },
+ "saida": {
+  "evento": {
+   "nome": "Amapá Tech Summit & Hackathon 2027",
+   "local_geral": "Centro de Convenções de Macapá, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Welcome Coffee",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-21T08:00:00-03:00",
+    "dataFim": "2027-05-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com os coordenadores <b>Larissa Nogueira</b> e <b>Rodrigo Castelo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-21T09:45:00-03:00",
+    "dataFim": "2027-05-21T10:45:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Inovações em Nuvem Distribuída para a Região Amazônica</i> apresentada por <b>Marcos Vinícius Seixas</b> da AWS Brasil.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Briefing e Formação dos Times",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Divulgação dos desafios temáticos e montagem das equipes orientada por <b>Carla Mendonça</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Apresentação <i>Segurança Cibernética em Infraestruturas Críticas</i> conduzida por <b>Juliana Pantoja</b> da Tempest Security.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-21T11:15:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Atendimento aos grupos com os especialistas <b>Thiago Alencar</b> e <b>Sofia Trindade</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:30:00-03:00",
+    "dataFim": "2027-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas e Fomento de Startups no Meio Norte</i> com mediação de <b>Camila Brito</b> e presenças de <b>Everaldo Dias</b> e <b>Bianca Ferreira</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Workshop de Prototipação",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Oficina prática <i>Design Thinking e Figma para MVPs</i> ministrada por <b>Fernando Cunha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T17:00:00-03:00",
+    "descricao": "<p>Validação arquitetural com <b>Diego Ramos</b> e <b>Lorena Maciel</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:00:00-03:00",
+    "descricao": "<p>Apresentação de <i>Aplicações de Inteligência Artificial no Monitoramento Florestal</i> com <b>Patrícia Siqueira</b> da Google Cloud.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Pitch Rápido de Alinhamento",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-21T17:30:00-03:00",
+    "dataFim": "2027-05-21T18:30:00-03:00",
+    "descricao": "<p>Check de progresso das equipes perante os facilitadores <b>Rodrigo Castelo</b> e <b>Carla Mendonça</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Recepção e Networking",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-22T08:30:00-03:00",
+    "dataFim": "2027-05-22T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-22T09:00:00-03:00",
+    "dataFim": "2027-05-22T10:00:00-03:00",
+    "descricao": "<p>Sessão <i>Arquitetura Orientada a Eventos em Escala</i> conduzida por <b>Danilo Tavares</b> da Nubank.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria de Negócios",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-22T09:30:00-03:00",
+    "dataFim": "2027-05-22T11:00:00-03:00",
+    "descricao": "<p>Orientação sobre modelos de negócio e monetização conduzida por <b>Beatriz Valadares</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório 2",
+    "dataInicio": "2027-05-22T10:00:00-03:00",
+    "dataFim": "2027-05-22T12:00:00-03:00",
+    "descricao": "<p>Treinamento <i>Deploy Contínuo e Pipelines Ágeis</i> ministrado por <b>Samuel Matos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-22T10:30:00-03:00",
+    "dataFim": "2027-05-22T11:30:00-03:00",
+    "descricao": "<p>Exposição <i>Open Finance e Novos Mercados no Brasil</i> ministrada por <b>Vanessa Guedes</b> do Banco Inter.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-22T11:00:00-03:00",
+    "dataFim": "2027-05-22T12:30:00-03:00",
+    "descricao": "<p>Auxílio nas integrações finais de API com o mentor <b>Igor Cavalcante</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-22T12:30:00-03:00",
+    "dataFim": "2027-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento das Submissões do Hackathon",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2027-05-22T14:30:00-03:00",
+    "dataFim": "2027-05-22T15:00:00-03:00",
+    "descricao": "<p>Envio oficial dos códigos e documentações coordenado por <b>Larissa Nogueira</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-22T14:30:00-03:00",
+    "dataFim": "2027-05-22T15:30:00-03:00",
+    "descricao": "<p>Palestra <i>Desenvolvimento de Talentos em Tecnologia na Era da IA</i> proferida por <b>Henrique Viana</b> da IBM.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Apresentação dos Pitches Finais",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-22T15:45:00-03:00",
+    "dataFim": "2027-05-22T17:30:00-03:00",
+    "descricao": "<p>Apresentação das cinco equipes finalistas perante a banca avaliadora formada por <b>Marcos Vinícius Seixas</b>, <b>Vanessa Guedes</b> e <b>Juliana Pantoja</b>.</p>",
+    "secao": "Hackathon Sustentabilidade 4.0"
+   },
+   {
+    "nome": "Premiação do Hackathon",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-22T17:45:00-03:00",
+    "dataFim": "2027-05-22T18:30:00-03:00",
+    "descricao": "<p>Anúncio das soluções vencedoras com entrega dos prêmios por <b>Rodrigo Castelo</b> e convidados.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-22T18:30:00-03:00",
+    "dataFim": "2027-05-22T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

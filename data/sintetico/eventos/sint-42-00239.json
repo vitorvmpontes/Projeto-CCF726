@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-42-00239",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:01+00:00",
+ "uso_tokens": {
+  "entrada": 675,
+  "saida": 710
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia de Alimentos da UFV-Florestal",
+   "local_geral": "Campus UFV-Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": null,
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Microbiologia",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Boas Práticas de Fabricação e Controle Microbiológico na Indústria de Laticínios</i>, ministrado pelo Prof. Dr. <b>Henrique Sampaio Duarte</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Usina Piloto de Processamento",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Tecnologia de Bebidas Fermentadas: Produção Artesanal de Cerveja e Kombucha</i>, sob coordenação da Eng. <b>Camila Rezende Miranda</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Inovação em Embalagens Biodegradáveis para Alimentos</i>, proferida pela pesquisadora Dra. <b>Tatiana Guimarães Nogueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-42-00069",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 11,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:40+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 1764
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Fórum de Autoavaliação Institucional da UFPB",
+   "local_geral": "Centro de Ciências Humanas, Letras e Artes (CCHLA) - Campus I, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório 411",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos da Comissão Própria de Avaliação com a presença do reitor <b>Valdiney Veloso Gouveia</b> e da coordenadora da CPA <b>Maria de Lourdes da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório 411",
+    "dataInicio": "2026-05-18T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Os Desafios do SINAES e o Papel Transformador da Autoavaliação</i>, ministrada pelo Prof. Dr. <b>Renato de Almeida Sobrinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática 1",
+    "lugar": "Auditório 412",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas de Ensino e Avaliação dos Cursos de Graduação</i>, mediada por <b>Clara Menezes Santos</b> e debatedores convidados <b>Jorge Farias Lima</b> e <b>Ana Paula Cavalcanti</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa Temática 2",
+    "lugar": "Sala de Atos",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inserção Social e Avaliação da Extensão Universitária</i>, com a participação de <b>Danielle Ramos Brandão</b> e <b>Marcos Aurélio Trindade</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática 02",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T17:00:00-03:00",
+    "descricao": "<p>Módulo para docentes e servidores: <i>Construção de Instrumentos e Indicadores Avaliativos para Gestão Acadêmica</i>, conduzida por <b>Patrícia Albuquerque Neves</b>.</p>",
+    "secao": "Capacitação"
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática 03",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T17:00:00-03:00",
+    "descricao": "<p>Módulo para representação estudantil: <i>Análise e Leitura Crítica de Relatórios da CPA</i>, ministrada por <b>Fernando Gomes Dantas</b>.</p>",
+    "secao": "Capacitação"
+   },
+   {
+    "nome": "Roda de Diálogo",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2026-05-21T09:30:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": "<p>Discussão setorial: <i>Condições de Trabalho Técnico-Administrativo e Qualidade Institucional</i>. Facilitação de <b>Gilberto Peixoto Filho</b>.</p>",
+    "secao": "Grupos de Discussão"
+   },
+   {
+    "nome": "Roda de Diálogo",
+    "lugar": "Auditório 412",
+    "dataInicio": "2026-05-21T14:30:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Discussão setorial: <i>Permanência Estudantil, Inclusão e Infraestrutura Universitária</i>. Facilitação de <b>Teresa Cristina Pordeus</b>.</p>",
+    "secao": "Grupos de Discussão"
+   },
+   {
+    "nome": "Painel de Resultados",
+    "lugar": "Auditório 411",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:30:00-03:00",
+    "descricao": "<p>Apresentação do relatório: <i>Síntese do Ciclo Avaliativo 2025/2026: Diagnósticos e Metas para o PDI</i>, pelos pesquisadores institucionais <b>Antônio Carlos Vilar</b> e <b>Helena Moreira Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária Deliberativa",
+    "lugar": "Auditório 411",
+    "dataInicio": "2026-05-22T10:45:00-03:00",
+    "dataFim": "2026-05-22T12:30:00-03:00",
+    "descricao": "<p>Votação das propostas de melhoria contínua e plano de ação integrado da CPA, sob coordenação de <b>Maria de Lourdes da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório 411",
+    "dataInicio": "2026-05-22T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-42-00011",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Fortaleza - CE",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "subtitulo_separado",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:05+00:00",
+ "uso_tokens": {
+  "entrada": 672,
+  "saida": 1127
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Congresso Cearense de Direito Processual e Novas Tecnologias",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos com a presença do presidente da comissão organizadora, <b>Dr. Marcelo Albuquerque Cordeiro</b>, e autoridades convidadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios Contemporâneos da Prova Digital e a Preservação da Cadeia de Custódia nos Tribunais Brasileiros</i>.</p><p>Debatedores: <b>Dra. Heloísa Vasconcelos Rios</b> e <b>Prof. Dr. Renato Sampaio Figueira</b>. Mediação de <b>Dra. Patrícia Alencar</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Sala de Capacitação 3",
+    "dataInicio": "2026-05-14T14:30:00-03:00",
+    "dataFim": "2026-05-14T17:30:00-03:00",
+    "descricao": "<p>Tema da oficina: <i>Parâmetros Práticos para a Aplicação da Inteligência Artificial Generativa e Automação na Elaboração de Peças Processuais Cíveis Complexas</i>.</p><p>Instrutor: <b>Me. Daniel Cavalcante Frota</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Harmonização entre Proteção de Dados e Transparência Pública na Digitalização Integral dos Processos Judiciais Eletrônicos</i>.</p><p>Expositores: <b>Desembargador Carlos Eduardo Benevides</b> e <b>Profa. Vanessa Montenegro Teles</b>. Coordenação dos trabalhos por <b>Dr. Thiago Aragão Leitão</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Precedentes Judiciais Vinculantes e a Racionalização do Fluxo Decisório na Segunda Instância</i>.</p><p>Painelistas: <b>Dra. Mariana Gurgel Prado</b> e <b>Dr. Roberto Saraiva Bezerra</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Sessão de Encerramento e Homenagens",
+    "lugar": "Auditório Rachel de Queiroz",
+    "dataInicio": "2026-05-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega da comenda de mérito jurídico e conferência de encerramento proferida pelo jurista <b>Prof. Emérito Antônio Cândido de Holanda</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

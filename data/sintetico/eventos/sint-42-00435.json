@@ -1,0 +1,141 @@
+{
+ "spec": {
+  "id": "sint-42-00435",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 5,
+  "n_atividades": 14,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:01+00:00",
+ "uso_tokens": {
+  "entrada": 684,
+  "saida": 2137
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio Integrado de Pós-Graduação em Biociências e Biotecnologia do Centro-Oeste",
+   "local_geral": "Centro de Aulas Samambaia, Universidade Federal de Goiás (UFG), Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Prédio de Pós-Graduação",
+    "dataInicio": "2023-10-16T08:00:00-03:00",
+    "dataFim": "2023-10-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central do Prédio de Pós-Graduação",
+    "dataInicio": "2023-10-16T09:30:00-03:00",
+    "dataFim": "2023-10-16T11:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Perspectivas contemporâneas da inovação biotecnológica e bioprospecção de recursos genéticos nativos do Cerrado brasileiro para o desenvolvimento de novos fármacos terapêuticos</i>, ministrada pelo <b>Dr. Marcos Vinícius Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática 1",
+    "lugar": null,
+    "dataInicio": "2023-10-16T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão sobre <i>Desafios na modelagem molecular aplicada a produtos biotecnológicos</i> com os debatedores <b>Profa. Dra. Juliana Arantes</b> e <b>Prof. Dr. Cláudio Nogueira</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Bioinformática 2",
+    "dataInicio": "2023-10-17T08:30:00-03:00",
+    "dataFim": "2023-10-17T12:00:00-03:00",
+    "descricao": "<p>Oficina prática abordando o uso de ferramentas de sequenciamento sob orientação da <b>Dra. Fabiana Mendonça Rocha</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão de Painéis de Mestrado",
+    "lugar": null,
+    "dataInicio": "2023-10-17T14:00:00-03:00",
+    "dataFim": "2023-10-17T16:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos pôsteres científicos dos discentes ingressantes. Avaliação coordenada pelo <b>Prof. Dr. Rafael Guimarães</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2023-10-17T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2023-10-18T08:30:00-03:00",
+    "dataFim": "2023-10-18T12:00:00-03:00",
+    "descricao": "<p>Práticas laboratoriais de extração e quantificação proteica conduzidas pelo pesquisador <b>Dr. Marcelo Esteves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa Temática 2",
+    "lugar": null,
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T16:30:00-03:00",
+    "descricao": "<p>Painel reunindo os docentes <b>Prof. Dr. Henrique Fontes</b> e <b>Profa. Dra. Bianca Toledo</b> para debater políticas de fomento científico regional.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Central do Prédio de Pós-Graduação",
+    "dataInicio": "2023-10-18T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da conferência internacional <i>Metodologias integradas e abordagens computacionais avançadas para mapeamento da variabilidade epigenética e regulação da expressão gênica em microrganismos extremófilos</i>, apresentada pela <b>Dra. Carmen Dolores Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis de Doutorado",
+    "lugar": null,
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T11:30:00-03:00",
+    "descricao": "<p>Apresentação oral rápida e arguição de pesquisas de tese perante a banca avaliadora composta pela <b>Dra. Teresa Cristina Ramos</b> e <b>Dr. Rogério Paiva</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": null,
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Treinamento avançado: <i>Desenvolvimento de competências em redação científica internacional, submissão em revistas de alto impacto e respostas qualificadas a pareceres de revisores</i>, ministrado pelo <b>Prof. Dr. André Luiz Albuquerque</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa Temática 3",
+    "lugar": "Auditório Central do Prédio de Pós-Graduação",
+    "dataInicio": "2023-10-20T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Mesa com os debatedores <b>Dr. Lucas Magalhães</b> e <b>Dra. Patrícia Alencar</b> sobre transferência de tecnologia universidade-empresa.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Premiação de Trabalhos Destaque",
+    "lugar": "Auditório Central do Prédio de Pós-Graduação",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Divulgação dos melhores artigos e pôsteres da edição, apresentada pelo coordenador <b>Prof. Dr. Gustavo Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Institucional",
+    "lugar": null,
+    "dataInicio": "2023-10-20T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão organizadora presidida pela <b>Profa. Dra. Elisângela Martins</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

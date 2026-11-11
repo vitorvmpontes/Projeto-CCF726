@@ -1,0 +1,227 @@
+{
+ "spec": {
+  "id": "sint-42-00098",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:06+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 3709
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Da Margem - Arte, Música e Pensamento 2023",
+   "local_geral": "Orla do Guaíba e Usina do Gasômetro, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Feira Gráfica Independente",
+    "lugar": null,
+    "dataInicio": "2023-10-13T14:00:00-03:00",
+    "dataFim": "2023-10-13T22:00:00-03:00",
+    "descricao": "<p>Início da circulação pública e abertura dos estandes com coletivos de zines, gravuras e publicações do Rio Grande do Sul.</p>",
+    "secao": "Artes Visuais e Feiras"
+   },
+   {
+    "nome": "Instalação Sonora 'Águas de Outubro'",
+    "lugar": "Galeria Térrea da Usina",
+    "dataInicio": "2023-10-13T14:30:00-03:00",
+    "dataFim": "2023-10-13T20:00:00-03:00",
+    "descricao": "<p>Abertura da intervenção sonora imersiva idealizada por <b>Mariana Xiró</b> com captação hidrofônica da bacia do Guaíba.</p>",
+    "secao": "Artes Visuais e Feiras"
+   },
+   {
+    "nome": "Oficina de Xilogravura Popular",
+    "lugar": "Tenda da Criação",
+    "dataInicio": "2023-10-13T15:00:00-03:00",
+    "dataFim": "2023-10-13T17:30:00-03:00",
+    "descricao": "<p>Prática de entalhe em madeira e impressão manual conduzida pelo gravador <b>Tiago Bica</b>. Atividade aberta para iniciantes.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": null,
+    "dataInicio": "2023-10-13T16:00:00-03:00",
+    "dataFim": "2023-10-13T17:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Narrativas periféricas e a cartografia poética das cidades</i>, com a participação dos escritores <b>José Falero</b> e <b>Taiane Santi Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cortejo de Maracatu Truvão",
+    "lugar": "Passeio Central da Orla",
+    "dataInicio": "2023-10-13T18:00:00-03:00",
+    "dataFim": "2023-10-13T19:00:00-03:00",
+    "descricao": null,
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Show Instrumental Marmota Jazz",
+    "lugar": "Palco do Pôr do Sol",
+    "dataInicio": "2023-10-13T19:30:00-03:00",
+    "dataFim": "2023-10-13T20:45:00-03:00",
+    "descricao": "<p>Apresentação ao ar livre com repertório autoral do quarteto liderado pelo baterista <b>Pedro Moser</b>.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Show Musical Trabalhos Espaciais Manuais",
+    "lugar": "Palco Principal",
+    "dataInicio": "2023-10-13T21:15:00-03:00",
+    "dataFim": "2023-10-13T22:30:00-03:00",
+    "descricao": "<p>Performance festiva do coletivo instrumental de sopros e percussão de Porto Alegre.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Discotecagem Brasilidades em Vinil",
+    "lugar": null,
+    "dataInicio": "2023-10-13T22:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Seleção em vinil conduzida pela pesquisadora e DJ <b>Bruna Paulin</b>.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Aulão Aberto de Dança Contemporânea",
+    "lugar": "Deck das Figueiras",
+    "dataInicio": "2023-10-14T10:00:00-03:00",
+    "dataFim": "2023-10-14T11:30:00-03:00",
+    "descricao": "<p>Vivência de expressão corporal e consciência do movimento com o coreógrafo <b>Eduardo Severino</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fotografia Urbana Analógica",
+    "lugar": "Tenda da Criação",
+    "dataInicio": "2023-10-14T11:00:00-03:00",
+    "dataFim": "2023-10-14T13:30:00-03:00",
+    "descricao": "<p>Exploração das técnicas de composição de rua em filme 35mm com a fotógrafa <b>Dulce Helfer</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mostra Audiovisual Curtas Gaúchos",
+    "lugar": "Sala de Projeção Elis Regina",
+    "dataInicio": "2023-10-14T14:00:00-03:00",
+    "dataFim": "2023-10-14T16:00:00-03:00",
+    "descricao": "<p>Sessão comentada com curadoria da cineasta <b>Camila de Moraes</b>, reunindo produções recentes do cinema independente do estado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Rimas e Improviso",
+    "lugar": "Tenda da Criação",
+    "dataInicio": "2023-10-14T14:30:00-03:00",
+    "dataFim": "2023-10-14T16:30:00-03:00",
+    "descricao": "<p>Laboratório de métrica, métrica livre e ritmo ministrado pela MC e compositora <b>Negra Jaque</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Exposição Fotográfica 'Retratos do Arquipélago'",
+    "lugar": "Galeria Térrea da Usina",
+    "dataInicio": "2023-10-14T15:00:00-03:00",
+    "dataFim": "2023-10-14T21:00:00-03:00",
+    "descricao": "<p>Vernissage da mostra visual dos fotojornalistas <b>Mateus Bruxel</b> e <b>Alcina da Silva</b> documentando a vida cotidiana nas ilhas do Guaíba.</p>",
+    "secao": "Artes Visuais e Feiras"
+   },
+   {
+    "nome": "Batalha de MCs da Orla",
+    "lugar": "Anfiteatro de Concreto",
+    "dataInicio": "2023-10-14T16:30:00-03:00",
+    "dataFim": "2023-10-14T18:30:00-03:00",
+    "descricao": "<p>Competição de rima tradicional organizada pelo produtor <b>Lucas Kumpel</b> com premiação para os três primeiros colocados.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espetáculo Teatral 'Bailei na Curva'",
+    "lugar": null,
+    "dataInicio": "2023-10-14T18:00:00-03:00",
+    "dataFim": "2023-10-14T19:30:00-03:00",
+    "descricao": "<p>Apresentação especial da clássica montagem dirigida por <b>Júlio Conte</b> adaptada para o espaço aberto.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical Pata de Elefante",
+    "lugar": "Palco do Pôr do Sol",
+    "dataInicio": "2023-10-14T19:30:00-03:00",
+    "dataFim": "2023-10-14T20:50:00-03:00",
+    "descricao": "<p>Apresentação comemorativa do trio de rock instrumental formado por <b>Gabriel Guedes</b>, <b>Daniel Mossmann</b> e <b>Gustavo Telles</b>.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Show Musical 50 Tons de Pretas",
+    "lugar": "Palco Principal",
+    "dataInicio": "2023-10-14T21:20:00-03:00",
+    "dataFim": "2023-10-14T22:45:00-03:00",
+    "descricao": "<p>Espetáculo musical liderado pelas cantoras e instrumentistas <b>Dejeane Arrué</b> e <b>Graziela Pires</b>, misturando samba, MPB e ancestralidade.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Set Eletrônico Noturno",
+    "lugar": null,
+    "dataInicio": "2023-10-14T23:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical da DJ e produtora gaúcha <b>Lê Araujo</b> com vertentes de house e techno.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Piquenique Comunitário e Sarau Ecológico",
+    "lugar": "Gramado Central",
+    "dataInicio": "2023-10-15T10:30:00-03:00",
+    "dataFim": "2023-10-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Cerâmica Manual e Argila Local",
+    "lugar": "Tenda da Criação",
+    "dataInicio": "2023-10-15T13:30:00-03:00",
+    "dataFim": "2023-10-15T15:30:00-03:00",
+    "descricao": "<p>Modelagem básica de utilitários em cerâmica com a artesã <b>Carla Schöntag</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervenção Circense 'Noite dos Malabares'",
+    "lugar": null,
+    "dataInicio": "2023-10-15T15:00:00-03:00",
+    "dataFim": "2023-10-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação de acrobacias e palhaçaria com a <b>Cia Penduricalho</b>, sob direção de <b>Rodrigo Castilho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Sala Elis Regina",
+    "dataInicio": "2023-10-15T16:00:00-03:00",
+    "dataFim": "2023-10-15T17:30:00-03:00",
+    "descricao": "<p>Mesa intitulada <i>O futuro dos festivais independentes e o patrimônio ribeirinho</i>, com <b>Gisele Noll</b>, <b>Felipe Zúñiga</b> e mediação de <b>Clarissa Pont</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical Clarissa Ferreira",
+    "lugar": "Palco do Pôr do Sol",
+    "dataInicio": "2023-10-15T18:00:00-03:00",
+    "dataFim": "2023-10-15T19:15:00-03:00",
+    "descricao": "<p>Show do álbum <i>Canções para deglutir o tempo</i> da violinista e etnomusicóloga <b>Clarissa Ferreira</b> explorando a música gaúcha contemporânea e despatriarcalizada.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Show Musical Nei Lisboa",
+    "lugar": "Palco Principal",
+    "dataInicio": "2023-10-15T19:45:00-03:00",
+    "dataFim": "2023-10-15T21:15:00-03:00",
+    "descricao": "<p>Apresentação especial do compositor <b>Nei Lisboa</b>, acompanhado por <b>Paulinho Supekovia</b> no violão e <b>Luiz Mauro Filho</b> nos teclados.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Encerramento e Queima de Tambores",
+    "lugar": null,
+    "dataInicio": "2023-10-15T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

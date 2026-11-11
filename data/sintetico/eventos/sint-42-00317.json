@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-42-00317",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Campo Grande - MS",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:12+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 657
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia Ambiental e Sanitária",
+   "local_geral": "Faculdade de Engenharias, Arquitetura e Urbanismo e Geografia - UFMS, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Café de Boas-Vindas",
+    "lugar": "Hall de Entrada do Bloco Multiuso",
+    "dataInicio": "2025-05-14T07:30:00-03:00",
+    "dataFim": "2025-05-14T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central da FAENG",
+    "dataInicio": "2025-05-14T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação inaugural sobre <i>Gestão e Conservação de Recursos Hídricos no Pantanal Sul-Mato-Grossense</i>, conduzida pelo pesquisador <b>Dr. Henrique Mendes Barreto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2025-05-14T10:15:00-03:00",
+    "dataFim": "2025-05-14T12:00:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Introdução ao QGIS Aplicado ao Licenciamento Ambiental</i>, ministrada pela <b>Msc. Renata Albuquerque Silveira</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala de Aulas 204",
+    "dataInicio": "2025-05-14T10:15:00-03:00",
+    "dataFim": "2025-05-14T12:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Tratamento de Efluentes Agroindustriais por Processos Biológicos</i> com o engenheiro <b>Lucas Ferreira Nogueira</b>.</p>",
+    "secao": "Minicursos Teórico-Práticos"
+   }
+  ]
+ }
+}

@@ -1,0 +1,110 @@
+{
+ "spec": {
+  "id": "sint-42-00152",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Florestal - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 10,
+  "casos": [
+   "intervalos",
+   "subtitulo_separado",
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:05+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 1436
+ },
+ "saida": {
+  "evento": {
+   "nome": "HackaGame Florestal 2023",
+   "local_geral": "Campus UFV - Florestal, MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall do Prédio Central",
+    "dataInicio": "2023-10-21T07:30:00-03:00",
+    "dataFim": "2023-10-21T08:30:00-03:00",
+    "descricao": null,
+    "secao": "Recepção e Abertura"
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T08:30:00-03:00",
+    "dataFim": "2023-10-21T09:15:00-03:00",
+    "descricao": "<p>Apresentação do tema surpresa da Game Jam e leitura das regras gerais com os organizadores <b>Lucas Nogueira</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Recepção e Abertura"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T09:15:00-03:00",
+    "dataFim": "2023-10-21T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Prototipagem Rápida em Godot: Do Conceito à Build em Horas</i> com o desenvolvedor <b>Rodrigo Sanches</b>.</p>",
+    "secao": "Aquecimento"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": null,
+    "dataInicio": "2023-10-21T10:30:00-03:00",
+    "dataFim": "2023-10-21T12:00:00-03:00",
+    "descricao": "<p>Sessão inicial de alinhamento de escopo e arquitetura com <b>Beatriz Martins</b> e <b>Felipe Andrade</b> nos canais das equipes.</p>",
+    "secao": "Desenvolvimento"
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": "Refeitório Universitário",
+    "dataInicio": "2023-10-21T12:00:00-03:00",
+    "dataFim": "2023-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-10-21T14:00:00-03:00",
+    "dataFim": "2023-10-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Design de Áudio Procedural para Jogos 2D</i> ministrado pela designer de som <b>Marina Peixoto</b>.</p>",
+    "secao": "Desenvolvimento"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": null,
+    "dataInicio": "2023-10-21T15:30:00-03:00",
+    "dataFim": "2023-10-21T17:00:00-03:00",
+    "descricao": "<p>Apoio na resolução de bugs e polimento de gameplay com os mentores <b>Felipe Andrade</b> e <b>Igor Vasconcelos</b>.</p>",
+    "secao": "Desenvolvimento"
+   },
+   {
+    "nome": "Coffee Break dos Hackers",
+    "lugar": null,
+    "dataInicio": "2023-10-21T17:00:00-03:00",
+    "dataFim": "2023-10-21T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Playtest Coletivo",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2023-10-21T18:00:00-03:00",
+    "dataFim": "2023-10-21T19:30:00-03:00",
+    "descricao": "<p>Troca de feedbacks entre equipes sob mediação de <b>Camila Duarte</b> e teste das versões alfa dos jogos produzidos.</p>",
+    "secao": "Avaliação"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T20:00:00-03:00",
+    "dataFim": "2023-10-21T21:30:00-03:00",
+    "descricao": "<p>Divulgação dos jogos vencedores e encerramento oficial conduzido por <b>Lucas Nogueira</b> e banca convidada.</p>",
+    "secao": "Avaliação"
+   }
+  ]
+ }
+}

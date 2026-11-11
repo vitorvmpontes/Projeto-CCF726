@@ -1,0 +1,181 @@
+{
+ "spec": {
+  "id": "sint-42-00462",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Florianópolis - SC",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 19,
+  "casos": [
+   "subtitulo_separado",
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:23+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 2967
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio de Pós-Graduação em Ecologia e Conservação da UFSC",
+   "local_geral": "Centro de Ciências Biológicas - Universidade Federal de Santa Catarina, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Bloco E",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora do programa, Profa. Dra. <b>Helena Schmidt</b>, e do diretor do centro, Prof. Dr. <b>Marcos Vinícius Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-19T09:30:00-03:00",
+    "dataFim": "2023-10-19T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem preditiva e cenários futuros para a conservação da biodiversidade costeira e marinha frente aos impactos severos das mudanças climáticas globais</i>.</p><p>Palestrante: Dr. <b>Carlos Eduardo Rezende</b> (UENF).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Bloco E",
+    "dataInicio": "2023-10-19T10:45:00-03:00",
+    "dataFim": "2023-10-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate 1",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-19T11:15:00-03:00",
+    "dataFim": "2023-10-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Restauração Ecológica na Mata Atlântica Sul: Desafios e Metas</i>.</p><p>Debatedores: Dra. <b>Fernanda Tavares de Lima</b> (UFPR) e Dr. <b>Rodrigo Assis Pires</b> (Epagri). Mediação: Profa. <b>Clarissa Meirelles</b> (UFSC).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:30:00-03:00",
+    "dataFim": "2023-10-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica A",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Análise quantitativa de dados ecológicos complexos utilizando pacotes avançados da linguagem computacional R em estudos de monitoramento da fauna</i>.</p><p>Instrutor: Dr. <b>Lucas Bitencourt Nogueira</b> (UFRGS).</p>",
+    "secao": "Workshops Metodológicos"
+   },
+   {
+    "nome": "Oficina Metodológica B",
+    "lugar": "Sala 104 - Bloco C",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Redação de Artigos Científicos em Ecologia para Periódicos Internacionais de Alto Fator de Impacto</i>.</p><p>Facilitadora: Dra. <b>Camila Duarte Ferreira</b> (USP).</p>",
+    "secao": "Workshops Metodológicos"
+   },
+   {
+    "nome": "Sessão de Painéis e Degustação Científica",
+    "lugar": "Pátio Coberto do CCB",
+    "dataInicio": "2023-10-19T17:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação dos trabalhos de mestrado e doutorado em andamento. Coordenação: <b>Thiago Antunes Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 1",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T09:45:00-03:00",
+    "descricao": "<p>Tema: <i>Interações tróficas e conservação de predadores de topo na Ilha de Santa Catarina</i>.</p><p>Palestrante: Dr. <b>Gustavo Ramos de Albuquerque</b> (ICMBio).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 2",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-20T09:45:00-03:00",
+    "dataFim": "2023-10-20T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Aplicações do sensoriamento remoto multiespectral via satélite e drones para quantificação da perda de cobertura vegetal florestal em bacias hidrográficas antropizadas</i>.</p><p>Palestrante: Profa. Dra. <b>Beatriz Mendonça Rios</b> (INPE).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall do Bloco E",
+    "dataInicio": "2023-10-20T10:45:00-03:00",
+    "dataFim": "2023-10-20T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicação Oral 1",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-10-20T11:15:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Apresentação das dissertações da linha de Dinâmica de Populações. Avaliadores: Dr. <b>Sérgio Paulo Vianna</b> e Dra. <b>Renata Castro Gomes</b>.</p>",
+    "secao": "Apresentações de Mestrandos"
+   },
+   {
+    "nome": "Comunicação Oral 2",
+    "lugar": "Sala 201 - Bloco C",
+    "dataInicio": "2023-10-20T11:15:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas em Ecologia de Paisagem e Fragmentação Florestal. Avaliadores: Dr. <b>Juliano Moreira</b> e Profa. <b>Vânia Lúcia Fontes</b>.</p>",
+    "secao": "Apresentações de Mestrandos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:30:00-03:00",
+    "dataFim": "2023-10-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda de Doutorandos",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Carreiras Acadêmicas e Além: Caminhos para Recém-Doutores em Biodiversidade</i>.</p><p>Participantes convidados: Dra. <b>Aline Peixoto</b> (Fundação Boticário), Dr. <b>Gabriel Dornelles</b> (Consultor Autônomo) e Dra. <b>Priscila Neves</b> (UFSC). Moderação: <b>Bruno Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-20T15:30:00-03:00",
+    "dataFim": "2023-10-20T16:45:00-03:00",
+    "descricao": "<p>Tema: <i>Ciência Cidadã e a Democratização do Conhecimento Ecológico</i>.</p><p>Palestrante: Prof. Dr. <b>Antônio Carlos Bastos</b> (UFRJ).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação",
+    "lugar": "Auditório Fritz Müller",
+    "dataInicio": "2023-10-20T16:45:00-03:00",
+    "dataFim": "2023-10-20T17:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio <i>Jovem Ecólogo 2023</i> para os melhores trabalhos apresentados no simpósio. Condução: Profa. <b>Helena Schmidt</b> e Prof. <b>Emílio Zanetti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Final",
+    "lugar": "Jardim das Bromélias - CCB",
+    "dataInicio": "2023-10-20T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

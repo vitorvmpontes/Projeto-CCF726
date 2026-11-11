@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00231",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:33+00:00",
+ "uso_tokens": {
+  "entrada": 677,
+  "saida": 1319
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXXIV Jogos Universitários da Zona da Mata",
+   "local_geral": "Faculdade de Educação Física e Desportos (FAEFID) - UFJF, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Desfile das Delegações e Abertura Oficial",
+    "lugar": "Ginásio Poliesportivo Central",
+    "dataInicio": "2027-05-14T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Cerimônia de abertura com acendimento da pira dos jogos, juramento dos atletas liderado por <b>Larissa Neves Gomide</b> e pronunciamento do reitor <b>Marcus Vinícius David</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Auditório 2 da FAEFID",
+    "dataInicio": "2027-05-15T08:30:00-03:00",
+    "dataFim": "2027-05-15T10:30:00-03:00",
+    "descricao": "<p>Apresentação da oficina <i>Metodologias contemporâneas para prevenção de lesões musculoesqueléticas no treinamento desportivo de alto rendimento entre atletas universitários</i>, conduzida pelo fisioterapeuta <b>Rodrigo Otávio Alvim</b> e mediada por <b>Carla Silveira Mendes</b>.</p>",
+    "secao": "Capacitação Esportiva"
+   },
+   {
+    "nome": "Fase Classificatória do Handebol Feminino",
+    "lugar": "Quadra Poliesportiva Coberta A",
+    "dataInicio": "2027-05-15T11:00:00-03:00",
+    "dataFim": "2027-05-15T14:00:00-03:00",
+    "descricao": "<p>Disputas da fase de grupos entre as atléticas inscritas com coordenação de arbitragem por <b>Fernando Peixoto</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório 1 da FAEFID",
+    "dataInicio": "2027-05-15T15:00:00-03:00",
+    "dataFim": "2027-05-15T17:00:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O impacto socioeconômico e a gestão estratégica de competições amadoras para sustentabilidade das associações atléticas acadêmicas mineiras</i>, com os palestrantes <b>Bernardo Figueiredo Rocha</b> e <b>Juliana Esteves Braga</b>.</p>",
+    "secao": "Capacitação Esportiva"
+   },
+   {
+    "nome": "Eliminatórias de Atletismo",
+    "lugar": "Pista de Atletismo Universitária",
+    "dataInicio": "2027-05-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Provas de 100m rasos e revezamento 4x100m sob coordenação técnica de <b>Antônio Carlos Magalhães Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Torneio de Judô Individual",
+    "lugar": "Dojô de Lutas da FAEFID",
+    "dataInicio": "2027-05-16T09:00:00-03:00",
+    "dataFim": "2027-05-16T12:30:00-03:00",
+    "descricao": "<p>Combates classificatórios e finais de todas as categorias de peso, sob supervisão do árbitro da federação <b>Kléber Matos de Paula</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Disputas Finais de Futsal Masculino",
+    "lugar": "Ginásio Poliesportivo Central",
+    "dataInicio": "2027-05-16T14:00:00-03:00",
+    "dataFim": "2027-05-16T17:00:00-03:00",
+    "descricao": "<p>Decisão do terceiro lugar e grande final do torneio masculino.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Premiação Geral e Cerimônia de Encerramento",
+    "lugar": "Ginásio Poliesportivo Central",
+    "dataInicio": "2027-05-16T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega de troféus e medalhas para as atléticas campeãs gerais conduzida por <b>Mariana Siqueira Toledo</b>.</p>",
+    "secao": "Solenidades"
+   }
+  ]
+ }
+}

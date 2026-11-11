@@ -1,0 +1,196 @@
+{
+ "spec": {
+  "id": "sint-42-00090",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "sem_local",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:23+00:00",
+ "uso_tokens": {
+  "entrada": 668,
+  "saida": 3150
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Sul-Brasileiro de Direito Público e Inovação Institucional",
+   "local_geral": "Centro de Eventos da PUCRS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-13T08:00:00-03:00",
+    "dataFim": "2027-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2027-05-13T09:00:00-03:00",
+    "dataFim": "2027-05-13T09:40:00-03:00",
+    "descricao": "<p>Boas-vindas com a presença do presidente da comissão organizadora, <b>Eduardo Bittencourt</b>, e da procuradora-geral <b>Clarissa Meneghetti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2027-05-13T09:40:00-03:00",
+    "dataFim": "2027-05-13T11:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Transformação Digital e os Desafios Regulatórios da Inteligência Artificial na Gestão e Contratação Pública Municipal e Estadual Contemporânea</i>. Participação dos palestrantes <b>Rodrigo Valença Pires</b> e <b>Mariana Fontes Becker</b>, sob mediação de <b>Luciano Vargas</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-13T11:00:00-03:00",
+    "dataFim": "2027-05-13T11:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial",
+    "lugar": null,
+    "dataInicio": "2027-05-13T11:20:00-03:00",
+    "dataFim": "2027-05-13T12:30:00-03:00",
+    "descricao": "<p>Apresentação do trabalho <i>Novos Contornos do Controle de Constitucionalidade e a Hermenêutica Judicial</i> pelo Ministro <b>Gustavo Henrique Maia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-13T12:30:00-03:00",
+    "dataFim": "2027-05-13T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático A",
+    "lugar": "Sala 204",
+    "dataInicio": "2027-05-13T14:00:00-03:00",
+    "dataFim": "2027-05-13T15:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>O Papel da Arbitragem nos Conflitos das Concessões Administrativas</i> com exposições de <b>Patrícia Albuquerque Ramos</b> e <b>Tiago Salgado Silva</b>.</p>",
+    "secao": "Painéis Simultâneos"
+   },
+   {
+    "nome": "Painel Temático B",
+    "lugar": null,
+    "dataInicio": "2027-05-13T14:00:00-03:00",
+    "dataFim": "2027-05-13T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Transparência Ativa e Proteção de Dados Pessoais na Administração</i> com a especialista <b>Renata Silveira D'Ávila</b>.</p>",
+    "secao": "Painéis Simultâneos"
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2027-05-13T15:40:00-03:00",
+    "dataFim": "2027-05-13T17:00:00-03:00",
+    "descricao": "<p>Encontro sobre <i>Segurança Jurídica na Lei de Introdução às Normas do Direito Brasileiro</i>. Painelistas convidados: <b>Fabiano Morales Fagundes</b> e <b>Helena Soares Guimarães</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Galeria de Convivência",
+    "dataInicio": "2027-05-13T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação e avaliação dos trabalhos selecionados com a coordenação acadêmica de <b>Juliana Meireles</b> e <b>Bruno Costa Zanin</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Vespertina",
+    "lugar": null,
+    "dataInicio": "2027-05-13T17:30:00-03:00",
+    "dataFim": "2027-05-13T19:00:00-03:00",
+    "descricao": "<p>Conferência tratando dos <i>Impactos Práticos da Reforma Tributária Sobre o Pacto Federativo e o Equilíbrio Orçamentário nos Municípios da Região Sul</i>, proferida por <b>Carlos Alberto Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Boas-Vindas",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2027-05-13T19:15:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Jurídico 102",
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Elaboração de Termos de Ajustamento de Conduta e Solução Consensual</i> conduzida por <b>Vinícius Peçanha</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": null,
+    "dataInicio": "2027-05-14T08:30:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Técnicas de Mediação Comunitária e Negociação para Advogados Públicos</i>, ministrado por <b>Marta Figueiredo Santos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-14T10:00:00-03:00",
+    "dataFim": "2027-05-14T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2027-05-14T10:20:00-03:00",
+    "dataFim": "2027-05-14T12:00:00-03:00",
+    "descricao": "<p>Mesa centrada na análise da <i>Responsabilidade Civil do Estado por Omissão e Desastres Climáticos</i> com exposições de <b>Cláudio Dornelles</b>, <b>Camila Antunes Rios</b> e intervenção de <b>Guilherme Pacheco</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-14T12:00:00-03:00",
+    "dataFim": "2027-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 4",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2027-05-14T13:30:00-03:00",
+    "dataFim": "2027-05-14T15:00:00-03:00",
+    "descricao": "<p>Mesa examinando os <i>Mecanismos de Combate à Corrupção e Programas de Integridade Corporativa</i>, apresentada por <b>Otávio Lins Mendonça</b> e <b>Beatriz Nogueira Frota</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Tribuna de Artigos",
+    "lugar": null,
+    "dataInicio": "2027-05-14T15:15:00-03:00",
+    "dataFim": "2027-05-14T16:45:00-03:00",
+    "descricao": "<p>Defesa dos três melhores trabalhos do congresso. Coordenação da mesa de avaliação sob encargo de <b>Tatiana Silvano Ortiz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 5",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2027-05-14T17:00:00-03:00",
+    "dataFim": "2027-05-14T18:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>A Eficácia dos Precedentes Vinculantes e a Uniformização Jurisprudencial nos Tribunais Superiores</i> conduzida pelos desembargadores <b>Paulo Roberto Cavalcanti</b> e <b>Denise Arruda Moura</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Solenidade de Encerramento e Premiação",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2027-05-14T18:30:00-03:00",
+    "dataFim": "2027-05-14T19:30:00-03:00",
+    "descricao": "<p>Anúncio dos premiados do concurso de teses e considerações finais pela coordenadora-geral <b>Clarissa Meneghetti</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

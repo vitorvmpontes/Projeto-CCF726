@@ -1,0 +1,381 @@
+{
+ "spec": {
+  "id": "sint-42-00359",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 44,
+  "casos": [
+   "descricoes_ricas",
+   "atividades_paralelas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:04+00:00",
+ "uso_tokens": {
+  "entrada": 664,
+  "saida": 7143
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIX Congresso Brasileiro de Medicina Tropical e Infectologia da Bahia",
+   "local_geral": "Centro de Convenções Salvador, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-13T07:30:00-03:00",
+    "dataFim": "2025-08-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Curso Pré-Congresso 1",
+    "lugar": "Sala Itapuã",
+    "dataInicio": "2025-08-13T09:00:00-03:00",
+    "dataFim": "2025-08-13T12:00:00-03:00",
+    "descricao": "<p>Tema: Manejo Clínico de Arboviroses Emergentes. Instrutor: <b>Dr. Marcelo Tavares Bastos</b>.</p>",
+    "secao": "Cursos Pré-Congresso"
+   },
+   {
+    "nome": "Curso Pré-Congresso 2",
+    "lugar": "Sala Pelourinho",
+    "dataInicio": "2025-08-13T09:00:00-03:00",
+    "dataFim": "2025-08-13T12:00:00-03:00",
+    "descricao": "<p>Tema: Atualização em Terapia Antirretroviral e Resistência Viral. Coordenação de <b>Dra. Simone Galvão Nogueira</b> e facilitação por <b>Dr. Roberto Badaró Filho</b>.</p>",
+    "secao": "Cursos Pré-Congresso"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-08-13T12:00:00-03:00",
+    "dataFim": "2025-08-13T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório Multiuso A",
+    "dataInicio": "2025-08-13T13:30:00-03:00",
+    "dataFim": "2025-08-13T16:30:00-03:00",
+    "descricao": "<p>Tema: Métodos Diagnósticos Rápidos em Parasitologia Clínica. Ministrante: <b>Profa. Dra. Heloísa Ramos Gusmão</b>.</p>",
+    "secao": "Cursos Pré-Congresso"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-13T16:30:00-03:00",
+    "dataFim": "2025-08-13T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-13T17:30:00-03:00",
+    "dataFim": "2025-08-13T18:30:00-03:00",
+    "descricao": "<p>Composição da mesa de abertura presidida por <b>Dr. Antônio Carlos Bandeira Neto</b> com a presença de <b>Dra. Fernanda Vilas-Boas</b> e <b>Secretária Roberta Santana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-13T18:30:00-03:00",
+    "dataFim": "2025-08-13T19:30:00-03:00",
+    "descricao": "<p><i>Cinquenta Anos de Desafios em Doenças Negligenciadas no Nordeste Brasileiro</i> proferida pelo <b>Prof. Dr. Mitermayer Galvão dos Reis</b>. Presidente da sessão: <b>Dra. Eliana Dias Bicudo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Boas-Vindas",
+    "lugar": "Terraço Baía de Todos os Santos",
+    "dataInicio": "2025-08-13T19:30:00-03:00",
+    "dataFim": "2025-08-13T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-14T08:30:00-03:00",
+    "dataFim": "2025-08-14T10:00:00-03:00",
+    "descricao": "<p>Tema: Avanços no Enfrentamento das Leishmanioses. Coordenação de <b>Dra. Aldina Barral</b>. Palestras: <i>Patogênese e biomarcadores na leishmaniose cutânea</i> por <b>Dr. Lucas Pedreira de Carvalho</b>; <i>Novas formulações terapêuticas para leishmaniose visceral</i> por <b>Dr. Jackson Lemos de Souza</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Sala Itapuã",
+    "dataInicio": "2025-08-14T08:30:00-03:00",
+    "dataFim": "2025-08-14T10:00:00-03:00",
+    "descricao": "<p>Tema: Desafios Terapêuticos em Infecções por Fungos Multirresistentes. Coordenação: <b>Dr. Carlos Henrique Nery Costa</b>. Palestrantes: <b>Dra. Maria Goreth Barberino</b> abordando <i>Candida auris: epidemiologia e controle hospitalar</i> e <b>Dr. Flávio Queiroz Telles</b> com <i>Paracoccidioidomicose grave no paciente imunocomprometido</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Sessão de Pôsteres 1",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2025-08-14T10:00:00-03:00",
+    "dataFim": "2025-08-14T10:45:00-03:00",
+    "descricao": "<p>Avaliação dos trabalhos de Epidemiologia de Campo pelos avaliadores <b>Dra. Thaís Saback</b> e <b>Dr. Bruno Bezerril Andrade</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-14T10:00:00-03:00",
+    "dataFim": "2025-08-14T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Temática 1",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-14T10:45:00-03:00",
+    "dataFim": "2025-08-14T11:45:00-03:00",
+    "descricao": "<p><i>Impacto das Mudanças Climáticas nos Vetores Tropicais</i> apresentada pelo <b>Prof. Dr. Pedro Vasconcelos</b>. Moderação de <b>Dra. Celina Turchi Martelli</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite Farma",
+    "lugar": "Sala Barra",
+    "dataInicio": "2025-08-14T12:00:00-03:00",
+    "dataFim": "2025-08-14T13:15:00-03:00",
+    "descricao": "<p>Tema: Inovações em Vacinas contra Herpes-Zóster. Palestrante convidado: <b>Dr. Esper Georges Kallás</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-14T13:15:00-03:00",
+    "dataFim": "2025-08-14T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala Rio Vermelho",
+    "dataInicio": "2025-08-14T14:15:00-03:00",
+    "dataFim": "2025-08-14T15:45:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Dra. Viviane Boaventura</b>.<br>Trabalhos apresentados:<br>1. <i>Vigilância Genômica de Oropouche no Recôncavo Baiano</i> - Apresentador: <b>Igor Santana Cerqueira</b>.<br>2. <i>Perfil de Resistência Bacteriana em UTIs de Salvador</i> - Apresentadora: <b>Camila Duarte de Almeida</b>.<br>3. <i>Eficácia de Novas Moléculas contra Tripanossomatídeos</i> - Apresentador: <b>Felipe Peixoto Paim</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-14T14:15:00-03:00",
+    "dataFim": "2025-08-14T15:45:00-03:00",
+    "descricao": "<p>Tema: Infecções Hospitalares por Germes Multirresistentes. Moderação: <b>Dr. Juarez de Oliveira Castro</b>. Palestras por <b>Dra. Silvia Figueiredo Costa</b> sobre <i>Uso racional de antimicrobianos de última geração</i> e <b>Dr. Lauro Pinto Neto</b> sobre <i>Controle de surtos em unidades críticas</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-14T15:45:00-03:00",
+    "dataFim": "2025-08-14T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-14T16:15:00-03:00",
+    "dataFim": "2025-08-14T18:00:00-03:00",
+    "descricao": "<p>Tema: Saúde Indígena e Políticas Públicas de Controle da Malária. Debatedores: <b>Dr. Maurício Lacerda Nogueira</b>, <b>Dra. Vanessa Carregaro</b> e a liderança convidada <b>Dra. Juliana Guajajara Santos</b>. Mediador: <b>Dr. Guilherme de Sousa Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Consórcio de Pesquisa",
+    "lugar": "Sala Ondina",
+    "dataInicio": "2025-08-14T18:00:00-03:00",
+    "dataFim": "2025-08-14T19:30:00-03:00",
+    "descricao": "<p>Encontro da Rede Baiana de Estudos em Tuberculose. Coordenação: <b>Dra. Theolis Barbosa Bessa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-15T08:30:00-03:00",
+    "dataFim": "2025-08-15T10:00:00-03:00",
+    "descricao": "<p>Tema: Coinfecção Tuberculose-HIV: Desafios Contemporâneos. Coordenador: <b>Dr. Eduardo Martins Netto</b>. Palestrantes: <b>Dra. Valéria Cavalcanti Rolla</b> com <i>Tratamento preventivo da tuberculose em pessoas vivendo com HIV</i> e <b>Dr. Afranio Lineu Kritski</b> com <i>Diagnósticos moleculares rápidos na rotina hospitalar</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 5",
+    "lugar": "Sala Pelourinho",
+    "dataInicio": "2025-08-15T08:30:00-03:00",
+    "dataFim": "2025-08-15T10:00:00-03:00",
+    "descricao": "<p>Tema: Esquistossomose Mansônica e Geo-helmintíases na Atenção Primária. Coordenação de <b>Dra. Clarice Neuenschwander Lins de Morais</b>. Participações de <b>Dr. Ronaldo Cesar Borges Gryschek</b> e <b>Profa. Eliana Maria Maurício da Rocha</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Sessão de Pôsteres 2",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2025-08-15T10:00:00-03:00",
+    "dataFim": "2025-08-15T10:45:00-03:00",
+    "descricao": "<p>Apresentação de banners sobre Ensaios Clínicos e Novos Fármacos. Avaliadores: <b>Dr. Manoel Barral-Netto</b> e <b>Dra. Neuza Maria Alcantara-Neves</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo Técnico",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-15T10:00:00-03:00",
+    "dataFim": "2025-08-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Temática 2",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-15T10:45:00-03:00",
+    "dataFim": "2025-08-15T11:45:00-03:00",
+    "descricao": "<p><i>Vacinas de RNA Mensageiro: Lições da Pandemia e Aplicações em Doenças Tropicais</i> com o conferencista <b>Dr. Ricardo Tostes Gazzinelli</b>. Apresentação por <b>Dra. Marilda de Souza Gonçalves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite Diagnósticos",
+    "lugar": "Sala Barra",
+    "dataInicio": "2025-08-15T12:00:00-03:00",
+    "dataFim": "2025-08-15T13:15:00-03:00",
+    "descricao": "<p>Avanços em Testes Moleculares Point-of-Care para Arboviroses. Palestrante: <b>Dr. Jaime Louzada</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-08-15T13:15:00-03:00",
+    "dataFim": "2025-08-15T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala Rio Vermelho",
+    "dataInicio": "2025-08-15T14:15:00-03:00",
+    "dataFim": "2025-08-15T15:45:00-03:00",
+    "descricao": "<p>Coordenador: <b>Dr. Washington Luis Conrado dos-Santos</b>.<br>Trabalhos selecionados:<br>1. <i>Avaliação da Carga Viral de Dengue em Pacientes Críticos</i> por <b>Juliana Pires Carvalho</b>.<br>2. <i>Manifestações Neurológicas Associadas ao Vírus Chikungunya</i> por <b>Renan Rodrigues Brandão</b>.<br>3. <i>Evolução Clínica de Pacientes com Febre Amarela Vacinal</i> por <b>Mariana Aragão Neves</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Sala Itapuã",
+    "dataInicio": "2025-08-15T14:15:00-03:00",
+    "dataFim": "2025-08-15T15:45:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Dra. Nívea Farias Luz</b>.<br>Trabalhos:<br>1. <i>Inquérito Soroepidemiológico de Doença de Chagas no Sertão Baiano</i> por <b>Lucas Medeiros Rocha</b>.<br>2. <i>Resistência aos Benzimidazóis em Estrongiloidíase</i> por <b>Patrícia Prado Albuquerque</b>.<br>3. <i>Impacto da Desnutrição Infantil na Gravidade da Leishmaniose</i> por <b>Rodrigo Cordeiro Leal</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo para Café da Tarde",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-15T15:45:00-03:00",
+    "dataFim": "2025-08-15T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Temático",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-15T16:15:00-03:00",
+    "dataFim": "2025-08-15T17:45:00-03:00",
+    "descricao": "<p>Tema: Febre Amarela e Cobertura Vacinal no Brasil. Moderador: <b>Dr. Carlos Brito</b>. Participantes: <b>Dra. Cristina Pimenta</b> e <b>Dr. José Geraldo Leite Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral Ordinária",
+    "lugar": "Sala Pelourinho",
+    "dataInicio": "2025-08-15T18:00:00-03:00",
+    "dataFim": "2025-08-15T19:30:00-03:00",
+    "descricao": "<p>Reunião estatutária da Sociedade Baiana de Infectologia conduzida pelo presidente <b>Dr. Ceuci de Lima Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Jantar por Adesão",
+    "lugar": "Restaurante Senac Pelourinho",
+    "dataInicio": "2025-08-15T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 6",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-16T08:30:00-03:00",
+    "dataFim": "2025-08-16T10:00:00-03:00",
+    "descricao": "<p>Tema: Hepatites Virais B e C: Rumo à Eliminação em 2030. Coordenação: <b>Dr. Raymundo Paraná</b>. Palestrantes: <b>Dra. Maria Lúcia Gomes Ferraz</b> abordando <i>Retratamento da hepatite C após falha virológica</i> e <b>Dr. Paulo Roberto Abrão Ferreira</b> com <i>Tratamento da hepatite Delta</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 7",
+    "lugar": "Sala Pelourinho",
+    "dataInicio": "2025-08-16T08:30:00-03:00",
+    "dataFim": "2025-08-16T10:00:00-03:00",
+    "descricao": "<p>Tema: Hanseníase: Diagnóstico Precoce e Manejo das Reações. Coordenador: <b>Dr. Gerson Oliveira Penna</b>. Debatedoras: <b>Dra. Alice de Miranda Machado</b> e <b>Dra. Patricia Sammarco Rosa</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Intervalo para Café Matinal",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-16T10:00:00-03:00",
+    "dataFim": "2025-08-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Temática 3",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-16T10:30:00-03:00",
+    "dataFim": "2025-08-16T11:30:00-03:00",
+    "descricao": "<p><i>Epidemias do Século XXI: Estamos Preparados para a Próxima Doença X?</i> ministrada pelo <b>Prof. Dr. Rivaldo Venâncio da Cunha</b> com introdução de <b>Dra. Maria da Glória Teixeira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Casos Clínicos Interativos",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-16T11:30:00-03:00",
+    "dataFim": "2025-08-16T12:45:00-03:00",
+    "descricao": "<p>Apresentadores dos enigmas clínicos: <b>Dr. Marcos Boulos</b> e <b>Dr. Cláudio Flauzino de Oliveira</b>. Discussão aberta com a plateia.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-08-16T12:45:00-03:00",
+    "dataFim": "2025-08-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Destaques da Pesquisa Baiana",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-16T14:00:00-03:00",
+    "dataFim": "2025-08-16T15:30:00-03:00",
+    "descricao": "<p>Apresentação oral dos 3 melhores artigos selecionados pelo comitê científico. Coordenadora: <b>Dra. Suani Pinho</b>.<br>1. <i>Epidemiologia molecular da Leptospirose em Salvador</i> - <b>Dr. Federico Costa</b>.<br>2. <i>Vigilância integrada de Arboviroses em Comunidades Urbanas</i> - <b>Dra. Jamary Oliveira</b>.<br>3. <i>Eficácia de Novas Estratégias Imunoterápicas na HTLV-1</i> - <b>Dr. Bernardo Galvão Castro Filho</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-16T15:30:00-03:00",
+    "dataFim": "2025-08-16T16:30:00-03:00",
+    "descricao": "<p><i>O Futuro da Infectologia no Brasil: Integração da Ciência com a Atenção Básica</i> conferenciada pela <b>Dra. Nísia Trindade Lima</b>. Apresentação: <b>Dr. Antônio Carlos Bandeira Neto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-16T16:30:00-03:00",
+    "dataFim": "2025-08-16T17:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Professor Aluízio Prata conduzida pelo presidente da comissão avaliadora, <b>Dr. Edgar Marcelino de Carvalho Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-16T17:00:00-03:00",
+    "dataFim": "2025-08-16T17:30:00-03:00",
+    "descricao": "<p>Pronunciamento final da presidência do evento e anúncio da sede da próxima edição por <b>Dr. Antônio Carlos Bandeira Neto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

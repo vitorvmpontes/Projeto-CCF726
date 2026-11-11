@@ -1,0 +1,134 @@
+{
+ "spec": {
+  "id": "sint-42-00127",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos",
+   "sem_local",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:25+00:00",
+ "uso_tokens": {
+  "entrada": 694,
+  "saida": 1931
+ },
+ "saida": {
+  "evento": {
+   "nome": "PoA DevJam 2023: Hackathon e Mostra Independente de Jogos",
+   "local_geral": "Tecnopuc - Porto Alegre, RS"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema Secreto",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2023-11-17T18:00:00-03:00",
+    "dataFim": "2023-11-17T19:30:00-03:00",
+    "descricao": "<p>Apresentação das regras da maratona e anúncio do tema oficial conduzida por <b>Mariana Dornelles</b> e <b>Lucas Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Início da Prototipação e Formação de Equipes",
+    "lugar": "Espaço Coworking Central",
+    "dataInicio": "2023-11-17T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Dinâmica para conexão de desenvolvedores solo e alinhamento de escopo para as primeiras sprints.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentoria Noturna",
+    "lugar": null,
+    "dataInicio": "2023-11-17T23:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão aberta de tira-dúvidas técnicas e de game design com <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Otimização e Arquitetura de Software Escalável Voltada para Motores Gráficos de Baixo Desempenho e Dispositivos Móveis Populares",
+    "lugar": "Lab 204",
+    "dataInicio": "2023-11-18T10:00:00-03:00",
+    "dataFim": "2023-11-18T12:00:00-03:00",
+    "descricao": "<p>Oficina prática abordando técnicas avançadas de renderização apresentada por <b>Rodrigo Bressan</b> sobre <i>Arquiteturas Eficientes no Desenvolvimento de Jogos 2D e 3D</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop de Criação de Trilha Sonora Interativa Usando Ferramentas Gratuitas e Técnicas Modernas de Composição Dinâmica para Jogos Independentes",
+    "lugar": "Lab Multimídia 101",
+    "dataInicio": "2023-11-18T10:00:00-03:00",
+    "dataFim": "2023-11-18T12:00:00-03:00",
+    "descricao": "<p>Atividade ministrada pela compositora <b>Beatriz Valença</b> com foco em áudio adaptativo através do FMOD.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": null,
+    "dataInicio": "2023-11-18T12:30:00-03:00",
+    "dataFim": "2023-11-18T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Playtest Aberto e Validação de Gameplay",
+    "lugar": "Hall do Prédio 32",
+    "dataInicio": "2023-11-18T16:00:00-03:00",
+    "dataFim": "2023-11-18T18:00:00-03:00",
+    "descricao": "<p>Momento reservado para troca de feedbacks entre equipes sob coordenação de <b>Thiago Pires</b>.</p>",
+    "secao": "Sessões Práticas"
+   },
+   {
+    "nome": "Painel de Acessibilidade em Jogos",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2023-11-18T16:00:00-03:00",
+    "dataFim": "2023-11-18T17:30:00-03:00",
+    "descricao": "<p>Discussão mediada por <b>Camila Guterres</b> com participação dos especialistas <b>Felipe Fagundes</b> e <b>Aline Morales</b>.</p>",
+    "secao": "Sessões Práticas"
+   },
+   {
+    "nome": "Madrugada de Código e Pizza",
+    "lugar": "Espaço Coworking Central",
+    "dataInicio": "2023-11-18T23:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Congelamento de Código e Submissão dos Projetos",
+    "lugar": null,
+    "dataInicio": "2023-11-19T12:00:00-03:00",
+    "dataFim": "2023-11-19T13:00:00-03:00",
+    "descricao": "<p>Prazo fatal para upload das builds na plataforma itch.io com suporte técnico de <b>Vinícius Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra sobre Estratégias Comerciais de Lançamento e Monetização Sustentável em Plataformas Digitais para Pequenos Estúdios de Jogos Independentes",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2023-11-19T14:30:00-03:00",
+    "dataFim": "2023-11-19T15:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Guilherme Rossi</b> compartilhando dados de mercado e o case <i>Do Protótipo ao Sucesso Global na Steam</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Banca de Avaliação e Demonstrações ao Vivo",
+    "lugar": "Arena Tech",
+    "dataInicio": "2023-11-19T16:00:00-03:00",
+    "dataFim": "2023-11-19T18:00:00-03:00",
+    "descricao": "<p>Apresentação das cinco melhores produções para os jurados <b>Rafaela Castro</b>, <b>Diego Antunes</b> e <b>Paula Meneghetti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-11-19T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos vencedores de cada categoria com entrega de troféus organizada por <b>Mariana Dornelles</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

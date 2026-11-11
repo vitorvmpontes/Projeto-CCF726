@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00081",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "São Paulo - SP",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:32+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 1284
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Paulista de Direito Digital e Novas Tecnologias",
+   "local_geral": "Centro de Convenções Rebouças, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Welcome Coffee",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Abertura",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas e introdução ao congresso com a participação de <b>Dr. Marcos Vinicius Silveira</b> e <b>Dra. Cecília Meireles Brandão</b>.</p>",
+    "secao": "Painéis da Manhã"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-18T10:15:00-03:00",
+    "dataFim": "2026-05-18T11:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>A Responsabilidade Civil e os Algoritmos Preditivos no Direito Contemporâneo</i>. Coordenação de <b>Prof. Renato Guimarães</b> e exposições de <b>Dra. Juliana Prado Vasconcellos</b> e <b>Dr. Fábio Esteves</b>.</p>",
+    "secao": "Painéis da Manhã"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante do Centro de Convenções",
+    "dataInicio": "2026-05-18T11:45:00-03:00",
+    "dataFim": "2026-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-18T13:30:00-03:00",
+    "dataFim": "2026-05-18T15:15:00-03:00",
+    "descricao": "<p>Discussão com foco em <i>Governança de Dados e Compliance em Ambientes Digitais</i>. Mesa conduzida por <b>Dra. Luciana Telles Arruda</b>, com palestras de <b>Dr. Thiago Nogueira Pires</b> e <b>Dra. Beatriz Fontana</b>.</p>",
+    "secao": "Painéis da Tarde"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-18T15:15:00-03:00",
+    "dataFim": "2026-05-18T15:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-18T15:45:00-03:00",
+    "dataFim": "2026-05-18T17:15:00-03:00",
+    "descricao": "<p>Apresentação de reflexões a respeito de <i>Jurisdição Internacional e Conflitos de Leis na Nuvem</i>, mediada por <b>Dr. Otávio Ramos Cordeiro</b>, acompanhado dos debatedores <b>Profa. Helena Albuquerque</b> e <b>Dr. Daniel Mendonça Filho</b>.</p>",
+    "secao": "Painéis da Tarde"
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2026-05-18T17:15:00-03:00",
+    "dataFim": "2026-05-18T18:00:00-03:00",
+    "descricao": "<p>Conferência <i>O Futuro da Advocacia frente à Regulação Tecnológica</i> ministrada pelo Ministro <b>Carlos Eduardo Valente</b> com encerramento por <b>Dra. Cecília Meireles Brandão</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

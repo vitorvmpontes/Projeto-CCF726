@@ -1,0 +1,171 @@
+{
+ "spec": {
+  "id": "sint-42-00345",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Macapá - AP",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:31+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 3363
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Amapaense de Direito Ambiental e Sustentabilidade na Amazônia",
+   "local_geral": "Centro de Convenções Azevedo Picanço, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-22T08:00:00-03:00",
+    "dataFim": "2025-05-22T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-22T09:00:00-03:00",
+    "dataFim": "2025-05-22T09:40:00-03:00",
+    "descricao": "<p>Abertura institucional presidida pela Dra. <b>Regina Lúcia Barreto</b>, com pronunciamento de autoridades do sistema de Justiça amapaense.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Inaugural",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-22T09:40:00-03:00",
+    "dataFim": "2025-05-22T10:45:00-03:00",
+    "descricao": "<p>Palestra inaugural intitulada <i>O Regime Jurídico das Águas e o Marco Regulatório do Estuário Amazônico</i>, proferida pelo Prof. Dr. <b>Carlos Eduardo Malcher</b>. Coordenação da mesa por <b>Helena Viana Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço de Convivência e Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-22T10:45:00-03:00",
+    "dataFim": "2025-05-22T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda I",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-22T11:15:00-03:00",
+    "dataFim": "2025-05-22T12:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Proteção de Terras Indígenas e Comunidades Tradicionais: Desafios Jurisdicionais</i>. Coordenadora: Desa. <b>Márcia do Socorro Mendonça</b>. Palestrantes convidados: Procurador <b>Fábio Teles de Menezes</b> abordando <i>Consultas Prévias e Convenção 169 da OIT</i> e a Profa. Dra. <b>Samara Guajajara Alencar</b> expondo <i>Direitos Territorialistas e Tutela Coletiva</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-22T12:45:00-03:00",
+    "dataFim": "2025-05-22T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda II",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-22T14:15:00-03:00",
+    "dataFim": "2025-05-22T16:00:00-03:00",
+    "descricao": "<p>Discussão temática com foco em <i>Mineração Sustentável, Compensação Ecológica e Responsabilidade Civil</i>. Coordenação do Dr. <b>Vicente Prado Júnior</b>. Palestras ministradas pelo Juiz Federal <b>Thiago Albuquerque dos Anjos</b> com <i>Dano Ambiental Reflexo e Jurisprudência dos Tribunais Superiores</i> e da Dra. <b>Letícia Nogueira Paiva</b> com <i>Governança ESG e Auditoria Externa</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço Samaúma",
+    "dataInicio": "2025-05-22T16:00:00-03:00",
+    "dataFim": "2025-05-22T17:00:00-03:00",
+    "descricao": "<p>Coordenação dos avaliadores Prof. <b>Bruno Castro e Silva</b> e Profa. <b>Denise Portela</b>. Trabalhos em exibição:</p><p>- <i>Análise da Fiscalização Ambiental pelo IBAMA no Estado do Amapá (2020-2024)</i>, por <b>Lucas Gabriel Rocha</b>;</p><p>- <i>O Papel da Defensoria Pública nas Demandas Ribeirinhas do Bailique</i>, por <b>Camila Duarte Picanço</b>;</p><p>- <i>Pagamentos por Serviços Ambientais na Foz do Amazonas</i>, por <b>Rodrigo Otávio Pinheiro</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda III",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-22T17:00:00-03:00",
+    "dataFim": "2025-05-22T18:45:00-03:00",
+    "descricao": "<p>Mesa centrada em <i>Crimes Ambientais e Processo Penal no Contexto Transfronteiriço</i>, coordenada pelo Promotor <b>Fernando Gusmão Ribeiro</b>. Debatedores: Delegada <b>Clarissa Mendes Bastos</b> apresentando <i>Cooperação Internacional e Tráfico de Madeira na Faixa de Fronteira</i> e Dr. <b>Jean-Luc Bertrand</b> apresentando <i>Perspectivas do Direito Francês na Guiana Francesa</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Recepção Cultural e Lançamento de Livros",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-22T19:00:00-03:00",
+    "dataFim": "2025-05-22T20:30:00-03:00",
+    "descricao": "<p>Apresentação artística regional e sessão de autógrafos da obra coletiva coordenada por <b>Regina Lúcia Barreto</b> e <b>Carlos Eduardo Malcher</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda IV",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-23T08:30:00-03:00",
+    "dataFim": "2025-05-23T10:15:00-03:00",
+    "descricao": "<p>Sessão sob o tema <i>Bioeconomia, Propriedade Intelectual e Conhecimentos Tradicionais</i>. Coordenador: Prof. <b>Danilo Maciel Farias</b>. Expositores: Dra. <b>Soraya Vasconcelos</b> com <i>Patenteamento de Fármacos Naturais e Biopirataria</i> e o Dr. <b>Gilberto Matos Uchôa</b> com <i>Repartição Justa de Benefícios nos Acordos Internacionais</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Pausa para Café Regional",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-23T10:15:00-03:00",
+    "dataFim": "2025-05-23T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala de Reuniões Bacaba",
+    "dataInicio": "2025-05-23T10:45:00-03:00",
+    "dataFim": "2025-05-23T12:30:00-03:00",
+    "descricao": "<p>Coordenadora: Profa. <b>Alba Cilene Ramos</b>. Apresentações de pesquisas aprovadas:</p><p>- <i>Regularização Fundiária e Conflitos Agrários no Sul do Amapá</i>, apresentado por <b>Marcelo Brito Gusmão</b>;</p><p>- <i>Eficácia dos Termos de Ajustamento de Conduta em Ilhas Fluviais</i>, apresentado por <b>Tatiana Meireles Costa</b>;</p><p>- <i>Políticas de Resíduos Sólidos Urbanos e Catadores de Macapá</i>, apresentado por <b>Renato Cordeiro Leite</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala de Reuniões Cupuaçu",
+    "dataInicio": "2025-05-23T10:45:00-03:00",
+    "dataFim": "2025-05-23T12:30:00-03:00",
+    "descricao": "<p>Coordenador: Prof. <b>Igor Cavalcante Chaves</b>. Apresentações dos artigos selecionados:</p><p>- <i>A Litigância Climática e os Direitos das Futuras Gerações na Amazônia</i>, por <b>Juliana Pantoja Lobato</b>;</p><p>- <i>Impactos Jurídico-Ambientais da Infraestrutura Portuária de Santana</i>, por <b>André Felipe Serrão</b>;</p><p>- <i>O Papel do Tribunal de Contas na Fiscalização de Gastos Ambientais</i>, por <b>Marina Esteves Cunha</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-23T12:30:00-03:00",
+    "dataFim": "2025-05-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda V",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-23T14:00:00-03:00",
+    "dataFim": "2025-05-23T16:00:00-03:00",
+    "descricao": "<p>Painel final com o debate <i>Crise Climática, Transição Energética e Petróleo na Margem Equatorial</i>. Coordenação realizada pelo Procurador do Estado <b>Walmir Fontes Aragão</b>. Participação de <b>Beatriz Nery Junqueira</b> com a intervenção <i>Segurança Energética e Licenciamento Offshore</i> e de <b>Marcos Vinícius Trindade</b> abordando <i>Princípio da Precaução e Riscos para Biomas Costeiros</i>.</p>",
+    "secao": "Mesas-Redondas Temáticas"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-23T16:15:00-03:00",
+    "dataFim": "2025-05-23T17:30:00-03:00",
+    "descricao": "<p>Conferência especial <i>O Futuro do Constitucionalismo Ecológico Latino-Americano</i>, proferida pelo Ministro <b>Hermes Brandão Fontenele</b>, com mediação do Juiz <b>Otávio Simões Neto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2025-05-23T17:30:00-03:00",
+    "dataFim": "2025-05-23T18:15:00-03:00",
+    "descricao": "<p>Divulgação dos melhores artigos científicos das sessões orais e leitura da Carta de Macapá, sob condução de <b>Regina Lúcia Barreto</b> e comissão julgadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

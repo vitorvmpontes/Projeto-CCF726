@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00066",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:21+00:00",
+ "uso_tokens": {
+  "entrada": 665,
+  "saida": 890
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros 2023 - UFG",
+   "local_geral": "Câmpus Samambaia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall do Centro de Aulas D",
+    "dataInicio": "2023-03-20T08:00:00-03:00",
+    "dataFim": "2023-03-20T09:30:00-03:00",
+    "descricao": null,
+    "secao": "Recepção Institucional"
+   },
+   {
+    "nome": "Boas-Vindas da Reitoria e Apresentação do Câmpus",
+    "lugar": "Centro de Eventos Professor Ricardo Freua Bufáiçal",
+    "dataInicio": "2023-03-20T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura oficial com a presença da reitora <b>Angelita Pereira de Lima</b> e pró-reitores, seguida pela conferência <i>Universidade Pública e Democracia: Caminhos para a Formação Cidadã</i> com o professor <b>Luiz Mello</b>.</p>",
+    "secao": "Recepção Institucional"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": null,
+    "dataInicio": "2023-03-20T12:00:00-03:00",
+    "dataFim": "2023-03-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelos Coletivos Estudantis",
+    "lugar": null,
+    "dataInicio": "2023-03-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Caminhada de reconhecimento dos prédios acadêmicos, bibliotecas e áreas de convivência coordenada pelos representantes do DCE <b>Mariana Rios</b> e <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": "Integração Comunitária"
+   },
+   {
+    "nome": "Lanche Coletivo e Tenda de Apadrinhamento",
+    "lugar": null,
+    "dataInicio": "2023-03-21T09:00:00-03:00",
+    "dataFim": "2023-03-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Integração Comunitária"
+   },
+   {
+    "nome": "Roda de Conversa com Veteranos",
+    "lugar": null,
+    "dataInicio": "2023-03-21T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Bate-papo informal sobre saúde mental, permanência estudantil e rotina acadêmica, com mediação da psicóloga <b>Renata Vasconcelos</b> e depoimentos dos formandos <b>Diego Nogueira</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Integração Comunitária"
+   }
+  ]
+ }
+}

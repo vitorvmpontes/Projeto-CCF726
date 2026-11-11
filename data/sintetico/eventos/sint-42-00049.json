@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-42-00049",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 10,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:57+00:00",
+ "uso_tokens": {
+  "entrada": 687,
+  "saida": 1854
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVII Mostra de Extensão Universitária da UFMG: Comunidade, Saberes e Práticas Transformadoras",
+   "local_geral": "Campus Pampulha, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Acolhimento dos Participantes",
+    "lugar": "Hall de Entrada do CAD 1",
+    "dataInicio": "2024-10-18T08:00:00-03:00",
+    "dataFim": "2024-10-18T08:45:00-03:00",
+    "descricao": "<p>Recepção dos extensionistas, entrega de crachás, material institucional e confirmação de presença dos apresentadores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura Institucional",
+    "lugar": "Auditório Nobre Nobre",
+    "dataInicio": "2024-10-18T08:45:00-03:00",
+    "dataFim": "2024-10-18T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Pró-Reitora de Extensão <b>Profa. Dra. Cláudia Mayorga</b> e do Coordenador Geral da Mostra <b>Prof. Roberto Luiz Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Nobre Nobre",
+    "dataInicio": "2024-10-18T09:30:00-03:00",
+    "dataFim": "2024-10-18T10:45:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Diálogos entre Universidade Pública e Territórios Periféricos: Desafios Contemporâneos para a Construção Coletiva de Saberes Emancipatórios e Cidadania Ativa</i>, ministrada pelo <b>Prof. Dr. Ailton Krenak</b> e mediada pela <b>Profa. Dra. Mariana Ferreira Gomes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": "Varanda Coberta do CAD 1",
+    "dataInicio": "2024-10-18T10:45:00-03:00",
+    "dataFim": "2024-10-18T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Sala 102 - CAD 1",
+    "dataInicio": "2024-10-18T11:15:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Eixo: Saúde e Cuidado Coletivo. Coordenação de <b>Dr. Marcelo Tavares Bastos</b>.</p><p>Apresentação dos trabalhos:</p><p><i>Ações de Educação Popular em Saúde Mental na Atenção Básica</i>, por <b>Camila Duarte Ribeiro</b> e <b>Lucas Pinheiro de Abreu</b>;</p><p><i>Promoção do Aleitamento Materno em Comunidades Quilombolas da Região Metropolitana</i>, por <b>Juliana Neves Moreira</b>.</p>",
+    "secao": "Apresentação de Painéis e Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": "Sala 104 - CAD 1",
+    "dataInicio": "2024-10-18T11:15:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Eixo: Educação, Tecnologias Sociais e Direitos Humanos. Coordenação da <b>Profa. Renata Valente Castro</b>.</p><p>Apresentação dos trabalhos:</p><p><i>Inclusão Digital para Terceira Idade através de Oficinas Comunitárias</i>, por <b>Felipe Augusto Barbosa</b>;</p><p><i>Alfabetização Crítica e Práticas Restaurativas no Sistema Socioeducativo</i>, por <b>Tatiane Costa Guimarães</b> e <b>Beatriz Martins Rezende</b>.</p>",
+    "secao": "Apresentação de Painéis e Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-18T12:30:00-03:00",
+    "dataFim": "2024-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática A",
+    "lugar": "Laboratório Multiuso 3",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Oficina intitulada <i>Elaboração e Gestão Participativa de Projetos Sociais com Metodologias Ágeis Voltadas a Coletivos Populares e Comunidades Tradicionais</i>, coordenada pelo <b>Eng. Thiago Pimenta Alvarenga</b> e facilitada por <b>Vanessa Medeiros Sampaio</b>.</p>",
+    "secao": "Oficinas de Formação Extensionista"
+   },
+   {
+    "nome": "Oficina Prática B",
+    "lugar": "Ateliê de Artes Integradas",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Oficina com o tema <i>Teatro do Oprimido Aplicado à Mediação de Conflitos e Fortalecimento de Redes Comunitárias em Vilas</i>, conduzida pela atriz e educadora <b>Patrícia Assunção Vilela</b>.</p>",
+    "secao": "Oficinas de Formação Extensionista"
+   },
+   {
+    "nome": "Roda Cultural e Premiação Destaques da Extensão",
+    "lugar": "Praça de Serviços",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Apresentação artística do <i>Grupo de Choro da UFMG</i>, com coordenação de <b>Maestro José Eduardo Prado</b>, seguida da entrega do Prêmio Extensão Relevante 2024 conduzida pelo <b>Prof. Roberto Luiz Silva</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

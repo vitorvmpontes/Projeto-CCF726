@@ -1,0 +1,219 @@
+{
+ "spec": {
+  "id": "sint-42-00250",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Macapá - AP",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 24,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:14+00:00",
+ "uso_tokens": {
+  "entrada": 631,
+  "saida": 3847
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Amapaense de Medicina Tropical e Saúde Coletiva",
+   "local_geral": "Centro de Convenções de Macapá e Bloco de Medicina da UNIFAP"
+  },
+  "atividades": [
+   {
+    "nome": "Entrega de Material e Recepção dos Congressistas",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-08-18T08:00:00-03:00",
+    "dataFim": "2027-08-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Instalação",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-18T09:00:00-03:00",
+    "dataFim": "2027-08-18T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor geral <b>Dr. Josué Vasconcelos</b> e da representante da Secretaria de Saúde <b>Dra. Marlene Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula Inaugural",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-18T10:30:00-03:00",
+    "dataFim": "2027-08-18T12:00:00-03:00",
+    "descricao": "<p>Conferência <i>Vigilância em Saúde e os Desafios Epidemiológicos no Platô das Guianas</i> proferida pelo <b>Prof. Dr. Cláudio Rabelo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-18T14:00:00-03:00",
+    "dataFim": "2027-08-18T16:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Eliminação da Malária Urbana e Perirurbana na Amazônia Oriental</i>. Participantes: <b>Dra. Eliana Maciel</b> e <b>Dr. Walter Picanço</b>. Mediação: <b>Profa. Soraia Galvão</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2027-08-18T14:00:00-03:00",
+    "dataFim": "2027-08-18T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias Clínicas no Manejo de Acidentes Ofídicos em Áreas Remotas</i>, apresentada pelo <b>Dr. Hugo Vianna</b> e pela <b>Dra. Tatiana Barcellos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mostra de Relatos de Experiência",
+    "lugar": "Foyer Superior",
+    "dataInicio": "2027-08-18T16:30:00-03:00",
+    "dataFim": "2027-08-18T18:00:00-03:00",
+    "descricao": "<p>Apresentação oral coordenada pela <b>Dra. Lilian Trindade</b>, destacando os trabalhos de atenção primária em populações ribeirinhas do Bailique.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Habilidades Médicas",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T11:30:00-03:00",
+    "descricao": "<p>Treinamento intensivo sobre <i>Ultrassonografia Point-of-Care (POCUS) na Avaliação Emergencial</i>, conduzido pelo <b>Dr. Rodrigo Mendonça</b>.</p>",
+    "secao": "Oficinas de Atualização"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala de Seminários A",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T11:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Coleta e Diagnóstico Microscópico Rápido de Hemoparasitas</i>, ministrada pela <b>Farm. Karla Bentes</b>.</p>",
+    "secao": "Oficinas de Atualização"
+   },
+   {
+    "nome": "Simpósio Satélite",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-19T14:00:00-03:00",
+    "dataFim": "2027-08-19T15:30:00-03:00",
+    "descricao": "<p>Sessão promovida pela Sociedade de Infectologia com a palestra <i>Novos Esquemas Terapêuticos para Tuberculose Multirresistente</i>, proferida pelo <b>Dr. Vicente Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Integrado",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-19T16:00:00-03:00",
+    "dataFim": "2027-08-19T18:00:00-03:00",
+    "descricao": "<p>Debate ampliado: <i>Impactos Socioambientais e Dinâmica de Zoonoses na Fronteira Brasil-Guiana Francesa</i>. Expositores: <b>Dr. Jean-Pierre Castilho</b> e <b>Dra. Maristela Nobre</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática A",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-20T09:00:00-03:00",
+    "dataFim": "2027-08-20T11:00:00-03:00",
+    "descricao": "<p>Apresentação e análise de casos clínicos em <i>Dermatologia Infecciosa Tropical: Leishmaniose e Micoses Profundas</i> pelo <b>Dr. Álvaro Peixoto</b>.</p>",
+    "secao": "Sessões Clínicas"
+   },
+   {
+    "nome": "Sessão Temática B",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2027-08-20T09:00:00-03:00",
+    "dataFim": "2027-08-20T11:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Cardiopatia Chagásica Aguda por Transmissão Oral via Consumo de Açaí</i> com a <b>Dra. Fernanda Lameira</b>.</p>",
+    "secao": "Sessões Clínicas"
+   },
+   {
+    "nome": "Intervalo com Apresentação de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2027-08-20T11:00:00-03:00",
+    "dataFim": "2027-08-20T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Casos Desafiadores",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-20T14:30:00-03:00",
+    "dataFim": "2027-08-20T17:00:00-03:00",
+    "descricao": "<p>Discussão multiprofissional sobre condutas diagnósticas raras, coordenada pela <b>Profa. Dra. Samara Albuquerque</b>, com comentários do <b>Dr. Geraldo Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Curso Teórico-Prático 1",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2027-08-21T08:30:00-03:00",
+    "dataFim": "2027-08-21T11:30:00-03:00",
+    "descricao": "<p>Capacitação: <i>Epidemiologia de Campo Aplicada a Surtos Hídricos</i>. Docente convidado: <b>Dr. Renan Farias</b>.</p>",
+    "secao": "Cursos Pré-Jornada"
+   },
+   {
+    "nome": "Curso Teórico-Prático 2",
+    "lugar": "Sala de Seminários A",
+    "dataInicio": "2027-08-21T08:30:00-03:00",
+    "dataFim": "2027-08-21T11:30:00-03:00",
+    "descricao": "<p>Módulo de aperfeiçoamento: <i>Saúde Mental e Atenção Primária para Populações Indígenas do Oiapoque</i>, ministrado pela <b>Psic. Naiara Xikrin</b> e pelo <b>Dr. Bruno Gontijo</b>.</p>",
+    "secao": "Cursos Pré-Jornada"
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-21T14:00:00-03:00",
+    "dataFim": "2027-08-21T16:00:00-03:00",
+    "descricao": "<p>Encontro focado em <i>Políticas Públicas e Equidade no Acesso Farmacêutico na Amazônia Setentrional</i>, mediado pela <b>Profa. Camila Coutinho</b> com fala da <b>Dra. Renata Sarmento</b>.</p>",
+    "secao": "Diálogos em Saúde Coletiva"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2027-08-21T14:00:00-03:00",
+    "dataFim": "2027-08-21T16:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Formação Médica e Fixação de Profissionais em Áreas Isoladas de Fronteira</i>, com mediação do <b>Prof. Marcos Tavares</b>.</p>",
+    "secao": "Diálogos em Saúde Coletiva"
+   },
+   {
+    "nome": "Encontro de Ligas Acadêmicas",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-21T16:30:00-03:00",
+    "dataFim": "2027-08-21T18:30:00-03:00",
+    "descricao": "<p>Painel discente coordenado pelo acadêmico <b>Lucas Alencar</b> e supervisionado pelo <b>Dr. Daniel Aragão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária Internacional",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-22T08:30:00-03:00",
+    "dataFim": "2027-08-22T10:00:00-03:00",
+    "descricao": "<p>Apresentação especial: <i>Resistência Antimicrobiana em Bacias Hidrográficas Tropicais</i> com o pesquisador <b>Dr. Étienne Bernard</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Melhores Trabalhos Científicos",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-22T10:15:00-03:00",
+    "dataFim": "2027-08-22T12:00:00-03:00",
+    "descricao": "<p>Avaliação final da comissão científica presidida pela <b>Profa. Dra. Glória Marinho</b>, avaliando as comunicações orais indicadas ao prêmio de mérito da jornada.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Espaço Beira-Rio",
+    "dataInicio": "2027-08-22T12:15:00-03:00",
+    "dataFim": "2027-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral de Encerramento",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-22T14:30:00-03:00",
+    "dataFim": "2027-08-22T16:00:00-03:00",
+    "descricao": "<p>Leitura da <i>Carta de Macapá pela Saúde das Populações Amazônicas</i> conduzida pelo coordenador <b>Dr. Heitor Nogueira</b> e aprovação da sede da próxima edição.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento Cultural",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-08-22T16:15:00-03:00",
+    "dataFim": "2027-08-22T17:30:00-03:00",
+    "descricao": "<p>Entrega das medalhas de incentivo à pesquisa e encerramento com o grupo de marabaixo coordenado pela mestra <b>Joana Picanço</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

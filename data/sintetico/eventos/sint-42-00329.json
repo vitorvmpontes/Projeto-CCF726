@@ -1,0 +1,252 @@
+{
+ "spec": {
+  "id": "sint-42-00329",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Fortaleza - CE",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 28,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:20+00:00",
+ "uso_tokens": {
+  "entrada": 645,
+  "saida": 3477
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Cearense de Cardiologia e Terapia Intensiva",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Congressistas e Entrega de Crachás",
+    "lugar": "Hall Central",
+    "dataInicio": "2025-05-15T07:30:00-03:00",
+    "dataFim": "2025-05-15T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade Oficial de Abertura",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T09:15:00-03:00",
+    "descricao": "<p>Abertura solene com presença do presidente da Sociedade Brasileira de Cardiologia - Seccional Ceará, Dr. <b>Marcelo Albuquerque</b>, e da secretária de saúde, Dra. <b>Helena Fontenele</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-15T09:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra intitulada <i>Inovações na Monitorização Hemodinâmica do Paciente Crítico</i>, conduzida pelo Prof. Dr. <b>Roberto Sampaio Pinto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo e Visita aos Estandes",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2025-05-15T10:15:00-03:00",
+    "dataFim": "2025-05-15T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 1",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-15T10:45:00-03:00",
+    "dataFim": "2025-05-15T12:15:00-03:00",
+    "descricao": "<p>Mesa com tema <i>Abordagem Multidisciplinar no Choque Cardiogênico Refratário</i>. Participação dos debatedores Dr. <b>Cláudio Peixoto</b> e Dra. <b>Juliana Vasconcelos</b>. Moderação de Dr. <b>Paulo Meireles</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Simpósio Satélite de Farmacoterapia",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2025-05-15T10:45:00-03:00",
+    "dataFim": "2025-05-15T12:15:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Uso Racional de Inotrópicos e Vasopressores em Terapia Intensiva</i> com o farmacêutico clínico <b>Thiago Barroso</b>.</p>",
+    "secao": "Simpósios Paralelos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:15:00-03:00",
+    "dataFim": "2025-05-15T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Interativo de Arritmias",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-15T13:45:00-03:00",
+    "dataFim": "2025-05-15T15:15:00-03:00",
+    "descricao": "<p>Discussão de casos complexos sob o tema <i>Fibrilação Atrial no Perioperatório de Cirurgia Cardíaca</i>, com a Dra. <b>Marina Cavalcante</b> e Dr. <b>Lucas Montenegro</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Workshop Prático de Via Aérea Difícil",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2025-05-15T13:45:00-03:00",
+    "dataFim": "2025-05-15T15:15:00-03:00",
+    "descricao": "<p>Treinamento em manequins avançados sob coordenação do anestesiologista Dr. <b>Sérgio Nogueira</b> e da enfermeira intensivista <b>Camila Duarte</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Sessão de Pôsteres Digitais",
+    "lugar": "Espaço Conectividade",
+    "dataInicio": "2025-05-15T15:15:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos científicos orientados pelos professores <b>Fernando Bezerra</b> e <b>Beatriz Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Fisioterapia Intensiva",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-15T16:00:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Desmame Ventilatório Difícil e Mobilização Precoce</i>, liderado pela fisioterapeuta Dra. <b>Renata Queiroz</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Workshop de Ultrassonografia Point-of-Care",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2025-05-15T16:00:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": "<p>Prática de ecocardiograma focado e protocolo POCUS com coordenação do Dr. <b>Gustavo Arruda</b> e da Dra. <b>Patrícia Lins</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Conferência Vespertina de Atualização",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência especial <i>Inteligência Artificial no Diagnóstico Precoce da Sepse</i>, ministrada pelo pesquisador Dr. <b>Álvaro Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 2",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:30:00-03:00",
+    "descricao": "<p>Mesa centrada em <i>Insuficiência Cardíaca Avançada: Opções Terapêuticas e Suporte Circulatório Mecânico</i>, moderada pelo Dr. <b>Rogério Holanda</b> com falas do Dr. <b>Alexandre Frota</b> e da Dra. <b>Sofia Bastos</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Painel de Enfermagem em Cuidados Críticos",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:30:00-03:00",
+    "descricao": "<p>Mesa com discussões sobre <i>Prevenção de Infecções Relacionadas à Assistência à Saúde em UTI</i>, com as especialistas <b>Letícia Brandão</b> e <b>Mariana Pires</b>.</p>",
+    "secao": "Simpósios Paralelos"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2025-05-16T09:30:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda Interativa",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Síndromes Coronarianas Agudas em Pacientes Idosos e Diabéticos</i>, com o Dr. <b>Vitor Martins</b> e a Dra. <b>Carla Távora</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Seminário Integrado de ECMO",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Manejo Clínico e Desafios da Oxigenação por Membrana Extracorpórea</i> com a perfusionista <b>Aline Morais</b> e o cirurgião cardiovascular Dr. <b>Daniel Linhares</b>.</p>",
+    "secao": "Simpósios Paralelos"
+   },
+   {
+    "nome": "Intervalo Livre para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos dez melhores resumos clínicos aprovados pelo comitê acadêmico coordenado pelo Dr. <b>Danilo Magalhães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Ventilação Mecânica Protetora",
+    "lugar": "Laboratório de Habilidades 1",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Ajuste de parâmetros e assincronias paciente-ventilador conduzido pelo Dr. <b>Felipe Leitão</b> e pela fisioterapeuta <b>Nathália Maia</b>.</p>",
+    "secao": "Workshops Hands-on"
+   },
+   {
+    "nome": "Conferência de Fim de Tarde",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da palestra <i>Cuidados Paliativos na Unidade de Terapia Intensiva Cardiológica</i> proferida pela Dra. <b>Clara Menezes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encontro com Especialistas e Residentes",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:00:00-03:00",
+    "descricao": "<p>Discussão de casos de conduta difícil em emergências cardiovasculares mediada pelo Dr. <b>Emílio Saraiva</b> e Dr. <b>Gabriel Gondim</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates 3",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Prevenção Cardiovascular Primária: Desafios Contemporâneos</i> com participação do Dr. <b>Leandro Cordeiro</b> e da Dra. <b>Talita Farias</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Hall Central",
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Fórum de Diretrizes Clínicas",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T11:45:00-03:00",
+    "descricao": "<p>Exposição e análise crítica com o tema <i>Atualização das Novas Recomendações em Hipertensão Arterial Resistente</i> pelo Dr. <b>Eduardo Chaves</b>.</p>",
+    "secao": "Sessões Temáticas"
+   },
+   {
+    "nome": "Cerimônia de Premiação de Trabalhos",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-17T11:45:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Jovem Pesquisador com anúncio conduzido pela comissão científica representada por <b>Rodrigo Castelo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Mucuripe",
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palavras finais da comissão organizadora presidida pelo Dr. <b>Marcelo Albuquerque</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

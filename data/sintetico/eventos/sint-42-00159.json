@@ -1,0 +1,181 @@
+{
+ "spec": {
+  "id": "sint-42-00159",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Florianópolis - SC",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:53+00:00",
+ "uso_tokens": {
+  "entrada": 667,
+  "saida": 2937
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVIII Congresso Brasileiro de Engenharia de Software e Sistemas Computacionais",
+   "local_geral": "Centro de Cultura e Eventos da UFSC, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do coordenador geral <b>Carlos Eduardo Becker</b> e autoridades acadêmicas da UFSC.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-19T09:30:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p><i>Engenharia de Software Orientada a Modelos de IA Generativa: Desafios e Oportunidades</i>, ministrada pela <b>Beatriz Mendonça Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Superior",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Goiabeira",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: Manutenção e Evolução de Software. Coordenação: <b>Luciana Prado Silveira</b>.</p><p>Trabalho: <i>Avaliação Empírica de Dívida Técnica em Sistemas Legados de Telecomunicações</i>, por <b>Lucas Fagundes Moreira</b> e <b>Tatiane Rocha Neves</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Pitangueira",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Tema: Arquiteturas de Nuvem e Microsserviços. Coordenação: <b>Rodrigo Cordeiro Paiva</b>.</p><p>Trabalho: <i>Resiliência em Malhas de Serviços Baseadas em Kubernetes</i>, por <b>Diego Vargas Antunes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Formação Profissional em Computação Frente à Automação Inteligente</i>. Debatedores: <b>Heloísa Pires Guimarães</b>, <b>Gustavo Nogueira Leitão</b> e <b>Valter Matsui</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Goiabeira",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Tema: Verificação, Validação e Testes. Coordenação: <b>Marina Albuquerque Costa</b>.</p><p>Apresentação: <i>Geração Automatizada de Casos de Teste com LLMs: Um Estudo Comparativo</i>, apresentada por <b>Felipe Dornelles Castro</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala Pitangueira",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Tema: Interação Humano-Computador e Acessibilidade. Coordenação: <b>Clarice Peixoto Rios</b>.</p><p>Apresentação: <i>Diretrizes de Usabilidade em Interfaces para Pessoas Idosas no Contexto Bancário</i>, por <b>André Vasconcelos Brito</b> e <b>Sílvia Regina Campos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Foyer Superior",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:15:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>Segurança em Cadeia de Suprimentos de Software de Código Aberto</i> com o especialista <b>Arthur Villanova Simões</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:15:00-03:00",
+    "dataFim": "2027-05-20T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço Integrado de Exposições",
+    "dataInicio": "2027-05-20T13:45:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Exibição de trabalhos de iniciação científica e protótipos de desenvolvimento de software em andamento. Coordenação da avaliadora <b>Renata Fontes Leal</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5",
+    "lugar": "Sala Goiabeira",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema: Engenharia de Requisitos e Agilidade. Coordenação: <b>Paulo Henrique Diniz</b>.</p><p>Trabalho: <i>Práticas Ágeis e Conformidade Regulatória no Desenvolvimento de Dispositivos Médicos</i>, por <b>Camila Siqueira Bastos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 6",
+    "lugar": "Sala Pitangueira",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema: Mineração de Repositórios e Métricas. Coordenação: <b>Eduardo Farias Nogueira</b>.</p><p>Trabalho: <i>Detecção de Smells de Código em Projetos Multi-linguagem no GitHub</i>, por <b>Juliana Meireles Cruz</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Foyer Superior",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral da Sociedade",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Reunião aberta aos associados para prestação de contas e eleição da comissão gestora. Condução por <b>Carlos Eduardo Becker</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Premiação e Encerramento",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:00:00-03:00",
+    "descricao": "<p>Divulgação dos melhores artigos e anúncio da sede da edição 2028 pela coordenadora de programa <b>Patrícia Godoi Trindade</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

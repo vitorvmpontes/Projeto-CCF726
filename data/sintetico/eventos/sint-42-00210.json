@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-42-00210",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Viçosa - MG",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 12,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "titulos_longos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:49+00:00",
+ "uso_tokens": {
+  "entrada": 706,
+  "saida": 1958
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival de Artes e Culturas da Mata: Raízes de Viçosa",
+   "local_geral": "Espaço Cultural Fernando Sabino e arredores da UFV, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Cortejo Popular",
+    "lugar": "Gramado das Quatro Pilastras",
+    "dataInicio": "2025-08-14T17:00:00-03:00",
+    "dataFim": "2025-08-14T18:30:00-03:00",
+    "descricao": "<p>Acolhida festiva com apresentação de maracatu e congada liderada por <b>Mestre Geraldinho</b> e a folia de reis de São José do Triunfo.</p>",
+    "secao": "Celebrações de Abertura"
+   },
+   {
+    "nome": "Exposição Fotográfica Memórias da Zona da Mata",
+    "lugar": "Galeria do Centro de Ensino e Extensão",
+    "dataInicio": "2025-08-14T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Vernissage da mostra visual organizada pelo curador <b>Carlos Eduardo Guimarães</b> com registros históricos da bacia do Rio Turvo Sujo.</p>",
+    "secao": "Artes Visuais"
+   },
+   {
+    "nome": "Oficina de Percussão e Ritmos Tradicionais Mineiros",
+    "lugar": "Sala de Dança do Departamento de Artes",
+    "dataInicio": "2025-08-15T09:00:00-03:00",
+    "dataFim": "2025-08-15T11:30:00-03:00",
+    "descricao": "<p>Prática de instrumentos e levadas de batuques tradicionais conduzida pela percussionista <b>Luciana Nogueira</b> para iniciantes e músicos amadores.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina de Escrita Criativa, Identidade Territorial e Ancestralidade Poética nas Quebradas do Interior",
+    "lugar": "Ateliê B do Centro de Vivência",
+    "dataInicio": "2025-08-15T09:00:00-03:00",
+    "dataFim": "2025-08-15T12:00:00-03:00",
+    "descricao": "<p>Facilitação poética com a escritora <b>Viviane Resende</b>, abordando temas de memória familiar e cartografia afetiva das cidades mineiras.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Cineclube com Debate",
+    "lugar": "Auditório Cristina Mello",
+    "dataInicio": "2025-08-15T14:30:00-03:00",
+    "dataFim": "2025-08-15T17:00:00-03:00",
+    "descricao": "<p>Exibição do documentário <i>Fios da Terra</i> seguida de debate com a diretora <b>Mariana Fontes</b> e a produtora cultural <b>Helena Dornelas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Noturno",
+    "lugar": "Palco Espaço Fernando Sabino",
+    "dataInicio": "2025-08-15T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical da cantautora <b>Júlia Tiso</b> e quinteto, mesclando Clube da Esquina e arranjos contemporâneos.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Oficina de Percussão e Ritmos Tradicionais Mineiros",
+    "lugar": "Tenda do Bosque",
+    "dataInicio": "2025-08-16T10:00:00-03:00",
+    "dataFim": "2025-08-16T12:30:00-03:00",
+    "descricao": "<p>Segunda turma de vivência percussiva orientada pela instrumentista <b>Luciana Nogueira</b> com ênfase em cantigas de roda e tamboril.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório do CCE",
+    "dataInicio": "2025-08-16T10:00:00-03:00",
+    "dataFim": "2025-08-16T11:45:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Patrimônio Imaterial e Museologia Social: Narrativas Subalternas e Resistência Cultural no Vale do Piranga</i>, proferida pelo professor <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Feira Gastronômica e Roda de Saberes",
+    "lugar": "Praça Central do Campus",
+    "dataInicio": "2025-08-16T12:00:00-03:00",
+    "dataFim": "2025-08-16T18:00:00-03:00",
+    "descricao": "<p>Intercâmbio culinário e degustação mediada pelas cozinheiras tradicionais <b>Dona Cida do Buieié</b> e <b>Tereza Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Noturno",
+    "lugar": "Palco Espaço Fernando Sabino",
+    "dataInicio": "2025-08-16T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação especial da banda de choro e samba de raiz liderada pelo violonista <b>Felipe Albuquerque</b>.</p>",
+    "secao": "Shows Musicais"
+   },
+   {
+    "nome": "Painel Dialogado sobre Políticas Públicas e Mecanismos Integrados de Financiamento Comunitário para Artistas Independentes Mineiros",
+    "lugar": "Auditório Cristina Mello",
+    "dataInicio": "2025-08-17T14:00:00-03:00",
+    "dataFim": "2025-08-17T16:30:00-03:00",
+    "descricao": "<p>Mesa de debates com a gestora <b>Beatriz Mendonça</b>, o ativista cultural <b>Thiago Prado</b> e a conselheira estadual <b>Renata Lacerda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sarau das Gerais e Cortejo de Encerramento",
+    "lugar": "Gramado das Quatro Pilastras",
+    "dataInicio": "2025-08-17T17:30:00-03:00",
+    "dataFim": "2025-08-17T20:00:00-03:00",
+    "descricao": "<p>Celebração final com microfone aberto, performance poética do coletivo liderado por <b>André Chaves</b> e cortejo de despedida com <b>Mestre Geraldinho</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

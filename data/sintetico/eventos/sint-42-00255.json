@@ -1,0 +1,293 @@
+{
+ "spec": {
+  "id": "sint-42-00255",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Goiânia - GO",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 33,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:43+00:00",
+ "uso_tokens": {
+  "entrada": 678,
+  "saida": 4834
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Encontro Goiano de Professores da Educação Básica",
+   "local_geral": "Centro de Convenções de Goiânia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": "<p>Acolhimento aos participantes e entrega de materiais do encontro pela equipe de recepção coordenada por <b>Mariana Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T09:40:00-03:00",
+    "descricao": "<p>Abertura oficial com falas do secretário <b>Carlos Alberto Mendonça</b> e da presidente da associação <b>Renata Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-15T09:40:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": "<p>Conferência com <b>Prof. Dr. Hélio Guimarães</b> abordando o tema <i>Desafios contemporâneos na formação contínua docente e o compromisso ético com a equidade na escola pública</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-15T11:00:00-03:00",
+    "dataFim": "2025-05-15T11:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-15T11:20:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Inclusão escolar de crianças neurodivergentes nos anos iniciais</i>, coordenado por <b>Profa. Juliana Magalhães</b> com mediação de <b>Sérgio Ramos</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Ministrada por <b>Patrícia Silveira</b>, com a temática <i>Jogos teatrais como estratégia para desenvolvimento da oralidade na educação infantil</i>.</p>",
+    "secao": "Oficinas Pedagógicas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Laboratório de Ciências",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Facilitada por <b>Lucas Damasceno</b>, com o tema <i>Investigação científica escolar com materiais de baixo custo para o ensino fundamental</i>.</p>",
+    "secao": "Oficinas Pedagógicas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Conduzida por <b>Beatriz Nogueira</b> e <b>Tiago Fontana</b>, abordando <i>Alfabetização cartográfica e noções espaciais através de mapas afetivos e caminhadas pelo entorno escolar</i>.</p>",
+    "secao": "Oficinas Pedagógicas"
+   },
+   {
+    "nome": "Lanche Coletivo",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-15T16:00:00-03:00",
+    "dataFim": "2025-05-15T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 1",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": "2025-05-15T18:00:00-03:00",
+    "descricao": "<p>Apresentação do <b>Prof. Marcelo Arantes</b> com o tema <i>A integração articulada de linguagens digitais e recursos pedagógicos interativos para a recomposição de aprendizagens no pós-pandemia</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Compartilhamento de práticas mediado por <b>Fernanda Tavares</b> e <b>Danilo Queiroz</b>, centrado em <i>Experiências com grêmios estudantis e liderança jovem</i>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Discussão orientada por <b>Aline Valente</b> sobre <i>Saúde mental de docentes e prevenção ao esgotamento profissional</i>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": "<p>Espaço de troca facilitado por <b>Gilberto Sampaio</b> abordando <i>Gestão participativa e conselhos de escola nas redes municipais</i>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Momento do Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-16T10:15:00-03:00",
+    "dataFim": "2025-05-16T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-16T10:45:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Debate com <b>Cláudia Meireles</b> e <b>Joaquim Ferraz</b>, coordenado por <b>Larissa Fontes</b> sobre <i>Educação para as relações étnico-raciais e implementação das Leis 10.639 e 11.645</i>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:30:00-03:00",
+    "dataFim": "2025-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T15:45:00-03:00",
+    "descricao": "<p>Apresentação de relatos de prática dos anos iniciais com mediação de <b>Profa. Vanessa Diniz</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T15:45:00-03:00",
+    "descricao": "<p>Trabalhos de docência nos anos finais do ensino fundamental, coordenados por <b>Robson Albuquerque</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T15:45:00-03:00",
+    "descricao": "<p>Relatos de ensino médio e formação técnica, sob coordenação de <b>Cintia Furtado</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-16T15:45:00-03:00",
+    "dataFim": "2025-05-16T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-16T16:15:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Painel reunindo <b>Dra. Cecília Barreto</b> e <b>Otávio Lins</b> em torno do tema <i>Avaliação diagnóstica e formativa na rede pública estadual</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2025-05-16T18:30:00-03:00",
+    "dataFim": "2025-05-16T19:30:00-03:00",
+    "descricao": "<p>Espetáculo do coral jovem regido pela maestrina <b>Elisa Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Minicurso com <b>Gabriel Pimentel</b> sobre <i>Produção textual autoral e reescrita de gêneros discursivos na sala de aula</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Atividade ministrada por <b>Tatiana Borges</b> focando <i>Matemática recreativa e jogos de raciocínio lógico no ensino básico</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Sala 103",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Conduzido por <b>Lorena Castro</b> tratando de <i>Metodologias ativas e mediação pedagógica em turmas numerosas</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Sala 104",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Capacitação com <b>Arthur Vidal</b> sobre <i>Educação ambiental prática e implantação de hortas escolares interdisciplinares</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-05-17T10:30:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Pôsteres",
+    "lugar": "Foyer Central",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Mostra de trabalhos com avaliação e mediação coordenada por <b>Sabrina Couto</b> e <b>Felipe Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": "2025-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 2",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Palestra conduzida pela <b>Profa. Dra. Sandra Vilela</b> com o tema <i>Articulação interdisciplinar entre ciências da natureza e direitos humanos na construção de projetos comunitários escolares emancipadores</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Professores",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-17T15:30:00-03:00",
+    "dataFim": "2025-05-17T16:30:00-03:00",
+    "descricao": "<p>Redação e aprovação da carta de compromissos sob presidência de <b>Renata Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2025-05-17T16:30:00-03:00",
+    "dataFim": "2025-05-17T17:15:00-03:00",
+    "descricao": "<p>Agradecimentos finais e premiação dos melhores trabalhos apresentados com a coordenação de <b>Mariana Rios</b> e <b>Carlos Alberto Mendonça</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

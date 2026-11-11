@@ -1,0 +1,102 @@
+{
+ "spec": {
+  "id": "sint-42-00151",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Manaus - AM",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "sem_local",
+   "descricoes_ricas",
+   "nomes_repetidos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:05+00:00",
+ "uso_tokens": {
+  "entrada": 692,
+  "saida": 1578
+ },
+ "saida": {
+  "evento": {
+   "nome": "Simpósio Amazônico de Agrotecnologia e Bioeconomia - AgroBio Manaus 2023",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Material",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-18T10:00:00-03:00",
+    "dataFim": "2023-10-18T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Sistemas Agroflorestais Sustentáveis e Rastreabilidade na Cadeia Produtiva</i>.</p><p>Coordenador: <b>Dr. Carlos Eduardo Mendonça</b> (INPA).</p><p>Apresentações:</p><ul><li><i>Monitoramento por Satélite na Produção de Cacau Nativo</i> por <b>Dra. Juliana Guimarães</b></li><li><i>Certificação Digital e Cadeias Produtivas Sustentáveis</i> por <b>Msc. Roberto Farias</b></li></ul>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-10-18T12:00:00-03:00",
+    "dataFim": "2023-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": null,
+    "dataInicio": "2023-10-18T14:30:00-03:00",
+    "dataFim": "2023-10-18T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Bioinsumos e Soluções Biotecnológicas para Cultivos Tropicais</i>.</p><p>Coordenação: <b>Dra. Simone Albuquerque</b>.</p><p>Palestras:</p><ul><li><i>Uso de Microrganismos Amazônicos no Controle Biológico</i> com <b>Prof. Arnaldo Silveira</b></li><li><i>Adubação Orgânica Avançada para Fruticultura</i> com <b>Dra. Kelly Martins</b></li></ul>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos selecionados com a coordenação de <b>Prof. Marcos Teles</b>:</p><ul><li><i>Valoração de Resíduos de Açaí para Energia Térmica</i> de autoria de <b>Beatriz Nogueira</b> e <b>Lucas Pinheiro</b></li><li><i>Sensores de Baixo Custo para Umidade de Solos Arenosos</i> de autoria de <b>Rafael Vasconcelos</b></li><li><i>Micropropagação de Guaraná em Laboratório Regional</i> apresentado por <b>Letícia Bastos</b></li></ul>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Coffee Break e Networking",
+    "lugar": "Espaço Samaúma",
+    "dataInicio": "2023-10-19T11:00:00-03:00",
+    "dataFim": "2023-10-19T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios e Agrotechs",
+    "lugar": null,
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Encontro de startups e produtores rurais locais com mediação de <b>Fabiano Paiva</b> e <b>Camila Siqueira</b>, discutindo <i>Mecanismos de Financiamento para Inovação Verde</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2023-10-20T09:00:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": "<p>Segunda rodada de apresentações científicas sob moderação da <b>Dra. Renata Fontes</b>:</p><ul><li><i>Inteligência Artificial Aplicada ao Diagnóstico Foliar da Mandioca</i> de <b>Thiago Antunes</b></li><li><i>Eficiência Hídrica em Sistemas de Aquaponia Urbana</i> de <b>Mariana Prado</b> e <b>Jorge Braga</b></li></ul>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-10-20T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Inovação Campo Sustentável conduzida pelo coordenador geral <b>Dr. Hamilton Rezende</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

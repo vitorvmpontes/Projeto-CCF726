@@ -1,0 +1,363 @@
+{
+ "spec": {
+  "id": "sint-42-00304",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "João Pessoa - PB",
+  "ano": 2023,
+  "n_dias": 4,
+  "n_atividades": 42,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:42+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 6493
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Ecologia e Conservação do Semiárido",
+   "local_geral": "Centro de Ciências Exatas e da Natureza - UFPB, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall de Entrada do CCEN",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-18T09:30:00-03:00",
+    "dataFim": "2023-10-18T10:15:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Pró-Reitor de Pós-Graduação <b>Dr. Valdir Barbosa Bezerra</b> e da Coordenadora Geral do Simpósio <b>Dra. Marcela Rangel Fernandes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-18T10:15:00-03:00",
+    "dataFim": "2023-10-18T11:45:00-03:00",
+    "descricao": "<p>Palestra <i>Desafios e Estratégias para a Conservação da Caatinga frente às Mudanças Climáticas</i> proferida pelo <b>Dr. Carlos Augusto Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-18T12:00:00-03:00",
+    "dataFim": "2023-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T17:30:00-03:00",
+    "descricao": "<p>Módulo prático <i>Modelagem de Distribuição de Espécies no Ambiente R</i>, ministrado pela <b>MSc. Camila Dantas Freire</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala de Reuniões 1",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T17:30:00-03:00",
+    "descricao": "<p>Tópicos abordados em <i>Técnicas de Monitoramento Bioacústico de Aves e Quirópteros</i> pelo <b>Dr. Henrique Paiva Cavalcanti</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório Multidisciplinar",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T17:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Análise Filogenética Aplicada à Sistemática Vegetal</i> conduzida pela <b>Dra. Simone Albuquerque Rocha</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2023-10-18T17:30:00-03:00",
+    "dataFim": "2023-10-18T19:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrado em andamento. Avaliação coordenada por <b>Dr. Tiago Mendonça Leite</b> e <b>Dra. Juliana Meira Torres</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T10:00:00-03:00",
+    "descricao": "<p>Debate <i>Biodiversidade Aquática e Recursos Hídricos no Nordeste Setentrional</i> com os palestrantes <b>Dr. Francisco Noberto Gomes</b> e <b>Dra. Beatriz Lins Vasconcelos</b>. Moderação de <b>Dr. Ricardo Pontes Moreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2023-10-19T10:30:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Comunicações orais sob coordenação da <b>Dra. Aline Chaves Souto</b>. Apresentações: <i>Efeito de borda na dispersão de sementes zoocóricas</i> por <b>Lucas Medeiros Barreto</b>; <i>Variações na composição de macrófitas em reservatórios rasos</i> por <b>Renata Cunha Dias</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Anfiteatro C",
+    "dataInicio": "2023-10-19T10:30:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Comunicações orais coordenadas pelo <b>Dr. Eduardo Fagundes Matos</b>. Trabalhos: <i>Ecologia trófica de carnívoros no Parque Estadual da Pedra da Boca</i> por <b>Igor Farias Nogueira</b>; <i>Impactos do sobrepastoreio na regeneração natural</i> por <b>Mariana Pires Sales</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:00:00-03:00",
+    "dataFim": "2023-10-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Continuação do curso <i>Modelagem de Distribuição de Espécies no Ambiente R</i> com a instrutora <b>MSc. Camila Dantas Freire</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala de Reuniões 1",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Segunda etapa do treinamento <i>Técnicas de Monitoramento Bioacústico de Aves e Quirópteros</i> pelo <b>Dr. Henrique Paiva Cavalcanti</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório Multidisciplinar",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Oficina de <i>Redação Científica e Comunicação de Resultados em Ecologia</i> com a <b>Dra. Fernanda Prado Montenegro</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Palestra Temática 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-19T17:45:00-03:00",
+    "dataFim": "2023-10-19T18:45:00-03:00",
+    "descricao": "<p>Conferência <i>Interações Planta-Polinizador e a Resiliência de Ecossistemas Secos</i> ministrada pela <b>Dra. Lúcia Helena Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Atividade Cultural",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2023-10-19T19:00:00-03:00",
+    "dataFim": "2023-10-19T20:30:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo regional de pífanos com coordenação de <b>Antônio Severino do Vale</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:00:00-03:00",
+    "descricao": "<p>Painel <i>A Pós-Graduação no Brasil e os Novos Critérios Qualis da CAPES</i> com <b>Dr. Geraldo Tavares Brandão</b> e <b>Dra. Vanessa Figueira Lopes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-20T10:00:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Paula Vilar Guimarães</b>. Trabalhos apresentados: <i>Etnobotânica aplicada ao extrativismo de cascas medicinais</i> por <b>João Gabriel Peixoto</b>; <i>Variação sazonal da microbiota do solo em florestas secas</i> por <b>Talita Saraiva Bastos</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 4",
+    "lugar": "Anfiteatro C",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dr. Marcelo Brito Castelo</b>. Trabalhos: <i>Conflitos entre felinos silvestres e criadores rurais na Paraíba</i> por <b>Débora Aragão Leal</b>; <i>Genética de populações de cactos endêmicos ameaçados</i> por <b>Vitor Hugo Antunes</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:00:00-03:00",
+    "dataFim": "2023-10-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Atividade <i>Elaboração de Mapas Temáticos no QGIS para Estudos Ecológicos</i> ministrada pelo <b>MSc. Robson Aguiar Siqueira</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": "Sala de Reuniões 2",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Espaço para diálogo <i>Saúde Mental na Pós-Graduação e Redes de Apoio</i> dinamizado pela psicóloga convidada <b>Maíra Coutinho Paes</b> e pela representante discente <b>Clara Xavier Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-20T16:00:00-03:00",
+    "dataFim": "2023-10-20T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": "2023-10-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas de doutorado e projetos de iniciação científica. Avaliadores: <b>Dr. Roberto Saraiva Diniz</b> e <b>Dra. Cláudia Esteves Cunha</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Palestra Temática 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-20T18:00:00-03:00",
+    "dataFim": "2023-10-20T19:30:00-03:00",
+    "descricao": "<p>Palestra <i>Restauração Ecológica em Terras Degradadas: Lições e Perspectivas</i> apresentada pelo <b>Dr. Washington Luís Esteves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Coordenadores de Programas",
+    "lugar": "Sala de Atos do CCEN",
+    "dataInicio": "2023-10-21T08:00:00-03:00",
+    "dataFim": "2023-10-21T09:30:00-03:00",
+    "descricao": "<p>Encontro técnico de alinhamento com coordenadores de programas de ecologia do Nordeste, liderado pela <b>Dra. Marcela Rangel Fernandes</b> e pelo <b>Dr. Daniel Morais Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T08:30:00-03:00",
+    "dataFim": "2023-10-21T10:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas e Conservação em Unidades de Conservação Federais</i> com participação do analista ambiental <b>MSc. Otávio Ramos Silveira</b> e da pesquisadora <b>Dra. Heloísa Muniz Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-21T10:00:00-03:00",
+    "dataFim": "2023-10-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 5",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2023-10-21T10:30:00-03:00",
+    "dataFim": "2023-10-21T12:00:00-03:00",
+    "descricao": "<p>Coordenação do <b>Dr. Flávio Teotônio Maia</b>. Apresentações: <i>Efeitos do fogo sobre a regeneração de lenhosas</i> por <b>Samara Holanda Vieira</b>; <i>Ecologia de comunidades de formigas sob diferentes usos da terra</i> por <b>Danilo Queiroz Abreu</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 6",
+    "lugar": "Anfiteatro C",
+    "dataInicio": "2023-10-21T10:30:00-03:00",
+    "dataFim": "2023-10-21T12:00:00-03:00",
+    "descricao": "<p>Coordenação da <b>Dra. Tatiana Vilaça Barcellos</b>. Apresentações: <i>Uso de drones na estimativa de biomassa vegetal</i> por <b>Guilherme Dantas Ramos</b>; <i>Avaliação da contaminação por microplásticos em estuários paraibanos</i> por <b>Patrícia Soares Viana</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-21T12:00:00-03:00",
+    "dataFim": "2023-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Discente",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2023-10-21T13:30:00-03:00",
+    "dataFim": "2023-10-21T14:45:00-03:00",
+    "descricao": "<p>Deliberação discente para escolha de representantes discentes no colegiado e elaboração da carta do evento, dirigida por <b>Clara Xavier Fontes</b> e <b>Arthur Barreto Sena</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2023-10-21T13:30:00-03:00",
+    "dataFim": "2023-10-21T15:30:00-03:00",
+    "descricao": "<p>Aplicação complementar do treinamento <i>Elaboração de Mapas Temáticos no QGIS para Estudos Ecológicos</i> com o <b>MSc. Robson Aguiar Siqueira</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T15:00:00-03:00",
+    "dataFim": "2023-10-21T16:30:00-03:00",
+    "descricao": "<p>Discussão <i>Divulgação Científica e Engajamento Comunitário no Semiárido</i> com a jornalista ambiental <b>Erika Guimarães Neves</b> e o pesquisador <b>Dr. Mauro Sérgio Arruda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-21T16:30:00-03:00",
+    "dataFim": "2023-10-21T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T17:00:00-03:00",
+    "dataFim": "2023-10-21T18:15:00-03:00",
+    "descricao": "<p>Conferência <i>O Futuro da Conservação no Brasil: Integração entre Ciência e Sociedade</i> proferida pelo <b>Dr. José Alves de Siqueira Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos Científicos",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T18:15:00-03:00",
+    "dataFim": "2023-10-21T19:00:00-03:00",
+    "descricao": "<p>Anúncio e entrega das menções honrosas e prêmios de melhor apresentação oral e melhor pôster da pós-graduação, conduzida pela comissão avaliadora liderada pelo <b>Dr. Tiago Mendonça Leite</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-10-21T19:00:00-03:00",
+    "dataFim": "2023-10-21T19:45:00-03:00",
+    "descricao": "<p>Agradecimentos finais da comissão organizadora com a <b>Dra. Marcela Rangel Fernandes</b> e anúncio da sede da décima edição.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2023-10-21T19:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

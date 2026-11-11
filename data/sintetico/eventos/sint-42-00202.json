@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-42-00202",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:05+00:00",
+ "uso_tokens": {
+  "entrada": 674,
+  "saida": 1439
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência da Computação e Engenharia de Software",
+   "local_geral": "Centro de Eventos FIEP, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-13T09:00:00-03:00",
+    "dataFim": "2026-05-13T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a presença da coordenadora geral <b>Dra. Juliana Prado</b> e representantes da comissão organizadora.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2026-05-13T10:30:00-03:00",
+    "dataFim": "2026-05-13T12:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos selecionados na trilha de Sistemas Inteligentes. Coordenação por <b>Prof. Roberto Meireles</b>. Artigo em destaque: <i>Otimização Heurística em Grafos Dinâmicos</i> por <b>Lucas Silveira</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Araucária",
+    "dataInicio": "2026-05-13T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de trabalhos na área de Engenharia de Software. Apresentação do artigo <i>Refatoração Contínua em Microsserviços</i> por <b>Camila Duarte</b> e <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T10:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desafios Regulatórios da Inteligência Artificial Generativa no Brasil</i> com a participação de <b>Dra. Mariana Fagundes</b> e <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2026-05-14T11:00:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Continuação das apresentações da trilha de Inteligência Computacional. Apresentação do trabalho <i>Modelos Preditivos para Séries Temporais Financeiras</i> pelo autor <b>Felipe Sanches</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Foyer das Araucárias",
+    "dataInicio": "2026-05-14T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exibição e avaliação de projetos de iniciação científica. Trabalho em destaque: <i>Arquiteturas Resilientes para IoT</i>, apresentado por <b>Beatriz Nogueira</b> e orientado por <b>Prof. Marcos Zanin</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": null,
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Novas Fronteiras da Computação Quântica Aplicada</i> ministrada pelo pesquisador <b>Dr. Henrique Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Iguaçu",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": "2026-05-15T12:45:00-03:00",
+    "descricao": "<p>Apresentação dos artigos da trilha de Segurança da Informação e Privacidade, mediada por <b>Profa. Vanessa Guimarães</b>. Trabalho: <i>Protocolos Criptográficos para Aplicações Médicas</i> por <b>Alexandre Motta</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação",
+    "lugar": null,
+    "dataInicio": "2026-05-15T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Premiação dos melhores artigos do congresso e considerações finais com a comissão organizadora liderada por <b>Dra. Juliana Prado</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "spec": {
+  "id": "sint-42-00308",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 15,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:54+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 2424
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Paulista de Cardiologia Intensiva e Emergências Cardiovasculares",
+   "local_geral": "Centro de Convenções Rebouças, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-17T07:30:00-03:00",
+    "dataFim": "2023-08-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária 1",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-17T08:30:00-03:00",
+    "dataFim": "2023-08-17T10:00:00-03:00",
+    "descricao": "<p>Tema: Abordagem contemporânea do choque cardiogênico refratário.</p><p>Palestrantes: <b>Dra. Mariana Albuquerque Prado</b> abordando <i>Manejo Farmacológico e Dispositivos de Assistência Circulatória</i> e <b>Dr. Roberto Esteves Calheiros</b> com <i>Critérios de Elegibilidade para Oxigenação por Membrana Extracorpórea (ECMO)</i>.</p>",
+    "secao": "Programação Científica"
+   },
+   {
+    "nome": "Pausa para Café e Visita aos Estandes",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2023-08-17T10:00:00-03:00",
+    "dataFim": "2023-08-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-17T10:30:00-03:00",
+    "dataFim": "2023-08-17T12:00:00-03:00",
+    "descricao": "<p>Tema: Síndromes coronarianas agudas sem supra de ST no paciente idoso.</p><p>Debatedores: <b>Dr. Carlos Henrique Villela</b>, <b>Dra. Juliana Mendes Fontoura</b> e <b>Dr. Maurício Távora Neto</b>.</p>",
+    "secao": "Programação Científica"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-17T12:00:00-03:00",
+    "dataFim": "2023-08-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático A",
+    "lugar": "Sala de Treinamento 2",
+    "dataInicio": "2023-08-17T13:30:00-03:00",
+    "dataFim": "2023-08-17T15:30:00-03:00",
+    "descricao": "<p>Oficina de simulação realística: <i>Manejo de Arritmias Ventriculares Complexas em Sala de Emergência</i>. Instrutores: <b>Dr. Lucas Santiago Fagundes</b> e <b>Enf. Renata Paiva de Souza</b>.</p>",
+    "secao": "Workshops de Habilidades"
+   },
+   {
+    "nome": "Sessão Plenária 2",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T10:00:00-03:00",
+    "descricao": "<p>Tema: Insuficiência Cardíaca Agudizada e Descompensada.</p><p>Apresentação de <b>Prof. Dr. Geraldo Martins Sampaio</b> com o tema <i>Fenótipos Hemodinâmicos e Tratamento Personalizado na UTI Cardiológica</i>.</p>",
+    "secao": "Programação Científica"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2023-08-18T10:00:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Auditório Azul",
+    "dataInicio": "2023-08-18T10:30:00-03:00",
+    "dataFim": "2023-08-18T12:00:00-03:00",
+    "descricao": "<p>Tema: Tromboembolismo pulmonar maciço: da trombólise química à intervenção percutânea.</p><p>Coordenação de <b>Dra. Beatriz Nogueira Rezende</b> com palestras de <b>Dr. Flávio Antunes Guimarães</b> e <b>Dra. Camila Vasconcelos Rios</b>.</p>",
+    "secao": "Programação Científica"
+   },
+   {
+    "nome": "Almoço dos Congressistas",
+    "lugar": "Restaurante Panorâmico",
+    "dataInicio": "2023-08-18T12:00:00-03:00",
+    "dataFim": "2023-08-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático B",
+    "lugar": "Sala de Treinamento 2",
+    "dataInicio": "2023-08-18T13:30:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Prática de ultrassonografia point-of-care: <i>Ultrassom Pulmonar e Ecocardiografia Focada na Parada Cardiorrespiratória</i>. Conduzido por <b>Dr. André Pinheiro Cordeiro</b> e <b>Dra. Vanessa Meirelles Dias</b>.</p>",
+    "secao": "Workshops de Habilidades"
+   },
+   {
+    "nome": "Sessão de Pôsteres Digitais",
+    "lugar": "Hall de Apresentações",
+    "dataInicio": "2023-08-19T08:30:00-03:00",
+    "dataFim": "2023-08-19T10:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos científicos orais selecionados pelo comitê acadêmico.</p><p>Coordenadores de banca: <b>Prof. Dr. Walter Castilho Soares</b> e <b>Profa. Dra. Heloísa Munhoz Lemos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Área de Exposições",
+    "dataInicio": "2023-08-19T10:00:00-03:00",
+    "dataFim": "2023-08-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Colóquio Multiprofissional",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-19T10:30:00-03:00",
+    "dataFim": "2023-08-19T12:00:00-03:00",
+    "descricao": "<p>Tema: Desospitalização segura e reabilitação precoce pós-evento coronariano grave.</p><p>Debatedores convidados: <b>Fisiot. Patrícia Helena Dornelles</b>, <b>Farm. Diogo Silveira Ramos</b> e <b>Dr. Marcelo Cunha Barreto</b>.</p>",
+    "secao": "Programação Científica"
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2023-08-19T12:00:00-03:00",
+    "dataFim": "2023-08-19T13:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio <i>Jovem Investigador em Cardiologia de Emergência</i> e sorteios institucionais.</p><p>Presidência: <b>Dra. Mariana Albuquerque Prado</b> e <b>Prof. Dr. Geraldo Martins Sampaio</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

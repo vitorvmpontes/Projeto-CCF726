@@ -1,0 +1,102 @@
+{
+ "spec": {
+  "id": "sint-42-00311",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:01+00:00",
+ "uso_tokens": {
+  "entrada": 686,
+  "saida": 1377
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada Florestalense de Atenção Básica e Saúde da Família",
+   "local_geral": "Centro de Convenções da UFV - Campus Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-16T07:30:00-03:00",
+    "dataFim": "2026-05-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Gestão do Cuidado no SUS Rural</i>. Abertura conduzida pelo Dr. <b>Marcelo Guimarães Siqueira</b> com participação da Profa. Dra. <b>Helena Vasconcelos Couto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-16T10:00:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Habilidades Clínicas",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Turma A: <i>Abordagem Sindrômica de Emergências Pediátricas no Posto de Saúde</i>. Ministrado pela Dra. <b>Luciana Prado Mendes</b>.</p>",
+    "secao": "Workshops Temáticos"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Integralidade na Saúde Mental da Comunidade Ribeirinha</i>. Debatedores: Psic. <b>Renato Teles Antunes</b> e Enf. <b>Clara Beatriz Fontes</b>.</p>",
+    "secao": "Workshops Temáticos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Habilidades Clínicas",
+    "dataInicio": "2026-05-16T13:30:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Turma B: <i>Abordagem Sindrômica de Emergências Pediátricas no Posto de Saúde</i>. Ministrado pela Dra. <b>Luciana Prado Mendes</b>.</p>",
+    "secao": "Workshops Temáticos"
+   },
+   {
+    "nome": "Apresentação de Casos Clínicos",
+    "lugar": "Anfiteatro B",
+    "dataInicio": "2026-05-16T13:30:00-03:00",
+    "dataFim": "2026-05-16T15:30:00-03:00",
+    "descricao": "<p>Discussão de casos de relevância epidemiológica local, mediada pelo Dr. <b>Otávio Pinheiro Nogueira</b> e avaliada pela Profa. <b>Carla Diniz Rezende</b>.</p>",
+    "secao": "Workshops Temáticos"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2026-05-16T16:00:00-03:00",
+    "dataFim": "2026-05-16T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Perspectivas Futuras para a Telessaúde na Atenção Primária</i>. Palestrante convidado: Dr. <b>Fernando Albuquerque Leite</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

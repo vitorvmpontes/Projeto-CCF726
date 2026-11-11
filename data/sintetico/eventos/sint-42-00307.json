@@ -1,0 +1,179 @@
+{
+ "spec": {
+  "id": "sint-42-00307",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:51+00:00",
+ "uso_tokens": {
+  "entrada": 647,
+  "saida": 2970
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores da Mantiqueira e Zona da Mata 2025",
+   "local_geral": "Parque Halfeld e Espaço Cultural Mascarenhas, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Degustação de Queijos da Região",
+    "lugar": "Tenda Principal",
+    "dataInicio": "2025-08-15T17:00:00-03:00",
+    "dataFim": "2025-08-15T18:30:00-03:00",
+    "descricao": "<p>Cerimônia de abertura com a presença dos curadores <b>Marcelo Guimarães</b> e <b>Luciana Rezende</b>, seguida de degustação comentada dos produtores locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac",
+    "dataInicio": "2025-08-15T18:30:00-03:00",
+    "dataFim": "2025-08-15T19:45:00-03:00",
+    "descricao": "<p>A chef <b>Helena Silveira</b> apresenta a receita <i>Costelinha Glaceada na Goiabada Cascão com Aligot de Mandioca</i>.</p>",
+    "secao": "Aulas-Show de Abertura"
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac",
+    "dataInicio": "2025-08-15T20:00:00-03:00",
+    "dataFim": "2025-08-15T21:15:00-03:00",
+    "descricao": "<p>O chef <b>Rodrigo Duarte</b> explora a cozinha caipira moderna com <i>Arroz Caldoso de Galinha Caipira e Ora-pro-nóbis</i>.</p>",
+    "secao": "Aulas-Show de Abertura"
+   },
+   {
+    "nome": "Show Instrumental",
+    "lugar": "Palco Mantiqueira",
+    "dataInicio": "2025-08-15T21:30:00-03:00",
+    "dataFim": "2025-08-15T23:00:00-03:00",
+    "descricao": "<p>Apresentação de choro e jazz brasileiro com o grupo liderado pelo músico <b>Eduardo Peixoto</b>.</p>",
+    "secao": "Atrações Musicais"
+   },
+   {
+    "nome": "Oficina Prática de Panificação Artesanal",
+    "lugar": "Espaço Pão & Café",
+    "dataInicio": "2025-08-16T09:30:00-03:00",
+    "dataFim": "2025-08-16T11:00:00-03:00",
+    "descricao": "<p>Mãos na massa com a padeira <b>Camila Siqueira</b> ensinando a técnica de <i>Pães de Fermentação Natural com Farinhas Regionais</i>.</p>",
+    "secao": "Oficinas Matinais"
+   },
+   {
+    "nome": "Oficina Prática de Panificação Artesanal",
+    "lugar": "Espaço Pão & Café",
+    "dataInicio": "2025-08-16T11:15:00-03:00",
+    "dataFim": "2025-08-16T12:45:00-03:00",
+    "descricao": "<p>Segunda turma com <b>Camila Siqueira</b> focada na produção de <i>Focaccias Rústicas com Alecrim e Queijo Minas Curado</i>.</p>",
+    "secao": "Oficinas Matinais"
+   },
+   {
+    "nome": "Circuito de Petiscos Mineiros",
+    "lugar": "Alameda dos Restaurantes",
+    "dataInicio": "2025-08-16T12:00:00-03:00",
+    "dataFim": "2025-08-16T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Mascarenhas",
+    "dataInicio": "2025-08-16T14:30:00-03:00",
+    "dataFim": "2025-08-16T16:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>A Denominação de Origem dos Queijos Artesanais de Minas</i>, mediado pela pesquisadora <b>Cláudia Fontes</b>, com participação dos produtores <b>Geraldo Meireles</b> e <b>Tânia Vasconcellos</b>.</p>",
+    "secao": "Conversas Gastronômicas"
+   },
+   {
+    "nome": "Harmonização de Cafés Especiais e Queijos",
+    "lugar": "Sala de Sensações",
+    "dataInicio": "2025-08-16T16:15:00-03:00",
+    "dataFim": "2025-08-16T17:30:00-03:00",
+    "descricao": "<p>O barista <b>Tiago Lins</b> e o mestre queijeiro <b>Antônio Viana</b> conduzem a experiência <i>Cafés Raros da Mantiqueira e Queijos Maturados</i>.</p>",
+    "secao": "Harmonizações Guiadas"
+   },
+   {
+    "nome": "Harmonização de Cervejas Artesanais e Charcutaria",
+    "lugar": "Sala de Sensações",
+    "dataInicio": "2025-08-16T18:00:00-03:00",
+    "dataFim": "2025-08-16T19:15:00-03:00",
+    "descricao": "<p>A sommelière <b>Renata Nogueira</b> e o charcuteiro <b>Fábio Drummond</b> apresentam o painel <i>Estilos Cervejeiros e Embutidos Curados da Zona da Mata</i>.</p>",
+    "secao": "Harmonizações Guiadas"
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac",
+    "dataInicio": "2025-08-16T19:30:00-03:00",
+    "dataFim": "2025-08-16T21:00:00-03:00",
+    "descricao": "<p>O chef convidado <b>Felipe Bronze</b> prepara <i>Técnicas Contemporâneas com Ingredientes da Terra Mineira</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Instrumental",
+    "lugar": "Palco Mantiqueira",
+    "dataInicio": "2025-08-16T21:30:00-03:00",
+    "dataFim": "2025-08-16T23:30:00-03:00",
+    "descricao": "<p>Noite de samba tradicional e bossa nova com a cantora <b>Beatriz Couto</b> e quarteto.</p>",
+    "secao": "Atrações Musicais"
+   },
+   {
+    "nome": "Oficina Infantil Mini Chefs",
+    "lugar": "Espaço Kids Cozinha",
+    "dataInicio": "2025-08-17T10:00:00-03:00",
+    "dataFim": "2025-08-17T11:30:00-03:00",
+    "descricao": "<p>A nutricionista <b>Mariana Pires</b> ensina os pequenos a preparar <i>Pão de Queijo Tradicional com Ingredientes Orgânicos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Harmonização de Cervejas Artesanais e Charcutaria",
+    "lugar": "Tenda Degustação",
+    "dataInicio": "2025-08-17T11:30:00-03:00",
+    "dataFim": "2025-08-17T12:45:00-03:00",
+    "descricao": "<p>Edição especial aberta ao público externo sob comando de <b>Fábio Drummond</b> com foco em <i>Pernis Defumados e Saison Mineira</i>.</p>",
+    "secao": "Harmonizações Guiadas"
+   },
+   {
+    "nome": "Circuito de Petiscos Mineiros",
+    "lugar": "Alameda dos Restaurantes",
+    "dataInicio": "2025-08-17T12:00:00-03:00",
+    "dataFim": "2025-08-17T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Mascarenhas",
+    "dataInicio": "2025-08-17T14:00:00-03:00",
+    "dataFim": "2025-08-17T15:30:00-03:00",
+    "descricao": "<p>Encontro temático sobre <i>Turismo Gastronômico e Sustentabilidade nas Serras de Minas</i>, mediado por <b>Vinícius Ramos</b>, com os painelistas <b>Laura Esteves</b> e <b>Otávio Prado</b>.</p>",
+    "secao": "Conversas Gastronômicas"
+   },
+   {
+    "nome": "Aula-Show",
+    "lugar": "Cozinha Senac",
+    "dataInicio": "2025-08-17T16:00:00-03:00",
+    "dataFim": "2025-08-17T17:30:00-03:00",
+    "descricao": "<p>A confeiteira <b>Sabrina Alvim</b> apresenta <i>Sobremesas Mineiras Desconstruídas: Doce de Leite Viçosa e Goiabada</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação do Concurso Prato do Festival",
+    "lugar": "Palco Mantiqueira",
+    "dataInicio": "2025-08-17T18:00:00-03:00",
+    "dataFim": "2025-08-17T19:30:00-03:00",
+    "descricao": "<p>Anúncio dos três melhores petiscos eleitos pelo júri técnico e votação popular, apresentado por <b>Marcelo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Musical",
+    "lugar": "Palco Mantiqueira",
+    "dataInicio": "2025-08-17T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração final com a apresentação do violonista <b>Gustavo Mendes</b> e convidados.</p>",
+    "secao": "Atrações Musicais"
+   }
+  ]
+ }
+}

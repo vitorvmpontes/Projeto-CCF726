@@ -9,8 +9,13 @@ Lê data/test/manifest.csv, carrega para cada arquivo avaliado o gabarito
 - Validade:              % de arquivos com JSON válido e % de atividades no schema
 - IC 95% por bootstrap (reamostragem de arquivos) para P/R/F1
 
+Com --pos-processar, as predições passam antes por inference.postprocess
+(parse tolerante, normalização de datas, sanitização do HTML, remoção de
+duplicatas). As taxas de validade continuam medidas sobre a saída BRUTA.
+
 Uso (na raiz do repositório):
     python -m evaluation.evaluate --pred-dir data/test/baseline_gemini --nome gemini-2.0-flash
+    python -m evaluation.evaluate --pred-dir data/test/baseline_gemini --nome gemini-2.0-flash-pp --pos-processar
 """
 
 from __future__ import annotations
@@ -23,6 +28,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import numpy as np
+from collections import Counter
 
 from .loading import load_activities
 from .metrics import FIELDS, Counts, evaluate_pair
@@ -50,7 +56,8 @@ def bootstrap_ci(per_file: list[Counts], n: int = 2000, seed: int = 42, alpha: f
     }
 
 
-def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, seed: int) -> dict:
+def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, seed: int,
+        pos_processar: bool = False) -> dict:
     base = manifest.parent
     with manifest.open(encoding="utf-8", newline="") as f:
         rows = [r for r in csv.DictReader(f) if r.get("avaliado") == "sim"]
@@ -58,14 +65,25 @@ def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, see
     per_file = []
     totals = {m: Counts() for m in MODES}
     files_json_ok = acts_total = acts_schema_ok = 0
+    correcoes: Counter = Counter()
 
     for r in rows:
         gt = load_activities(base / r["ground_truth"])
         if not gt.json_valid:
             raise SystemExit(f"Gabarito inválido para {r['id']}: {gt.error}")
-        pred = load_activities(pred_dir / f"{r['id']}.json")
+        pred_path = pred_dir / f"{r['id']}.json"
+        pred = load_activities(pred_path)
+        acts = pred.activities
+        if pos_processar:
+            from inference.postprocess import pos_processar as pp
 
-        res = evaluate_pair(gt.activities, pred.activities, fuzzy_threshold)
+            bruto = pred_path.read_text(encoding="utf-8") if pred_path.exists() else ""
+            texto = (base / r["raw_text"]).read_text(encoding="utf-8") if r.get("raw_text") else None
+            res_pp = pp(bruto, texto)
+            acts = res_pp.atividades
+            correcoes.update(res_pp.correcoes)
+
+        res = evaluate_pair(gt.activities, acts, fuzzy_threshold)
         for m in MODES:
             totals[m] = totals[m] + res[m]
         files_json_ok += pred.json_valid
@@ -74,7 +92,7 @@ def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, see
 
         per_file.append({
             "id": r["id"], "evento": r["evento"], "formato": r["formato"],
-            "n_gabarito": len(gt.activities), "n_predicao": len(pred.activities),
+            "n_gabarito": len(gt.activities), "n_predicao": len(acts),
             "json_valido": pred.json_valid, "erro": pred.error,
             "schema_validas": pred.schema_valid, "schema_erros": pred.schema_errors[:5],
             **{m: res[m] for m in MODES},
@@ -94,6 +112,8 @@ def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, see
         "manifest": str(manifest.as_posix()),
         "arquivos_avaliados": len(rows),
         "limiar_aproximado": fuzzy_threshold,
+        "pos_processado": pos_processar,
+        "correcoes_pos_processamento": dict(correcoes),
         "bootstrap": {"reamostras": n_boot, "semente": seed},
         "validade": {
             "json_valido": files_json_ok / len(rows) if rows else 0.0,
@@ -145,7 +165,9 @@ def print_report(result: dict, nome: str) -> None:
               f"P {pct(s['precisao'])} R {pct(s['revocacao'])} F1 {pct(s['f1'])}{ic_txt}")
         print("  Nível 2: " + "  ".join(f"{k} {pct(v)}" for k, v in s["acuracia_campos"].items()))
     v = result["validade"]
-    print(f"\nValidade: JSON válido {pct(v['json_valido'])} | atividades no schema {pct(v['atividades_no_schema'])}")
+    print(f"\nValidade (saída bruta): JSON válido {pct(v['json_valido'])} | atividades no schema {pct(v['atividades_no_schema'])}")
+    if result.get("pos_processado"):
+        print(f"Correções do pós-processamento: {result['correcoes_pos_processamento'] or 'nenhuma'}")
 
 
 def main() -> int:
@@ -157,9 +179,11 @@ def main() -> int:
     p.add_argument("--limiar", type=float, default=0.9, help="similaridade mínima do Nível 1b (0-1)")
     p.add_argument("--bootstrap", type=int, default=2000, help="número de reamostras (0 desliga)")
     p.add_argument("--semente", type=int, default=42)
+    p.add_argument("--pos-processar", action="store_true",
+                   help="aplica inference.postprocess às predições antes de avaliar")
     args = p.parse_args()
 
-    result = run(args.manifest, args.pred_dir, args.limiar, args.bootstrap, args.semente)
+    result = run(args.manifest, args.pred_dir, args.limiar, args.bootstrap, args.semente, args.pos_processar)
     print_report(result, args.nome)
     write_outputs(result, args.saida / args.nome)
     print(f"\nResultados salvos em {args.saida / args.nome}")

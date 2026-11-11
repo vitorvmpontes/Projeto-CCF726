@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-42-00193",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Goiânia - GO",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos",
+   "subtitulo_separado",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:23+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 1913
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Mostra de Extensão e Cultura do Centro-Oeste",
+   "local_geral": "Câmpus Samambaia - Universidade Federal de Goiás, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall do Centro de Eventos Ricardo Freua Bufáiçal",
+    "dataInicio": "2024-10-24T08:00:00-03:00",
+    "dataFim": "2024-10-24T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2024-10-24T09:00:00-03:00",
+    "dataFim": "2024-10-24T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Universidade pública e saberes tradicionais do Cerrado</i>.</p><p>Abertura oficial conduzida pela coordenadora-geral <b>Profa. Dra. Elaine Cristina Peixoto</b>, com participação do conferencista convidado <b>Mestre Aílton Krenak</b> e da vice-reitora <b>Profa. Camila Guimarães Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": null,
+    "dataInicio": "2024-10-24T10:30:00-03:00",
+    "dataFim": "2024-10-24T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Bloco Humanidades - Sala 104",
+    "dataInicio": "2024-10-24T11:00:00-03:00",
+    "dataFim": "2024-10-24T12:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Educação Popular e Cidadania</i>.</p><p>Coordenação de <b>Prof. Marcos Aurélio Silveira</b>.</p><p>Trabalhos apresentados:<br>- <i>Alfabetização de Jovens e Adultos na Periferia de Goiânia</i> por <b>Juliana Dias de Souza</b> e <b>Carlos Mendes Faria</b>;<br>- <i>Cineclube Comunitário como Instrumento Pedagógico</i> por <b>Amanda Ribeiro Teles</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-24T12:30:00-03:00",
+    "dataFim": "2024-10-24T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 2",
+    "lugar": "Bloco Humanidades - Sala 106",
+    "dataInicio": "2024-10-24T14:00:00-03:00",
+    "dataFim": "2024-10-24T16:00:00-03:00",
+    "descricao": "<p>Eixo: <i>Saúde Coletiva e Extensão Rural</i>.</p><p>Coordenação de <b>Dra. Simone Paiva Castro</b>.</p><p>Apresentações:<br>- <i>Promotores Comunitários de Saúde em Assentamentos Rurais de Goiás</i> por <b>Renato Cavalcanti</b> e <b>Dra. Simone Paiva Castro</b>;<br>- <i>Vigilância em Saúde Bucal para Populações Ribeirinhas</i> por <b>Tatiane Ferreira Lopes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Roda de Conversa Intercultural",
+    "lugar": null,
+    "dataInicio": "2024-10-24T16:30:00-03:00",
+    "dataFim": "2024-10-24T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Patrimônio Imaterial e Memória Kalunga</i>.</p><p>Facilitadores: <b>Seu Jorge Kalunga</b> e <b>Profa. Lúcia Tavares Batista</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Banners Extensionistas",
+    "lugar": "Tenda Expositiva Central",
+    "dataInicio": "2024-10-25T08:30:00-03:00",
+    "dataFim": "2024-10-25T11:00:00-03:00",
+    "descricao": "<p>Exposição de pôsteres de projetos de extensão das áreas de Ciências Ambientais, Agrárias e Sociais Aplicadas. Avaliação com a presença dos relatores <b>Prof. Danilo Albuquerque</b> e <b>Profa. Vanessa Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-25T11:00:00-03:00",
+    "dataFim": "2024-10-25T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento Colaborativo de Territórios Vulneráveis com Software Livre</i>.</p><p>Ministrante: <b>Igor Resende Vilela</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": null,
+    "dataInicio": "2024-10-25T14:00:00-03:00",
+    "dataFim": "2024-10-25T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Hortas Urbanas Agroecológicas em Espaços Escolares</i>.</p><p>Ministrantes: <b>Carla Beatriz Nogueira</b> e <b>Prof. Roberto Antunes da Mata</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Plenária de Encerramento e Premiação",
+    "lugar": "Auditório Nobre",
+    "dataInicio": "2024-10-25T16:30:00-03:00",
+    "dataFim": "2024-10-25T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos resultados da mostra e entrega do <i>Prêmio Mérito Extensionista Paulo Freire</i> aos melhores projetos de 2024, presidida por <b>Profa. Dra. Elaine Cristina Peixoto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

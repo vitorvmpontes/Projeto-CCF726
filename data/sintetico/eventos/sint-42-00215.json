@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-42-00215",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "descricoes_ricas",
+   "sem_local",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:26+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 1596
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Fluminense de Mulheres na Computação",
+   "local_geral": "Centro de Tecnologia da Universidade Federal do Rio de Janeiro, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial e Boas-Vindas",
+    "lugar": "Auditório Hélio Fraga",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T09:30:00-03:00",
+    "descricao": "<p>Abertura do encontro com as organizadoras <b>Dra. Mariana Azevedo</b> e <b>Profa. Carla Benevides</b>, destacando ações para a retenção feminina nas ciências exatas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Liderança Feminina",
+    "lugar": "Auditório Hélio Fraga",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": "<p>Debate sobre trajetórias de carreira e ascensão executiva na área técnica. Coordenadora: <b>Renata Silveira</b>.</p><p>Palestrantes convidadas: <b>Beatriz Brandão</b> abordando <i>Desafios da Gestão de Engenharia em Big Techs</i> e <b>Fernanda Lins</b> apresentando <i>Empreendedorismo Tecnológico e Captação de Investimentos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral 1",
+    "lugar": "Sala 102 - Bloco E",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": "2026-05-15T12:45:00-03:00",
+    "descricao": "<p>Apresentação de artigos científicos selecionados pelo comitê de programa. Coordenadora da sessão: <b>Dra. Lilian Peixoto</b>.</p><p>Trabalhos apresentados:</p><p>- <i>Detecção de Viés Algorítmico em Modelos de Processamento de Linguagem Natural</i> por <b>Camila Duarte</b> e <b>Juliana Nogueira</b>;</p><p>- <i>Otimização de Roteamento em Redes Ópticas Elásticas com Aprendizado por Reforço</i> por <b>Tatiane Meireles</b> e <b>Patrícia Godoy</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica Oral 2",
+    "lugar": "Laboratório de Software 3",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": "2026-05-15T12:45:00-03:00",
+    "descricao": "<p>Apresentação de artigos voltados a sistemas computacionais e engenharia de software. Coordenadora da sessão: <b>Profa. Elaine Matos</b>.</p><p>Trabalhos apresentados:</p><p>- <i>Avaliação de Desempenho de Microsserviços sob Cargas Extremas</i> por <b>Roberta Guimarães</b> e <b>Sofia Albuquerque</b>;</p><p>- <i>Privacidade de Dados em Dispositivos Móveis de Saúde</i> por <b>Larissa Fontes</b> e <b>Vitória Siqueira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço e Networking",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:45:00-03:00",
+    "dataFim": "2026-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Cibersegurança",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Atividade hands-on sobre resposta a incidentes e segurança defensiva. Instrutora: <b>Priscila Meneses</b> ministrando <i>Análise Forense e Mitigação de Vulnerabilidades Web</i>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina de Inteligência Artificial Generativa",
+    "lugar": null,
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Introdução e práticas avançadas com modelos generativos de código. Instrutora: <b>Gabriela Esteves</b> conduzindo <i>Prompt Engineering e Fine-tuning de LLMs para Desenvolvedoras</i>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão de Pôsteres e Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-15T16:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição dos trabalhos de iniciação científica e entrega do prêmio de melhor pesquisa jovem. Coordenação de <b>Profa. Carla Benevides</b> e <b>Dra. Mariana Azevedo</b>.</p><p>Trabalhos expostos:</p><p>- <i>Interface Adaptativa para Usuários com Deficiência Motora</i> por <b>Aline Fonseca</b>;</p><p>- <i>Estudo Comparativo de Frameworks Web para Aplicações Distribuídas</i> por <b>Bruna Castilho</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

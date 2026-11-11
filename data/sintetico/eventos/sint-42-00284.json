@@ -1,0 +1,156 @@
+{
+ "spec": {
+  "id": "sint-42-00284",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Campinas - SP",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 16,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:05+00:00",
+ "uso_tokens": {
+  "entrada": 645,
+  "saida": 2302
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop de Inteligência Artificial Aplicada e Minicursos - WIA 2025",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2025-08-14T08:00:00-03:00",
+    "dataFim": "2025-08-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-14T09:00:00-03:00",
+    "dataFim": "2025-08-14T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com os coordenadores <b>Prof. Dr. Marcos Vinicius Faria</b> e <b>Dra. Helena Souza Castro</b> apresentando os eixos temáticos do workshop.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-14T09:30:00-03:00",
+    "dataFim": "2025-08-14T10:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Modelos de Linguagem de Grande Porte e Eficiência Computacional</i> ministrada pelo pesquisador <b>Dr. Rodrigo Albuquerque</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2025-08-14T10:30:00-03:00",
+    "dataFim": "2025-08-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2025-08-14T11:00:00-03:00",
+    "dataFim": "2025-08-14T13:00:00-03:00",
+    "descricao": "<p>Minicurso prático <i>Desenvolvimento de Agentes Autônomos com RAG</i> conduzido por <b>Juliana Pavan</b> e <b>Carlos Eduardo Prado</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2025-08-14T11:00:00-03:00",
+    "dataFim": "2025-08-14T13:00:00-03:00",
+    "descricao": "<p>Minicurso prático <i>Visão Computacional para Análise de Imagens Médicas</i> com o instrutor <b>Prof. Ricardo Silveira Neto</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-08-14T13:00:00-03:00",
+    "dataFim": "2025-08-14T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-14T14:30:00-03:00",
+    "dataFim": "2025-08-14T16:00:00-03:00",
+    "descricao": "<p>Painel sobre <i>Ética, Regulação e Impactos da IA na Indústria Brasileira</i> mediado por <b>Dra. Camila Toledo</b>, contando com a participação de <b>Felipe Rossi</b> e <b>Letícia Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2025-08-14T16:00:00-03:00",
+    "dataFim": "2025-08-14T17:30:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos acadêmicos de pós-graduação avaliados pela comissão liderada por <b>Prof. André Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-15T09:00:00-03:00",
+    "dataFim": "2025-08-15T10:15:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Aprendizado por Reforço Profundo em Robótica Móvel</i> conduzida por <b>Dra. Mariana Vianna</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": null,
+    "dataInicio": "2025-08-15T10:15:00-03:00",
+    "dataFim": "2025-08-15T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2025-08-15T10:45:00-03:00",
+    "dataFim": "2025-08-15T12:45:00-03:00",
+    "descricao": "<p>Minicurso <i>Otimização e Fine-Tuning de LLMs Open-Source</i> ministrado por <b>Gabriel Fontes</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Informática B",
+    "dataInicio": "2025-08-15T10:45:00-03:00",
+    "dataFim": "2025-08-15T12:45:00-03:00",
+    "descricao": "<p>Minicurso <i>Detecção de Anomalias em Séries Temporais Industriais</i> facilitado por <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Minicursos - Trilha Prática"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-08-15T14:00:00-03:00",
+    "dataFim": "2025-08-15T16:00:00-03:00",
+    "descricao": "<p>Apresentação oral dos artigos selecionados sob moderação de <b>Prof. Lucas Guimarães</b> e <b>Dra. Renata Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2025-08-15T16:15:00-03:00",
+    "dataFim": "2025-08-15T17:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>O Futuro da Formação em Inteligência Artificial no Brasil</i> com os especialistas <b>Thiago Ramos</b>, <b>Patrícia Antunes</b> e mediação de <b>Prof. Dr. Marcos Vinicius Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": null,
+    "dataInicio": "2025-08-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

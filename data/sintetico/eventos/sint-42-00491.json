@@ -1,0 +1,110 @@
+{
+ "spec": {
+  "id": "sint-42-00491",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Florianópolis - SC",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:32+00:00",
+ "uso_tokens": {
+  "entrada": 713,
+  "saida": 1787
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Santa Catarina 2023",
+   "local_geral": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-17T08:30:00-03:00",
+    "dataFim": "2023-08-17T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Plenária",
+    "dataInicio": "2023-08-17T10:00:00-03:00",
+    "dataFim": "2023-08-17T11:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença de autoridades e da diretoria do Sebrae/SC.</p><p>Coordenação: <b>Carlos Henrique Ramos Fonseca</b> e <b>Luciana Thomé</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Como estruturar modelos de negócios inovadores e sustentáveis para pequenas e médias empresas em mercados altamente competitivos e digitalizados",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2023-08-17T11:15:00-03:00",
+    "dataFim": "2023-08-17T12:30:00-03:00",
+    "descricao": "<p>Tema: Transformação digital e novos ecossistemas produtivos.</p><p>Palestra ministrada por <b>Mariana Siqueira Luz</b> (Consultora de Negócios Globais).</p>",
+    "secao": "Palestras de Gestão e Mercado"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2023-08-17T12:30:00-03:00",
+    "dataFim": "2023-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Soluções e Casos de Sucesso das Startups Catarinenses",
+    "lugar": "Arena Sebrae Delas",
+    "dataInicio": "2023-08-17T14:30:00-03:00",
+    "dataFim": "2023-08-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos projetos acelerados pelo programa Sebrae Startups.</p><p>Coordenação geral: <b>Renata Alcantara Silveira</b>.</p><p>Trabalhos apresentados: <i>Automação de microcrédito rural com uso de inteligência artificial</i>, por <b>Tiago Mendes Fagundes</b>; <i>Plataforma circular para descarte e reciclagem de resíduos têxteis em Santa Catarina</i>, por <b>Bianca Duarte Rossi</b>; <i>Eficiência logística de última milha para o pequeno varejo de bairro</i>, por <b>Guilherme Pires de Camargo</b>.</p>",
+    "secao": "Mostras e Rodadas de Negócios"
+   },
+   {
+    "nome": "Estratégias práticas de captação de recursos e investimentos anjo para impulsionar o crescimento acelerado de empreendimentos em estágio inicial",
+    "lugar": "Auditório Inovação",
+    "dataInicio": "2023-08-18T09:30:00-03:00",
+    "dataFim": "2023-08-18T11:00:00-03:00",
+    "descricao": "<p>Painel sobre venture capital e captação de investimento semente.</p><p>Debatedores: <b>Felipe Bastos Vianna</b> (Rede Angels SC) e <b>Cláudia Regina Medeiros</b> (InovaCapital).</p><p>Mediação: <b>Roberto Nogueira Filho</b>.</p>",
+    "secao": "Palestras de Gestão e Mercado"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T11:00:00-03:00",
+    "dataFim": "2023-08-18T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Tráfego Pago e Redes Sociais para Pequenos Varejistas",
+    "lugar": "Sala de Treinamento A",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: Campanhas digitais de alta conversão com baixo orçamento para comércio local.</p><p>Instrutor: <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Precificação e Gestão de Fluxo de Caixa para Prestadores de Serviço",
+    "lugar": "Sala de Treinamento B",
+    "dataInicio": "2023-08-19T10:00:00-03:00",
+    "dataFim": "2023-08-19T12:00:00-03:00",
+    "descricao": "<p>Subtítulo: Métodos para equilibrar contas e garantir lucratividade no MEI e na microempresa.</p><p>Facilitadora: <b>Danielle Freitas Carvalho</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "O impacto transformador da liderança feminina no ecossistema de tecnologia e empreendedorismo tradicional do sul do Brasil",
+    "lugar": "Auditório Plenária",
+    "dataInicio": "2023-08-19T14:30:00-03:00",
+    "dataFim": "2023-08-19T16:00:00-03:00",
+    "descricao": "<p>Palestra de encerramento destacando trajetórias de mulheres empreendedoras.</p><p>Palestrante: <b>Helena Boabaid Zanella</b>.</p><p>Apresentação: <b>Patrícia Becker Antunes</b>.</p>",
+    "secao": "Palestras de Gestão e Mercado"
+   }
+  ]
+ }
+}

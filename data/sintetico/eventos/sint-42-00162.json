@@ -1,0 +1,371 @@
+{
+ "spec": {
+  "id": "sint-42-00162",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 43,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:05:29+00:00",
+ "uso_tokens": {
+  "entrada": 643,
+  "saida": 6945
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXVII Semana Acadêmica de Oceanografia da UERJ",
+   "local_geral": "Faculdade de Oceanografia, Campus Maracanã, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Congressistas e Entrega de Crachás",
+    "lugar": "Hall do Bloco E",
+    "dataInicio": "2025-10-14T08:00:00-03:00",
+    "dataFim": "2025-10-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-14T09:00:00-03:00",
+    "dataFim": "2025-10-14T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo Diretor <b>Prof. Marcos Vinicius da Silva</b> e pela Coordenadora do Curso <b>Profa. Beatriz Lemos Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-14T10:00:00-03:00",
+    "dataFim": "2025-10-14T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Década da Ciência Oceânica para o Desenvolvimento Sustentável no Atlântico Sul</i>. Palestrante: <b>Dra. Silvia Regina Gobbo</b> (Instituto Oceanográfico da USP). Coordenação: <b>Prof. André Calasans</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-10-14T11:30:00-03:00",
+    "dataFim": "2025-10-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-14T12:00:00-03:00",
+    "dataFim": "2025-10-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Oceanografia Geológica",
+    "dataInicio": "2025-10-14T13:30:00-03:00",
+    "dataFim": "2025-10-14T16:00:00-03:00",
+    "descricao": "<p><i>Morfodinâmica Praial e Métodos de Amostragem Costeira</i>, ministrado pelo <b>Prof. Daniel Duarte Cavalcanti</b> com tutoria de <b>Juliana Pires Meireles</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática II",
+    "dataInicio": "2025-10-14T13:30:00-03:00",
+    "dataFim": "2025-10-14T16:00:00-03:00",
+    "descricao": "<p><i>Introdução à Análise de Dados Oceanográficos com Python</i>, ministrado por <b>Leonardo Vasconcelos</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Sala de Aulas 402",
+    "dataInicio": "2025-10-14T13:30:00-03:00",
+    "dataFim": "2025-10-14T16:00:00-03:00",
+    "descricao": "<p><i>Ecologia de Bentos e Bioindicadores de Poluição</i>, sob instrução da <b>Dra. Carla Fontana</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-10-14T16:15:00-03:00",
+    "dataFim": "2025-10-14T18:00:00-03:00",
+    "descricao": "<p>Oceanografia Biológica e Pesqueira. Coordenador da sessão: <b>Prof. Renato Tavares</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Avaliação da ictiofauna acompanhante na pesca artesanal da Baía de Guanabara</i> por <b>Camila Rezende Ramos</b> e <b>Carlos Eduardo Siqueira</b>;</p><p>2. <i>Diversidade zooplanctônica associada a frentes térmicas na Borda Continental Sudeste</i> por <b>Felipe Menezes Guedes</b> e <b>Dra. Thaís Barreto</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Cine-Debate Ambiental",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-14T18:15:00-03:00",
+    "dataFim": "2025-10-14T20:00:00-03:00",
+    "descricao": "<p>Exibição e debate com os documentaristas <b>Mariana Prado</b> e <b>Bruno Falcão</b> sobre preservação costeira.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-15T08:30:00-03:00",
+    "dataFim": "2025-10-15T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Gestão e Monitoramento de Grandes Empreendimentos Offshore</i>. Coordenador: <b>Dr. Marcelo Antunes Fagundes</b>. Debatedores convidados: <b>Eng. Patrícia Albuquerque</b> (Petrobras), <b>Dr. Rogério Nogueira</b> (IBAMA) e <b>Dra. Helena Assunção</b> (IEAPM).</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-10-15T10:30:00-03:00",
+    "dataFim": "2025-10-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-15T11:00:00-03:00",
+    "dataFim": "2025-10-15T12:30:00-03:00",
+    "descricao": "<p><i>Sensoriamento Remoto Aplicado a Eventos de Surgência Costeira</i>, ministrada por <b>Dr. Igor Cordeiro</b> (INPE). Moderação: <b>Profa. Elisa Pinheiro</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-15T12:30:00-03:00",
+    "dataFim": "2025-10-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Hidroquímica",
+    "dataInicio": "2025-10-15T14:00:00-03:00",
+    "dataFim": "2025-10-15T16:00:00-03:00",
+    "descricao": "<p><i>Técnicas de Titulação para Salinidade e Nutrientes Dissolvidos</i> com a técnica <b>Luciana Moura Couto</b> e coordenação do <b>Prof. Gustavo Bastos</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Cartografia Náutica",
+    "dataInicio": "2025-10-15T14:00:00-03:00",
+    "dataFim": "2025-10-15T16:00:00-03:00",
+    "descricao": "<p><i>Leitura e Interpretação de Cartas Náuticas Oficiais da DHN</i> com o Capitão-de-Corveta <b>Rodrigo Vianna</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-10-15T16:00:00-03:00",
+    "dataFim": "2025-10-15T17:30:00-03:00",
+    "descricao": "<p>Oceanografia Física e Meteorologia Marinha. Coordenação: <b>Prof. Eduardo Matoso</b>.</p><p>Trabalhos:</p><p>1. <i>Propagação de ondas de tempestade na costa fluminense durante o inverno de 2024</i> por <b>Aline Borges Paiva</b>;</p><p>2. <i>Modelagem da circulação hidrodinâmica no Canal de São Sebastião</i> apresentado por <b>Gabriel Zanin</b> e orientado por <b>Dra. Clara Silveira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Painéis 1",
+    "lugar": "Pátio das Esculturas",
+    "dataInicio": "2025-10-15T17:30:00-03:00",
+    "dataFim": "2025-10-15T19:00:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres científicos das áreas de Geologia Marinha e Poluição Ambiental. Avaliadores da comissão científica: <b>Prof. Thiago Brandão</b> e <b>Profa. Vanessa Klein</b>.</p>",
+    "secao": "Sessões de Pôsteres"
+   },
+   {
+    "nome": "Show Musical dos Estudantes",
+    "lugar": "Concha Acústica",
+    "dataInicio": "2025-10-15T19:00:00-03:00",
+    "dataFim": "2025-10-15T20:30:00-03:00",
+    "descricao": "<p>Apresentação musical da banda formada pelos alunos da graduação com participação especial de <b>Sofia Alencar</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-16T08:30:00-03:00",
+    "dataFim": "2025-10-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mercado de Trabalho e Atuação Profissional do Oceanógrafo no Brasil</i>. Coordenadora: <b>Renata Peçanha</b>. Participantes: <b>Ocean. Fernando Diniz</b> (AOB), <b>Ocean. Cláudia Esteves</b> (Fugro Brasil) e <b>M.Sc. Pedro Henrique Lima</b> (Consultoria Marítima).</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-10-16T10:30:00-03:00",
+    "dataFim": "2025-10-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Oceanografia Geológica",
+    "dataInicio": "2025-10-16T11:00:00-03:00",
+    "dataFim": "2025-10-16T13:00:00-03:00",
+    "descricao": "<p>Segunda etapa prática: <i>Processamento Granulométrico e Ensaios de Sedimento</i> conduzida pelo <b>Prof. Daniel Duarte Cavalcanti</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática II",
+    "dataInicio": "2025-10-16T11:00:00-03:00",
+    "dataFim": "2025-10-16T13:00:00-03:00",
+    "descricao": "<p>Segunda etapa prática: <i>Visualização e Plotagem de Perfis CTD</i> com <b>Leonardo Vasconcelos</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Sala de Aulas 402",
+    "dataInicio": "2025-10-16T11:00:00-03:00",
+    "dataFim": "2025-10-16T13:00:00-03:00",
+    "descricao": "<p>Segunda etapa prática: <i>Identificação Taxonômica de Organismos Macroinvertebrados</i> com a <b>Dra. Carla Fontana</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-16T13:00:00-03:00",
+    "dataFim": "2025-10-16T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-10-16T14:30:00-03:00",
+    "dataFim": "2025-10-16T16:00:00-03:00",
+    "descricao": "<p>Oceanografia Química e Geoquímica Marinha. Coordenação: <b>Profa. Solange Miranda</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Distribuição de microplásticos na Baía de Ilha Grande e implicações ecotoxicológicas</i> por <b>Lorena Castro Rocha</b>;</p><p>2. <i>Fluxo de nutrientes inorgânicos na interface sedimento-água na Lagoa de Araruama</i> por <b>Mateus Antunes Maia</b> e <b>Prof. Roberto Galvão</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Oral 4",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-16T14:30:00-03:00",
+    "dataFim": "2025-10-16T16:00:00-03:00",
+    "descricao": "<p>Geologia e Geofísica Marinha. Coordenador: <b>Prof. Wilson Cintra</b>.</p><p>Trabalhos selecionados:</p><p>1. <i>Mapeamento batimétrico de alta resolução nos canhões submarinos do Cabo de São Tomé</i> por <b>Bernardo Furtado</b> e <b>Dra. Lilian Magalhães</b>;</p><p>2. <i>Evolução holocênica da barreira arenosa de Maricá por meio de radar de penetração no solo (GPR)</i> por <b>Juliana Nogueira Abreu</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Painéis 2",
+    "lugar": "Pátio das Esculturas",
+    "dataInicio": "2025-10-16T16:00:00-03:00",
+    "dataFim": "2025-10-16T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres científicos das áreas de Dinâmica Costeira e Biologia Marinha. Avaliação coordenada por <b>Dr. Arthur Queiroz</b>.</p>",
+    "secao": "Sessões de Pôsteres"
+   },
+   {
+    "nome": "Palestra Magna Vespertina",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-16T17:45:00-03:00",
+    "dataFim": "2025-10-16T19:15:00-03:00",
+    "descricao": "<p><i>Acidificação Oceânica e Impactos nos Ecossistemas Recifais Brasileiros</i>, ministrada pelo <b>Prof. Dr. Emiliano Medeiros</b> (UFRJ) e mediada pela <b>Dra. Tânia Pacheco</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Reunião Plenária dos Estudantes",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-10-16T19:30:00-03:00",
+    "dataFim": "2025-10-16T21:00:00-03:00",
+    "descricao": "<p>Assembleia com a diretoria do Centro Acadêmico conduzida pela presidente estudantil <b>Carla Ribeiro dos Anjos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica ao Navio Oceanográfico",
+    "lugar": "Pier da Ilha da Conceição - Niterói",
+    "dataInicio": "2025-10-17T08:00:00-03:00",
+    "dataFim": "2025-10-17T11:30:00-03:00",
+    "descricao": "<p>Embarque e demonstração de equipamentos de amostragem conduzidos pelo <b>Comandante Valdir Souza</b> e pelo <b>Prof. André Calasans</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Sala de Seminários 101",
+    "dataInicio": "2025-10-17T09:00:00-03:00",
+    "dataFim": "2025-10-17T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Vivências de Mulheres nas Ciências do Mar</i>, com depoimentos de <b>Dra. Thaís Barreto</b>, <b>Ocean. Flávia Muniz</b> e <b>MSc. Roberta Camargo</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Sala de Seminários 102",
+    "dataInicio": "2025-10-17T09:00:00-03:00",
+    "dataFim": "2025-10-17T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Divulgação Científica e Redes Sociais no Combate ao Negacionismo Climático</i>, coordenada por <b>Lucas Santoro</b>.</p>",
+    "secao": "Rodas de Conversa"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-10-17T10:30:00-03:00",
+    "dataFim": "2025-10-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-17T11:00:00-03:00",
+    "dataFim": "2025-10-17T12:30:00-03:00",
+    "descricao": "<p><i>Exploração Mineral no Fundo Oceânico: Recursos Estratégicos versus Preservação</i>, com palestra do geólogo <b>Dr. Maurício Brandão</b> (CPRM) e coordenação de <b>Prof. Wilson Cintra</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-17T12:30:00-03:00",
+    "dataFim": "2025-10-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Laboratório de Hidráulica e Ondas",
+    "dataInicio": "2025-10-17T14:00:00-03:00",
+    "dataFim": "2025-10-17T15:30:00-03:00",
+    "descricao": "<p><i>Simulação de Ondas em Canais de Hidráulica Experimental</i> sob orientação do engenheiro <b>Fábio Lourenço</b> e <b>Prof. Marcos Vinicius da Silva</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina Prática 4",
+    "lugar": "Laboratório de Informática I",
+    "dataInicio": "2025-10-17T14:00:00-03:00",
+    "dataFim": "2025-10-17T15:30:00-03:00",
+    "descricao": "<p><i>Elaboração de Mapas Temáticos no software QGIS</i> ministrada pela geógrafa <b>Patrícia Leão</b>.</p>",
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Sessão Oral 5",
+    "lugar": "Auditório B",
+    "dataInicio": "2025-10-17T15:45:00-03:00",
+    "dataFim": "2025-10-17T17:15:00-03:00",
+    "descricao": "<p>Gerenciamento Costeiro e Educação Ambiental. Coordenação: <b>Profa. Nair Salgado</b>.</p><p>Trabalhos:</p><p>1. <i>Conflitos socioambientais na Reserva Extrativista Marinha de Itaipu</i> por <b>Samanta Figueiredo</b>;</p><p>2. <i>Práticas de educação ambiental marinha em escolas públicas do Rio de Janeiro</i> por <b>Otávio Peçanha Cruz</b> e <b>Mariana Paes Leme</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Mesa de Encerramento",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-17T17:30:00-03:00",
+    "dataFim": "2025-10-17T18:45:00-03:00",
+    "descricao": "<p>Balanço da semana e encaminhamentos com o representante discente <b>Gabriel Zanin</b> e a coordenadora geral <b>Profa. Beatriz Lemos Guimarães</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Premiação de Trabalhos e Menção Honrosa",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-17T18:45:00-03:00",
+    "dataFim": "2025-10-17T19:30:00-03:00",
+    "descricao": "<p>Entrega das honrarias pelo Comitê Científico, presidido pela <b>Profa. Solange Miranda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-17T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento solene com discursos dos decanos e agradecimentos aos patrocinadores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Pátio das Esculturas",
+    "dataInicio": "2025-10-17T20:00:00-03:00",
+    "dataFim": "2025-10-17T22:00:00-03:00",
+    "descricao": null,
+    "secao": "Atividades Culturais"
+   }
+  ]
+ }
+}

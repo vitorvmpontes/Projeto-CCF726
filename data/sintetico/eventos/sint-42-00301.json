@@ -1,0 +1,181 @@
+{
+ "spec": {
+  "id": "sint-42-00301",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Fortaleza - CE",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:10+00:00",
+ "uso_tokens": {
+  "entrada": 677,
+  "saida": 3053
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Mostra Cearense de Extensão e Cultura Universitária",
+   "local_geral": "Campus do Pici, Universidade Federal do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Participantes e Validação de Inscrições",
+    "lugar": "Hall do Bloco 708",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:30:00-03:00",
+    "descricao": "<p>Acolhimento aos extensionistas com distribuição de crachás e materiais de apoio sob coordenação da bolsista <b>Mariana Rios Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Castelo Branco",
+    "dataInicio": "2027-05-19T09:30:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Composição de mesa com o pró-reitor de extensão Prof. Dr. <b>João Paulo Sombra Silveira</b> e apresentação do Coral da Pró-Reitoria de Cultura.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Diálogos Extensionistas 1",
+    "lugar": "Auditório Castelo Branco",
+    "dataInicio": "2027-05-19T10:45:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Palestra de abertura intitulada <i>O papel transformador das ações comunitárias extensionistas no fortalecimento da cidadania e da sustentabilidade socioambiental no semiárido nordestino brasileiro</i>, proferida pela Profa. Dra. <b>Heloísa Helena Mourão</b> e mediada por <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": "Diálogos Extensionistas"
+   },
+   {
+    "nome": "Circuito Gastronômico Regional",
+    "lugar": "Tenda Cultural do Bosque",
+    "dataInicio": "2027-05-19T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Metodologias Ativas - Bloco 710",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Mapeamento colaborativo de demandas sociais urbanas com ferramentas livres</i>, facilitada pelo pesquisador <b>Tiago Holanda Paiva</b>.</p>",
+    "secao": "Oficinas de Formação"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala de Multimídia 2 - Bloco 711",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:00:00-03:00",
+    "descricao": "<p>Atividade formativa sobre <i>Técnicas audiovisuais de baixo custo para divulgação científica em redes digitais</i>, coordenada por <b>Sabrina Menezes Aragão</b>.</p>",
+    "secao": "Oficinas de Formação"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Anfiteatro do Bosque",
+    "dataInicio": "2027-05-19T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Intervenção artística pelo coletivo maracatu sob regência do Mestre <b>Valdemir Nascimento</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Saúde e Meio Ambiente",
+    "lugar": "Pátio Coberto do Bloco 708",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Exposição e arguição de projetos de extensão com avaliação da Profa. Dra. <b>Fernanda Tavares Cavalcante</b> e do Prof. Me. <b>Vicente Sales Alencar</b>.</p>",
+    "secao": "Mostra de Resultados"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Educação e Direitos Humanos",
+    "lugar": "Pátio Coberto do Bloco 710",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Apresentação das práticas pedagógicas comunitárias com coordenação de <b>Clarice Prado Barreto</b> e avaliação técnica por <b>Daniel Gouveia Maia</b>.</p>",
+    "secao": "Mostra de Resultados"
+   },
+   {
+    "nome": "Diálogos Extensionistas 2",
+    "lugar": "Auditório Castelo Branco",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": "2027-05-20T12:15:00-03:00",
+    "descricao": "<p>Mesa redonda focada na temática de articulação interinstitucional com o palestrante <b>Renato Feitosa Bezerra</b> e a líder comunitária <b>Dona Luzia Martins</b>.</p>",
+    "secao": "Diálogos Extensionistas"
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Laboratório de Metodologias Ativas - Bloco 710",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": "<p>Capacitação voltada para a gestão de associações intitulada <i>Elaboração e captação de recursos governamentais para iniciativas comunitárias populares e cooperativas solidárias no interior cearense</i>, ministrada por <b>Patrícia Albuquerque Ramos</b>.</p>",
+    "secao": "Oficinas de Formação"
+   },
+   {
+    "nome": "Roda de Conversa Intersetorial",
+    "lugar": "Auditório da Engenharia",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:30:00-03:00",
+    "descricao": "<p>Debate sobre curricularização da extensão com a debatedora <b>Eliane Borges Cunha</b> e representantes de movimentos sociais locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Feira de Economia Solidária e Saberes Tradicionais",
+    "lugar": "Alameda dos Cajueiros",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Comercialização de produtos artesanais e alimentos agroecológicos das comunidades assessoradas pelos projetos da universidade.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Vídeos Comunitários",
+    "lugar": "Cineclube do Bloco 714",
+    "dataInicio": "2027-05-20T18:00:00-03:00",
+    "dataFim": "2027-05-20T19:30:00-03:00",
+    "descricao": "<p>Exibição dos documentários produzidos nos bairros da periferia de Fortaleza, sob curadoria do cineasta e extensionista <b>Lucas Medeiros Parente</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Comunicação Oral 1",
+    "lugar": "Sala 101 - Bloco 708",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Sessão temática com apresentação oral dos artigos extensionistas, sob coordenação da Profa. Me. <b>Beatriz Vasconcelos</b>.</p>",
+    "secao": "Mostra de Resultados"
+   },
+   {
+    "nome": "Comunicação Oral 2",
+    "lugar": "Sala 102 - Bloco 708",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de tecnologia social com mediação do Prof. Dr. <b>Sérgio Nogueira Leão</b>.</p>",
+    "secao": "Mostra de Resultados"
+   },
+   {
+    "nome": "Diálogos Extensionistas 3",
+    "lugar": "Auditório Castelo Branco",
+    "dataInicio": "2027-05-21T10:45:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Conferência especial sobre <i>Desafios contemporâneos da indissociabilidade entre ensino, pesquisa e extensão na construção de saberes plurais e democráticos</i> ministrada pelo Prof. Emérito <b>Antônio Geraldo Freire</b>.</p>",
+    "secao": "Diálogos Extensionistas"
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos Extensionistas",
+    "lugar": "Auditório Castelo Branco",
+    "dataInicio": "2027-05-21T14:30:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos alunos e orientadores mais destacados do ano, presidida pelo coordenador <b>Marcelo Pimentel Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato de Encerramento e Apresentação de Sanfona",
+    "lugar": "Tenda Cultural do Bosque",
+    "dataInicio": "2027-05-21T16:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento solene e festivo conduzido pela pró-reitora adjunta <b>Camila Dantas Peixoto</b>, seguido de apresentação musical com o instrumentista <b>Chico do Acordeon</b>.</p>",
+    "secao": "Programação Cultural"
+   }
+  ]
+ }
+}

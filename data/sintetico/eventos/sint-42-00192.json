@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-42-00192",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Viçosa - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:15+00:00",
+ "uso_tokens": {
+  "entrada": 656,
+  "saida": 1409
+ },
+ "saida": {
+  "evento": {
+   "nome": "Viçosa GameDev Hackathon 2026",
+   "local_geral": "Departamento de Informática - Universidade Federal de Viçosa (UFV)"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Formação de Equipes",
+    "lugar": "Hall de Entrada do CCE",
+    "dataInicio": "2026-05-16T08:00:00-03:00",
+    "dataFim": "2026-05-16T09:00:00-03:00",
+    "descricao": "<p>Recepção dos participantes com crachás, distribuição de kits e dinâmica para formação dos grupos que ainda não possuem membros completos com mediação de <b>Lucas Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório CCE",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das regras gerais da maratona, patrocinadores e revelação do tema secreto da Game Jam, conduzida por <b>Mariana Resende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Laboratório 3",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Prototipagem Ágil com Godot Engine para Maratonas</i>. O instrutor <b>Rafael Guimarães</b> demonstrará como acelerar a criação mecânica básica em projetos 2D sob pressão de tempo.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Laboratório 4",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Design de Áudio Procedural e Efeitos Sintetizados</i>. Conduzido pela artista sonora <b>Beatriz Vianna</b>, focando na criação rápida de sound design sem infringir direitos autorais.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Almoço dos Desenvolvedores",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentoria Técnica",
+    "lugar": "Salão de Desenvolvimento (Lab 1 e 2)",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T18:00:00-03:00",
+    "descricao": "<p>Rodadas de mentoria presencial nas bancadas com os desenvolvedores sêniores <b>Thiago Meireles</b> e <b>Camila Duarte</b> para solucionar gargalos de código e arquitetura.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Madrugada de Código Livre",
+    "lugar": "Salão de Desenvolvimento (Lab 1 e 2)",
+    "dataInicio": "2026-05-16T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço reservado para desenvolvimento contínuo madrugada adentro, com fornecimento de café e lanches sob supervisão de <b>Carlos Eduardo Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Congelamento de Código e Submissão",
+    "lugar": "Plataforma Itch.io e Lab 1",
+    "dataInicio": "2026-05-17T14:00:00-03:00",
+    "dataFim": "2026-05-17T14:30:00-03:00",
+    "descricao": "<p>Prazo final improrrogável para upload das builds e repositórios. Orientação de envio coordenada por <b>Juliana Paes Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitching e Julgamento Final",
+    "lugar": "Auditório CCE",
+    "dataInicio": "2026-05-17T15:00:00-03:00",
+    "dataFim": "2026-05-17T18:00:00-03:00",
+    "descricao": "<p>Apresentações rápidas de 3 minutos por equipe seguidas por testes ao vivo pela banca avaliadora, composta por <b>Prof. André Albuquerque</b>, <b>Fernanda Linhares</b> e <b>Diego Siqueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

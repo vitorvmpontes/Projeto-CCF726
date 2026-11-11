@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-42-00422",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Salvador - BA",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "descricoes_ricas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:59+00:00",
+ "uso_tokens": {
+  "entrada": 715,
+  "saida": 1096
+ },
+ "saida": {
+  "evento": {
+   "nome": "Bahia Tech & Innovation Summit 2024",
+   "local_geral": "Centro de Convenções de Salvador, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Maratona de Desenvolvimento Ágil",
+    "lugar": "Arena Hacker - Pavilhão Iemanjá",
+    "dataInicio": "2024-08-22T09:00:00-03:00",
+    "dataFim": "2024-08-22T18:00:00-03:00",
+    "descricao": "<p>Início dos desafios da maratona corporativa com foco em soluções para cidades inteligentes e mobilidade urbana. Coordenação técnica de <b>Mariana Castro</b> e mentoria de <b>Rafael Peixoto</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Farol da Barra",
+    "dataInicio": "2024-08-22T10:30:00-03:00",
+    "dataFim": "2024-08-22T12:00:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Estratégias Avançadas para Construção e Otimização de Pipelines de Dados Resilientes em Ambientes Distribuídos de Nuvem Híbrida</i> ministrada por <b>Carlos Eduardo Guimarães</b> (Tech Lead na CloudBahia).</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Farol da Barra",
+    "dataInicio": "2024-08-22T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação especial sobre <i>Implementação Prática de Modelos Fundacionais de Inteligência Artificial Generativa para Automação Eficiente no Setor Público Estadual e Municipal</i> com a especialista <b>Beatriz Mendonça</b> e mediação do coordenador <b>Lucas Santana</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Maratona de Desenvolvimento Ágil",
+    "lugar": "Arena Hacker - Pavilhão Iemanjá",
+    "dataInicio": "2024-08-23T09:00:00-03:00",
+    "dataFim": "2024-08-23T20:00:00-03:00",
+    "descricao": "<p>Segundo dia com foco em prototipagem e validação de MVPs sob acompanhamento dos avaliadores <b>Diego Alcantara</b> e <b>Vanessa Teles</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Lab Inovação Pelourinho",
+    "dataInicio": "2024-08-23T15:00:00-03:00",
+    "dataFim": "2024-08-23T17:30:00-03:00",
+    "descricao": "<p>Oficina prática abordando <i>Arquiteturas Modernas de Microsserviços e Governança de APIs Escaláveis para Ecossistemas Complexos de Tecnologia Bancária</i> conduzida por <b>Juliana Ribeiro</b> com facilitação de <b>André Luiz Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch Day e Encerramento",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-08-24T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação dos projetos finalistas para a banca de investidores. Trabalhos avaliados: <i>SmartSalvador: Gestão Inteligente de Tráfego Urbano</i> de <b>Rodrigo Nogueira</b> e <b>Camila Duarte</b>; <i>ReciclaBa: Marketplace Circular de Resíduos</i> de <b>Felipe Vasconcelos</b>; e <i>SaúdeConectada: Triagem Digital de Pacientes</i> de <b>Aline Barreto</b>. Condução por <b>Mariana Castro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "spec": {
+  "id": "sint-42-00001",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Niterói - RJ",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:35+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 1432
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio do Programa de Pós-Graduação em Geociências da UFF",
+   "local_geral": "Instituto de Geociências, Campus da Praia Vermelha, Universidade Federal Fluminense, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Bloco D",
+    "dataInicio": "2024-10-18T08:00:00-03:00",
+    "dataFim": "2024-10-18T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Lamego",
+    "dataInicio": "2024-10-18T08:45:00-03:00",
+    "dataFim": "2024-10-18T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas da coordenação do PPGGeo com o Prof. Dr. <b>Carlos Eduardo Rezende</b> e a Profa. Dra. <b>Maria Luiza Fernandes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Lamego",
+    "dataInicio": "2024-10-18T09:30:00-03:00",
+    "dataFim": "2024-10-10T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Dinâmica Sedimentar e Mudanças Climáticas no Quaternário Tardio da Margem Continental Brasileira</i>, proferida pelo Dr. <b>Gilberto Tavares Macedo</b>.</p>",
+    "secao": "Palestras Convidadas"
+   },
+   {
+    "nome": "Apresentação Oral de Discentes",
+    "lugar": "Sala 204 - Bloco D",
+    "dataInicio": "2024-10-18T11:00:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrado em Geologia Marinha. Avaliação da banca composta pela Profa. Dra. <b>Renata Albuquerque Silva</b> e pelo Prof. Dr. <b>Vinicius Munhoz Correa</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-10-18T12:30:00-03:00",
+    "dataFim": "2024-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Discentes",
+    "lugar": "Sala 208 - Bloco D",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T15:30:00-03:00",
+    "descricao": "<p>Sessão dedicada às pesquisas de doutorado em Geofísica Aplicada. Moderador: Prof. Dr. <b>Thiago Sampaio Fontes</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Painéis",
+    "lugar": "Pátio Central do Instituto",
+    "dataInicio": "2024-10-18T15:30:00-03:00",
+    "dataFim": "2024-10-18T17:00:00-03:00",
+    "descricao": "<p>Exposição dos trabalhos de iniciação científica e primeiros anos de pós-graduação, com avaliação dos pesquisadores <b>Juliana Prado Nogueira</b> e <b>Felipe Castanheira Reis</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Lamego",
+    "dataInicio": "2024-10-18T17:00:00-03:00",
+    "dataFim": "2024-10-18T18:15:00-03:00",
+    "descricao": "<p>Conferência <i>Sensoriamento Remoto Aplicado ao Monitoramento de Riscos Geológicos no Estado do Rio de Janeiro</i>, ministrada pela Dra. <b>Beatriz Mendonça Valério</b>.</p>",
+    "secao": "Palestras Convidadas"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Lamego",
+    "dataInicio": "2024-10-18T18:15:00-03:00",
+    "dataFim": "2024-10-18T19:00:00-03:00",
+    "descricao": "<p>Divulgação dos melhores trabalhos apresentados nas categorias painel e comunicação oral, conduzida pelo coordenador <b>Carlos Eduardo Rezende</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

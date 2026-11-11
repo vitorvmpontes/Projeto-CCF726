@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-42-00485",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Santa Maria - RS",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:10+00:00",
+ "uso_tokens": {
+  "entrada": 679,
+  "saida": 1298
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Jornada de Clínica Médica e Urgências do Centro-Oeste Gaúcho",
+   "local_geral": "Centro de Convenções da Universidade Federal de Santa Maria, Santa Maria - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Solenidade de Abertura e Boas-Vindas",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do coordenador geral <b>Dr. Matheus Dorneles Silveira</b> e representantes das entidades médicas regionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Abordagem Multidisciplinar Integrada no Manejo das Complicações Agudas Graves do Paciente Idoso com Múltiplas Comorbidades Internado na Unidade de Emergência</i>, apresentada pela <b>Dra. Fabiana Medeiros Becker</b>.</p>",
+    "secao": "Conferências Temáticas"
+   },
+   {
+    "nome": "Oficina Prática A",
+    "lugar": "Laboratório de Simulação Realística",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo Prático e Sistematizado da Via Aérea Difícil no Paciente Traumatizado Crítico Utilizando Videolaringoscopia e Dispositivos Supraglóticos</i>, conduzida pelo instrutor <b>Dr. Leandro Camargo Vargas</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do estudo <i>Estratégias Contemporâneas no Tratamento Rápido do Tromboembolismo Pulmonar Maciço com Instabilidade Hemodinâmica no Ambiente Hospitalar Regional</i> com o palestrante <b>Dr. Rogério Fontoura Bastos</b>.</p>",
+    "secao": "Conferências Temáticas"
+   },
+   {
+    "nome": "Oficina Prática B",
+    "lugar": "Laboratório de Simulação Realística",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Treinamento em punção venosa central ecoguiada orientado pela <b>Dra. Juliana Pires da Rocha</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Hall do Centro de Convenções",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos trabalhos selecionados pela comissão científica coordenada pelo <b>Prof. Carlos Eduardo Meneghetti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite",
+    "lugar": "Auditório B",
+    "dataInicio": "2026-05-16T11:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão sobre <i>Anticoagulação Segura na Fibrilação Atrial em Pacientes Renais Crônicos</i> com a especialista <b>Dra. Mariana Vasconcellos Dutra</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Destaque Acadêmico aos melhores trabalhos e encerramento conduzido por <b>Dra. Tatiana Siqueira Ribas</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "spec": {
+  "id": "sint-42-00299",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Niterói - RJ",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 21,
+  "casos": [
+   "titulos_longos",
+   "intervalos",
+   "subtitulo_separado",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:58+00:00",
+ "uso_tokens": {
+  "entrada": 704,
+  "saida": 3094
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros da UFF 2025",
+   "local_geral": "Campus Gragoatá, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits de Boas-Vindas",
+    "lugar": "Hall do Bloco C",
+    "dataInicio": "2025-03-17T08:00:00-03:00",
+    "dataFim": "2025-03-17T09:30:00-03:00",
+    "descricao": "<p>Acolhimento aos novos estudantes com distribuição do guia do calouro e canecas ecológicas pela equipe da <b>Pró-Reitoria de Assuntos Estudantis</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia Oficial de Abertura",
+    "lugar": "Auditório do Bloco B",
+    "dataInicio": "2025-03-17T09:30:00-03:00",
+    "dataFim": "2025-03-17T11:00:00-03:00",
+    "descricao": "<p>Mesa de boas-vindas com a presença do reitor <b>Prof. Marcos Valério Guimarães</b> e da vice-reitora <b>Profa. Helena Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório do Bloco B",
+    "dataInicio": "2025-03-17T11:00:00-03:00",
+    "dataFim": "2025-03-17T12:30:00-03:00",
+    "descricao": "<p>Conferência de boas-vindas com o tema <i>Desafios contemporâneos da formação universitária pública e o compromisso ético e transformador da juventude ingressante na sociedade brasileira</i>, ministrada pelo sociólogo <b>Carlos Eduardo Fontes</b>.</p>",
+    "secao": "Palestras Gerais"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-03-17T12:30:00-03:00",
+    "dataFim": "2025-03-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": null,
+    "dataInicio": "2025-03-17T14:00:00-03:00",
+    "dataFim": "2025-03-17T15:30:00-03:00",
+    "descricao": "<p>Caminhada de reconhecimento das bibliotecas, laboratórios e restaurantes universitários, coordenada pela estudante <b>Camila Duarte Pires</b>.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Roda de Conversa dos Centros Acadêmicos",
+    "lugar": "Tenda Central da Convivência",
+    "dataInicio": "2025-03-17T15:30:00-03:00",
+    "dataFim": "2025-03-17T17:00:00-03:00",
+    "descricao": "<p>Apresentação das entidades de representação estudantil conduzida por <b>Lucas Medeiros</b> e <b>Mariana Siqueira Rocha</b>.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Apresentação Teatral de Recepção",
+    "lugar": "Teatro de Arena",
+    "dataInicio": "2025-03-17T17:30:00-03:00",
+    "dataFim": "2025-03-17T18:30:00-03:00",
+    "descricao": "<p>Apresentação da peça de boas-vindas pelo grupo teatral universitário dirigido por <b>Thiago Brandão</b>.</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório do Bloco C",
+    "dataInicio": "2025-03-18T09:00:00-03:00",
+    "dataFim": "2025-03-18T10:30:00-03:00",
+    "descricao": "<p>Discussão sobre o tema <i>Apoio psicológico, permanência material e inclusão de minorias: construindo caminhos para uma universidade verdadeiramente plural e sustentável</i>, com os professores <b>Ana Beatriz Silveira</b> e <b>Fernando Novaes</b>.</p>",
+    "secao": "Palestras Gerais"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Pilotis do Bloco D",
+    "dataInicio": "2025-03-18T10:30:00-03:00",
+    "dataFim": "2025-03-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Ferramentas Digitais",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-03-18T11:00:00-03:00",
+    "dataFim": "2025-03-18T12:30:00-03:00",
+    "descricao": "<p>Treinamento no portal acadêmico e salas virtuais com o instrutor <b>Rafael Meireles</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-03-18T12:30:00-03:00",
+    "dataFim": "2025-03-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Métodos de Estudo e Leitura Crítica",
+    "lugar": "Sala 204",
+    "dataInicio": "2025-03-18T14:00:00-03:00",
+    "dataFim": "2025-03-18T15:30:00-03:00",
+    "descricao": "<p>Dicas de gestão de tempo e fichamento bibliográfico ministradas pela pedagoga <b>Tatiana Barcellos</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Feira de Oportunidades e Extensão",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2025-03-18T15:30:00-03:00",
+    "dataFim": "2025-03-18T17:00:00-03:00",
+    "descricao": "<p>Estandes de projetos de extensão, iniciação científica e empresas juniores com a coordenadora de pesquisa <b>Patrícia Vasconcelos</b>.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Mostra de Cinema Universitário",
+    "lugar": null,
+    "dataInicio": "2025-03-18T17:30:00-03:00",
+    "dataFim": "2025-03-18T19:00:00-03:00",
+    "descricao": "<p>Exibição de curtas-metragens produzidos por discentes, com debate mediado pelo cineasta <b>Gustavo Nogueira</b>.</p>",
+    "secao": "Circuito Cultural"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório do Bloco B",
+    "dataInicio": "2025-03-19T09:00:00-03:00",
+    "dataFim": "2025-03-19T10:30:00-03:00",
+    "descricao": "<p>Apresentação sob o tema <i>Inovação tecnológica, inteligência artificial e o futuro das profissões no mercado global: oportunidades para jovens universitários</i> pelo especialista <b>Rodrigo Albuquerque</b>.</p>",
+    "secao": "Palestras Gerais"
+   },
+   {
+    "nome": "Coffee Break de Confraternização",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2025-03-19T10:30:00-03:00",
+    "dataFim": "2025-03-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Gincana Solidária de Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2025-03-19T11:00:00-03:00",
+    "dataFim": "2025-03-19T12:30:00-03:00",
+    "descricao": "<p>Arrecadação de alimentos não perecíveis e livros infantis organizada por <b>Juliana Paes Leme</b>.</p>",
+    "secao": "Atividades de Integração"
+   },
+   {
+    "nome": "Pausa para Refeição",
+    "lugar": null,
+    "dataInicio": "2025-03-19T12:30:00-03:00",
+    "dataFim": "2025-03-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Escrita Acadêmica",
+    "lugar": "Sala 102",
+    "dataInicio": "2025-03-19T14:00:00-03:00",
+    "dataFim": "2025-03-19T15:30:00-03:00",
+    "descricao": "<p>Instrução sobre normalização e citações segundo a ABNT com o professor <b>Sérgio Ramos</b>.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório do Bloco B",
+    "dataInicio": "2025-03-19T16:00:00-03:00",
+    "dataFim": "2025-03-19T17:30:00-03:00",
+    "descricao": "<p>Palavras finais da comissão organizadora, avaliação da semana e premiação da gincana por <b>Beatriz Furtado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical de Encerramento",
+    "lugar": "Praça Central do Gragoatá",
+    "dataInicio": "2025-03-19T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração musical com o grupo de MPB e samba liderado pela cantora <b>Lorena Castro</b>.</p>",
+    "secao": "Circuito Cultural"
+   }
+  ]
+ }
+}

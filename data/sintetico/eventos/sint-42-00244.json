@@ -1,0 +1,211 @@
+{
+ "spec": {
+  "id": "sint-42-00244",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Fortaleza - CE",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 23,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:46+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 3322
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Ceará 2025",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões e Recepção",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-21T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura Oficial",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-21T09:00:00-03:00",
+    "dataFim": "2025-08-21T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a presença do diretor-superintendente <b>Joaquim Cartaxo Filho</b> e lideranças do setor produtivo cearense.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-21T10:15:00-03:00",
+    "dataFim": "2025-08-21T11:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Inovação Disruptiva nos Pequenos Negócios do Nordeste</i>, ministrada por <b>Mariana Vasconcelos</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2025-08-21T10:30:00-03:00",
+    "dataFim": "2025-08-21T12:00:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Gestão Financeira e Fluxo de Caixa Descomplicado</i> conduzido pelo consultor <b>Rafael Albuquerque</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Rodada de Crédito e Financiamento",
+    "lugar": "Espaço Negócios e Crédito",
+    "dataInicio": "2025-08-21T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atendimento individualizado com instituições financeiras parceiras, sob mediação da analista <b>Clara Menezes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-08-21T12:00:00-03:00",
+    "dataFim": "2025-08-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-21T13:30:00-03:00",
+    "dataFim": "2025-08-21T14:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia do Mar e Oportunidades no Litoral Cearense</i> com participação de <b>Cícero Barreto</b> e <b>Luciana Gadelha</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Capacitação 2",
+    "dataInicio": "2025-08-21T14:00:00-03:00",
+    "dataFim": "2025-08-21T15:30:00-03:00",
+    "descricao": "<p>Capacitação <i>Marketing Digital para Negócios Locais e Redes Sociais</i> ministrada pela especialista <b>Thaís Pinheiro</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Sessão de Pitch",
+    "lugar": "Hub de Startups",
+    "dataInicio": "2025-08-21T15:00:00-03:00",
+    "dataFim": "2025-08-21T16:30:00-03:00",
+    "descricao": "<p>Apresentação das finalistas do programa de incubação regional perante a banca avaliadora composta por <b>Bruno Holanda</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Espaço Startup & Inovação"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2025-08-21T16:00:00-03:00",
+    "dataFim": "2025-08-21T17:30:00-03:00",
+    "descricao": "<p>Aplicação de métodos ágeis na oficina <i>Modelagem de Negócios com Lean Canvas</i>, orientada por <b>Rodrigo Aguiar</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-21T17:00:00-03:00",
+    "dataFim": "2025-08-21T18:15:00-03:00",
+    "descricao": "<p>Tema <i>Cultura de Atendimento e Encantamento do Cliente</i> proferido por <b>Geraldo Rufino</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Encontro de Networking e Happy Hour Empresarial",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-08-21T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de integração entre empresários cearenses, expositores e convidados do evento.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura dos Estandes",
+    "lugar": "Pavilhão de Negócios",
+    "dataInicio": "2025-08-22T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-22T09:30:00-03:00",
+    "dataFim": "2025-08-22T10:45:00-03:00",
+    "descricao": "<p>Conferência <i>Transição Energética e Negócios Verdes: O Potencial do Ceará</i> proferida pelo engenheiro <b>Felipe Bezerra</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2025-08-22T10:00:00-03:00",
+    "dataFim": "2025-08-22T11:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Como Vender para Órgãos Públicos através de Licitações MEI e ME</i> com a consultora jurídica <b>Patrícia Sampaio</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Hub de Startups",
+    "dataInicio": "2025-08-22T11:00:00-03:00",
+    "dataFim": "2025-08-22T12:15:00-03:00",
+    "descricao": "<p>Discussão <i>Ecossistema de Startups Cearense: Desafios de Escala</i> mediada por <b>Diego Silveira</b> com a participação de <b>Aline Farias</b>.</p>",
+    "secao": "Espaço Startup & Inovação"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-08-22T12:15:00-03:00",
+    "dataFim": "2025-08-22T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios Multissetorial",
+    "lugar": "Salão de Negócios",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Reuniões pré-agendadas B2B entre fornecedores cearenses e compradores âncoras, sob coordenação de <b>Marcos Vinícius Távora</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Capacitação 2",
+    "dataInicio": "2025-08-22T14:30:00-03:00",
+    "dataFim": "2025-08-22T16:00:00-03:00",
+    "descricao": "<p>Treinamento técnico <i>Inteligência Artificial Aplicada a Vendas e Atendimento no Varejo</i> conduzido por <b>André Castelo</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-22T15:30:00-03:00",
+    "dataFim": "2025-08-22T16:45:00-03:00",
+    "descricao": "<p>Apresentação de cases em <i>Liderança Feminina e Sucessão Familiar nas Empresas Cearenses</i> com <b>Beatriz Peixoto</b> e <b>Elenice Pontes</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Mentoria Coletiva",
+    "lugar": "Hub de Startups",
+    "dataInicio": "2025-08-22T16:30:00-03:00",
+    "dataFim": "2025-08-22T17:45:00-03:00",
+    "descricao": "<p>Orientação direta de mercado com o mentor de aceleração <b>Leandro Matos</b> abordando estratégias de atração de investidores anjo.</p>",
+    "secao": "Espaço Startup & Inovação"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-22T18:00:00-03:00",
+    "dataFim": "2025-08-22T19:30:00-03:00",
+    "descricao": "<p>Palestra magna <i>O Futuro do Trabalho e a Coragem de Empreender</i> com o comunicador e consultor <b>Max Gehringer</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Arena Sebrae Conecta",
+    "dataInicio": "2025-08-22T19:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos vencedores do Prêmio Sebrae Mulher de Negócios - Etapa Ceará 2025, conduzido por <b>Joaquim Cartaxo Filho</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

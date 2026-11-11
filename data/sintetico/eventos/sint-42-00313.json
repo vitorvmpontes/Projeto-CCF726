@@ -1,0 +1,67 @@
+{
+ "spec": {
+  "id": "sint-42-00313",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Brasília - DF",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:04+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 993
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro de Fé e Cidadania do Centro-Oeste",
+   "local_geral": "Centro Comunitário São Francisco de Assis, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Celebração Ecumênica de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-19T08:30:00-03:00",
+    "dataFim": "2023-08-19T10:00:00-03:00",
+    "descricao": "<p>Celebração comunitária de abertura conduzida pelo <b>Pastor Marcos Vinícius da Silva</b> e pela <b>Pastora Débora Antunes</b>, com a participação do coral Vozes da Esperança.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Oficina Prática de Hortas Comunitárias",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2023-08-19T10:30:00-03:00",
+    "dataFim": "2023-08-19T12:30:00-03:00",
+    "descricao": "<p>Atividade formativa sobre segurança alimentar e cultivo urbano sustentável, coordenada pela agrônoma <b>Helena Vasconcelos</b> e facilitada por <b>Tiago Meireles</b>.</p>",
+    "secao": "Oficinas de Transformação Social"
+   },
+   {
+    "nome": "Mostra de Iniciativas Sociais Comunitárias",
+    "lugar": "Salão Social",
+    "dataInicio": "2023-08-19T14:30:00-03:00",
+    "dataFim": "2023-08-19T17:30:00-03:00",
+    "descricao": "<p>Sessão de apresentação de projetos desenvolvidos por comunidades de fé do DF, sob a coordenação do diácono <b>Carlos Eduardo Pires</b>.</p><p>Trabalhos apresentados: <i>Rede de Apoio a Famílias Atípicas na Periferia</i>, por <b>Mariana Furtado</b> e <b>Lucas Gonzaga</b>; <i>Alfabetização Popular de Jovens e Adultos no Paranoá</i>, por <b>Regina Celis de Souza</b>; <i>Acolhimento Comunitário a Imigrantes e Refugiados</i>, por <b>Fernando Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Mediação de Conflitos e Justiça Restaurativa",
+    "lugar": "Sala 3 - Mezanino",
+    "dataInicio": "2023-08-20T09:00:00-03:00",
+    "dataFim": "2023-08-20T11:30:00-03:00",
+    "descricao": "<p>Capacitação prática em práticas circulares para lideranças comunitárias. Coordenada pela assistente social <b>Lúcia Helena Guimarães</b>, com participação do facilitador <b>Rodrigo Barreto</b>.</p>",
+    "secao": "Oficinas de Transformação Social"
+   },
+   {
+    "nome": "Vigília de Louvor e Compromisso Social",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-20T16:00:00-03:00",
+    "dataFim": "2023-08-20T18:00:00-03:00",
+    "descricao": "<p>Ato litúrgico e cultural de encerramento, presidido pelo <b>Bispo Samuel Costa</b> com homilia da <b>Irmã Teresa Bezerra</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   }
+  ]
+ }
+}

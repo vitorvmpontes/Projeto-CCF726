@@ -1,0 +1,341 @@
+{
+ "spec": {
+  "id": "sint-42-00365",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Goiânia - GO",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 39,
+  "casos": [
+   "subtitulo_separado",
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:30+00:00",
+ "uso_tokens": {
+  "entrada": 672,
+  "saida": 5776
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros UFG 2027",
+   "local_geral": "Câmpus Samambaia - Universidade Federal de Goiás, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Hall do Centro de Eventos Ricardo Freua Bufáiçal",
+    "dataInicio": "2027-03-08T08:00:00-03:00",
+    "dataFim": "2027-03-08T09:30:00-03:00",
+    "descricao": null,
+    "secao": "Primeiro Dia: Boas-vindas Gerais"
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal do Centro de Eventos",
+    "dataInicio": "2027-03-08T09:30:00-03:00",
+    "dataFim": "2027-03-08T10:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da reitora <b>Angelita Pereira de Lima</b> e pró-reitores da instituição.</p>",
+    "secao": "Primeiro Dia: Boas-vindas Gerais"
+   },
+   {
+    "nome": "Aula Inaugural",
+    "lugar": "Auditório Principal do Centro de Eventos",
+    "dataInicio": "2027-03-08T10:45:00-03:00",
+    "dataFim": "2027-03-08T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Universidade Pública como Espaço de Transformação e Cidadania</i>, ministrada pelo Prof. Dr. <b>Carlos Frederico Guimarães</b>.</p>",
+    "secao": "Primeiro Dia: Boas-vindas Gerais"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Restaurante Universitário Samambaia",
+    "dataInicio": "2027-03-08T12:00:00-03:00",
+    "dataFim": "2027-03-08T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": "Auditório da FEN",
+    "dataInicio": "2027-03-08T13:30:00-03:00",
+    "dataFim": "2027-03-08T15:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Saúde Mental e Adaptação à Vida Universitária</i>. Participantes: <b>Mariana Costa e Silva</b> e <b>Rodrigo Vilarinho Gomide</b>.</p>",
+    "secao": "Jornada de Formação Estudantil"
+   },
+   {
+    "nome": "Café Coletivo e Convivência",
+    "lugar": "Área Verde em frente ao Câmpus Samambaia",
+    "dataInicio": "2027-03-08T15:00:00-03:00",
+    "dataFim": "2027-03-08T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Jornada de Formação Estudantil"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório da FEN",
+    "dataInicio": "2027-03-08T15:30:00-03:00",
+    "dataFim": "2027-03-08T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Assistência Estudantil, Moradia e Bolsas: Como ter acesso?</i> com apresentação da assistente social <b>Tereza Cristina Naves</b>.</p>",
+    "secao": "Jornada de Formação Estudantil"
+   },
+   {
+    "nome": "Roda de Conversa com os Coletivos Estudantis",
+    "lugar": "Tenda Cultural da Praça Universitária Samambaia",
+    "dataInicio": "2027-03-08T17:00:00-03:00",
+    "dataFim": "2027-03-08T18:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Lucas Evangelista Morais</b> e representantes dos coletivos de diversidade, raça e inclusão.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervenção Teatral",
+    "lugar": "Teatro de Arena Samambaia",
+    "dataInicio": "2027-03-08T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da peça <i>Calouros em Cena</i> pela trupe da Escola de Música e Artes Cênicas, sob coordenação do ator <b>Vinícius Peixoto</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Show Musical Acústico",
+    "lugar": "Teatro de Arena Samambaia",
+    "dataInicio": "2027-03-08T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show com o grupo <i>Cerrado Sons</i>, com participação de <b>Beatriz Mendonça</b> e <b>Tiago Arantes</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Apresentação dos Cursos e Colegiados",
+    "lugar": "Auditório do Instituto de Informática",
+    "dataInicio": "2027-03-09T08:30:00-03:00",
+    "dataFim": "2027-03-09T10:00:00-03:00",
+    "descricao": "<p>Encontro explicativo sobre matrizes curriculares e coordenação com a Profª. Dra. <b>Patrícia Vasconcelos Ramos</b>.</p>",
+    "secao": "Dia dos Institutos e Faculdades"
+   },
+   {
+    "nome": "Tour Guiado pelo Câmpus",
+    "lugar": "Ponto de Encontro: Prédio da Reitoria",
+    "dataInicio": "2027-03-09T10:00:00-03:00",
+    "dataFim": "2027-03-09T11:30:00-03:00",
+    "descricao": "<p>Visita monitorada pelas bibliotecas, laboratórios e órgãos suplementares, conduzida pelos monitores <b>Guilherme Diniz</b> e <b>Larissa Fontoura</b>.</p>",
+    "secao": "Dia dos Institutos e Faculdades"
+   },
+   {
+    "nome": "Treinamento do Portal do Aluno e Sistemas Acadêmicos",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-03-09T11:30:00-03:00",
+    "dataFim": "2027-03-09T12:30:00-03:00",
+    "descricao": "<p>Instruções práticas sobre o uso do SIGAA ministradas pelo técnico de TI <b>Fábio Meireles Brandão</b>.</p>",
+    "secao": "Dia dos Institutos e Faculdades"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": "Restaurante Universitário Samambaia",
+    "dataInicio": "2027-03-09T12:30:00-03:00",
+    "dataFim": "2027-03-09T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala 102 do Bloco de Humanidades",
+    "dataInicio": "2027-03-09T14:00:00-03:00",
+    "dataFim": "2027-03-09T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias Ativas e Organização do Tempo nos Estudos Superiores</i>, ministrada pela pedagoga <b>Juliana Portela Siqueira</b>.</p>",
+    "secao": "Oficinas Práticas de Adaptação"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala 104 do Bloco de Humanidades",
+    "dataInicio": "2027-03-09T14:00:00-03:00",
+    "dataFim": "2027-03-09T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução à Escrita Acadêmica e Normas Técnicas Básicas</i>, conduzida pelo Prof. <b>Danilo Albuquerque</b>.</p>",
+    "secao": "Oficinas Práticas de Adaptação"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Pátio das Humanidades",
+    "dataInicio": "2027-03-09T16:00:00-03:00",
+    "dataFim": "2027-03-09T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Auditório da Biblioteca Central",
+    "dataInicio": "2027-03-09T16:30:00-03:00",
+    "dataFim": "2027-03-09T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Oportunidades de Intercâmbio Internacional e Dupla Titulação</i> com <b>Camila Rezende Toledo</b> e o convidado <b>Arthur Magalhães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Batalha de Rimas e Slam",
+    "lugar": "Bosque dos Buritis do Samambaia",
+    "dataInicio": "2027-03-09T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação e competição cultural organizada pelo coletivo de poesia sob comando de <b>MC Talita Rocha</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Trote Solidário: Campanha de Doação de Sangue",
+    "lugar": "Estacionamento Central do Câmpus",
+    "dataInicio": "2027-03-10T08:00:00-03:00",
+    "dataFim": "2027-03-10T12:00:00-03:00",
+    "descricao": "<p>Ação solidária em parceria com o Hemocentro de Goiás, sob coordenação do voluntário <b>Marcos Aurelio Paiva</b>.</p>",
+    "secao": "Ações de Cidadania e Sustentabilidade"
+   },
+   {
+    "nome": "Plantio de Mudas Nativas do Cerrado",
+    "lugar": "Área de Preservação do Bosque Universitário",
+    "dataInicio": "2027-03-10T09:00:00-03:00",
+    "dataFim": "2027-03-10T10:30:00-03:00",
+    "descricao": "<p>Atividade ecológica coordenada pela Profa. <b>Elisa Queiroz Barreto</b> com foco em reflorestamento e sustentabilidade.</p>",
+    "secao": "Ações de Cidadania e Sustentabilidade"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Bosque Universitário",
+    "dataInicio": "2027-03-10T10:30:00-03:00",
+    "dataFim": "2027-03-10T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Ações de Cidadania e Sustentabilidade"
+   },
+   {
+    "nome": "Palestra Informativa",
+    "lugar": "Auditório da Faculdade de Ciências Sociais",
+    "dataInicio": "2027-03-10T11:00:00-03:00",
+    "dataFim": "2027-03-10T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Iniciação Científica e Inovação Tecnológica na Graduação</i>. Apresentação do pesquisador <b>Hélio Fernando Batista</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço de Integração",
+    "lugar": "Restaurante Universitário Samambaia",
+    "dataInicio": "2027-03-10T12:30:00-03:00",
+    "dataFim": "2027-03-10T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Oportunidades Estudantis",
+    "lugar": "Praça Universitária Samambaia",
+    "dataInicio": "2027-03-10T14:00:00-03:00",
+    "dataFim": "2027-03-10T17:00:00-03:00",
+    "descricao": "<p>Estandes de empresas juniores, atléticas, centros acadêmicos e laboratórios de pesquisa, organizada por <b>Clara Fernandes Lima</b>.</p>",
+    "secao": "Feira e Integração"
+   },
+   {
+    "nome": "Mesa-redonda com Egressos",
+    "lugar": "Auditório da Engenharia",
+    "dataInicio": "2027-03-10T15:00:00-03:00",
+    "dataFim": "2027-03-10T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Da Graduação ao Mercado: Relatos de Sucesso</i>. Mediado por <b>Wagner Silveira Prado</b>, com a participação de <b>Tatiana Souza Borges</b>.</p>",
+    "secao": "Feira e Integração"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Hall do Prédio de Engenharia",
+    "dataInicio": "2027-03-10T16:30:00-03:00",
+    "dataFim": "2027-03-10T17:00:00-03:00",
+    "descricao": null,
+    "secao": "Feira e Integração"
+   },
+   {
+    "nome": "Cine-Debate",
+    "lugar": "CineUFG - Faculdade de Letras",
+    "dataInicio": "2027-03-10T17:30:00-03:00",
+    "dataFim": "2027-03-10T19:30:00-03:00",
+    "descricao": "<p>Exibição e debate com os cineastas convidados <b>Marcelo Pires Fagundes</b> e <b>Sabrina Coutinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aulão de Ritmos e Dança",
+    "lugar": "Quadra Poliesportiva Coberta",
+    "dataInicio": "2027-03-10T19:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atividade recreativa e física conduzida pelo instrutor <b>Renato Castanheira</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Abertura dos Jogos dos Calouros",
+    "lugar": "Ginásio de Esportes do Câmpus",
+    "dataInicio": "2027-03-11T08:00:00-03:00",
+    "dataFim": "2027-03-11T09:30:00-03:00",
+    "descricao": "<p>Cerimônia de abertura e desfile das atléticas conduzida pelo diretor de esportes <b>Felipe Bastos Gontijo</b>.</p>",
+    "secao": "Torneio Esportivo de Integração"
+   },
+   {
+    "nome": "Torneio Relâmpago de Futsal",
+    "lugar": "Ginásio de Esportes do Câmpus",
+    "dataInicio": "2027-03-11T09:30:00-03:00",
+    "dataFim": "2027-03-11T12:00:00-03:00",
+    "descricao": "<p>Competições esportivas intercursos coordenadas por <b>Valéria Rios Antunes</b>.</p>",
+    "secao": "Torneio Esportivo de Integração"
+   },
+   {
+    "nome": "Torneio de Voleibol Misto",
+    "lugar": "Quadra Poliesportiva Aberta",
+    "dataInicio": "2027-03-11T09:30:00-03:00",
+    "dataFim": "2027-03-11T12:00:00-03:00",
+    "descricao": "<p>Partidas de vôlei misto entre os novos estudantes, sob arbitragem de <b>Jonathan Matos Pereira</b>.</p>",
+    "secao": "Torneio Esportivo de Integração"
+   },
+   {
+    "nome": "Almoço Festivo",
+    "lugar": "Restaurante Universitário Samambaia",
+    "dataInicio": "2027-03-11T12:00:00-03:00",
+    "dataFim": "2027-03-11T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Jogos de Tabuleiro e Xadrez Aberto",
+    "lugar": "Tenda do Diretório Central dos Estudantes",
+    "dataInicio": "2027-03-11T13:30:00-03:00",
+    "dataFim": "2027-03-11T15:30:00-03:00",
+    "descricao": "<p>Espaço de jogos e recreação sob organização do estudante <b>Henrique Santana Neves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Defesa Pessoal",
+    "lugar": "Sala de Artes Marciais da FEF",
+    "dataInicio": "2027-03-11T14:00:00-03:00",
+    "dataFim": "2027-03-11T15:30:00-03:00",
+    "descricao": "<p>Aula prática ministrada pela mestre <b>Fernanda Lins Camargo</b> direcionada para a segurança no cotidiano urbano.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório da Faculdade de Educação",
+    "dataInicio": "2027-03-11T15:30:00-03:00",
+    "dataFim": "2027-03-11T17:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Cultura de Paz, Tolerância e Enfrentamento ao Assédio na Universidade</i>. Com participação de <b>Mônica Barcellos Arruda</b> e <b>Wesley Gonçalves Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Jogos dos Calouros",
+    "lugar": "Palco Central da Praça Universitária Samambaia",
+    "dataInicio": "2027-03-11T17:30:00-03:00",
+    "dataFim": "2027-03-11T18:30:00-03:00",
+    "descricao": "<p>Entrega das medalhas e troféus apresentada por <b>Felipe Bastos Gontijo</b>.</p>",
+    "secao": "Encerramento e Celebração"
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Palco Central da Praça Universitária Samambaia",
+    "dataInicio": "2027-03-11T18:30:00-03:00",
+    "dataFim": "2027-03-11T19:30:00-03:00",
+    "descricao": "<p>Discursos finais e acolhimento com a comissão organizadora presidida pela Profa. <b>Gisele Miranda Furtado</b>.</p>",
+    "secao": "Encerramento e Celebração"
+   },
+   {
+    "nome": "Festa de Confraternização dos Calouros",
+    "lugar": "Estacionamento do Centro de Convivência",
+    "dataInicio": "2027-03-11T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show de encerramento com baterias universitárias e DJ set de <b>DJ Alana Rios</b>.</p>",
+    "secao": "Encerramento e Celebração"
+   }
+  ]
+ }
+}

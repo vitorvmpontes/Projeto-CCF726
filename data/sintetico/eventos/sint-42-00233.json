@@ -1,0 +1,110 @@
+{
+ "spec": {
+  "id": "sint-42-00233",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Campo Grande - MS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 10,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:39+00:00",
+ "uso_tokens": {
+  "entrada": 697,
+  "saida": 1809
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroFuturo MS 2025: Congresso de Inovação e Tecnologia no Campo",
+   "local_geral": "Centro de Convenções Albano Franco, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Pantanal",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T10:30:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial e Conectividade no Manejo de Pastagens e Lavoura.</p><p>Coordenação: <b>Dr. Marcelo Rezende</b> (Embrapa Gado de Corte).</p><p>Painelistas: <b>Juliana Fontes</b> (AgTech Cerrado) apresentando <i>Sensores IoT e Decisão em Tempo Real no Campo</i> e <b>Rodrigo Albuquerque</b> (Universidade Federal de Mato Grosso do Sul) com <i>Modelos Preditivos de Clima para o Centro-Oeste</i>.</p>",
+    "secao": "Painéis Técnicos"
+   },
+   {
+    "nome": "Rodada de Startups",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2025-05-14T11:00:00-03:00",
+    "dataFim": "2025-05-14T12:30:00-03:00",
+    "descricao": "<p>Apresentação de pitches de soluções sustentáveis com mediação de <b>Camila Duarte</b> (Sebrae/MS).</p><p>Trabalhos em destaque: <i>Bioinsumos a Base de Microrganismos Nativos</i> por <b>Felipe Castilho</b> (BioCampo) e <i>Rastreabilidade de Rebanhos Bovinos com Blockchain</i> por <b>Aline Menezes</b> (TraceBov).</p>",
+    "secao": "Sessões de Pitch"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-14T12:30:00-03:00",
+    "dataFim": "2025-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Pantanal",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T15:30:00-03:00",
+    "descricao": "<p>Tema: Crédito de Carbono e Financiamento Verde para o Agronegócio.</p><p>Coordenador de mesa: <b>Renato Guimarães</b> (Famasul).</p><p>Debatedores: <b>Heloísa Brandão</b> (Banco AgroSustentável) com <i>Mercado Regulado de Carbono e a Soja Brasileira</i> e <b>Carlos Eduardo Barros</b> (AgroInvest MS) abordando <i>Garantias Sustentáveis e Títulos Verdes</i>.</p>",
+    "secao": "Painéis Técnicos"
+   },
+   {
+    "nome": "Mostra de Soluções",
+    "lugar": null,
+    "dataInicio": "2025-05-14T16:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres científicos e demonstrações de campo.</p><p>Trabalhos selecionados: <i>Uso de Drones para Pulverização de Precisão em Pequenas Propriedades</i> apresentado por <b>Lucas Pires Nogueira</b> e <i>Análise Espectrométrica de Nutrientes do Solo</i> apresentado por <b>Vanessa Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Pantanal",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T10:00:00-03:00",
+    "descricao": "<p>Tema: Automação e Maquinário Autônomo na Colheita de Grãos.</p><p>Palestrante: <b>Eng. Gustavo Silveira</b> (TechAgro Brasil).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Startups",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2025-05-15T10:30:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentações voltadas a soluções em logística e pós-colheita, sob facilitação de <b>Mariana Sampaio</b>.</p><p>Apresentações: <i>Plataforma Colaborativa de Frete Agrícola</i> por <b>Thiago Ramos</b> (CargaFácil Agro) e <i>Sensores Ópticos de Umidade para Silos</i> por <b>Bruna Vasconcelos</b> (ArmazémTech).</p>",
+    "secao": "Sessões de Pitch"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": null,
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: Interpretação de Imagens de Satélite para Gestão Hídrica na Fazenda.</p><p>Instrutora: <b>Dra. Cecília Queiroz</b> (Instituto Geotec Mato Grosso do Sul).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Soluções",
+    "lugar": null,
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de encerramento da exposição científica e tecnológica, com premiação dos melhores trabalhos conduzida por <b>Dr. Marcelo Rezende</b> e <b>Camila Duarte</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

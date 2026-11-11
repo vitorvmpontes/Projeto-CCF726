@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-42-00300",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Goiânia - GO",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:15:53+00:00",
+ "uso_tokens": {
+  "entrada": 657,
+  "saida": 802
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Goiano de Educadores da Educação Básica",
+   "local_geral": "Centro de Convenções de Goiânia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina Pedagógica",
+    "lugar": "Sala 102 - Bloco A",
+    "dataInicio": "2027-04-16T08:30:00-03:00",
+    "dataFim": "2027-04-16T11:30:00-03:00",
+    "descricao": "<p>A oficina abordará o tema <i>Metodologias Ativas e Recursos Visuais para o Ensino Fundamental</i>, mediada pelo Prof. <b>Carlos Eduardo Santos</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T17:00:00-03:00",
+    "descricao": "<p>Segunda turma da oficina prática com foco em <i>Ferramentas Digitais e Interatividade em Sala de Aula</i>, conduzida pela Profa. Dra. <b>Juliana Ribeiro de Souza</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Mostra de Práticas Docentes",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-04-16T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de banners e relatos de experiência sobre projetos de alfabetização e letramento, coordenada pela Profa. <b>Márcia Helena Gomes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Cora Coralina",
+    "dataInicio": "2027-04-17T09:00:00-03:00",
+    "dataFim": "2027-04-17T11:00:00-03:00",
+    "descricao": "<p>Discussão com o tema <i>Desafios da Inclusão Escolar na Rede Pública</i>, com a presença dos debatedores <b>Fernando Almeida Prado</b> e <b>Luciana Vieira Fagundes</b>.</p>",
+    "secao": "Debates e Painéis"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2027-04-17T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical do coral estudantil sob regência do maestro <b>Renato Silveira</b>, com a performance <i>Vozes do Cerrado</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

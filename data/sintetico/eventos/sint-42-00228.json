@@ -1,0 +1,196 @@
+{
+ "spec": {
+  "id": "sint-42-00228",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Viçosa - MG",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:22+00:00",
+ "uso_tokens": {
+  "entrada": 651,
+  "saida": 3003
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores das Matas de Minas",
+   "local_geral": "Parque de Exposições de Viçosa, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial dos Estandes",
+    "lugar": null,
+    "dataInicio": "2023-10-20T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Início da feira de produtores artesanais e quiosques gastronômicos regionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Tenda do Saber",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-20T11:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Indicação Geográfica dos Queijos da Zona da Mata</i>, mediada por <b>Juliana Pires</b> com presença do produtor <b>Marcos Silveira</b>.</p>",
+    "secao": "Debates e Conexões"
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T12:15:00-03:00",
+    "descricao": "<p>Preparo ao vivo de <i>Leitão Confitado com Redução de Cachaça e Purê de Taioba</i> pelo Chef <b>Danilo Resende</b>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Degustação Guiada",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2023-10-20T12:30:00-03:00",
+    "dataFim": "2023-10-20T13:30:00-03:00",
+    "descricao": "<p>Análise sensorial com o sommelier <b>Bruno Alvarenga</b> apresentando <i>Cafés Especiais da Região das Matas de Minas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo do Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Cozinha Experimental UFV",
+    "dataInicio": "2023-10-20T14:30:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Aprenda <i>Fermentação Natural Aplicada a Broas e Pães Tradicionais</i> com a mestre padeira <b>Camila Duarte</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2023-10-20T15:00:00-03:00",
+    "dataFim": "2023-10-20T16:15:00-03:00",
+    "descricao": "<p>Apresentação do prato <i>Galinhada Desconstruída com Quiabo Grelhado e Crisp de Broa</i> pela Chef <b>Tereza Soares</b>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Tenda do Saber",
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": "2023-10-20T17:45:00-03:00",
+    "descricao": "<p>Mesa com os pesquisadores <b>Rodrigo Meneses</b> e <b>Luciana Guimarães</b> debatendo <i>PANC na Cozinha Contemporânea Mineira</i>.</p>",
+    "secao": "Debates e Conexões"
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2023-10-20T17:00:00-03:00",
+    "dataFim": "2023-10-20T18:15:00-03:00",
+    "descricao": "<p>A Chef confeiteira <b>Mariana Botelho</b> ensina a receita <i>Entremet de Doce de Leite Viçosa e Queijo Minas Curado</i>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Harmonização de Cachaças",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2023-10-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão interativa conduzida pelo especialista <b>Otávio Mendes</b> sobre <i>Cachaças Artesanais e Charcutaria Regional</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Palco Raízes",
+    "dataInicio": "2023-10-20T20:00:00-03:00",
+    "dataFim": "2023-10-20T22:00:00-03:00",
+    "descricao": "<p>Show com o violeiro <b>Chico Mineiro</b> e banda convidada.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura dos Portões",
+    "lugar": null,
+    "dataInicio": "2023-10-21T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Kids",
+    "lugar": "Cozinha Experimental UFV",
+    "dataInicio": "2023-10-21T10:00:00-03:00",
+    "dataFim": "2023-10-21T11:15:00-03:00",
+    "descricao": "<p>Atividade lúdica <i>Pequenos Confeiteiros: Biscoitinhos de Nata e Polvilho</i>, conduzida pela educadora infantil <b>Renata Vasconcelos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-Show 4",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2023-10-21T11:00:00-03:00",
+    "dataFim": "2023-10-21T12:15:00-03:00",
+    "descricao": "<p>Demonstração da receita <i>Arroz Caldoso de Costelinha com Ora-pro-nóbis</i> pelo Chef <b>Guilherme Furtado</b>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Tenda do Saber",
+    "dataInicio": "2023-10-21T11:30:00-03:00",
+    "dataFim": "2023-10-21T12:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Sustentabilidade e Cadeias Curtas no Circuito Turístico das Serras de Minas</i>, com <b>Fátima Nogueira</b> e <b>Carlos Eduardo Siqueira</b>.</p>",
+    "secao": "Debates e Conexões"
+   },
+   {
+    "nome": "Momento Gastronômico",
+    "lugar": null,
+    "dataInicio": "2023-10-21T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Pausa para visitação à praça de alimentação e estandes dos produtores rurais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Cozinha Experimental UFV",
+    "dataInicio": "2023-10-21T14:30:00-03:00",
+    "dataFim": "2023-10-21T16:00:00-03:00",
+    "descricao": "<p>Treinamento prático <i>Técnicas de Curagem e Maturação Doméstica de Queijos</i> ministrado pelo pesquisador <b>André Lanna</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Aula-Show 5",
+    "lugar": "Cozinha Senac Show",
+    "dataInicio": "2023-10-21T15:30:00-03:00",
+    "dataFim": "2023-10-21T16:45:00-03:00",
+    "descricao": "<p>Execução do prato <i>Truta Defumada com Crosta de Castanhas e Mousseline de Mandioquinha</i> pela Chef <b>Beatriz Valente</b>.</p>",
+    "secao": "Aulas-Show Gastronômicas"
+   },
+   {
+    "nome": "Concurso Prato Destaque do Festival",
+    "lugar": null,
+    "dataInicio": "2023-10-21T17:00:00-03:00",
+    "dataFim": "2023-10-21T18:30:00-03:00",
+    "descricao": "<p>Avaliação dos jurados com coordenação do crítico <b>Henrique Brandão</b> e entrega dos troféus aos restaurantes participantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Palco Raízes",
+    "dataInicio": "2023-10-21T19:00:00-03:00",
+    "dataFim": "2023-10-21T21:00:00-03:00",
+    "descricao": "<p>Apresentação musical da cantora <b>Lorena Martins</b> com repertório de MPB e samba de raiz.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Fechamento dos Portões",
+    "lugar": null,
+    "dataInicio": "2023-10-21T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

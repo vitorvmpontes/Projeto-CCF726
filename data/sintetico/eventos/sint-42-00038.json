@@ -1,0 +1,155 @@
+{
+ "spec": {
+  "id": "sint-42-00038",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 5,
+  "n_atividades": 16,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:16+00:00",
+ "uso_tokens": {
+  "entrada": 634,
+  "saida": 2434
+ },
+ "saida": {
+  "evento": {
+   "nome": "Sabores do Sul: Festival Gastronômico e Cultural de Porto Alegre",
+   "local_geral": "Parque Maurício Sirotsky Sobrinho (Parque Harmonia), Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-10-16T18:00:00-03:00",
+    "dataFim": "2024-10-16T19:30:00-03:00",
+    "descricao": "<p>Abertura oficial dos portões com presença das autoridades locais e fala da curadora <b>Clarice Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show de Abertura",
+    "lugar": null,
+    "dataInicio": "2024-10-16T20:00:00-03:00",
+    "dataFim": "2024-10-16T22:00:00-03:00",
+    "descricao": "<p>Apresentação musical de música instrumental regional com o violinista <b>Renato Borghetti</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Show Banrisul",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": "2024-10-17T12:30:00-03:00",
+    "descricao": "<p>Preparo ao vivo do prato <i>Arroz de Carreteiro Contemporâneo com Charque Artesanal</i>, conduzido pelo chef <b>Rodrigo Bellora</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Degustação Guiada",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": "<p>Sessão temática <i>Vinhos Naturais e Espumantes da Serra Gaúcha</i> conduzida pela sommelière <b>Camila Podleski</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Show Banrisul",
+    "dataInicio": "2024-10-17T16:30:00-03:00",
+    "dataFim": "2024-10-17T18:00:00-03:00",
+    "descricao": "<p>Demonstração culinária <i>A Doçura das Frutas Nativas: Sobremesas com Butiá e Pitanga</i> com a chef confeiteira <b>Amanda Selbach</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": null,
+    "dataInicio": "2024-10-17T19:00:00-03:00",
+    "dataFim": "2024-10-17T20:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Cadeias Produtivas Sustentáveis no Pampa</i> mediado por <b>Jorge Guimarães</b> e participação dos produtores <b>Lúcia Silveira</b> e <b>Mateus Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Panificação",
+    "lugar": "Arena Gourmet",
+    "dataInicio": "2024-10-18T10:30:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Técnicas de fermentação natural na oficina <i>Pães Rústicos e Farinhas Regionais</i> ministrada pelo padeiro artesanal <b>Guilherme Bicca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Cozinha Show Banrisul",
+    "dataInicio": "2024-10-18T15:00:00-03:00",
+    "dataFim": "2024-10-18T16:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Peixes da Costa Gaúcha: Frescor e Técnicas de Cocção</i> apresentada pelo chef <b>Marcelo Schambeck</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Happy Hour com Produtores",
+    "lugar": null,
+    "dataInicio": "2024-10-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Fogo de Chão Coletivo",
+    "lugar": "Área Externa - Pátio das Brasas",
+    "dataInicio": "2024-10-19T11:30:00-03:00",
+    "dataFim": "2024-10-19T14:30:00-03:00",
+    "descricao": "<p>Almoço festivo com demonstração tradicional de assado conduzida pelos assadores <b>Fábio de Lucca</b> e <b>Natália Telles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 4",
+    "lugar": "Cozinha Show Banrisul",
+    "dataInicio": "2024-10-19T15:00:00-03:00",
+    "dataFim": "2024-10-19T16:30:00-03:00",
+    "descricao": "<p>Preparo especial <i>Cozinha Criola do Rio Grande: Influências Negras na Culinária Sulista</i> com a pesquisadora e cozinheira <b>Goretti Ramos</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Roda de Conversa Gastronômica",
+    "lugar": null,
+    "dataInicio": "2024-10-19T17:00:00-03:00",
+    "dataFim": "2024-10-19T18:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>O Futuro dos Mercados Públicos no Brasil</i> com a participação de <b>Eduardo Sehn</b> e <b>Patrícia Lang</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical Noturno",
+    "lugar": null,
+    "dataInicio": "2024-10-19T20:30:00-03:00",
+    "dataFim": "2024-10-19T22:30:00-03:00",
+    "descricao": "<p>Apresentação musical da banda de samba e choro liderada por <b>Glau Barros</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Aula-Show 5",
+    "lugar": "Cozinha Show Banrisul",
+    "dataInicio": "2024-10-20T11:30:00-03:00",
+    "dataFim": "2024-10-20T13:00:00-03:00",
+    "descricao": "<p>Aula magistral <i>Massa Fresca com Cogumelos dos Campos de Cima da Serra</i> apresentada pela chef <b>Carla Pernambuco</b>.</p>",
+    "secao": "Aulas-Show"
+   },
+   {
+    "nome": "Desafio Novos Cozinheiros",
+    "lugar": "Arena Gourmet",
+    "dataInicio": "2024-10-20T14:30:00-03:00",
+    "dataFim": "2024-10-20T16:30:00-03:00",
+    "descricao": "<p>Competição culinária de estudantes de gastronomia avaliada pelos jurados <b>Marcos Livi</b>, <b>Felipe Di Sicca</b> e <b>Carla Pernambuco</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": null,
+    "dataInicio": "2024-10-20T17:30:00-03:00",
+    "dataFim": "2024-10-20T19:00:00-03:00",
+    "descricao": "<p>Entrega dos troféus do concurso e agradecimentos finais pela organização coordenada por <b>Clarice Medeiros</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

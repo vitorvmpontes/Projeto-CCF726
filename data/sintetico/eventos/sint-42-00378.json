@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-42-00378",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Fortaleza - CE",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 12,
+  "casos": [
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "nomes_repetidos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:05+00:00",
+ "uso_tokens": {
+  "entrada": 716,
+  "saida": 2294
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Cearense de Direito Processual e Garantias Fundamentais",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2023-08-16T18:30:00-03:00",
+    "dataFim": "2023-08-16T19:30:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos pelo presidente da comissão organizadora, <b>Dr. Marcelo Uchôa Cavalcante</b>, com homenagem à memória dos juristas cearenses.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2023-08-16T19:45:00-03:00",
+    "dataFim": "2023-08-16T21:15:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios Contemporâneos da Tutela Jurisdicional Efetiva Diante do Fenômeno da Hiperjudicialização e o Uso de Ferramentas Baseadas em Inteligência Artificial</i>.</p><p>Palestrante: <b>Profa. Dra. Teresa Arruda Alvim</b>. Coordenador da mesa: <b>Des. Paulo Francisco Banhos Ponte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Beberibe",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Precedentes Vinculantes e Segurança Jurídica no Sistema Recursal Brasileiro</i>.</p><p>Coordenação: <b>Dra. Mariana Farias Albuquerque</b>. Palestrantes: <b>Prof. Fredie Didier Jr.</b> e <b>Profa. Sofia Temer</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Beberibe",
+    "dataInicio": "2023-08-17T11:00:00-03:00",
+    "dataFim": "2023-08-17T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Execução Civil e Mecanismos Atípicos de Coerção Patrimonial</i>.</p><p>Debatedores: <b>Dr. Daniel Amorim Assumpção Neves</b> e <b>Dra. Flávia Pereira Hill</b>. Presidência da sessão: <b>Dr. Caio Cesar Valença Lima</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Painel de Apresentação de Artigos Científicos",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2023-08-17T14:30:00-03:00",
+    "dataFim": "2023-08-17T16:30:00-03:00",
+    "descricao": "<p>Coordenação de GT: <b>Prof. Me. Rodrigo Holanda Martins</b>.</p><p>Trabalhos apresentados:<br>- <i>O Incidente de Resolução de Demandas Repetitivas sob a Ótica da Razoável Duração do Processo no Tribunal de Justiça do Ceará</i>, por <b>Lucas Barreto Saraiva</b> e <b>Aline Menezes Pontes</b>.<br>- <i>Cooperação Judiciária Nacional como Instrumento de Desjudicialização e Eficiência Executiva</i>, por <b>Beatriz Montenegro Guimarães</b>.<br>- <i>A Busca Pessoal e Domiciliar no Processo Penal Brasileiro em Confronto com a Doutrina dos Frutos da Árvore Envenenada</i>, por <b>Igor Vasconcelos Rios</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Jericoacoara",
+    "dataInicio": "2023-08-17T17:00:00-03:00",
+    "dataFim": "2023-08-17T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas Avançadas de Sustentação Oral perante os Tribunais Superiores com Ênfase na Produção Estratégica de Memoriais e Recursos Excepcionais</i>.</p><p>Facilitador: <b>Dr. Tiago Asfor Rocha Lima</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Apresentação de Artigos Científicos",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2023-08-18T09:00:00-03:00",
+    "dataFim": "2023-08-18T10:30:00-03:00",
+    "descricao": "<p>Coordenação de GT: <b>Profa. Dra. Camila Araripe Maia</b>.</p><p>Trabalhos apresentados:<br>- <i>A Prova Digital e a Cadeia de Custódia: Desafios Probatórios no Marco Civil da Internet e LGPD</i>, por <b>Gabriel Sampaio Nogueira</b>.<br>- <i>A Arbitragem nas Disputas Envolvendo a Administração Pública Indireta em Infraestrutura Portuária</i>, por <b>Letícia Gurgel Vieira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Beberibe",
+    "dataInicio": "2023-08-18T10:45:00-03:00",
+    "dataFim": "2023-08-18T12:15:00-03:00",
+    "descricao": "<p>Tema: <i>Acesso à Justiça e Vulnerabilidades: Garantismo Processual e Defensoria Pública</i>.</p><p>Coordenadora: <b>Dra. Elizabeth Chagas Castelo Branco</b>. Expositores: <b>Dr. Maurício Ferreira Camurça</b> e <b>Dra. Amélia Rocha</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Jericoacoara",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Elaboração e Gestão de Acordos de Não Persecução Penal na Atuação da Advocacia Criminal Estratégica</i>.</p><p>Instrutor: <b>Dr. Néstor Eduardo Araruna Sá</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": "Auditório Beberibe",
+    "dataInicio": "2023-08-18T15:45:00-03:00",
+    "dataFim": "2023-08-18T17:15:00-03:00",
+    "descricao": "<p>Tema: <i>Processo Estrutural e Políticas Públicas de Saúde: Limites e Possibilidades da Intervenção Judicial</i>.</p><p>Presidente de mesa: <b>Dr. George Marmelstein Lima</b>. Palestrantes: <b>Prof. Edilson Vitorelli</b> e <b>Profa. Vanice Regina Lírio do Valle</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2023-08-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferencista: <b>Min. Mauro Campbell Marques</b>. Coordenação dos trabalhos finais: <b>Dra. Erinaldo Dantas Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-18T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "spec": {
+  "id": "sint-42-00419",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 11,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:50+00:00",
+ "uso_tokens": {
+  "entrada": 652,
+  "saida": 1639
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIX Jornada Carioca de Terapia Intensiva e Medicina de Emergência",
+   "local_geral": "Centro de Convenções SulAmérica, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura Oficial",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T10:30:00-03:00",
+    "descricao": "<p>Abertura solene com a conferência <i>Desafios da Sepse Grave no Sistema Único de Saúde</i>, ministrada pelo <b>Dr. Marcelo Tavares Fontes</b> e presidida pela <b>Dra. Cecília Albuquerque Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Área de Expositores",
+    "dataInicio": "2024-05-15T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Sala Corcovado",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Debate sobre ventilação protetora. Apresentação do tema <i>Manobras de Recrutamento Alveolar em Pacientes com SDRA</i> pelo <b>Dr. Renato Guimarães Nogueira</b>, com moderação de <b>Dra. Fabiana Esteves</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Sala Corcovado",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Discussão clínica abrangendo o tema <i>Controle Hemodinâmico Guiado por Ultrassonografia Point-of-Care</i>, com a participação do <b>Dr. Leonardo Vasconcelos</b> e comentários de <b>Dra. Mariana Prado</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático 1",
+    "lugar": "Laboratório de Habilidades 2",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T11:00:00-03:00",
+    "descricao": "<p>Treinamento em simuladores realísticos com a atividade <i>Manejo Avançado da Via Aérea Difícil</i>, conduzido pelos instrutores <b>Dr. André Salgado</b> e <b>Enf. Priscila Diniz</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Workshop Prático 2",
+    "lugar": "Laboratório de Habilidades 2",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Prática guiada sobre <i>Acessos Vasculares Guiados por Ultrassom em Pacientes Críticos</i>, sob supervisão do <b>Dr. Guilherme Arcoverde</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Coffee Break da Tarde",
+    "lugar": "Área de Expositores",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Interativa de Casos Clínicos",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2024-05-18T09:30:00-03:00",
+    "dataFim": "2024-05-18T11:30:00-03:00",
+    "descricao": "<p>Apresentação e votação interativa de condutas no caso <i>Choque Refratário e Suporte com ECMO Venoarterial</i>, com a participação dos debatedores <b>Dr. Roberto Villela</b> e <b>Dra. Thaís Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento e Premiação",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2024-05-18T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega do Prêmio Destaque em Pesquisa Intensiva e considerações finais pela coordenadora-geral <b>Dra. Cecília Albuquerque Rocha</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

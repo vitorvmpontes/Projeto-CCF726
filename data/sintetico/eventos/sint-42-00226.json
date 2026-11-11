@@ -1,0 +1,166 @@
+{
+ "spec": {
+  "id": "sint-42-00226",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Fortaleza - CE",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 17,
+  "casos": [
+   "sem_horario_fim",
+   "descricoes_ricas",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:14+00:00",
+ "uso_tokens": {
+  "entrada": 699,
+  "saida": 2849
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Nordeste 2026: Congresso de Inovação e Sustentabilidade no Campo",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-08-19T08:00:00-03:00",
+    "dataFim": "2026-08-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Carnaúba",
+    "dataInicio": "2026-08-19T09:30:00-03:00",
+    "dataFim": "2026-08-19T11:00:00-03:00",
+    "descricao": "<p>Tema: Transformação Digital e Conectividade no Semiárido Brasileiro.</p><p>Coordenação: <b>Dra. Mariana Albuquerque</b> (Embrapa Agroindústria Tropical).</p><p>Debatedores: <b>Carlos Henrique Paiva</b> (Ministério da Agricultura e Pecuária) e <b>Beatriz Farias</b> (Hub Ceará Tech).</p>",
+    "secao": "Painéis Estratégicos"
+   },
+   {
+    "nome": "Demoday de Startups",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2026-08-19T11:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de soluções para o agronegócio de precisão.</p><p>Avaliadores: <b>Rodrigo Vasconcelos</b> (AgroVentures) e <b>Sílvia Montenegro</b> (Banco do Nordeste).</p>",
+    "secao": "Ecossistema Agtech"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-08-19T12:30:00-03:00",
+    "dataFim": "2026-08-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Mandacaru",
+    "dataInicio": "2026-08-19T14:00:00-03:00",
+    "dataFim": "2026-08-19T16:00:00-03:00",
+    "descricao": "<p>Tema: Biotecnologia e Gestão Hídrica.</p><p>Apresentações dos seguintes trabalhos:</p><p><i>Uso de Sensores IoT para Otimização de Irrigação por Gotejamento em Melão</i> por <b>Francisco Lucas Mendes</b> e <b>Ana Cristina Rocha</b>.</p><p><i>Monitoramento por Satélite do Vigor Vegetativo em Condições de Estresse Salino</i> por <b>Renato Castelo Branco</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Agromático",
+    "dataInicio": "2026-08-19T16:15:00-03:00",
+    "dataFim": "2026-08-19T18:00:00-03:00",
+    "descricao": "<p>Tema: Sensoriamento Remoto com Drones para Pequenos e Médios Produtores.</p><p>Facilitador: <b>Eng. Pedro Barreto</b> (DronAgro Solutions).</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Demoday de Startups",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2026-08-20T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Pitch de soluções com foco em bioinsumos e biopesticidas.</p><p>Comitê de avaliação: <b>Juliana Meireles</b> (Biotech Brasil) e <b>Luciano Queiroz</b> (Fundação Cearense de Apoio ao Desenvolvimento Científico e Tecnológico).</p>",
+    "secao": "Ecossistema Agtech"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Carnaúba",
+    "dataInicio": "2026-08-20T10:00:00-03:00",
+    "dataFim": "2026-08-20T11:45:00-03:00",
+    "descricao": "<p>Tema: Transição Energética e Descarbonização nas Cadeias Produtivas Agropecuárias.</p><p>Moderador: <b>Prof. Gilberto Araripe</b> (UFC).</p><p>Palestrantes convidados: <b>Cláudia Leitão Sampaio</b> (SolarAgro) e <b>Marcelo Dantas Pinheiro</b> (GreenCarbon Consultoria).</p>",
+    "secao": "Painéis Estratégicos"
+   },
+   {
+    "nome": "Circuito de Networking",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2026-08-20T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Mandacaru",
+    "dataInicio": "2026-08-20T14:00:00-03:00",
+    "dataFim": "2026-08-20T16:00:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial Aplicada à Pecuária e Culturas de Sequeiro.</p><p>Coordenação: <b>Dra. Teresa Cristina Holanda</b> (IFCE).</p><p>Trabalhos selecionados:</p><p><i>Algoritmos de Visão Computacional para Pesagem Não Invasiva de Caprinos</i> por <b>João Marcos Teles</b> e <b>Edivaldo Santana</b>.</p><p><i>Predição de Quebra de Safra de Caju Baseada em Redes Neurais Convolucionais</i> por <b>Valéria Fontes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório Agromático",
+    "dataInicio": "2026-08-20T16:15:00-03:00",
+    "dataFim": "2026-08-20T18:00:00-03:00",
+    "descricao": "<p>Tema: Criação e Gestão de Dashboards Agronômicos com Power BI e Python.</p><p>Instrutora: <b>Bruna Sales</b> (DataFarm Ceará).</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Happy Hour Rural",
+    "lugar": "Terraço Gastronômico",
+    "dataInicio": "2026-08-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Carnaúba",
+    "dataInicio": "2026-08-21T09:00:00-03:00",
+    "dataFim": "2026-08-21T10:30:00-03:00",
+    "descricao": "<p>Tema: O Futuro da Fruticultura Tropical de Exportação Frente às Mudanças Climáticas.</p><p>Apresentação conduzida por <b>Dr. Rogério Maciel</b> (Associação Brasileira dos Produtores Exportadores de Frutas).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Demoday de Startups",
+    "lugar": "Auditório Bezerra de Menezes",
+    "dataInicio": "2026-08-21T10:45:00-03:00",
+    "dataFim": "2026-08-21T12:30:00-03:00",
+    "descricao": "<p>Fase final e premiação dos projetos de rastreabilidade em blockchain para a cadeia de grãos e fibras.</p><p>Jurados: <b>Eliane Nogueira</b> (Venture Capital Nordeste) e <b>Antônio Gouveia Neto</b> (Cooperativa Agropecuária do Vale).</p>",
+    "secao": "Ecossistema Agtech"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Juazeiro",
+    "dataInicio": "2026-08-21T14:00:00-03:00",
+    "dataFim": "2026-08-21T15:45:00-03:00",
+    "descricao": "<p>Tema: Crédito Rural Sustentável e Financiamento ESG para Startups.</p><p>Facilitadores: <b>Marcos André Viana</b> (Banco da Amazônia) e <b>Patrícia Guimarães</b> (InvestBio).</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Carnaúba",
+    "dataInicio": "2026-08-21T16:00:00-03:00",
+    "dataFim": "2026-08-21T17:30:00-03:00",
+    "descricao": "<p>Tema: Políticas Públicas e Fomento à Pesquisa Agrotecnológica no Nordeste.</p><p>Coordenador de mesa: <b>Secretário Eduardo Feitosa</b> (SDA Ceará).</p><p>Debatedores: <b>Prof. Hélio Morais</b> (Universidade Federal do Vale do São Francisco) e <b>Denise Tavares</b> (Instituto Agropolos).</p>",
+    "secao": "Painéis Estratégicos"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Carnaúba",
+    "dataInicio": "2026-08-21T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos trabalhos e startups vencedoras do AgroTech Nordeste 2026.</p><p>Condução: <b>Dra. Mariana Albuquerque</b> e <b>Carlos Henrique Paiva</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

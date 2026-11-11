@@ -1,0 +1,206 @@
+{
+ "spec": {
+  "id": "sint-42-00478",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Belém - PA",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 22,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas",
+   "subtitulo_separado",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:46+00:00",
+ "uso_tokens": {
+  "entrada": 700,
+  "saida": 3465
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio de Pós-Graduação em Biodiversidade e Biotecnologia da Amazônia",
+   "local_geral": "Campus Universitário do Guamá - UFPA, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Materiais",
+    "lugar": "Hall do Centro de Eventos Benedito Nunes",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T09:45:00-03:00",
+    "descricao": "<p>Sessão solene com a presença da coordenadora geral do programa <b>Dra. Raimunda Nonata Carvalho</b> e do pró-reitor de pesquisa <b>Dr. Carlos Eduardo Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2025-05-15T09:45:00-03:00",
+    "dataFim": "2025-05-15T10:45:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Desafios contemporâneos para a valorização de bioprodutos amazônicos no cenário de transição ecológica e inovação farmacêutica global</i>, ministrada pelo pesquisador <b>Dr. Marcos Vinicius Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": "Térreo do Bloco B",
+    "dataInicio": "2025-05-15T10:45:00-03:00",
+    "dataFim": "2025-05-15T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2025-05-15T11:15:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Bioeconomia circular na Amazônia Oriental</i>. Participantes: <b>Dra. Luciana Pantoja Miranda</b> e <b>Dr. Thiago Barreto Alencar</b>. Mediação: <b>Profa. Joana D’Arc Fagundes</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Miniauditório do ICB",
+    "dataInicio": "2025-05-15T11:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão intitulada <i>Marcadores moleculares e genética de populações ripárias</i>, conduzida pelo <b>Dr. Alexandro Santos de Assis</b> e com contribuições da <b>Dra. Teresa Cristina Bezerra</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica A",
+    "lugar": "Laboratório de Bioinformática 01",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": "<p>Treinamento prático sob o título <i>Estratégias computacionais avançadas aplicadas ao sequenciamento genômico em larga escala de microrganismos de solo e água doce amazônicos</i>. Instrutor: <b>Me. Felipe Augusto Nogueira</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Metodológica B",
+    "lugar": "Laboratório Multiuso de Fitoquímica",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Técnicas de extração sustentável de óleos essenciais</i>, sob supervisão da técnica especializada <b>Dra. Camila Bittencourt</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Oficina Metodológica C",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": "<p>Abordagem sobre <i>Redação de artigos científicos de alto impacto</i>, orientada pelo <b>Prof. Dr. Samuel Prado Neves</b>.</p>",
+    "secao": "Oficinas Metodológicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Bloco I",
+    "lugar": "Galeria Central de Exposições",
+    "dataInicio": "2025-05-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação e avaliação dos trabalhos de mestrandos da área de Ecologia. Avaliação conduzida pelos docentes <b>Dr. Roberto Sampaio</b> e <b>Dra. Vânia Leitão</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": "<p>Discussão com foco em <i>Conhecimentos tradicionais associados e proteção de patrimônio genético</i>. Debatedores convidados: <b>Pajé José Xipaya</b> e <b>Dra. Cláudia Marinho Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral 1",
+    "lugar": "Sala 101 - Bloco Didático",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Comunicações de pesquisas em andamento. Coordenação da mesa por <b>Dr. Helder Salgado</b>. Trabalhos apresentados por <b>Mariana Rios Chaves</b>, <b>Gustavo Henrique Paz</b> e <b>Larissa Mendonça</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação Oral 2",
+    "lugar": "Sala 102 - Bloco Didático",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Apresentação de resultados preliminares em Farmacologia Natural. Presidência da sessão a cargo da <b>Dra. Fátima Cordeiro</b>, com exposições dos pós-graduandos <b>Bruno Vieira Ramos</b> e <b>Jéssica Trindade</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação Oral 3",
+    "lugar": "Sala 103 - Bloco Didático",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Trabalhos de Modelagem Ecológica. Avaliador responsável: <b>Prof. Dr. Otávio Bueno</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres - Bloco II",
+    "lugar": "Galeria Central de Exposições",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T15:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de doutorandos nas linhas de Biotecnologia Industrial e Bioquímica. Coordenação: <b>Dra. Beatriz Gusmão</b> e <b>Dr. Wilson Furtado</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Roda de Conversa Discente",
+    "lugar": "Auditório do Herbário",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Encontro organizado pela comissão discente intitulado <i>Saúde mental na pós-graduação e perspectivas de inserção profissional no mercado bioeconômico</i>, moderado pelos pós-graduandos <b>Guilherme Batista</b> e <b>Renata Queiroz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Fórum de Coordenadores",
+    "lugar": "Sala de Reuniões da Reitoria",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Alinhamento dos cursos associados da Rede Bionorte sobre <i>Diretrizes da nova ficha de avaliação da Capes</i>, coordenado pelo <b>Dr. Walter Cunha Lisboa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": "2025-05-16T17:45:00-03:00",
+    "descricao": "<p>Conferência especial com a palestra <i>Perspectivas futuras para a preservação de biomas tropicais integrando governança territorial e tecnologias de monitoramento ambiental participativo</i>, proferida pela pesquisadora titular <b>Dra. Marina Silva Sobral</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos e Homenagens",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2025-05-16T17:45:00-03:00",
+    "dataFim": "2025-05-16T18:30:00-03:00",
+    "descricao": "<p>Anúncio das menções honrosas aos melhores trabalhos do simpósio, conduzido pela comissão julgadora liderada pelo <b>Dr. Enéas Figueiredo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Espaço Recreativo Vadião",
+    "dataInicio": "2025-05-16T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical de carimbó tradicional com o grupo regional sob direção do mestre de cultura popular <b>Mestre Silvino de Mosqueiro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

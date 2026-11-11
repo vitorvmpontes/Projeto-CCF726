@@ -1,0 +1,270 @@
+{
+ "spec": {
+  "id": "sint-42-00195",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 30,
+  "casos": [
+   "intervalos",
+   "titulos_longos",
+   "atividades_paralelas",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:53+00:00",
+ "uso_tokens": {
+  "entrada": 703,
+  "saida": 4547
+ },
+ "saida": {
+  "evento": {
+   "nome": "PoA Tech Summit & Hackathon 2023",
+   "local_geral": "Centro de Eventos PUCRS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Recepção dos Participantes",
+    "lugar": "Hall Principal",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Boas-Vindas",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com os anfitriões <b>Marcelo Dornelles</b> e <b>Luciana Brizola</b> apresentando o ecossistema de inovação gaúcho.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Keynote Corporativo: Nuvem Híbrida",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": "<p>Palestra magna com <b>Roberto Fagundes</b> da RedHat, abordando <i>Arquiteturas Resilientes e Modernização de Aplicações Legadas em Telecomunicações</i>.</p>",
+    "secao": "Keynotes Corporativos"
+   },
+   {
+    "nome": "Painel de Cibersegurança Industrial",
+    "lugar": "Plenária Farroupilha",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": "<p>Debate coordenado por <b>Patrícia Sampaio</b> com foco na segurança de infraestruturas críticas, com os especialistas <b>Diego Ramos</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Painéis Técnicos"
+   },
+   {
+    "nome": "Painel Open Finance e Meios de Pagamento",
+    "lugar": "Plenária Farroupilha",
+    "dataInicio": "2023-10-19T11:15:00-03:00",
+    "dataFim": "2023-10-19T12:15:00-03:00",
+    "descricao": "<p>Mesa com representantes de fintechs liderada por <b>Rodrigo Canto</b>, trazendo casos de sucesso com participação de <b>Fernanda Linhares</b> e <b>Juliano Peixoto</b>.</p>",
+    "secao": "Painéis Técnicos"
+   },
+   {
+    "nome": "Palestra Estratégica de Dados",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-19T11:15:00-03:00",
+    "dataFim": "2023-10-19T12:15:00-03:00",
+    "descricao": "<p>Apresentação do executivo <b>Gustavo Zimmermann</b> da Dell Technologies sobre <i>Governança Global de Dados e Conformidade Corporativa sob a LGPD</i>.</p>",
+    "secao": "Keynotes Corporativos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Área de Food Trucks",
+    "dataInicio": "2023-10-19T12:15:00-03:00",
+    "dataFim": "2023-10-19T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial do Hackathon e Liberação dos Desafios",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T15:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Beatriz Nogueira</b> e <b>Thiago Mendonça</b> explicando as regras e revelando os desafios corporativos das empresas parceiras.</p>",
+    "secao": "Hackathon PoA Tech"
+   },
+   {
+    "nome": "Início da Maratona de Programação",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2023-10-19T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Começo do desenvolvimento ininterrupto de soluções de software e hardware pelas 20 equipes selecionadas.</p>",
+    "secao": "Hackathon PoA Tech"
+   },
+   {
+    "nome": "Palestra Técnica sobre o Impacto das Arquiteturas Orientadas a Eventos no Processamento Massivo de Dados em Nuvem",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-19T15:15:00-03:00",
+    "dataFim": "2023-10-19T16:30:00-03:00",
+    "descricao": "<p>Apresentada pelo arquiteto sênior <b>Felipe Sarmento</b> da AWS Brasil, focada em mensageria, streaming e padrões tolerantes a falhas distribuídas.</p>",
+    "secao": "Trilha Arquitetura de Software"
+   },
+   {
+    "nome": "Palestra Microsserviços e Observabilidade",
+    "lugar": "Auditório Guaíba",
+    "dataInicio": "2023-10-19T15:15:00-03:00",
+    "dataFim": "2023-10-19T16:30:00-03:00",
+    "descricao": "<p>Engenheira convidada <b>Mariana Vasconcellos</b> aborda monitoramento de serviços críticos com OpenTelemetry e Grafana.</p>",
+    "secao": "Trilha Arquitetura de Software"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Hall de Convivência",
+    "dataInicio": "2023-10-19T16:30:00-03:00",
+    "dataFim": "2023-10-19T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Mulheres na Liderança Tecnológica",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-19T17:00:00-03:00",
+    "dataFim": "2023-10-19T18:30:00-03:00",
+    "descricao": "<p>Mesa redonda mediada por <b>Carla Silveira</b> com a presença de <b>Aline Guimarães</b>, <b>Natália Fontes</b> e <b>Bruna Becker</b> discutindo inclusão e gestão executiva.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria Técnica I",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2023-10-19T19:00:00-03:00",
+    "dataFim": "2023-10-19T21:00:00-03:00",
+    "descricao": "<p>Plantão com os mentores convidados <b>Alexandre Frota</b> e <b>Clarissa Fontoura</b> auxiliando na modelagem de banco de dados e APIs do Hackathon.</p>",
+    "secao": "Hackathon PoA Tech"
+   },
+   {
+    "nome": "Oficina Prática de Kubernetes em Produção",
+    "lugar": "Laboratório 101",
+    "dataInicio": "2023-10-20T09:00:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": "<p>Facilitada pelo especialista em DevOps <b>Otávio Lacerda</b> com exercícios interativos de cluster e deploy contínuo.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Workshop de Prototipação Ágil para Produtos Digitais",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2023-10-20T09:00:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": "<p>Conduzido pelo designer de produto <b>Cauê Fontana</b> com foco no desenvolvimento de testes rápidos de usabilidade e Figma.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Pausa para Café da Manhã",
+    "lugar": "Hall de Convivência",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Boas Práticas para Desenvolvimento Seguro de Aplicações Web Modernas em Ambientes Corporativos Distribuídos e Descentralizados",
+    "lugar": "Laboratório 101",
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Instrutora <b>Renata Albuquerque</b> apresentando técnicas essenciais de DevSecOps, prevenção contra ataques e auditoria contínua de código.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Palestra de Engenharia de Prompt para Negócios",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T12:30:00-03:00",
+    "descricao": "<p>Apresentação do pesquisador <b>Igor Antunes</b> sobre modelos de linguagem avançados integrados aos fluxos de atendimento corporativo.</p>",
+    "secao": "Keynotes Corporativos"
+   },
+   {
+    "nome": "Almoço da Rede de Negócios",
+    "lugar": "Área de Food Trucks",
+    "dataInicio": "2023-10-20T12:30:00-03:00",
+    "dataFim": "2023-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Checkpoint e Validação de Protótipos do Hackathon",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Banca intermediária composta por <b>Vanessa Medeiros</b> e <b>Cristóvão Pires</b> avaliando o progresso das equipes inscritas na maratona.</p>",
+    "secao": "Hackathon PoA Tech"
+   },
+   {
+    "nome": "Palestra Sobre Inteligência Artificial Aplicada ao Agronegócio",
+    "lugar": "Auditório Guaíba",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>O cientista de dados <b>Lucas Marchezan</b> demonstrará casos práticos de visão computacional em lavouras do Rio Grande do Sul.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break da Tarde",
+    "lugar": "Hall de Convivência",
+    "dataInicio": "2023-10-20T15:30:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Estratégica sobre Metodologias Ágeis e Transformação Cultural em Equipes de Engenharia de Software de Alta Complexidade Operacional",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2023-10-20T16:00:00-03:00",
+    "dataFim": "2023-10-20T17:30:00-03:00",
+    "descricao": "<p>Facilitação comandada pelo consultor ágil <b>Eduardo Quintana</b> com dinâmicas voltadas para líderes e gestores de tecnologia.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Sessão de Mentoria de Negócios e Pitch",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2023-10-20T18:00:00-03:00",
+    "dataFim": "2023-10-20T20:00:00-03:00",
+    "descricao": "<p>Orientações práticas de pitch com os mentores de startups <b>Juliana Paim</b> e <b>Carlos Eduardo Valente</b>.</p>",
+    "secao": "Hackathon PoA Tech"
+   },
+   {
+    "nome": "Encerramento do Código e Envio dos Projetos",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2023-10-21T09:00:00-03:00",
+    "dataFim": "2023-10-21T09:30:00-03:00",
+    "descricao": "<p>Fim da submissão de repositórios sob supervisão do comitê técnico do evento.</p>",
+    "secao": "Hackathon PoA Tech"
+   },
+   {
+    "nome": "Pitches dos Finalistas do Hackathon",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-21T10:00:00-03:00",
+    "dataFim": "2023-10-21T12:00:00-03:00",
+    "descricao": "<p>Apresentação dos dez melhores projetos para a banca examinadora, coordenada por <b>Gabriel Silveira</b>, com os jurados <b>Helena Trindade</b>, <b>Vinícius Matos</b> e <b>Simone Costa</b>.</p>",
+    "secao": "Hackathon PoA Tech"
+   },
+   {
+    "nome": "Almoço dos Jurados e Participantes",
+    "lugar": "Restaurante Universitário PUCRS",
+    "dataInicio": "2023-10-21T12:00:00-03:00",
+    "dataFim": "2023-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento: Futuro da Tecnologia",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-21T13:30:00-03:00",
+    "dataFim": "2023-10-21T14:30:00-03:00",
+    "descricao": "<p>Apresentação inspiracional com a futurista <b>Daniela Terra</b>, debatendo <i>Automação Responsável e Sociedade Hiperconectada</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Cerimônia de Encerramento",
+    "lugar": "Auditório Araújo Vianna",
+    "dataInicio": "2023-10-21T14:30:00-03:00",
+    "dataFim": "2023-10-21T16:00:00-03:00",
+    "descricao": "<p>Anúncio das três equipes vencedoras do Hackathon com entrega dos troféus pelos organizadores <b>Marcelo Dornelles</b> e <b>Luciana Brizola</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

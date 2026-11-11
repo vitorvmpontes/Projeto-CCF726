@@ -1,0 +1,139 @@
+{
+ "spec": {
+  "id": "sint-42-00410",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Niterói - RJ",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 14,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:14+00:00",
+ "uso_tokens": {
+  "entrada": 645,
+  "saida": 2350
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Simpósio de Pós-Graduação em Geociências e Meio Ambiente da UFF",
+   "local_geral": "Campus da Praia Vermelha, Universidade Federal Fluminense, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Bloco D",
+    "dataInicio": "2026-05-20T08:00:00-03:00",
+    "dataFim": "2026-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Milton Santos",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora do programa, Profa. Dra. <b>Helena Vasconcelos</b>, e do diretor do instituto, Prof. Dr. <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Milton Santos",
+    "dataInicio": "2026-05-20T10:15:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Dinâmicas Costeiras e Riscos Geológicos na Baixada Fluminense</i>, ministrada pelo Dr. <b>Rodrigo Meneses de Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 204",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de mestrado com moderação da Profa. Dra. <b>Clarisse Mello</b>. Trabalhos em destaque: <i>Mapeamento Geoquímico da Baía de Guanabara</i> por <b>Felipe Dornelles</b> e <i>Vulnerabilidade de Encostas na Região Oceânica de Niterói</i> por <b>Camila Siqueira</b>.</p>",
+    "secao": "Comunicações de Pesquisa"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Geoprocessamento II",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Aplicações de Sensoriamento Remoto com QGIS e Dados Copernicus</i> ministrada pelo pesquisador <b>Thiago Brandão Caldas</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Modelagem Ambiental",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T12:00:00-03:00",
+    "descricao": "<p>Treinamento prático sobre <i>Modelagem Hidrodinâmica Costeira em Python</i> conduzido pelo Dr. <b>Gustavo Pires Arantes</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 208",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T16:30:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas de doutorado sob coordenação do Prof. Dr. <b>Marcos Aurélio Tavares</b>. Apresentações de <i>Impactos Antrópicos no Sedimento Lagunar</i> por <b>Luciana Esteves</b> e <i>Isótopos Estáveis Aplicados à Paleoclimatologia</i> por <b>Renato Vieira Rocha</b>.</p>",
+    "secao": "Comunicações de Pesquisa"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Térreo do Bloco D",
+    "dataInicio": "2026-05-21T16:45:00-03:00",
+    "dataFim": "2026-05-21T18:30:00-03:00",
+    "descricao": "<p>Exposição e avaliação de painéis acadêmicos dos discentes ingressantes. Avaliação coordenada pela Profa. Dra. <b>Beatriz Figueiredo</b> e pelo Prof. Dr. <b>João Maurício Salgado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Debate Temático",
+    "lugar": "Auditório Milton Santos",
+    "dataInicio": "2026-05-22T09:00:00-03:00",
+    "dataFim": "2026-05-22T10:45:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Desafios da Carreira Científica e Fomento à Pós-Graduação no Brasil</i>, reunindo a debatedora <b>Renata Chaves Barcellos</b> e o pesquisador <b>Sérgio Nogueira de Faria</b>. Mediação por <b>Helena Vasconcelos</b>.</p>",
+    "secao": "Painéis Interdisciplinares"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2026-05-22T10:45:00-03:00",
+    "dataFim": "2026-05-22T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate Temático",
+    "lugar": "Auditório Milton Santos",
+    "dataInicio": "2026-05-22T11:15:00-03:00",
+    "dataFim": "2026-05-22T12:45:00-03:00",
+    "descricao": "<p>Continuação das discussões com o tema <i>Internacionalização e Redes Globais de Pesquisa Ambiental</i>, com a participação de <b>Antoine Mercier</b> e da Profa. Dra. <b>Carla Lins Fontes</b>.</p>",
+    "secao": "Painéis Interdisciplinares"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 204",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Comunicações de encerramento moderadas pelo Prof. Dr. <b>Otávio Mendonça</b>. Trabalhos de <i>Bioestratigrafia em Bacias Marginais</i> apresentado por <b>Marina Antunes</b> e <i>Evolução Termocronológica da Serra dos Órgãos</i> por <b>Guilherme Castilho</b>.</p>",
+    "secao": "Comunicações de Pesquisa"
+   },
+   {
+    "nome": "Premiação de Trabalhos e Homenagens",
+    "lugar": "Auditório Milton Santos",
+    "dataInicio": "2026-05-22T16:30:00-03:00",
+    "dataFim": "2026-05-22T17:30:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do Prêmio Jovem Pesquisador conduzida pela comissão julgadora liderada pelo Prof. <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Coquetel",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2026-05-22T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização musical e encerramento do simpósio com apresentação do <b>Quarteto de Cordas da UFF</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

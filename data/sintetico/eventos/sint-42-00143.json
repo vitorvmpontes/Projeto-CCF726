@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-42-00143",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Goiânia - GO",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 12,
+  "casos": [
+   "atividades_paralelas",
+   "titulos_longos",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:42+00:00",
+ "uso_tokens": {
+  "entrada": 705,
+  "saida": 1882
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Goiano de Inteligência Artificial e Aplicações Práticas (WGIA 2025)",
+   "local_geral": "Centro de Aulas Samambaia - Universidade Federal de Goiás (UFG), Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Congonhas",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T10:30:00-03:00",
+    "descricao": "<p>Apresentação inaugural com o tema <i>Desafios contemporâneos e oportunidades emergentes da inteligência artificial generativa aplicada ao desenvolvimento socioeconômico sustentável no cerrado brasileiro</i>, ministrada pelo pesquisador <b>Carlos Eduardo Albuquerque</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Plantão de Dúvidas de Programação",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2025-05-14T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espaço livre de atendimento com os tutores <b>Mariana Rios</b> e <b>Lucas Santana</b> para suporte aos inscritos dos minicursos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso A",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Primeira parte do curso <i>Introdução ao Aprendizado Profundo com PyTorch</i>, ministrado por <b>Beatriz Martins Faria</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso B",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Primeira parte da oficina <i>Processamento de Linguagem Natural com Modelos Pré-treinados</i>, conduzida por <b>Danilo Mendonça</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso A",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Continuação prática do curso <i>Introdução ao Aprendizado Profundo com PyTorch</i> com foco em redes convolucionais, conduzido por <b>Beatriz Martins Faria</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Congonhas",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Impactos éticos, regulamentações jurídicas e os dilemas de transparência na implementação de algoritmos preditivos em serviços essenciais do governo</i>, ministrada pela Profa. Dra. <b>Fernanda Esteves Guimarães</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão de Painéis de Pesquisa",
+    "lugar": "Foyer do Auditório Congonhas",
+    "dataInicio": "2025-05-15T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de pôsteres científicos com a coordenação de <b>Thiago Valente</b> e avaliação da comissão científica.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Avançada",
+    "lugar": "Laboratório de Inteligência Artificial",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Oficina prática <i>Engenharia de Prompt e Otimização com Técnicas de Retrieval-Augmented Generation para Construção de Assistentes Virtuais Especializados</i>, apresentada pelo especialista <b>Rodrigo Peixoto</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Minicurso B",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Segunda etapa do curso <i>Processamento de Linguagem Natural com Modelos Pré-treinados</i> com foco em Hugging Face, com <b>Danilo Mendonça</b>.</p>",
+    "secao": "Minicursos Práticos"
+   },
+   {
+    "nome": "Plantão de Dúvidas de Programação",
+    "lugar": "Laboratório Multiuso B",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Sessão final de esclarecimento de dúvidas e auxílio em projetos práticos com <b>Mariana Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Congonhas",
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão com os convidados <b>Carlos Eduardo Albuquerque</b>, <b>Fernanda Esteves Guimarães</b> e moderação de <b>Renata Meireles</b> sobre <i>O Futuro da Inteligência Artificial no Centro-Oeste</i>.</p>",
+    "secao": "Palestras Principais"
+   }
+  ]
+ }
+}

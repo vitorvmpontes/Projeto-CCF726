@@ -1,0 +1,246 @@
+{
+ "spec": {
+  "id": "sint-42-00187",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Goiânia - GO",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 27,
+  "casos": [
+   "sem_horario_fim",
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:08+00:00",
+ "uso_tokens": {
+  "entrada": 700,
+  "saida": 4073
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroFuturo Summit Goiás 2026",
+   "local_geral": "Centro de Convenções de Goiânia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-19T08:00:00-03:00",
+    "dataFim": "2026-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T10:15:00-03:00",
+    "descricao": "<p>Abertura solene com pronunciamento do governador <b>Ronaldo Caiado Filho</b> e do secretário estadual de agricultura <b>Tiago Mendonça</b>. Coordenação dos trabalhos por <b>Mariana Alencar</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-19T10:30:00-03:00",
+    "dataFim": "2026-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: Desafios da Conectividade Rural e Sensores de Precisão. Moderação de <b>Carlos Eduardo Guimarães</b>. Debatedores convidados: <b>Renata Silveira</b> e <b>Marcos Vinícius Prado</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2026-05-19T12:00:00-03:00",
+    "dataFim": "2026-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Inovação Agro",
+    "dataInicio": "2026-05-19T13:30:00-03:00",
+    "dataFim": "2026-05-19T15:30:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial Aplicada ao Monitoramento de Lavouras. Instrutor: <b>Diego Cavalcanti</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2026-05-19T15:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de projetos selecionados para investidores-anjo. Coordenação: <b>Luciana Barreto</b>. Apresentações: <i>Plataforma SoloVivo</i> por <b>Felipe Castilho</b> e <i>Drones Autônomos de Pulverização</i> por <b>Aline Fonseca</b>.</p>",
+    "secao": "Arena AgTech"
+   },
+   {
+    "nome": "Coquetel de Integração",
+    "lugar": "Varanda Verde",
+    "dataInicio": "2026-05-19T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-20T08:30:00-03:00",
+    "dataFim": "2026-05-20T09:45:00-03:00",
+    "descricao": "<p>Tema: Biotecnologia e Genômica para Adaptação Climática no Bioma Cerrado. Palestrante: <b>Helena Vasconcelos</b>. Coordenador da sessão: <b>Otávio Mesquita Rocha</b>.</p>",
+    "secao": "Grandes Conferências"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Planalto",
+    "dataInicio": "2026-05-20T10:00:00-03:00",
+    "dataFim": "2026-05-20T11:45:00-03:00",
+    "descricao": "<p>Tema: Crédito de Carbono e Financiamento Sustentável no Centro-Oeste. Painelistas: <b>Juliano Nogueira</b> e <b>Patrícia Sampaio</b>. Moderação de <b>Beatriz Brandão</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-20T13:30:00-03:00",
+    "dataFim": "2026-05-20T15:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Gilberto Matos</b>. Trabalhos apresentados: <i>Biorremediadores em solos arenosos</i> por <b>Camila Duarte</b> e <i>Bioinsumos na cultura da soja em Goiás</i> por <b>Roberto Villela</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2026-05-20T15:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Rodada de soluções de pós-colheita e rastreabilidade logística. Coordenação: <b>Luciana Barreto</b>. Apresentações: <i>GrãoTrack: Gestão de Armazéns</i> por <b>Wesley Gontijo</b> e <i>CadeiaFria Mobile</i> por <b>Carla Antunes</b>.</p>",
+    "secao": "Arena AgTech"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Inovação Agro",
+    "dataInicio": "2026-05-20T16:00:00-03:00",
+    "dataFim": "2026-05-20T18:00:00-03:00",
+    "descricao": "<p>Tema: Mapeamento de Pragas Usando Drones de Baixo Custo. Instrutores: <b>Guilherme Borges</b> e <b>Larissa Neves</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Encontro de Lideranças Rurais",
+    "lugar": "Espaço VIP",
+    "dataInicio": "2026-05-20T18:30:00-03:00",
+    "dataFim": "2026-05-20T20:00:00-03:00",
+    "descricao": "<p>Reunião de alinhamento com cooperativas agropecuárias de Goiás. Mediador: <b>Fernando Antunes Resende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-21T08:30:00-03:00",
+    "dataFim": "2026-05-21T10:00:00-03:00",
+    "descricao": "<p>Tema: Automação e Eletrificação de Maquinário Agrícola. Debatedores: <b>Valter Pires</b>, <b>Sabrina Couto</b> e <b>Emanuel Martins</b>. Coordenador da mesa: <b>Jorge Teodoro</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-21T10:15:00-03:00",
+    "dataFim": "2026-05-21T11:45:00-03:00",
+    "descricao": "<p>Coordenação de <b>Débora Peixoto</b>. Apresentações de artigos: <i>Irrigação de precisão na bacia do Meia Ponte</i> por <b>Samuel Meireles</b> e <i>Uso de imagens de satélite na previsão de safra de milho</i> por <b>Letícia Bastos</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2026-05-21T12:00:00-03:00",
+    "dataFim": "2026-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Negócios e Parcerias",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2026-05-21T13:30:00-03:00",
+    "dataFim": "2026-05-21T15:30:00-03:00",
+    "descricao": "<p>Rodada de negócios B2B entre agroindústrias e fornecedores tecnológicos. Organização de <b>Cláudia Mota</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2026-05-21T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Fase semifinal da batalha de inovação aberta. Coordenadora: <b>Luciana Barreto</b>. Projetos: <i>NutriSmart: Formulação de Rações</i> por <b>Daniela Furtado</b> e <i>BioSensor Pecuária</i> por <b>Thiago Queiroz</b>.</p>",
+    "secao": "Arena AgTech"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório de Inovação Agro",
+    "dataInicio": "2026-05-21T16:00:00-03:00",
+    "dataFim": "2026-05-21T18:00:00-03:00",
+    "descricao": "<p>Tema: Blockchain para Rastreabilidade de Origem Animal. Ministrante: <b>Gabriel Paiva</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Mostra de Inovação Estudantil",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2026-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exibição de protótipos acadêmicos desenvolvidos por graduandos da UFG e IF Goiano. Avaliação coordenada por <b>Sandra Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T09:45:00-03:00",
+    "descricao": "<p>Tema: O Futuro do Agro Global: Desafios Geopolíticos e Demandas de Sustentabilidade. Palestrante: <b>Eduardo Giannetti Prado</b>. Presidência da sessão: <b>Arthur Albuquerque</b>.</p>",
+    "secao": "Grandes Conferências"
+   },
+   {
+    "nome": "Sessão Técnica Oral",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-05-22T10:00:00-03:00",
+    "dataFim": "2026-05-22T11:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Renata Silveira</b>. Artigos: <i>Monitoramento térmico de gado confinado</i> por <b>Vinícius Ramos</b> e <i>Sensores IoT para compostagem industrial</i> por <b>Monique Carvalho</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2026-05-22T11:30:00-03:00",
+    "dataFim": "2026-05-22T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demo Day Final",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-22T13:00:00-03:00",
+    "dataFim": "2026-05-22T15:00:00-03:00",
+    "descricao": "<p>Apresentação final das 5 startups finalistas para a banca de investimentos. Coordenador da banca: <b>Alexandre Farias</b>.</p>",
+    "secao": "Arena AgTech"
+   },
+   {
+    "nome": "Premiação de Trabalhos e Startups",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-22T15:30:00-03:00",
+    "dataFim": "2026-05-22T16:30:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do Prêmio AgroInova Goiás 2026. Apresentação: <b>Mariana Alencar</b> e <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Cerrado",
+    "dataInicio": "2026-05-22T16:30:00-03:00",
+    "dataFim": "2026-05-22T17:30:00-03:00",
+    "descricao": "<p>Pronunciamentos finais e leitura da Carta de Goiânia para o Agro Sustentável pelo coordenador geral <b>Tiago Mendonça</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Espaço Cultural Externo",
+    "dataInicio": "2026-05-22T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação cultural com a orquestra de violeiros de Goiás em homenagem aos produtores rurais.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

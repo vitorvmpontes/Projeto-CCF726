@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00437",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:56+00:00",
+ "uso_tokens": {
+  "entrada": 649,
+  "saida": 1205
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada Diocesana de Formação e Fraternidade Comunitária",
+   "local_geral": "Paróquia Bom Pastor e Centro Pastoral, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Comunitário",
+    "lugar": null,
+    "dataInicio": "2027-05-15T08:00:00-03:00",
+    "dataFim": "2027-05-15T08:45:00-03:00",
+    "descricao": "<p>Recepção dos fiéis e representantes comunitários das pastorais locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2027-05-15T08:45:00-03:00",
+    "dataFim": "2027-05-15T10:00:00-03:00",
+    "descricao": "<p>Celebração eucarística presidida pelo <b>Padre Luciano Mendes</b> com cânticos do <b>Ministério de Música Shalom</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala São Francisco",
+    "dataInicio": "2027-05-15T10:15:00-03:00",
+    "dataFim": "2027-05-15T11:45:00-03:00",
+    "descricao": "<p>Abordagem prática sobre <i>Cuidado com os Pobres e Gestão de Campanhas Solidárias</i>, conduzida por <b>Mariana Alencar</b> e <b>Irmão Tiago Vieira</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala Santa Clara",
+    "dataInicio": "2027-05-15T10:15:00-03:00",
+    "dataFim": "2027-05-15T11:45:00-03:00",
+    "descricao": "<p>Reflexão com o tema <i>Acolhimento Juvenil e Dinâmicas em Grupo</i>, sob mediação de <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Salão Bento XVI",
+    "dataInicio": "2027-05-15T10:15:00-03:00",
+    "dataFim": "2027-05-15T11:45:00-03:00",
+    "descricao": "<p>Capacitação litúrgica intitulada <i>O Canto Litúrgico e a Expressão da Fé Comunitária</i>, facilitada pela maestrina <b>Helena Nogueira</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": null,
+    "dataInicio": "2027-05-15T12:00:00-03:00",
+    "dataFim": "2027-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Círculo de Partilha Comunitária",
+    "lugar": null,
+    "dataInicio": "2027-05-15T13:30:00-03:00",
+    "dataFim": "2027-05-15T15:00:00-03:00",
+    "descricao": "<p>Momento de integração entre os participantes para debater <i>Desafios da Ação Social na Periferia de Juiz de Fora</i>, coordenado pela <b>Diaconisa Rita de Cássia Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Bênção de Envio e Louvor",
+    "lugar": "Nave Principal",
+    "dataInicio": "2027-05-15T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Oração final com consagração das lideranças leigas conduzida pelo <b>Bispo Dom Geraldo Valério</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

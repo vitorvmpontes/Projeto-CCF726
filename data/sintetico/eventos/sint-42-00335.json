@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00335",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Brasília - DF",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:34+00:00",
+ "uso_tokens": {
+  "entrada": 676,
+  "saida": 1300
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência de Dados e Inteligência Computacional",
+   "local_geral": "Centro Internacional de Convenções do Brasil (CICB), Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: Avanços Recentes e Desafios Éticos em Modelos de Linguagem de Larga Escala.</p><p>Palestrante: <b>Dra. Helena Guimarães Bittencourt</b> (UnB).</p><p>Coordenação dos trabalhos: <b>Prof. Dr. Ricardo Sampaio</b> (UFRGS).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos no eixo de Aprendizado de Máquina Aplicado à Saúde.</p><p>Coordenação: <b>Prof. Marcos Vinícius Toledo</b>.</p><p>Trabalhos:</p><p>1. <i>Detecção Precoce de Retinopatia Diabética Usando Redes Neurais Convolucionais</i> por <b>Ana Clara Peixoto</b> e <b>Lucas Menezes Faria</b>.</p><p>2. <i>Classificação de Eletrocardiogramas via Transformadores de Visão</i> por <b>Rodrigo Duarte Vilela</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 104 - Bloco B",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T12:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos no eixo de Processamento de Linguagem Natural e Recuperação de Informação.</p><p>Coordenação: <b>Dra. Simone Albuquerque</b>.</p><p>Trabalhos:</p><p>1. <i>Extração de Entidades Nomeadas em Textos Jurídicos em Português</i> por <b>Juliana Bastos Ribeiro</b> e <b>Carlos Eduardo Fontes</b>.</p><p>2. <i>Sumarização Automática de Notícias com Modelos Baseados em Atenção</i> por <b>Felipe Augusto Gontijo</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos no eixo de Mineração de Grafos e Redes Complexas.</p><p>Coordenação: <b>Prof. André Luiz Vasconcelos</b>.</p><p>Trabalhos:</p><p>1. <i>Propagação de Desinformação em Redes Sociais durante Períodos Críticos</i> por <b>Beatriz Munhoz</b> e <b>Otávio Pimentel</b>.</p><p>2. <i>Detecção de Comunidades em Grafos Bipartidos Financeiros</i> por <b>Guilherme Saraiva Campos</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Painel de Encerramento e Premiação",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2026-05-14T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: O Futuro da Pesquisa em Computação e Políticas Públicas de IA no Brasil.</p><p>Painelistas convidados: <b>Dra. Mariana Prado Coutinho</b> (MCTI) e <b>Dr. Walter Fagundes Neto</b> (Sociedade Brasileira de Computação).</p><p>Condução da cerimônia: <b>Prof. Dr. Ricardo Sampaio</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

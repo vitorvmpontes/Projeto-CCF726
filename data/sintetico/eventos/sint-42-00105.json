@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00105",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Brasília - DF",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:21+00:00",
+ "uso_tokens": {
+  "entrada": 632,
+  "saida": 1020
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Centro-Oeste de Recursos Hídricos e Sustentabilidade no Cerrado",
+   "local_geral": "Centro Internacional de Convenções do Brasil (CICB), Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Institucional",
+    "lugar": "Auditório Buriti",
+    "dataInicio": "2023-05-17T09:00:00-03:00",
+    "dataFim": "2023-05-17T10:30:00-03:00",
+    "descricao": "<p>Cerimônia de abertura com a presença da diretora <b>Mariana Albuquerque de Toledo</b> e do representante do conselho regional <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": null,
+    "dataInicio": "2023-05-17T14:00:00-03:00",
+    "dataFim": "2023-05-17T16:00:00-03:00",
+    "descricao": "<p>Discussão com foco no tema <i>Gestão de Bacias Hidrográficas e Mudanças Climáticas no Bioma Cerrado</i>, mediada por <b>Letícia Fontes Guimarães</b> e com contribuições de <b>Roberto Salles de Carvalho</b> e <b>Ana Cristina Velloso</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": null,
+    "dataInicio": "2023-05-18T10:00:00-03:00",
+    "dataFim": "2023-05-18T12:00:00-03:00",
+    "descricao": "<p>Apresentação e diálogo sobre <i>Políticas Públicas de Conservação do Solo e Pagamento por Serviços Ambientais</i>, com os especialistas <b>Fernando Brandão Rios</b> e <b>Luciana Pacheco Mello</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2023-05-18T14:30:00-03:00",
+    "dataFim": "2023-05-18T17:30:00-03:00",
+    "descricao": "<p>Atividade técnica sobre <i>Mapeamento Geoespacial de Nascentes Urbanas</i> ministrada pelo engenheiro ambiental <b>Thiago Ramos Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço de Diálogos",
+    "lugar": null,
+    "dataInicio": "2023-05-19T09:30:00-03:00",
+    "dataFim": "2023-05-19T11:30:00-03:00",
+    "descricao": "<p>Roda de conversa com lideranças comunitárias e rurais sobre <i>Práticas Agroecológicas e Preservação de Matas Ciliares</i>, coordenada por <b>Simone Duarte Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-05-19T14:00:00-03:00",
+    "dataFim": "2023-05-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação da <i>Carta de Brasília pela Sustentabilidade Hídrica</i> com leitura conduzida por <b>Mariana Albuquerque de Toledo</b> e pronunciamento do pesquisador <b>Gustavo Henrique Farias</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

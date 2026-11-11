@@ -1,0 +1,278 @@
+{
+ "spec": {
+  "id": "sint-42-00336",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Macapá - AP",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 31,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos",
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:52+00:00",
+ "uso_tokens": {
+  "entrada": 707,
+  "saida": 4350
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Mostra de Extensão Universitária da Amazônia Amapaense",
+   "local_geral": "Campus Marco Zero do Equador - UNIFAP, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall do Bloco de Letras e Artes",
+    "dataInicio": "2027-05-17T08:00:00-03:00",
+    "dataFim": "2027-05-17T09:30:00-03:00",
+    "descricao": "<p>Recepção dos participantes e validação de inscrições para as atividades formativas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-17T09:30:00-03:00",
+    "dataFim": "2027-05-17T10:30:00-03:00",
+    "descricao": "<p>Abertura solene com pronunciamento do Reitor <b>Prof. Dr. Clóvis Maciel</b> e da Pró-Reitora de Extensão <b>Profa. Dra. Samara Pureza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-17T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação intitulada <i>Diálogos entre saberes tradicionais e a extensão universitária na construção da cidadania e justiça climática na foz do Rio Amazonas</i>, ministrada pela <b>Dra. Raimunda Eliane Ferreira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-17T12:00:00-03:00",
+    "dataFim": "2027-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Saberes Ribeirinhos",
+    "lugar": "Sala 102 - Bloco de Enfermagem",
+    "dataInicio": "2027-05-17T14:00:00-03:00",
+    "dataFim": "2027-05-17T17:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Mestre Benedito dos Santos</b>, com foco em práticas comunitárias e medicina fitoterápica do estuário amapaense.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Circuito Cultural de Marabaixo",
+    "lugar": "Tenda Cultural da Reitoria",
+    "dataInicio": "2027-05-17T17:30:00-03:00",
+    "dataFim": "2027-05-17T19:00:00-03:00",
+    "descricao": "<p>Apresentação artística com o grupo tradicional do bairro Laguinho, liderado por <b>Mestra Laura do Marabaixo</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Exposição Fotográfica Comunitária",
+    "lugar": "Galeria de Artes Universitária",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Mostra visual <i>Olhares da Floresta e das Águas</i>, organizada pelo curador <b>Thiago Mendonça</b> com trabalhos fotográficos de ribeirinhos de Mazagão.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Saberes Ribeirinhos",
+    "lugar": "Laboratório Multidisciplinar I",
+    "dataInicio": "2027-05-18T09:00:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Segunda turma sob coordenação de <b>Mestre Benedito dos Santos</b>, explorando catalogação de plantas medicinais e botânica popular.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Pátio do Bloco de Letras e Artes",
+    "dataInicio": "2027-05-18T10:15:00-03:00",
+    "dataFim": "2027-05-18T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Intersetorial",
+    "lugar": "Auditório de Direito",
+    "dataInicio": "2027-05-18T10:45:00-03:00",
+    "dataFim": "2027-05-18T12:30:00-03:00",
+    "descricao": "<p>Debate sobre políticas públicas e direitos humanos mediado pela <b>Profa. Camila Brito</b> com a participação do líder quilombola <b>Ivanildo da Silva</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-18T12:30:00-03:00",
+    "dataFim": "2027-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres Extensionistas",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T16:30:00-03:00",
+    "descricao": "<p>Avaliação dos projetos estudantis pelos professores <b>Dr. Fábio Teles</b> e <b>Dra. Marlene Queiroz</b>.</p>",
+    "secao": "Sessões de Pôsteres"
+   },
+   {
+    "nome": "Roda de Conversa Intersetorial",
+    "lugar": "Auditório do Bloco de Saúde",
+    "dataInicio": "2027-05-18T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate acerca da saúde coletiva e saneamento em áreas de ressaca com mediação de <b>Dr. Marcos Albuquerque</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Oficina de Cartografia Social",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T11:30:00-03:00",
+    "descricao": "<p>Mapeamento participativo territorial ministrado pelo geógrafo <b>Felipe Sarney</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Pátio do Bloco de Letras e Artes",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Metodologias integradoras e ações comunitárias para o fortalecimento da agroecologia e soberania alimentar em comunidades tradicionais amazônicas</i>, conduzida pelo pesquisador <b>Dr. Gerson Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres Extensionistas",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:30:00-03:00",
+    "descricao": "<p>Sessão de trabalhos voltados à educação popular e letramento comunitário, com tutoria da <b>Profa. Renata Castelo</b>.</p>",
+    "secao": "Sessões de Pôsteres"
+   },
+   {
+    "nome": "Apresentação Cultural Universitária",
+    "lugar": "Tenda Cultural da Reitoria",
+    "dataInicio": "2027-05-19T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coral Universitário da UNIFAP sob regência do maestro <b>José Carlos Aguiar</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Mostra de Curtas-Metragens Extensionistas",
+    "lugar": "Miniauditório 1",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Exibição e debate de produções audiovisuais comunitárias comentadas pela cineasta <b>Letícia Colares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Hall do Bloco Integrado",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Comunicação Comunitária",
+    "lugar": "Laboratório de Rádio e TV",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Capacitação em produção de podcasts e mídias sociais comunitárias ministrada por <b>Júlio Furtado</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Experiências Extensionistas",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Relatos de vivências em comunidades quilombolas do Curiaú, com fala da ativista <b>Valdenice Gonzaga</b> e do professor <b>Dr. Daniel Paiva</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Apresentação Cultural Universitária",
+    "lugar": "Palco do Anfiteatro",
+    "dataInicio": "2027-05-20T17:00:00-03:00",
+    "dataFim": "2027-05-20T18:30:00-03:00",
+    "descricao": "<p>Espetáculo de dança regional pelo Coletivo Tucuju sob direção de <b>Kátia Silveira</b>.</p>",
+    "secao": "Atividades Culturais"
+   },
+   {
+    "nome": "Oficina de Bioeconomia Solidária",
+    "lugar": "Sala Multiuso 2",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Práticas de geração de renda sustentável a partir de sementes amazônicas ministrada pela artesã <b>Maria do Carmo Souza</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": "Hall do Bloco Integrado",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-21T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da conferência <i>O protagonismo da universidade pública frente aos desafios socioambientais e à defesa dos povos originários e comunidades tradicionais do Amapá</i>, ministrada pelo sociólogo <b>Dr. Hamilton Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:30:00-03:00",
+    "dataFim": "2027-05-21T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Premiação",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-21T14:30:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Extensionista 2027 com a coordenação de <b>Profa. Sandra Regina Vales</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Palavras finais da comissão organizadora presidida pela <b>Profa. Dra. Samara Pureza</b> e apresentação especial de encerramento.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

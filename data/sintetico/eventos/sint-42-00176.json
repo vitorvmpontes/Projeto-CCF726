@@ -1,0 +1,269 @@
+{
+ "spec": {
+  "id": "sint-42-00176",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 30,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:17+00:00",
+ "uso_tokens": {
+  "entrada": 697,
+  "saida": 4089
+ },
+ "saida": {
+  "evento": {
+   "nome": "TechSul Summit & Hackathon 2024",
+   "local_geral": "Centro de Eventos PUCRS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Welcome Coffee",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-10-16T08:00:00-03:00",
+    "dataFim": "2024-10-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": "Recepção"
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-16T09:00:00-03:00",
+    "dataFim": "2024-10-16T09:45:00-03:00",
+    "descricao": "<p>Abertura conduzida pelos coordenadores <b>Marcelo Guimarães</b> e <b>Luciana Esteves</b>, apresentando as trilhas do evento e o desafio central do hackathon.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-16T10:00:00-03:00",
+    "dataFim": "2024-10-16T11:00:00-03:00",
+    "descricao": "<p>Com <b>Rodrigo Silveira</b> da Nubank apresentando a palestra <i>A evolução dos sistemas distribuídos orientados a microsserviços sob condições extremas de concorrência global</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2024-10-16T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atendimento aos participantes com a presença do especialista <b>Camila Duarte</b> da AWS.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Pitch de Ideias e Formação de Equipes",
+    "lugar": "Arena de Inovação",
+    "dataInicio": "2024-10-16T11:30:00-03:00",
+    "dataFim": "2024-10-16T13:00:00-03:00",
+    "descricao": "<p>Sessão dinâmica facilitada por <b>Tiago Ramos</b> para conexão de talentos e definição dos times da maratona.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação Externa",
+    "dataInicio": "2024-10-16T13:00:00-03:00",
+    "dataFim": "2024-10-16T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-16T14:30:00-03:00",
+    "dataFim": "2024-10-16T16:00:00-03:00",
+    "descricao": "<p>Ministrado por <b>Juliana Pires</b> abordando o tema <i>Construindo modelos preditivos com Python e bibliotecas abertas para problemas reais</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-10-16T16:15:00-03:00",
+    "dataFim": "2024-10-16T17:45:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O futuro do trabalho em tecnologia e o impacto da inteligência artificial generativa na carreira de desenvolvedores iniciantes</i> com mediação de <b>Fabio Neves</b> e presença de <b>Renata Albuquerque</b> e <b>Carlos Zanin</b>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Liberada Primeira Rodada de Validação",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2024-10-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Avaliação dos problemas desenhados com os jurados <b>Beatriz Rocha</b> e <b>Otávio Souza</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Check-in e Welcome Coffee",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-10-17T08:30:00-03:00",
+    "dataFim": "2024-10-17T09:15:00-03:00",
+    "descricao": null,
+    "secao": "Recepção"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-17T09:30:00-03:00",
+    "dataFim": "2024-10-17T10:30:00-03:00",
+    "descricao": "<p>Palestra de <b>Helena Fontana</b> abordando <i>Arquiteturas Serverless na Nuvem</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-17T10:45:00-03:00",
+    "dataFim": "2024-10-17T12:15:00-03:00",
+    "descricao": "<p>Com <b>Vitor Meireles</b> tratando da oficina <i>Implementação prática de pipelines de integração contínua e entrega contínua com foco em segurança</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2024-10-17T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Plantão de arquitetura de software e DevOps com <b>Guilherme Dornelles</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": "<p>Discussão com <b>Patrícia Lemos</b> e <b>Diego Mattos</b> a respeito de <i>Segurança em Ambientes Financeiros</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-17T16:00:00-03:00",
+    "dataFim": "2024-10-17T17:00:00-03:00",
+    "descricao": "<p>Apresentação de <b>Eduardo Bittencourt</b> com o tema <i>Como escalar infraestrutura kubernetes de centenas de nós sem comprometer os custos operacionais da organização</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Happy Hour e Networking",
+    "lugar": "Foyer das Árvores",
+    "dataInicio": "2024-10-17T18:00:00-03:00",
+    "dataFim": "2024-10-17T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Corujão Dev",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2024-10-17T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Noite adentro de desenvolvimento supervisionada pelo monitor <b>Lucas Fagundes</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Check-in e Welcome Coffee",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-10-18T08:30:00-03:00",
+    "dataFim": "2024-10-18T09:15:00-03:00",
+    "descricao": null,
+    "secao": "Recepção"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Laboratório de Informática 4",
+    "dataInicio": "2024-10-18T09:30:00-03:00",
+    "dataFim": "2024-10-18T11:00:00-03:00",
+    "descricao": "<p>Conduzido pela instrutora <b>Aline Barreto</b> com o tema <i>Criando interfaces amigáveis e acessíveis para aplicativos móveis com Flutter</i>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-10-18T10:00:00-03:00",
+    "dataFim": "2024-10-18T11:00:00-03:00",
+    "descricao": "<p>Apresentação do palestrante <b>Rafael Becker</b>: <i>Observabilidade em Tempo Real</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2024-10-18T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Foco na preparação de pitch de negócios com <b>Fernanda Fagundes</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação Externa",
+    "dataInicio": "2024-10-18T12:30:00-03:00",
+    "dataFim": "2024-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-18T14:30:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Oficina de prototipagem rápida ministrada por <b>Marcos Vinicius Paiva</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T17:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Sofia Nogueira</b> discutindo <i>Estratégias de Growth com Engenharia de Dados</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2024-10-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Revisão final de repositórios e endpoints com o mentor <b>Gabriel Antunes</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Congelamento de Código",
+    "lugar": "Espaço Hacker",
+    "dataInicio": "2024-10-19T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento dos commits nos repositórios oficiais com verificação da banca técnica sob supervisão de <b>Marcelo Guimarães</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Apresentação dos Projetos Finalistas",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-19T10:00:00-03:00",
+    "dataFim": "2024-10-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos 10 melhores projetos desenvolvidos durante o hackathon para a banca avaliadora com <b>Tatiana Silveira</b> e convidados de venture capital.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação Externa",
+    "dataInicio": "2024-10-19T12:30:00-03:00",
+    "dataFim": "2024-10-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-19T14:15:00-03:00",
+    "dataFim": "2024-10-19T15:15:00-03:00",
+    "descricao": "<p>Sessão com <b>Arthur Fontes</b> apresentando <i>Como Construir Produtos Globais a Partir do Brasil</i>.</p>",
+    "secao": "Trilha Corporativa"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Palco Principal (Auditório Araújo Vianna)",
+    "dataInicio": "2024-10-19T15:30:00-03:00",
+    "dataFim": "2024-10-19T17:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do hackathon e entrega de prêmios por <b>Luciana Esteves</b> e <b>Marcelo Guimarães</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

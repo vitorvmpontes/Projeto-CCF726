@@ -1,0 +1,163 @@
+{
+ "spec": {
+  "id": "sint-42-00464",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Campinas - SP",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 17,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:30+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 2794
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Congresso Paulista de Direito Processual e Novas Tecnologias",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção de Participantes e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-16T08:00:00-03:00",
+    "dataFim": "2024-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do Presidente da Seccional da OAB <b>Marcos Vinicius Ribeiro</b> e da Coordenadora Científica <b>Dra. Renata Vasconcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-16T10:15:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial no Poder Judiciário. Participantes: <b>Des. Gilberto Passos de Freitas</b> abordando <i>A Validade da Prova Algorítmica</i> e <b>Profa. Camila Guimarães</b> com a exposição <i>Vieses Algorítmicos e o Devido Processo Legal</i>. Moderação de <b>Lucas Nogueira</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Processo Eletrônico",
+    "lugar": "Laboratório de Informática Jurídica",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:00:00-03:00",
+    "descricao": "<p>Capacitação ministrada por <b>Rodrigo Cordeiro</b> sobre <i>Automação de Peticionamento e Compliance de Dados no PJe</i>.</p>",
+    "secao": "Workshops de Prática Forense"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: Provas Digitais e Cadeia de Custódia. Debates com <b>Dra. Juliana Bittencourt</b>, apresentando <i>Hash e Preservação de Mensagens Instantâneas</i>, e <b>Dr. Marcelo Tavares</b> com <i>Limites Éticos da Investigação Defensiva Cibernética</i>. Coordenação de <b>Felipe Castanheira</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Oficina Prática de Processo Eletrônico",
+    "lugar": "Sala de Capacitação 2",
+    "dataInicio": "2024-05-16T15:30:00-03:00",
+    "dataFim": "2024-05-16T17:00:00-03:00",
+    "descricao": "<p>Segunda turma ministrada por <b>Rodrigo Cordeiro</b> com foco em <i>Automação de Peticionamento e Compliance de Dados no PJe</i>.</p>",
+    "secao": "Workshops de Prática Forense"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Tema: Execuções Fiscais e Tecnologias de Rastreamento de Ativos. Expositores: <b>Profa. Patrícia Alencar</b> com <i>Sisbajud, Renajud e Quebra Automatizada de Sigilo</i> e <b>Dr. Henrique Fontes</b> com <i>Penhora de Criptoativos e Responsabilidade Patrimonial</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Lançamento de Livros e Coquetel",
+    "lugar": "Espaço Cultural",
+    "dataInicio": "2024-05-16T18:30:00-03:00",
+    "dataFim": "2024-05-16T20:00:00-03:00",
+    "descricao": "<p>Sessão de autógrafos com as presenças dos autores <b>Dra. Renata Vasconcellos</b> e <b>Des. Gilberto Passos de Freitas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática de Comunicações Científicas",
+    "lugar": "Sala Nobre A",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos aprovados pelo comitê científico. Avaliação conduzida pelo <b>Prof. André Barreto</b> e pela <b>Dra. Simone Rezende</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T10:45:00-03:00",
+    "descricao": "<p>Tema: LGPD nas Relações Processuais e Gestão de Cartórios. Painelistas: <b>Dra. Tatiana Sampaio</b> com <i>A Publicidade dos Atos Processuais em Confronto com a LGPD</i> e <b>Dr. Leonardo Zanin</b> com <i>Segurança da Informação nos Tribunais Estaduais</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-17T10:45:00-03:00",
+    "dataFim": "2024-05-17T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 5",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-17T11:15:00-03:00",
+    "dataFim": "2024-05-17T13:00:00-03:00",
+    "descricao": "<p>Tema: Cortes de Justiça Digitais e Sustentação Oral por Videoconferência. Apresentações de <b>Des. Roberto Faria</b> com <i>A Presencialidade Virtual e a Prerrogativa da Advocacia</i> e <b>Profa. Beatriz Mendes</b> com <i>Efetividade Recursal nos Tribunais Superiores</i>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-17T13:00:00-03:00",
+    "dataFim": "2024-05-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática de Comunicações Científicas",
+    "lugar": "Sala Nobre B",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Apresentação oral de resumos expandidos sobre mediação digital. Banca composta por <b>Prof. Daniel Albuquerque</b> e <b>Dra. Mariana Prado</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda de Encerramento",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-17T16:15:00-03:00",
+    "dataFim": "2024-05-17T18:00:00-03:00",
+    "descricao": "<p>Tema: O Futuro da Jurisdição e o Acesso à Justiça na Era dos Dados. Conferência a cargo do <b>Ministro Cláudio Prado Maia</b> com debate ampliado mediado por <b>Dra. Renata Vasconcellos</b>.</p>",
+    "secao": "Mesas de Debates"
+   },
+   {
+    "nome": "Premiação dos Melhores Artigos e Encerramento",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2024-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega dos certificados de Menção Honrosa pelo coordenador acadêmico <b>Prof. André Barreto</b> e encerramento dos trabalhos.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

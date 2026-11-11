@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-42-00486",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Brasília - DF",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:30:10+00:00",
+ "uso_tokens": {
+  "entrada": 652,
+  "saida": 979
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia Florestal da UnB",
+   "local_geral": "Faculdade de Tecnologia, Universidade de Brasília"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Oficial",
+    "lugar": "Auditório Roberto Salmeron",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": "2027-05-18T09:15:00-03:00",
+    "descricao": "<p>Abertura com a coordenação de curso representada pelo Prof. <b>Rodrigo Albuquerque</b> e fala da diretoria da Faculdade de Tecnologia.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Roberto Salmeron",
+    "dataInicio": "2027-05-18T09:30:00-03:00",
+    "dataFim": "2027-05-18T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo Sustentável do Cerrado e Restauração Ecológica em Larga Escala</i>, ministrada pela Dra. <b>Helena Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": null,
+    "dataInicio": "2027-05-18T11:00:00-03:00",
+    "dataFim": "2027-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Sensoriamento Remoto Aplicado à Detecção de Desmatamento</i>. Instrutor: Me. <b>Felipe Dornelles</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": null,
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Dendrometria Prática e Inventário Florestal Urbano</i>, coordenado pela Profa. Dra. <b>Carla Mendonça</b>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": null,
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": "2027-05-18T17:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas Públicas e Conservação da Biodiversidade no Planalto Central</i>, com os debatedores <b>Vinícius Guimarães</b> e <b>Camila Siqueira</b>, mediado por <b>Patrícia Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento e Entrega de Menções Honrosas",
+    "lugar": null,
+    "dataInicio": "2027-05-18T18:00:00-03:00",
+    "dataFim": "2027-05-18T19:00:00-03:00",
+    "descricao": "<p>Premiação dos melhores pôsteres científicos e encerramento com a Profa. <b>Clarice Prado</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

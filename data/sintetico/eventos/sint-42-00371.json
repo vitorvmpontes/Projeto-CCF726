@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-42-00371",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Natal - RN",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "subtitulo_separado",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:27+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 933
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae RN 2024",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Arena Plenária",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e o Futuro dos Pequenos Negócios Potiguares</i>. Participação especial de <b>Itamar Manso Maciel</b> e <b>Zeneide Maia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Negócios Costeiros",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": "2024-05-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias de Marketing Digital no Instagram para Comércio Local</i>, com a consultora <b>Mariana Medeiros</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Sessão de Pitch",
+    "lugar": "Espaço Startup Potiguar",
+    "dataInicio": "2024-05-16T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Demoday de Soluções Sustentáveis para o Turismo e Energia Limpa</i>. Avaliação conduzida pelo investidor <b>Felipe Bezerra</b>.</p>",
+    "secao": "Conexão Startups"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Ideias",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Formação de Preço de Venda e Gestão de Fluxo de Caixa para Microempreendedores</i>. Ministrado por <b>Carlos Eduardo Varela</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Espaço Multiuso Genipabu",
+    "dataInicio": "2024-05-16T15:30:00-03:00",
+    "dataFim": "2024-05-16T17:30:00-03:00",
+    "descricao": "<p>Encontro multissetorial entre microempresas fornecedoras e médias corporações compradoras. Coordenação de <b>Lívia Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento Happy Hour & Networking",
+    "lugar": "Praça Empreendedora",
+    "dataInicio": "2024-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conexão livre entre participantes e encerramento informal da edição com atração cultural potiguar.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

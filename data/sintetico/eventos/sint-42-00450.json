@@ -1,0 +1,141 @@
+{
+ "spec": {
+  "id": "sint-42-00450",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Brasília - DF",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 14,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:14+00:00",
+ "uso_tokens": {
+  "entrada": 672,
+  "saida": 2053
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jogos Universitários Candangos de Integração 2027",
+   "local_geral": "Centro Esportivo Universitário Darcy Ribeiro, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção das Delegações e Credenciamento",
+    "lugar": "Hall de Entrada do Ginásio Principal",
+    "dataInicio": "2027-05-15T08:00:00-03:00",
+    "dataFim": "2027-05-15T09:30:00-03:00",
+    "descricao": "<p>Confirmação de inscrições e entrega de crachás com coordenação de <b>Mariana Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2027-05-15T09:30:00-03:00",
+    "dataFim": "2027-05-15T10:30:00-03:00",
+    "descricao": "<p>Desfile das atléticas participantes e acendimento da pira simbólica pelo atleta convidado <b>Lucas Fontenele</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Fase Classificatória - Futsal Masculino",
+    "lugar": "Quadra Poliesportiva A",
+    "dataInicio": "2027-05-15T10:45:00-03:00",
+    "dataFim": "2027-05-15T12:30:00-03:00",
+    "descricao": "<p>Partidas da rodada de abertura sob a supervisão do árbitro geral <b>Rodrigo Peixoto</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Fase Classificatória - Voleibol Feminino",
+    "lugar": "Quadra Poliesportiva B",
+    "dataInicio": "2027-05-15T10:45:00-03:00",
+    "dataFim": "2027-05-15T12:30:00-03:00",
+    "descricao": "<p>Jogos da fase de grupos com mediação técnica da coordenadora <b>Patrícia Albuquerque</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2027-05-15T12:30:00-03:00",
+    "dataFim": "2027-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório de Educação Física",
+    "dataInicio": "2027-05-15T14:00:00-03:00",
+    "dataFim": "2027-05-15T15:30:00-03:00",
+    "descricao": "<p>Discussão temática com palestra de <b>Prof. Fernando Gusmão</b> intitulada <i>Psicologia do Esporte e Rendimento Universitário</i>.</p>",
+    "secao": "Atividades Formativas"
+   },
+   {
+    "nome": "Fase Classificatória - Futsal Masculino",
+    "lugar": "Quadra Poliesportiva A",
+    "dataInicio": "2027-05-15T15:45:00-03:00",
+    "dataFim": "2027-05-15T18:00:00-03:00",
+    "descricao": "<p>Segunda bateria de confrontos do torneio classificatório com equipe de arbitragem liderada por <b>Rodrigo Peixoto</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Fase Classificatória - Voleibol Feminino",
+    "lugar": "Quadra Poliesportiva B",
+    "dataInicio": "2027-05-15T15:45:00-03:00",
+    "dataFim": "2027-05-15T18:00:00-03:00",
+    "descricao": "<p>Disputas decisivas da fase de grupos acompanhadas por <b>Patrícia Albuquerque</b>.</p>",
+    "secao": "Torneios Coletivos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência dos Atletas",
+    "dataInicio": "2027-05-15T18:00:00-03:00",
+    "dataFim": "2027-05-15T18:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório de Educação Física",
+    "dataInicio": "2027-05-16T09:00:00-03:00",
+    "dataFim": "2027-05-16T10:30:00-03:00",
+    "descricao": "<p>Encontro formativo com apresentação da pesquisadora <b>Beatriz Mendonça</b> sobre <i>Gestão e Financiamento das Atléticas Universitárias</i>.</p>",
+    "secao": "Atividades Formativas"
+   },
+   {
+    "nome": "Semifinais do Torneio Integrado",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2027-05-16T10:45:00-03:00",
+    "dataFim": "2027-05-16T12:30:00-03:00",
+    "descricao": "<p>Jogos decisivos de futsal e voleibol sob coordenação de <b>Carlos Eduardo Ramos</b>.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2027-05-16T12:30:00-03:00",
+    "dataFim": "2027-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Finais das Modalidades",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2027-05-16T14:30:00-03:00",
+    "dataFim": "2027-05-16T17:00:00-03:00",
+    "descricao": "<p>Disputas das medalhas de ouro conduzidas pelo coordenador técnico <b>Carlos Eduardo Ramos</b>.</p>",
+    "secao": "Finais e Premiações"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2027-05-16T17:30:00-03:00",
+    "dataFim": "2027-05-16T19:00:00-03:00",
+    "descricao": "<p>Entrega de troféus e encerramento oficial com a presidente da comissão <b>Helena Vasconcelos</b>.</p>",
+    "secao": "Solenidades"
+   }
+  ]
+ }
+}

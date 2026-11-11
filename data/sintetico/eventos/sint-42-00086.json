@@ -1,0 +1,213 @@
+{
+ "spec": {
+  "id": "sint-42-00086",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 23,
+  "casos": [
+   "nomes_repetidos",
+   "descricoes_ricas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:04+00:00",
+ "uso_tokens": {
+  "entrada": 698,
+  "saida": 3292
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Ecologia e Conservação da Biodiversidade",
+   "local_geral": "Setor de Ciências Biológicas - Universidade Federal do Paraná (UFPR), Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Prédio Central",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2026-05-14T09:00:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do coordenador do programa, Prof. Dr. <b>Carlos Eduardo Guimarães</b>, e da pró-reitora de pesquisa Profa. Dra. <b>Helena Silveira Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T10:45:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Desafios contemporâneos para a preservação de remanescentes florestais da Floresta com Araucária sob cenários severos de mudanças climáticas globais</i>, proferida pelo Prof. Dr. <b>Marcos Vinícius Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-14T10:45:00-03:00",
+    "dataFim": "2026-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Anfiteatro 10",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Coordenação: Profa. Dra. <b>Renata Albuquerque Luz</b>.</p><p>Apresentação dos trabalhos de mestrado: <i>Dinâmica populacional de pequenos mamíferos em fragmentos urbanos</i>, por <b>Lucas Martins Faria</b>; <i>Diversidade genética de epífitas vasculares</i>, por <b>Mariana Costa Toledo</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Anfiteatro 12",
+    "dataInicio": "2026-05-14T11:15:00-03:00",
+    "dataFim": "2026-05-14T12:30:00-03:00",
+    "descricao": "<p>Coordenação: Prof. Dr. <b>Fernando Pires Viana</b>.</p><p>Trabalhos selecionados: <i>Efeitos de pesticidas sobre comunidades de macroinvertebrados bentônicos em bacias agrícolas</i>, por <b>Juliana Meireles Rocha</b>; <i>Padrões fenológicos de espécies arbóreas nativas</i>, apresentado por <b>Diego Zanin Nogueira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:30:00-03:00",
+    "dataFim": "2026-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Oficina prática com o tema <i>Modelagem estatística aplicada a dados de ecologia de comunidades utilizando pacotes avançados em linguagem R</i>, ministrada pela pesquisadora Dra. <b>Patrícia Godoi Camargo</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina de Escrita Acadêmica",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Ministrante: Profa. Dra. <b>Beatriz Mendonça Fontes</b>. Foco em estrutura de artigos em periódicos de alto impacto internacional.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-14T16:00:00-03:00",
+    "dataFim": "2026-05-14T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Painéis",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2026-05-14T16:30:00-03:00",
+    "dataFim": "2026-05-14T18:00:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas em andamento dos ingressantes. Avaliadores responsáveis: Prof. Dr. <b>Thiago Antunes Prado</b> e Profa. Dra. <b>Simone Valadares Dias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2026-05-14T18:15:00-03:00",
+    "dataFim": "2026-05-14T19:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias transdisciplinares para integração entre políticas públicas estaduais e conservação da sociobiodiversidade no Paraná</i>. Coordenador: Prof. Dr. <b>Rodrigo Barreto Lins</b>. Debatedores convidados: Dra. <b>Letícia Gouveia Castro</b> e Dr. <b>Sérgio Meira Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T10:00:00-03:00",
+    "descricao": "<p>Apresentação sob o tema <i>Bioacústica e monitoramento passivo de fauna</i> com o palestrante convidado Dr. <b>André Neves Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-15T10:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Anfiteatro 10",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Coordenadora: Profa. Dra. <b>Daniela Chaves Sobral</b>.</p><p>Trabalhos de doutorado: <i>Ecologia trófica de carnívoros no Parque Nacional do Iguaçu</i>, apresentado por <b>Gustavo Henrique Paz</b>; <i>Impacto da fragmentação sobre interações planta-polinizador</i>, por <b>Larissa Muniz Peixoto</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Oral 4",
+    "lugar": "Anfiteatro 12",
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Coordenador: Prof. Dr. <b>Marcelo Dantas Rangel</b>.</p><p>Trabalhos: <i>Uso de sensores remotos na estimativa de biomassa subterrânea</i>, por <b>Felipe Castanheira Gomes</b>; <i>Vulnerabilidade climática em espécies ameaçadas de anfíbios</i>, por <b>Aline Borges Correia</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T15:30:00-03:00",
+    "descricao": "<p>Segunda turma com enfoque em <i>Análise espacial e sistemas de informações geográficas aplicados ao zoneamento ecológico-econômico</i>, ministrada pelo Prof. Dr. <b>Gabriel Queiroz Santos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa de Debate Discente",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2026-05-15T13:30:00-03:00",
+    "dataFim": "2026-05-15T15:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Saúde mental na pós-graduação e perspectivas de inserção profissional</i>, com os representantes discentes <b>Bruna Sales Esteves</b> e <b>Igor Maia Pedrosa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-15T15:30:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Painéis",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2026-05-15T16:00:00-03:00",
+    "dataFim": "2026-05-15T17:15:00-03:00",
+    "descricao": "<p>Sessão de pôsteres com foco em projetos de conclusão de curso e pós-doutorado. Coordenação: Dra. <b>Carolina Ferraz Abreu</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2026-05-15T17:15:00-03:00",
+    "dataFim": "2026-05-15T18:30:00-03:00",
+    "descricao": "<p>Palestra de encerramento ministrada pelo Prof. Dr. <b>Otávio Mesquita Pinheiro</b>, sob o título <i>Restauração ecológica em larga escala no Brasil: lições aprendidas e horizontes futuros</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Bento Munhoz",
+    "dataInicio": "2026-05-15T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos melhores painéis e comunicações orais premiados pela comissão organizadora presidida pelo Prof. Dr. <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

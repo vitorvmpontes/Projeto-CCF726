@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-42-00261",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 9,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:01+00:00",
+ "uso_tokens": {
+  "entrada": 675,
+  "saida": 1360
+ },
+ "saida": {
+  "evento": {
+   "nome": "BH Tech & Code Summit 2027",
+   "local_geral": "Centro de Inovação e Tecnologia - CIT SENAI, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Welcome Coffee",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2027-05-21T08:00:00-03:00",
+    "dataFim": "2027-05-21T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Corporativa",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Apresentação sobre <i>Arquiteturas Resilientes em Nuvem Híbrida para Grandes Empresas</i>, conduzida por <b>Mariana Siqueira</b> da CloudCorp.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker - Bancada A",
+    "dataInicio": "2027-05-21T10:15:00-03:00",
+    "dataFim": "2027-05-21T11:45:00-03:00",
+    "descricao": "<p>Sessão de suporte e refinamento de arquitetura de software para as equipes do hackathon, com <b>Rodrigo Peixoto</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Hackathon BH Tech"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Sala Multiuso 1",
+    "dataInicio": "2027-05-21T10:15:00-03:00",
+    "dataFim": "2027-05-21T11:45:00-03:00",
+    "descricao": "<p>Debate com tema <i>Desafios Regulatórios e Ética em Modelos Preditivos no Brasil</i>, reunindo <b>Lucas Andrade</b>, <b>Beatriz Vianna</b> e mediação de <b>Gabriel Fontes</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Área de Food Trucks",
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker - Bancada B",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Segunda rodada de alinhamento com foco em viabilidade de produto e pitch, orientada por <b>Aline Nogueira</b> e <b>Felipe Castanheira</b>.</p>",
+    "secao": "Hackathon BH Tech"
+   },
+   {
+    "nome": "Palestra Corporativa",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Apresentação do tema <i>Segurança Cibernética Ofensiva em Aplicações Financeiras</i> com o engenheiro <b>Thiago Meireles</b> da CyberSafe Brasil.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Pitch de Projetos",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Apresentação final das soluções desenvolvidas durante o hackathon para a banca avaliadora composta por <b>Vanessa Prado</b>, <b>Marcos Guimarães</b> e <b>Renata Albuquerque</b>.</p>",
+    "secao": "Hackathon BH Tech"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2027-05-21T17:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos times vencedores do desafio tecnológico e encerramento com o coordenador-geral <b>Eduardo Farias</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

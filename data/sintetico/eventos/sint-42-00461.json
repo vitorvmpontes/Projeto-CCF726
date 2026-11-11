@@ -1,0 +1,174 @@
+{
+ "spec": {
+  "id": "sint-42-00461",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Belém - PA",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "titulos_longos",
+   "subtitulo_separado",
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:11+00:00",
+ "uso_tokens": {
+  "entrada": 708,
+  "saida": 2703
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Amazônico de Inteligência Artificial e Aplicações Práticas",
+   "local_geral": "Parque de Ciência e Tecnologia Guamá (PCT Guamá), Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Prédio Central",
+    "dataInicio": "2027-04-15T08:00:00-03:00",
+    "dataFim": "2027-04-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-04-15T09:00:00-03:00",
+    "dataFim": "2027-04-15T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenação-geral do evento liderada por <b>Dra. Simone Alencar</b> e <b>Prof. Carlos Marinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-04-15T09:30:00-03:00",
+    "dataFim": "2027-04-15T10:45:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>Impactos ecológicos e desafios operacionais do processamento de modelos de linguagem de grande porte em ecossistemas computacionais distribuídos na Amazônia Legal</i>, ministrada pelo pesquisador <b>Dr. Marcelo Furtado Pinheiro</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2027-04-15T10:45:00-03:00",
+    "dataFim": "2027-04-15T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-04-15T11:15:00-03:00",
+    "dataFim": "2027-04-15T12:45:00-03:00",
+    "descricao": "<p>Primeira parte do curso <i>Redes Neurais Convolucionais para Classificação de Imagens de Satélite</i> com <b>Profa. Juliana Barreto</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2027-04-15T11:15:00-03:00",
+    "dataFim": "2027-04-15T12:45:00-03:00",
+    "descricao": "<p>Treinamento prático sob o tema <i>Ajuste Fino de Modelos Fundacionais Abertos Utilizando Bibliotecas em Python</i>, facilitado por <b>Eng. Thiago Meireles</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-04-15T12:45:00-03:00",
+    "dataFim": "2027-04-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Prática Hands-on",
+    "lugar": "Laboratório de Inovação Aberta",
+    "dataInicio": "2027-04-15T14:00:00-03:00",
+    "dataFim": "2027-04-15T16:00:00-03:00",
+    "descricao": "<p>Atividade imersiva de prototipagem rápida orientada pelo desenvolvedor <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Oficinas Aplicadas"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Sala de Treinamento A",
+    "dataInicio": "2027-04-15T14:00:00-03:00",
+    "dataFim": "2027-04-15T16:00:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Técnicas avançadas de compressão quantizada de modelos profundos para implementação eficiente em dispositivos de borda com baixa conectividade</i>, apresentada por <b>Msc. Renata Guedes</b>.</p>",
+    "secao": "Oficinas Aplicadas"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-04-15T16:15:00-03:00",
+    "dataFim": "2027-04-15T18:00:00-03:00",
+    "descricao": "<p>Continuação e conclusão de <i>Redes Neurais Convolucionais para Classificação de Imagens de Satélite</i> com <b>Profa. Juliana Barreto</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-04-16T08:30:00-03:00",
+    "dataFim": "2027-04-16T09:45:00-03:00",
+    "descricao": "<p>Conferência <i>Visão Computacional no Monitoramento da Biodiversidade Fluvial</i> apresentada pelo pesquisador <b>Dr. Arthur Nogueira</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer das Águas",
+    "dataInicio": "2027-04-16T09:45:00-03:00",
+    "dataFim": "2027-04-16T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-04-16T10:15:00-03:00",
+    "dataFim": "2027-04-16T12:30:00-03:00",
+    "descricao": "<p>Abordagem sobre <i>Engenharia de Prompt e Aplicações com RAG para Bases Jurídicas</i>, instruído por <b>Dra. Mariana Bittencourt</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2027-04-16T10:15:00-03:00",
+    "dataFim": "2027-04-16T12:30:00-03:00",
+    "descricao": "<p>Apresentação do minicurso <i>Detecção de Anomalias em Séries Temporais Hidrológicas</i> conduzido pelo instrutor <b>Prof. Lucas Pantoja</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-04-16T12:30:00-03:00",
+    "dataFim": "2027-04-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Prática Hands-on",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T15:45:00-03:00",
+    "descricao": "<p>Segunda edição do laboratório prático para participantes da tarde, com suporte do desenvolvedor <b>Rodrigo Vasconcelos</b> e mediação de <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Oficinas Aplicadas"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-04-16T14:00:00-03:00",
+    "dataFim": "2027-04-16T15:45:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Fundamentos metodológicos e diretrizes de governança ética para a criação de sistemas inteligentes voltados à sustentabilidade bioeconômica regional</i> conduzida pela pesquisadora <b>Profa. Elena Castelo Branco</b>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Encerramento e Premiação de Ideias",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2027-04-16T16:00:00-03:00",
+    "dataFim": "2027-04-16T17:30:00-03:00",
+    "descricao": "<p>Anúncio dos destaques de projetos acadêmicos e fechamento conduzido por <b>Dra. Simone Alencar</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

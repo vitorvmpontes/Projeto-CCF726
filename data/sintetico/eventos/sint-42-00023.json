@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00023",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Curitiba - PR",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:00+00:00",
+ "uso_tokens": {
+  "entrada": 656,
+  "saida": 1104
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Congresso Brasileiro de Engenharia de Recursos Hídricos e Saneamento Ambiental",
+   "local_geral": "Centro Politécnico da UFPR, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2023-11-17T08:30:00-03:00",
+    "dataFim": "2023-11-17T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Desafios contemporâneos para a governança das bacias hidrográficas sob a perspectiva das mudanças climáticas globais e da segurança hídrica regional</i>, ministrada pelo <b>Prof. Dr. Marcos Vinicius Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Multiuso 102",
+    "dataInicio": "2023-11-17T10:30:00-03:00",
+    "dataFim": "2023-11-17T12:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos científicos sob coordenação da <b>Dra. Camila Nogueira Furtado</b>. Artigo em destaque: <i>Avaliação da eficiência de biorreatores de membrana aplicados ao tratamento de efluentes sanitários urbanos com ênfase na remoção de fármacos</i>, por <b>Lucas Medeiros Duarte</b> e <b>Beatriz Mendonça Ramos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Multiuso 104",
+    "dataInicio": "2023-11-17T10:30:00-03:00",
+    "dataFim": "2023-11-17T12:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos de modelagem hidrológica coordenada pelo <b>Prof. Roberto Fagundes Cordeiro</b>. Artigo em destaque: <i>Simulação hidrodinâmica bidimensional em áreas úmidas urbanas</i>, apresentado por <b>Juliana Costa Valença</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-11-17T12:00:00-03:00",
+    "dataFim": "2023-11-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Professor Ulysses de Campos",
+    "dataInicio": "2023-11-17T13:30:00-03:00",
+    "dataFim": "2023-11-17T15:00:00-03:00",
+    "descricao": "<p>Apresentação do estudo especial intitulado <i>Modelagem matemática integrada de escoamento superficial urbano e sistemas de drenagem sustentável como estratégia resiliente para mitigação de inundações</i>, conduzida pelo <b>Eng. Fernando Augusto Paes</b> e pela <b>Dra. Helena Barcellos Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis e Encerramento",
+    "lugar": "Hall do Prédio de Engenharia Hidráulica",
+    "dataInicio": "2023-11-17T15:30:00-03:00",
+    "dataFim": "2023-11-17T17:30:00-03:00",
+    "descricao": "<p>Exposição dos pôsteres acadêmicos avaliados pela comissão liderada pelo <b>Dr. Thiago Rezende Sampaio</b>, seguida pela cerimônia de premiação dos melhores trabalhos e encerramento do evento.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

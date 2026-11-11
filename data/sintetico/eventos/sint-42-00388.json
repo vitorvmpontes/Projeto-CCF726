@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00388",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:39+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 1063
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio de Pós-Graduação em Biologia Celular e Molecular da UFRGS",
+   "local_geral": "Prédio 43422, Campus do Vale - UFRGS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Crachás",
+    "lugar": "Hall do Prédio 43422",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2027-05-19T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura solene dos trabalhos com palestra da Profa. Dra. <b>Helena Bonciani Nader</b> intitulada <i>Avanços nas terapias celulares e os desafios da pós-graduação no Brasil</i>.</p><p>Coordenação da mesa: Dr. <b>Rogério Margis</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 102 - Bloco IV",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos discentes de mestrado. Coordenador: Prof. <b>Diogo Onofre de Souza</b>.</p><p>Trabalhos:</p><p>1. <i>Caracterização transcriptômica em linhagens tumorais de glioma</i> por <b>Camila Duarte Ferreira</b> e <b>Arthur Silveira Ramos</b>.</p><p>2. <i>Análise proteômica de vesículas extracelulares no estresse oxidativo</i> por <b>Mateus Goulart da Silva</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Pausa para Café e Painéis",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": "2027-05-20T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 102 - Bloco IV",
+    "dataInicio": "2027-05-20T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das pesquisas em nível de doutorado. Moderação da Profa. Dra. <b>Guilhermina Rodrigues de Oliveira</b>.</p><p>Trabalhos selecionados:</p><p>1. <i>Mecanismos epigenéticos envolvidos na resistência a quimioterápicos</i> apresentado por <b>Juliana Pires Machado</b>.</p><p>2. <i>Vias de sinalização celular na regeneração do tecido nervoso periférico</i> apresentado por <b>Lucas Meneghetti Klein</b> e <b>Ana Cristina Webber</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

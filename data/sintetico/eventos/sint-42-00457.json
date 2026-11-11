@@ -1,0 +1,163 @@
+{
+ "spec": {
+  "id": "sint-42-00457",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Niterói - RJ",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 17,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:27:53+00:00",
+ "uso_tokens": {
+  "entrada": 635,
+  "saida": 2442
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Niterói Game & Code Jam",
+   "local_geral": "Campus Gragoatá - UFF, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in dos Hackers",
+    "lugar": "Hall de Entrada do Bloco H",
+    "dataInicio": "2026-04-18T08:30:00-03:00",
+    "dataFim": "2026-04-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial e Divulgação do Tema",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2026-04-18T09:30:00-03:00",
+    "dataFim": "2026-04-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação das regras gerais, critérios de avaliação e anúncio do tema secreto da maratona com o coordenador <b>Prof. Carlos Eduardo Mendonça</b> e mediação de <b>Beatriz Alvarenga</b>.</p>",
+    "secao": "Cerimônias"
+   },
+   {
+    "nome": "Formação de Equipes e Brainstorming",
+    "lugar": null,
+    "dataInicio": "2026-04-18T10:30:00-03:00",
+    "dataFim": "2026-04-18T11:30:00-03:00",
+    "descricao": "<p>Momento reservado para participantes solo encontrarem times e alinharem o escopo conceitual dos projetos com suporte de <b>Lucas Fontes</b>.</p>",
+    "secao": "Desenvolvimento"
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-04-18T11:30:00-03:00",
+    "dataFim": "2026-04-18T12:30:00-03:00",
+    "descricao": "<p>Oficina prática <i>Prototipagem Rápida em Godot Engine para Game Jams</i>, ministrada por <b>Helena Vasconcelos</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-04-18T12:30:00-03:00",
+    "dataFim": "2026-04-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2026-04-18T13:30:00-03:00",
+    "dataFim": "2026-04-18T14:30:00-03:00",
+    "descricao": "<p>Treinamento <i>Arquitetura de Microsserviços e APIs Efêmeras sob Pressão</i> conduzido por <b>Thiago Meireles</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Início da Maratona de Desenvolvimento",
+    "lugar": "Espaço Maker & Convivência",
+    "dataInicio": "2026-04-18T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Início oficial da contagem regressiva para desenvolvimento dos jogos e aplicações.</p>",
+    "secao": "Desenvolvimento"
+   },
+   {
+    "nome": "Plantão de Mentoria Técnica",
+    "lugar": null,
+    "dataInicio": "2026-04-18T16:00:00-03:00",
+    "dataFim": "2026-04-18T19:00:00-03:00",
+    "descricao": "<p>Atendimento individualizado para resolução de bugs e modelagem com os mentores <b>Juliana Pires</b>, <b>Felipe Coutinho</b> e <b>Rodrigo Paiva</b>.</p>",
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Lanche Noturno",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-04-18T20:00:00-03:00",
+    "dataFim": "2026-04-18T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Madrugada Dev e Playtests Rápidos",
+    "lugar": null,
+    "dataInicio": "2026-04-19T00:00:00-03:00",
+    "dataFim": "2026-04-19T06:00:00-03:00",
+    "descricao": "<p>Espaço livre para iteração, testes cruzados de mecânicas e integração de código entre equipes durante a madrugada.</p>",
+    "secao": "Desenvolvimento"
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-04-19T07:30:00-03:00",
+    "dataFim": "2026-04-19T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria de Pitch e Apresentação",
+    "lugar": null,
+    "dataInicio": "2026-04-19T09:00:00-03:00",
+    "dataFim": "2026-04-19T11:00:00-03:00",
+    "descricao": "<p>Orientação sobre estrutura de pitch deck e storytelling com a especialista em negócios <b>Renata Albuquerque</b>.</p>",
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Congelamento de Código (Code Freeze)",
+    "lugar": null,
+    "dataInicio": "2026-04-19T12:00:00-03:00",
+    "dataFim": "2026-04-19T12:15:00-03:00",
+    "descricao": "<p>Encerramento rigoroso dos envios de commits nos repositórios oficiais e builds na plataforma itch.io sob supervisão de <b>Marcos Vinicius Serra</b>.</p>",
+    "secao": "Desenvolvimento"
+   },
+   {
+    "nome": "Almoço dos Competidores",
+    "lugar": null,
+    "dataInicio": "2026-04-19T12:15:00-03:00",
+    "dataFim": "2026-04-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Demonstração e Avaliação da Banca",
+    "lugar": "Salão Nobre do Bloco H",
+    "dataInicio": "2026-04-19T13:30:00-03:00",
+    "dataFim": "2026-04-19T16:30:00-03:00",
+    "descricao": "<p>Bancas avaliadoras realizam testes in loco nos jogos e protótipos com a presença dos jurados <b>Aline Guimarães</b>, <b>Diego Siqueira</b> e <b>Vanessa Brandão</b>.</p>",
+    "secao": "Banca e Demonstrações"
+   },
+   {
+    "nome": "Apresentação dos Finalistas",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2026-04-19T16:45:00-03:00",
+    "dataFim": "2026-04-19T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos cinco melhores projetos do evento, com pitches de 5 minutos avaliados pelo comitê técnico liderado por <b>Prof. Carlos Eduardo Mendonça</b>.</p>",
+    "secao": "Banca e Demonstrações"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2026-04-19T18:00:00-03:00",
+    "dataFim": "2026-04-19T19:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores das categorias Melhor Jogo, Melhor Código e Escolha da Comunidade, com fala de agradecimento por <b>Beatriz Alvarenga</b>.</p>",
+    "secao": "Cerimônias"
+   }
+  ]
+ }
+}

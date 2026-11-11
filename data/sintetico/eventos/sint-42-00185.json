@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-42-00185",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Vitória - ES",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:45+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 1164
+ },
+ "saida": {
+  "evento": {
+   "nome": "12º Encontro de Espiritualidade e Ação Solidária Comunitária",
+   "local_geral": "Centro Comunitário São Pedro e Paróquia Nossa Senhora das Graças, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Círculo de Oração Matinal",
+    "lugar": "Capela Menino Jesus",
+    "dataInicio": "2026-05-15T07:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de recolhimento inicial e preces pelas famílias da comunidade, conduzido pela <b>Irmã Teresa Vasconcelos</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Oficina Temática 1",
+    "lugar": "Sala de Encontros Fraternos",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação e práticas sob o tema <i>Metodologias práticas e colaborativas para o acolhimento pastoral integrado de famílias em vulnerabilidade extrema nas periferias urbanas contemporâneas</i>, ministrada pelo assistente social <b>Marcos Aurélio Figueira</b> e pela <b>Dra. Cecília Queiroz</b>.</p>",
+    "secao": "Oficinas de Formação Solidária"
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": "Refeitório Solidário",
+    "dataInicio": "2026-05-15T12:00:00-03:00",
+    "dataFim": "2026-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Temática 2",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T17:00:00-03:00",
+    "descricao": "<p>Trabalho conjunto abordando <i>Caminhos espirituais e comunitários para a resolução pacífica de conflitos interpessoais e valorização da cidadania em comunidades litorâneas tradicionais</i>, com o facilitador comunitário <b>Frei Bento Albuquerque</b> e a mediadora <b>Renata Silveira Diniz</b>.</p>",
+    "secao": "Oficinas de Formação Solidária"
+   },
+   {
+    "nome": "Círculo de Oração Matinal",
+    "lugar": "Tenda da Convivência",
+    "dataInicio": "2026-05-17T07:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Segundo encontro de oração focado na juventude e na esperança pastoral, com animação do <b>Padre Luciano Sampaio</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Palestra Comunitária",
+    "lugar": "Auditório Dom João Batista",
+    "dataInicio": "2026-05-17T10:00:00-03:00",
+    "dataFim": "2026-05-17T11:45:00-03:00",
+    "descricao": "<p>Conferência especial tratando sobre <i>O resgate dos valores fraternos como instrumento transformador de inclusão e apoio a idosos desamparados nas grandes cidades brasileiras</i>, proferida pela socióloga <b>Maria Aparecida Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa Solene de Encerramento",
+    "lugar": "Nave Principal da Paróquia",
+    "dataInicio": "2026-05-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Celebração litúrgica em ação de graças pelos trabalhos comunitários, presidida pelo <b>Bispo Dom Geraldo Peçanha</b> com participação do coral das crianças regido pela maestrina <b>Helena Esteves</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   }
+  ]
+ }
+}

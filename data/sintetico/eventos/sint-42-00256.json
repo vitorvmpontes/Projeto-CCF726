@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-42-00256",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Salvador - BA",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:23+00:00",
+ "uso_tokens": {
+  "entrada": 666,
+  "saida": 1117
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Baiano de Direito Processual e Inovação",
+   "local_geral": "Centro de Convenções de Salvador, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-15T08:00:00-03:00",
+    "dataFim": "2026-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Abertura",
+    "lugar": null,
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios da Jurisdição Constitucional na Era Digital</i></p><p>Debatedores: <b>Dr. Marcelo Tavares</b>, <b>Dra. Clarissa Peixoto</b> e <b>Des. Otávio Guimarães</b>.</p>",
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2026-05-15T10:30:00-03:00",
+    "dataFim": "2026-05-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": null,
+    "dataInicio": "2026-05-15T11:00:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial e a Prova Digital no Processo Civil</i></p><p>Expositores: <b>Prof. Roberto Meireles</b> e <b>Profa. Camila Albuquerque</b>. Coordenação: <b>Dra. Juliana Sampaio</b>.</p>",
+    "secao": "Manhã de Debates"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:30:00-03:00",
+    "dataFim": "2026-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Auditório Jorge Amado",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Precedentes Vinculantes e Segurança Jurídica nos Tribunais Superiores</i></p><p>Palestrantes: <b>Dra. Fernanda Castelo Branco</b> e <b>Dr. Thiago Lins</b>. Moderação de <b>Prof. Eduardo Matos</b>.</p>",
+    "secao": "Painéis Temáticos da Tarde"
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": null,
+    "dataInicio": "2026-05-15T16:15:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Meios Adequados de Resolução de Conflitos e Meio Ambiente de Negócios</i></p><p>Participantes: <b>Dr. André Fonseca</b>, <b>Dra. Letícia Valente</b> e <b>Dr. Bruno Cerqueira</b>.</p>",
+    "secao": "Painéis Temáticos da Tarde"
+   }
+  ]
+ }
+}

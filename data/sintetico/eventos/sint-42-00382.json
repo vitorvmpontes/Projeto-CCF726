@@ -1,0 +1,309 @@
+{
+ "spec": {
+  "id": "sint-42-00382",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Florestal - MG",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 35,
+  "casos": [
+   "intervalos",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:37+00:00",
+ "uso_tokens": {
+  "entrada": 669,
+  "saida": 5067
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Institucional de Autoavaliação e Governança da UFV-Florestal",
+   "local_geral": "Campus UFV - Florestal, MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Crachás",
+    "lugar": "Hall do Prédio Principal",
+    "dataInicio": "2027-05-17T08:00:00-03:00",
+    "dataFim": "2027-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": "Acolhimento e Abertura"
+   },
+   {
+    "nome": "Cerimônia de Instalação dos Trabalhos",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-17T09:00:00-03:00",
+    "dataFim": "2027-05-17T10:00:00-03:00",
+    "descricao": "<p>Abertura solene com a presidência da CPA e autoridades acadêmicas da instituição.</p>",
+    "secao": "Acolhimento e Abertura"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-05-17T10:00:00-03:00",
+    "dataFim": "2027-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-17T10:30:00-03:00",
+    "dataFim": "2027-05-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>O papel indutor da autoavaliação no planejamento plurianual das instituições públicas</i>. Conferencista: <b>Dra. Simone Rezende Duarte</b> (INEP).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-17T12:00:00-03:00",
+    "dataFim": "2027-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Cecília Meireles",
+    "dataInicio": "2027-05-17T13:30:00-03:00",
+    "dataFim": "2027-05-17T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Instrumentos avaliativos do SINAES: convergências entre cursos técnicos e superiores</i>. Participação de <b>Prof. Roberto Menescal Guimarães</b> e <b>Profa. Carla Vasconcelos</b>. Mediação de <b>Dr. Hélio Bastos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço Multiuso",
+    "dataInicio": "2027-05-17T15:30:00-03:00",
+    "dataFim": "2027-05-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação das iniciativas locais de avaliação contínua elaboradas pelos colegiados. Coordenação: <b>Profa. Vanessa Marinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Cecília Meireles",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": "2027-05-18T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>A escuta estudantil como pilar para melhoria da infraestrutura didática</i>. Debatedores convidados: <b>Lucas Peixoto Antunes</b> e <b>Dra. Mariana Prado</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Pausa com Lanche",
+    "lugar": null,
+    "dataInicio": "2027-05-18T10:15:00-03:00",
+    "dataFim": "2027-05-18T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Cecília Meireles",
+    "dataInicio": "2027-05-18T10:45:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios na adesão do corpo técnico-administrativo aos processos de avaliação interna</i>. Com <b>Valéria Gomes Figueiredo</b> e <b>Marcos Tadeu Chaves</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-18T12:00:00-03:00",
+    "dataFim": "2027-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Metodológica 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-18T13:30:00-03:00",
+    "dataFim": "2027-05-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Elaboração e validação de questionários avaliativos semiestruturados</i>. Ministrada por <b>Prof. Anderson Teles</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Oficina Metodológica 2",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2027-05-18T13:30:00-03:00",
+    "dataFim": "2027-05-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Tratamento de dados qualitativos e análise de conteúdo em relatórios da CPA</i>. Instrutora: <b>Dra. Fernanda Lins Albuquerque</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Roda de Conversa Intersetorial",
+    "lugar": null,
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": "2027-05-18T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Comunicação pública e disseminação dos resultados da autoavaliação</i>. Dinamizadora: <b>Renata Silveira Campos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 2",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-19T08:30:00-03:00",
+    "dataFim": "2027-05-19T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>O PDI e os planos de gestão: alinhando metas acadêmicas aos relatórios da CPA</i>. Painelistas: <b>Prof. Gilberto Arantes</b> e <b>Profa. Letícia Ramos Moreira</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Confraternização",
+    "lugar": null,
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Cecília Meireles",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Indicadores de sustentabilidade e responsabilidade socioambiental na avaliação institucional</i>. Palestrante: <b>Dr. Cláudio Vinícius Esteves</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:00:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": null,
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:00:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas afirmativas e permanência: o que dizem os dados da CPA?</i> Palestrante: <b>Profa. Joana Dark de Oliveira</b>.</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Grupo de Trabalho Temático 1",
+    "lugar": "Sala de Reuniões 2",
+    "dataInicio": "2027-05-19T15:15:00-03:00",
+    "dataFim": "2027-05-19T17:15:00-03:00",
+    "descricao": "<p>Eixo: <i>Dimensão 1: Missão e Plano de Desenvolvimento Institucional</i>. Relatoria: <b>Bruno Matos Sales</b>.</p>",
+    "secao": "Grupos de Trabalho (GTs)"
+   },
+   {
+    "nome": "Grupo de Trabalho Temático 2",
+    "lugar": "Sala de Reuniões 3",
+    "dataInicio": "2027-05-19T15:15:00-03:00",
+    "dataFim": "2027-05-19T17:15:00-03:00",
+    "descricao": "<p>Eixo: <i>Dimensão 2: Políticas para o Ensino, Pesquisa e Extensão</i>. Relatoria: <b>Dra. Thaís Fontoura</b>.</p>",
+    "secao": "Grupos de Trabalho (GTs)"
+   },
+   {
+    "nome": "Grupo de Trabalho Temático 3",
+    "lugar": "Sala de Reuniões 4",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Dimensão 7: Comunicação com a Sociedade e Transparência</i>. Relatoria: <b>Prof. Flávio HenrIque Dias</b>.</p>",
+    "secao": "Grupos de Trabalho (GTs)"
+   },
+   {
+    "nome": "Grupo de Trabalho Temático 4",
+    "lugar": "Sala de Reuniões 5",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Dimensão 8: Planejamento e Avaliação da Infraestrutura Física</i>. Relatoria: <b>Eng. Patrícia Diniz Ramos</b>.</p>",
+    "secao": "Grupos de Trabalho (GTs)"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 3",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inclusão e acessibilidade nos espaços universitários: diagnósticos e perspectivas</i>. Convidados: <b>Prof. Marcelo Brandão</b> e <b>Eliane Soares de Matos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Indicadores",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Construção de painéis de Business Intelligence (BI) para acompanhamento da evasão discente</i>. Condução: <b>Prof. Rodrigo Faro Macedo</b>.</p>",
+    "secao": "Oficinas de Trabalho"
+   },
+   {
+    "nome": "Apresentação de Casos Exitosos",
+    "lugar": null,
+    "dataInicio": "2027-05-20T16:15:00-03:00",
+    "dataFim": "2027-05-20T17:45:00-03:00",
+    "descricao": "<p>Relatos de boas práticas adotadas por cursos de graduação a partir dos relatórios institucionais. Coordenação: <b>Dra. Cecília Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Alinhamento das Relatorias",
+    "lugar": "Sala da CPA",
+    "dataInicio": "2027-05-21T08:00:00-03:00",
+    "dataFim": "2027-05-21T09:15:00-03:00",
+    "descricao": "<p>Consolidação prévia das diretrizes e recomendações levantadas pelos GTs com <b>Profa. Beatriz Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-21T09:15:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Autoavaliação e acreditação internacional: novos horizontes para o ensino técnico e tecnológico</i>. Participantes: <b>Dr. Arthur Cordeiro Mendes</b> e <b>Profa. Laura Xavier</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final de Deliberação",
+    "lugar": "Salão Nobre",
+    "dataInicio": "2027-05-21T10:45:00-03:00",
+    "dataFim": "2027-05-21T12:30:00-03:00",
+    "descricao": "<p>Leitura, debate e aprovação do documento de recomendações do VII Fórum. Presidência da mesa: <b>Prof. Antônio Carlos Belchior</b> e <b>Beatriz Nogueira</b>.</p>",
+    "secao": "Encerramento"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:30:00-03:00",
+    "dataFim": "2027-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação do Coral Universitário",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:00:00-03:00",
+    "descricao": "<p>Execução de repertório regional mineiro sob regência do maestro <b>Geraldo Vasconcelos</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Sessão Solene de Encerramento",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2027-05-21T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das menções honrosas e homologação da Carta de Florestal 2027 com <b>Prof. Antônio Carlos Belchior</b>.</p>",
+    "secao": "Encerramento"
+   }
+  ]
+ }
+}

@@ -1,0 +1,205 @@
+{
+ "spec": {
+  "id": "sint-42-00275",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "João Pessoa - PB",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 22,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:30+00:00",
+ "uso_tokens": {
+  "entrada": 700,
+  "saida": 3750
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência da Computação e Sistemas Digitais (CBCCSD 2027)",
+   "local_geral": "Centro de Convenções Poeta Ronaldo Cunha Lima, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-08-18T08:00:00-03:00",
+    "dataFim": "2027-08-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Master Tambaú",
+    "dataInicio": "2027-08-18T09:00:00-03:00",
+    "dataFim": "2027-08-18T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da coordenadora-geral <b>Profa. Dra. Juliana Figueirêdo</b> e autoridades locais convidadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Master Tambaú",
+    "dataInicio": "2027-08-18T10:00:00-03:00",
+    "dataFim": "2027-08-18T11:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>O avanço dos sistemas ciber-físicos inteligentes aplicados ao monitoramento ambiental e mitigação de desastres climáticos em escala global</i>, ministrada pelo pesquisador <b>Dr. Marcos Aurelio Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Foyer Master",
+    "dataInicio": "2027-08-18T11:30:00-03:00",
+    "dataFim": "2027-08-18T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Mandacaru A",
+    "dataInicio": "2027-08-18T14:00:00-03:00",
+    "dataFim": "2027-08-18T16:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Prof. Roberto Meireles</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Otimização de rotas logísticas usando algoritmos bioinspirados em matrizes esparsas</i>, por <b>Lucas Cavalcante</b> e <b>Aline Guimarães</b>.</p><p>2. <i>Classificação de padrões multimodais com redes neurais profundas autoajustáveis</i>, por <b>Diego Silveira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Mandacaru B",
+    "dataInicio": "2027-08-18T14:00:00-03:00",
+    "dataFim": "2027-08-18T16:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Profa. Camila Albuquerque</b>.</p><p>Artigos:</p><p>1. <i>Segurança em arquiteturas baseadas em microsserviços sob ataques distribuídos de negação de serviço</i>, por <b>Gabriel Prado</b> e <b>Beatriz Mendonça</b>.</p><p>2. <i>Avaliação comparativa de protocolos criptográficos pós-quânticos em dispositivos móveis</i>, por <b>Carlos Henrique Paiva</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições Cabo Branco",
+    "dataInicio": "2027-08-18T16:30:00-03:00",
+    "dataFim": "2027-08-18T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de iniciação científica e protótipos de graduação. Coordenação geral por <b>Prof. Daniel Farias</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem e implementação prática de arquiteturas distribuídas tolerantes a falhas utilizando computação em névoa e contêineres inteligentes</i>, ministrada pelos instrutores <b>Thiago Montenegro</b> e <b>Renata Siqueira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:30:00-03:00",
+    "descricao": "<p>Instrutor: <b>Felipe Vasconcelos</b>. Tema: <i>Testes de estresse e penetração em redes industriais IoT</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Foyer Master",
+    "dataInicio": "2027-08-19T10:30:00-03:00",
+    "dataFim": "2027-08-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Master Tambaú",
+    "dataInicio": "2027-08-19T11:00:00-03:00",
+    "dataFim": "2027-08-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas públicas e ética no desenvolvimento de inteligência artificial generativa no setor público brasileiro</i>. Moderador: <b>Prof. Vinicius Morais</b>. Debatedores: <b>Dra. Clarice Peixoto</b> e <b>Dr. Henrique Bastos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Mandacaru A",
+    "dataInicio": "2027-08-19T14:00:00-03:00",
+    "dataFim": "2027-08-19T16:00:00-03:00",
+    "descricao": "<p>Coordenação da sessão: <b>Prof. André Caldas</b>.</p><p>Trabalhos:</p><p>1. <i>Framework para verificação formal de contratos inteligentes baseados em Ethereum</i>, de autoria de <b>Mariana Rios</b> e <b>Paulo Sérgio Macedo</b>.</p><p>2. <i>Avaliação empírica de ferramentas para teste estático de código em larga escala</i>, apresentado por <b>Fernando Castilho</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala Mandacaru B",
+    "dataInicio": "2027-08-19T14:00:00-03:00",
+    "dataFim": "2027-08-19T16:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Profa. Vanessa Diniz</b>.</p><p>Artigos:</p><p>1. <i>Mineração de repositórios de software aplicada à detecção prévia de débitos técnicos</i>, por <b>Rodrigo Maia</b>.</p><p>2. <i>Interfaces conversacionais acessíveis para usuários com baixa visão: um estudo controlado</i>, pelos autores <b>Helena Braga</b> e <b>Sofia Amaral</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall de Exposições Cabo Branco",
+    "dataInicio": "2027-08-19T16:30:00-03:00",
+    "dataFim": "2027-08-19T18:00:00-03:00",
+    "descricao": "<p>Segunda rodada de apresentações com foco em trabalhos em andamento de programas de pós-graduação. Coordenadora da sessão: <b>Profa. Cecília Xavier</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5",
+    "lugar": "Sala Mandacaru A",
+    "dataInicio": "2027-08-20T08:30:00-03:00",
+    "dataFim": "2027-08-20T10:30:00-03:00",
+    "descricao": "<p>Sessão sob coordenação de <b>Prof. George Antunes</b>.</p><p>Artigos:</p><p>1. <i>Predição de consumo energético em data centers utilizando ensemble de regressores não lineares</i>, apresentado por <b>Leonardo Toledo</b>.</p><p>2. <i>Alocação dinâmica de largura de banda em redes 6G orientadas a serviços críticos</i>, por <b>Clara Nascimento</b> e <b>Otávio Vianna</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 6",
+    "lugar": "Sala Mandacaru B",
+    "dataInicio": "2027-08-20T08:30:00-03:00",
+    "dataFim": "2027-08-20T10:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Profa. Débora Leitão</b>.</p><p>Apresentações:</p><p>1. <i>Compressão sem perdas de imagens hiperespectrais baseada em representações esparsas adaptativas</i>, por <b>Alexandre Ramos</b>.</p><p>2. <i>Algoritmos genéticos distribuídos para escalonamento de processos em grades computacionais</i>, por <b>Luciana Esteves</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Foyer Master",
+    "dataInicio": "2027-08-20T10:30:00-03:00",
+    "dataFim": "2027-08-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 3",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-08-20T11:00:00-03:00",
+    "dataFim": "2027-08-20T12:30:00-03:00",
+    "descricao": "<p>Oficina prática: <i>Pipelines de aprendizado contínuo para detecção de anomalias em séries temporais complexas</i>, conduzida pelo instrutor <b>Rafael Teles</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Conferência Plenária",
+    "lugar": "Auditório Master Tambaú",
+    "dataInicio": "2027-08-20T14:00:00-03:00",
+    "dataFim": "2027-08-20T15:30:00-03:00",
+    "descricao": "<p>Apresentação: <i>Impactos sociotécnicos e desafios contemporâneos da integração em larga escala entre modelos de linguagem e sistemas autônomos industriais</i>, com o conferencista <b>Prof. Dr. Samuel Nogueira</b> e apresentação por <b>Profa. Juliana Figueirêdo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia da Sociedade",
+    "lugar": "Auditório Master Tambaú",
+    "dataInicio": "2027-08-20T15:30:00-03:00",
+    "dataFim": "2027-08-20T16:30:00-03:00",
+    "descricao": "<p>Reunião geral ordinária com os associados da entidade representativa. Pauta conduzida pelo presidente da associação <b>Dr. Walter Cordeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Artigos e Encerramento",
+    "lugar": "Auditório Master Tambaú",
+    "dataInicio": "2027-08-20T16:30:00-03:00",
+    "dataFim": "2027-08-20T17:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores artigos do simpósio pelos avaliadores <b>Prof. Roberto Meireles</b> e <b>Profa. Camila Albuquerque</b>, seguida das considerações finais da comissão organizadora.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": "Terraço Panorâmico",
+    "dataInicio": "2027-08-20T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coquetel de encerramento do congresso.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

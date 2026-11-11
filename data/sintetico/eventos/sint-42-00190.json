@@ -1,0 +1,179 @@
+{
+ "spec": {
+  "id": "sint-42-00190",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Macapá - AP",
+  "ano": 2027,
+  "n_dias": 5,
+  "n_atividades": 19,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:24+00:00",
+ "uso_tokens": {
+  "entrada": 646,
+  "saida": 3399
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Amapá 2027",
+   "local_geral": "Centro de Convenções de Macapá - Macapá, AP"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Hall Central de Entrada",
+    "dataInicio": "2027-08-18T14:00:00-03:00",
+    "dataFim": "2027-08-18T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura Oficial",
+    "lugar": "Arena Sebrae Principal",
+    "dataInicio": "2027-08-18T18:30:00-03:00",
+    "dataFim": "2027-08-18T20:00:00-03:00",
+    "descricao": "<p>Abertura solene com presença de autoridades locais e lideranças empresariais. Boas-vindas conduzidas por <b>Josiel Alcolumbre</b> e pronunciamento especial de <b>Alcilene Cavalcante</b> sobre o panorama dos pequenos negócios no Platô das Guianas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Arena Sebrae Principal",
+    "dataInicio": "2027-08-18T20:15:00-03:00",
+    "dataFim": "2027-08-18T21:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Bioeconomia e Inovação na Amazônia Setentrional</i>. Coordenador da mesa: <b>Raimundo Nonato Castro</b>. Participantes: <b>Mariana Pantoja</b> com a exposição <i>Cadeias de Valor do Açaí e Castanha</i>, e <b>Dr. Charles Tocantins</b> apresentando <i>Fitocosméticos e Potencial Biotecnológico</i>.</p>",
+    "secao": "Grandes Debates"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala Tucunaré - Bloco B",
+    "dataInicio": "2027-08-19T09:00:00-03:00",
+    "dataFim": "2027-08-19T12:00:00-03:00",
+    "descricao": "<p>Capacitação com o tema <i>Gestão Financeira Descomplicada para Microempreendedores Individuais</i>, ministrada pelo consultor <b>Tiago Mendonça</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Sessão de Apresentação de Casos",
+    "lugar": "Auditório Meio do Mundo",
+    "dataInicio": "2027-08-19T10:00:00-03:00",
+    "dataFim": "2027-08-19T12:30:00-03:00",
+    "descricao": "<p>Apresentação de iniciativas de sucesso do varejo local. Coordenação de <b>Cláudia Beltrão</b>. Trabalhos apresentados: <i>Transformação Digital em Mercadinhos de Bairro</i> por <b>Felipe Sarney</b>, <i>Logística Fluvial Integrada no Rio Amazonas</i> por <b>Samir Maciel</b> e <i>Marketing de Conteúdo para Artesãos Ribeirinhos</i> por <b>Ana Júlia Gurjão</b>.</p>",
+    "secao": "Mostra de Negócios"
+   },
+   {
+    "nome": "Espaço Networking e Negócios",
+    "lugar": "Pavilhão Integrado",
+    "dataInicio": "2027-08-19T12:30:00-03:00",
+    "dataFim": "2027-08-19T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala Tucunaré - Bloco B",
+    "dataInicio": "2027-08-19T14:30:00-03:00",
+    "dataFim": "2027-08-19T17:30:00-03:00",
+    "descricao": "<p>Treinamento focado em <i>Vendas pelo WhatsApp e Estratégias Omnichannel</i>. Facilitadora: <b>Renata Guedes</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Sebrae Principal",
+    "dataInicio": "2027-08-19T18:00:00-03:00",
+    "dataFim": "2027-08-19T19:30:00-03:00",
+    "descricao": "<p>Apresentação magna intitulada <i>O Futuro do E-commerce Transfronteiriço: Conectando Amapá e Guiana Francesa</i>, com o palestrante internacional <b>Jean-Luc Bertrand</b>.</p>",
+    "secao": "Grandes Debates"
+   },
+   {
+    "nome": "Rodada de Crédito e Financiamento",
+    "lugar": "Espaço Conexões Financeiras",
+    "dataInicio": "2027-08-20T09:30:00-03:00",
+    "dataFim": "2027-08-20T12:30:00-03:00",
+    "descricao": "<p>Encontro de empresários com agentes do Basa, BNDES e cooperativas de crédito. Coordenação executiva de <b>Márcio Lacerda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Espaço Startup Amapá",
+    "dataInicio": "2027-08-20T14:30:00-03:00",
+    "dataFim": "2027-08-20T17:30:00-03:00",
+    "descricao": "<p>Banca examinadora composta por investidores anjo e especialistas. Avaliadores: <b>Rodrigo Vianna</b> e <b>Sabrina Coutinho</b>. Pitches apresentados: <i>AgroDrone Macapá: Monitoramento de Culturas em Várzea</i> por <b>Diego Santos</b>, <i>AppBalsa: Otimização do Transporte Aquaviário</i> por <b>Larissa Nobre</b> e <i>BioWaste: Reciclagem de Cascas de Camarão e Caranguejo</i> por <b>Victor Hugo Penafort</b>.</p>",
+    "secao": "Inovação e Tecnologia"
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": "Auditório Meio do Mundo",
+    "dataInicio": "2027-08-20T18:00:00-03:00",
+    "dataFim": "2027-08-20T19:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Turismo Sustentável e Gastronomia Tucujú</i>. Coordenadora: <b>Heloísa Matos</b>. Participação especial do chef <b>Geovane Cardoso</b> com o relato <i>Valorização dos Ingredientes Amazônicos na Alta Gastronomia</i> e da pesquisadora <b>Tânia Mara Fonseca</b> abordando <i>Ecoturismo de Base Comunitária no Bailique</i>.</p>",
+    "secao": "Grandes Debates"
+   },
+   {
+    "nome": "Mostra de Práticas Sustentáveis",
+    "lugar": "Auditório Meio do Mundo",
+    "dataInicio": "2027-08-21T09:00:00-03:00",
+    "dataFim": "2027-08-21T12:00:00-03:00",
+    "descricao": "<p>Sessão técnica de apresentação de projetos comunitários e corporativos. Coordenação de <b>Patrícia Lobato</b>. Trabalhos apresentados: <i>Manejo Florestal e Selos Verdes</i> por <b>Everaldo Ferreira</b>, <i>Energia Solar Compartilhada no Arquipélago do Marajó e Foz do Amazonas</i> por <b>Bruna Guimarães</b> e <i>Empreendedorismo Feminino na Coleta Seletiva Urbana</i> por <b>Jocilene Trindade</b>.</p>",
+    "secao": "Mostra de Negócios"
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Sala Pirarucu - Bloco C",
+    "dataInicio": "2027-08-21T10:00:00-03:00",
+    "dataFim": "2027-08-21T12:00:00-03:00",
+    "descricao": "<p>Minicurso sobre <i>Embalagens Sustentáveis e Design de Rótulos para Pequenos Produtores</i>, orientado pelo designer <b>Lucas Wanderley</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Talk Show",
+    "lugar": "Arena Sebrae Principal",
+    "dataInicio": "2027-08-21T15:00:00-03:00",
+    "dataFim": "2027-08-21T17:00:00-03:00",
+    "descricao": "<p>Conversa descontraída sobre trajetórias de sucesso. Apresentação conduzida por <b>Carla Perez Ribeiro</b>. Convidados: <b>Wellington Dias de Souza</b> e <b>Eunice Baía</b> compartilhando <i>Histórias de Resiliência: Do Comércio Ambulante ao Porte Médio</i>.</p>",
+    "secao": "Inovação e Tecnologia"
+   },
+   {
+    "nome": "Festival Gastronômico e Cultural dos Pequenos Produtores",
+    "lugar": "Praça Externa de Convivência",
+    "dataInicio": "2027-08-21T18:00:00-03:00",
+    "dataFim": "2027-08-21T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 4",
+    "lugar": "Sala Pirarucu - Bloco C",
+    "dataInicio": "2027-08-22T09:30:00-03:00",
+    "dataFim": "2027-08-22T11:30:00-03:00",
+    "descricao": "<p>Workshop com foco em <i>Planejamento Tributário Estratégico para 2028</i>, ministrado pelo contador tributarista <b>Waldir Silva Santos</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Demoday da Aceleração Amazônia",
+    "lugar": "Espaço Startup Amapá",
+    "dataInicio": "2027-08-22T11:00:00-03:00",
+    "dataFim": "2027-08-22T13:30:00-03:00",
+    "descricao": "<p>Apresentação final das 3 empresas aceleradas pelo programa regional. Coordenação de <b>Camila Brito</b>. Projetos apresentados: <i>SmartAçaí: Monitoramento da Cadeia de Frio</i> por <b>Sérgio Ramos Neto</b>, <i>Guardiões da Floresta: Rastreabilidade por Blockchain</i> por <b>Monique Albuquerque</b> e <i>Biotintas da Terra: Pigmentos Naturais Orgânicos</i> por <b>Danilo Queiroz</b>.</p>",
+    "secao": "Inovação e Tecnologia"
+   },
+   {
+    "nome": "Premiação Melhores Negócios do Amapá",
+    "lugar": "Arena Sebrae Principal",
+    "dataInicio": "2027-08-22T16:00:00-03:00",
+    "dataFim": "2027-08-22T18:00:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do Prêmio Sebrae de Competitividade 2027. Condução dos mestres de cerimônia <b>Geraldo Corrêa</b> e <b>Simone Valente</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Praça Externa de Convivência",
+    "dataInicio": "2027-08-22T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de encerramento com o grupo regional de marabaixo liderado pela cantora <b>Patrícia Bastos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

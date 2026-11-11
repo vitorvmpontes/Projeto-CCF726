@@ -1,0 +1,307 @@
+{
+ "spec": {
+  "id": "sint-42-00263",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 35,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:32+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 4891
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Encontro Diocesano de Fé e Cidadania",
+   "local_geral": "Centro Pastoral São João Paulo II, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Comunitário",
+    "lugar": "Pátio São Francisco",
+    "dataInicio": "2023-08-18T07:30:00-03:00",
+    "dataFim": "2023-08-18T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T10:00:00-03:00",
+    "descricao": "<p>Celebração presidida por <b>Dom Gil Antônio Moreira</b> com animação do <b>Coral Santa Cecília</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Painel Temático 1",
+    "lugar": "Auditório Dom Justino",
+    "dataInicio": "2023-08-18T10:15:00-03:00",
+    "dataFim": "2023-08-18T11:45:00-03:00",
+    "descricao": "<p>Reflexão sobre <i>Fraternidade e Superação da Fome nas Periferias</i> conduzida por <b>Dra. Mariana Vasconcelos</b> e mediada pelo <b>Padre Luciano Aguiar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Solidário",
+    "lugar": null,
+    "dataInicio": "2023-08-18T12:00:00-03:00",
+    "dataFim": "2023-08-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala de Catequese 01",
+    "dataInicio": "2023-08-18T13:30:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Oficina prática de <i>Hortas Comunitárias e Segurança Alimentar</i> ministrada por <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Catequese 02",
+    "dataInicio": "2023-08-18T13:30:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Comunicação Popular nas Paróquias</i> com <b>Juliana Ribeiro Brandão</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": null,
+    "dataInicio": "2023-08-18T13:30:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Atenção à População em Situação de Rua</i> liderada pela <b>Irmã Teresa Cristina Rocha</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Pátio São Francisco",
+    "dataInicio": "2023-08-18T15:30:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": null,
+    "dataInicio": "2023-08-18T16:00:00-03:00",
+    "dataFim": "2023-08-18T17:30:00-03:00",
+    "descricao": "<p>Encontro formativo com o tema <i>Juventude, Espiritualidade e Participação Comunitária</i> facilitado por <b>Felipe Santiago</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Círculo Bíblico",
+    "lugar": "Capela Menino Jesus",
+    "dataInicio": "2023-08-18T17:30:00-03:00",
+    "dataFim": "2023-08-18T18:30:00-03:00",
+    "descricao": "<p>Meditação sobre <i>O Evangelho nos Desafios Urbanos de Juiz de Fora</i> orientada pela <b>Teóloga Bernadete Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural e Sarau da Esperança",
+    "lugar": "Auditório Dom Justino",
+    "dataInicio": "2023-08-18T19:30:00-03:00",
+    "dataFim": "2023-08-18T21:30:00-03:00",
+    "descricao": "<p>Apresentação de música e poesia com o grupo musical comunitário coordenado por <b>Mestre Gonzaga</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Oração da Manhã (Laudes)",
+    "lugar": "Capela Menino Jesus",
+    "dataInicio": "2023-08-19T07:30:00-03:00",
+    "dataFim": "2023-08-19T08:00:00-03:00",
+    "descricao": "<p>Oração comunitária conduzida pelo <b>Diácono Marcos Rezende</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Café Fraterno",
+    "lugar": "Pátio São Francisco",
+    "dataInicio": "2023-08-19T08:00:00-03:00",
+    "dataFim": "2023-08-19T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Temática",
+    "lugar": "Auditório Dom Justino",
+    "dataInicio": "2023-08-19T08:30:00-03:00",
+    "dataFim": "2023-08-19T10:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Economia Solidária e Ecologia Integral</i> proferida pelo <b>Prof. Roberto Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-08-19T10:00:00-03:00",
+    "dataFim": "2023-08-19T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Sala de Catequese 01",
+    "dataInicio": "2023-08-19T10:20:00-03:00",
+    "dataFim": "2023-08-19T12:00:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Mediação de Conflitos na Comunidade Local</i> com <b>Cláudia Matos Mendonça</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Oficina 5",
+    "lugar": "Sala de Catequese 02",
+    "dataInicio": "2023-08-19T10:20:00-03:00",
+    "dataFim": "2023-08-19T12:00:00-03:00",
+    "descricao": "<p>Instruções práticas em <i>Gestão Financeira para Projetos Sociais</i> apresentadas por <b>Henrique Alvarenga</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Oficina 6",
+    "lugar": null,
+    "dataInicio": "2023-08-19T10:20:00-03:00",
+    "dataFim": "2023-08-19T12:00:00-03:00",
+    "descricao": "<p>Oficina de <i>Música Litúrgica e Expressão Popular</i> coordenada por <b>Regina Coeli de Assis</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Almoço Solidário",
+    "lugar": null,
+    "dataInicio": "2023-08-19T12:00:00-03:00",
+    "dataFim": "2023-08-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático 2",
+    "lugar": "Auditório Dom Justino",
+    "dataInicio": "2023-08-19T13:30:00-03:00",
+    "dataFim": "2023-08-19T15:00:00-03:00",
+    "descricao": "<p>Mesa expositiva abordando <i>Dignidade Humana e Direitos no Bairro</i> com participação de <b>Dra. Fabiana Duarte</b> e <b>Antônio Carlos Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Feira de Trocas e Economia Solidária",
+    "lugar": "Pátio São Francisco",
+    "dataInicio": "2023-08-19T15:00:00-03:00",
+    "dataFim": "2023-08-19T16:30:00-03:00",
+    "descricao": "<p>Espaço de troca de saberes, produtos artesanais e sementes crioulas articulado por <b>Maria Helena Guedes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": null,
+    "dataInicio": "2023-08-19T16:30:00-03:00",
+    "dataFim": "2023-08-19T18:00:00-03:00",
+    "descricao": "<p>Diálogo sobre <i>O Papel da Mulher nas Lideranças Comunitárias</i> coordenado por <b>Sônia Regina Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Terço Luminoso",
+    "lugar": "Jardim das Oliveiras",
+    "dataInicio": "2023-08-19T18:15:00-03:00",
+    "dataFim": "2023-08-19T19:15:00-03:00",
+    "descricao": "<p>Momento orante pelas famílias e pelas vítimas de violência animado pelo <b>Grupo Mães que Oram pelos Filhos</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Jantar Compartilhado",
+    "lugar": "Refeitório Central",
+    "dataInicio": "2023-08-19T19:30:00-03:00",
+    "dataFim": "2023-08-19T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Vigília Ecumênica pelos Direitos Humanos",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-19T20:30:00-03:00",
+    "dataFim": "2023-08-19T22:00:00-03:00",
+    "descricao": "<p>Ato inter-religioso com presença do <b>Pastor André Luiz Carvalho</b> e do <b>Padre Geraldo de Freitas</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Caminhada Penitencial e pela Paz",
+    "lugar": null,
+    "dataInicio": "2023-08-20T07:00:00-03:00",
+    "dataFim": "2023-08-20T08:00:00-03:00",
+    "descricao": "<p>Concentração e caminhada pelas ruas do entorno pedindo paz nas comunidades, guiada por <b>Padre João Batista Soares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Comunitário",
+    "lugar": "Pátio São Francisco",
+    "dataInicio": "2023-08-20T08:00:00-03:00",
+    "dataFim": "2023-08-20T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 7",
+    "lugar": "Sala de Catequese 01",
+    "dataInicio": "2023-08-20T08:45:00-03:00",
+    "dataFim": "2023-08-20T10:15:00-03:00",
+    "descricao": "<p>Capacitação sobre <i>Cuidados com a Casa Comum e Reciclagem Básica</i> oferecida por <b>Valéria Cristina Ramos</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Oficina 8",
+    "lugar": "Sala de Catequese 02",
+    "dataInicio": "2023-08-20T08:45:00-03:00",
+    "dataFim": "2023-08-20T10:15:00-03:00",
+    "descricao": "<p>Orientações práticas de <i>Primeiros Socorros em Ambientes Comunitários</i> com o socorrista <b>Bruno Montenegro</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Oficina 9",
+    "lugar": null,
+    "dataInicio": "2023-08-20T08:45:00-03:00",
+    "dataFim": "2023-08-20T10:15:00-03:00",
+    "descricao": "<p>Oficina de <i>Contação de Histórias e Evangelização Infantil</i> ministrada por <b>Patrícia Nogueira</b>.</p>",
+    "secao": "Oficinas de Ação Social"
+   },
+   {
+    "nome": "Plenária Diocesana",
+    "lugar": "Auditório Dom Justino",
+    "dataInicio": "2023-08-20T10:30:00-03:00",
+    "dataFim": "2023-08-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação das propostas das oficinas e aprovação do documento final sob a coordenação de <b>Lúcia Helena Barbosa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Solidário",
+    "lugar": null,
+    "dataInicio": "2023-08-20T12:00:00-03:00",
+    "dataFim": "2023-08-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Momento de Louvor e Animação",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-20T13:30:00-03:00",
+    "dataFim": "2023-08-20T14:30:00-03:00",
+    "descricao": "<p>Apresentação de cantos comunitários animada pelo <b>Ministério Renascer</b>.</p>",
+    "secao": "Programação Cultural"
+   },
+   {
+    "nome": "Missa de Envio e Bênção Final",
+    "lugar": "Nave Principal",
+    "dataInicio": "2023-08-20T14:30:00-03:00",
+    "dataFim": "2023-08-20T16:00:00-03:00",
+    "descricao": "<p>Celebração eucarística de encerramento e envio dos agentes de pastoral presidida pelo <b>Monsenhor Luiz Carlos de Paula</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Abraço da Paz e Despedida",
+    "lugar": null,
+    "dataInicio": "2023-08-20T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização final entre as comunidades paroquiais de Juiz de Fora e região.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

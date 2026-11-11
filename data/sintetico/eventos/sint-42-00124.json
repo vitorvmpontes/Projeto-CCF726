@@ -1,0 +1,83 @@
+{
+ "spec": {
+  "id": "sint-42-00124",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:11+00:00",
+ "uso_tokens": {
+  "entrada": 630,
+  "saida": 1222
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Jornada Uberlandense de Terapia Intensiva e Emergências Médicas",
+   "local_geral": "Centro de Convenções Center Convention, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Triângulo",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T08:45:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos com o presidente da jornada, Dr. <b>Marcelo Guimarães Resende</b>, e a diretora clínica do HC-UFU, Dra. <b>Patrícia Silveira Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Simpósio Satélite de Sepse",
+    "lugar": "Auditório Triângulo",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Discussão clínica com o Dr. <b>Fernando Antunes Prado</b> abordando <i>Atualizações no Bundle de 1 Hora e Manejo Hemodinâmico Precoce no Choque Séptico</i>.</p>",
+    "secao": "Manhã Científica"
+   },
+   {
+    "nome": "Workshop de Via Aérea Difícil",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Treinamento prático coordenado pela Profa. Dra. <b>Renata Nogueira Vasconcelos</b> focado em <i>Técnicas Avançadas de Videolaringoscopia e Cricotireoidostomia de Emergência</i>.</p>",
+    "secao": "Manhã Científica"
+   },
+   {
+    "nome": "Painel Multidisciplinar",
+    "lugar": "Auditório Triângulo",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Desmame Ventilatório Difícil e Reabilitação Motora Precoce</i> com o fisioterapeuta intensivista Dr. <b>Luciano Pires Camargo</b> e a médica intensivista Dra. <b>Beatriz Mendes Carvalho</b>.</p>",
+    "secao": "Manhã Científica"
+   },
+   {
+    "nome": "Curso Pré-Congresso de POCUS",
+    "lugar": "Sala de Habilidades 2",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Instrução hands-on sobre <i>Ultrassonografia Point-of-Care no Paciente Crítico: Protocolos BLUE e FOCUS</i>, ministrada pelo Dr. <b>Gustavo Henrique Medeiros</b>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Curso Teórico de Suporte Hemodinâmico Avançado",
+    "lugar": "Auditório Paranaíba",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Módulo ministrado pelo Dr. <b>Thiago Barros Alencar</b> versando sobre <i>Monitorização Minimamente Invasiva do Débito Cardíaco e Uso Racional de Inotrópicos</i>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Triângulo",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega dos prêmios aos melhores relatos de caso apresentados e considerações finais pela Dra. <b>Patrícia Silveira Fonseca</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

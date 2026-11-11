@@ -1,0 +1,133 @@
+{
+ "spec": {
+  "id": "sint-42-00411",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 13,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:17+00:00",
+ "uso_tokens": {
+  "entrada": 694,
+  "saida": 2178
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Brasileiro de Ciência de Dados e Inteligência Computacional (CBCDIC 2027)",
+   "local_geral": "Centro de Convenções SulAmérica, Rio de Janeiro - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-18T08:00:00-03:00",
+    "dataFim": "2027-05-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Modelos de Linguagem e Representação Semântica",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-18T10:00:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos aceitos sob a coordenação do Prof. Dr. <b>Marcos Vinicius de Souza</b>. Trabalhos: <i>Otimização de hiperparâmetros em arquiteturas neurais esparsas</i> por <b>Juliana Ribeiro Gomes</b>; <i>Extração automática de entidades nomeadas em prontuários eletrônicos</i> por <b>Carlos Eduardo Paiva</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Oficina de Métodos Estatísticos Avançados para Validação Cruzada Robusta em Cenários com Dados Altamente Desbalanceados",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T17:30:00-03:00",
+    "descricao": "<p>Capacitação prática ministrada pela Profa. Dra. <b>Fernanda Bittencourt</b> com foco no uso de pacotes estatísticos livres para tratamento de matrizes esparsas.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": null,
+    "dataInicio": "2027-05-18T17:30:00-03:00",
+    "dataFim": "2027-05-18T19:00:00-03:00",
+    "descricao": "<p>Exibição e discussão de pôsteres científicos. Avaliação conduzida pela Dra. <b>Letícia Nogueira Prado</b> e pelo pesquisador <b>Thiago Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra sobre Impactos Regulatórios da Inteligência Artificial em Sistemas Críticos no Cenário Sociotécnico Contemporâneo Brasileiro e Internacional",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:30:00-03:00",
+    "descricao": "<p>Palestra de abertura do dia ministrada pelo Dr. <b>Henrique Albuquerque Pires</b> com debate mediado pela Profa. <b>Carla Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2: Visão Computacional e Processamento de Imagens",
+    "lugar": "Sala Corcovado",
+    "dataInicio": "2027-05-19T11:00:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Sessão de comunicação de artigos. Apresentações de <i>Detecção precoce de pragas agrícolas via drones autônomos</i> por <b>Rodrigo Farias</b> e <i>Segmentação semântica de imagens de ressonância magnética</i> por <b>Aline Guimarães</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": null,
+    "dataInicio": "2027-05-19T16:30:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Segunda rodada de exposição de trabalhos no formato pôster sob coordenação do Prof. <b>Danilo Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3: Aprendizado por Reforço e Otimização",
+    "lugar": "Sala Corcovado",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": "<p>Coordenação do Prof. <b>Gustavo Barcellos</b>. Apresentação dos artigos selecionados para publicação nos anais do evento.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Oficina de Implementação de Arquiteturas Transformers Eficientes para Dispositivos Móveis e Sensores Industriais de Baixo Custo",
+    "lugar": null,
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Atividade prática ministrada pelo especialista <b>Lucas Vianna Fontes</b> voltada para quantização de redes neurais profundas.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Reunião de Editores e Avaliadores de Periódicos",
+    "lugar": null,
+    "dataInicio": "2027-05-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro fechado coordenado pela Profa. Dra. <b>Renata Meireles</b> para definir diretrizes editoriais do próximo biênio.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 4: Mineração de Dados em Larga Escala",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Coordenação: Profa. <b>Patrícia Antunes</b>. Artigo destaque: <i>Processamento distribuído de fluxos de dados heterogêneos em tempo real</i> apresentado por <b>Marcelo Dantas Brandão</b>.</p>",
+    "secao": "Sessões Técnicas de Artigos"
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": "Espaço Maracanã",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Sessão final com a entrega de menções honrosas aos melhores pôsteres, liderada por <b>Sérgio Ramos da Costa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral e Cerimônia de Premiação",
+    "lugar": "Auditório Guanabara",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento oficial com eleição da comissão diretiva e entrega do prêmio de melhor artigo com a participação do presidente da associação <b>Fábio Esteves</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

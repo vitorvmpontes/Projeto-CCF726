@@ -1,0 +1,228 @@
+{
+ "spec": {
+  "id": "sint-42-00030",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Niterói - RJ",
+  "ano": 2026,
+  "n_dias": 5,
+  "n_atividades": 25,
+  "casos": [
+   "intervalos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:43+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 3738
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Congresso Fluminense de Direito Constitucional e Processo",
+   "local_geral": "Faculdade de Direito da UFF, Campus do Valonguinho, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall do Prédio Central",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-18T09:30:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial conduzida pelo Diretor <b>Marcus Vinicius Peixoto</b> e representantes da OAB/Niterói.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Abertura",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Os 38 anos da Constituição Cidadã e a Jurisdição Constitucional em Tempos de Crise</i> com a Profa. Dra. <b>Helena Boechat Silveira</b> e o Min. <b>Carlos Eduardo Mansur</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-18T12:00:00-03:00",
+    "dataFim": "2026-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda I",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T16:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Precedentes Judiciais Vinculantes e Segurança Jurídica no Processo Civil</i>, presidida por <b>Mariana Gusmão Couto</b>, com exposições de <b>Rogério Trindade Filho</b> e <b>Luciana Dantas Beltrão</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-18T16:30:00-03:00",
+    "dataFim": "2026-05-18T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda II",
+    "lugar": null,
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T11:30:00-03:00",
+    "descricao": "<p>Análise de <i>Tutela Coletiva e Litígios Estruturais no Âmbito Fluminense</i>, com apresentações do Defensor Público <b>Thiago Rezende Ramos</b> e da Promotora de Justiça <b>Adriana Capanema Salles</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-19T11:30:00-03:00",
+    "dataFim": "2026-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Habeas Corpus",
+    "lugar": "Sala de Audiências Simuladas",
+    "dataInicio": "2026-05-19T13:30:00-03:00",
+    "dataFim": "2026-05-19T16:00:00-03:00",
+    "descricao": "<p>Exercício de redação penal com foco em <i>Redação e Estratégia nos Tribunais Superiores</i>, ministrado pelo advogado <b>Bernardo Faria Albuquerque</b>.</p>",
+    "secao": "Atividades Práticas"
+   },
+   {
+    "nome": "Coffee Break da Tarde",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-19T16:00:00-03:00",
+    "dataFim": "2026-05-19T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda III",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-19T16:30:00-03:00",
+    "dataFim": "2026-05-19T18:30:00-03:00",
+    "descricao": "<p>Painel sobre <i>Direito Fundamental à Privacidade e Proteção de Dados nas Relações Estatais</i> com os professores <b>Felipe Sarmento Neves</b> e <b>Gisele Drummond Maia</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Mesa-Redonda IV",
+    "lugar": null,
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T11:00:00-03:00",
+    "descricao": "<p>Painel com foco em <i>Federalismo Fiscal e a Reforma Tributária no Contexto dos Municípios</i>, mediado por <b>Claudia Regina Vianna</b> e palestras de <b>Otávio Mendes Barreto</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Lançamento de Obras Jurídicas",
+    "lugar": "Foyer da Biblioteca Setorial",
+    "dataInicio": "2026-05-20T11:00:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": "<p>Sessão de autógrafos com os autores <b>Vinicius Magalhães Costa</b> apresentando <i>Teoria dos Recursos Ordinários</i> e <b>Renata Pimentel Goes</b> com <i>Controle Difuso Revisitado</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-20T12:00:00-03:00",
+    "dataFim": "2026-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Laboratório de Resolução Adequada de Conflitos",
+    "lugar": "Sala 104",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T16:30:00-03:00",
+    "descricao": "<p>Simulação prática intitulada <i>Mediação Aplicada a Conflitos Urbanísticos e Desapropriações</i> conduzida por <b>Juliana Bastos Freire</b>.</p>",
+    "secao": "Atividades Práticas"
+   },
+   {
+    "nome": "Mesa-Redonda V",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-20T16:30:00-03:00",
+    "dataFim": "2026-05-20T18:30:00-03:00",
+    "descricao": "<p>Debate em torno de <i>Justiça Restaurativa e Garantismo Penal</i> com <b>Eduardo Brandão Fontes</b> e a juíza <b>Beatriz Valença de Meireles</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Mesa-Redonda VI",
+    "lugar": null,
+    "dataInicio": "2026-05-21T09:30:00-03:00",
+    "dataFim": "2026-05-21T11:45:00-03:00",
+    "descricao": "<p>Discussão temática sobre <i>Inteligência Artificial e Decisão Judicial Automatizada</i>, conduzida por <b>Lucas Villela Pacheco</b> e <b>Camila Moretzsohn</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T11:45:00-03:00",
+    "dataFim": "2026-05-21T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Escrita Científica Jurídica",
+    "lugar": "Laboratório de Informática II",
+    "dataInicio": "2026-05-21T13:45:00-03:00",
+    "dataFim": "2026-05-21T16:00:00-03:00",
+    "descricao": "<p>Treinamento para publicação acadêmica intitulado <i>Técnicas Metodológicas e Artigos de Impacto em Periódicos Qualis A</i> ministrado pelo Prof. <b>Danilo Siqueira Torres</b>.</p>",
+    "secao": "Atividades Práticas"
+   },
+   {
+    "nome": "Intervalo Vespertino",
+    "lugar": null,
+    "dataInicio": "2026-05-21T16:00:00-03:00",
+    "dataFim": "2026-05-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda VII",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-21T16:30:00-03:00",
+    "dataFim": "2026-05-21T18:45:00-03:00",
+    "descricao": "<p>Apresentação e análise de <i>Constitucionalismo Ambiental e Emergências Climáticas</i> com os pesquisadores <b>Raquel Guimarães Horta</b> e <b>Fabrício Lacerda Guidine</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Mesa-Redonda VIII",
+    "lugar": "Auditório Evaristo da Veiga",
+    "dataInicio": "2026-05-22T09:30:00-03:00",
+    "dataFim": "2026-05-22T11:30:00-03:00",
+    "descricao": "<p>Reflexões sobre <i>Inovação Democrática e Participação Cidadã nos Tribunais</i> com exposições de <b>Sérgio Nogueira de Castro</b> e coordenação de <b>Patrícia Leão Frota</b>.</p>",
+    "secao": "Mesas-Redondas Institucionais"
+   },
+   {
+    "nome": "Brunch de Despedida",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2026-05-22T11:30:00-03:00",
+    "dataFim": "2026-05-22T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-22T13:00:00-03:00",
+    "dataFim": "2026-05-22T15:00:00-03:00",
+    "descricao": "<p>Leitura da Carta de Niterói redigida pela comissão acadêmica liderada por <b>Aline Borges Quintana</b> e pronunciamento do presidente da mesa <b>Marcus Vinicius Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Encerramento",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2026-05-22T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação especial do <i>Quarteto de Cordas da UFF</i> regido pelo maestro <b>Paulo Renato Soares</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

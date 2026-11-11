@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00414",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "intervalos",
+   "descricoes_ricas",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:26+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 1202
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Simpósio de Pós-Graduação em Ecologia e Conservação da Biodiversidade",
+   "local_geral": "Campus Central da Universidade Federal do Rio Grande do Sul (UFRGS), Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Material",
+    "lugar": null,
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Apresentação Oral",
+    "lugar": "Anfiteatro II - Prédio 11102",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Mariana Fagundes Becker</b> (UFRGS).</p><p>Trabalhos apresentados:</p><p>1. <i>Efeitos da fragmentação florestal na dispersão de sementes no Pampa</i>, por <b>Lucas Dornelles da Silva</b>.</p><p>2. <i>Diversidade filogenética de anuros em áreas úmidas subtropicais</i>, por <b>Camila Ortiz Ribeiro</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Espaço Café e Painéis",
+    "lugar": "Hall do Prédio 11102",
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": null,
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Tema: Cenários Futuros da Restauração Ecológica no Sul do Brasil.</p><p>Debatedores convidados: <b>Prof. Dr. Henrique Zanin</b> (UFSM) e <b>Profa. Dra. Tânia de Medeiros Alencar</b> (PUCRS). Moderação: <b>Dr. Roberto Vasconcellos Pinto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-18T12:30:00-03:00",
+    "dataFim": "2026-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Sessão de Apresentação Oral",
+    "lugar": "Sala 104 - Bloco C",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T16:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Prof. Dr. Vinícius Guimarães Pires</b> (UFRGS).</p><p>Trabalhos apresentados:</p><p>1. <i>Dinâmica populacional de pequenos mamíferos em gradientes altitudinais na Mata Atlântica</i>, por <b>Juliana Nogueira Duarte</b>.</p><p>2. <i>Impactos da urbanização na estrutura trófica de macroinvertebrados bentônicos</i>, por <b>Gabriel Sampaio Neves</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Espaço Café e Painéis",
+    "lugar": "Pátio Central de Convivência",
+    "dataInicio": "2026-05-18T16:00:00-03:00",
+    "dataFim": "2026-05-18T16:40:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   }
+  ]
+ }
+}

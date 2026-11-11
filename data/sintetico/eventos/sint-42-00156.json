@@ -1,0 +1,294 @@
+{
+ "spec": {
+  "id": "sint-42-00156",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Recife - PE",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 33,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim",
+   "sem_local",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:40+00:00",
+ "uso_tokens": {
+  "entrada": 696,
+  "saida": 4608
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Pernambucano de Docentes da Educação Básica",
+   "local_geral": "Centro Integrado de Formação Docente e Cidadania, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Acolhimento dos Participantes",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": "<p>Distribuição de crachás, pastas institucionais e materiais de apoio pedagógico aos congressistas inscritos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Teatro Beberibe",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença dos coordenadores <b>Marcos Aurélio da Silva</b> e <b>Cássia Valéria Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Teatro Beberibe",
+    "dataInicio": "2024-05-15T10:15:00-03:00",
+    "dataFim": "2024-05-15T11:45:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Os caminhos metodológicos da inclusão escolar e os impactos pedagógicos cotidianos na aprendizagem significativa da infância urbana contemporânea</i>, ministrada pela <b>Profa. Dra. Heloísa Medeiros</b>.</p>",
+    "secao": "Conferências Temáticas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:00:00-03:00",
+    "dataFim": "2024-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 102 - Bloco A",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Oficina prática <i>Jogos Didáticos e Letramento no Ciclo de Alfabetização</i>, coordenada pelo <b>Prof. Me. Rodrigo Santana</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala 104 - Bloco A",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Uso de Tecnologias Móveis no Ensino Fundamental</i>, ministrada pela <b>Profa. Juliana Fontes</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Laboratório de Ciências",
+    "dataInicio": "2024-05-15T13:30:00-03:00",
+    "dataFim": "2024-05-15T15:30:00-03:00",
+    "descricao": "<p>Exercícios com o tema <i>Investigação Científica na Escola com Materiais de Baixo Custo</i>, com orientação do <b>Prof. Dr. Cláudio Bezerra</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-05-15T15:30:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Interativa",
+    "lugar": null,
+    "dataInicio": "2024-05-15T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate ampliado com mediação da <b>Esp. Renata Figueiredo</b> sobre as vivências interdisciplinares nos anos iniciais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-05-15T17:30:00-03:00",
+    "dataFim": "2024-05-15T18:30:00-03:00",
+    "descricao": "<p>Apresentação do grupo musical docente com coordenação de <b>Thiago Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Teatro Beberibe",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Painel <i>Gestão Democrática e Participação Comunitária</i>, com <b>Profa. Dra. Sandra Cavalcanti</b> e <b>Prof. José Anchieta Ramos</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Intervalo Matutino",
+    "lugar": null,
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Teatro Beberibe",
+    "dataInicio": "2024-05-16T10:20:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Diversidade Cultural e Enfrentamento às Desigualdades em Ambientes Educacionais</i>, mediada por <b>Aline Guimarães</b>, com presença do <b>Prof. Fernando Tavares</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática de Relatos 1",
+    "lugar": "Sala 201 - Bloco B",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Apresentação das práticas docentes com moderação de <b>Profa. Márcia Regina Castro</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Temática de Relatos 2",
+    "lugar": "Sala 202 - Bloco B",
+    "dataInicio": "2024-05-16T13:30:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Relatos de experiências com moderação da <b>Profa. Dra. Fátima Siqueira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-05-16T15:30:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Dialogado",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2024-05-16T16:00:00-03:00",
+    "dataFim": "2024-05-16T17:45:00-03:00",
+    "descricao": "<p>Sessão com o trabalho <i>Desafios contemporâneos para a garantia do direito à educação integral na formação docente e nas redes públicas periféricas</i>, apresentado por <b>Danilo Paes Barreto</b> e mediado por <b>Profa. Lúcia Gusmão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento de Integração",
+    "lugar": null,
+    "dataInicio": "2024-05-16T17:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro informal entre participantes coordenado por <b>Geraldo Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática da Manhã",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Palestra <i>Saúde Mental e Bem-Estar no Cotidiano Docente</i>, com a especialista <b>Dra. Simone Albuquerque Prado</b>.</p>",
+    "secao": "Conferências Temáticas"
+   },
+   {
+    "nome": "Parada para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Prática de formação <i>Recursos Digitais Abertos para a Sala de Aula</i> com o <b>Prof. Me. Carlos Eduardo Vieira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala 106 - Bloco A",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Formação <i>Mediação de Conflitos e Cidadania Escolar</i> com a facilitadora <b>Bianca Peixoto</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço Coletivo",
+    "lugar": null,
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Pôsteres Pedagógicos",
+    "lugar": "Corredor das Artes",
+    "dataInicio": "2024-05-17T13:30:00-03:00",
+    "dataFim": "2024-05-17T15:30:00-03:00",
+    "descricao": "<p>Exibição comentada de banners avaliados pelos professores pareceristas <b>Marcelo Diniz</b> e <b>Ester Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-05-17T15:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial da Tarde",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2024-05-17T16:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Conferência <i>Alfabetização Ecológica e Práticas Sustentáveis na Comunidade</i> com a <b>Profa. Dra. Beatriz Leal</b>.</p>",
+    "secao": "Conferências Temáticas"
+   },
+   {
+    "nome": "Encontro da Rede de Formadores",
+    "lugar": null,
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Diálogo informal articulado por <b>Joaquim Ferraz</b> para alinhamento pedagógico estadual.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Articulação Pedagógica",
+    "lugar": "Teatro Beberibe",
+    "dataInicio": "2024-05-18T08:30:00-03:00",
+    "dataFim": "2024-05-18T10:00:00-03:00",
+    "descricao": "<p>Apresentação <i>A articulação curricular entre as diferentes etapas escolares na perspectiva do desenvolvimento integral de crianças e jovens estudantes</i>, com o <b>Prof. Dr. Valter Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break de Confraternização",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Professores",
+    "lugar": null,
+    "dataInicio": "2024-05-18T10:30:00-03:00",
+    "dataFim": "2024-05-18T11:45:00-03:00",
+    "descricao": "<p>Elaboração conjunta da Carta de Recomendações coordenada por <b>Letícia Gouveia</b> e <b>Jorge Wanderley</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Teatro Beberibe",
+    "dataInicio": "2024-05-18T11:45:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Pronunciamento oficial e agradecimentos com a coordenação-geral de <b>Cássia Valéria Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Despedida",
+    "lugar": "Pátio Central",
+    "dataInicio": "2024-05-18T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Intervenção artística do grupo local de ciranda, com regência de <b>Mestre Severino do Coco</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

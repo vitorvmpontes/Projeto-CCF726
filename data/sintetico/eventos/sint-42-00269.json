@@ -1,0 +1,94 @@
+{
+ "spec": {
+  "id": "sint-42-00269",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Curitiba - PR",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 8,
+  "casos": [
+   "titulos_longos",
+   "atividades_paralelas",
+   "intervalos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:42+00:00",
+ "uso_tokens": {
+  "entrada": 693,
+  "saida": 1235
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros do Setor de Tecnologia",
+   "local_geral": "Campus Politécnico, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits Universitários",
+    "lugar": null,
+    "dataInicio": "2023-03-06T08:00:00-03:00",
+    "dataFim": "2023-03-06T09:30:00-03:00",
+    "descricao": "<p>Acolhimento inicial dos novos estudantes com orientações gerais pelos veteranos do Centro Acadêmico.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Central do Bloco da Administração",
+    "dataInicio": "2023-03-06T10:00:00-03:00",
+    "dataFim": "2023-03-06T11:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>A Jornada Acadêmica na Engenharia e os Desafios Contemporâneos para Construção de uma Carreira Ética e Inovadora</i>, ministrada pelo <b>Prof. Dr. Ricardo Albuquerque Ramos</b>.</p>",
+    "secao": "Ciclo de Abertura"
+   },
+   {
+    "nome": "Intervalo para Almoço de Integração",
+    "lugar": null,
+    "dataInicio": "2023-03-06T12:00:00-03:00",
+    "dataFim": "2023-03-06T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-03-07T14:00:00-03:00",
+    "dataFim": "2023-03-07T16:00:00-03:00",
+    "descricao": "<p>Oficina prática intitulada <i>Introdução ao Desenvolvimento de Software Colaborativo e Ferramentas Modernas de Versionamento para Estudantes Ingressantes da Área Tecnológica</i>, coordenada pelo mestrando <b>Lucas Gabriel Siqueira</b>.</p>",
+    "secao": "Oficinas de Formação Básica"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala de Seminários B",
+    "dataInicio": "2023-03-07T14:00:00-03:00",
+    "dataFim": "2023-03-07T16:00:00-03:00",
+    "descricao": "<p>Dinâmica com a psicóloga <b>Mariana Prado Nogueira</b> abordando saúde mental na transição escolar para o ensino superior.</p>",
+    "secao": "Oficinas de Formação Básica"
+   },
+   {
+    "nome": "Pausa para Lanche Coletivo",
+    "lugar": null,
+    "dataInicio": "2023-03-07T16:00:00-03:00",
+    "dataFim": "2023-03-07T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório do Bloco de Elétrica",
+    "dataInicio": "2023-03-08T09:30:00-03:00",
+    "dataFim": "2023-03-08T11:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Caminhos Possíveis para Inserção Precoce em Pesquisa Científica e Extensão Comunitária Durante os Primeiros Semestres da Graduação</i>, apresentada pela <b>Profa. Dra. Camila Antunes Diniz</b> com debate mediado por <b>Felipe Meireles Rosa</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Trote Solidário e Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-03-08T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Arrecadação de donativos com a presença da coordenadora do comitê solidário <b>Beatriz Viana Rocha</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,172 @@
+{
+ "spec": {
+  "id": "sint-42-00235",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 18,
+  "casos": [
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:55+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 3050
+ },
+ "saida": {
+  "evento": {
+   "nome": "BahiaTech Summit & Hackathon 2025",
+   "local_geral": "Centro de Convenções de Salvador, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Boas-Vindas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-08-22T08:00:00-03:00",
+    "dataFim": "2025-08-22T09:00:00-03:00",
+    "descricao": "<p>Recepção dos participantes e retirada dos kits oficiais do evento e credenciais do hackathon.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Keynote de Abertura",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-22T09:00:00-03:00",
+    "dataFim": "2025-08-22T10:15:00-03:00",
+    "descricao": "<p>Tema: Construindo Ecossistemas Globais de Inovação a partir do Nordeste.</p><p>Palestrante: <b>Carla Silveira</b> (Diretora de Inovação da TechBahia Hub).</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Palestra Empresarial 1",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-22T10:30:00-03:00",
+    "dataFim": "2025-08-22T11:30:00-03:00",
+    "descricao": "<p>Tema: Inteligência Artificial Generativa em Produção: Casos Reais na Nuvem.</p><p>Apresentador: <b>Marcos Vinícius Prado</b> (Arquiteto de Soluções da AWS Brasil).</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Kickoff do Hackathon",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2025-08-22T11:30:00-03:00",
+    "dataFim": "2025-08-22T12:30:00-03:00",
+    "descricao": "<p>Apresentação dos desafios corporativos, critérios de avaliação e início oficial do desenvolvimento da maratona.</p><p>Coordenadores do desafio: <b>Felipe Peixoto</b> e <b>Aline Guimarães</b>.</p>",
+    "secao": "Maratona Hacker"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Praça Gourmet",
+    "dataInicio": "2025-08-22T12:30:00-03:00",
+    "dataFim": "2025-08-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Trilha Corporativa A",
+    "lugar": "Sala Pelourinho",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T15:30:00-03:00",
+    "descricao": "<p>Sessão com apresentações técnicas de lideranças de tecnologia de grandes indústrias da Bahia.</p><p>Coordenação de <b>Roberto Santos Jr.</b>.</p><p>Apresentações:</p><p><i>Transformação Digital na Indústria Petroquímica</i> por <b>Juliana Meireles</b> (Braskem);</p><p><i>Data Driven e Otimização Logística Portuária</i> por <b>Danilo Albuquerque</b> (Wilson Sons);</p><p><i>Cibersegurança e Proteção de Dados Críticos em Infraestruturas Híbridas</i> por <b>Renata Ferraz</b> (Stefanini).</p>",
+    "secao": "Trilhas Técnicas"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Laboratório Tech 1",
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T16:00:00-03:00",
+    "descricao": "<p>Tema: Construindo Microsserviços Escaláveis com Go e Kubernetes.</p><p>Facilitador: <b>Lucas Vasconcelos</b> (Engenheiro de Software Sênior no Nubank).</p>",
+    "secao": "Capacitação Prática"
+   },
+   {
+    "nome": "Mentoria Técnica 1",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2025-08-22T16:00:00-03:00",
+    "dataFim": "2025-08-22T18:00:00-03:00",
+    "descricao": "<p>Rodada de mentoria e alinhamento de escopo para as equipes participantes do desafio tecnológico.</p><p>Mentores convidados: <b>Tatiana Sampaio</b>, <b>Diego Cerqueira</b> e <b>Guilherme Dantas</b>.</p>",
+    "secao": "Maratona Hacker"
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-22T16:30:00-03:00",
+    "dataFim": "2025-08-22T18:00:00-03:00",
+    "descricao": "<p>Tema: O Futuro do Mercado de Trabalho Tech no Brasil: Desafios e Oportunidades.</p><p>Moderadora: <b>Dra. Simone Pinho</b> (UFBA).</p><p>Painelistas: <b>Leandro Macedo</b> (iFood), <b>Camila Duarte</b> (Accenture) e <b>Patrícia Nogueira</b> (Google Cloud).</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Happy Hour e Networking",
+    "lugar": "Varanda Mar",
+    "dataInicio": "2025-08-22T18:30:00-03:00",
+    "dataFim": "2025-08-22T21:00:00-03:00",
+    "descricao": "<p>Confraternização aberta entre palestrantes, empresas patrocinadoras, jurados e congressistas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Check-in do Hackathon",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2025-08-23T08:30:00-03:00",
+    "dataFim": "2025-08-23T09:00:00-03:00",
+    "descricao": "<p>Reagrupamento dos times e alinhamento das entregas finais da maratona.</p>",
+    "secao": "Maratona Hacker"
+   },
+   {
+    "nome": "Palestra Empresarial 2",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-23T09:00:00-03:00",
+    "dataFim": "2025-08-23T10:15:00-03:00",
+    "descricao": "<p>Tema: Open Finance e Arquitetura de Pagamentos Instantâneos de Alta Concorrência.</p><p>Palestrante: <b>Rodrigo Esteves</b> (Head de Engenharia no Itaú Unibanco).</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Trilha Corporativa B",
+    "lugar": "Sala Barra",
+    "dataInicio": "2025-08-23T10:30:00-03:00",
+    "dataFim": "2025-08-23T12:00:00-03:00",
+    "descricao": "<p>Mostra de soluções e cases corporativos voltados para sustentabilidade e cidades inteligentes.</p><p>Coordenadora: <b>Beatriz Mendonça</b>.</p><p>Trabalhos e estudos apresentados:</p><p><i>IoT e Mobilidade Urbana Sustentável em Cidades Costeiras</i> por <b>Fábio Teles</b> (Enel X);</p><p><i>Monitoramento Ambiental com Visão Computacional e Drones</i> por <b>Lorena Castro</b> (Geotech Solutions);</p><p><i>Gestão Eficiente de Resíduos usando Blockchains Públicas</i> por <b>André Villares</b> (CircularTech).</p>",
+    "secao": "Trilhas Técnicas"
+   },
+   {
+    "nome": "Mentoria Técnica 2",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2025-08-23T10:30:00-03:00",
+    "dataFim": "2025-08-23T12:30:00-03:00",
+    "descricao": "<p>Validação dos Protótipos e Pitch Training com investidores e líderes técnicos.</p><p>Avaliadores: <b>Thiago Barreto</b>, <b>Fernanda Lins</b> e <b>Carlos Eduardo Cunha</b>.</p>",
+    "secao": "Maratona Hacker"
+   },
+   {
+    "nome": "Intervalo Livre de Almoço",
+    "lugar": "Praça Gourmet",
+    "dataInicio": "2025-08-23T12:30:00-03:00",
+    "dataFim": "2025-08-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento das Submissões",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2025-08-23T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Fim do prazo para submissão do código-fonte e links de demonstração pelas equipes do hackathon no portal oficial.</p>",
+    "secao": "Maratona Hacker"
+   },
+   {
+    "nome": "Demoday",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-23T15:30:00-03:00",
+    "dataFim": "2025-08-23T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos pitches dos 5 times finalistas perante banca examinadora com representantes de grandes empresas de tecnologia.</p><p>Coordenação do júri: <b>Mariana Fontes</b> (Sebrae Bahia).</p>",
+    "secao": "Maratona Hacker"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Lacerda",
+    "dataInicio": "2025-08-23T18:00:00-03:00",
+    "dataFim": "2025-08-23T19:30:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do Hackathon, entrega dos troféus e agradecimentos aos patrocinadores e comunidade.</p><p>Mestres de cerimônia: <b>Carla Silveira</b> e <b>Felipe Peixoto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

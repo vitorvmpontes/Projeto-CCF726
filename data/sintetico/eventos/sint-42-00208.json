@@ -1,0 +1,235 @@
+{
+ "spec": {
+  "id": "sint-42-00208",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Viçosa - MG",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 26,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:50+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 3721
+ },
+ "saida": {
+  "evento": {
+   "nome": "Viçosa Tech Summit & Hackathon 2025",
+   "local_geral": "Parque Tecnológico de Viçosa (tecnoPARQ) - UFV, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": "Hall Principal do tecnoPARQ",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": "<p>Retirada de crachás e kits de boas-vindas para participantes e competidores do hackathon.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T09:40:00-03:00",
+    "descricao": "<p>Sessão solene com <b>Dr. Marcos Silveira</b> e <b>Juliana Prado</b> apresentando as diretrizes do evento e das trilhas de inovação aberta.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-15T09:40:00-03:00",
+    "dataFim": "2025-05-15T10:40:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e o Futuro das Plataformas em Nuvem</i>. Apresentação com <b>Henrique Meireles</b> da AWS Brasil.</p>",
+    "secao": "Palestras Corporativas"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-15T10:40:00-03:00",
+    "dataFim": "2025-05-15T11:10:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-15T11:10:00-03:00",
+    "dataFim": "2025-05-15T12:10:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial Aplicada ao Agronegócio de Precisão</i>, conduzida por <b>Mariana Diniz</b> da Embrapa Soluções Digitais.</p>",
+    "secao": "Palestras Corporativas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:10:00-03:00",
+    "dataFim": "2025-05-15T13:40:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lançamento dos Desafios do Hackathon",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-15T13:40:00-03:00",
+    "dataFim": "2025-05-15T14:40:00-03:00",
+    "descricao": "<p>Divulgação das problemáticas corporativas e critérios de avaliação sob coordenação de <b>Lucas Fontes</b> e <b>Fernanda Bittencourt</b>.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Início da Maratona de Desenvolvimento",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-15T14:40:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação do ambiente de desenvolvimento e início oficial do hacking.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-15T15:00:00-03:00",
+    "dataFim": "2025-05-15T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Ecossistemas de Inovação no Interior: Desafios e Oportunidades</i>. Participação de <b>Carla Vianna</b>, <b>Roberto Guimarães</b> e moderação de <b>Prof. Aloísio Paiva</b>.</p>",
+    "secao": "Palestras Corporativas"
+   },
+   {
+    "nome": "Mentoria Técnica 1",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-15T17:00:00-03:00",
+    "dataFim": "2025-05-15T19:00:00-03:00",
+    "descricao": "<p>Orientação de arquitetura de software e banco de dados conduzida por <b>Alexandre Nogueira</b> e <b>Camila Duarte</b>.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Laboratório de Software A",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Modelos de Linguagem e APIs de IA Generativa na Prática</i>, ministrado por <b>Gabriel Siqueira</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Laboratório de Software B",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Ofensiva e Boas Práticas em DevSecOps</i>, conduzido por <b>Beatriz Brandão</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra 3",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de Dados em Larga Escala: Lições de Mercado</i>, apresentada por <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Palestras Corporativas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria de Negócios e Pitch",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Alinhamento de propostas de valor e validação mercadológica com <b>Thiago Resende</b> e <b>Patrícia Carvalho</b>.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Palestra 4",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Computação Quântica: Realidade e Horizontes Comerciais</i> com <b>Profa. Helena Matos</b>.</p>",
+    "secao": "Palestras Corporativas"
+   },
+   {
+    "nome": "Checkpoint dos Times",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-16T17:30:00-03:00",
+    "dataFim": "2025-05-16T19:00:00-03:00",
+    "descricao": "<p>Aferição do progresso dos protótipos com a comissão técnica liderada por <b>Lucas Fontes</b>.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Corujão de Codificação",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-16T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão contínua noturna para finalização de produtos mínimos viáveis (MVP) e testes de integração.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Café dos Hackers",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-17T07:30:00-03:00",
+    "dataFim": "2025-05-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Congelamento de Código",
+    "lugar": "Arena da Inovação",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T09:15:00-03:00",
+    "descricao": "<p>Encerramento do envio de commits e documentação nos repositórios oficiais.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-17T09:30:00-03:00",
+    "dataFim": "2025-05-17T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>De Viçosa para o Vale do Silício: Lições de Escala Global</i> com o fundador da Startup Z, <b>Daniel Queiroz</b>.</p>",
+    "secao": "Palestras Corporativas"
+   },
+   {
+    "nome": "Sessão de Apresentação de Pitches",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-17T10:45:00-03:00",
+    "dataFim": "2025-05-17T12:45:00-03:00",
+    "descricao": "<p>Apresentações rápidas de 3 minutos de cada equipe perante a banca avaliadora formada por <b>Juliana Prado</b>, <b>Henrique Meireles</b> e <b>Thiago Resende</b>.</p>",
+    "secao": "Hackathon AgroTech & Cidades Inteligentes"
+   },
+   {
+    "nome": "Intervalo para Deliberação do Júri",
+    "lugar": "Sala de Reuniões 1",
+    "dataInicio": "2025-05-17T12:45:00-03:00",
+    "dataFim": "2025-05-17T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Master",
+    "dataInicio": "2025-05-17T13:45:00-03:00",
+    "dataFim": "2025-05-17T14:45:00-03:00",
+    "descricao": "<p>Anúncio das equipes vencedoras e entrega de prêmios por <b>Dr. Marcos Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Área Externa tecnoPARQ",
+    "dataInicio": "2025-05-17T14:45:00-03:00",
+    "dataFim": "2025-05-17T16:30:00-03:00",
+    "descricao": "<p>Celebração de encerramento e networking com food trucks locais.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

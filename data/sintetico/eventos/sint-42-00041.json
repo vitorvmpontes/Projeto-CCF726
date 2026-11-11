@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-42-00041",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Niterói - RJ",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "descricoes_ricas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:55:23+00:00",
+ "uso_tokens": {
+  "entrada": 661,
+  "saida": 745
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jogos Universitários Interatléticas Fluminense",
+   "local_geral": "Campus Gragoatá - UFF, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2025-05-17T08:00:00-03:00",
+    "dataFim": "2025-05-17T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com desfile das delegações e pronunciamento de boas-vindas do coordenador geral <b>Prof. Carlos Eduardo Peixoto</b>.</p>",
+    "secao": "Solenidades"
+   },
+   {
+    "nome": "Simpósio de Gestão Esportiva Universitária",
+    "lugar": "Auditório do Bloco O",
+    "dataInicio": "2025-05-17T10:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Mesa de debates coordenada pela <b>Profa. Juliana Mendonça</b>. Palestrantes convidados: <b>Rodrigo Silveira</b> com a apresentação <i>Sustentabilidade Financeira em Associações Atléticas Acadêmicas</i>, e <b>Mariana Castro</b> abordando <i>Políticas de Inclusão e Diversidade nos Esportes de Quadra</i>.</p><p>Trabalhos apresentados em sessão oral: <i>Impacto da Preparação Psicológica em Atletas Amadores</i> por <b>Felipe Dornelles</b>; e <i>Lesões mais Frequentes no Handebol Universitário</i> por <b>Camila Albuquerque</b>.</p>",
+    "secao": "Atividades Acadêmicas"
+   },
+   {
+    "nome": "Torneio Interatléticas de Futsal",
+    "lugar": "Quadra Poliesportiva Coberta",
+    "dataInicio": "2025-05-17T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Disputas da fase classificatória e eliminatórias da chave masculina e feminina.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2025-05-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega das medalhas e troféus conduzida pelo coordenador esportivo <b>Lucas Vianna</b> e pela comissão organizadora presidida por <b>Beatriz Rocha</b>.</p>",
+    "secao": "Solenidades"
+   }
+  ]
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-42-00140",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Belém - PA",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:18+00:00",
+ "uso_tokens": {
+  "entrada": 654,
+  "saida": 1403
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Amazônia 2023",
+   "local_geral": "Hangar Convenções & Feiras da Amazônia, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-08-16T08:30:00-03:00",
+    "dataFim": "2023-08-16T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2023-08-16T09:30:00-03:00",
+    "dataFim": "2023-08-16T11:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Bioeconomia e Sustentabilidade nas Cadeias Produtivas do Norte</i> com a participação de <b>Dr. Marcelo Farias</b> e <b>Dra. Simone Beltrão</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Espaço Inovação A",
+    "dataInicio": "2023-08-16T14:00:00-03:00",
+    "dataFim": "2023-08-16T17:30:00-03:00",
+    "descricao": "<p>Treinamento sobre <i>Mapeamento de Pastagens Degradadas via Sensoriamento Remoto</i> ministrado por <b>Eng. Rodrigo Albuquerque</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T12:00:00-03:00",
+    "descricao": "<p>Edição complementar voltada para o uso de ferramentas open-source: <i>Processamento de Imagens de Drones com QGIS no Monitoramento Florestal</i> com <b>Profa. Carla Vasconcelos</b>.</p>",
+    "secao": "Capacitação Técnica"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T16:00:00-03:00",
+    "descricao": "<p>Apresentação de soluções para a agricultura regenerativa avaliadas pelos investidores <b>Luciana Prado</b> e <b>Carlos Eduardo Mendes</b>.</p>",
+    "secao": "Circuito de Negócios"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T16:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Rastreabilidade da Cadeia da Carne e Grãos no Pará</i>, mediada por <b>Tereza Cristina Ramos</b> e com apresentação de <b>Fábio Nogueira</b>.</p>",
+    "secao": "Plenárias"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Marajó",
+    "dataInicio": "2023-08-18T10:00:00-03:00",
+    "dataFim": "2023-08-18T11:30:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Conectividade Rural: Internet das Coisas aplicada à Produção de Açaí</i> com o pesquisador <b>Dr. Nilson Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Arena AgTech",
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T17:00:00-03:00",
+    "descricao": "<p>Encontros bilaterais entre cooperativas locais e fundos de venture capital coordenados por <b>Mariana Gusmão</b>.</p>",
+    "secao": "Circuito de Negócios"
+   },
+   {
+    "nome": "Solenidade de Premiação e Encerramento",
+    "lugar": "Auditório Guajará",
+    "dataInicio": "2023-08-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Cerimônia de entrega do <i>Prêmio Inovação Agro Sustentável 2023</i> conduzida por <b>Dra. Simone Beltrão</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

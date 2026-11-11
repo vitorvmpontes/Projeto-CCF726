@@ -1,0 +1,366 @@
+{
+ "spec": {
+  "id": "sint-42-00104",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2025,
+  "n_dias": 5,
+  "n_atividades": 42,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "descricoes_ricas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:00:47+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 6535
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Mineiro de Mulheres na Computação (EMMC 2025)",
+   "local_geral": "Faculdade de Engenharia e ICE, Universidade Federal de Juiz de Fora (UFJF), Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Hall do Auditório Central",
+    "dataInicio": "2025-05-19T08:00:00-03:00",
+    "dataFim": "2025-05-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-19T09:30:00-03:00",
+    "dataFim": "2025-05-19T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com as coordenadoras gerais <b>Luciana Pereira de Oliveira</b> e <b>Beatriz Mendes Rezende</b>, acompanhadas por representantes da reitoria da UFJF e da Sociedade Brasileira de Computação.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-19T10:30:00-03:00",
+    "dataFim": "2025-05-19T12:00:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Pioneiras Invisíveis: Resgatando o Legado Feminino na Inteligência Artificial</i>, ministrada pela Profa. Dra. <b>Fernanda C. Gusmão</b> (UFMG).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-19T12:00:00-03:00",
+    "dataFim": "2025-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Anfiteatro 1",
+    "dataInicio": "2025-05-19T13:30:00-03:00",
+    "dataFim": "2025-05-19T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Clara Valadares</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural</i> por <b>Aline Guimarães</b> e <b>Mariana S. Ribeiro</b>.</p><p>2. <i>Arquiteturas Seguras para Internet das Coisas na Saúde Digital</i> por <b>Camila Duarte</b> e <b>Helena Mattos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Oficina de Robótica Educacional",
+    "lugar": "Laboratório de Hardware 2",
+    "dataInicio": "2025-05-19T13:30:00-03:00",
+    "dataFim": "2025-05-19T15:30:00-03:00",
+    "descricao": "<p>Oficina prática voltada a metodologias ativas para atrair alunas do ensino básico para a tecnologia com <i>Programação de Microcontroladores na Prática Escolar</i>, conduzida por <b>Juliana P. Nogueira</b> e <b>Sabrina Esteves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lanche e Conexões",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-19T15:30:00-03:00",
+    "dataFim": "2025-05-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Carreira",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-19T16:00:00-03:00",
+    "dataFim": "2025-05-19T18:00:00-03:00",
+    "descricao": "<p>Painel <i>Transição da Pós-Graduação para a Indústria Global de Tecnologia</i>. Painelistas: <b>Renata Silveira</b> (Google), <b>Tatiane Meireles</b> (Embraer) e <b>Vanessa Lourenço</b> (Nubank). Moderação: <b>Daniela F. Carvalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala 102 - Bloco ICE",
+    "dataInicio": "2025-05-20T08:30:00-03:00",
+    "dataFim": "2025-05-20T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Permanência Feminina nos Cursos de Exatas: Desafios e Redes de Apoio</i>, mediada por <b>Patrícia Assis</b> com colaboração de <b>Sofia Alvarenga</b>.</p>",
+    "secao": "Debates e Redes"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório 3 - ICE",
+    "dataInicio": "2025-05-20T08:30:00-03:00",
+    "dataFim": "2025-05-20T10:00:00-03:00",
+    "descricao": "<p>Módulo introdutório de <i>Visão Computacional Aplicada a Diagnósticos Médicos com PyTorch</i>, ministrado por <b>Larissa Fontes</b> e <b>Débora Vasconcelos</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Lanche e Conexões",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-20T10:00:00-03:00",
+    "dataFim": "2025-05-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-20T10:30:00-03:00",
+    "dataFim": "2025-05-20T12:00:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Computação Quântica: Fundamentos e Oportunidades Emergentes</i> proferida pela Dra. <b>Roberta Paes Leme</b> (CBPF).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-20T12:00:00-03:00",
+    "dataFim": "2025-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Anfiteatro 1",
+    "dataInicio": "2025-05-20T13:30:00-03:00",
+    "dataFim": "2025-05-20T15:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Marina Peixoto</b>.</p><p>Trabalhos:</p><p>1. <i>Otimização de Tráfego Urbano com Aprendizado por Reforço Multiagente</i> por <b>Bruna Figueiredo</b> e <b>Talita Saraiva</b>.</p><p>2. <i>Análise Empírica de Métricas de Código Aberto Mantido por Comunidades Femininas</i> por <b>Carolina Bastos</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Oficina de Robótica Educacional",
+    "lugar": "Laboratório de Hardware 2",
+    "dataInicio": "2025-05-20T13:30:00-03:00",
+    "dataFim": "2025-05-20T15:30:00-03:00",
+    "descricao": "<p>Segunda turma da oficina <i>Programação de Microcontroladores na Prática Escolar</i>, ministrada por <b>Juliana P. Nogueira</b> e <b>Sabrina Esteves</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mostra de Iniciação Científica",
+    "lugar": "Saguão das Engenharias",
+    "dataInicio": "2025-05-20T15:30:00-03:00",
+    "dataFim": "2025-05-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pôsteres com coordenação de <b>Iara P. Queiroz</b>. Destaque para o trabalho <i>Plataforma Acessível de Apoio à Alfabetização Infantil</i> de <b>Natália Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-20T17:30:00-03:00",
+    "dataFim": "2025-05-20T19:00:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Mulheres na Liderança Técnica e Governança de Software Livre</i>, com <b>Elisabeth Muniz</b>, <b>Kátia Drumond</b> e moderação de <b>Simone Arantes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório 2 - ICE",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:30:00-03:00",
+    "descricao": "<p>Minicurso <i>Segurança Ofensiva e Análise de Vulnerabilidades em Ambientes Web</i>, com <b>Milena Calheiros</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório 4 - ICE",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:30:00-03:00",
+    "descricao": "<p>Minicurso <i>Design System e Acessibilidade Digital em Aplicações Mobile</i> ministrado por <b>Lorena Magalhães</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Lanche e Conexões",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-21T10:30:00-03:00",
+    "dataFim": "2025-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Palestras Curtas",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-21T11:00:00-03:00",
+    "dataFim": "2025-05-21T12:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Renata Silveira</b>.</p><p>Palestras curtas:</p><p>- <i>Microsserviços Resilientes em Go</i> por <b>Giovanna Prado</b>.</p><p>- <i>Experiência do Usuário em Dashboards Clínicos</i> por <b>Elisa Morais</b>.</p><p>- <i>DevOps Inclusivo: Automação Sem Estresse</i> por <b>Thaís Barcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-21T12:30:00-03:00",
+    "dataFim": "2025-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Anfiteatro 1",
+    "dataInicio": "2025-05-21T14:00:00-03:00",
+    "dataFim": "2025-05-21T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Helena Mattos</b>.</p><p>Apresentação dos artigos:</p><p>1. <i>Mineração de Repositórios de Código para Mapeamento de Testes Automatizados</i> por <b>Bianca Trindade</b> e <b>Priscila Moura</b>.</p><p>2. <i>Uso de Grafos de Conhecimento para Recomendação de Carreira em TI</i> por <b>Gabriela S. Toledo</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mentoria Coletiva",
+    "lugar": "Salão de Estudos da Biblioteca",
+    "dataInicio": "2025-05-21T14:00:00-03:00",
+    "dataFim": "2025-05-21T15:30:00-03:00",
+    "descricao": "<p>Sessão de mentoria em pequenos grupos guiada por <b>Aline Guimarães</b>, <b>Daniela F. Carvalho</b> e <b>Mônica Brandão</b> cobrindo temas de pós-graduação no exterior e entrevistas técnicas.</p>",
+    "secao": "Debates e Redes"
+   },
+   {
+    "nome": "Lanche e Conexões",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-21T15:30:00-03:00",
+    "dataFim": "2025-05-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Empreendedorismo",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-21T16:00:00-03:00",
+    "dataFim": "2025-05-21T17:30:00-03:00",
+    "descricao": "<p>Mesa <i>Startups e Captação de Recursos Fundadas por Mulheres</i>. Participantes convidadas: <b>Carla Antunes</b> (Fintech Inova) e <b>Letícia G. Braga</b> (HealthTech BioAI). Mediadora: <b>Beatriz Mendes Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Praça Cívica da UFJF",
+    "dataInicio": "2025-05-21T18:00:00-03:00",
+    "dataFim": "2025-05-21T19:30:00-03:00",
+    "descricao": "<p>Apresentação do coletivo instrumental feminino <i>Cordas da Mata</i> e performance poética de <b>Camila Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório 1 - ICE",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T10:30:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Introdução a Engenharia de Prompts e LLMs para Cientistas de Dados</i> ministrado por <b>Flávia Medeiros</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala 104 - Bloco ICE",
+    "dataInicio": "2025-05-22T08:30:00-03:00",
+    "dataFim": "2025-05-22T10:30:00-03:00",
+    "descricao": "<p>Diálogo aberto com o tema <i>Maternidade e Carreira Acadêmica na Computação: Rompendo Paradigmas</i>, facilitado por <b>Luciana Pereira de Oliveira</b> e <b>Valéria Diniz</b>.</p>",
+    "secao": "Debates e Redes"
+   },
+   {
+    "nome": "Lanche e Conexões",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-22T10:30:00-03:00",
+    "dataFim": "2025-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-22T11:00:00-03:00",
+    "dataFim": "2025-05-22T12:30:00-03:00",
+    "descricao": "<p>Palestra <i>Privacidade Diferencial e Ética em Sistemas Autônomos</i> com a Profa. Dra. <b>Adriana C. Fagundes</b> (UFRJ).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-22T12:30:00-03:00",
+    "dataFim": "2025-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Hackathon Meninas Digitais - Check-in",
+    "lugar": "Laboratório Multiuso da Engenharia",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T15:30:00-03:00",
+    "descricao": "<p>Apresentação do desafio tecnológico de impacto socioambiental coordenado por <b>Tatiane Meireles</b> e <b>Jéssica C. Lima</b>.</p>",
+    "secao": "Maratona e Desenvolvimento"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Anfiteatro 1",
+    "dataInicio": "2025-05-22T14:00:00-03:00",
+    "dataFim": "2025-05-22T15:30:00-03:00",
+    "descricao": "<p>Sessão sob coordenação de <b>Débora Vasconcelos</b>.</p><p>Artigos:</p><p>1. <i>Detecção de Phishing Utilizando Redes Neurais Convolucionais</i> por <b>Jaqueline Ramos</b> e <b>Rosana G. Vieira</b>.</p><p>2. <i>Framework de Avaliação Heurística de Usabilidade em Sistemas de Saúde</i> por <b>Marta Albuquerque</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Lanche e Conexões",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-22T15:30:00-03:00",
+    "dataFim": "2025-05-22T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Fórum das Comunidades Femininas de Computação",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-22T16:00:00-03:00",
+    "dataFim": "2025-05-22T18:00:00-03:00",
+    "descricao": "<p>Encontro de lideranças dos grupos PyLadies, Women in Tech, Meninas Digitais e IEEE WIE Minas Gerais, com mediação de <b>Clara Valadares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Coletiva",
+    "lugar": "Salão de Estudos da Biblioteca",
+    "dataInicio": "2025-05-23T08:30:00-03:00",
+    "dataFim": "2025-05-23T10:00:00-03:00",
+    "descricao": "<p>Segunda rodada de mentorias rápidas cobrindo elaboração de currículos e portfólios no GitHub, com <b>Camila Duarte</b> e <b>Talita Saraiva</b>.</p>",
+    "secao": "Debates e Redes"
+   },
+   {
+    "nome": "Pitch de Projetos do Hackathon",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-23T10:00:00-03:00",
+    "dataFim": "2025-05-23T12:00:00-03:00",
+    "descricao": "<p>Apresentação das soluções desenvolvidas para a banca examinadora composta por <b>Roberta Paes Leme</b>, <b>Vanessa Lourenço</b> e <b>Patrícia Assis</b>.</p>",
+    "secao": "Maratona e Desenvolvimento"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-23T12:00:00-03:00",
+    "dataFim": "2025-05-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-23T13:30:00-03:00",
+    "dataFim": "2025-05-23T15:00:00-03:00",
+    "descricao": "<p>Conferência <i>O Futuro da Computação Sustentável e o Protagonismo Feminino</i> com a Profa. Dra. <b>Mônica Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-23T15:00:00-03:00",
+    "dataFim": "2025-05-23T16:30:00-03:00",
+    "descricao": "<p>Cerimônia de premiação dos melhores artigos, trabalhos de iniciação científica e protótipos do hackathon, conduzida por <b>Luciana Pereira de Oliveira</b> e <b>Beatriz Mendes Rezende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": "Área Externa do DCE",
+    "dataInicio": "2025-05-23T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

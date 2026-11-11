@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-42-00033",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Macapá - AP",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:55+00:00",
+ "uso_tokens": {
+  "entrada": 674,
+  "saida": 1495
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Amazônico de Direito Ambiental e Constitucional",
+   "local_geral": "Centro de Convenções João Batista de Azevedo Picanço, Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-19T18:00:00-03:00",
+    "dataFim": "2027-05-19T20:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência inaugural <i>O Constitucionalismo Ecológico e a Proteção das Florestas Equatoriais</i>, ministrada pela Desa. <b>Maria de Fátima Cabral</b> (TJAP) e presidida pelo Dr. <b>Raimundo Nonato Picanço</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Litigância Climática e Populações Tradicionais na Borda da Amazônia</i>. Coordenação de <b>Cláudio Roberto Silveira</b>. Palestrantes convidados: Profa. Dra. <b>Irene dos Santos Maciel</b>, abordando <i>Jurisdição Constitucional e Direitos Originários</i>, e Dr. <b>Felipe Castelo Branco</b>, com <i>Reparação Civil por Danos Transfronteiriços</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Apresentação de Comunicações Orais",
+    "lugar": "Sala 102",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas submetidas ao Grupo de Trabalho de Direito Socioambiental. Coordenador da sessão: Prof. Me. <b>Thiago Alcolumbre Viana</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Zoneamento Ecológico-Econômico e Sustentabilidade no Amapá</i>, por <b>Larissa Mendonça Guedes</b>;</p><p>2. <i>O Papel da Defensoria Pública nos Conflitos Fundiários Fluviais</i>, por <b>Rodrigo Otávio Pinheiro</b> e <b>Sabrina Leão Costa</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação de Comunicações Orais",
+    "lugar": "Sala 104",
+    "dataInicio": "2027-05-20T14:30:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Apresentação de pesquisas do Grupo de Trabalho de Hermenêutica Constitucional e Garantismo. Avaliadora responsável: Dra. <b>Helena Esteves Vasconcelos</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Ativismo Judicial e Proteção dos Mananciais Urbanos</i>, por <b>Carlos Eduardo Belfort</b>;</p><p>2. <i>Democracia Participativa e Licenciamento em Terras Devolutas</i>, por <b>Bruna Marinho Teles</b> e <b>Jorge Aníbal Picanço</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Mineração, Transição Energética e Sustentabilidade no Escudo das Guianas</i>, sob a moderação da Profa. <b>Glória Maria Albuquerque</b>. Participam como expositores o Dr. <b>Arthur Nogueira Sobrinho</b> com o tema <i>Tributação Extrafiscal e Compensação Ambiental</i>, e a Dra. <b>Viviane Bastos Trindade</b> abordando <i>Responsabilidade Corporativa em Áreas Protegidas</i>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-05-21T11:45:00-03:00",
+    "dataFim": "2027-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Tucuju",
+    "dataInicio": "2027-05-21T14:30:00-03:00",
+    "dataFim": "2027-05-21T17:00:00-03:00",
+    "descricao": "<p>Conferência de encerramento com o tema <i>Desafios da Governança Jurídica Transnacional no Século XXI</i>, apresentada pelo Prof. Titular <b>Waldir Pacheco Fontes</b> e mediada pela Dra. <b>Regina Coeli Barata</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

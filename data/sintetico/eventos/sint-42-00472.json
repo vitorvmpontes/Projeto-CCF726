@@ -1,0 +1,220 @@
+{
+ "spec": {
+  "id": "sint-42-00472",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Vitória - ES",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 24,
+  "casos": [
+   "subtitulo_separado",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:20+00:00",
+ "uso_tokens": {
+  "entrada": 646,
+  "saida": 3690
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Mostra Capixaba de Extensão Universitária",
+   "local_geral": "Campus Universitário de Goiabeiras - UFES, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Hall do Centro de Vivência",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com o Reitor <b>Eustáquio de Castro</b> e a Pró-Reitora de Extensão <b>Renata Albuquerque Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula Inaugural",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2027-05-19T10:00:00-03:00",
+    "dataFim": "2027-05-19T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>A indissociabilidade entre ensino, pesquisa e extensão na defesa das comunidades costeiras</i>. Palestrante: Profa. Dra. <b>Clarice Prado Guimarães</b> (UFBA).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T11:30:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Auditório do CCHN",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Práticas de letramento comunitário na Grande Vitória</i>. Coordenação do Prof. <b>Márcio Silveira</b> com participação das extensionistas <b>Larissa Neves</b> e <b>Bruna Figueiredo</b>.</p>",
+    "secao": "Rodas Dialógicas de Extensão"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Auditório Manoel Vereza (CCJE)",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Tecnologias sociais para saneamento ambiental e saúde pública</i>. Debate mediado por <b>Rodrigo Lacerda Salles</b>, com relato de experiência apresentado por <b>Camila Duarte</b> e <b>Felipe Coutinho</b>.</p>",
+    "secao": "Rodas Dialógicas de Extensão"
+   },
+   {
+    "nome": "Intervalo com Lanche Comunitário",
+    "lugar": "Área Verde do CCHN",
+    "dataInicio": "2027-05-19T15:30:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Banners 1",
+    "lugar": "Tenda Cultural dos Egressos",
+    "dataInicio": "2027-05-19T16:00:00-03:00",
+    "dataFim": "2027-05-19T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos do eixo Educação Popular e Cidadania. Avaliadores responsáveis: Profa. <b>Helena Soares</b> e Prof. <b>Wilson Peçanha</b>.</p>",
+    "secao": "Apresentações de Projetos"
+   },
+   {
+    "nome": "Apresentação Teatral",
+    "lugar": "Arena do Teatro Universitário",
+    "dataInicio": "2027-05-19T18:30:00-03:00",
+    "dataFim": "2027-05-19T19:30:00-03:00",
+    "descricao": "<p>Espetáculo <i>Vozes do Manguezal</i>, encenado pelo Grupo de Extensão em Artes Cênicas coordenado pela Profa. <b>Thaís Benício</b>.</p>",
+    "secao": "Mostra Cultural e Artística"
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório de Informática 3 - CT",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento colaborativo e cartografia social com ferramentas livres</i>. Ministrantes: <b>Lucas Marcondes</b> e <b>Aline Valadares</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Dança - CEFD",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Corpo, ancestralidade e expressão motora para jovens da periferia</i>. Ministrada pela Profa. <b>Janete Barbosa</b> e pelo arte-educador <b>Tiago Omolu</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Auditório do Crid",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Elaboração de projetos comunitários e captação de recursos públicos</i>. Condução pelo especialista <b>Gabriel Antunes Mendonça</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-20T11:30:00-03:00",
+    "dataFim": "2027-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala 101 - Prédio Cemuni IV",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de extensão em Saúde Coletiva. Coordenação de sessão: <b>Valquíria Santos Porto</b>.</p>",
+    "secao": "Apresentações de Projetos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala 102 - Prédio Cemuni IV",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": "2027-05-20T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos relatos de experiência na área de Direitos Humanos e Justiça. Coordenador: <b>Otávio Magalhães Pinto</b>.</p>",
+    "secao": "Apresentações de Projetos"
+   },
+   {
+    "nome": "Pausa para Café e Convivência",
+    "lugar": "Pátio Central do Cemuni",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate Temático",
+    "lugar": "Auditório do CCHN",
+    "dataInicio": "2027-05-20T16:00:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>A curricularização da extensão nos cursos de graduação: desafios institucionais</i>. Expositores: Prof. <b>Henrique Varejão</b> e Profa. <b>Sônia Mara Borges</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cine-Debate Universitário",
+    "lugar": "Cine Metrópolis",
+    "dataInicio": "2027-05-20T18:30:00-03:00",
+    "dataFim": "2027-05-20T20:30:00-03:00",
+    "descricao": "<p>Exibição do documentário <i>Maré de Saberes</i> seguido de debate mediado pela cineasta e pesquisadora <b>Lorena Pimentel</b>.</p>",
+    "secao": "Mostra Cultural e Artística"
+   },
+   {
+    "nome": "Sessão de Banners 2",
+    "lugar": "Tenda Cultural dos Egressos",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Exposição dos projetos dos eixos Tecnologia, Produção e Meio Ambiente. Pareceristas: Profa. <b>Daniela Frizzera</b> e Prof. <b>Nivaldo Passos</b>.</p>",
+    "secao": "Apresentações de Projetos"
+   },
+   {
+    "nome": "Feira de Economia Solidária",
+    "lugar": "Estacionamento do Centro de Vivência",
+    "dataInicio": "2027-05-21T09:00:00-03:00",
+    "dataFim": "2027-05-21T17:00:00-03:00",
+    "descricao": "<p>Espaço de comercialização e exposição de produtos artesanais e agroecológicos de cooperativas parceiras da extensão universitária. Organização: <b>Marcos Vinícius Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Manoel Vereza (CCJE)",
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>A universidade pública conectada aos movimentos sociais e povos originários</i>. Com a participação da liderança indígena <b>Jaciara Tupiniquim</b> e do Prof. <b>Danilo Resende</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral de Extensionistas",
+    "lugar": "Auditório Manoel Vereza (CCJE)",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta de Vitória pela Extensão Pública</i>. Coordenação dos trabalhos: <b>Renata Albuquerque Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Manoel Vereza (CCJE)",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Destaque Extensionista 2027 aos melhores trabalhos avaliados. Condução: Profa. <b>Elisa Bittencourt</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show Musical de Fechamento",
+    "lugar": "Concha Acústica da UFES",
+    "dataInicio": "2027-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical do grupo <i>Samba de Raiz Universitário</i> sob coordenação do maestro <b>Alexandre Gouveia</b>.</p>",
+    "secao": "Mostra Cultural e Artística"
+   }
+  ]
+ }
+}

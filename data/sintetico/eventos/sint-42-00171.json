@@ -1,0 +1,285 @@
+{
+ "spec": {
+  "id": "sint-42-00171",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Natal - RN",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 32,
+  "casos": [
+   "titulos_longos",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:06:04+00:00",
+ "uso_tokens": {
+  "entrada": 688,
+  "saida": 5192
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIX Congresso Brasileiro de Oceanografia e Geociências Marinhas (CBOGM 2023)",
+   "local_geral": "Centro de Convenções de Natal, Natal - RN"
+  },
+  "atividades": [
+   {
+    "nome": "Entrega de Material e Registro de Participantes",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-18T09:00:00-03:00",
+    "dataFim": "2023-10-18T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do presidente da comissão organizadora, Prof. Dr. <b>Marcelo Guimarães de Medeiros</b> (UFRN), e representantes da Associação Brasileira de Oceanografia.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-18T10:00:00-03:00",
+    "dataFim": "2023-10-18T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios Contemporâneos da Década da Ciência Oceânica para o Desenvolvimento Sustentável no Atlântico Sul Equatorial</i>. Palestrante: Profa. Dra. <b>Silvana Aguiar Albuquerque</b> (UFPE).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": null,
+    "dataInicio": "2023-10-18T11:30:00-03:00",
+    "dataFim": "2023-10-18T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Dinâmica Costeira e Estuarina",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-10-18T13:30:00-03:00",
+    "dataFim": "2023-10-18T15:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos submetidos. Coordenação: Dr. <b>Felipe Bastos Calado</b>. Apresentações de <b>Ana Letícia Pires</b> (<i>Modelagem Hidrodinâmica da Foz do Rio Potengi sob Efeito de Marés de Sizígia</i>) e <b>Rodrigo Vasconcelos</b> (<i>Transporte Sedimentar Litorâneo no Litoral Oriental Potiguar</i>).</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2: Geoquímica e Poluição Marinha",
+    "lugar": "Sala Pipa",
+    "dataInicio": "2023-10-18T13:30:00-03:00",
+    "dataFim": "2023-10-18T15:00:00-03:00",
+    "descricao": "<p>Apresentação oral de artigos submetidos. Coordenação: Dra. <b>Cláudia Neves</b>. Trabalhos de <b>Thiago Antunes Farias</b> (<i>Contaminação por Microplásticos em Sedimentos de Manguezal</i>) e <b>Marina Duarte Cordeiro</b> (<i>Avaliação de Metais Pesados em Bivalves</i>).</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática A",
+    "dataInicio": "2023-10-18T15:00:00-03:00",
+    "dataFim": "2023-10-18T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução ao Processamento de Dados Oceanográficos com Python e Modelagem Numérica Bidimensional</i>. Ministrante: Dr. <b>Lucas Fontes Rabelo</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2023-10-18T15:00:00-03:00",
+    "dataFim": "2023-10-18T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento do Relevo Submarino Utilizando Batimetria Multifeixe e Imagens de Satélite Sentinel</i>. Ministrante: Me. <b>Beatriz Gomes Viana</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-18T17:00:00-03:00",
+    "dataFim": "2023-10-18T18:30:00-03:00",
+    "descricao": "<p>Debate: <i>Impactos da Erosão Costeira no Nordeste Brasileiro</i>. Debatedores: Prof. <b>Carlos Eduardo Souto</b> (UFC) e Dra. <b>Renata Meireles Pinto</b> (UFRJ). Mediação: <b>Mariana Castro Alencar</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Sessão de Painéis I e Coquetel de Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2023-10-18T18:30:00-03:00",
+    "dataFim": "2023-10-18T20:30:00-03:00",
+    "descricao": "<p>Exposição e avaliação de pôsteres científicos das áreas de oceanografia física e geológica, acompanhada de coquetel de boas-vindas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial da Manhã",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T09:45:00-03:00",
+    "descricao": "<p>Palestrante: Dr. <b>Henrique Varela de Sá</b>. Título da apresentação: <i>Uma Análise Comparativa Global Acerca da Governança Ambiental das Plataformas Continentais Juridicamente Estendidas e Seus Recursos Vivos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3: Oceanografia Biológica e Bentos",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": "2023-10-19T11:45:00-03:00",
+    "descricao": "<p>Comunicações científicas. Coordenação: Profa. <b>Heloísa Figueira</b>. Autores: <b>Guilherme Ramalho</b> (<i>Estrutura da Comunidade Macrobentônica no Litoral Norte</i>) e <b>Danielle Paiva</b> (<i>Monitoramento de Recifes de Coral sob Efeito de Ondas de Calor</i>).</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4: Geofísica Marinha e Tectônica",
+    "lugar": "Sala Pipa",
+    "dataInicio": "2023-10-19T10:00:00-03:00",
+    "dataFim": "2023-10-19T11:45:00-03:00",
+    "descricao": "<p>Comunicações científicas. Coordenação: Prof. <b>Walter Linhares</b>. Apresentação de artigos científicos de <b>Jorge Fagundes Filho</b> e <b>Patrícia Sampaio Nogueira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-10-19T11:45:00-03:00",
+    "dataFim": "2023-10-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Sala Maracajaú",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Oficina prática. Instrutores: <b>Camila Guedes Ribeiro</b> e <b>Victor Hugo Simões</b>. Conteúdo: <i>Metodologias Práticas para Amostragem Granulométrica e Tratamento Estatístico de Depósitos Quaternários</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Tema central: <i>Transição Energética e a Instalação de Complexos Eólicos Offshore no Mar Territorial Brasileiro</i>. Participantes: Eng. <b>Fernando Antunes Queiroz</b>, Dra. <b>Tatiana Borba</b> e Me. <b>Sérgio Campelo</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": null,
+    "dataInicio": "2023-10-19T15:30:00-03:00",
+    "dataFim": "2023-10-16T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5: Mudanças Climáticas e Paleoceanografia",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-10-19T16:00:00-03:00",
+    "dataFim": "2023-10-17T30:00-03:00",
+    "descricao": "<p>Sessão de artigos. Avaliadora: Profa. <b>Jéssica Trindade</b>. Trabalhos de <b>Larissa Miranda</b> (<i>Registros Isotópicos em Foraminíferos Planctônicos</i>) e <b>Bruno Cunha Prado</b> (<i>Reconstrução Paleoclimática Holocênica</i>).</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 6: Tecnologia Submarina e Acústica",
+    "lugar": "Sala Pipa",
+    "dataInicio": "2023-10-19T16:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Artigos orais com mediação do pesquisador Dr. <b>Gustavo Naves</b>. Artigo destaque de <b>Rafael Chaves Montenegro</b>: <i>Desenvolvimento de Gliders de Baixo Custo para Medições Oceanográficas Autónomas</i>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Oficina Temática Especial",
+    "lugar": "Sala Maracajaú",
+    "dataInicio": "2023-10-19T17:30:00-03:00",
+    "dataFim": "2023-10-19T19:00:00-03:00",
+    "descricao": "<p>Atividade colaborativa focada em planejamento marinho. Conduzida por Dra. <b>Elisa Barros Brandão</b>. Temática: <i>Integração de Conhecimentos Científicos e Políticas Públicas para o Fortalecimento da Gestão Territorial Sustentável das Zonas Costeiras Vulneráveis</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Painéis II",
+    "lugar": null,
+    "dataInicio": "2023-10-19T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação e avaliação dos pôsteres inscritos nas áreas de Biologia Marinha, Educação Ambiental e Gestão Costeira.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T09:30:00-03:00",
+    "descricao": "<p>Conferência ministrada pelo Prof. <b>Álvaro Barreto Silva</b> (USP). Título: <i>Acoplamento Oceano-Atmosfera e a Gênese de Eventos Extremos de Precipitação</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 7: Gestão Costeira Integrada",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-10-20T09:30:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": "<p>Apresentação de artigos orais. Coordenação: Profa. <b>Vânia Lúcia Esteves</b>. Apresentadores: <b>Márcio Lemos</b> e <b>Priscila Diniz</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 8: Oceanografia Física e Modelagem",
+    "lugar": "Sala Pipa",
+    "dataInicio": "2023-10-20T09:30:00-03:00",
+    "dataFim": "2023-10-20T11:00:00-03:00",
+    "descricao": "<p>Apresentações científicas com moderação de Dr. <b>Fábio Teles de Menezes</b>. Apresentação do trabalho de <b>Cristiano Meirelles</b> (<i>Simulação de Ondas de Tempestade no Atlântico Tropical</i>).</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": null,
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-20T11:30:00-03:00",
+    "dataFim": "2023-10-20T13:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Formação Acadêmica e as Exigências do Mercado no Setor Portuário e Offshore</i>. Convidados: <b>Rodrigo Maia Fontenele</b> e Profa. Dra. <b>Soraia Castelo Branco</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T13:00:00-03:00",
+    "dataFim": "2023-10-20T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reunião Plenária da Sociedade Científica",
+    "lugar": "Sala Genipabu",
+    "dataInicio": "2023-10-20T14:30:00-03:00",
+    "dataFim": "2023-10-20T16:00:00-03:00",
+    "descricao": "<p>Assembleia geral ordinária com membros da diretoria: presidente <b>Carlos Alberto Feitosa</b> e secretário-geral <b>Emílio Saraiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-20T16:00:00-03:00",
+    "dataFim": "2023-10-20T17:15:00-03:00",
+    "descricao": "<p>Apresentação final a cargo do Prof. Emérito Dr. <b>Gilberto Peixoto Arruda</b> (UFRJ). Tema: <i>O Futuro dos Recursos Minerais do Fundo Marinho: Perspectivas Geológicas e Desafios de Conservação Ecológica</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação de Artigos",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-20T17:15:00-03:00",
+    "dataFim": "2023-10-20T18:00:00-03:00",
+    "descricao": "<p>Divulgação e entrega do prêmio <i>Jovem Pesquisador em Geociências Marinhas 2023</i> pelo comitê avaliador liderado por Dra. <b>Cíntia Xavier de Souza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Encerramento",
+    "lugar": "Auditório Ponta Negra",
+    "dataInicio": "2023-10-20T18:00:00-03:00",
+    "dataFim": "2023-10-20T18:30:00-03:00",
+    "descricao": "<p>Agradecimentos institucionais e anúncio da sede da edição 2025 pelo coordenador geral Prof. <b>Marcelo Guimarães de Medeiros</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização Oficial de Despedida",
+    "lugar": null,
+    "dataInicio": "2023-10-20T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Jantar festivo com apresentações culturais potiguares para todos os congressistas inscritos.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,238 @@
+{
+ "spec": {
+  "id": "sint-42-00471",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 26,
+  "casos": [
+   "descricoes_ricas",
+   "sem_horario_fim",
+   "sem_local",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:20+00:00",
+ "uso_tokens": {
+  "entrada": 693,
+  "saida": 4180
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado das Comissões Próprias de Avaliação da Zona da Mata",
+   "local_geral": "Campus Universitário de Juiz de Fora, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Auditório Reitoria",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-18T09:00:00-03:00",
+    "dataFim": "2023-10-18T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos institucionais com a presença da magnífica reitora <b>Profª. Drª. Cecília Magalhães Costa</b> e do coordenador-geral da CPA <b>Prof. Marcos Aurélio de Oliveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-18T09:45:00-03:00",
+    "dataFim": "2023-10-18T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios do SINAES e a Autoavaliação Institucional Pós-Pandemia</i>.</p><p>Palestrante: <b>Prof. Dr. Cláudio Hermeto Neves</b> (INEP). Coordenação da mesa: <b>Profª. Drª. Fátima Siqueira Rocha</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-18T11:00:00-03:00",
+    "dataFim": "2023-10-18T11:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-18T11:20:00-03:00",
+    "dataFim": "2023-10-18T12:40:00-03:00",
+    "descricao": "<p>Tema: <i>Articulação entre o PDI e os Relatórios da CPA: Indicadores e Metas</i>.</p><p>Participantes convidados: <b>Dr. Rogério Mendonça Lins</b> (UFJF) e <b>Profª. Me. Helena Guimarães Pinto</b> (UFV). Coordenador do debate: <b>Prof. Roberto Sales Barbosa</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-18T12:40:00-03:00",
+    "dataFim": "2023-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Anfiteatro 1 - Bloco Didático",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T15:45:00-03:00",
+    "descricao": "<p>Coordenação de <b>Profª. Luciana Mendes Viana</b>.</p><p>Trabalhos apresentados: <i>O papel dos formulários eletrônicos na adesão discente</i> por <b>Mariana Castro Alvarenga</b>; <i>Análise qualitativa das respostas dos servidores técnicos</i> por <b>Lucas Vasconcelos Rios</b> e <b>Beatriz Damasceno</b>.</p>",
+    "secao": "Apresentação de Relatos e Trabalhos"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Anfiteatro 2 - Bloco Didático",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coordenação de <b>Prof. André Luiz Trindade</b>.</p><p>Apresentação dos trabalhos: <i>Impacto da infraestrutura avaliada pelos cursos de graduação</i> apresentado por <b>Patrícia Nogueira Campos</b>; <i>Autoavaliação e melhoria contínua dos cursos EAD</i> apresentado por <b>Geraldo Figueiredo Neto</b>.</p>",
+    "secao": "Apresentação de Relatos e Trabalhos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": null,
+    "dataInicio": "2023-10-18T15:45:00-03:00",
+    "dataFim": "2023-10-18T16:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-18T16:15:00-03:00",
+    "dataFim": "2023-10-18T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Engajamento Estudantil na Autoavaliação: Estratégias e Boas Práticas</i>.</p><p>Debatedores: <b>Profª. Sílvia Regina Teles</b>, o representante do Diretório Central <b>Thiago Antunes Moraes</b> e a avaliadora <b>Carla Vianna Rezende</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Oficina Metodológica A",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Mineração de Dados Textuais Aplicada aos Comentários Abertos da Avaliação</i>.</p><p>Facilitadores: <b>Prof. Wagner Duarte Paes</b> e <b>Me. Fabrício Fontes Couto</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Metodológica B",
+    "lugar": "Sala 104 - Faculdade de Educação",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Construção de Instrumentos e Escalas Psicométricas para Avaliação de Disciplinas</i>.</p><p>Instrutora: <b>Profª. Drª. Denise Pimenta Sobral</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Café de Integração",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-19T10:30:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Experiências Institucionais",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-19T11:00:00-03:00",
+    "dataFim": "2023-10-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Devolutiva dos Resultados para a Comunidade Externa e Sociedade Civil</i>.</p><p>Expositores: <b>Prof. Marcelo Brandão e Silva</b> e <b>Profª. Tânia Lúcia Carvalho</b>. Moderação conduzida por <b>Prof. Edilson Faria</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Horário Livre para Refeição",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:30:00-03:00",
+    "dataFim": "2023-10-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": null,
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Coordenadora: <b>Profª. Camila Tavares Bittencourt</b>.</p><p>Trabalhos: <i>O impacto da autoavaliação na gestão de laboratórios didáticos</i> por <b>Rodrigo Peixoto Valente</b>; <i>Perfil do corpo docente e avaliação institucional na Zona da Mata mineira</i> por <b>Juliana Esteves Braga</b> e <b>Carlos Eduardo Moreira</b>.</p>",
+    "secao": "Apresentação de Relatos e Trabalhos"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Anfiteatro 2 - Bloco Didático",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Coordenação: <b>Prof. Henrique Guimarães Santos</b>.</p><p>Apresentação dos trabalhos: <i>Percepção da comunidade universitária sobre sustentabilidade ambiental</i> por <b>Ana Paula Ferraz</b>; <i>Comunicação interna e a divulgação dos relatórios da CPA</i> por <b>Gabriel Toledo Dias</b>.</p>",
+    "secao": "Apresentação de Relatos e Trabalhos"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Tenda Cultural do Bosque",
+    "dataInicio": "2023-10-19T15:45:00-03:00",
+    "dataFim": "2023-10-19T17:15:00-03:00",
+    "descricao": "<p>Tema: <i>A representação técnico-administrativa nos processos avaliativos</i>.</p><p>Comissão organizadora: <b>Renata Albuquerque Diniz</b> e <b>Valter Nogueira Júnior</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Praça Cívica do Campus",
+    "dataInicio": "2023-10-19T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação especial do Quinteto de Cordas da Universidade sob regência do maestro <b>Luís Gustavo Peçanha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião de Alinhamento das CPAs Regionais",
+    "lugar": "Sala de Reuniões da Pró-Reitoria",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:00:00-03:00",
+    "descricao": "<p>Encontro de gestores de CPAs das faculdades privadas e institutos federais da região da Mata Mineira, coordenado por <b>Prof. Marcos Aurélio de Oliveira</b> e <b>Drª. Raquel Paiva Junqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Hall do Auditório Reitoria",
+    "dataInicio": "2023-10-20T10:00:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Governança Universitária e a Tomada de Decisão Baseada em Dados Avaliativos</i>.</p><p>Palestrante: <b>Profª. Drª. Marilene Vasconcelos</b>. Moderadora: <b>Profª. Nair Fagundes Cruz</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:00:00-03:00",
+    "dataFim": "2023-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Deliberações",
+    "lugar": null,
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Apresentação e votação das recomendações do fórum para subsidiar as diretrizes institucionais de 2024. Coordenação da mesa diretora composta por <b>Prof. Marcos Aurélio de Oliveira</b>, <b>Profª. Cristina Mattos Paiva</b> e <b>Sérgio Linhares Pontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Leitura da Carta de Juiz de Fora",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-20T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura do documento de compromissos avaliativos pelo relator <b>Prof. Antônio Carlos Belchior</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2023-10-20T16:15:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": "<p>Pronunciamento de encerramento pelo pró-reitor de Planejamento <b>Prof. Dr. Samuel Alencar Prado</b> e entrega simbólica de certificados à comissão organizadora presidida por <b>Profª. Fernanda Garcia Queiroz</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,291 @@
+{
+ "spec": {
+  "id": "sint-42-00467",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Vitória - ES",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 33,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:58+00:00",
+ "uso_tokens": {
+  "entrada": 643,
+  "saida": 5288
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores de Vitória 2025",
+   "local_geral": "Praça do Papa, Enseada do Suá, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial dos Portões",
+    "lugar": "Entrada Principal",
+    "dataInicio": "2025-05-15T17:00:00-03:00",
+    "dataFim": "2025-05-15T18:00:00-03:00",
+    "descricao": "<p>Boas-vindas ao público com recepção musical e apresentação da estrutura do festival com o coordenador <b>Marcelo Freitas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show de Cozinha Capixaba",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-15T18:30:00-03:00",
+    "dataFim": "2025-05-15T19:45:00-03:00",
+    "descricao": "<p>Preparo clássico da tradicional torta capixaba na panela de barro com a chef <b>Dona Penha</b> apresentando a receita <i>Segredos da Tradição na Panela de Barro</i>.</p>",
+    "secao": "Aulas-Show Tradicionais"
+   },
+   {
+    "nome": "Degustação Harmonizada",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2025-05-15T19:00:00-03:00",
+    "dataFim": "2025-05-15T20:15:00-03:00",
+    "descricao": "<p>Harmonização comentada de vinhos de altitude capixabas e queijos artesanais conduzida pelo sommelier <b>Lucas Venturim</b> no tema <i>Vinhos das Montanhas e Sabores Locais</i>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Oficina de Confeitaria",
+    "lugar": "Tenda Panificação e Doces",
+    "dataInicio": "2025-05-15T20:00:00-03:00",
+    "dataFim": "2025-05-15T21:15:00-03:00",
+    "descricao": "<p>Técnicas de doces finos com frutas tropicais nativas com o chef confeiteiro <b>Gilberto Rezende</b> apresentando <i>Doces Contemporâneos com Cacau de Linhares</i>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Palco Baía das Tartarugas",
+    "dataInicio": "2025-05-15T21:30:00-03:00",
+    "dataFim": "2025-05-15T23:00:00-03:00",
+    "descricao": "<p>Apresentação musical ao vivo com a cantora <b>Juliana Ribeiro</b> e banda com o show <i>Chorinho e Samba no Porto</i>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Oficina Infantil Chefinhos",
+    "lugar": "Espaço Kids",
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": "2025-05-16T15:30:00-03:00",
+    "descricao": "<p>Práticas lúdicas de alimentação saudável para crianças sob a orientação da nutricionista <b>Bárbara Camargo</b> com a atividade <i>Montando Pratos Coloridos com Frutas da Estação</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Marés",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T17:15:00-03:00",
+    "descricao": "<p>Palestra sobre sustentabilidade e procedência de pescados costeiros com a pesquisadora <b>Renata Pimentel</b> abordando o estudo <i>Pesca Artesanal e Rastreabilidade do Pescado no Espírito Santo</i>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Aula-show de Cozinha Capixaba",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-16T17:30:00-03:00",
+    "dataFim": "2025-05-16T18:45:00-03:00",
+    "descricao": "<p>Releitura moderna da moqueca de badejo com urucum e palmito pupunha apresentada pelo chef <b>Hugo Souza</b> no módulo <i>Moqueca Capixaba: Raízes e Modernidade</i>.</p>",
+    "secao": "Aulas-Show Tradicionais"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Marés",
+    "dataInicio": "2025-05-16T18:00:00-03:00",
+    "dataFim": "2025-05-16T19:15:00-03:00",
+    "descricao": "<p>Análise de tendências no mercado de alimentação fora do lar com o consultor <b>Fábio Novaes</b> apresentando o tema <i>Gestão e Hospitalidade na Gastronomia Litorânea</i>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Degustação Harmonizada",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2025-05-16T19:30:00-03:00",
+    "dataFim": "2025-05-16T20:45:00-03:00",
+    "descricao": "<p>Degustação guiada de cachaças premiadas do Espírito Santo harmonizadas com embutidos artesanais, conduzida pela especialista <b>Mariana Furtado</b>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Aula-show de Frutos do Mar",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-16T20:00:00-03:00",
+    "dataFim": "2025-05-16T21:15:00-03:00",
+    "descricao": "<p>Preparo de polvo grelhado com arroz caldoso de mariscos apresentado pela chef convidada <b>Carla Mendonça</b> intitulada <i>Riquezas do Atlântico: Técnicas de Cozimento do Polvo</i>.</p>",
+    "secao": "Aulas-Show Tradicionais"
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Palco Baía das Tartarugas",
+    "dataInicio": "2025-05-16T21:30:00-03:00",
+    "dataFim": "2025-05-16T23:30:00-03:00",
+    "descricao": "<p>Show com o grupo de MPB e forró pé-de-serra liderado pelo cantor <b>Danilo Silveira</b> apresentando <i>Cantos de Beira de Mar</i>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Encontro de Produtores Locais",
+    "lugar": "Feira da Agricultura Familiar",
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Mesa de diálogo entre chefs e agricultores rurais com mediação da agrônoma <b>Cristina Alvarenga</b> e do produtor <b>José Carlos Moura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Infantil Chefinhos",
+    "lugar": "Espaço Kids",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": "2025-05-17T13:00:00-03:00",
+    "descricao": "<p>Oficina de minipizzas e pães artesanais com recheios regionais orientada pela gastrônoma <b>Sabrina Couto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-show de Cozinha Capixaba",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-17T13:30:00-03:00",
+    "dataFim": "2025-05-17T14:45:00-03:00",
+    "descricao": "<p>Elaboração de caranguejada com pirão tradicional sob o comando do mestre cuca <b>Antônio Peçanha</b> na aula <i>O Caranguejo de Manguezal e a Tradição Urbana</i>.</p>",
+    "secao": "Aulas-Show Tradicionais"
+   },
+   {
+    "nome": "Oficina de Panificação Artesanal",
+    "lugar": "Tenda Panificação e Doces",
+    "dataInicio": "2025-05-17T14:30:00-03:00",
+    "dataFim": "2025-05-17T15:45:00-03:00",
+    "descricao": "<p>Aprenda fermentação natural aplicada a pães rústicos aromatizados com ervas com o padeiro <b>Claudio Diniz</b> no curso <i>Levain e Trigo Nacional na Prática</i>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Marés",
+    "dataInicio": "2025-05-17T15:00:00-03:00",
+    "dataFim": "2025-05-17T16:15:00-03:00",
+    "descricao": "<p>Discussão sobre a identidade da gastronomia capixaba como produto turístico apresentada pela secretária de turismo <b>Helena Soares</b> e pelo professor <b>Rodrigo Assis</b>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Aula-show de Frutos do Mar",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-17T16:30:00-03:00",
+    "dataFim": "2025-05-17T17:45:00-03:00",
+    "descricao": "<p>Técnicas de ceviche e tiradito utilizando peixes brancos da costa sul capixaba ministrada pelo chef <b>Santiago Meireles</b> com a aula <i>Frescor do Mar: Crudos e Marinados</i>.</p>",
+    "secao": "Aulas-Show Tradicionais"
+   },
+   {
+    "nome": "Degustação Harmonizada",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2025-05-17T17:00:00-03:00",
+    "dataFim": "2025-05-17T18:15:00-03:00",
+    "descricao": "<p>Sessão de cervejas artesanais capixabas e petiscos de boteco conduzida pelo sommelier <b>Bruno Vasconcellos</b> com o tema <i>Cervejas Locais e Comida de Boteco</i>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Oficina de Confeitaria",
+    "lugar": "Tenda Panificação e Doces",
+    "dataInicio": "2025-05-17T18:30:00-03:00",
+    "dataFim": "2025-05-17T19:45:00-03:00",
+    "descricao": "<p>Preparo de sobremesas empratadas com café arábica e melaço de cana ministrado pela confeiteira <b>Tatiana Bridi</b> na aula <i>O Café Especial nas Sobremesas Modernas</i>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Batalha de Cozinha ao Vivo",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-17T20:00:00-03:00",
+    "dataFim": "2025-05-17T21:30:00-03:00",
+    "descricao": "<p>Duelo culinário entre jovens talentos das faculdades de gastronomia avaliado pelos jurados <b>Chef Roberta Sudbrack</b> e <b>Chef Tiago Freitas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Palco Baía das Tartarugas",
+    "dataInicio": "2025-05-17T22:00:00-03:00",
+    "dataFim": "2025-05-17T23:45:00-03:00",
+    "descricao": "<p>Show instrumental e regional com o trio do violonista <b>Guilherme Batista</b> tocando clássicos da música capixaba e brasileira.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Encontro de Produtores Locais",
+    "lugar": "Feira da Agricultura Familiar",
+    "dataInicio": "2025-05-18T10:30:00-03:00",
+    "dataFim": "2025-05-18T11:45:00-03:00",
+    "descricao": "<p>Roda de conversa sobre cafés especiais e métodos de cultivo sustentável na região serrana mediada pela barista <b>Fernanda Zanetti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Infantil Chefinhos",
+    "lugar": "Espaço Kids",
+    "dataInicio": "2025-05-18T11:30:00-03:00",
+    "dataFim": "2025-05-18T12:30:00-03:00",
+    "descricao": "<p>Atividade prática de decoração de cupcakes caseiros com confeitos naturais ministrada por <b>Sabrina Couto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço dos Chefs",
+    "lugar": "Restaurante Central",
+    "dataInicio": "2025-05-18T12:30:00-03:00",
+    "dataFim": "2025-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Panificação Artesanal",
+    "lugar": "Tenda Panificação e Doces",
+    "dataInicio": "2025-05-18T14:00:00-03:00",
+    "dataFim": "2025-05-18T15:15:00-03:00",
+    "descricao": "<p>Focaccias clássicas e variações recheadas com queijo da serra ministradas pelo padeiro <b>Claudio Diniz</b> na oficina <i>A Focaccia Perfeita em Casa</i>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Marés",
+    "dataInicio": "2025-05-18T14:30:00-03:00",
+    "dataFim": "2025-05-18T15:45:00-03:00",
+    "descricao": "<p>Apresentação de estratégias para eliminação de desperdício em cozinhas profissionais ministrada pelo especialista <b>Eduardo Paiva</b> em <i>Cozinha Circular e Aproveitamento Integral dos Alimentos</i>.</p>",
+    "secao": "Painéis e Debates"
+   },
+   {
+    "nome": "Aula-show de Cozinha Capixaba",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-18T15:30:00-03:00",
+    "dataFim": "2025-05-18T16:45:00-03:00",
+    "descricao": "<p>Criação contemporânea de bobó de camarão servido na abóbora cabotiá com o chef <b>Vinícius Ramos</b> apresentando a aula <i>Novas Leituras do Camarão na Gastronomia Litorânea</i>.</p>",
+    "secao": "Aulas-Show Tradicionais"
+   },
+   {
+    "nome": "Degustação Harmonizada",
+    "lugar": "Espaço Terroir",
+    "dataInicio": "2025-05-18T16:00:00-03:00",
+    "dataFim": "2025-05-18T17:15:00-03:00",
+    "descricao": "<p>Sessão sensorial de cafés especiais de altitude com chocolates de origem, sob o comando da mestre de torra <b>Vanessa Lima</b>.</p>",
+    "secao": "Oficinas e Degustações"
+   },
+   {
+    "nome": "Aula-show de Frutos do Mar",
+    "lugar": "Arena Gourmet Senac",
+    "dataInicio": "2025-05-18T17:30:00-03:00",
+    "dataFim": "2025-05-18T18:45:00-03:00",
+    "descricao": "<p>Preparo de casquinha de siri e arroz de mariscada com toques asiáticos com o chef <b>Alexandre Gusmão</b> na aula <i>Fusão Brasil-Ásia com Frutos do Litoral</i>.</p>",
+    "secao": "Aulas-Show Tradicionais"
+   },
+   {
+    "nome": "Cerimônia de Premiação Gastronômica",
+    "lugar": "Palco Baía das Tartarugas",
+    "dataInicio": "2025-05-18T19:00:00-03:00",
+    "dataFim": "2025-05-18T20:15:00-03:00",
+    "descricao": "<p>Anúncio dos pratos vencedores do festival e premiação dos restaurantes destaques, com apresentação da jornalista <b>Larissa Valadares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Musical",
+    "lugar": "Palco Baía das Tartarugas",
+    "dataInicio": "2025-05-18T20:30:00-03:00",
+    "dataFim": "2025-05-18T22:00:00-03:00",
+    "descricao": "<p>Apresentação de encerramento do festival com a banda de congo tradicional regida pelo mestre <b>Sebastião Trindade</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Encerramento das Festividades",
+    "lugar": null,
+    "dataInicio": "2025-05-18T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

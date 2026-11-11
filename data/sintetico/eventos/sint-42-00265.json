@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-42-00265",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Campo Grande - MS",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 8,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:13:22+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 1175
+ },
+ "saida": {
+  "evento": {
+   "nome": "Pantanal GameDev Jam & Hackathon 2027",
+   "local_geral": "Parque Tecnológico de Campo Grande - ParkTec CG, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in dos Participantes e Retirada de Kits",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2027-05-20T08:00:00-03:00",
+    "dataFim": "2027-05-20T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Arena Principal",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": "2027-05-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação especial com o desenvolvedor sênior <b>Lucas Nogueira Albuquerque</b> abordando <i>Arquiteturas escaláveis e pipelines inteligentes aplicadas à computação gráfica para jogos independentes em cenários de produção com poucos recursos</i>.</p>",
+    "secao": "Ciclo de Palestras e Workshops"
+   },
+   {
+    "nome": "Workshop Técnico",
+    "lugar": "Laboratório de Prototipagem",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Oficina prática com a pesquisadora <b>Dra. Cecília Meireles Ramos</b> apresentando <i>Estratégias de inteligência artificial comportamental para personagens não jogáveis em mecânicas complexas de mundos abertos dinâmicos e persistentes</i>.</p>",
+    "secao": "Ciclo de Palestras e Workshops"
+   },
+   {
+    "nome": "Pausa para Lanche e Networking",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": "2027-05-21T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Início da Maratona de Desenvolvimento",
+    "lugar": "Salão de Hackathon",
+    "dataInicio": "2027-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação oficial do tema secreto da jam pelos mentores <b>Felipe Castanho</b> e <b>Mariana Vilela Siqueira</b>, dando largada ao desenvolvimento contínuo de projetos.</p>",
+    "secao": "Competição"
+   },
+   {
+    "nome": "Almoço dos Competidores",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2027-05-22T12:00:00-03:00",
+    "dataFim": "2027-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Especial",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2027-05-22T15:00:00-03:00",
+    "dataFim": "2027-05-22T17:00:00-03:00",
+    "descricao": "<p>Sessão de mentoria avançada conduzida por <b>Rodrigo Otávio Sanches</b> com foco em <i>Diretrizes completas para otimização de performance e redução de consumo de memória em motores multiplataforma para celulares</i>.</p>",
+    "secao": "Competição"
+   },
+   {
+    "nome": "Showcase e Encerramento",
+    "lugar": "Arena Principal",
+    "dataInicio": "2027-05-23T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Testes públicos das builds finais, avaliação do júri composto por <b>Tatiana Bernardes</b> e <b>Eduardo Farias</b>, seguida da entrega de prêmios aos times vencedores.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

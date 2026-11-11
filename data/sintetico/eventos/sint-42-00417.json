@@ -1,0 +1,83 @@
+{
+ "spec": {
+  "id": "sint-42-00417",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Recife - PE",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:37+00:00",
+ "uso_tokens": {
+  "entrada": 629,
+  "saida": 1258
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Capibaribe 2027",
+   "local_geral": "Cais do Sertão, Recife Antigo - Recife/PE"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Ribeira",
+    "dataInicio": "2027-05-15T09:00:00-03:00",
+    "dataFim": "2027-05-15T09:45:00-03:00",
+    "descricao": "<p>Boas-vindas aos participantes com a chef curadora <b>Mariana Vasconcelos</b> e apresentação dos eixos temáticos valorizando a gastronomia ribeirinha e os insumos da Zona da Mata pernambucana.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Senac Recife",
+    "dataInicio": "2027-05-15T10:00:00-03:00",
+    "dataFim": "2027-05-15T11:30:00-03:00",
+    "descricao": "<p>O chef convidado <b>Thiago Freitas</b> apresenta o preparo prático de <i>Releituras Contemporâneas do Caldinho de Sururu e Aratu</i>, destacando técnicas de emulsão a frio e infusões marinhas locais.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Gastronômico Ilha do Leite",
+    "dataInicio": "2027-05-15T10:00:00-03:00",
+    "dataFim": "2027-05-15T11:30:00-03:00",
+    "descricao": "<p>Com a confeiteira <b>Juliana Peixoto</b>, a oficina aborda o tema <i>Tradição e Arte no Bolo Souza Leão Artesanal</i>, desvendando pontos de cozimento da massa de mandioca e a redução ideal da calda de açúcar mascavo.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Circuito Gastronômico Livre",
+    "lugar": "Pátio das Tabernas",
+    "dataInicio": "2027-05-15T12:00:00-03:00",
+    "dataFim": "2027-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Senac Recife",
+    "dataInicio": "2027-05-15T14:30:00-03:00",
+    "dataFim": "2027-05-15T16:00:00-03:00",
+    "descricao": "<p>Conduzida pelo mestre cervejeiro <b>Cláudio Silveira</b> e pela sommelière <b>Renata Albuquerque</b>, a sessão foca em <i>Harmonizações Cervejeiras com Queijos Artesanais do Agreste</i>, apresentando quatro combinações autorais.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Espaço Manguezal",
+    "dataInicio": "2027-05-15T14:30:00-03:00",
+    "dataFim": "2027-05-15T16:00:00-03:00",
+    "descricao": "<p>A cozinheira tradicional <b>Dona Carmem de Olinda</b> e o antropólogo <b>Breno Maciel</b> discutem e preparam <i>O Guisado de Caprino com Farofa de Licuri: Memória e Sustentabilidade no Prato</i>.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Duelo Gastronômico e Encerramento",
+    "lugar": "Auditório Ribeira",
+    "dataInicio": "2027-05-15T16:30:00-03:00",
+    "dataFim": "2027-05-15T18:00:00-03:00",
+    "descricao": "<p>Desafio final entre novos talentos avaliados pelos jurados <b>Babi Frazão</b>, <b>César Santos</b> e <b>Mariana Vasconcelos</b>, seguido da entrega do troféu <i>Inovação Capibaribe 2027</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-42-00017",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Goiânia - GO",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "sem_local",
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:29+00:00",
+ "uso_tokens": {
+  "entrada": 682,
+  "saida": 1514
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jornada Goiana de Cardiologia Integrada e Cuidados Intensivos",
+   "local_geral": "Centro de Convenções de Goiânia, Goiânia - GO"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Congressistas e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2027-08-19T07:30:00-03:00",
+    "dataFim": "2027-08-19T08:30:00-03:00",
+    "descricao": "<p>Acolhimento aos participantes inscritos e retirada do material institucional do evento.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Abertura",
+    "lugar": "Auditório Ipe Roxo",
+    "dataInicio": "2027-08-19T08:30:00-03:00",
+    "dataFim": "2027-08-19T10:00:00-03:00",
+    "descricao": "<p>Conferência de abertura intitulada <i>Avanços nas Terapias Antitrombóticas Contemporâneas</i>, ministrada pelo <b>Dr. Henrique Cavalcante Soares</b> sob mediação da <b>Dra. Mariana Prado Alencar</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra sobre Atualizações Terapêuticas na Insuficiência Cardíaca Descompensada com Fração de Ejeção Reduzida em Pacientes Octogenários",
+    "lugar": null,
+    "dataInicio": "2027-08-19T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação dos ensaios clínicos mais recentes com o especialista <b>Dr. Thiago Nogueira Vilela</b>.</p>",
+    "secao": "Ciclo de Conferências Clínicas"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": null,
+    "dataInicio": "2027-08-19T11:45:00-03:00",
+    "dataFim": "2027-08-19T12:45:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias de Ventilação Mecânica Protetora no Choque Cardiogênico Grave</i> com a intensivista <b>Dra. Fernanda Lins Vasconcelos</b>.</p>",
+    "secao": "Ciclo de Conferências Clínicas"
+   },
+   {
+    "nome": "Oficina Prática de Manejo Avançado de Vias Aéreas e Intubação Sequencial Rápida em Cenários de Parada Cardiorrespiratória Intra-hospitalar",
+    "lugar": "Laboratório de Simulação Realística",
+    "dataInicio": "2027-08-20T09:00:00-03:00",
+    "dataFim": "2027-08-20T12:00:00-03:00",
+    "descricao": "<p>Treinamento prático em manequins de alta fidelidade coordenado pelo <b>Dr. Roberto Guimarães Dias</b> e pela instrutora <b>Enf. Camila Dantas Silveira</b>.</p>",
+    "secao": "Workshops de Habilidades"
+   },
+   {
+    "nome": "Oficina de Ecocardiografia Beira do Leito",
+    "lugar": "Laboratório de Simulação Realística",
+    "dataInicio": "2027-08-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Prática de ultrassonografia point-of-care (POCUS) voltada à monitorização hemodinâmica sob orientação do <b>Dr. Rodrigo Peixoto Morais</b>.</p>",
+    "secao": "Workshops de Habilidades"
+   },
+   {
+    "nome": "Palestra Internacional sobre Protocolos Intervencionistas Emergenciais de Resgate no Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST Complicado",
+    "lugar": null,
+    "dataInicio": "2027-08-21T08:30:00-03:00",
+    "dataFim": "2027-08-21T10:15:00-03:00",
+    "descricao": "<p>Apresentação ministrada pelo convidado internacional <b>Dr. Javier Morales Ortiz</b>, com comentários do <b>Dr. Lúcio Flávio Mendes</b>.</p>",
+    "secao": "Ciclo de Conferências Clínicas"
+   },
+   {
+    "nome": "Debate Interativo de Casos Clínicos Complexos",
+    "lugar": null,
+    "dataInicio": "2027-08-21T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão aberta de prontuários desafiadores da UTI coronariana liderada pela <b>Dra. Beatriz Fagundes Esteves</b> e pelo <b>Dr. Wallace Antunes Rezende</b>.</p>",
+    "secao": "Ciclo de Conferências Clínicas"
+   },
+   {
+    "nome": "Sessão de Encerramento e Premiação de Pôsteres Científicos",
+    "lugar": "Auditório Ipe Roxo",
+    "dataInicio": "2027-08-21T12:00:00-03:00",
+    "dataFim": "2027-08-21T13:00:00-03:00",
+    "descricao": "<p>Cerimônia de premiação dos melhores trabalhos e encerramento oficial presidido pela <b>Dra. Juliana Carvalho Meireles</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

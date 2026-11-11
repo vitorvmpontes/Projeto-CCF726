@@ -1,0 +1,212 @@
+{
+ "spec": {
+  "id": "sint-42-00324",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 23,
+  "casos": [
+   "intervalos",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:55+00:00",
+ "uso_tokens": {
+  "entrada": 673,
+  "saida": 3176
+ },
+ "saida": {
+  "evento": {
+   "nome": "TechSul Summit & Hackathon 2025",
+   "local_geral": "Centro de Eventos PUCRS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T10:15:00-03:00",
+    "descricao": "<p>Apresentação inaugural com <b>Rodrigo Silveira</b> sobre o ecossistema gaúcho de inovação e tendências globais em computação em nuvem.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-05-14T10:15:00-03:00",
+    "dataFim": "2025-05-14T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Corporativa 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-14T10:45:00-03:00",
+    "dataFim": "2025-05-14T12:00:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Estratégias Avançadas para Mitigação de Incidentes Críticos em Arquiteturas de Microsserviços Distribuídos de Alta Escala Global</i> conduzida por <b>Mariana Fagundes</b> e <b>Carlos Eduardo Dornelles</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-05-14T12:00:00-03:00",
+    "dataFim": "2025-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica A",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2025-05-14T13:30:00-03:00",
+    "dataFim": "2025-05-14T15:30:00-03:00",
+    "descricao": "<p>Prática de observabilidade com <b>Patrícia Ramos</b> utilizando ferramentas open-source.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Painel Executivo",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-14T15:45:00-03:00",
+    "dataFim": "2025-05-14T17:15:00-03:00",
+    "descricao": "<p>Debate sobre captação de talentos em TI com mediação de <b>Camila Duarte</b> e participação de <b>Felipe Sartori</b> e <b>Luciana Brizola</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Abertura Oficial do Hackathon",
+    "lugar": "Arena Tech",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T09:30:00-03:00",
+    "descricao": "<p>Divulgação dos desafios temáticos e regras da maratona com o coordenador <b>Lucas Meneghetti</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Início da Prototipação",
+    "lugar": "Arena Tech",
+    "dataInicio": "2025-05-15T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação das bancadas e início do desenvolvimento para as equipes inscritas.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Oficina Técnica B",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Exercício prático de <i>Pipelines Seguros de Integração Contínua com Foco em Aplicações Financeiras Modernas</i> conduzido por <b>Tiago Meirelles</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2025-05-15T12:00:00-03:00",
+    "dataFim": "2025-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria 1",
+    "lugar": "Arena Tech",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T17:00:00-03:00",
+    "descricao": "<p>Atendimento aos grupos com os mentores convidados <b>Aline Schneider</b>, <b>Guilherme Rossi</b> e <b>Juliana Pires</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-05-15T17:00:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-15T17:30:00-03:00",
+    "dataFim": "2025-05-15T18:45:00-03:00",
+    "descricao": "<p>Apresentação ministrada por <b>Vinícius Quadros</b> sobre o uso de bancos de dados vetoriais em larga escala.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Oficina Técnica C",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Oficina prática ministrada por <b>Renata Vasconcellos</b> abordando design systems escaláveis em frontend corporativo.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Palestra Corporativa 2",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-16T11:15:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Exposição do trabalho <i>Transformação Cultural e Implementação Prática de Engenharia de Plataforma para Ambientes Corporativos de Grande Complexidade</i> por <b>Otávio Fontoura</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:30:00-03:00",
+    "dataFim": "2025-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria 2",
+    "lugar": "Arena Tech",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Revisão de viabilidade dos protótipos com <b>Marcelo Guedes</b> e <b>Bruna Albuquerque</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Congelamento de Código",
+    "lugar": "Arena Tech",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encerramento do envio de commits nos repositórios dos projetos concorrentes.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Apresentação de Pitches",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-17T09:30:00-03:00",
+    "dataFim": "2025-05-17T12:00:00-03:00",
+    "descricao": "<p>Apresentação das soluções dos times finalistas para a banca avaliadora composta por <b>Débora Nogueira</b>, <b>Paulo Antunes</b> e <b>Sabrina Machado</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Almoço de Encerramento",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-05-17T12:00:00-03:00",
+    "dataFim": "2025-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Anúncio dos três melhores projetos e entrega dos troféus pelos organizadores <b>Lucas Meneghetti</b> e <b>Camila Duarte</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Happy Hour de Networking",
+    "lugar": "Pátio Externo",
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": "2025-05-17T18:00:00-03:00",
+    "descricao": "<p>Confraternização final entre congressistas, mentores e parceiros corporativos.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

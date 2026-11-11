@@ -1,0 +1,134 @@
+{
+ "spec": {
+  "id": "sint-42-00097",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Florianópolis - SC",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "sem_horario_fim",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:59:50+00:00",
+ "uso_tokens": {
+  "entrada": 678,
+  "saida": 2047
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Catarinense de Mulheres na Computação",
+   "local_geral": "Centro de Informática da UFSC, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Institucional",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com as coordenadoras gerais <b>Carla Silveira</b> e <b>Mariana Bitencourt</b>, apresentando o panorama das mulheres na TI no estado de Santa Catarina.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Liderança Feminina",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-19T10:30:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Debate sobre trajetórias de liderança em big techs e startups. Moderação por <b>Juliana Bastos</b>. Participação de <b>Renata Albuquerque</b> e <b>Fernanda Linhares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Inteligência Artificial",
+    "lugar": "Auditório B",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Patrícia Rossi</b>. Apresentação dos artigos: <i>Detecção de Vieses Algorítmicos em Modelos de Linguagem</i> por <b>Aline Guimarães</b> e <b>Beatriz Campos</b>; <i>Visão Computacional Aplicada ao Diagnóstico Oncológico</i> por <b>Tatiane Meireles</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2: Engenharia de Software",
+    "lugar": "Sala 104",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Vanessa Goulart</b>. Trabalhos apresentados: <i>Métricas de Qualidade em Arquiteturas Serverless</i> de autoria de <b>Luísa Duarte</b>; <i>Refatoração Contínua em Ambientes Ágeis</i> por <b>Camila Siqueira</b> e <b>Helena Fonseca</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Roda de Conversa com Meninas do Ensino Médio",
+    "lugar": null,
+    "dataInicio": "2027-05-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atividade de incentivo às carreiras STEM com condução da pesquisadora <b>Clara Menezes</b> e depoimentos das graduandas <b>Sofia Reis</b> e <b>Gabriela Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Redes",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Prática e Análise de Tráfego de Redes para Iniciantes</i>, ministrado pela especialista <b>Débora Valente</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Multiuso",
+    "dataInicio": "2027-05-20T09:00:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Introdução ao Aprendizado por Reforço com PyTorch</i>, ministrado por <b>Mônica Brandão</b> e <b>Talita Esteves</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Espaço de Conexão e Mentorias",
+    "lugar": null,
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessões individuais de mentoria de carreira organizadas por <b>Elisa Marcondes</b>, com apoio de profissionais voluntárias da comunidade local.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-20T16:30:00-03:00",
+    "dataFim": "2027-05-20T18:00:00-03:00",
+    "descricao": "<p>Apresentação de <i>Computação Quântica: Fundamentos e Oportunidades Futuras</i>, proferida pela Profa. Dra. <b>Isabela Nogueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Projetos de Inovação",
+    "lugar": "Auditório B",
+    "dataInicio": "2027-05-21T09:30:00-03:00",
+    "dataFim": "2027-05-21T11:30:00-03:00",
+    "descricao": "<p>Apresentações rápidas de startups lideradas por mulheres. Avaliação conduzida pelo comitê formado por <b>Daniela Farias</b>, <b>Rosana Klein</b> e <b>Lorena Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia da Rede Mulheres na Computação SC",
+    "lugar": null,
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:00:00-03:00",
+    "descricao": "<p>Reunião aberta da comunidade para definição das metas anuais e eleição da próxima comissão organizadora. Coordenação de <b>Carla Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores artigos científicos e pitches, conduzida pela coordenadora de programa <b>Patrícia Rossi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Cultural",
+    "lugar": null,
+    "dataInicio": "2027-05-21T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

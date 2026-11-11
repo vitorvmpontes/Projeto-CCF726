@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-42-00052",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Macapá - AP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 12,
+  "casos": [
+   "subtitulo_separado",
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:13+00:00",
+ "uso_tokens": {
+  "entrada": 684,
+  "saida": 1838
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jogos Universitários Integrados da Fronteira Norte (JUIFN 2023)",
+   "local_geral": "Campus Marco Zero da Universidade Federal do Amapá (UNIFAP), Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Concentração das Delegações",
+    "lugar": null,
+    "dataInicio": "2023-11-18T07:30:00-03:00",
+    "dataFim": "2023-11-18T08:15:00-03:00",
+    "descricao": "<p>Acolhimento das atléticas e conferência de documentos com a coordenação de <b>Lucas Bezerra</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2023-11-18T08:30:00-03:00",
+    "dataFim": "2023-11-18T09:30:00-03:00",
+    "descricao": "<p>Desfile das atléticas, acendimento da pira e juramento dos atletas liderado por <b>Amanda Picanço</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Torneio de Futsal Masculino - Fase Classificatória",
+    "lugar": "Quadra Coberta 1",
+    "dataInicio": "2023-11-18T10:00:00-03:00",
+    "dataFim": "2023-11-18T12:00:00-03:00",
+    "descricao": "<p>Disputas da primeira fase entre os cursos de Exatas, Saúde e Humanas. Arbitragem coordenada por <b>Carlos Eduardo Ramos</b>.</p>",
+    "secao": "Torneios Matutinos"
+   },
+   {
+    "nome": "Torneio de Voleibol Feminino - Fase Classificatória",
+    "lugar": "Quadra Coberta 2",
+    "dataInicio": "2023-11-18T10:00:00-03:00",
+    "dataFim": "2023-11-18T12:00:00-03:00",
+    "descricao": "<p>Rodadas eliminatórias das chaves A e B sob supervisão da professora <b>Renata Vales</b>.</p>",
+    "secao": "Torneios Matutinos"
+   },
+   {
+    "nome": "Competição de Xadrez Rápido",
+    "lugar": null,
+    "dataInicio": "2023-11-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Etapa única pelo sistema suíço de 5 rodadas com ritmo de 15 minutos, organizada pelo mestre local <b>Sérgio Maciel</b>.</p>",
+    "secao": "Torneios Matutinos"
+   },
+   {
+    "nome": "Almoço dos Atletas",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2023-11-18T12:00:00-03:00",
+    "dataFim": "2023-11-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório de Educação Física",
+    "dataInicio": "2023-11-18T13:30:00-03:00",
+    "dataFim": "2023-11-18T15:00:00-03:00",
+    "descricao": "<p>Tema: <i>Esporte Universitário na Amazônia: Desafios Logísticos e Inclusão Social</i>, com participação de <b>Profa. Dra. Elaine Guedes</b>, <b>Marcos Vinícius Silva</b> e mediação de <b>Tatiana Paiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Disputa de Finais do Futsal e Voleibol",
+    "lugar": "Ginásio Poliesportivo",
+    "dataInicio": "2023-11-18T15:30:00-03:00",
+    "dataFim": "2023-11-18T17:30:00-03:00",
+    "descricao": "<p>Jogos decisivos de medalha de ouro e prata com narração esportiva de <b>Diego Farias</b>.</p>",
+    "secao": "Finais e Decisões"
+   },
+   {
+    "nome": "Torneio Universitário de Queimada Mista",
+    "lugar": "Quadra Aberta",
+    "dataInicio": "2023-11-18T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Competição integrativa entre atléticas e centros acadêmicos sob coordenação de <b>Juliana Nery</b>.</p>",
+    "secao": "Finais e Decisões"
+   },
+   {
+    "nome": "Desafio de E-Sports Universitário",
+    "lugar": null,
+    "dataInicio": "2023-11-18T16:00:00-03:00",
+    "dataFim": "2023-11-18T18:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Finais da Copa Interatléticas de FIFA e League of Legends</i>. Organização do técnico <b>Rodrigo Alencar</b>.</p>",
+    "secao": "Finais e Decisões"
+   },
+   {
+    "nome": "Cerimônia de Premiação",
+    "lugar": null,
+    "dataInicio": "2023-11-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Entrega de troféus, medalhas de honra e premiação da atlética campeã geral conduzida por <b>Profa. Dra. Elaine Guedes</b> e o diretor esportivo <b>Lucas Bezerra</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Confraternização e Bateria Show",
+    "lugar": "Praça Universitária de Convivência",
+    "dataInicio": "2023-11-18T19:30:00-03:00",
+    "dataFim": "2023-11-18T22:00:00-03:00",
+    "descricao": "<p>Apresentação especial das baterias universitárias Furiosa e Tsunami, com coordenação do estudante <b>Gabriel Matos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "spec": {
+  "id": "sint-42-00074",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Viçosa - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 17,
+  "casos": [
+   "titulos_longos",
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:04+00:00",
+ "uso_tokens": {
+  "entrada": 695,
+  "saida": 2582
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada de Fé, Ecologia e Ação Comunitária da Zona da Mata",
+   "local_geral": "Paróquia São João Batista e Centro Comunitário Santo Antônio, Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Fraterno",
+    "lugar": "Salão Paroquial São João Batista",
+    "dataInicio": "2025-05-17T07:30:00-03:00",
+    "dataFim": "2025-05-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": "Nave Principal da Igreja Matriz",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T10:00:00-03:00",
+    "descricao": "<p>Celebração eucarística de envio presidida pelo <b>Padre Geraldo de Freitas</b> com participação do coral das comunidades rurais.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Círculo Bíblico",
+    "lugar": "Tenda da Esperança",
+    "dataInicio": "2025-05-17T10:15:00-03:00",
+    "dataFim": "2025-05-17T11:15:00-03:00",
+    "descricao": "<p>Reflexão coletiva guiada pela animadora <b>Irmã Teresa Vasconcelos</b> sobre o cuidado com a criação a partir do livro de Gênesis.</p>",
+    "secao": "Momentos de Oração e Partilha"
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Central do Colégio Carmo",
+    "dataInicio": "2025-05-17T11:15:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Palestra inaugural com o professor e diácono <b>Carlos Eduardo Fontes</b> abordando a conferência <i>Caminhos de solidariedade comunitária frente aos desafios socioambientais e à urgência de preservação das nascentes em territórios rurais</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Solidário",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": "2025-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala de Catequese 2",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Atividade prática conduzida por <b>Mariana Pires Resende</b> ensinando métodos caseiros de compostagem e reciclagem de resíduos orgânicos.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Pátio Comunitário Santo Antônio",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Oficina ministrada por <b>Vicente Silveira</b> com o tema <i>Metodologias populares de hortas comunitárias orgânicas como instrumento pedagógico e de transformação social na superação da vulnerabilidade alimentar</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": null,
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T16:00:00-03:00",
+    "descricao": "<p>Facilitada por <b>Clara Beatriz Mendonça</b>, focando em técnicas básicas de restauração de imagens sacras e patrimônio histórico paroquial.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lanche Comunitário",
+    "lugar": null,
+    "dataInicio": "2025-05-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Vigília Jovem",
+    "lugar": "Capela da Medalha Milagrosa",
+    "dataInicio": "2025-05-17T19:30:00-03:00",
+    "dataFim": "2025-05-17T21:30:00-03:00",
+    "descricao": "<p>Momento de louvor e adoração organizado pelo coordenador da pastoral juvenil <b>Lucas Antunes</b> e pela musicista <b>Fernanda Prado</b>.</p>",
+    "secao": "Momentos de Oração e Partilha"
+   },
+   {
+    "nome": "Círculo Bíblico",
+    "lugar": "Pátio Comunitário Santo Antônio",
+    "dataInicio": "2025-05-18T08:00:00-03:00",
+    "dataFim": "2025-05-18T09:00:00-03:00",
+    "descricao": "<p>Partilha matinal sobre a encíclica Laudato Si e os compromissos dos leigos, mediada por <b>Irmã Teresa Vasconcelos</b>.</p>",
+    "secao": "Momentos de Oração e Partilha"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Central do Colégio Carmo",
+    "dataInicio": "2025-05-18T09:15:00-03:00",
+    "dataFim": "2025-05-18T10:45:00-03:00",
+    "descricao": "<p>Apresentação da pesquisadora <b>Dra. Cecília Nogueira</b> e do líder comunitário <b>Sebastião Valadares</b> intitulada <i>O papel transformador das redes inter-religiosas na promoção de políticas públicas de segurança alimentar sustentável para populações periféricas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Experiências Comunitárias",
+    "lugar": "Auditório Central do Colégio Carmo",
+    "dataInicio": "2025-05-18T11:00:00-03:00",
+    "dataFim": "2025-05-18T12:30:00-03:00",
+    "descricao": "<p>Debate sobre iniciativas de economia popular solidária mediado por <b>Antônio Moreira</b> com depoimentos dos agentes pastorais <b>Dona Rita de Cássia</b> e <b>Jorge Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": null,
+    "dataInicio": "2025-05-18T12:30:00-03:00",
+    "dataFim": "2025-05-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mutirão Ecológico",
+    "lugar": null,
+    "dataInicio": "2025-05-18T14:00:00-03:00",
+    "dataFim": "2025-05-18T16:00:00-03:00",
+    "descricao": "<p>Ação coletiva de plantio de mudas nativas no entorno do córrego São Bartolomeu, sob coordenação do agrônomo <b>Felipe Dornelas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Partilha dos Frutos",
+    "lugar": "Salão Paroquial São João Batista",
+    "dataInicio": "2025-05-18T16:30:00-03:00",
+    "dataFim": "2025-05-18T17:30:00-03:00",
+    "descricao": "<p>Plenária para elaboração da carta de compromissos socioambientais das paróquias, facilitada por <b>Helena Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa de Encerramento",
+    "lugar": "Nave Principal da Igreja Matriz",
+    "dataInicio": "2025-05-18T18:00:00-03:00",
+    "dataFim": "2025-05-18T19:45:00-03:00",
+    "descricao": "<p>Eucaristia solene de encerramento presidida por <b>Dom Gabriel Álvares</b> e concelebrada pelo <b>Padre Geraldo de Freitas</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   }
+  ]
+ }
+}

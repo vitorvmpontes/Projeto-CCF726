@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00475",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Manaus - AM",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "subtitulo_separado",
+   "sem_horario_fim",
+   "intervalos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:25+00:00",
+ "uso_tokens": {
+  "entrada": 691,
+  "saida": 1205
+ },
+ "saida": {
+  "evento": {
+   "nome": "Simpósio Amazônico de Agrotecnologia e Bioeconomia 2023",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-11-23T08:00:00-03:00",
+    "dataFim": "2023-11-23T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-11-23T09:00:00-03:00",
+    "dataFim": "2023-11-23T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital nas Cadeias Produtivas da Amazônia</i></p><p>Coordenador: <b>Dr. Henrique Vasconcelos</b> (Embrapa Amazônia Ocidental).</p><p>Debatedores convidados: <b>Dra. Samia Nogueira</b> (UFAM) e <b>Marcio Bittencourt</b> (AgroTech Norte).</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo com Café Regional",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-11-23T10:30:00-03:00",
+    "dataFim": "2023-11-23T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pitches de Startups",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2023-11-23T11:00:00-03:00",
+    "dataFim": "2023-11-23T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Soluções Sustentáveis para o Cultivo e Rastreabilidade do Açaí e da Castanha</i></p><p>Apresentação dos trabalhos selecionados:</p><p>1. <i>Monitoramento por Satélite para Manejo Florestal Comunitário</i>, por <b>Lucas Medeiros</b> (BioData Amazônia).</p><p>2. <i>Blockchain na Rastreabilidade de Amêndoas de Cacau Silvestre</i>, por <b>Juliana Picanço</b> (BioTrace Brasil).</p><p>Avaliador: <b>Roberto Albuquerque</b> (Suframa).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-11-23T12:30:00-03:00",
+    "dataFim": "2023-11-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Rio Negro",
+    "dataInicio": "2023-11-23T14:00:00-03:00",
+    "dataFim": "2023-11-23T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Biotecnologia e Bioinsumos no Fortalecimento dos Sistemas Agroflorestais</i></p><p>Palestra de abertura com <b>Profa. Renata Guimarães</b> abordando <i>Microorganismos Nativos na Promoção do Crescimento Vegetal em Solos de Várzea</i>.</p><p>Moderação: <b>Carlos Eduardo Falcão</b> (FAPEAM).</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Encontro de Negócios e Confraternização",
+    "lugar": "Espaço Conectar",
+    "dataInicio": "2023-11-23T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de networking e prospecção de parcerias entre investidores, produtores rurais e aceleradoras.</p><p>Facilitação: <b>Mariana Siqueira</b> (SEBRAE-AM).</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "spec": {
+  "id": "sint-42-00309",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "descricoes_ricas",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:57+00:00",
+ "uso_tokens": {
+  "entrada": 657,
+  "saida": 2362
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Workshop Gaúcho de Inteligência Artificial Aplicada (WGIA 2026)",
+   "local_geral": "Centro de Eventos da PUCRS, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-05-18T08:00:00-03:00",
+    "dataFim": "2026-05-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Palestra inaugural intitulada <i>Modelos Fundacionais Multimodais: O Futuro da Visão Computacional e Processamento de Linguagem</i>, apresentada pelo Dr. <b>Marcelo Zanchettin</b> (UFRGS) e coordenada pela Profa. Dra. <b>Clarissa Menna Barreto</b> (PUCRS).</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Hall de Exposições",
+    "dataInicio": "2026-05-18T10:30:00-03:00",
+    "dataFim": "2026-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3B",
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T13:00:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de Prompt e Fine-Tuning de LLMs para Ambientes Corporativos</i>. Ministrante: <b>Rodrigo Silveira Dornelles</b> (Instituto Caldeira).</p>",
+    "secao": "Trilha de Minicursos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-18T13:00:00-03:00",
+    "dataFim": "2026-05-18T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 204",
+    "dataInicio": "2026-05-18T14:30:00-03:00",
+    "dataFim": "2026-05-18T17:00:00-03:00",
+    "descricao": "<p>Sessão de artigos curtos sobre Aprendizado Profundo em Saúde. Coordenação: Profa. <b>Helena Schultz</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Detecção Precoce de Retinopatia Diabética via Redes Neurais Convolucionais</i>, por <b>Lucas Pires Nogueira</b> e <b>Camila Duarte Vargas</b>.</p><p>2. <i>Segmentação Semântica de Tumores Cerebrais em Ressonâncias Magnéticas Usando U-Net 3D</i>, por <b>Felipe Fagundes</b> e <b>Tatiana Ribas</b>.</p><p>3. <i>Classificação de Eletrocardiogramas com Modelos Transformers Leves</i>, por <b>Diego Meirelles</b> e <b>Sabrina Alencastro</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório de Informática 3A",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T12:00:00-03:00",
+    "descricao": "<p>Minicurso prático: <i>Construção de Grafos de Conhecimento e RAG com Bancos Vetoriais</i>, conduzido por <b>Juliana Bastos Fontoura</b> (DataScientia Brasil).</p>",
+    "secao": "Trilha de Minicursos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-05-19T12:00:00-03:00",
+    "dataFim": "2026-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 204",
+    "dataInicio": "2026-05-19T13:30:00-03:00",
+    "dataFim": "2026-05-19T15:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos na área de Processamento de Linguagem Natural e Visão. Coordenação: Prof. <b>Alexandre Moretto</b>.</p><p>Trabalhos:</p><p>1. <i>Análise de Sentimentos em Tweets no Português Brasileiro com BERTimbau e Adaptações de Domínio</i>, de autoria de <b>Vitória Siqueira</b>, <b>Mateus Zanin</b> e <b>Guilherme Weber</b>.</p><p>2. <i>Monitoramento de Lavouras de Soja no Rio Grande do Sul Utilizando Imagens Orbitais e YOLOv10</i>, apresentado por <b>Patrícia Borges</b> e <b>Thiago Antunes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2026-05-19T16:00:00-03:00",
+    "dataFim": "2026-05-19T18:00:00-03:00",
+    "descricao": "<p>Painel sobre <i>Ética, Regulação da IA e o Marco Legal Brasileiro</i>. Mediadora: <b>Renata Azevedo Bittencourt</b>. Debatedores: <b>Carlos Eduardo Guimarães</b> (Ministério da Ciência e Tecnologia), <b>Mariana Fagundes Lins</b> (OAB/RS) e <b>Gustavo Henrique Paiva</b> (TechGov).</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Informática 3B",
+    "dataInicio": "2026-05-20T09:00:00-03:00",
+    "dataFim": "2026-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Aprendizado por Reforço Profundo em Simulações Robóticas</i>. Ministrantes: Prof. Dr. <b>Cristiano Bellini</b> e o doutorando <b>Bruno Telles</b> (Laboratório de Automação e Robótica).</p>",
+    "secao": "Trilha de Minicursos"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2026-05-20T14:00:00-03:00",
+    "dataFim": "2026-05-20T15:30:00-03:00",
+    "descricao": "<p>Palestra de encerramento proferida pela pesquisadora Dra. <b>Bárbara Vasconcelos</b> (DeepMind), abordando <i>Arquiteturas Eficientes para Dispositivos de Borda: Desafios e Tendências Globais</i>. Apresentação coordenada pelo Prof. <b>Fabiano Prestes</b>.</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Prédio 50",
+    "dataInicio": "2026-05-20T15:30:00-03:00",
+    "dataFim": "2026-05-20T16:30:00-03:00",
+    "descricao": "<p>Divulgação dos melhores artigos do evento com os coordenadores gerais <b>Clarissa Menna Barreto</b> e <b>Fabiano Prestes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

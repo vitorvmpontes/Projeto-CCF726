@@ -1,0 +1,259 @@
+{
+ "spec": {
+  "id": "sint-42-00312",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Niterói - RJ",
+  "ano": 2027,
+  "n_dias": 4,
+  "n_atividades": 29,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:23+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 4353
+ },
+ "saida": {
+  "evento": {
+   "nome": "28ª Semana Semestral de Extensão Universitária da UFF",
+   "local_geral": "Campus do Gragoatá, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Bloco D",
+    "dataInicio": "2027-10-19T08:00:00-03:00",
+    "dataFim": "2027-10-19T09:30:00-03:00",
+    "descricao": "<p>Acolhimento aos estudantes extensionistas e entrega dos kits de participação sob orientação de <b>Márcia Vasconcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Macunaíma",
+    "dataInicio": "2027-10-19T09:30:00-03:00",
+    "dataFim": "2027-10-19T10:30:00-03:00",
+    "descricao": "<p>Palavras da pró-reitora de extensão <b>Dra. Cecília Queiroz Peixoto</b> e representantes dos movimentos sociais de Niterói.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Macunaíma",
+    "dataInicio": "2027-10-19T10:45:00-03:00",
+    "dataFim": "2027-10-19T12:15:00-03:00",
+    "descricao": "<p>Conferência <i>Universidade Pública e Periferias: Pontes e Saberes Compartilhados</i>, ministrada pelo professor <b>Haroldo Tavares de Meneses</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-10-19T12:15:00-03:00",
+    "dataFim": "2027-10-19T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": "Pátio das Artes",
+    "dataInicio": "2027-10-19T14:00:00-03:00",
+    "dataFim": "2027-10-19T16:00:00-03:00",
+    "descricao": "<p>Exposição de banners da área de Educação e Meio Ambiente. Avaliação conduzida pelo parecerista <b>Renato Castanheira Silveira</b>.</p>",
+    "secao": "Mostra Científica de Extensão"
+   },
+   {
+    "nome": "Oficina de Formação Popular",
+    "lugar": "Sala 204 do Bloco O",
+    "dataInicio": "2027-10-19T14:00:00-03:00",
+    "dataFim": "2027-10-19T17:30:00-03:00",
+    "descricao": "<p>Aplicação do projeto <i>Teatro do Oprimido nas Escolas Comunitárias</i> com facilitação de <b>Bianca Trindade</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Tenda Cultural",
+    "dataInicio": "2027-10-19T16:30:00-03:00",
+    "dataFim": "2027-10-19T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia Solidária e Redes de Catadores da Baía de Guanabara</i> com <b>Joelma da Silva Prado</b> e o mediador <b>Danilo Couto Farias</b>.</p>",
+    "secao": "Diálogos Territoriais"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Praça Central do Gragoatá",
+    "dataInicio": "2027-10-19T18:30:00-03:00",
+    "dataFim": "2027-10-19T19:30:00-03:00",
+    "descricao": "<p>Espetáculo <i>Batuques da Terra e Cantares da Enseada</i> apresentado pelo <b>Grupo Mandinga de Niterói</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Formação Popular",
+    "lugar": "Sala 102 do Bloco N",
+    "dataInicio": "2027-10-20T08:30:00-03:00",
+    "dataFim": "2027-10-20T11:30:00-03:00",
+    "descricao": "<p>Edição matutina com o tema <i>Cartografia Social e Mapeamento Afetivo das Comunidades Costeiras</i> sob mediação de <b>Rodrigo Assis Bicalho</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão Temática Oral 1",
+    "lugar": "Sala 301 do Bloco D",
+    "dataInicio": "2027-10-20T09:00:00-03:00",
+    "dataFim": "2027-10-20T12:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de saúde coletiva, incluindo o projeto <i>Vigilância em Saúde nos Bairros da Zona Norte</i> apresentado por <b>Letícia Nogueira Maia</b> e coordenado por <b>Fábio Loureiro</b>.</p>",
+    "secao": "Mostra Científica de Extensão"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-10-20T12:00:00-03:00",
+    "dataFim": "2027-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": "Pátio das Artes",
+    "dataInicio": "2027-10-20T13:30:00-03:00",
+    "dataFim": "2027-10-20T15:30:00-03:00",
+    "descricao": "<p>Mostra de trabalhos da área de Tecnologia, Direitos Humanos e Cidadania com presença da coordenadora <b>Elisa Motta Siqueira</b>.</p>",
+    "secao": "Mostra Científica de Extensão"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Tenda Cultural",
+    "dataInicio": "2027-10-20T14:00:00-03:00",
+    "dataFim": "2027-10-20T16:00:00-03:00",
+    "descricao": "<p>Encontro <i>Mulheres Negras e Resistência Cultural no Morro do Preventório</i> com participação da ativista <b>Clara Nascimento</b> e de <b>Tereza Brant</b>.</p>",
+    "secao": "Diálogos Territoriais"
+   },
+   {
+    "nome": "Feira de Trocas Solidárias",
+    "lugar": "Gramado em frente ao Bloco O",
+    "dataInicio": "2027-10-20T15:30:00-03:00",
+    "dataFim": "2027-10-20T18:00:00-03:00",
+    "descricao": "<p>Atividade colaborativa de trocas sem dinheiro, organizada pelo coletivo coordenado por <b>Gustavo Valença</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Vídeos Extensionistas",
+    "lugar": "Cineclube Glauber Rocha",
+    "dataInicio": "2027-10-20T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exibição dos curtas-metragens <i>Vozes da Gamboa</i> dirigido por <b>Thiago Meireles</b> e <i>Maré Cheia de Memória</i> de <b>Samanta Dantas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática Oral 2",
+    "lugar": "Sala 302 do Bloco D",
+    "dataInicio": "2027-10-21T09:00:00-03:00",
+    "dataFim": "2027-10-21T12:00:00-03:00",
+    "descricao": "<p>Eixo Temático Comunicação e Direitos Culturais, mediado pela professora <b>Aline Guimarães Ramos</b>.</p>",
+    "secao": "Mostra Científica de Extensão"
+   },
+   {
+    "nome": "Oficina de Formação Popular",
+    "lugar": "Sala 204 do Bloco O",
+    "dataInicio": "2027-10-21T09:30:00-03:00",
+    "dataFim": "2027-10-21T12:00:00-03:00",
+    "descricao": "<p>Capacitação <i>Práticas de Agroecologia Urbana em Quintais e Escolas</i> sob coordenação de <b>Gilberto Araripe</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-10-21T12:00:00-03:00",
+    "dataFim": "2027-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Painéis",
+    "lugar": "Pátio das Artes",
+    "dataInicio": "2027-10-21T13:30:00-03:00",
+    "dataFim": "2027-10-21T15:30:00-03:00",
+    "descricao": "<p>Projetos da área de Linguagens, Arte e Cultura com presença da debatedora convidada <b>Patrícia Leão Ferraz</b>.</p>",
+    "secao": "Mostra Científica de Extensão"
+   },
+   {
+    "nome": "Roda de Conversa 3",
+    "lugar": "Tenda Cultural",
+    "dataInicio": "2027-10-21T14:30:00-03:00",
+    "dataFim": "2027-10-21T16:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>O Envelhecimento Ativo nas Políticas Municipais</i> coordenada por <b>Sandra Helena Vilarinho</b> com relato do projeto de <b>Igor Pacheco Paiva</b>.</p>",
+    "secao": "Diálogos Territoriais"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Macunaíma",
+    "dataInicio": "2027-10-21T16:45:00-03:00",
+    "dataFim": "2027-10-21T18:15:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Curricularização da Extensão: Desafios Metodológicos na Graduação</i> com o pró-reitor adjunto <b>Marcos Vinícius Goulart</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sarau Popular Universitário",
+    "lugar": "Espaço Aberto Cantareira",
+    "dataInicio": "2027-10-21T18:45:00-03:00",
+    "dataFim": "2027-10-21T21:00:00-03:00",
+    "descricao": "<p>Apresentações musicais e poesias organizadas pelos alunos do Diretório Acadêmico, liderados por <b>Larissa Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encontro de Coordenadores de Extensão",
+    "lugar": "Sala de Reuniões da Pró-Reitoria",
+    "dataInicio": "2027-10-22T08:30:00-03:00",
+    "dataFim": "2027-10-22T10:30:00-03:00",
+    "descricao": "<p>Balanço das ações do ano e alinhamento do edital 2028 presidido por <b>Dra. Cecília Queiroz Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática Oral 3",
+    "lugar": "Sala 301 do Bloco D",
+    "dataInicio": "2027-10-22T09:00:00-03:00",
+    "dataFim": "2027-10-22T11:30:00-03:00",
+    "descricao": "<p>Apresentação oral dos trabalhos em Engenharia Popular e Acessibilidade com mediação do professor <b>Valter Gusmão de Souza</b>.</p>",
+    "secao": "Mostra Científica de Extensão"
+   },
+   {
+    "nome": "Mesa de Encerramento",
+    "lugar": "Auditório Macunaíma",
+    "dataInicio": "2027-10-22T11:00:00-03:00",
+    "dataFim": "2027-10-22T12:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>O Futuro da Extensão e a Integração Latino-Americana</i> com os professores <b>Emiliano Cáceres</b> e <b>Maria Antônia Calmon</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-10-22T12:30:00-03:00",
+    "dataFim": "2027-10-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Macunaíma",
+    "dataInicio": "2027-10-22T14:00:00-03:00",
+    "dataFim": "2027-10-22T15:30:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do prêmio <i>Extensão UFF Destaque Comunitário</i> entregue por <b>Otávio Lacerda Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cortejo de Maracatu",
+    "lugar": "Pátio das Artes",
+    "dataInicio": "2027-10-22T15:45:00-03:00",
+    "dataFim": "2027-10-22T17:00:00-03:00",
+    "descricao": "<p>Apresentação festiva de celebração com o grupo popular liderado por <b>Mestra Joana de Ogum</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato de Confraternização Final",
+    "lugar": "Pátio das Artes",
+    "dataInicio": "2027-10-22T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Brinde e confraternização entre equipes extensionistas, docentes e público externo.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

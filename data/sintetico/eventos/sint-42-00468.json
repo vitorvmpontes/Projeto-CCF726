@@ -1,0 +1,229 @@
+{
+ "spec": {
+  "id": "sint-42-00468",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Florestal - MG",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 25,
+  "casos": [
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:54+00:00",
+ "uso_tokens": {
+  "entrada": 683,
+  "saida": 4226
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Congresso Mineiro de Direito Agrário e Ambiental de Florestal",
+   "local_geral": "Centro de Convenções do Campus CEDAF/UFV, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial dos trabalhos com pronunciamento do Diretor-Geral <b>Antônio Carlos de Rezende</b> e da Presidente da comissão organizadora <b>Mariana Vasconcelos Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-14T10:00:00-03:00",
+    "dataFim": "2025-05-14T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios da Regularização Fundiária e Sustentabilidade no Campo</i>.</p><p>Coordenação de mesa: <b>Juliana Pimenta Alvarenga</b>.</p><p>Palestrantes convidados: <b>Rodrigo Otávio Prado</b>, abordando <i>Marco Temporal e Terras Tradicionais</i>, e <b>Beatriz Montenegro de Castro</b>, ministrando a exposição <i>Conflitos Coletivos pela Posse da Terra em Minas Gerais</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-14T12:00:00-03:00",
+    "dataFim": "2025-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática A",
+    "dataInicio": "2025-05-14T13:30:00-03:00",
+    "dataFim": "2025-05-14T15:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Eduardo Chaves Brandão</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Direito das Águas e Conflitos na Bacia do Paraopeba</i>, de autoria de <b>Camila Duarte Ribeiro</b> e <b>Lucas Nogueira Sampaio</b>;</p><p>2. <i>O Papel da Mediação Extrajudicial nos Litígios de Posse Rural</i>, apresentado por <b>Patrícia Silveira Mendes</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática B",
+    "dataInicio": "2025-05-14T13:30:00-03:00",
+    "dataFim": "2025-05-14T15:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Renata Figueiredo Bastos</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Políticas Públicas de Crédito Rural e Mitigação de Danos Ecológicos</i>, por <b>Gustavo Henrique Faria</b>;</p><p>2. <i>Tutela Jurídica da Biodiversidade no Cerrado Mineiro</i>, de <b>Clarice de Souza Viana</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-14T15:30:00-03:00",
+    "dataFim": "2025-05-14T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-14T16:00:00-03:00",
+    "dataFim": "2025-05-14T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Governança Ambiental, ESG e a Cadeia Produtiva Agropecuária</i>.</p><p>Coordenadora: <b>Helena Toledo Barcellos</b>.</p><p>Debatedores: <b>Carlos Alberto Mendonça</b> discutindo <i>Compliance Socioambiental no Agronegócio de Exportação</i> e <b>Thaís Meireles Guimarães</b> com <i>Certificações Verdes e Responsabilidade Civil do Produtor</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Lançamento de Livros Jurídicos",
+    "lugar": "Espaço Cultural da Biblioteca",
+    "dataInicio": "2025-05-14T18:30:00-03:00",
+    "dataFim": "2025-05-14T19:30:00-03:00",
+    "descricao": "<p>Sessão de autógrafos com os autores <b>Leonardo Queiroz Moreira</b>, lançando <i>Tratado de Processo Agroambiental Coletivo</i>, e <b>Fernanda Paiva Dornas</b>, apresentando <i>Responsabilidade Extracontratual por Ilícitos Ecológicos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Dúvidas e Atendimento",
+    "lugar": "Secretaria do Evento",
+    "dataInicio": "2025-05-15T08:00:00-03:00",
+    "dataFim": "2025-05-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-15T09:00:00-03:00",
+    "dataFim": "2025-05-15T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transição Energética e Licenciamento Ambiental em Terras Produtivas</i>.</p><p>Coordenador: <b>Marcos Vinícius Abreu</b>.</p><p>Expositores: <b>Simone Amaral Albuquerque</b> apresentando <i>Parques Solares em Propriedades Rurais: Aspectos Contratuais e Impactos Ecológicos</i> e <b>Geraldo Magela Fontes</b> palestrando sobre <i>Desafios Regulatórios no Licenciamento de Biocombustíveis</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2025-05-15T11:00:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Elaboração e Análise de Contratos Agrários com Cláusulas Socioambientais</i>.</p><p>Instrutor: <b>Rogério Antunes Peixoto</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:30:00-03:00",
+    "dataFim": "2025-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Capacitação 2",
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Defesas Administrativas contra Autos de Infração Ambiental</i>.</p><p>Facilitadora: <b>Valéria Cristina Esteves</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-15T16:00:00-03:00",
+    "dataFim": "2025-05-15T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-15T16:30:00-03:00",
+    "dataFim": "2025-05-15T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Direito Tributário Aplicado ao Setor Agroindustrial e Tributação Verde</i>.</p><p>Coordenação: <b>Flávio Castelo Branco</b>.</p><p>Palestrantes: <b>Vanessa Cristina Meireles</b> abordando <i>ITR Progressivo e a Função Social da Propriedade</i> e <b>Danilo Siqueira Campos</b> apresentando <i>Benefícios Fiscais para Recuperação de Áreas Degradadas</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Reunião de Alinhamento de Pesquisa",
+    "lugar": "Sala de Reuniões da Reitoria",
+    "dataInicio": "2025-05-15T18:45:00-03:00",
+    "dataFim": "2025-05-15T19:45:00-03:00",
+    "descricao": "<p>Encontro da Rede Mineira de Pesquisadores em Direito Agrário conduzido por <b>Tiago Salgado Bueno</b> e <b>Sabrina Leão Porto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Dúvidas e Atendimento",
+    "lugar": "Secretaria do Evento",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala Temática A",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": "<p>Coordenador: <b>Samuel Pinheiro Guerra</b>.</p><p>Trabalhos em exposição:</p><p>1. <i>A Responsabilidade Criminal de Pessoas Jurídicas por Desastres Minerários</i>, de <b>Letícia Borges Naves</b>;</p><p>2. <i>Mercado Regulado de Carbono e Impactos na Agricultura Familiar</i>, de autoria conjunta de <b>Felipe Álvares Guimarães</b> e <b>Cláudia Regina Macedo</b>.</p>",
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Alimentar, Agrotóxicos e Jurisprudência dos Tribunais Superiores</i>.</p><p>Coordenadora: <b>Mônica Brandão de Carvalho</b>.</p><p>Debatedores: <b>Fábio Lourenço Neves</b> com a comunicação <i>O Princípio da Precaução no STF</i> e <b>Aline Ferreira Fontes</b> expondo <i>Diretrizes Sanitárias e Comércio Internacional de Grãos</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:30:00-03:00",
+    "dataFim": "2025-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": "2025-05-16T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Tecnologias Emergentes no Campo: Inteligência Artificial e Drones na Fiscalização Ambiental</i>.</p><p>Coordenador: <b>Wesley Aguiar Tavares</b>.</p><p>Palestrantes: <b>Ingrid Bernardes Vilela</b> com <i>Validade Probatória de Imagens de Satélite em Ações Civis Públicas</i> e <b>Guilherme Diniz Rocha</b> com <i>Smart Contracts e Rastreabilidade Agrícola</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2025-05-16T16:00:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Artigos Científicos",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T16:30:00-03:00",
+    "dataFim": "2025-05-16T17:15:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do Prêmio Jovem Pesquisador Agroambiental, conduzida pelos avaliadores <b>Otávio Augusto Morais</b> e <b>Elisa Maria Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T17:15:00-03:00",
+    "dataFim": "2025-05-16T18:00:00-03:00",
+    "descricao": "<p>Leitura da <i>Carta de Florestal pelo Desenvolvimento Sustentável</i> redigida pela comissão relatora presidida por <b>Mariana Vasconcelos Rios</b> e <b>Antônio Carlos de Rezende</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "spec": {
+  "id": "sint-42-00123",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Curitiba - PR",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 14,
+  "casos": [
+   "nomes_repetidos",
+   "descricoes_ricas",
+   "atividades_paralelas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:17+00:00",
+ "uso_tokens": {
+  "entrada": 709,
+  "saida": 2453
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Futuro Curitiba 2023",
+   "local_geral": "Centro de Eventos Positivo - Parque Barigui, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-18T09:00:00-03:00",
+    "dataFim": "2023-10-18T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a conferência <i>Transformação digital, conectividade no campo e a convergência de dados meteorológicos para maximização da produtividade agrícola sustentável</i> ministrada pelo engenheiro agrônomo <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2023-10-18T11:00:00-03:00",
+    "dataFim": "2023-10-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação rápida de modelos de negócios para investidores anjo. Coordenado por <b>Larissa Bittencourt</b>.</p><p>Apresentações confirmadas: <i>Sensoriamento Hiper-Espectral para Detecção Precoce de Pragas</i> por <b>Felipe Fagundes</b> e <i>Drones Autônomos de Alta Precisão para Pulverização de Defensivos Biológicos</i> por <b>Mariana Castro</b>.</p>",
+    "secao": "AgroInova Demo"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório Digital 1",
+    "dataInicio": "2023-10-18T11:00:00-03:00",
+    "dataFim": "2023-10-18T12:30:00-03:00",
+    "descricao": "<p>Treinamento prático sob o tema <i>Aplicações de algoritmos de inteligência artificial na automação de processos de colheita e monitoramento em tempo real de lavouras de grãos</i> com o instrutor <b>Rafael Siqueira</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2023-10-18T12:30:00-03:00",
+    "dataFim": "2023-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Patrícia Meireles</b>. Apresentação dos seguintes trabalhos científicos:</p><p><i>Biocombustíveis de Segunda Geração a partir de Resíduos da Soja</i> apresentado por <b>Gustavo Henrique Silva</b>;</p><p><i>Internet das Coisas Aplicada ao Manejo Hídrico de Precisão</i> apresentado por <b>Camila Vargas Nogueira</b>;</p><p><i>Eficiência Fotossintética sob Estresse Hídrico em Cultivares Paranaenses</i> apresentado por <b>Renato Alencar</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Pinheiro",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": "<p>Coordenação do Prof. Dr. <b>Marcos Vinícius Prado</b>. Trabalhos selecionados:</p><p><i>Mapeamento de Solo com Sensores de Indutância Magnética</i> por <b>Juliana Pires</b>;</p><p><i>Rastreabilidade Bovina Baseada em Tecnologia Blockchain</i> por <b>Diego Zanin</b>;</p><p><i>Dinâmica de Nutrientes Orgânicos no Cultivo Integrado Lavoura-Pecuária</i> por <b>Tatiana Moretti</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Networking e Degustação de Produtos Regionais",
+    "lugar": "Pavilhão de Exposições",
+    "dataInicio": "2023-10-18T16:30:00-03:00",
+    "dataFim": "2023-10-18T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório Digital 2",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Atividade prática focada em <i>Interpretação e Processamento de Imagens de Satélite Multiespectrais para o Planejamento de Safra</i>, ministrada pela geógrafa <b>Luciana Dantas</b> e pelo especialista <b>Alexandre Motta</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Segunda rodada de apresentações competitivas. Avaliação conduzida por <b>Beatriz Mendonça</b>.</p><p>Startups participantes: <i>BioFix: Inoculantes Bacterianos de Alta Performance</i> por <b>Lucas Fontana</b> e <i>SmartFeed: Nutrição Animal Inteligente Baseada em Visão Computacional</i> por <b>Fernanda Linhares</b>.</p>",
+    "secao": "AgroInova Demo"
+   },
+   {
+    "nome": "Painel de Sustentabilidade",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T11:00:00-03:00",
+    "dataFim": "2023-10-19T12:30:00-03:00",
+    "descricao": "<p>Debate sobre crédito de carbono e métricas ESG no agronegócio moderno. Moderação de <b>Helena Vasconcelos</b> com as presenças de <b>Rodrigo Campelo</b> e <b>Vanessa Schuler</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Exposição sobre o tema <i>Desafios e perspectivas na implementação de biotecnologias inovadoras voltadas ao combate biológico de pragas resistentes no cenário da agricultura tropical</i>, apresentada pela pesquisadora <b>Cláudia Zanetti</b>.</p>",
+    "secao": "Painéis Principais"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório Digital 1",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": "<p>Hands-on focado em <i>Desenvolvimento de Dashboards e Integração de Telemetria de Tratores e Colheitadeiras</i> ministrado por <b>Danilo Albuquerque</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Araucária",
+    "dataInicio": "2023-10-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Cerimônia de premiação dos melhores trabalhos e das startups vencedoras com os coordenadores <b>Larissa Bittencourt</b> e <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

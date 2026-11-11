@@ -1,0 +1,180 @@
+{
+ "spec": {
+  "id": "sint-42-00305",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:29+00:00",
+ "uso_tokens": {
+  "entrada": 660,
+  "saida": 2701
+ },
+ "saida": {
+  "evento": {
+   "nome": "BH Tech Summit & Hackathon 2024",
+   "local_geral": "Expominas, Belo Horizonte - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2024-05-17T08:00:00-03:00",
+    "dataFim": "2024-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Keynote de Abertura",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T10:15:00-03:00",
+    "descricao": "<p>Palestra de abertura intitulada <i>O Ecossistema de Inovação Mineiro e o Futuro da Inteligência Artificial</i>, ministrada por <b>Mariana Vasconcelos</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Apresentação dos Desafios do Hackathon",
+    "lugar": "Espaço Hacker Arena",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": "<p>Apresentação das trilhas e problemas propostos com <b>Lucas Mendes</b> e <b>Patrícia Carvalho</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Painel Corporativo",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-17T11:30:00-03:00",
+    "dataFim": "2024-05-17T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Escalabilidade de Microsserviços e Arquiteturas Modernas de Nuvem</i> com <b>Rodrigo Otávio</b>, <b>Camila Duarte</b> e <b>Felipe Guimarães</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker Arena",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Sessão de mentoria especializada para as equipes com <b>Henrique Viana</b> e <b>Beatriz Rocha</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": null,
+    "dataInicio": "2024-05-17T16:30:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Data Lakehouse: Da Concepção à Produção em Ambientes Críticos</i> conduzida por <b>Danilo Ferreira</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Pitch de Ideação",
+    "lugar": "Palco Conexão",
+    "dataInicio": "2024-05-17T18:00:00-03:00",
+    "dataFim": "2024-05-17T19:30:00-03:00",
+    "descricao": "<p>Validação preliminar de projetos dos times com banca avaliadora formada por <b>Júlio Resende</b> e <b>Sílvia Andrade</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Painel Corporativo",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-18T09:30:00-03:00",
+    "dataFim": "2024-05-18T10:45:00-03:00",
+    "descricao": "<p>Debate sobre <i>Cibersegurança e Privacidade de Dados em Setores Regulados</i> reunindo <b>Marcelo Sampaio</b> e <b>Carla Antunes</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Workshop Hands-on",
+    "lugar": null,
+    "dataInicio": "2024-05-18T11:00:00-03:00",
+    "dataFim": "2024-05-18T12:30:00-03:00",
+    "descricao": "<p>Oficina prática com o título <i>Desenvolvimento Rápido de APIs com Golang e GraphQL</i> sob coordenação de <b>Gabriel Meireles</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Mentoria Técnica",
+    "lugar": "Espaço Hacker Arena",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Segunda rodada de apoio às soluções com foco em viabilidade de produto, acompanhada por <b>Fabrício Santos</b> e <b>Elena Guimarães</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Workshop Hands-on",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2024-05-18T15:30:00-03:00",
+    "dataFim": "2024-05-18T17:00:00-03:00",
+    "descricao": "<p>Oficina intitulada <i>Otimização de Modelos de Linguagem para Ambientes Edge</i>, ministrada por <b>Vanessa Nogueira</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-18T17:15:00-03:00",
+    "dataFim": "2024-05-18T18:15:00-03:00",
+    "descricao": "<p>Sessão sobre <i>Observabilidade Avançada e Engenharia de Confiabilidade (SRE)</i> apresentada por <b>Alexandre Linhares</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Corujão de Desenvolvimento",
+    "lugar": "Espaço Hacker Arena",
+    "dataInicio": "2024-05-18T22:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Noite de codificação intensiva monitorada pelo coordenador técnico <b>Tiago Ramos</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Submissão Final de Códigos",
+    "lugar": null,
+    "dataInicio": "2024-05-19T10:00:00-03:00",
+    "dataFim": "2024-05-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-19T10:30:00-03:00",
+    "dataFim": "2024-05-19T11:30:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Construindo Carreira em Tecnologia: Das Startups às Big Techs</i> com <b>Renata Albuquerque</b>.</p>",
+    "secao": "Trilha Principal"
+   },
+   {
+    "nome": "Apresentação dos Finalistas",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-19T13:30:00-03:00",
+    "dataFim": "2024-05-19T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos melhores protótipos para o comitê de jurados liderado por <b>Fernanda Lins</b> e <b>Carlos Barreto</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Encontro de Comunidades e Networking",
+    "lugar": null,
+    "dataInicio": "2024-05-19T15:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Divulgação dos Vencedores",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-19T17:00:00-03:00",
+    "dataFim": "2024-05-19T18:00:00-03:00",
+    "descricao": "<p>Anúncio das equipes premiadas e entrega de troféus com a diretora <b>Mariana Vasconcelos</b>.</p>",
+    "secao": "Hackathon"
+   },
+   {
+    "nome": "Encerramento Oficial",
+    "lugar": "Auditório Principal Diamante",
+    "dataInicio": "2024-05-19T18:00:00-03:00",
+    "dataFim": "2024-05-19T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

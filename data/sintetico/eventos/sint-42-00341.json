@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00341",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Macapá - AP",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:19:06+00:00",
+ "uso_tokens": {
+  "entrada": 634,
+  "saida": 1445
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Mostra Integrada de Extensão Universitária do Amapá",
+   "local_geral": "Campus Marco Zero da Universidade Federal do Amapá (UNIFAP), Macapá - AP"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento da Comunidade e Apresentação Cultural",
+    "lugar": "Hall do Bloco de Letras e Artes",
+    "dataInicio": "2024-10-18T08:30:00-03:00",
+    "dataFim": "2024-10-18T09:15:00-03:00",
+    "descricao": "<p>Abertura do espaço com recepção dos participantes e apresentação do grupo de marabaixo coordenado pela mestra <b>Joana da Silva Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Diálogos de Abertura",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-10-18T09:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão inicial sobre o papel das universidades ribeirinhas com o Prof. Dr. <b>Carlos Eduardo Picanço</b> e a assistente social <b>Maria Clara Sanches</b> abordando <i>A Curricularização da Extensão e os Territórios Amazônicos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Laboratório Multiuso 2",
+    "dataInicio": "2024-10-18T10:30:00-03:00",
+    "dataFim": "2024-10-18T12:00:00-03:00",
+    "descricao": "<p>Prática de mapeamento colaborativo ministrada pela Profa. Ma. <b>Larissa Nobre</b> com o tema <i>Cartografia Social e Direitos Territoriais em Comunidades Tradicionais</i>.</p>",
+    "secao": "Oficinas Comunitárias"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Metodologias Ativas",
+    "dataInicio": "2024-10-18T10:30:00-03:00",
+    "dataFim": "2024-10-18T12:00:00-03:00",
+    "descricao": "<p>Capacitação voltada a agricultores e alunos com o engenheiro agrônomo <b>Tiago Mendonça</b> apresentando <i>Técnicas de Manejo Agroecológico do Açaí em Áreas de Várzea</i>.</p>",
+    "secao": "Oficinas Comunitárias"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Saúde e Meio Ambiente",
+    "lugar": "Tenda Expositiva Central",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Exibição e avaliação de projetos comunitários. Coordenação de <b>Patrícia Alencar Viana</b>, destacando o trabalho <i>Vigilância Participativa da Qualidade da Água no Arquipélago do Bailique</i> dos bolsistas <b>Rodrigo Lima</b> e <b>Ester Souza</b>.</p>",
+    "secao": "Apresentação de Projetos Extensionistas"
+   },
+   {
+    "nome": "Sessão de Pôsteres - Eixo Educação e Direitos Humanos",
+    "lugar": "Tenda Expositiva Central",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T16:00:00-03:00",
+    "descricao": "<p>Apresentação das iniciativas pedagógicas. Mediação do Prof. <b>Henrique Barbosa Furtado</b> com ênfase no relato <i>Alfabetização Popular de Jovens e Adultos em Áreas Periféricas de Macapá</i> apresentado por <b>Camila Guedes</b>.</p>",
+    "secao": "Apresentação de Projetos Extensionistas"
+   },
+   {
+    "nome": "Roda de Saberes Locais",
+    "lugar": "Bosque Universitário",
+    "dataInicio": "2024-10-18T16:30:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Troca de experiências entre parteiras tradicionais e estudantes de enfermagem conduzida pela enfermeira <b>Raimunda Pureza</b> e pela Profa. Dra. <b>Fernanda Tavares Monteiro</b> sobre <i>Práticas Tradicionais de Cuidado no Parto Ribeirinho</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato de Encerramento e Premiação de Destaques Extensionistas",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-10-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Cerimônia de premiação dos melhores trabalhos apresentados no evento, conduzida pelo Pró-Reitor de Extensão <b>Waldir Antunes Costa</b> e pela comissão organizadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

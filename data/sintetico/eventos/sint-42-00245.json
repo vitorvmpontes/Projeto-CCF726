@@ -1,0 +1,157 @@
+{
+ "spec": {
+  "id": "sint-42-00245",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Fortaleza - CE",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 16,
+  "casos": [
+   "sem_horario_fim",
+   "titulos_longos",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:45+00:00",
+ "uso_tokens": {
+  "entrada": 690,
+  "saida": 2559
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores da Costa Cearense: Gastronomia e Raízes",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Arena Principal Mar & Sertão",
+    "dataInicio": "2027-10-15T09:00:00-03:00",
+    "dataFim": "2027-10-15T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e lançamento oficial do festival com os coordenadores <b>Marina Alencar</b> e <b>Evaldo Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Cozinha Show Mucuripe",
+    "dataInicio": "2027-10-15T10:30:00-03:00",
+    "dataFim": "2027-10-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação culinária com a chef <b>Socorro Bastos</b> preparando o clássico <i>Arroz de Mariscos com Crocante de Macaxeira</i>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório Gastronômico 2",
+    "dataInicio": "2027-10-15T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Oficina de panificação regional com o mestre padeiro <b>Rodrigo Cordeiro</b>, abordando fermentação natural adaptada a altas temperaturas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Cachaças Artesanais",
+    "lugar": "Espaço Alambique Nordestino",
+    "dataInicio": "2027-10-15T14:00:00-03:00",
+    "dataFim": "2027-10-15T15:30:00-03:00",
+    "descricao": "<p>Coordenação do sommelier <b>Danilo Queiroz</b> com apresentação dos rótulos de alambiques da Serra de Ibiapaba.</p>",
+    "secao": "Circuito de Harmonizações"
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Jangada",
+    "dataInicio": "2027-10-15T16:00:00-03:00",
+    "dataFim": "2027-10-15T17:30:00-03:00",
+    "descricao": "<p>Palestra ministrada pela antropóloga alimentar <b>Cláudia Parente</b> com o tema <i>A preservação das tradições pesqueiras artesanais aliada ao desenvolvimento sustentável das comunidades litorâneas cearenses contemporâneas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural Noturna",
+    "lugar": "Palco Cordel",
+    "dataInicio": "2027-10-15T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Show musical de forró tradicional com o sanfoneiro <b>Zé do Fole</b> e convidados da cena cearense.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Cozinha Show Mucuripe",
+    "dataInicio": "2027-10-16T09:30:00-03:00",
+    "dataFim": "2027-10-16T11:00:00-03:00",
+    "descricao": "<p>O chef convidado <b>Tadeu Farias</b> ensina técnicas modernas de defumação aplicadas à tilápia do Castanhão.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório Gastronômico 1",
+    "dataInicio": "2027-10-16T11:00:00-03:00",
+    "dataFim": "2027-10-16T12:30:00-03:00",
+    "descricao": "<p>Confeitaria cearense com foco na castanha de caju, sob instrução da chef pâtissière <b>Lara Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Conversa",
+    "lugar": "Auditório Jangada",
+    "dataInicio": "2027-10-16T14:00:00-03:00",
+    "dataFim": "2027-10-16T16:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Afonso Leitão</b>. Trabalhos apresentados na sessão:</p><p><i>Resgate do Milho Crioulo no Maciço de Baturité</i> por <b>Samara Holanda</b></p><p><i>Inovação Tecnológica na Extração de Polpas Tropicais</i> por <b>Renan Barreto</b></p><p><i>Economia Criativa e Renda nos Quiosques da Beira-Mar</i> por <b>Fátima Nogueira</b></p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Laboratório Gastronômico 2",
+    "dataInicio": "2027-10-16T16:30:00-03:00",
+    "dataFim": "2027-10-16T18:00:00-03:00",
+    "descricao": "<p>Atividade conduzida pelo pesquisador <b>Geraldo Meireles</b> demonstrando <i>O impacto socioeconômico do aproveitamento integral do caju na culinária popular e na indústria do turismo regional</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Harmonização de Cafés e Queijos Regionais",
+    "lugar": "Espaço Alambique Nordestino",
+    "dataInicio": "2027-10-16T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>A barista <b>Juliana Viana</b> e o mestre queijeiro <b>Paulo Mendonça</b> conduzem degustação guiada de queijos de coalho maturados e cafés sombreados de Baturité.</p>",
+    "secao": "Circuito de Harmonizações"
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Cozinha Show Mucuripe",
+    "dataInicio": "2027-10-17T09:30:00-03:00",
+    "dataFim": "2027-10-17T11:00:00-03:00",
+    "descricao": "<p>Pratos tradicionais de quilombos e comunidades sertanejas preparados pela cozinheira tradicional <b>Dona Rita Sombra</b> com mediação de <b>Marcos Cavalcante</b>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Jangada",
+    "dataInicio": "2027-10-17T11:15:00-03:00",
+    "dataFim": "2027-10-17T12:45:00-03:00",
+    "descricao": "<p>Conferência ministrada pelo biólogo marinho <b>Carlos Dantas</b> abordando <i>A valorização da pesca sustentável do polvo e do camarão na culinária do Nordeste brasileiro como ferramenta de conservação</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Feira de Produtores e Sessão de Pitchings",
+    "lugar": "Arena Principal Mar & Sertão",
+    "dataInicio": "2027-10-17T14:30:00-03:00",
+    "dataFim": "2027-10-17T16:30:00-03:00",
+    "descricao": "<p>Apresentação de startups agroalimentares locais para investidores, sob coordenação de <b>Patrícia Vasconcelos</b> e avaliação de <b>Lucas Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Duelo Gastronômico Universitário",
+    "lugar": "Cozinha Show Mucuripe",
+    "dataInicio": "2027-10-17T17:00:00-03:00",
+    "dataFim": "2027-10-17T18:45:00-03:00",
+    "descricao": "<p>Competição ao vivo entre estudantes de gastronomia de instituições cearenses avaliados pelos jurados <b>Bia Gondim</b>, <b>Henrique Aragão</b> e <b>Vanessa Teles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Arena Principal Mar & Sertão",
+    "dataInicio": "2027-10-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio dos vencedores do circuito gastronômico com a comissão formada por <b>Marina Alencar</b>, <b>Evaldo Albuquerque</b> e convidados.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

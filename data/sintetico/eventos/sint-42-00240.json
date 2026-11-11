@@ -1,0 +1,316 @@
+{
+ "spec": {
+  "id": "sint-42-00240",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Viçosa - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 36,
+  "casos": [
+   "sem_local",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:39+00:00",
+ "uso_tokens": {
+  "entrada": 656,
+  "saida": 5607
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Mineiro de Inteligência Artificial Aplicada",
+   "local_geral": "Universidade Federal de Viçosa (UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Centro de Ensino e Desenvolvimento Agrário (CEDA)",
+    "dataInicio": "2023-10-18T08:00:00-03:00",
+    "dataFim": "2023-10-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-18T09:00:00-03:00",
+    "dataFim": "2023-10-18T09:30:00-03:00",
+    "descricao": "<p>Abertura institucional presidida pelo Prof. <b>Marcos Vinícius Silva</b> e pela Profa. <b>Carla Cristina Pereira</b> com as boas-vindas aos participantes do evento.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária 1",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-18T09:30:00-03:00",
+    "dataFim": "2023-10-18T10:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Desafios e Fronteiras dos Modelos de Linguagem de Grande Escala</i> ministrada pelo Dr. <b>Renato Guimarães Prado</b> (UFMG).</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-18T10:30:00-03:00",
+    "dataFim": "2023-10-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1 - Parte I",
+    "lugar": "Laboratório de Informática 01 - DCO",
+    "dataInicio": "2023-10-18T11:00:00-03:00",
+    "dataFim": "2023-10-18T12:30:00-03:00",
+    "descricao": "<p>Instrutora: Profa. <b>Luciana Duarte Ramos</b>.</p><p>Tema: <i>Introdução ao Aprendizado Profundo com PyTorch para Análise de Imagens Agrícolas</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2 - Parte I",
+    "lugar": "Laboratório de Informática 02 - DCO",
+    "dataInicio": "2023-10-18T11:00:00-03:00",
+    "dataFim": "2023-10-18T12:30:00-03:00",
+    "descricao": "<p>Instrutor: Dr. <b>Felipe Castanheira Nogueira</b>.</p><p>Tema: <i>Sistemas de Recomendação Baseados em Grafos de Conhecimento</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3 - Parte I",
+    "lugar": null,
+    "dataInicio": "2023-10-18T11:00:00-03:00",
+    "dataFim": "2023-10-18T12:30:00-03:00",
+    "descricao": "<p>Instrutor: Me. <b>Thiago Rezende Gomes</b>.</p><p>Tema: <i>Pipelines de MLOps com Ferramentas Open-Source</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-18T12:30:00-03:00",
+    "dataFim": "2023-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1: Visão Computacional",
+    "lugar": null,
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T15:30:00-03:00",
+    "descricao": "<p>Coordenadora: Profa. <b>Débora Fontes</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Detecção de Doenças Foliares em Cafeeiros Utilizando YOLOv8</i> por <b>Alexandre Matos</b> e <b>Bruna Sales</b>;</p><p>2. <i>Segmentação Semântica de Copa Florestal em Imagens de VANT</i> por <b>Rodrigo Assis</b> e <b>Carlos Eduardo Maia</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2: IA na Saúde",
+    "lugar": "Anfiteatro B do DCO",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T15:30:00-03:00",
+    "descricao": "<p>Coordenador: Prof. <b>Vinicius Morais Lima</b>.</p><p>Trabalhos:</p><p>1. <i>Classificação de Eletrocardiogramas com Redes Neurais Convolucionais 1D</i> por <b>Camila Sampaio</b>;</p><p>2. <i>Predição Precoce de Sepse Utilizando XGBoost</i> por <b>Fábio Esteves</b> e <b>Letícia Moreira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-18T16:00:00-03:00",
+    "dataFim": "2023-10-18T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Ética, Viés Algorítmico e Regulamentação da IA no Cenário Nacional</i>.</p><p>Debatedores: <b>Mariana Rios Furtado</b>, <b>Gustavo Henrique Bastos</b> e <b>Juliana Pimenta</b>. Mediação: Prof. <b>Otávio Álvares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres 1",
+    "lugar": "Hall do Centro de Ensino e Desenvolvimento Agrário (CEDA)",
+    "dataInicio": "2023-10-18T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Mostra de pôsteres de estudantes de graduação e iniciação científica.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1 - Parte II",
+    "lugar": "Laboratório de Informática 01 - DCO",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Continuação com a instrutora Profa. <b>Luciana Duarte Ramos</b> abordando redes convolucionais e transfer learning.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2 - Parte II",
+    "lugar": "Laboratório de Informática 02 - DCO",
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Continuação com Dr. <b>Felipe Castanheira Nogueira</b> explorando frameworks Neo4j e PyTorch Geometric.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3 - Parte II",
+    "lugar": null,
+    "dataInicio": "2023-10-19T08:30:00-03:00",
+    "dataFim": "2023-10-19T10:30:00-03:00",
+    "descricao": "<p>Continuação com Me. <b>Thiago Rezende Gomes</b> abordando orquestração com Kubeflow e MLflow.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-19T10:30:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária 2",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-19T11:00:00-03:00",
+    "dataFim": "2023-10-19T12:00:00-03:00",
+    "descricao": "<p>Conferência <i>Aplicações de IA no Agronegócio: Da Produtividade à Sustentabilidade</i> proferida pela Dra. <b>Helena Vasconcelos</b> (Embrapa).</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:00:00-03:00",
+    "dataFim": "2023-10-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório de Informática 03 - DCO",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Instrutor: Dr. <b>Sérgio Paiva Brandão</b>.</p><p>Tema: <i>Modelagem Preditiva com Algoritmos Baseados em Árvores e SHAP</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 5",
+    "lugar": "Laboratório de Informática 04 - DCO",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Instrutora: Profa. <b>Patrícia Albuquerque</b>.</p><p>Tema: <i>Processamento de Linguagem Natural com Transformers e Hugging Face</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão Técnica 3: Processamento de Linguagem Natural",
+    "lugar": null,
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T15:30:00-03:00",
+    "descricao": "<p>Coordenador: Prof. <b>Leonardo Toledo</b>.</p><p>Artigos:</p><p>1. <i>Extração Automática de Relações em Textos Jurídicos Brasileiros</i> por <b>Daniela Faria</b>;</p><p>2. <i>Análise de Sentimentos em Redes Sociais no Monitoramento de Pragas</i> por <b>Igor Silveira</b> e <b>Vanessa Cardoso</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-19T15:30:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 4: Aprendizado por Reforço e Robótica",
+    "lugar": "Anfiteatro B do DCO",
+    "dataInicio": "2023-10-19T16:00:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": "<p>Coordenação: Profa. <b>Aline Guimarães</b>.</p><p>Artigos apresentados:</p><p>1. <i>Navegação Autônoma de Robôs Móveis Utilizando Deep Q-Networks</i> por <b>Gabriel Cunha</b>;</p><p>2. <i>Controle Ótimo de Tráfego Urbano com Multi-Agent Reinforcement Learning</i> por <b>Lucas Medeiros</b> e <b>Pedro Henrique Lima</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra da Indústria 1",
+    "lugar": null,
+    "dataInicio": "2023-10-19T17:30:00-03:00",
+    "dataFim": "2023-10-19T18:30:00-03:00",
+    "descricao": "<p>Apresentação de <b>Marcelo Barbosa</b> da Startup AgroTech sobre <i>Implementação Prática de IA em Larga Escala no Campo</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização do Workshop",
+    "lugar": null,
+    "dataInicio": "2023-10-19T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Jantar por adesão e momento de confraternização dos congressistas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 6",
+    "lugar": "Laboratório de Informática 01 - DCO",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": "<p>Instrutor: Prof. <b>Mateus Antunes Silva</b>.</p><p>Tema: <i>Modelos Generativos e Redes Adversariais (GANs) na Geração de Dados Sintéticos</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 7",
+    "lugar": "Laboratório de Informática 02 - DCO",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T10:30:00-03:00",
+    "descricao": "<p>Instrutora: Me. <b>Tatiana Barcellos</b>.</p><p>Tema: <i>IA Explicável (XAI): Entendendo as Decisões de Modelos Caixa-Preta</i>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-20T10:30:00-03:00",
+    "dataFim": "2023-10-11T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária 3",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-20T11:00:00-03:00",
+    "dataFim": "2023-10-20T12:00:00-03:00",
+    "descricao": "<p>Palestra de encerramento ministrada pelo Prof. <b>Eduardo Simões da Rocha</b> (USP) abordando <i>O Papel da Computação Quântica no Futuro do Machine Learning</i>.</p>",
+    "secao": "Palestras Plenárias"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T12:00:00-03:00",
+    "dataFim": "2023-10-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5: Métodos Estatísticos e Teoria do Aprendizado",
+    "lugar": null,
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T15:00:00-03:00",
+    "descricao": "<p>Coordenador: Prof. <b>Wesley de Oliveira</b>.</p><p>Trabalhos:</p><p>1. <i>Regressão Bayesiana Aplicada à Estimativa de Risco Financeiro</i> por <b>Marina Paiva</b>;</p><p>2. <i>Convergência de Gradiente Descendente Estocástico com Momento Acelerado</i> por <b>Arthur Coimbra</b> e <b>Sílvia Macedo</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mesa-Redonda de Startups",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-20T15:00:00-03:00",
+    "dataFim": "2023-10-20T16:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Do Laboratório ao Mercado: Empreendendo em Inteligência Artificial em Minas Gerais</i> com <b>Caio Fontoura</b>, <b>Beatriz Mendonça</b> e <b>Fernando Arcuri</b>. Coordenador da sessão: <b>Rogério Lacerda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2023-10-20T16:30:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres 2",
+    "lugar": null,
+    "dataInicio": "2023-10-20T17:00:00-03:00",
+    "dataFim": "2023-10-20T18:00:00-03:00",
+    "descricao": "<p>Avaliação final dos trabalhos de pesquisa dos programas de pós-graduação convidados.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-20T18:00:00-03:00",
+    "dataFim": "2023-10-20T18:45:00-03:00",
+    "descricao": "<p>Cerimônia de premiação conduzida pelo comitê avaliador liderado por <b>Marcos Vinícius Silva</b> e entrega de menções honrosas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Principal do CEDA",
+    "dataInicio": "2023-10-20T18:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

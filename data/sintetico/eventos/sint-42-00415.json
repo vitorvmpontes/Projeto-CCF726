@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-42-00415",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Belém - PA",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:25+00:00",
+ "uso_tokens": {
+  "entrada": 657,
+  "saida": 983
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Paraense de Inteligência Artificial Aplicada (WPIAA 2027)",
+   "local_geral": "Parque de Ciência e Tecnologia Guamá (PCT Guamá), Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Auditório Almirante Barroso",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": "2027-05-18T09:15:00-03:00",
+    "descricao": "<p>Boas-vindas da coordenação geral com o coordenador <b>Prof. Dr. Marcelo Pinheiro</b> e apresentação das diretrizes de inovação regional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso: Fundamentos de Redes Convolucionais",
+    "lugar": "Laboratório de Computação Aplicada",
+    "dataInicio": "2027-05-18T09:30:00-03:00",
+    "dataFim": "2027-05-18T12:00:00-03:00",
+    "descricao": "<p>Primeira parte do curso <i>Introdução Prática à Visão Computacional com PyTorch</i>, ministrado pelo pesquisador <b>Msc. Renan Albuquerque</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-18T12:00:00-03:00",
+    "dataFim": "2027-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso: Fundamentos de Redes Convolucionais",
+    "lugar": "Laboratório de Computação Aplicada",
+    "dataInicio": "2027-05-18T13:30:00-03:00",
+    "dataFim": "2027-05-18T16:00:00-03:00",
+    "descricao": "<p>Segunda parte do curso prático abordando fine-tuning e transfer learning, sob supervisão de <b>Msc. Renan Albuquerque</b> e do monitor <b>Lucas Nogueira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso: Modelos de Linguagem para Bioeconomia",
+    "lugar": null,
+    "dataInicio": "2027-05-18T13:30:00-03:00",
+    "dataFim": "2027-05-18T16:00:00-03:00",
+    "descricao": "<p>Apresentação do minicurso <i>Processamento de Linguagem Natural Aplicado à Catalogação da Flora Amazônica</i>, ministrado pela <b>Dra. Samanta Cordovil</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão de Encerramento e Relatos de Experiência",
+    "lugar": null,
+    "dataInicio": "2027-05-18T16:30:00-03:00",
+    "dataFim": "2027-05-18T18:00:00-03:00",
+    "descricao": "<p>Debate sobre o futuro dos dados abertos na região norte conduzido por <b>Dra. Samanta Cordovil</b> e <b>Prof. Dr. Marcelo Pinheiro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

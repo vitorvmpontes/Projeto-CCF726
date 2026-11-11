@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-42-00218",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Brasília - DF",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "subtitulo_separado",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:33+00:00",
+ "uso_tokens": {
+  "entrada": 655,
+  "saida": 775
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Fórum Integrado de Autoavaliação Institucional da CPA",
+   "local_geral": "Auditório Esperança Garcia, Prédio da Reitoria, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Esperança Garcia",
+    "dataInicio": "2023-11-21T09:00:00-03:00",
+    "dataFim": "2023-11-21T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a participação do Magnífico Reitor <b>Prof. Dr. Cláudio Hermeto de Castro</b> e da coordenadora geral da CPA <b>Profa. Dra. Marlene Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Resultados",
+    "lugar": "Auditório Esperança Garcia",
+    "dataInicio": "2023-11-21T09:45:00-03:00",
+    "dataFim": "2023-11-21T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Relatório do Ciclo Avaliativo 2022-2023: Diagnósticos, Avanços e Desafios da Graduação e Pós-Graduação</i>.</p><p>Exposição conduzida pela pesquisadora institucional <b>Dra. Simone Albuquerque</b> com mediação de <b>Prof. Me. Rodrigo Fausto</b>.</p>",
+    "secao": "Painéis Avaliativos"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Esperança Garcia",
+    "dataInicio": "2023-11-21T14:00:00-03:00",
+    "dataFim": "2023-11-21T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Instrumentos de Avaliação e Políticas de Acessibilidade no Ensino Superior</i>.</p><p>Debatedores convidados: <b>Profa. Dra. Helena Guimarães</b> (UnB) e <b>Prof. Dr. André Luiz Pimenta</b> (INEP). Coordenação da mesa por <b>Esp. Renata Toledo</b>.</p>",
+    "secao": "Painéis Avaliativos"
+   },
+   {
+    "nome": "Plenária de Deliberações e Encerramento",
+    "lugar": "Auditório Esperança Garcia",
+    "dataInicio": "2023-11-21T16:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo: <i>Diretrizes e Encaminhamentos para o Plano de Desenvolvimento Institucional (PDI)</i>.</p><p>Coordenação dos trabalhos pela secretária executiva <b>Beatriz Mendonça Ramos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

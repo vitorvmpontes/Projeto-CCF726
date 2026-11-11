@@ -1,0 +1,212 @@
+{
+ "spec": {
+  "id": "sint-42-00408",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Santa Maria - RS",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 23,
+  "casos": [
+   "titulos_longos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:16+00:00",
+ "uso_tokens": {
+  "entrada": 672,
+  "saida": 3253
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira de Negócios e Inovação Empreendedora Sebrae Santa Maria 2024",
+   "local_geral": "Parque de Inovação e Tecnologia de Santa Maria"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Check-in",
+    "lugar": null,
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T09:30:00-03:00",
+    "descricao": "<p>Acolhimento dos participantes e retirada de crachás no hall de entrada principal.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-05-16T09:30:00-03:00",
+    "dataFim": "2024-05-16T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a presença de <b>Clarissa Medeiros</b>, diretora regional do Sebrae RS, e autoridades locais da Região Central do Rio Grande do Sul.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T11:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Metodologias Práticas de Transformação Digital para Pequenos Negócios do Interior com Foco no Aumento Sustentável das Vendas</i>, ministrada por <b>Fernando Albuquerque</b>.</p>",
+    "secao": "Painéis e Tendências"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Sul",
+    "dataInicio": "2024-05-16T11:45:00-03:00",
+    "dataFim": "2024-05-16T12:45:00-03:00",
+    "descricao": "<p>Debate sobre crédito e fomento para micro e pequenas empresas com <b>Juliana Pires</b> e <b>Mateus Rocha</b>.</p>",
+    "secao": "Painéis e Tendências"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:45:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala de Capacitação A",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Precificação Inteligente para o Comércio Varejista</i> conduzida por <b>Mariana Dornelles</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala de Capacitação B",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Aplicação de métodos de design sprint em pequenos empreendimentos com <b>Lucas Vasconcelos</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Rodada de Conexões Locais",
+    "lugar": null,
+    "dataInicio": "2024-05-16T16:30:00-03:00",
+    "dataFim": "2024-05-16T18:00:00-03:00",
+    "descricao": "<p>Sessão de networking e aproximação comercial entre produtores e lojistas da região.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Noturna",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-05-16T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Palestra de encerramento do primeiro dia: <i>Estratégias de Posicionamento em Mercados Competitivos</i>, apresentada por <b>Rodrigo Fontana</b>.</p>",
+    "secao": "Painéis e Tendências"
+   },
+   {
+    "nome": "Abertura dos Estandes",
+    "lugar": "Pavilhão de Exposição",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Visitação aos estandes de empresas parceiras e startups participantes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-05-17T10:00:00-03:00",
+    "dataFim": "2024-05-17T11:15:00-03:00",
+    "descricao": "<p>Apresentação do estudo <i>Panorama do Ecossistema Empreendedor do Rio Grande do Sul</i> com <b>Camila Siqueira</b>.</p>",
+    "secao": "Painéis e Tendências"
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala de Capacitação A",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:30:00-03:00",
+    "descricao": "<p>Oficina prática <i>Planejamento Financeiro e Gestão de Fluxo de Caixa Diário sem Complicação para Começar com Pouco Dinheiro</i> ministrada pelo consultor <b>Eduardo Trindade</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Sessão de Pitch Startups",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2024-05-17T11:30:00-03:00",
+    "dataFim": "2024-05-17T13:00:00-03:00",
+    "descricao": "<p>Apresentação rápida de soluções tecnológicas para banca avaliadora composta por <b>Beatriz Silveira</b> e investidores locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço Gastronômico e Convivência",
+    "lugar": null,
+    "dataInicio": "2024-05-17T13:00:00-03:00",
+    "dataFim": "2024-05-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Sala de Capacitação B",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:30:00-03:00",
+    "descricao": "<p>Prática de criação de conteúdos em vídeo para redes sociais focada em negócios locais com <b>Patrícia Ramos</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Consultoria Rápida Individual",
+    "lugar": null,
+    "dataInicio": "2024-05-17T15:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Atendimento express em gestão, marketing e finanças com técnicos credenciados do Sebrae.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Sul",
+    "dataInicio": "2024-05-17T17:30:00-03:00",
+    "dataFim": "2024-05-17T18:45:00-03:00",
+    "descricao": "<p>Encontro de lideranças femininas com mediação de <b>Luciane Vargas</b> e participação de empreendedoras convidadas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Inovação Regional",
+    "lugar": "Pavilhão de Exposição",
+    "dataInicio": "2024-05-18T09:30:00-03:00",
+    "dataFim": "2024-05-18T11:00:00-03:00",
+    "descricao": "<p>Exibição de projetos acadêmicos e produtos inovadores desenvolvidos na macrorregião central.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 5",
+    "lugar": "Sala de Capacitação A",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T12:00:00-03:00",
+    "descricao": "<p>Capacitação <i>Atendimento Humanizado e Estratégias de Fidelização de Clientes em Tempos de Comunicação Omnichannel e Varejo Digital</i> facilitada por <b>Tiago Meirelles</b>.</p>",
+    "secao": "Trilhas de Capacitação"
+   },
+   {
+    "nome": "Momento Conexão e Café",
+    "lugar": null,
+    "dataInicio": "2024-05-18T12:00:00-03:00",
+    "dataFim": "2024-05-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-05-18T13:30:00-03:00",
+    "dataFim": "2024-05-18T14:45:00-03:00",
+    "descricao": "<p>Painel sobre estratégias de exportação e internacionalização para empresas gaúchas com <b>Renata Azevedo</b>.</p>",
+    "secao": "Painéis e Tendências"
+   },
+   {
+    "nome": "Premiação Empreendedor Destaque",
+    "lugar": "Arena Central",
+    "dataInicio": "2024-05-18T15:00:00-03:00",
+    "dataFim": "2024-05-18T16:15:00-03:00",
+    "descricao": "<p>Cerimônia de entrega do troféu Destaque Empreendedor com anúncio conduzido por <b>Gustavo Fagundes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Happy Hour e Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-05-18T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Momento de confraternização final e encerramento oficial da feira.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

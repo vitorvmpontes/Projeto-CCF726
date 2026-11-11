@@ -1,0 +1,387 @@
+{
+ "spec": {
+  "id": "sint-42-00347",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "São Paulo - SP",
+  "ano": 2024,
+  "n_dias": 4,
+  "n_atividades": 45,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:02+00:00",
+ "uso_tokens": {
+  "entrada": 638,
+  "saida": 6758
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Recepção aos Calouros Poli-USP 2024",
+   "local_geral": "Campus Cidade Universitária, Escola Politécnica - São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Kit Bixo e Acolhimento",
+    "lugar": "Tenda Central do Biênio",
+    "dataInicio": "2024-02-26T08:00:00-03:00",
+    "dataFim": "2024-02-26T09:30:00-03:00",
+    "descricao": "<p>Distribuição do material de boas-vindas e identificação dos novos ingressantes pelos veteranos do Grêmio Politécnico, sob coordenação de <b>Lucas Silveira</b> e <b>Mariana Castro</b>.</p>",
+    "secao": "Recepção e Boas-Vindas"
+   },
+   {
+    "nome": "Aula Inaugural",
+    "lugar": "Auditório Francisco Romeu Landi",
+    "dataInicio": "2024-02-26T09:30:00-03:00",
+    "dataFim": "2024-02-26T11:00:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e conferência de abertura <i>O Papel da Engenharia Pública no Desenvolvimento Sustentável do Brasil</i> ministrada pelo Diretor Prof. Dr. <b>Reinaldo Giudici</b> acompanhado da Profa. Dra. <b>Liedi Légi Bariani Bernucci</b>.</p>",
+    "secao": "Recepção e Boas-Vindas"
+   },
+   {
+    "nome": "Apresentação dos Centros Acadêmicos",
+    "lugar": "Auditório Francisco Romeu Landi",
+    "dataInicio": "2024-02-26T11:00:00-03:00",
+    "dataFim": "2024-02-26T12:00:00-03:00",
+    "descricao": "<p>Apresentação das entidades de representação discente pelos diretores <b>Felipe Vasconcelos</b> e <b>Beatriz Mendonça</b>.</p>",
+    "secao": "Recepção e Boas-Vindas"
+   },
+   {
+    "nome": "Almoço Coletivo no Bandejão",
+    "lugar": "Restaurante Central da USP",
+    "dataInicio": "2024-02-26T12:00:00-03:00",
+    "dataFim": "2024-02-26T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelo Campus Butantã",
+    "lugar": "Ponto de Encontro: Prédio da Administração",
+    "dataInicio": "2024-02-26T13:30:00-03:00",
+    "dataFim": "2024-02-26T15:30:00-03:00",
+    "descricao": "<p>Reconhecimento dos principais prédios da Engenharia, bibliotecas e laboratórios de física, conduzido pelos monitores <b>Guilherme Sato</b> e <b>Bruna Albuquerque</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Gincana Quebra-Gelo",
+    "lugar": "Praça do Relógio",
+    "dataInicio": "2024-02-26T15:30:00-03:00",
+    "dataFim": "2024-02-26T17:30:00-03:00",
+    "descricao": "<p>Atividades dinâmicas e jogos cooperativos organizados pela equipe da Atlética sob liderança de <b>Matheus Prado</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Roda de Conversa sobre Permanência Estudantil",
+    "lugar": "Sala B1-02",
+    "dataInicio": "2024-02-26T17:30:00-03:00",
+    "dataFim": "2024-02-26T18:30:00-03:00",
+    "descricao": "<p>Orientação sobre bolsas de permanência, auxílios moradia e alimentação com a assistente social <b>Renata Meirelles</b> e o estudante <b>Thiago Nogueira</b>.</p>",
+    "secao": "Apoio ao Estudante"
+   },
+   {
+    "nome": "Palestra Informativa da Seção de Alunos",
+    "lugar": "Auditório do Biênio",
+    "dataInicio": "2024-02-26T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação dos sistemas JúpiterWeb, trancamento e créditos com o secretário acadêmico <b>Humberto Faria</b>.</p>",
+    "secao": "Apoio ao Estudante"
+   },
+   {
+    "nome": "Piquenique de Integração Noturno",
+    "lugar": "Gramado do Biênio",
+    "dataInicio": "2024-02-26T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do Biênio",
+    "dataInicio": "2024-02-27T08:30:00-03:00",
+    "dataFim": "2024-02-27T10:00:00-03:00",
+    "descricao": "<p>Conferência <i>Como Sobreviver ao Primeiro Ano da Graduação: Gestão de Tempo e Saúde Mental</i> com a psicóloga <b>Camila Duarte</b> e mediação de <b>Prof. Fernando Tavares</b>.</p>",
+    "secao": "Orientações Universitárias"
+   },
+   {
+    "nome": "Apresentação da Atlética e Bateria",
+    "lugar": "Pátio das Paineiras",
+    "dataInicio": "2024-02-27T10:00:00-03:00",
+    "dataFim": "2024-02-27T11:00:00-03:00",
+    "descricao": "<p>Mostra esportiva e musical organizada pelo presidente da AAAEP <b>Rodrigo Peixoto</b> e pela mestre de bateria <b>Helena Rocha</b>.</p>",
+    "secao": "Orientações Universitárias"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Francisco Romeu Landi",
+    "dataInicio": "2024-02-27T11:00:00-03:00",
+    "dataFim": "2024-02-27T12:30:00-03:00",
+    "descricao": "<p>Debate intitulado <i>Mulheres na Engenharia: Desafios e Conquistas no Ambiente Acadêmico</i> com as engenheiras <b>Tatiana Borges</b>, <b>Juliana Paes</b> e <b>Professora Vanessa Montoro</b>.</p>",
+    "secao": "Orientações Universitárias"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-02-27T12:30:00-03:00",
+    "dataFim": "2024-02-27T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Introdução ao Python para Engenharia",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-02-27T14:00:00-03:00",
+    "dataFim": "2024-02-27T15:30:00-03:00",
+    "descricao": "<p>Treinamento prático introdutório ministrado por <b>Danilo Sampaio</b> e <b>Carlos Eduardo Lima</b>.</p>",
+    "secao": "Workshops e Minicursos"
+   },
+   {
+    "nome": "Oficina de Modelagem e Prototipagem 3D",
+    "lugar": "Espaço Maker",
+    "dataInicio": "2024-02-27T14:00:00-03:00",
+    "dataFim": "2024-02-27T15:30:00-03:00",
+    "descricao": "<p>Primeiros passos no SolidWorks e corte a laser conduzido pelo instrutor <b>Rafael Diniz</b>.</p>",
+    "secao": "Workshops e Minicursos"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do Biênio",
+    "dataInicio": "2024-02-27T15:45:00-03:00",
+    "dataFim": "2024-02-27T17:00:00-03:00",
+    "descricao": "<p>Apresentação <i>Oportunidades de Duplo Diploma e Intercâmbio Internacional</i> coordenada pelo <b>Prof. Márcio Lobo Netto</b> e o coordenador de relações internacionais <b>Alexandre Ramos</b>.</p>",
+    "secao": "Workshops e Minicursos"
+   },
+   {
+    "nome": "Oficina de Cálculo Diferencial Básico",
+    "lugar": "Sala B2-05",
+    "dataInicio": "2024-02-27T15:45:00-03:00",
+    "dataFim": "2024-02-27T17:15:00-03:00",
+    "descricao": "<p>Nivelamento conceitual ministrado pela monitora <b>Gabriela Arantes</b>.</p>",
+    "secao": "Workshops e Minicursos"
+   },
+   {
+    "nome": "Pintura Coletiva do Mural dos Calouros",
+    "lugar": "Muro Externo do Prédio Civil",
+    "dataInicio": "2024-02-27T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Atividade artística comemorativa coordenada pelo coletivo cultural com orientação do artista visual <b>Caio Brandão</b>.</p>",
+    "secao": "Integração e Vivência"
+   },
+   {
+    "nome": "Cineclube com Pipoca",
+    "lugar": "Auditório Prof. Paulo de Camargo e Almeida",
+    "dataInicio": "2024-02-27T19:00:00-03:00",
+    "dataFim": "2024-02-27T21:00:00-03:00",
+    "descricao": "<p>Exibição de documentário sobre inovação tecnológica seguida de bate-papo conduzido pelo mediador <b>Lucas Berti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Feira de Extensão e Equipes de Competição",
+    "lugar": "Garagem dos Projetos / Tenda Biênio",
+    "dataInicio": "2024-02-28T09:00:00-03:00",
+    "dataFim": "2024-02-28T12:00:00-03:00",
+    "descricao": "<p>Mostra das equipes Poli Baja, Poli Racing, Aerodesign, Poli Finance e Engenheiros Sem Fronteiras com os capitães <b>Pedro Guimarães</b> e <b>Vinicius Morais</b>.</p>",
+    "secao": "Inovação e Extensão"
+   },
+   {
+    "nome": "Demonstração Prática do Carro Elétrico Formula SAE",
+    "lugar": "Estacionamento do Biênio",
+    "dataInicio": "2024-02-28T10:30:00-03:00",
+    "dataFim": "2024-02-28T11:15:00-03:00",
+    "descricao": "<p>Teste de pista do protótipo desenvolvido pelos alunos, com explanação do líder técnico <b>Gabriel Rezende</b>.</p>",
+    "secao": "Inovação e Extensão"
+   },
+   {
+    "nome": "Demonstração da Equipe de Robótica Móvel",
+    "lugar": "Hall do Prédio Mecânica",
+    "dataInicio": "2024-02-28T11:15:00-03:00",
+    "dataFim": "2024-02-28T12:00:00-03:00",
+    "descricao": "<p>Combate de robôs das categorias Featherweight e Mini-Sumô demonstrado pela coordenadora técnica <b>Larissa Fontes</b>.</p>",
+    "secao": "Inovação e Extensão"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-02-28T12:00:00-03:00",
+    "dataFim": "2024-02-28T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Francisco Romeu Landi",
+    "dataInicio": "2024-02-28T13:30:00-03:00",
+    "dataFim": "2024-02-28T14:45:00-03:00",
+    "descricao": "<p>Apresentação <i>Como Ingressar na Iniciação Científica e Publicar Artigos</i> apresentada pela <b>Profa. Dra. Mônica Carminatti</b>.</p>",
+    "secao": "Carreira e Pesquisa"
+   },
+   {
+    "nome": "Mesa de Egressos",
+    "lugar": "Auditório Francisco Romeu Landi",
+    "dataInicio": "2024-02-28T15:00:00-03:00",
+    "dataFim": "2024-02-28T16:30:00-03:00",
+    "descricao": "<p>Painel <i>Trajetórias Profissionais: Da Escola Politécnica para o Mercado Global</i> com os engenheiros formados <b>André Esteves Jr.</b>, <b>Flávia Toledo</b> e <b>Marcos Botelho</b>.</p>",
+    "secao": "Carreira e Pesquisa"
+   },
+   {
+    "nome": "Roda de Conversa com as Coletivas Universitárias",
+    "lugar": "Sala de Estudos do Grêmio",
+    "dataInicio": "2024-02-28T16:30:00-03:00",
+    "dataFim": "2024-02-28T17:30:00-03:00",
+    "descricao": "<p>Diálogo sobre representatividade negra, LGBT+ e coletivos feministas mediado por <b>Samira Cardoso</b> e <b>Jorge Anunciação</b>.</p>",
+    "secao": "Debates e Sociedade"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do Biênio",
+    "dataInicio": "2024-02-28T17:30:00-03:00",
+    "dataFim": "2024-02-28T18:30:00-03:00",
+    "descricao": "<p>Conferência <i>Engenharia sem Machismo: Criando um Ambiente Seguro para Todos</i> ministrada pela pesquisadora convidada <b>Dra. Clara Silvério</b>.</p>",
+    "secao": "Debates e Sociedade"
+   },
+   {
+    "nome": "Treino Aberto das Modalidades Esportivas",
+    "lugar": "Centro de Práticas Esportivas da USP (CEPEUSP)",
+    "dataInicio": "2024-02-28T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Treinos recreativos de futsal, handebol, vôlei e basquete com os técnicos <b>Cláudio Santoro</b> e <b>Aline Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Trote Solidário: Plantio de Mudas Nativas",
+    "lugar": "Bosque da Engenharia Civil",
+    "dataInicio": "2024-02-29T08:30:00-03:00",
+    "dataFim": "2024-02-29T10:30:00-03:00",
+    "descricao": "<p>Ação ambiental de recuperação de áreas verdes com auxílio do engenheiro florestal <b>Otávio Mesquita</b>.</p>",
+    "secao": "Ações Sociais e Solidárias"
+   },
+   {
+    "nome": "Trote Solidário: Coleta de Alimentos e Sangue",
+    "lugar": "Hemocentro USP / Prédio da Administração",
+    "dataInicio": "2024-02-29T09:00:00-03:00",
+    "dataFim": "2024-02-29T12:00:00-03:00",
+    "descricao": "<p>Campanha de doação de sangue e mantimentos coordenada pelo assistente voluntário <b>Marcelo Pimenta</b>.</p>",
+    "secao": "Ações Sociais e Solidárias"
+   },
+   {
+    "nome": "Visita aos Laboratórios do Departamento de Engenharia Mecânica",
+    "lugar": "Prédio Mecânica Nova",
+    "dataInicio": "2024-02-29T10:30:00-03:00",
+    "dataFim": "2024-02-29T12:00:00-03:00",
+    "descricao": "<p>Conhecendo os túneis de vento e laboratórios de combustão com o <b>Prof. Sérgio Tanaka</b>.</p>",
+    "secao": "Visitas Técnicas"
+   },
+   {
+    "nome": "Visita aos Laboratórios de Engenharia Elétrica e Computação",
+    "lugar": "Prédio da Engenharia Elétrica",
+    "dataInicio": "2024-02-29T10:30:00-03:00",
+    "dataFim": "2024-02-29T12:00:00-03:00",
+    "descricao": "<p>Demonstração dos centros de telecomunicações e robótica com a <b>Profa. Elisa Pinheiro</b>.</p>",
+    "secao": "Visitas Técnicas"
+   },
+   {
+    "nome": "Visita aos Laboratórios de Engenharia Química e Materiais",
+    "lugar": "Prédio da Engenharia Química",
+    "dataInicio": "2024-02-29T10:30:00-03:00",
+    "dataFim": "2024-02-29T12:00:00-03:00",
+    "descricao": "<p>Apresentação das plantas-piloto e equipamentos analíticos pelo <b>Prof. Arthur Antunes</b>.</p>",
+    "secao": "Visitas Técnicas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-02-29T12:00:00-03:00",
+    "dataFim": "2024-02-29T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Organização Financeira Estudantil",
+    "lugar": "Sala A-10",
+    "dataInicio": "2024-02-29T13:30:00-03:00",
+    "dataFim": "2024-02-29T14:45:00-03:00",
+    "descricao": "<p>Gestão de despesas na vida universitária e orçamento doméstico com os membros do Poli Finance <b>Gustavo Henrique</b> e <b>Natália Ferraz</b>.</p>",
+    "secao": "Workshops Complementares"
+   },
+   {
+    "nome": "Workshop de Soft Skills e Comunicação Assertiva",
+    "lugar": "Sala A-12",
+    "dataInicio": "2024-02-29T13:30:00-03:00",
+    "dataFim": "2024-02-29T14:45:00-03:00",
+    "descricao": "<p>Desenvolvimento interpessoal para futuros engenheiros ministrado pela consultora <b>Patrícia Galvão</b>.</p>",
+    "secao": "Workshops Complementares"
+   },
+   {
+    "nome": "Apresentação dos Projetos da Poli Júnior",
+    "lugar": "Auditório do Biênio",
+    "dataInicio": "2024-02-29T15:00:00-03:00",
+    "dataFim": "2024-02-29T16:00:00-03:00",
+    "descricao": "<p>Processo seletivo e cases de consultoria empresarial com o diretor-presidente da Poli Júnior <b>Bernardo Queiroz</b>.</p>",
+    "secao": "Empreendedorismo"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório do Biênio",
+    "dataInicio": "2024-02-29T16:00:00-03:00",
+    "dataFim": "2024-02-29T17:00:00-03:00",
+    "descricao": "<p>Palestra <i>Empreendendo na Universidade: Startups e Ecossistema do Inova USP</i> ministrada pelo engenheiro empreendedor <b>Leonardo Salgado</b>.</p>",
+    "secao": "Empreendedorismo"
+   },
+   {
+    "nome": "Bate-Papo de Encerramento com a Coordenação de Curso",
+    "lugar": "Auditório Francisco Romeu Landi",
+    "dataInicio": "2024-02-29T17:00:00-03:00",
+    "dataFim": "2024-02-29T18:00:00-03:00",
+    "descricao": "<p>Sessão de dúvidas finais com o coordenador geral do ciclo básico <b>Prof. Antônio Carlos Zanin</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação da Gincana dos Calouros",
+    "lugar": "Auditório Francisco Romeu Landi",
+    "dataInicio": "2024-02-29T18:00:00-03:00",
+    "dataFim": "2024-02-29T18:45:00-03:00",
+    "descricao": "<p>Divulgação da turma vencedora das arrecadações solidárias e gincanas com os veteranos <b>Mariana Castro</b> e <b>Lucas Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Musical do Coral da Poli",
+    "lugar": "Vão Livre do Biênio",
+    "dataInicio": "2024-02-29T18:45:00-03:00",
+    "dataFim": "2024-02-29T19:30:00-03:00",
+    "descricao": "<p>Concerto de encerramento sob regência do maestro <b>Eduardo Fernandes</b>.</p>",
+    "secao": "Festival de Encerramento"
+   },
+   {
+    "nome": "Corte do Bolo dos Bixos",
+    "lugar": "Vão Livre do Biênio",
+    "dataInicio": "2024-02-29T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Festival de Encerramento"
+   },
+   {
+    "nome": "Batalha de Rimas Universitária",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-02-29T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Duelo de rimas com estudantes da USP conduzido pelo MC <b>Tales Silva</b>.</p>",
+    "secao": "Festival de Encerramento"
+   },
+   {
+    "nome": "Show da Banda dos Veteranos",
+    "lugar": "Palco Principal do Biênio",
+    "dataInicio": "2024-02-29T20:45:00-03:00",
+    "dataFim": "2024-02-29T22:30:00-03:00",
+    "descricao": "<p>Apresentação musical da banda de rock autoral liderada pelo vocalista <b>Felipe Rossi</b>.</p>",
+    "secao": "Festival de Encerramento"
+   },
+   {
+    "nome": "Festa Oficial de Encerramento da Semana de Recepção",
+    "lugar": "Tenda do Biênio",
+    "dataInicio": "2024-02-29T22:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Comemoração final com os DJs <b>Beatriz Rocha</b> e <b>DJ Danrley</b>, promovida pelo Centro Acadêmico.</p>",
+    "secao": "Festival de Encerramento"
+   }
+  ]
+ }
+}

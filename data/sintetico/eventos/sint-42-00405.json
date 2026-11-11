@@ -1,0 +1,83 @@
+{
+ "spec": {
+  "id": "sint-42-00405",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "João Pessoa - PB",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:49+00:00",
+ "uso_tokens": {
+  "entrada": 637,
+  "saida": 1048
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroNordeste Tech 2027",
+   "local_geral": "Centro de Convenções Poeta Ronaldo Cunha Lima, João Pessoa - PB"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Recepção dos Participantes",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2027-08-18T08:00:00-03:00",
+    "dataFim": "2027-08-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-08-18T09:15:00-03:00",
+    "dataFim": "2027-08-18T10:30:00-03:00",
+    "descricao": "<p>Apresentação de <i>Transformação Digital e o Futuro da Convivência com o Semiárido</i> ministrada por <b>Dr. Marcelo Guimarães Farias</b> da Embrapa Algodão.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-08-18T11:00:00-03:00",
+    "dataFim": "2027-08-18T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Irrigação de Precisão e Gestão Hídrica Inteligente</i> com os especialistas <b>Dra. Cecília Meireles Cavalcanti</b> e <b>Eng. Rogério Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena Inovação",
+    "dataInicio": "2027-08-18T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação dinâmica com moderação de <b>Renata Vasconcelos Lins</b> avaliando soluções emergentes de biotecnologia aplicadas ao campo.</p>",
+    "secao": "AgTech Showcases"
+   },
+   {
+    "nome": "Demonstração Prática de Campo",
+    "lugar": "Área Externa Sul",
+    "dataInicio": "2027-08-19T09:00:00-03:00",
+    "dataFim": "2027-08-19T11:00:00-03:00",
+    "descricao": "<p>Demonstração prática conduzida por <b>Lucas Medeiros Barreto</b> com o tema <i>Voo Autônomo e Sensoriamento Remoto para Pulverização Agrícola</i>.</p>",
+    "secao": "AgTech Showcases"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Sala Cabo Branco",
+    "dataInicio": "2027-08-19T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Discussão sobre <i>Linhas de Crédito e Financiamento Sustentável para o Pequeno Produtor</i> coordenada por <b>Flávia Holanda Silva</b> e com participação de <b>Bernardo Queiroz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": "Auditório Tambaú",
+    "dataInicio": "2027-08-19T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Solenidade final de entrega do Prêmio Inovação no Campo 2027 sob comando de <b>Patrícia Nóbrega Dantas</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

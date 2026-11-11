@@ -1,0 +1,243 @@
+{
+ "spec": {
+  "id": "sint-42-00055",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Florianópolis - SC",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 27,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:44+00:00",
+ "uso_tokens": {
+  "entrada": 641,
+  "saida": 4381
+ },
+ "saida": {
+  "evento": {
+   "nome": "Sabores da Ilha Festival Gastronômico e Cultural 2026",
+   "local_geral": "Centro Sul Convenções, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-06T10:00:00-03:00",
+    "dataFim": "2026-11-06T11:00:00-03:00",
+    "descricao": "<p>Boas-vindas aos participantes com a presença do coordenador geral <b>Marcelo Vianna</b> e da representante da Secretaria de Turismo <b>Renata Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 1",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-06T11:15:00-03:00",
+    "dataFim": "2026-11-06T12:45:00-03:00",
+    "descricao": "<p>Apresentação culinária com a chef <b>Helena Rizzo Ramos</b> demonstrando a receita <i>Ostras da Costa da Esmeralda com emulsão de tucupi e farofa de castanhas</i>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Aula-Show 2",
+    "lugar": "Espaço Cozinha Criativa",
+    "dataInicio": "2026-11-06T11:30:00-03:00",
+    "dataFim": "2026-11-06T12:45:00-03:00",
+    "descricao": "<p>Preparo ao vivo com o chef <b>Rodrigo Castanho</b>, abordando o prato <i>Pirão d'água reinventado com frutos do mar defumados</i>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2026-11-06T12:45:00-03:00",
+    "dataFim": "2026-11-06T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2026-11-06T14:30:00-03:00",
+    "dataFim": "2026-11-06T16:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Carlos Eduardo Neves</b>. Trabalhos apresentados: <i>Impacto da maricultura na economia sustentável do litoral catarinense</i> por <b>Aline Guimarães</b>; <i>Análise físico-química da farinha de mandioca artesanal de Santo Antônio de Lisboa</i> por <b>Fabrício Santos</b>; e <i>Cadeias curtas de comercialização de pescados artesanais</i> por <b>Juliana Pires</b>.</p>",
+    "secao": "Comunicações Científicas e Técnicas"
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Laboratório de Bebidas",
+    "dataInicio": "2026-11-06T14:30:00-03:00",
+    "dataFim": "2026-11-06T16:00:00-03:00",
+    "descricao": "<p>Degustação e harmonização guiada pelo sommelier <b>Tiago Meirelles</b>, apresentando o minicurso <i>Vinhos de altitude catarinenses aplicados à culinária de mar</i>.</p>",
+    "secao": "Workshops de Harmonização"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-11-06T16:30:00-03:00",
+    "dataFim": "2026-11-06T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 3",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-06T17:00:00-03:00",
+    "dataFim": "2026-11-06T18:30:00-03:00",
+    "descricao": "<p>Apresentação do chef <b>Beto Oliveira</b> sobre a confecção de <i>Polvo grelhado na brasa com mousseline de batata-doce e pesto de coentro</i>.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2026-11-06T17:30:00-03:00",
+    "dataFim": "2026-11-06T19:00:00-03:00",
+    "descricao": "<p>Coordenado por <b>Mirian Furtado</b>. Palestrantes convidados: <b>Lucas Betti</b> falando sobre <i>Desafios da rastreabilidade na pesca de pequena escala</i>, e <b>Tânia Mara Souza</b> debatendo <i>Selo de indicação geográfica para a ostra de Florianópolis</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Abertura",
+    "lugar": "Palco Externo",
+    "dataInicio": "2026-11-06T19:30:00-03:00",
+    "dataFim": "2026-11-06T21:00:00-03:00",
+    "descricao": "<p>Show comemorativo com a participação do músico <b>Giba dos Santos</b> e intervenção teatral de <b>Clarissa Medeiros</b> resgatando contos da tradição açoriana.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2026-11-07T09:30:00-03:00",
+    "dataFim": "2026-11-07T10:45:00-03:00",
+    "descricao": "<p>Palestra com a pesquisadora <b>Clara Menezes</b> sobre <i>Cozinha ancestral: raízes indígenas e africanas na gastronomia litorânea</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 4",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-07T11:00:00-03:00",
+    "dataFim": "2026-11-07T12:30:00-03:00",
+    "descricao": "<p>Com o chef confeiteiro <b>Diego Vasconcelos</b> ensinando a preparar <i>Torta de requeijão artesanal da serra com compota de butiá</i>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Aula-Show 5",
+    "lugar": "Espaço Cozinha Criativa",
+    "dataInicio": "2026-11-07T11:00:00-03:00",
+    "dataFim": "2026-11-07T12:30:00-03:00",
+    "descricao": "<p>Conduzida pela chef <b>Sônia Prado</b>, demonstrando a montagem de <i>Caldeirada manezinha contemporânea com legumes orgânicos do Ribeirão</i>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2026-11-07T12:30:00-03:00",
+    "dataFim": "2026-11-07T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2026-11-07T14:00:00-03:00",
+    "dataFim": "2026-11-07T16:00:00-03:00",
+    "descricao": "<p>Coordenada pela Profa. Dra. <b>Denise Fontana</b>. Trabalhos apresentados: <i>Aproveitamento integral de resíduos de pescado em novos produtos alimentícios</i> por <b>Márcio Lemos</b> e <b>Ana Paula Schmidt</b>; <i>Turismo gastronômico como vetor de desenvolvimento em comunidades tradicionais</i> por <b>Guilherme Tavares</b>; e <i>Fermentação natural e microbactérias nativas da Mata Atlântica</i> por <b>Camila Duarte</b>.</p>",
+    "secao": "Comunicações Científicas e Técnicas"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Laboratório de Bebidas",
+    "dataInicio": "2026-11-07T14:30:00-03:00",
+    "dataFim": "2026-11-07T16:00:00-03:00",
+    "descricao": "<p>Mestres alambiqueiros <b>Pedro Álvares</b> e <b>Luciana Esteves</b> conduzem a oficina <i>Cachaças artesanais de Santa Catarina e infusões botânicas regionais</i>.</p>",
+    "secao": "Workshops de Harmonização"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-11-07T16:00:00-03:00",
+    "dataFim": "2026-11-07T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 6",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-07T16:30:00-03:00",
+    "dataFim": "2026-11-07T18:00:00-03:00",
+    "descricao": "<p>Apresentação culinária com a chef internacional <b>Sophie Bernard</b>, demonstrando técnicas francesas em <i>Robalo confitado ao azeite de ervas da serra catarinense</i>.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2026-11-07T18:00:00-03:00",
+    "dataFim": "2026-11-07T19:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Fernando Barreto</b>. Palestras dos debatedores: <b>Beatriz Valente</b> com <i>Desperdício zero em restaurantes de grande porte</i> e <b>Marcos Silvério</b> com <i>Tecnologias limpas na conservação de frutos do mar frescos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural de Degustação",
+    "lugar": "Palco Externo",
+    "dataInicio": "2026-11-07T20:00:00-03:00",
+    "dataFim": "2026-11-07T22:00:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo de samba tradicional conduzido por <b>Valdir Aguiar</b>, acompanhada por intervenções do mestre cervejeiro <b>Bruno Fagundes</b>.</p>",
+    "secao": "Atrações Culturais"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2026-11-08T09:30:00-03:00",
+    "dataFim": "2026-11-08T10:45:00-03:00",
+    "descricao": "<p>Palestra de <b>Patrícia Kohler</b> intitulada <i>O futuro do consumo sustentável de pescados no sul do Brasil</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show 7",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-08T11:00:00-03:00",
+    "dataFim": "2026-11-08T12:30:00-03:00",
+    "descricao": "<p>A chef <b>Gisela Arruda</b> prepara ao vivo o prato <i>Nhoque de pinhão com ragu de linguiça colonial e queijo serrano</i>.</p>",
+    "secao": "Aulas-Show Matutinas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": "Praça de Alimentação",
+    "dataInicio": "2026-11-08T12:30:00-03:00",
+    "dataFim": "2026-11-08T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2026-11-08T14:00:00-03:00",
+    "dataFim": "2026-11-08T15:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Renato Castanheira</b>. Apresentações dos seguintes trabalhos acadêmicos: <i>Desenvolvimento de cerveja artesanal aromatizada com butiá</i> por <b>Felipe Dornelles</b>; <i>Práticas de segurança de alimentos na manipulação de moluscos bivalves</i> por <b>Roberta Fagundes</b>; e <i>Valorização do pinhão na culinária regional contemporânea</i> por <b>Larissa Muniz</b>.</p>",
+    "secao": "Comunicações Científicas e Técnicas"
+   },
+   {
+    "nome": "Aula-Show 8",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-08T15:30:00-03:00",
+    "dataFim": "2026-11-08T17:00:00-03:00",
+    "descricao": "<p>Demonstração pelo chef <b>Otávio Fontes</b> elaborando <i>Sobremesas autorais com mel de melato da bracatinga e frutas nativas</i>.</p>",
+    "secao": "Aulas-Show Vespertinas"
+   },
+   {
+    "nome": "Premiação Melhores Sabores da Ilha",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-08T17:15:00-03:00",
+    "dataFim": "2026-11-08T18:15:00-03:00",
+    "descricao": "<p>Entrega das medalhas do concurso gastronômico sob coordenação de <b>Marcelo Vianna</b> e presença dos jurados <b>Elisa Bittencourt</b> e <b>Jorge Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Arena Gourmet Principal",
+    "dataInicio": "2026-11-08T18:30:00-03:00",
+    "dataFim": "2026-11-08T19:30:00-03:00",
+    "descricao": "<p>Agradecimentos finais da comissão organizadora composta por <b>Marcelo Vianna</b>, <b>Renata Silveira</b> e <b>Denise Fontana</b>, seguida de apresentação folclórica com o grupo de <b>Manoel Silva</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

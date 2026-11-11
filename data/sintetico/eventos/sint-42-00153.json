@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00153",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:04:10+00:00",
+ "uso_tokens": {
+  "entrada": 634,
+  "saida": 1300
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Mato-Grossense de Docentes da Educação Básica",
+   "local_geral": "Centro Integrado de Formação Educacional de Cuiabá, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Solenidade de Boas-Vindas e Apresentação Cultural",
+    "lugar": "Auditório Pantanal",
+    "dataInicio": "2027-05-20T08:00:00-03:00",
+    "dataFim": "2027-05-20T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Secretária de Educação <b>Marilza Santana Dias</b> e apresentação do Coral Infantil Municipal sob regência de <b>Carlos Eduardo Rondon</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Pantanal",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação da conferência <i>Saberes Regionais e Desafios Pedagógicos no Século XXI</i> ministrada pela Profa. Dra. <b>Cleide Aparecida Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 12 - Bloco Pedagógico",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Alfabetização e Letramento com Jogos Didáticos no Ciclo Inicial</i> conduzida pela formadora <b>Simone Queiroz de Arruda</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Laboratório de Ciências",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Práticas experimentais de baixo custo na oficina <i>Investigação Científica no Ensino Fundamental</i> ministrada pelo Prof. <b>Gilberto Mendes da Cunha</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Debate Integrador",
+    "lugar": "Auditório Pantanal",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T11:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Inclusão Escolar e Práticas Adaptativas no Cotidiano da Sala de Aula</i> com a participação das professoras <b>Lúcia Helena Guimarães</b> e <b>Valdenice Soares Figueira</b>, mediada por <b>Rodrigo Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Compartilhamento de Práticas Docentes 1",
+    "lugar": "Sala 04 - Bloco Didático",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do relato <i>Horta Comunitária: Interdisciplinaridade na Escola do Campo</i> pelo professor <b>Antônio Marcos Bezerra</b>.</p>",
+    "secao": "Comunicação de Experiências"
+   },
+   {
+    "nome": "Compartilhamento de Práticas Docentes 2",
+    "lugar": "Sala 05 - Bloco Didático",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação do trabalho <i>Literatura Cuiabana e Produção Textual nos Anos Finais</i> sob coordenação da docente <b>Renata Figueiredo Barreto</b>.</p>",
+    "secao": "Comunicação de Experiências"
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": "Auditório Pantanal",
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T17:30:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta dos Educadores de Cuiabá por uma Escola Pública Democrática</i>, coordenada pelos delegados <b>José Vitor Castilho</b> e <b>Ana Paula Meireles</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

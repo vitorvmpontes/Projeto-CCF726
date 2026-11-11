@@ -1,0 +1,219 @@
+{
+ "spec": {
+  "id": "sint-42-00442",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Recife - PE",
+  "ano": 2026,
+  "n_dias": 4,
+  "n_atividades": 24,
+  "casos": [
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:26:30+00:00",
+ "uso_tokens": {
+  "entrada": 634,
+  "saida": 3006
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Pernambucano de Cardiologia e Terapia Intensiva",
+   "local_geral": "Centro de Convenções de Pernambuco, Olinda/Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-08-19T07:30:00-03:00",
+    "dataFim": "2026-08-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-19T09:00:00-03:00",
+    "dataFim": "2026-08-19T10:00:00-03:00",
+    "descricao": "<p>Boas-vindas da comissão organizadora presidida pelo Dr. <b>Marcelo Tavares de Melo</b> e pela Dra. <b>Beatriz Albuquerque Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Visita aos Expositores",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-08-19T10:00:00-03:00",
+    "dataFim": "2026-08-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-19T10:30:00-03:00",
+    "dataFim": "2026-08-19T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo da Insuficiência Cardíaca Avançada em UTI</i>. Moderador: Dr. <b>Eduardo Cavalcanti Rocha</b>. Palestrantes: Dra. <b>Clarissa Mota Leite</b> apresentando <i>Uso de Inotrópicos e Suporte Mecânico Circulatório</i> e Dr. <b>Fernando Siqueira Filho</b> abordando <i>Otimização Terapêutica Guiada por Biomarcadores</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-08-19T12:00:00-03:00",
+    "dataFim": "2026-08-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Curso Pré-Congresso",
+    "lugar": "Sala Capibaribe",
+    "dataInicio": "2026-08-19T14:00:00-03:00",
+    "dataFim": "2026-08-19T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Ecocardiografia Point-of-Care (POCUS) na Emergência Cardiorrespiratória</i>. Instrutores: Dr. <b>Rodrigo Lins Bezerra</b> e Dra. <b>Helena Fontes Ramos</b>.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Simpósio Satélite 1",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-20T08:30:00-03:00",
+    "dataFim": "2026-08-20T09:45:00-03:00",
+    "descricao": "<p>Tema: <i>Novas Fronteiras na Anticoagulação Oral para Pacientes com Fibrilação Atrial e Doença Renal</i>. Palestrante: Dr. <b>Arthur Vasconcelos Coutinho</b>. Debatedora: Dra. <b>Luciana Dantas Barreto</b>.</p>",
+    "secao": "Simpósios Satélites"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-08-20T09:45:00-03:00",
+    "dataFim": "2026-08-20T10:15:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-20T10:15:00-03:00",
+    "dataFim": "2026-08-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Protocolos de Sepse com Comprometimento Miocárdico</i>. Coordenação do Dr. <b>Gustavo Henrique Mendonça</b>, com contribuições de Dra. <b>Paula Carneiro Soares</b> e Dr. <b>Thiago Antunes Maia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-08-20T12:00:00-03:00",
+    "dataFim": "2026-08-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall das Américas",
+    "dataInicio": "2026-08-20T14:00:00-03:00",
+    "dataFim": "2026-08-20T16:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos científicos submetidos à comissão julgadora liderada pelo Prof. Dr. <b>Sérgio Montenegro Sobrinho</b>.</p>",
+    "secao": "Atividades Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Sala Beberibe",
+    "dataInicio": "2026-08-20T16:00:00-03:00",
+    "dataFim": "2026-08-20T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Cardiopatia Isquêmica na Mulher: Desafios Diagnósticos</i>. Apresentação da Dra. <b>Fernanda Wanderley Silva</b> com participação de Dra. <b>Renata Pimentel Peixoto</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Conferência Plenária",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-21T08:30:00-03:00",
+    "dataFim": "2026-08-21T09:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial Aplicada ao Monitoramento Contínuo na UTI Cardiológica</i>. Conferencista convidado: Dr. <b>Vicente Prado Camargo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-08-21T09:30:00-03:00",
+    "dataFim": "2026-08-21T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Capibaribe",
+    "dataInicio": "2026-08-21T10:00:00-03:00",
+    "dataFim": "2026-08-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Treinamento de Via Aérea Difícil no Paciente Cardiopata Crítico</i>. Coordenação: Dr. <b>Rogério Meira Gouveia</b> e equipe de preceptores do IMIP.</p>",
+    "secao": "Cursos Práticos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-08-21T12:00:00-03:00",
+    "dataFim": "2026-08-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Sessão de Temas Livres Orais",
+    "lugar": "Sala Beberibe",
+    "dataInicio": "2026-08-21T14:00:00-03:00",
+    "dataFim": "2026-08-21T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos melhores resumos selecionados. Avaliadores: Dra. <b>Camila Arcoverde Nóbrega</b> e Dr. <b>Breno Maciel Figueiredo</b>.</p>",
+    "secao": "Atividades Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-21T15:30:00-03:00",
+    "dataFim": "2026-08-21T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Abordagem Multidisciplinar do Choque Cardiogênico Refratário</i>. Discussão com o cirurgião cardiovascular Dr. <b>Cláudio Tinoco Mesquita Neto</b> e a intensivista Dra. <b>Patrícia Queiroz Moura</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Simpósio Satélite 2",
+    "lugar": "Sala Beberibe",
+    "dataInicio": "2026-08-21T17:00:00-03:00",
+    "dataFim": "2026-08-21T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Novas Evidências Clínicas em Terapias Hipolipemiantes Injetáveis</i>. Apresentação do Dr. <b>Lucas Chaves Silveira</b>.</p>",
+    "secao": "Simpósios Satélites"
+   },
+   {
+    "nome": "Colóquio Clínico",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-22T08:30:00-03:00",
+    "dataFim": "2026-08-22T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Grandes Dilemas Éticos no Fim da Vida em Unidades Coronarianas</i>. Debatedores: Dra. <b>Mônica Brandão Caldas</b> e Pe. Dr. <b>Geraldo Freire Lacerda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break de Encerramento",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-08-22T10:00:00-03:00",
+    "dataFim": "2026-08-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Intervalos"
+   },
+   {
+    "nome": "Painel de Controvérsias",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-22T10:30:00-03:00",
+    "dataFim": "2026-08-22T11:45:00-03:00",
+    "descricao": "<p>Tema: <i>TAVI vs Cirurgia Convencional em Pacientes de Risco Intermediário</i>. Em defesa da cirurgia: Dr. <b>André Luiz Vilaça</b>. Em defesa do procedimento percutâneo: Dra. <b>Juliana Falcão Saraiva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Trabalhos e Homenagens",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-22T11:45:00-03:00",
+    "dataFim": "2026-08-22T12:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Professor <b>Luiz Tavares</b> aos melhores relatos de caso e projetos de pesquisa básica.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2026-08-22T12:30:00-03:00",
+    "dataFim": "2026-08-22T13:00:00-03:00",
+    "descricao": "<p>Palavras finais proferidas pelo presidente do congresso, Dr. <b>Marcelo Tavares de Melo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

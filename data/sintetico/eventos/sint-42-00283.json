@@ -1,0 +1,75 @@
+{
+ "spec": {
+  "id": "sint-42-00283",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:14:53+00:00",
+ "uso_tokens": {
+  "entrada": 644,
+  "saida": 1001
+ },
+ "saida": {
+  "evento": {
+   "nome": "Simpósio Amazônico de Agrotecnologia e Bioeconomia 2027",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Institucional",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-08-17T08:30:00-03:00",
+    "dataFim": "2027-08-17T09:15:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor <b>Thiago Meireles</b> e autoridades locais debatendo o panorama do agronegócio sustentável no Amazonas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2027-08-17T09:30:00-03:00",
+    "dataFim": "2027-08-17T11:00:00-03:00",
+    "descricao": "<p>Discussão com tema <i>Rastreabilidade e Cadeias Produtivas da Sociobiodiversidade</i>, moderada por <b>Clarice Benchimol</b> com participação dos especialistas <b>Fernando Uchoa</b> e <b>Marcelle Picanço</b>.</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Pitch de Startups AgTech",
+    "lugar": "Arena Inovação Norte",
+    "dataInicio": "2027-08-17T11:15:00-03:00",
+    "dataFim": "2027-08-17T12:30:00-03:00",
+    "descricao": "<p>Apresentação de soluções tecnológicas aplicadas a culturas tropicais. Avaliação com banca composta por <b>Rodrigo Castelo</b> e <b>Viviane Albuquerque</b>.</p>",
+    "secao": "Rodadas Tecnológicas"
+   },
+   {
+    "nome": "Almoço Livre e Networking",
+    "lugar": null,
+    "dataInicio": "2027-08-17T12:30:00-03:00",
+    "dataFim": "2027-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Solimões",
+    "dataInicio": "2027-08-17T14:00:00-03:00",
+    "dataFim": "2027-08-17T15:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Automação de Baixo Custo para Agricultura Familiar Ribeirinha</i> com mediação de <b>Renato Vianna</b> e contribuições de <b>Luciana Guimarães</b>.</p>",
+    "secao": "Sessões Plenárias"
+   },
+   {
+    "nome": "Pitch de Startups AgTech",
+    "lugar": "Espaço Demo Hub",
+    "dataInicio": "2027-08-17T16:00:00-03:00",
+    "dataFim": "2027-08-17T17:30:00-03:00",
+    "descricao": "<p>Segunda rodada de apresentações focada em biodefensivos e bioinsumos florestais, avaliada por <b>Sérgio Nogueira</b> e <b>Patrícia Sampaio</b>.</p>",
+    "secao": "Rodadas Tecnológicas"
+   }
+  ]
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-42-00372",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Recife - PE",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "titulos_longos",
+   "subtitulo_separado",
+   "nomes_repetidos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:21:35+00:00",
+ "uso_tokens": {
+  "entrada": 712,
+  "saida": 1772
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Acolhimento e Integração dos Calouros do Centro de Informática 2025",
+   "local_geral": "Centro de Informática da UFPE, Campus Universitário, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Kits",
+    "lugar": "Hall do Bloco A",
+    "dataInicio": "2025-03-17T08:00:00-03:00",
+    "dataFim": "2025-03-17T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas aos estudantes ingressantes com entrega do crachá, manual acadêmico e brindes pelo <b>Diretório Acadêmico</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Sérgio Machado",
+    "dataInicio": "2025-03-17T09:00:00-03:00",
+    "dataFim": "2025-03-17T10:15:00-03:00",
+    "descricao": "<p>Apresentação das lideranças institucionais e da estrutura do campus com a Diretora Profa. Dra. <b>Patrícia Albuquerque</b> e o Coordenador Prof. Dr. <b>Marcelo Tavares da Silva</b>.</p>",
+    "secao": "Integração Institucional"
+   },
+   {
+    "nome": "Lanche Coletivo",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2025-03-17T10:15:00-03:00",
+    "dataFim": "2025-03-17T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Sérgio Machado",
+    "dataInicio": "2025-03-17T10:45:00-03:00",
+    "dataFim": "2025-03-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Navegando pelos Desafios Acadêmicos e Profissionais da Computação com Criatividade, Colaboração e Inovação para Construir Soluções de Impacto na Sociedade Brasileira</i>, apresentada pelo Dr. <b>Eduardo Cavalcanti de Mendonça</b>.</p>",
+    "secao": "Ciclo de Formação"
+   },
+   {
+    "nome": "Pausa para o Almoço",
+    "lugar": null,
+    "dataInicio": "2025-03-17T12:00:00-03:00",
+    "dataFim": "2025-03-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": "Ponto de encontro: Guichê da Biblioteca",
+    "dataInicio": "2025-03-17T13:30:00-03:00",
+    "dataFim": "2025-03-17T15:00:00-03:00",
+    "descricao": "<p>Visita monitorada aos laboratórios, salas de aula, biblioteca setorial e espaços de convivência com os veteranos <b>Mariana Costa</b> e <b>Lucas Farias</b>.</p>",
+    "secao": "Vivência Universitária"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2025-03-17T15:30:00-03:00",
+    "dataFim": "2025-03-17T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Fundamentos de Controle de Versão e Ferramentas Colaborativas Modernas Essenciais para o Sucesso em Equipes de Desenvolvimento Tecnológico Aberto</i>, ministrada por <b>Camila Duarte Arcoverde</b>.</p>",
+    "secao": "Ciclo de Formação"
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": "Ponto de encontro: Entrada do Bloco C",
+    "dataInicio": "2025-03-18T09:00:00-03:00",
+    "dataFim": "2025-03-18T10:30:00-03:00",
+    "descricao": "<p>Segunda turma de visita monitorada para conhecer os setores administrativos e grupos de pesquisa, conduzida pelos monitores <b>Beatriz Lins</b> e <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Vivência Universitária"
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Sérgio Machado",
+    "dataInicio": "2025-03-18T10:45:00-03:00",
+    "dataFim": "2025-03-18T12:15:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias de Equilíbrio Emocional, Saúde Mental e Hábitos Sustentáveis de Aprendizagem Durante a Transição da Educação Básica para a Vida Universitária</i>, com mediação da psicóloga <b>Helena Queiroz</b> e presença dos egressos <b>Felipe Peixoto</b> e <b>Renata Guedes</b>.</p>",
+    "secao": "Ciclo de Formação"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-03-18T12:15:00-03:00",
+    "dataFim": "2025-03-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Gincana e Trote Solidário",
+    "lugar": "Quadra Poliesportiva do Centro",
+    "dataInicio": "2025-03-18T14:00:00-03:00",
+    "dataFim": "2025-03-18T17:00:00-03:00",
+    "descricao": "<p>Atividades recreativas em equipes e arrecadação de alimentos não perecíveis para instituições locais, coordenadas por <b>Gabriel Barreto</b>.</p>",
+    "secao": "Vivência Universitária"
+   }
+  ]
+ }
+}

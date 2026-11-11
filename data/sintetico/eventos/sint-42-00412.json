@@ -1,0 +1,158 @@
+{
+ "spec": {
+  "id": "sint-42-00412",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Recife - PE",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 16,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:24:31+00:00",
+ "uso_tokens": {
+  "entrada": 689,
+  "saida": 2489
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Jornada Pernambucana de Terapia Intensiva e Medicina de Urgência",
+   "local_geral": "Centro de Convenções de Pernambuco, Recife - PE"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Crachás",
+    "lugar": null,
+    "dataInicio": "2024-08-16T07:30:00-03:00",
+    "dataFim": "2024-08-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-08-16T08:30:00-03:00",
+    "dataFim": "2024-08-16T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora-geral Dra. <b>Patrícia Mello Arcoverde</b> e o presidente da Sociedade de Terapia Intensiva Dr. <b>Carlos Eduardo Souto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Integrada",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-08-16T09:00:00-03:00",
+    "dataFim": "2024-08-16T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Manejo Hemodinâmico do Choque Séptico Refratário: Evidências Atuais</i>.</p><p>Palestrante: Dr. <b>Luciano Albuquerque Ferreira</b> (Hospital da Restauração).</p>",
+    "secao": "Eixo Sepse e Choque"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-08-16T10:00:00-03:00",
+    "dataFim": "2024-08-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-08-16T10:30:00-03:00",
+    "dataFim": "2024-08-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Controvérsias no Uso Precoce de Vasopressores e Corticoides na UTI</i>.</p><p>Debatedores: Dra. <b>Roberta Vasconcelos</b> e Dr. <b>Henrique Guimarães Costa</b>. Moderação de Dra. <b>Miriam Cavalcanti Peixoto</b>.</p>",
+    "secao": "Eixo Sepse e Choque"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-16T12:00:00-03:00",
+    "dataFim": "2024-08-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Sala Maurício de Nassau",
+    "dataInicio": "2024-08-16T13:30:00-03:00",
+    "dataFim": "2024-08-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Ultrassonografia Point-of-Care (POCUS) na Avaliação Pulmonar e Abdominal Aguda</i>.</p><p>Instrutores: Dr. <b>Tiago Ramos Bezerra</b> e Dr. <b>Felipe Andrade Lima</b>.</p>",
+    "secao": "Treinamento em Habilidades Críticas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-08-16T15:30:00-03:00",
+    "dataFim": "2024-08-16T17:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos concorrentes ao Prêmio Jovem Intensivista. Avaliação coordenada pela Profa. Dra. <b>Camila Duarte Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Especial",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-08-16T17:00:00-03:00",
+    "dataFim": "2024-08-16T18:15:00-03:00",
+    "descricao": "<p>Tema: <i>Neurointensivismo: Otimização Terapêutica no Traumatismo Cranioencefálico Grave</i>.</p><p>Conferencista: Dra. <b>Beatriz Mendonça Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Integrada",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2024-08-17T08:30:00-03:00",
+    "dataFim": "2024-08-17T09:45:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias de Ventilação Mecânica Protetora na SDRA Moderada a Grave</i>.</p><p>Palestrante: Dr. <b>Marcos Vinícius Galvão</b>.</p>",
+    "secao": "Eixo Ventilação e Vias Aéreas"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2024-08-17T09:45:00-03:00",
+    "dataFim": "2024-08-17T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Capibaribe",
+    "dataInicio": "2024-08-17T10:15:00-03:00",
+    "dataFim": "2024-08-17T11:45:00-03:00",
+    "descricao": "<p>Tema: <i>Desmame Difícil e Ventilação Não Invasiva no Pós-Extubação: Como Prevenir o Fracasso?</i></p><p>Debatedores: Fisioterapeuta Dra. <b>Vanessa Nogueira Lins</b> e Dr. <b>André Luiz Tavares</b>.</p>",
+    "secao": "Eixo Ventilação e Vias Aéreas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-17T11:45:00-03:00",
+    "dataFim": "2024-08-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Sala Maurício de Nassau",
+    "dataInicio": "2024-08-17T13:30:00-03:00",
+    "dataFim": "2024-08-17T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Via Aérea Difícil no Ambiente Crítico: Sequência Rápida de Intubação e Videolaringoscopia</i>.</p><p>Instrutores: Dr. <b>Gilberto Sampaio Filho</b> e Dra. <b>Renata Queiroz Barreto</b>.</p>",
+    "secao": "Treinamento em Habilidades Críticas"
+   },
+   {
+    "nome": "Premiação de Trabalhos Científicos",
+    "lugar": null,
+    "dataInicio": "2024-08-17T16:00:00-03:00",
+    "dataFim": "2024-08-17T17:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores do Prêmio Jovem Intensivista conduzido pela comissão científica: Dra. <b>Camila Duarte Silveira</b> e Dr. <b>Carlos Eduardo Souto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encerramento",
+    "lugar": "Auditório Boa Viagem",
+    "dataInicio": "2024-08-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência de fechamento: <i>O Futuro do Cuidado Intensivo: Inteligência Artificial e Humanização</i> ministrada pelo Prof. Dr. <b>Antônio Bernardo Figueiroa</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

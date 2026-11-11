@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00200",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Cuiabá - MT",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos",
+   "subtitulo_separado",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:08:00+00:00",
+ "uso_tokens": {
+  "entrada": 683,
+  "saida": 987
+ },
+ "saida": {
+  "evento": {
+   "nome": "Pantanal Game Jam & Hackathon 2023",
+   "local_geral": "Hub de Inovação Pantanal Tech, Cuiabá - MT"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Café de Boas-Vindas",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-11-18T08:00:00-03:00",
+    "dataFim": "2023-11-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Tião Carreiro",
+    "dataInicio": "2023-11-18T09:00:00-03:00",
+    "dataFim": "2023-11-18T09:45:00-03:00",
+    "descricao": "<p>Apresentação das regras gerais, anúncio dos temas surpresa e divisão das bancas de mentoria com <b>Lucas Peixoto</b> e <b>Marcella Nogueira</b>.</p>",
+    "secao": "Abertura e Diretrizes"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Auditório Tião Carreiro",
+    "dataInicio": "2023-11-18T09:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Prototipagem Rápida na Godot Engine para Games 2D</i>. Ministrado por <b>Thiago Arantes</b>, abordando boas práticas para escopos curtos em competições.</p>",
+    "secao": "Abertura e Diretrizes"
+   },
+   {
+    "nome": "Início das Maratonas de Desenvolvimento",
+    "lugar": null,
+    "dataInicio": "2023-11-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação do acesso às plataformas de submissão e início oficial do período de desenvolvimento dos protótipos de jogos e aplicações.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-11-18T12:30:00-03:00",
+    "dataFim": "2023-11-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Mentorias Técnicas",
+    "lugar": null,
+    "dataInicio": "2023-11-18T14:30:00-03:00",
+    "dataFim": "2023-11-18T17:00:00-03:00",
+    "descricao": "<p>Orientações práticas de game design, arte e arquitetura com <b>Carla Matsui</b>, <b>Rodrigo Cintra</b> e <b>Vanessa Gomide</b> para refinamento dos projetos antes do envio final.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Showcase e Premiação",
+    "lugar": "Auditório Tião Carreiro",
+    "dataInicio": "2023-11-18T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação das demos desenvolvidas pelas equipes finalistas, seguida pelo anúncio dos vencedores sob coordenação de <b>Marcella Nogueira</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

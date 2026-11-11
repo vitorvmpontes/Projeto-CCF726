@@ -1,0 +1,269 @@
+{
+ "spec": {
+  "id": "sint-42-00458",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Florianópolis - SC",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 30,
+  "casos": [
+   "nomes_repetidos",
+   "descricoes_ricas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:08+00:00",
+ "uso_tokens": {
+  "entrada": 698,
+  "saida": 4877
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Simpósio Sul-Brasileiro de Pós-Graduação em Ecologia e Conservação da Biodiversidade",
+   "local_geral": "Centro de Cultura e Eventos da UFSC, Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção aos Congressistas e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T09:30:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com a presença da coordenadora geral <b>Dra. Mariana Dornelles</b> e representantes da administração central da UFSC.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-19T09:30:00-03:00",
+    "dataFim": "2027-05-19T10:45:00-03:00",
+    "descricao": "<p>Tema: <i>Transformações socioambientais contemporâneas e a urgência de abordagens interdisciplinares integradas para preservação da Mata Atlântica costeira e ecossistemas marinhos</i>.</p><p>Palestrante: <b>Dr. Henrique Cavalcanti Ribeiro</b> (UFRGS). Coordenação: <b>Dra. Mariana Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-19T10:45:00-03:00",
+    "dataFim": "2027-05-19T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 1",
+    "lugar": "Sala Aroeira",
+    "dataInicio": "2027-05-19T11:15:00-03:00",
+    "dataFim": "2027-05-12T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dr. Marcelo Furtado</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Variação altitudinal da riqueza de epífitas vasculares</i> por <b>Bruna Silveira Ramos</b>.</p><p>2. <i>Impacto da fragmentação florestal na dispersão zoocórica</i> por <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 2",
+    "lugar": "Sala Pitanga",
+    "dataInicio": "2027-05-19T11:15:00-03:00",
+    "dataFim": "2027-05-19T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Luísa Fagundes</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Dinâmica de nutrientes em esteiros estuarinos subtropicais</i> por <b>Thiago Meirelles</b>.</p><p>2. <i>Bioacumulação de metais pesados em moluscos bivalves</i> por <b>Camila Duarte Zanin</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:30:00-03:00",
+    "dataFim": "2027-05-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem de Nicho Ecológico com Pacotes R Modernos</i>. Instrutores: <b>Dr. Guilherme Vasconcelos</b> e <b>MSc. Juliana Barreto</b>.</p>",
+    "secao": "Cursos Práticos de Curta Duração"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala Imbuia",
+    "dataInicio": "2027-05-19T14:00:00-03:00",
+    "dataFim": "2027-05-19T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de Monitoramento Bioacústico para Inventário de Quirópteros</i>. Instrutora: <b>Dra. Beatriz Fontana</b>.</p>",
+    "secao": "Cursos Práticos de Curta Duração"
+   },
+   {
+    "nome": "Mostra de Painéis",
+    "lugar": "Galeria Central",
+    "dataInicio": "2027-05-19T17:30:00-03:00",
+    "dataFim": "2027-05-19T19:00:00-03:00",
+    "descricao": "<p>Apresentação dos pôsteres de mestrado e doutorado com avaliação da comissão científica presidida por <b>Dr. Rodrigo Albuquerque</b>.</p>",
+    "secao": "Painéis Científicos"
+   },
+   {
+    "nome": "Reunião de Coordenadores",
+    "lugar": "Sala de Reuniões da Reitoria",
+    "dataInicio": "2027-05-19T18:00:00-03:00",
+    "dataFim": "2027-05-19T19:30:00-03:00",
+    "descricao": "<p>Encontro da Associação Sul-Brasileira de Programas de Ecologia, mediado pelo professor <b>Dr. Valdir Menezes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas Públicas e Conservação em Unidades de Proteção Integral no Sul</i>. Mesa moderada por <b>Dra. Flávia Guimarães</b>, com debatedores <b>Dr. André Salgado</b> (ICMBio) e <b>Dra. Nair Castilho</b> (IMA-SC).</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 3",
+    "lugar": "Sala Aroeira",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dr. Renan Esteves</b>.</p><p>Trabalhos:</p><p>1. <i>Genética de populações aplicada ao manejo de bagres fluviais ameaçados</i> por <b>Fernanda Tavares</b>.</p><p>2. <i>Uso da terra e comunidades de macroinvertebrados bentônicos</i> por <b>Leonardo Vargas</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 4",
+    "lugar": "Sala Pitanga",
+    "dataInicio": "2027-05-20T11:00:00-03:00",
+    "dataFim": "2027-05-20T12:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Simone Beltrão</b>.</p><p>Trabalhos:</p><p>1. <i>Padrões fenológicos de árvores de restinga sob influência do aquecimento</i> por <b>Patrícia Nogueira</b>.</p><p>2. <i>Sucesso reprodutivo de aves marinhas em ilhas costeiras de Santa Catarina</i> por <b>Gabriel Salles</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:30:00-03:00",
+    "dataFim": "2027-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Continuação do curso com análise avançada de dados espaciais. Instrutores: <b>Dr. Guilherme Vasconcelos</b> e <b>MSc. Juliana Barreto</b>.</p>",
+    "secao": "Cursos Práticos de Curta Duração"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala Imbuia",
+    "dataInicio": "2027-05-20T14:00:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Processamento e análise automatizada de arquivos sonoros. Instrutora: <b>Dra. Beatriz Fontana</b>.</p>",
+    "secao": "Cursos Práticos de Curta Duração"
+   },
+   {
+    "nome": "Oficina Temática",
+    "lugar": "Sala Canela",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias participativas para engajamento de comunidades tradicionais caiçaras na governança e restauração de manguezais costeiros degradados</i>.</p><p>Facilitadores: <b>Dr. Otávio Bueno</b> e <b>MSc. Clara Mendonça</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Painéis",
+    "lugar": "Galeria Central",
+    "dataInicio": "2027-05-20T17:30:00-03:00",
+    "dataFim": "2027-05-20T19:00:00-03:00",
+    "descricao": "<p>Apresentação e avaliação do segundo bloco de pôsteres inscritos no simpósio. Avaliação técnica: <b>Dra. Letícia Antunes</b> e <b>Dr. Rogério Camargo</b>.</p>",
+    "secao": "Painéis Científicos"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Varanda Cultural",
+    "dataInicio": "2027-05-20T19:00:00-03:00",
+    "dataFim": "2027-05-20T20:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios da Saúde Mental e Permanência Discente na Pós-Graduação em Ciências Naturais</i>. Conduzida por <b>MSc. Tatiana Klein</b> com depoimentos de representantes de discentes.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T09:45:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios metodológicos para a quantificação rigorosa do sequestro de carbono nos diferentes estratos de florestas ombrófilas densas</i>.</p><p>Palestrante: <b>Dr. Sérgio Portela</b>. Mediação: <b>Dra. Heloísa Becker</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2027-05-21T09:45:00-03:00",
+    "dataFim": "2027-05-21T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-21T10:15:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Inovação Biotecnológica e Valoração de Serviços Ecossistêmicos</i>. Coordenação: <b>Dr. Arnaldo Peixoto</b>. Painelistas: <b>Dra. Vanessa Trindade</b> e <b>Dr. Igor Cunha</b>.</p>",
+    "secao": "Mesas de Debate"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral 5",
+    "lugar": "Sala Aroeira",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dr. Felipe Goulart</b>.</p><p>Apresentações orais de egressos:</p><p>1. <i>Efeitos do fogo em savanas de altitude</i> por <b>Marina Fagundes Lopes</b>.</p><p>2. <i>Interações tróficas entre pequenos mamíferos e sementes de araucária</i> por <b>Lucas Medeiros</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Sessão Oral 6",
+    "lugar": "Sala Pitanga",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dra. Raquel Schmidt</b>.</p><p>Apresentações de teses em andamento:</p><p>1. <i>Modelagem climática e distribuição futura de anfíbios anuros da Serra Geral</i> por <b>Paula Carvalho Neves</b>.</p><p>2. <i>Ecologia funcional de comunidades fitoplancônicas em lagoas costeiras</i> por <b>Vinícius Amaral</b>.</p>",
+    "secao": "Apresentação de Trabalhos"
+   },
+   {
+    "nome": "Assembleia dos Pós-Graduandos",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-21T15:15:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": "<p>Espaço deliberativo dos discentes com coordenação de <b>Renata Silveira</b> e <b>Matheus Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Garapuvu",
+    "dataInicio": "2027-05-21T16:45:00-03:00",
+    "dataFim": "2027-05-21T18:00:00-03:00",
+    "descricao": "<p>Divulgação dos melhores trabalhos de mestrado e doutorado pelo comitê avaliador liderado por <b>Dr. Rodrigo Albuquerque</b> e palavras finais da comissão organizadora com <b>Dra. Mariana Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Varanda Cultural",
+    "dataInicio": "2027-05-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

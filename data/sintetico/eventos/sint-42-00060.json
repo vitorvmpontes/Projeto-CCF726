@@ -1,0 +1,52 @@
+{
+ "spec": {
+  "id": "sint-42-00060",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Manaus - AM",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "atividades_paralelas",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:56:52+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 757
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Simpósio de Pós-Graduação em Biodiversidade e Recursos Naturais da Amazônia",
+   "local_geral": "Campus Universitário Senador Arthur Virgílio Filho, UFAM, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Eulálio Chaves",
+    "dataInicio": "2026-05-20T08:30:00-03:00",
+    "dataFim": "2026-05-20T10:00:00-03:00",
+    "descricao": "<p>Coordenação geral de <b>Prof. Dr. Henrique Vasconcelos</b>.</p><p>Palestra de abertura com a <b>Dra. Marcelle Albuquerque</b> abordando <i>Desafios da conservação e bioeconomia na Amazônia Central</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala de Seminários A - Bloco da Pós-Graduação",
+    "dataInicio": "2026-05-20T10:30:00-03:00",
+    "dataFim": "2026-05-20T12:30:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Profa. Dra. Tânia Silveira</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Monitoramento de quelônios em áreas de várzea</i>, por <b>Lucas Barreto</b> e <b>Profa. Dra. Tânia Silveira</b>.</p><p>2. <i>Composição florística de igapós sob impacto antrópico</i>, por <b>Renata Meireles</b> e <b>Prof. Dr. Cláudio Rabelo</b>.</p>",
+    "secao": "Sessões Técnicas Integradas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala de Seminários B - Bloco da Pós-Graduação",
+    "dataInicio": "2026-05-20T10:30:00-03:00",
+    "dataFim": "2026-05-20T12:30:00-03:00",
+    "descricao": "<p>Sessão coordenada por <b>Prof. Dr. João Batista Mendonça</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Isolamento de compostos bioativos a partir de fungos endofíticos</i>, por <b>Camila Siqueira</b> e <b>Dra. Fernanda Lins</b>.</p><p>2. <i>Avaliação antimicrobiana de extratos da casca de copaíba</i>, por <b>Diego Nogueira</b> e <b>Prof. Dr. João Batista Mendonça</b>.</p>",
+    "secao": "Sessões Técnicas Integradas"
+   }
+  ]
+ }
+}

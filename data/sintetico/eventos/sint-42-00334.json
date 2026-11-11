@@ -1,0 +1,310 @@
+{
+ "spec": {
+  "id": "sint-42-00334",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Campo Grande - MS",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 35,
+  "casos": [
+   "nomes_repetidos",
+   "intervalos",
+   "sem_horario_fim",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:57+00:00",
+ "uso_tokens": {
+  "entrada": 699,
+  "saida": 5450
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Jogos Universitários Sul-Mato-Grossenses",
+   "local_geral": "Complexo Poliesportivo Guanandizão e UFMS, Campo Grande - MS"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento das Delegações",
+    "lugar": "Hall Principal do Ginásio Guanandizão",
+    "dataInicio": "2023-10-19T08:00:00-03:00",
+    "dataFim": "2023-10-19T11:30:00-03:00",
+    "descricao": "<p>Recepção das atléticas e verificação de documentação esportiva sob coordenação de <b>Mariana Siqueira Castro</b>.</p>",
+    "secao": "Recepção e Administrativo"
+   },
+   {
+    "nome": "Congresso Técnico",
+    "lugar": "Auditório da Reitoria UFMS",
+    "dataInicio": "2023-10-19T09:30:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": "<p>Sorteio de chaves e deliberação das diretrizes disciplinares. Coordenação geral com <b>Prof. Dr. Marcos Vinicius Alencar</b> e os delegados <b>Patrícia Rios</b> e <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Recepção e Administrativo"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-19T12:00:00-03:00",
+    "dataFim": "2023-10-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Futsal Masculino - Fase de Grupos",
+    "lugar": "Quadra Poliesportiva 1 - Guanandizão",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T15:00:00-03:00",
+    "descricao": "<p>Partida inicial da chave A entre Atlética Engenharia UFMS e Atlética Medicina UCDB. Arbitragem de <b>Ricardo Farias Mendes</b>.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Voleibol Feminino - Fase de Grupos",
+    "lugar": "Ginásio Moreninho - UFMS",
+    "dataInicio": "2023-10-19T13:30:00-03:00",
+    "dataFim": "2023-10-19T15:00:00-03:00",
+    "descricao": "<p>Confronto da chave B. Arbitragem com <b>Juliana Dornelles</b>.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Futsal Masculino - Fase de Grupos",
+    "lugar": "Quadra Poliesportiva 1 - Guanandizão",
+    "dataInicio": "2023-10-19T15:15:00-03:00",
+    "dataFim": "2023-10-19T16:45:00-03:00",
+    "descricao": "<p>Segunda rodada da chave A entre Atlética Direito Uniderp e Atlética Exatas UFGD.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Voleibol Feminino - Fase de Grupos",
+    "lugar": "Ginásio Moreninho - UFMS",
+    "dataInicio": "2023-10-19T15:15:00-03:00",
+    "dataFim": "2023-10-19T16:45:00-03:00",
+    "descricao": "<p>Disputa entre Atlética Saúde UEMS e Atlética Agronomia UCDB.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": "Espaço Atleta - Guanandizão",
+    "dataInicio": "2023-10-19T16:45:00-03:00",
+    "dataFim": "2023-10-19T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Central do Guanandizão",
+    "dataInicio": "2023-10-19T17:30:00-03:00",
+    "dataFim": "2023-10-19T18:45:00-03:00",
+    "descricao": "<p>Tema: <i>Prevenção de Lesões e Rendimento em Atletas Universitários</i>. Palestrante: <b>Dra. Simone Rezende Brandão</b> (Fisioterapeuta Esportiva da Seleção Brasileira Universitária).</p>",
+    "secao": "Atividades Científicas e Formativas"
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Arena Principal do Guanandizão",
+    "dataInicio": "2023-10-19T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Desfile oficial das delegações universitárias, juramento do atleta conduzido por <b>Thiago Albuquerque</b> e acendimento da pira com a atleta homenageada <b>Bruna Calheiros</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Basquetebol Masculino - Fase Preliminar",
+    "lugar": "Ginásio Moreninho - UFMS",
+    "dataInicio": "2023-10-20T08:00:00-03:00",
+    "dataFim": "2023-10-20T09:30:00-03:00",
+    "descricao": "<p>Partida de abertura do grupo A. Coordenação da mesa por <b>Renan Batistote</b>.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Handebol Feminino - Fase Preliminar",
+    "lugar": "Quadra Poliesportiva 2 - Guanandizão",
+    "dataInicio": "2023-10-20T08:00:00-03:00",
+    "dataFim": "2023-10-20T09:30:00-03:00",
+    "descricao": "<p>Primeira partida entre Atlética Enfermagem UFMS e Atlética Humanas UFMS.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Eliminatórias de Atletismo",
+    "lugar": "Pista de Atletismo da UFMS",
+    "dataInicio": "2023-10-20T08:30:00-03:00",
+    "dataFim": "2023-10-20T11:30:00-03:00",
+    "descricao": "<p>Provas de 100m rasos, salto em distância e arremesso de peso. Coordenação técnica de <b>Prof. Geraldo Matos Couto</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Basquetebol Masculino - Fase Preliminar",
+    "lugar": "Ginásio Moreninho - UFMS",
+    "dataInicio": "2023-10-20T09:45:00-03:00",
+    "dataFim": "2023-10-20T11:15:00-03:00",
+    "descricao": "<p>Confronto entre Atlética Economia UCDB e Atlética Computação UFMS.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Handebol Feminino - Fase Preliminar",
+    "lugar": "Quadra Poliesportiva 2 - Guanandizão",
+    "dataInicio": "2023-10-20T09:45:00-03:00",
+    "dataFim": "2023-10-20T11:15:00-03:00",
+    "descricao": "<p>Disputa de vaga para semifinal entre Atlética Comunicação Uniderp e Atlética Odontologia UCDB.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-20T11:30:00-03:00",
+    "dataFim": "2023-10-20T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Saguão das Faculdades Integradas - UFMS",
+    "dataInicio": "2023-10-20T13:00:00-03:00",
+    "dataFim": "2023-10-20T14:30:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos científicos na área de Ciências do Esporte. Coordenação: <b>Profa. Dra. Letícia Viana Paim</b>.</p><p>Trabalhos em exibição:</p><ul><li><i>Análise de Composição Corporal em Universitários Praticantes de Crossfit</i>, autoria de <b>Felipe Prado Sanches</b> e <b>Lucas Nogueira</b></li><li><i>Estratégias de Hidratação sob o Calor Centro-Oestino</i>, de <b>Carla Mendonça Neves</b></li><li><i>Impactos Psicológicos da Ansiedade Pré-Competição em Jogos Regionais</i>, com <b>Tatiane Bastos Ferraz</b></li></ul>",
+    "secao": "Atividades Científicas e Formativas"
+   },
+   {
+    "nome": "Torneio de Judô",
+    "lugar": "Dojô Central do Guanandizão",
+    "dataInicio": "2023-10-20T13:30:00-03:00",
+    "dataFim": "2023-10-20T17:00:00-03:00",
+    "descricao": "<p>Categorias Ligeiro, Meio-médio, Médio e Pesado masculino e feminino. Coordenação de arbitragem: <b>Sensei Hélio Kenji Takahashi</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Futsal Masculino - Quartas de Final",
+    "lugar": "Quadra Poliesportiva 1 - Guanandizão",
+    "dataInicio": "2023-10-20T14:00:00-03:00",
+    "dataFim": "2023-10-20T15:30:00-03:00",
+    "descricao": "<p>Primeiro confronto eliminatório direto. Apuração com o delegado <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Central do Guanandizão",
+    "dataInicio": "2023-10-20T14:45:00-03:00",
+    "dataFim": "2023-10-20T16:15:00-03:00",
+    "descricao": "<p>Debate sobre <i>Gestão e Sustentabilidade Financeira das Atléticas Universitárias</i>. Debatedores convidados: <b>Leandro Martins Paes</b> (Presidente da Liga das Atléticas de Campo Grande), <b>Camila Duarte Ferreira</b> (Consultora Esportiva) e mediação de <b>Prof. André Teodoro Valente</b>.</p>",
+    "secao": "Atividades Científicas e Formativas"
+   },
+   {
+    "nome": "Futsal Masculino - Quartas de Final",
+    "lugar": "Quadra Poliesportiva 1 - Guanandizão",
+    "dataInicio": "2023-10-20T15:45:00-03:00",
+    "dataFim": "2023-10-20T17:15:00-03:00",
+    "descricao": "<p>Segundo confronto eliminatório direto.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Espaço Atleta - Guanandizão",
+    "dataInicio": "2023-10-20T17:15:00-03:00",
+    "dataFim": "2023-10-20T17:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Finais da Natação",
+    "lugar": "Parque Aquático da UFMS",
+    "dataInicio": "2023-10-20T17:45:00-03:00",
+    "dataFim": "2023-10-20T19:45:00-03:00",
+    "descricao": "<p>Finais dos 50m livre, 100m borboleta e revezamento 4x50m medley mista. Cronometragem eletrônica coordenada por <b>Marcelo Antunes Bittencourt</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Desafio de Cheerleading",
+    "lugar": "Arena Principal do Guanandizão",
+    "dataInicio": "2023-10-20T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação competitiva de líderes de torcida universitárias. Comissão julgadora formada por <b>Valéria Rios</b>, <b>Diego Fontes</b> e <b>Kelly Silveira Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Torneio de Xadrez Rápido",
+    "lugar": "Salão Nobre da Reitoria UFMS",
+    "dataInicio": "2023-10-21T08:00:00-03:00",
+    "dataFim": "2023-10-21T11:00:00-03:00",
+    "descricao": "<p>Disputa no sistema suíço em cinco rodadas. Direção do árbitro nacional <b>Fabrício Fagundes de Melo</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Voleibol Feminino - Semifinal",
+    "lugar": "Ginásio Moreninho - UFMS",
+    "dataInicio": "2023-10-21T08:30:00-03:00",
+    "dataFim": "2023-10-21T10:00:00-03:00",
+    "descricao": "<p>Semifinal 1 com árbitro principal <b>Juliana Dornelles</b>.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Voleibol Feminino - Semifinal",
+    "lugar": "Ginásio Moreninho - UFMS",
+    "dataInicio": "2023-10-21T10:15:00-03:00",
+    "dataFim": "2023-10-21T11:45:00-03:00",
+    "descricao": "<p>Semifinal 2 definindo a segunda finalista do torneio.</p>",
+    "secao": "Torneio de Quadra"
+   },
+   {
+    "nome": "Finais de Atletismo",
+    "lugar": "Pista de Atletismo da UFMS",
+    "dataInicio": "2023-10-21T09:00:00-03:00",
+    "dataFim": "2023-10-21T11:30:00-03:00",
+    "descricao": "<p>Disputas das finais dos 400m, 1500m rasos e revezamento 4x100m. Supervisão da pista por <b>Prof. Geraldo Matos Couto</b>.</p>",
+    "secao": "Esportes Individuais"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-10-21T12:00:00-03:00",
+    "dataFim": "2023-10-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Disputa de 3º Lugar - Basquete Masculino",
+    "lugar": "Ginásio Moreninho - UFMS",
+    "dataInicio": "2023-10-21T13:30:00-03:00",
+    "dataFim": "2023-10-21T15:00:00-03:00",
+    "descricao": "<p>Confronto pela medalha de bronze universitária. Coordenação da mesa por <b>Renan Batistote</b>.</p>",
+    "secao": "Finais dos Esportes Coletivos"
+   },
+   {
+    "nome": "Grande Final do Voleibol Feminino",
+    "lugar": "Arena Principal do Guanandizão",
+    "dataInicio": "2023-10-21T14:30:00-03:00",
+    "dataFim": "2023-10-21T16:00:00-03:00",
+    "descricao": "<p>Decisão do título feminino de vôlei com transmissão ao vivo pelas redes da Federação.</p>",
+    "secao": "Finais dos Esportes Coletivos"
+   },
+   {
+    "nome": "Grande Final do Futsal Masculino",
+    "lugar": "Arena Principal do Guanandizão",
+    "dataInicio": "2023-10-21T16:30:00-03:00",
+    "dataFim": "2023-10-21T18:00:00-03:00",
+    "descricao": "<p>Decisão do ouro universitário do torneio de futsal. Apresentação conduzida pelo locutor <b>Wagner Barreto</b>.</p>",
+    "secao": "Finais dos Esportes Coletivos"
+   },
+   {
+    "nome": "Coffee Break de Confraternização",
+    "lugar": "Hall Social do Guanandizão",
+    "dataInicio": "2023-10-21T18:15:00-03:00",
+    "dataFim": "2023-10-21T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Arena Principal do Guanandizão",
+    "dataInicio": "2023-10-21T19:00:00-03:00",
+    "dataFim": "2023-10-21T21:00:00-03:00",
+    "descricao": "<p>Entrega de troféus gerais para a atlética campeã geral e melhor torcida. Pronunciamento do presidente da comissão organizadora <b>Prof. Dr. Marcos Vinicius Alencar</b> e entrega das medalhas de honra ao mérito pelos coordenadores <b>Mariana Siqueira Castro</b> e <b>Patrícia Rios</b>.</p>",
+    "secao": "Cerimônias Oficiais"
+   },
+   {
+    "nome": "Festa Oficial de Encerramento",
+    "lugar": "Estacionamento Coberto do Guanandizão",
+    "dataInicio": "2023-10-21T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Confraternização final dos estudantes com apresentação de baterias universitárias e DJ convidado.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

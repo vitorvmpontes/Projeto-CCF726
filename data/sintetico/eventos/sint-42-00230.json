@@ -1,0 +1,133 @@
+{
+ "spec": {
+  "id": "sint-42-00230",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Campinas - SP",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 13,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:10:33+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 2474
+ },
+ "saida": {
+  "evento": {
+   "nome": "VII Encontro Paulista de Práticas Pedagógicas na Educação Básica (ENPATO)",
+   "local_geral": "Centro de Convenções da Unicamp, Campinas - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Entrega de Crachás",
+    "lugar": "Hall Principal",
+    "dataInicio": "2025-07-16T08:00:00-03:00",
+    "dataFim": "2025-07-16T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-07-16T09:30:00-03:00",
+    "dataFim": "2025-07-16T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com pronunciamento da coordenadora-geral <b>Profa. Dra. Heloísa Vasconcelos</b> e apresentação do Coral Docente da Região Metropolitana de Campinas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-07-16T10:45:00-03:00",
+    "dataFim": "2025-07-16T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Os Desafios da Recomposição das Aprendizagens nos Anos Iniciais</i>.</p><p>Palestrante: <b>Profa. Ma. Carmem Lúcia Silveira</b> (Secretaria Municipal de Educação de Campinas).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": null,
+    "dataInicio": "2025-07-16T14:00:00-03:00",
+    "dataFim": "2025-07-16T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas de Formação Continuada e a Realidade Escolar</i>.</p><p>Coordenação: <b>Prof. Dr. Marcos Vinícius Prado</b>.</p><p>Debatedores: <b>Profa. Dra. Tânia Regina Alencar</b> e <b>Prof. Me. Rodrigo Sanches Moreira</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Oficina Pedagógica A",
+    "lugar": "Sala 12 - Bloco B",
+    "dataInicio": "2025-07-17T08:30:00-03:00",
+    "dataFim": "2025-07-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Práticas de Leitura Literária e Cidadania na Educação Infantil</i>.</p><p>Ministrante: <b>Profa. Flávia Guimarães Ramos</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica B",
+    "lugar": "Laboratório de Ensino de Ciências",
+    "dataInicio": "2025-07-17T08:30:00-03:00",
+    "dataFim": "2025-07-17T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Experimentação Investigativa no Ensino Fundamental: Materiais de Baixo Custo</i>.</p><p>Ministrante: <b>Prof. Carlos Eduardo Miranda</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": null,
+    "dataInicio": "2025-07-17T14:00:00-03:00",
+    "dataFim": "2025-07-17T17:30:00-03:00",
+    "descricao": "<p>Coordenação da Sessão: <b>Profa. Dra. Luciane Bins</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Projetos Interdisciplinares de Educação Ambiental na Periferia Urbana</i>, por <b>Mariana Pires Fontes</b> e <b>João Batista de Andrade</b>.</p><p>2. <i>O Caderno de Registros como Instrumento de Avaliação Formativa em Matemática</i>, por <b>Patrícia Siqueira Neves</b>.</p><p>3. <i>Estratégias de Inclusão de Alunos com TEA nas Aulas de Educação Física</i>, por <b>Gabriel Zanin Souza</b> e <b>Beatriz Nogueira Lima</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres Interativos",
+    "lugar": "Galeria do Bloco das Artes",
+    "dataInicio": "2025-07-18T09:00:00-03:00",
+    "dataFim": "2025-07-18T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Prof. André Luiz Furtado</b>.</p><p>Exposição de relatos de experiência e trabalhos selecionados:</p><p>1. <i>A Oralidade nas Aulas de Língua Portuguesa: O Podcast da Escola</i>, por <b>Clarisse Antunes Maia</b>.</p><p>2. <i>Brincadeiras Tradicionais e Desenvolvimento Psicomotor na Creche</i>, por <b>Vanessa Cristina Rios</b>.</p><p>3. <i>Cartografia Social e Ensino de Geografia Local</i>, por <b>Renato Macedo Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": null,
+    "dataInicio": "2025-07-18T14:00:00-03:00",
+    "dataFim": "2025-07-18T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Gestão Democrática e a Articulação Escola-Comunidade</i>.</p><p>Coordenação: <b>Profa. Nilza Camargo Rocha</b>.</p><p>Expositores: <b>Prof. Dr. Cláudio Henrique Bezerra</b> e <b>Profa. Ma. Fernanda Gouveia Peixoto</b>.</p>",
+    "secao": "Mesas de Diálogo"
+   },
+   {
+    "nome": "Mostra de Curtas e Documentários Escolares",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-07-18T17:00:00-03:00",
+    "dataFim": "2025-07-18T19:00:00-03:00",
+    "descricao": "<p>Exibição e debate de curtas-metragens produzidos por estudantes do Ensino Médio das escolas estaduais da RMC. Mediação da cineasta <b>Laura Tolentino</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": null,
+    "dataInicio": "2025-07-19T09:00:00-03:00",
+    "dataFim": "2025-07-19T11:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Prof. Me. Samuel Dias de Toledo</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Gamificação no Ensino de História: Uma Experiência com Jogos de Tabuleiro</i>, por <b>Tiago Fagundes Rezende</b>.</p><p>2. <i>Práticas Restaurativas e Resolução de Conflitos no Ambiente Escolar</i>, por <b>Renata Viana Barreto</b> e <b>Sérgio Paulo Mendonça</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Assembleia dos Professores da Educação Básica",
+    "lugar": null,
+    "dataInicio": "2025-07-19T13:30:00-03:00",
+    "dataFim": "2025-07-19T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Construção e Aprovação da Carta de Reivindicações e Propostas Pedagógicas de Campinas 2025</i>.</p><p>Coordenação dos trabalhos: <b>Profa. Sandra Regina Paiva</b> e <b>Prof. Gilberto Mendes Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-07-19T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Esperançar na Escola Pública: A Construção do Conhecimento Crítico e Humanizador</i>.</p><p>Conferencista convidada: <b>Profa. Dra. Eunice Maria da Silva</b> (USP).</p>",
+    "secao": null
+   }
+  ]
+ }
+}

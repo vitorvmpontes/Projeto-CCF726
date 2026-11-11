@@ -1,0 +1,166 @@
+{
+ "spec": {
+  "id": "sint-42-00026",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Viçosa - MG",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 17,
+  "casos": [
+   "intervalos",
+   "sem_local",
+   "subtitulo_separado",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:54:16+00:00",
+ "uso_tokens": {
+  "entrada": 696,
+  "saida": 2361
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Sebrae de Inovação e Negócios da Zona da Mata 2026",
+   "local_geral": "Parque Tecnológico de Viçosa (tecnoPARQ), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-05-14T08:00:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T10:30:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença de <b>Carlos Henrique Ribeiro</b> e autoridades locais para dar início à semana de empreendedorismo regional.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-14T10:30:00-03:00",
+    "dataFim": "2026-05-14T11:45:00-03:00",
+    "descricao": "<p>Palestra <i>Transformação Digital e o Futuro dos Pequenos Negócios</i> ministrada por <b>Mariana Castro Alvim</b>.</p>",
+    "secao": "Palestras Magna e Tendências"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-14T12:00:00-03:00",
+    "dataFim": "2026-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Modelagem de Negócios Inovadores com Business Model Canvas</i>, conduzido por <b>Rodrigo Duarte Faria</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Consultoria Individual Sebrae",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2026-05-14T16:00:00-03:00",
+    "dataFim": "2026-05-14T18:00:00-03:00",
+    "descricao": "<p>Atendimento individualizado para diagnóstico financeiro e mercadológico da sua empresa com <b>Patrícia Gomes Moreira</b>.</p>",
+    "secao": "Atendimentos e Consultorias"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T10:15:00-03:00",
+    "descricao": "<p>Apresentação de <i>Agritech: Conectando a Produção Rural à Tecnologia de Ponta</i> por <b>Fernando Peixoto Sampaio</b>.</p>",
+    "secao": "Palestras Magna e Tendências"
+   },
+   {
+    "nome": "Coffee Break e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-15T10:15:00-03:00",
+    "dataFim": "2026-05-15T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Multiuso B",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Estratégias de Tráfego Pago e Redes Sociais para o Varejo</i> ministrado por <b>Juliana Vasconcelos</b>.</p>",
+    "secao": "Capacitações Empresariais"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:30:00-03:00",
+    "dataFim": "2026-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Negócios",
+    "lugar": "Pavilhão de Exposição",
+    "dataInicio": "2026-05-15T14:30:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": "<p>Dinâmica rápida de aproximação comercial entre microempresas e grandes compradores da região, coordenada por <b>Leandro Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Consultoria Individual Sebrae",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2026-05-15T16:30:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Atendimento focado em marketing digital e vendas online orientado por <b>Lucas Medeiros</b>.</p>",
+    "secao": "Atendimentos e Consultorias"
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Acelerando Startups no Ecossistema Universitário de Viçosa</i> com a participação de <b>Beatriz Mendonça</b> e <b>Guilherme Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break e Networking",
+    "lugar": null,
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demoday de Startups",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T11:00:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Apresentação final de pitches das startups incubadas para a banca de investidores coordenada por <b>Renata Queiroz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:30:00-03:00",
+    "dataFim": "2026-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T16:00:00-03:00",
+    "descricao": "<p>Premiação dos destaques da feira e encerramento conduzido por <b>Carlos Henrique Ribeiro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

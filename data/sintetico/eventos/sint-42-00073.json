@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00073",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Londrina - PR",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "subtitulo_separado",
+   "titulos_longos",
+   "sem_local",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:50+00:00",
+ "uso_tokens": {
+  "entrada": 703,
+  "saida": 1153
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Recepção aos Calouros UEL 2026",
+   "local_geral": "Campus Universitário da UEL, Londrina - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida Institucional e Boas-Vindas",
+    "lugar": "Anfiteatro Maior do CCH",
+    "dataInicio": "2026-03-02T08:30:00-03:00",
+    "dataFim": "2026-03-02T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Vivências universitárias e cidadania no contexto do ensino superior paranaense contemporâneo</i>.</p><p>Apresentação da reitoria e pró-reitorias conduzida pela Profa. Dra. <b>Marta Helena Silveira</b> e pelo vice-reitor Prof. Dr. <b>Carlos Eduardo Sanches</b>.</p>",
+    "secao": "Manhã de Integração"
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": null,
+    "dataInicio": "2026-03-02T10:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Caminhada orientada para reconhecimento da Biblioteca Central, Restaurante Universitário, Serviço de Bem-Estar à Comunidade e laboratórios multidisciplinares. Condução pelos veteranos <b>Felipe Rossi</b> e <b>Larissa Nakamoto</b>.</p>",
+    "secao": "Manhã de Integração"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2026-03-02T12:00:00-03:00",
+    "dataFim": "2026-03-02T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2026-03-02T13:30:00-03:00",
+    "dataFim": "2026-03-02T15:00:00-03:00",
+    "descricao": "<p>Título da apresentação: <i>Desafios contemporâneos na transição da educação básica para a vida universitária em tempos de inteligência artificial e redes digitais</i>.</p><p>Palestra ministrada pelo pesquisador e psicólogo convidado Dr. <b>Henrique Mendonça Vasconcellos</b>.</p>",
+    "secao": "Ciclo de Debates Formativos"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": null,
+    "dataInicio": "2026-03-02T15:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Subtítulo da atividade: <i>Metodologias ativas e estratégias colaborativas essenciais para sobrevivência acadêmica e organização de rotinas de estudos em cursos de graduação</i>.</p><p>Coordenação dos facilitadores pedagógicos <b>Juliana Pires de Almeida</b> e <b>Renato Castanheira Neto</b>.</p>",
+    "secao": "Ciclo de Debates Formativos"
+   },
+   {
+    "nome": "Feira de Coletivos e Projetos de Extensão",
+    "lugar": "Calçadão Central da UEL",
+    "dataInicio": "2026-03-02T17:00:00-03:00",
+    "dataFim": "2026-03-02T18:30:00-03:00",
+    "descricao": "<p>Estandes de atléticas, centros acadêmicos e empresas juniores. Organização geral liderada por <b>Bianca Trindade</b> e <b>Lucas Foguel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Trote Solidário e Sarau Cultural",
+    "lugar": null,
+    "dataInicio": "2026-03-02T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Arrecadação de alimentos e apresentações musicais com curadoria cultural de <b>Camila Duarte Zanin</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

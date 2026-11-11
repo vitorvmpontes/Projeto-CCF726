@@ -1,0 +1,142 @@
+{
+ "spec": {
+  "id": "sint-42-00497",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Vitória - ES",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 14,
+  "casos": [
+   "titulos_longos",
+   "nomes_repetidos",
+   "intervalos",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:31:01+00:00",
+ "uso_tokens": {
+  "entrada": 714,
+  "saida": 2253
+ },
+ "saida": {
+  "evento": {
+   "nome": "Capixaba Tech Summit & Hackathon 2024",
+   "local_geral": "Hub ES+ e Centro de Convenções de Vitória, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Welcome Coffee",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-10-18T08:00:00-03:00",
+    "dataFim": "2024-10-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial e Divulgação dos Desafios do Hackathon",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:00:00-03:00",
+    "descricao": "<p>Apresentação das regras, critérios de avaliação e problemas reais de logística portuária e sustentabilidade trazidos pelas empresas parceiras. Condução por <b>Mariana Fontes</b> e <b>Carlos Eduardo Neves</b>.</p>",
+    "secao": "Hackathon TechVitória"
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2024-10-18T10:00:00-03:00",
+    "dataFim": "2024-10-18T11:15:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação digital integrada e sustentabilidade na cadeia logística portuária global usando modelos avançados de inteligência artificial generativa aplicada aos negócios</i>.</p><p>Palestrante: <b>Rodrigo Vasconcellos</b> (Diretor de Inovação na LogiTech).</p>",
+    "secao": "Trilha Principal: Inovação e Negócios"
+   },
+   {
+    "nome": "Mentoria Técnica de Equipes",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2024-10-18T11:30:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Primeira rodada de orientação técnica sobre arquitetura em nuvem e APIs. Mentores convidados: <b>Bruna Castelo</b>, <b>Felipe Fagundes</b> e <b>Aline Guimarães</b>.</p>",
+    "secao": "Hackathon TechVitória"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-10-18T12:30:00-03:00",
+    "dataFim": "2024-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica 1",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T15:00:00-03:00",
+    "descricao": "<p>Tema: <i>Engenharia de dados distribuída para análise preditiva de frotas mercantes em tempo real</i>.</p><p>Apresentado por <b>Larissa Paiva</b> da PetroSoftware.</p>",
+    "secao": "Trilha Principal: Inovação e Negócios"
+   },
+   {
+    "nome": "Workshop Corporativo",
+    "lugar": "Lab de Inovação 2",
+    "dataInicio": "2024-10-18T15:15:00-03:00",
+    "dataFim": "2024-10-18T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Construindo soluções inteligentes escaláveis para o ecossistema financeiro e portuário com microsserviços modernos orientados a eventos assíncronos e nuvem híbrida</i>.</p><p>Facilitadores: <b>Thiago Meireles</b> e <b>Renata Siqueira</b>.</p>",
+    "secao": "Trilha Principal: Inovação e Negócios"
+   },
+   {
+    "nome": "Mentoria Técnica de Equipes",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2024-10-18T17:30:00-03:00",
+    "dataFim": "2024-10-19T00:00:00-03:00",
+    "descricao": "<p>Segunda rodada de alinhamento com foco em validação de modelo de negócio e prototipagem ágil, acompanhada por <b>Patrícia Prado</b> e <b>Lucas Bernardes</b>.</p>",
+    "secao": "Hackathon TechVitória"
+   },
+   {
+    "nome": "Palestra Técnica 2",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2024-10-19T09:30:00-03:00",
+    "dataFim": "2024-10-19T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança ofensiva em aplicações web modernas e governança de dados</i>.</p><p>Com <b>Gabriel Sanches</b>.</p>",
+    "secao": "Trilha Principal: Inovação e Negócios"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2024-10-19T10:30:00-03:00",
+    "dataFim": "2024-10-11T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Especialistas",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2024-10-19T11:00:00-03:00",
+    "dataFim": "2024-10-19T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios contemporâneos e oportunidades futuras para a retenção estratégica de talentos tecnológicos em polos regionais emergentes do Brasil</i>.</p><p>Debatedores: <b>Camila Xavier</b>, <b>Diego Alvarenga</b> e <b>Vanessa Mattos</b>. Moderação de <b>Igor Rezende</b>.</p>",
+    "secao": "Trilha Principal: Inovação e Negócios"
+   },
+   {
+    "nome": "Mentoria Técnica de Equipes",
+    "lugar": "Sala de Reuniões B",
+    "dataInicio": "2024-10-19T13:30:00-03:00",
+    "dataFim": "2024-10-19T15:00:00-03:00",
+    "descricao": "<p>Última rodada de mentoria para refino do pitch e ajustes técnicos finais antes da submissão dos projetos. Mentoria liderada por <b>Otávio Pinheiro</b>.</p>",
+    "secao": "Hackathon TechVitória"
+   },
+   {
+    "nome": "Apresentação dos Pitches Finais",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2024-10-19T15:30:00-03:00",
+    "dataFim": "2024-10-19T17:30:00-03:00",
+    "descricao": "<p>Banca avaliadora composta por investidores e diretores de tecnologia: <b>Sérgio Ramos</b>, <b>Daniela Nogueira</b> e <b>Fabrício Linhares</b>.</p>",
+    "secao": "Hackathon TechVitória"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Mar",
+    "dataInicio": "2024-10-19T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Anúncio das equipes vencedoras do Hackathon e palavras finais com a comissão organizadora presidida por <b>Mariana Fontes</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

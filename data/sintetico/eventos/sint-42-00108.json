@@ -1,0 +1,292 @@
+{
+ "spec": {
+  "id": "sint-42-00108",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Florianópolis - SC",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 33,
+  "casos": [
+   "subtitulo_separado",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:07+00:00",
+ "uso_tokens": {
+  "entrada": 653,
+  "saida": 5406
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Brasileiro de Direito e Sustentabilidade",
+   "local_geral": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Material",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-04-15T08:00:00-03:00",
+    "dataFim": "2026-04-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-15T09:00:00-03:00",
+    "dataFim": "2026-04-15T09:40:00-03:00",
+    "descricao": "<p>Boas-vindas com a participação do Presidente da OAB/SC <b>Dr. Juliano Mandelli</b> e da Coordenadora Científica <b>Dra. Melissa Guimarães Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-15T09:40:00-03:00",
+    "dataFim": "2026-04-15T10:40:00-03:00",
+    "descricao": "<p>Tema: <i>O papel das cortes constitucionais na proteção da sociobiodiversidade</i>. Conferencista: Ministra <b>Carmem Lúcia Antunes</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": null,
+    "dataInicio": "2026-04-15T10:40:00-03:00",
+    "dataFim": "2026-04-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-15T11:00:00-03:00",
+    "dataFim": "2026-04-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Transição Energética Justa e Regulação do Setor Elétrico</i>.</p><p>Debatedores: <b>Prof. Dr. Ricardo Lewandowski Silveira</b> e <b>Dra. Camila Bittencourt Neves</b>. Mediação: <b>Dr. Otávio Ramos Pires</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": "Auditório Lagoa da Conceição",
+    "dataInicio": "2026-04-15T11:00:00-03:00",
+    "dataFim": "2026-04-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Direito das Cidades Resilientes e Prevenção de Desastres Climáticos</i>.</p><p>Palestrantes: <b>Dra. Helena Furtado Dias</b> apresentando <i>Instrumentos urbanísticos de adaptação</i> e <b>Dr. Marcos Vinicius Alencar</b> abordando <i>Responsabilidade civil do Estado em catástrofes</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-04-15T12:30:00-03:00",
+    "dataFim": "2026-04-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T15:40:00-03:00",
+    "descricao": "<p>Tema: <i>Mercado de Carbono e a Aplicação da Nova Legislação Florestal</i>.</p><p>Participantes: <b>Prof. Fernando Galvão Ribeiro</b> com a exposição <i>Créditos de descarbonização e tributação</i> e <b>Dra. Beatriz Menezes Prado</b> com <i>Validação registral e segurança jurídica</i>. Presidência da mesa: <b>Des. Sérgio Roberto Baasch</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": null,
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T15:40:00-03:00",
+    "descricao": "<p>Tema: <i>Governança ESG nas Empresas Estatais e Concessionárias de Serviços Públicos</i>.</p><p>Expositores: <b>Dr. Henrique Sampaio Luz</b> e <b>Dra. Vânia Maria Schiefler</b>. Debates mediados por <b>Profa. Carla Zanella Mattos</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Sessão de Pôsteres Científicos",
+    "lugar": "Espaço Coberto de Exposições",
+    "dataInicio": "2026-04-15T15:40:00-03:00",
+    "dataFim": "2026-04-15T16:30:00-03:00",
+    "descricao": "<p>Apresentação e avaliação dos resumos expandidos selecionados pelo comitê acadêmico coordenado pelo <b>Prof. André Teive Costa</b>.</p>",
+    "secao": "Pesquisa Acadêmica"
+   },
+   {
+    "nome": "Mesa-Redonda 5",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-15T16:30:00-03:00",
+    "dataFim": "2026-04-15T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Litigância Climática perante os Tribunais Superiores</i>.</p><p>Palestrantes: <b>Dr. Gabriel Werneck Dutra</b> e <b>Dra. Luciana Cordeiro Santos</b>. Coordenação: <b>Dra. Thaís Barreto Lins</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Lançamento de Obras Jurídicas e Coquetel",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-04-15T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos com os autores <b>Dr. Rodrigo Xavier Freitas</b> e <b>Dra. Melissa Guimarães Rocha</b> para o livro <i>Tratado de Direito Ambiental Aplicado</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Especial",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-16T08:30:00-03:00",
+    "dataFim": "2026-04-16T10:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Acordos de Não Persecução Cível e Termos de Ajustamento de Conduta em Matéria Ecológica</i>.</p><p>Debatedores: <b>Promotor Eduardo Saldanha</b> e <b>Juiz Federal Leonardo Paiva Castro</b>. Moderador: <b>Dr. Cláudio Gastão da Rosa</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Mesa-Redonda 6",
+    "lugar": "Auditório Lagoa da Conceição",
+    "dataInicio": "2026-04-16T08:30:00-03:00",
+    "dataFim": "2026-04-16T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mineração Sustentável e Remediação de Passivos Ambientais</i>.</p><p>Comunicações de <b>Dr. Paulo Afonso Brum</b> e <b>Dra. Denise Medeiros Albuquerque</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Coffee Break da Manhã",
+    "lugar": null,
+    "dataInicio": "2026-04-16T10:00:00-03:00",
+    "dataFim": "2026-04-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 7",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-16T10:30:00-03:00",
+    "dataFim": "2026-04-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Licenciamento Ambiental Complexo e o Papel dos Órgãos Intervenientes</i>.</p><p>Palestrantes: <b>Dra. Patrícia Iglecias Meireles</b> e <b>Dr. Fábio Feldmann Silveira</b>. Mediação: <b>Dr. Lucas Zanchetta</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 8",
+    "lugar": null,
+    "dataInicio": "2026-04-16T10:30:00-03:00",
+    "dataFim": "2026-04-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Proteção de Recursos Hídricos e Saneamento Básico Regionalizado</i>.</p><p>Exposições de <b>Dr. Wilson Loureiro Borges</b> com a palestra <i>Segurança jurídica dos contratos de concessão</i> e <b>Dra. Juliana Carvalho Penteado</b> com <i>Cobrança pelo uso da água bruta</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-04-16T12:00:00-03:00",
+    "dataFim": "2026-04-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Sala de Treinamento A",
+    "dataInicio": "2026-04-16T13:30:00-03:00",
+    "dataFim": "2026-04-16T15:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Elaboração e Defesa de Autos de Infração do IBAMA e IMA-SC</i>.</p><p>Instrutor: <b>Dr. Vinícius Nader Caldeira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Sala de Treinamento B",
+    "dataInicio": "2026-04-16T13:30:00-03:00",
+    "dataFim": "2026-04-16T15:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Auditoria Legal e Due Diligence Ambiental em Operações de M&A</i>.</p><p>Instrutora: <b>Dra. Roberta Fontes Guasso</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Mesa-Redonda 9",
+    "lugar": "Auditório Lagoa da Conceição",
+    "dataInicio": "2026-04-16T15:15:00-03:00",
+    "dataFim": "2026-04-16T16:45:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial, Monitoramento Satelital e Produção de Provas no Processo Ambiental</i>.</p><p>Participação de <b>Dr. Marcelo Buzaglo Dantas</b> e <b>Dra. Karen Reimer Garcia</b>. Presidência: <b>Dra. Vanessa Dorneles Maia</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 10",
+    "lugar": null,
+    "dataInicio": "2026-04-16T15:15:00-03:00",
+    "dataFim": "2026-04-16T16:45:00-03:00",
+    "descricao": "<p>Tema: <i>Patrimônio Genético, Conhecimentos Tradicionais e Repartição de Benefícios</i>.</p><p>Debatedoras: <b>Profa. Dra. Cristiane Derani</b> e <b>Dra. Fernanda de Paiva Brandão</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": null,
+    "dataInicio": "2026-04-16T16:45:00-03:00",
+    "dataFim": "2026-04-16T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento do Dia",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-16T17:15:00-03:00",
+    "dataFim": "2026-04-16T18:30:00-03:00",
+    "descricao": "<p>Título da apresentação: <i>Desafios do Federalismo Cooperativo no Século XXI</i>. Conferencista: <b>Prof. Emérito Celso Antônio Bandeira de Mello Filho</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Reunião de Alinhamento da Comissão Nacional de Meio Ambiente",
+    "lugar": "Sala Executiva 3",
+    "dataInicio": "2026-04-17T08:30:00-03:00",
+    "dataFim": "2026-04-17T09:30:00-03:00",
+    "descricao": "<p>Encontro de deliberação interna entre delegados estaduais sob a condução do Presidente <b>Dr. Renato Prado Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 11",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-17T09:30:00-03:00",
+    "dataFim": "2026-04-17T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Agronegócio Sustentável e Segurança Alimentar: Desafios Regulatórios</i>.</p><p>Palestrantes: <b>Dr. Antônio Carlos Freitas Lima</b> e <b>Dra. Silvia Regina Becker Ribeiro</b>. Mediador: <b>Dr. Carlos Henrique Ramos</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 12",
+    "lugar": null,
+    "dataInicio": "2026-04-17T09:30:00-03:00",
+    "dataFim": "2026-04-17T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Zoneamento Ecológico-Econômico e Áreas de Preservação Permanente Urbanas</i>.</p><p>Apresentações de <b>Prof. Geovani Rocha Fagundes</b> e <b>Dra. Tatiana Capanema Vilela</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2026-04-17T11:00:00-03:00",
+    "dataFim": "2026-04-17T11:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 13",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-17T11:20:00-03:00",
+    "dataFim": "2026-04-17T12:45:00-03:00",
+    "descricao": "<p>Tema: <i>Logística Reversa e Economia Circular: Efetividade das Cadeias de Valor</i>.</p><p>Debatedores: <b>Dr. Daniel de Araújo Pinheiro</b> e <b>Dra. Beatriz Vasconcelos Rios</b> com mediação de <b>Dra. Elisa Castelo Branco</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-04-17T12:45:00-03:00",
+    "dataFim": "2026-04-17T14:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 14",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-17T14:15:00-03:00",
+    "dataFim": "2026-04-17T15:45:00-03:00",
+    "descricao": "<p>Tema: <i>Segurança Jurídica dos Investimentos Verdes e Arbitragem Socioambiental</i>.</p><p>Palestrantes convidados: <b>Dr. Guilherme Arruda Botelho</b> e <b>Dra. Mariana Conti Trindade</b>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Sessão Plenária de Premiação",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-17T15:45:00-03:00",
+    "dataFim": "2026-04-17T16:30:00-03:00",
+    "descricao": "<p>Entrega do <i>Prêmio Mérito Ambiental Jurídico 2026</i> aos melhores artigos apresentados no congresso, sob a presidência de <b>Dra. Melissa Guimarães Rocha</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Encerramento",
+    "lugar": "Auditório Ilha de Santa Catarina",
+    "dataInicio": "2026-04-17T16:30:00-03:00",
+    "dataFim": "2026-04-17T17:30:00-03:00",
+    "descricao": "<p>Leitura da <i>Carta de Florianópolis sobre Direito e Sustentabilidade</i> pelo relator <b>Dr. Gustavo Barcellos Moreira</b> e considerações finais pela comissão organizadora.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

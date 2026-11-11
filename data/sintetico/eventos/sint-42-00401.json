@@ -1,0 +1,180 @@
+{
+ "spec": {
+  "id": "sint-42-00401",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Salvador - BA",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:23:42+00:00",
+ "uso_tokens": {
+  "entrada": 647,
+  "saida": 2840
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Encontro Baiano de Educadores da Educação Básica",
+   "local_geral": "Faculdade de Educação da UFBA, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-05-21T08:00:00-03:00",
+    "dataFim": "2026-05-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Acolhida Poética e Fala de Abertura",
+    "lugar": "Auditório Dois de Julho",
+    "dataInicio": "2026-05-21T09:00:00-03:00",
+    "dataFim": "2026-05-21T10:30:00-03:00",
+    "descricao": "<p>Apresentação cultural com o poeta <b>Bule-Bule</b> e boas-vindas da coordenadora geral <b>Dra. Iraci Maciel da Silva</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inicial",
+    "lugar": "Auditório Dois de Julho",
+    "dataInicio": "2026-05-21T10:45:00-03:00",
+    "dataFim": "2026-05-21T12:15:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Práticas Antirracistas no Cotidiano Escolar das Infâncias Baianas</i>, ministrada pela <b>Profa. Dra. Bárbara Carine Soares Pinheiro</b> com mediação de <b>Prof. Me. Jamerson de Jesus</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-21T12:15:00-03:00",
+    "dataFim": "2026-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 102 - Bloco B",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Alfabetização e Letramento com Jogos Tradicionais e Cantigas</i>, facilitada por <b>Profa. Ma. Lílian Ferreira Guimarães</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": null,
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": "2026-05-21T17:00:00-03:00",
+    "descricao": "<p>Tema: <i>Metodologias Ativas no Ensino de Ciências para os Anos Finais</i>, conduzida pelo <b>Prof. Esp. Rodrigo de Souza Rocha</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Laboratório de Informática Pedagógica",
+    "dataInicio": "2026-05-21T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Ferramentas Digitais Livres e Recursos Educacionais Abertos para o Ensino Médio</i>, ministrada por <b>Prof. Me. Thiago Menezes Santana</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Diálogo Formativo 1",
+    "lugar": "Auditório Dois de Julho",
+    "dataInicio": "2026-05-22T08:30:00-03:00",
+    "dataFim": "2026-05-22T10:15:00-03:00",
+    "descricao": "<p>Discussão com o tema <i>A Saúde Mental do Educador e as Relações no Espaço Escolar</i>, reunindo a psicóloga <b>Dra. Cecília Nogueira</b> e o sociólogo <b>Prof. Dr. Cláudio Brandão</b>. Mediação: <b>Profa. Eunice Paim</b>.</p>",
+    "secao": "Diálogos Formativos"
+   },
+   {
+    "nome": "Intervalo com Café",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2026-05-22T10:15:00-03:00",
+    "dataFim": "2026-05-22T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Diálogo Formativo 2",
+    "lugar": "Auditório Dois de Julho",
+    "dataInicio": "2026-05-22T10:45:00-03:00",
+    "dataFim": "2026-05-22T12:30:00-03:00",
+    "descricao": "<p>Discussão com o tema <i>Desafios da Educação Integral em Territórios Periféricos</i>, com relatos de <b>Prof. Valmir Santos da Paixão</b> e da diretora escolar <b>Tânia Mara Calmon</b>.</p>",
+    "secao": "Diálogos Formativos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-22T12:30:00-03:00",
+    "dataFim": "2026-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Relatos de Experiência 1",
+    "lugar": "Sala 204 - Bloco C",
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de sala de aula selecionados. Avaliação da banca presidida por <b>Profa. Dra. Marina Costa Ribeiro</b> e <b>Prof. Me. Fábio Lima de Cerqueira</b>.</p>",
+    "secao": "Compartilhamento de Experiências"
+   },
+   {
+    "nome": "Sessão de Relatos de Experiência 2",
+    "lugar": null,
+    "dataInicio": "2026-05-22T14:00:00-03:00",
+    "dataFim": "2026-05-22T16:00:00-03:00",
+    "descricao": "<p>Apresentação das práticas docentes interdisciplinares. Coordenação de sessão com <b>Profa. Esp. Neusa Dias Batista</b>.</p>",
+    "secao": "Compartilhamento de Experiências"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2026-05-22T16:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Debate sobre <i>Gestão Democrática e Participação da Comunidade na Escola</i>, articulado pelos líderes comunitários <b>Antônio Carlos Vianna</b> e <b>Maria Lúcia Gonzaga</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres Pedagógicos",
+    "lugar": "Área de Convivência",
+    "dataInicio": "2026-05-23T08:30:00-03:00",
+    "dataFim": "2026-05-23T10:00:00-03:00",
+    "descricao": "<p>Exposição de murais e projetos desenvolvidos em escolas públicas municipais e estaduais da Bahia durante o ano letivo.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento Coletivo de Livros Didáticos e Pedagógicos",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-05-23T10:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos das obras organizadas por <b>Prof. Dr. Gilmar de Oliveira</b>, incluindo o volume coletivo <i>Saberes Docentes no Chão da Escola</i> com contribuições de <b>Carla Valéria Nascimento</b> e outros autores.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Assembleia dos Professores da Rede Básica",
+    "lugar": "Auditório Dois de Julho",
+    "dataInicio": "2026-05-23T11:00:00-03:00",
+    "dataFim": "2026-05-23T12:30:00-03:00",
+    "descricao": "<p>Leitura e aprovação da <i>Carta de Salvador pela Valorização do Magistério</i>. Coordenação da mesa por <b>Marcilene Peixoto</b> e <b>Jorge Ramos Barreto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-23T12:30:00-03:00",
+    "dataFim": "2026-05-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Encerramento e Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2026-05-23T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Reflexões finais pelo patrono do encontro <b>Prof. Emérito Walter Ramos Tavares</b> seguidas por intervenção musical com o grupo de percussão coordenado pela educadora musical <b>Luciana Couto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

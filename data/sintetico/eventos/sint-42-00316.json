@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00316",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "São Paulo - SP",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:17+00:00",
+ "uso_tokens": {
+  "entrada": 641,
+  "saida": 1594
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Brasileiro de Ciência de Dados e Inteligência Computacional",
+   "local_geral": "Centro de Convenções Rebouças, São Paulo - SP"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Plenária 1",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2026-05-18T09:00:00-03:00",
+    "dataFim": "2026-05-18T10:30:00-03:00",
+    "descricao": "<p>Tema: Fundamentos e Avanços em Aprendizado Profundo Não Supervisionado. Palestra magna proferida pelo Prof. Dr. <b>Carlos Eduardo Vasconcelos</b> com apresentação do tema <i>Representações Neurais Latentes e Novas Fronteiras da Computação Científica</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-18T11:00:00-03:00",
+    "dataFim": "2026-05-18T12:30:00-03:00",
+    "descricao": "<p>Apresentação de artigos completos sob coordenação da Profa. Dra. <b>Juliana Meireles Rocha</b>. Trabalhos apresentados: <i>Redes Neurais Convolucionais para Reconhecimento de Padrões Sísmicos</i> por <b>Mariana Castro Silva</b>; e <i>Otimização Heurística em Grafos Dinâmicos</i> por <b>Lucas Pires Nogueira</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala 103",
+    "dataInicio": "2026-05-18T14:00:00-03:00",
+    "dataFim": "2026-05-18T15:30:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos com moderação do Prof. Dr. <b>Henrique Brandão de Paula</b>. Trabalhos: <i>Detecção Precoce de Falhas Industriais via Algoritmos de Boosting</i> de autoria de <b>Beatriz Fontes Xavier</b>; e <i>Processamento de Linguagem Natural Aplicado a Laudos Médicos Estruturados</i> apresentado por <b>Gabriel Sampaio Ribeiro</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2026-05-18T16:00:00-03:00",
+    "dataFim": "2026-05-18T17:30:00-03:00",
+    "descricao": "<p>Tema: Governança de Algoritmos, Privacidade e Ética em Inteligência Artificial no Contexto Regulatório Brasileiro. Participação dos especialistas <b>Renata Albuquerque Luz</b>, <b>Felipe Mendes Fagundes</b> e <b>Camila Duarte Arantes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-05-19T09:00:00-03:00",
+    "dataFim": "2026-05-19T10:30:00-03:00",
+    "descricao": "<p>Sessão dedicada a aplicações biomédicas, moderada pelo Prof. Dr. <b>Arthur Alencar Queiroz</b>. Artigos apresentados: <i>Segmentação Automatizada de Imagens de Tomografia Pulmonar</i> por <b>Letícia Gouveia Campos</b>; e <i>Classificação de Variantes Genéticas com Árvores de Decisão</i> por <b>Vinícius Ramos Toledo</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala 103",
+    "dataInicio": "2026-05-19T11:00:00-03:00",
+    "dataFim": "2026-05-19T12:30:00-03:00",
+    "descricao": "<p>Sessão de Visão Computacional sob coordenação da Dra. <b>Fernanda Esteves Peixoto</b>. Apresentações: <i>Rastreamento Robusto de Objetos em Câmeras de Baixa Resolução</i> por <b>Diego Silveira Paiva</b>; e <i>Modelos de Difusão Aplicados à Restauração de Imagens Aéreas</i> por <b>Aline Maciel Antunes</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Plenária 2",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2026-05-19T14:30:00-03:00",
+    "dataFim": "2026-05-19T16:00:00-03:00",
+    "descricao": "<p>Tema: Desafios Contemporâneos em Aprendizado Federado para Sistemas Móveis. Apresentação conduzida pelo pesquisador convidado Dr. <b>Maurício Fontoura Prado</b> com palestra intitulada <i>Eficiência Energética e Comunicação em Redes Distribuídas Heterogêneas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Vermelho",
+    "dataInicio": "2026-05-19T16:30:00-03:00",
+    "dataFim": "2026-05-19T17:30:00-03:00",
+    "descricao": "<p>Anúncio dos melhores artigos científicos do congresso e entrega do Prêmio Mérito Acadêmico pela presidente do comitê científico, Profa. Dra. <b>Elisa Martins Borges</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

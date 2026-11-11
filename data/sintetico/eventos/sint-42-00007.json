@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-42-00007",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Manaus - AM",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 8,
+  "casos": [
+   "titulos_longos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:46+00:00",
+ "uso_tokens": {
+  "entrada": 665,
+  "saida": 1283
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Encontro Amazonense de Docentes da Educação Básica",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Materiais Pedagógicos",
+    "lugar": "Hall de Entrada Principal",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": "<p>Recepção dos professores da rede pública e comunitária com distribuição do caderno formativo.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2025-05-14T09:30:00-03:00",
+    "dataFim": "2025-05-14T11:30:00-03:00",
+    "descricao": "<p>Apresentação da conferência <i>Saberes Tradicionais e Práticas Pedagógicas Inovadoras no Cotidiano das Escolas Ribeirinhas da Bacia Amazônica Contemporânea</i>, conduzida pela Profa. Dra. <b>Raimunda Nonata de Souza</b>.</p>",
+    "secao": "Conferências Plenárias"
+   },
+   {
+    "nome": "Roda de Conversa Intersetorial",
+    "lugar": null,
+    "dataInicio": "2025-05-14T14:30:00-03:00",
+    "dataFim": "2025-05-14T17:00:00-03:00",
+    "descricao": "<p>Discussão sobre saúde mental docente e valorização profissional mediada pelo psicólogo escolar <b>Thiago Meireles Cabral</b> e pela coordenadora <b>Eliane Marinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Laboratório de Metodologias Ativas 3",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T11:30:00-03:00",
+    "descricao": "<p>Ministração da oficina <i>Construção de Materiais Didáticos Acessíveis com Recursos Naturais Locais Voltados para o Fortalecimento da Alfabetização Científica</i> com os educadores <b>Marcos Vinícius Batista</b> e <b>Sílvia Regina Duarte</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": null,
+    "dataInicio": "2025-05-15T14:00:00-03:00",
+    "dataFim": "2025-05-15T17:00:00-03:00",
+    "descricao": "<p>Capacitação prática intitulada <i>O Uso de Jogos de Tabuleiro e Narrativas Visuais na Aprendizagem Histórica dos Anos Finais do Ensino Fundamental</i>, ministrada pelo professor <b>Carlos Eduardo Guimarães</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Pausa para Lanche Regional",
+    "lugar": null,
+    "dataInicio": "2025-05-16T09:30:00-03:00",
+    "dataFim": "2025-05-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Experiências Exitosas",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Relato de projetos interdisciplinares apresentados pelos professores premiados <b>Larissa Pontes</b> e <b>Valdemir Siqueira</b>, com moderação de <b>Fernanda Tavares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Solenidade Cultural de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-05-16T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação artística do grupo de dança escolar coordenado pela professora <b>Clarice dos Anjos</b> e entrega de certificados de participação.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

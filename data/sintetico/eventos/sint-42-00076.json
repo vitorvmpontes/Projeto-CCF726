@@ -1,0 +1,132 @@
+{
+ "spec": {
+  "id": "sint-42-00076",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Brasília - DF",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 13,
+  "casos": [
+   "atividades_paralelas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:11+00:00",
+ "uso_tokens": {
+  "entrada": 653,
+  "saida": 2040
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae DF 2024",
+   "local_geral": "Centro de Convenções Ulysses Guimarães, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2024-05-16T09:00:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença do diretor-superintendente do Sebrae DF, <b>Antônio Valdir</b>, e autoridades locais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e o Futuro dos Pequenos Negócios</i>. Apresentação conduzida por <b>Mariana Rios</b>.</p>",
+    "secao": "Palestras Magna"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala Águas Claras",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Modelagem de Negócios com Canvas: Da Teoria à Prática</i>. Facilitador: <b>Rodrigo Vasconcelos</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Acesso a Crédito e Financiamento Sustentável</i>. Debatedores: <b>Camila Duarte</b> e <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Sessão de Pitch",
+    "lugar": "Arena Startup DF",
+    "dataInicio": "2024-05-16T16:30:00-03:00",
+    "dataFim": "2024-05-16T18:30:00-03:00",
+    "descricao": "<p>Apresentação das finalistas do programa Conecta Startups. Coordenação de <b>Juliana Meireles</b> e mediação de <b>Lucas Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2024-05-17T09:30:00-03:00",
+    "dataFim": "2024-05-17T11:00:00-03:00",
+    "descricao": "<p>Palestra de abertura do dia com o tema <i>Marketing de Guerrilha e Posicionamento de Marca Local</i>, ministrada por <b>Patrícia Albuquerque</b>.</p>",
+    "secao": "Palestras Magna"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Sala Águas Claras",
+    "dataInicio": "2024-05-17T11:15:00-03:00",
+    "dataFim": "2024-05-17T13:00:00-03:00",
+    "descricao": "<p>Tema: <i>Planejamento Financeiro e Fluxo de Caixa no Varejo</i>. Instrutor: <b>Fernando Castelo Branco</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": "Pavilhão Principal - Térreo",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Encontros B2B multissetoriais pré-agendados. Organização e moderação da consultora <b>Luciana Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2024-05-17T14:30:00-03:00",
+    "dataFim": "2024-05-17T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Tendências para Alimentos e Bebidas no Centro-Oeste</i>. Participação dos especialistas <b>Beatriz Silveira</b> e <b>Jorge Tadeu Ramos</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2024-05-18T10:00:00-03:00",
+    "dataFim": "2024-05-18T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Liderança Humanizada e Gestão de Pessoas em Microempresas</i>, apresentada por <b>Sérgio Mendonça</b>.</p>",
+    "secao": "Palestras Magna"
+   },
+   {
+    "nome": "Workshop",
+    "lugar": "Sala Águas Claras",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Vendas pelo WhatsApp e Atendimento Omnichannel</i>. Facilitado pela consultora <b>Renata Chaves</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Espaço Conexões",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inovação Aberta e Parcerias com o Setor Público</i>. Palestrantes: <b>Danilo Queiroz</b> e <b>Vanessa Martins</b>.</p>",
+    "secao": "Capacitação Empresarial"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2024-05-18T17:00:00-03:00",
+    "dataFim": "2024-05-18T18:30:00-03:00",
+    "descricao": "<p>Entrega do Prêmio Sebrae Mulher de Negócios DF 2024, conduzida por <b>Mariana Rios</b> e <b>Antônio Valdir</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

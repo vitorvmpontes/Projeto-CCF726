@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00321",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Florestal - MG",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "subtitulo_separado",
+   "intervalos",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:35+00:00",
+ "uso_tokens": {
+  "entrada": 696,
+  "saida": 1080
+ },
+ "saida": {
+  "evento": {
+   "nome": "TechFlorestal Summit & Hackathon 2024",
+   "local_geral": "Campus UFV - Florestal, Florestal - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Welcome Coffee",
+    "lugar": "Hall Principal do Prédio Central",
+    "dataInicio": "2024-10-18T08:00:00-03:00",
+    "dataFim": "2024-10-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-18T09:00:00-03:00",
+    "dataFim": "2024-10-18T10:15:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e Arquiteturas Escaláveis em Nuvem</i>.</p><p>Palestrante: <b>Rodrigo Vasconcelos</b> (Arquiteto de Soluções na AWS).</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Maratona Hackathon",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2024-10-18T10:30:00-03:00",
+    "dataFim": "2024-10-18T12:30:00-03:00",
+    "descricao": "<p>Desenvolvimento da Etapa 1 dos desafios de automação sustentável. Coordenação: <b>Mariana Faria</b> e <b>Carlos Eduardo Neves</b>.</p>",
+    "secao": "Desafio Hackathon"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": "Restaurante Universitário",
+    "dataInicio": "2024-10-18T12:30:00-03:00",
+    "dataFim": "2024-10-18T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Empresarial",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-18T14:00:00-03:00",
+    "dataFim": "2024-10-18T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial Aplicada ao Monitoramento de Frotas e Recursos Naturais</i>.</p><p>Apresentado por <b>Larissa Miranda</b> (Lead Data Scientist na Vale).</p>",
+    "secao": "Ciclo de Palestras"
+   },
+   {
+    "nome": "Maratona Hackathon",
+    "lugar": "Espaço Coworking / Tenda de Inovação",
+    "dataInicio": "2024-10-18T15:30:00-03:00",
+    "dataFim": "2024-10-18T18:00:00-03:00",
+    "descricao": "<p>Etapa 2 e conclusão das submissões de protótipos de hardware e software para a banca avaliadora. Apoio dos mentores <b>Guilherme Santos</b> e <b>Beatriz Viana</b>.</p>",
+    "secao": "Desafio Hackathon"
+   },
+   {
+    "nome": "Pitch de Encerramento e Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2024-10-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação dos melhores projetos desenvolvidos durante o evento e entrega dos prêmios, com os avaliadores convidados <b>Tatiane Medeiros</b> e <b>Felipe Álvares</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

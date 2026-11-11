@@ -1,0 +1,180 @@
+{
+ "spec": {
+  "id": "sint-42-00194",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Manaus - AM",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 19,
+  "casos": [
+   "subtitulo_separado",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:07:35+00:00",
+ "uso_tokens": {
+  "entrada": 650,
+  "saida": 2939
+ },
+ "saida": {
+  "evento": {
+   "nome": "III Seminário Pan-Amazônico de Sustentabilidade e Governança Ambiental",
+   "local_geral": "Centro de Convenções Vasco Vasques, Manaus - AM"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2026-06-15T08:00:00-03:00",
+    "dataFim": "2026-06-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-15T09:00:00-03:00",
+    "dataFim": "2026-06-15T09:45:00-03:00",
+    "descricao": "<p>Abertura oficial com a presença da Secretária de Meio Ambiente <b>Dra. Aldenira Queiroz</b> e representantes de povos tradicionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-15T09:45:00-03:00",
+    "dataFim": "2026-06-15T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>Desafios Climáticos e a Proteção da Bacia Amazônica no Século XXI</i>, proferida pelo pesquisador <b>Dr. Carlos Nobre Filho</b> com mediação de <b>Profa. Mayara Tukano</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-15T11:15:00-03:00",
+    "dataFim": "2026-06-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Bioeconomia e Cadeias Produtivas da Floresta em Pé</i>. Participantes: <b>Mariana Sampaio</b> e <b>Raimundo Nonato Batista</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-06-15T12:30:00-03:00",
+    "dataFim": "2026-06-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Técnica A",
+    "lugar": "Sala Samaúma",
+    "dataInicio": "2026-06-15T14:00:00-03:00",
+    "dataFim": "2026-06-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mapeamento Geoespacial Comunitário para Monitoramento de Queimadas</i>, facilitada por <b>Eng. Thiago Marinho</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Técnica B",
+    "lugar": "Sala Vitória-Régia",
+    "dataInicio": "2026-06-15T14:00:00-03:00",
+    "dataFim": "2026-06-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Restauração Ecológica de Áreas Degradadas de Várzea</i>, conduzida pela bióloga <b>Dra. Larissa Benchimol</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Técnica C",
+    "lugar": "Laboratório de Informática Verde",
+    "dataInicio": "2026-06-15T14:00:00-03:00",
+    "dataFim": "2026-06-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Cálculo de Pegada Hídrica e de Carbono em Empreendimentos Regionais</i>, ministrada por <b>Prof. Lucas Vianna</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Café Regional",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-06-15T16:00:00-03:00",
+    "dataFim": "2026-06-15T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Temática 1",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-15T16:30:00-03:00",
+    "dataFim": "2026-06-15T18:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transição Energética e Comunidades Isoladas na Amazônia Ocidental</i>. Apresentações de <b>Dra. Juliana Mendes</b> sobre <i>Microredes Fotovoltaicas Ribeirinhas</i> e de <b>Fábio Coimbra</b> sobre <i>Biocombustíveis a partir de Óleos Nativos</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Documentários Ambientais",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-15T18:15:00-03:00",
+    "dataFim": "2026-06-15T19:30:00-03:00",
+    "descricao": "<p>Exibição do documentário <i>Guardiões das Águas Claras</i>, seguida de debate com a diretora <b>Kátia Tapajós</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-16T08:30:00-03:00",
+    "dataFim": "2026-06-16T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>Justiça Climática e Direitos dos Povos Tradicionais</i>. Debatedores: liderança indígena <b>Almir Suruí</b>, jurista <b>Dra. Fernanda Brandão</b> e moderação de <b>Prof. Gabriel Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo com Frutas Regionais",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-06-16T10:00:00-03:00",
+    "dataFim": "2026-06-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral A",
+    "lugar": "Sala Samaúma",
+    "dataInicio": "2026-06-16T10:30:00-03:00",
+    "dataFim": "2026-06-16T12:00:00-03:00",
+    "descricao": "<p>Apresentação do artigo <i>Gestão Integrada de Resíduos Sólidos Fluviais em Cidades Médias</i> por <b>Renan Albuquerque</b> e <i>Políticas Públicas de Saneamento Básico em Igarapés Urbanos</i> por <b>Clara Menezes</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Apresentação Oral B",
+    "lugar": "Sala Vitória-Régia",
+    "dataInicio": "2026-06-16T10:30:00-03:00",
+    "dataFim": "2026-06-16T12:00:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos <i>Etnobotânica Aplicada à Farmacologia Verde no Baixo Amazonas</i> por <b>Samir Calheiros</b> e <i>Manejo Florestal Comunitário de Castanheiras Nativas</i> por <b>Tatiana Barroso</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2026-06-16T12:00:00-03:00",
+    "dataFim": "2026-06-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa Interativa",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-16T13:30:00-03:00",
+    "dataFim": "2026-06-16T15:00:00-03:00",
+    "descricao": "<p>Tema: <i>Juventude e Ativismo Ambiental no Território Amazônico</i>, coordenada por <b>Breno Macuxi</b> com a presença de coletivos estudantis da UEA e UFAM.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação da Carta de Manaus",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-16T15:15:00-03:00",
+    "dataFim": "2026-06-16T16:30:00-03:00",
+    "descricao": "<p>Leitura pública e validação do documento de recomendações para a COP31, conduzida pelo comitê executivo presidido por <b>Dra. Aldenira Queiroz</b> e <b>Dr. Marcelo Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Encerramento",
+    "lugar": "Auditório Encontro das Águas",
+    "dataInicio": "2026-06-16T16:30:00-03:00",
+    "dataFim": "2026-06-16T17:30:00-03:00",
+    "descricao": "<p>Agradecimentos institucionais e apresentação cultural do grupo de música regional coordenado pelo maestro <b>Elizeu Canto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "spec": {
+  "id": "sint-42-00075",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Niterói - RJ",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:57:57+00:00",
+ "uso_tokens": {
+  "entrada": 641,
+  "saida": 759
+ },
+ "saida": {
+  "evento": {
+   "nome": "8ª Mostra de Extensão Universitária da UFF",
+   "local_geral": "Campus do Gragoatá, Universidade Federal Fluminense, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Saberes Comunitários",
+    "lugar": "Tenda Cultural da Praia Vermelha",
+    "dataInicio": "2023-10-18T09:00:00-03:00",
+    "dataFim": "2023-10-18T11:00:00-03:00",
+    "descricao": "<p>Primeira edição matutina com foco em práticas de agroecologia urbana e trocas com pescadores locais, facilitada por <b>Mariana Guimarães</b> e <b>Seu Jorge do Carmo</b>.</p>",
+    "secao": "Oficinas Integradas"
+   },
+   {
+    "nome": "Roda de Conversa: Extensão e Direitos Humanos",
+    "lugar": "Auditório do Bloco O",
+    "dataInicio": "2023-10-18T11:15:00-03:00",
+    "dataFim": "2023-10-18T13:00:00-03:00",
+    "descricao": "<p>Debate sobre o impacto das ações comunitárias nas periferias de Niterói e São Gonçalo, com a participação de <b>Carlos Eduardo Paiva</b> e mediação de <b>Renata Silveira</b> com o tema <i>Vozes da Resistência Comunitária</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Saberes Comunitários",
+    "lugar": "Sala 402 - Bloco D",
+    "dataInicio": "2023-10-18T14:00:00-03:00",
+    "dataFim": "2023-10-18T16:00:00-03:00",
+    "descricao": "<p>Segunda edição vespertina voltada ao reaproveitamento de resíduos orgânicos e compostagem doméstica, ministrada por <b>Mariana Guimarães</b> e <b>Fabrício Mendonça</b>.</p>",
+    "secao": "Oficinas Integradas"
+   },
+   {
+    "nome": "Apresentação Cultural de Encerramento",
+    "lugar": "Pátio Central do Gragoatá",
+    "dataInicio": "2023-10-18T16:30:00-03:00",
+    "dataFim": "2023-10-18T18:00:00-03:00",
+    "descricao": "<p>Apresentação de maracatu e ciranda com o coletivo de estudantes coordenado por <b>Beatriz Alencar</b>, apresentando o espetáculo <i>Batuques da Baía</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

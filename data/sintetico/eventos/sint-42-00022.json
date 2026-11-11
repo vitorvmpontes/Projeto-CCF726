@@ -1,0 +1,116 @@
+{
+ "spec": {
+  "id": "sint-42-00022",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Brasília - DF",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "titulos_longos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:53:58+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 1710
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Engenharia Florestal da UnB",
+   "local_geral": "Faculdade de Tecnologia, Universidade de Brasília (UnB), Campus Darcy Ribeiro, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção dos Calouros e Entrega de Crachás",
+    "lugar": "Hall do Bloco SG-12",
+    "dataInicio": "2027-05-17T08:00:00-03:00",
+    "dataFim": "2027-05-17T09:00:00-03:00",
+    "descricao": "<p>Acolhimento dos estudantes de graduação e distribuição do material institucional com a coordenação de <b>Camila Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Roberto Salmeron",
+    "dataInicio": "2027-05-17T09:15:00-03:00",
+    "dataFim": "2027-05-17T10:45:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Análise crítica dos impactos das mudanças climáticas globais sobre a dinâmica de regeneração e conservação do bioma Cerrado brasileiro</i>, ministrada pelo pesquisador <b>Dr. Rodrigo Albuquerque Mendes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Confraternização",
+    "lugar": "Pátio das Acácias",
+    "dataInicio": "2027-05-17T10:45:00-03:00",
+    "dataFim": "2027-05-17T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática de Drones e Mapeamento Aéreo",
+    "lugar": "Laboratório de Manejo Florestal",
+    "dataInicio": "2027-05-17T14:00:00-03:00",
+    "dataFim": "2027-05-17T17:30:00-03:00",
+    "descricao": "<p>Capacitação ministrada pela engenheira <b>Larissa Botelho de Castro</b> sobre processamento de imagens multiespectrais obtidas por VANTs na silvicultura.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Oficina de Identificação Anatômica de Madeiras Comerciais",
+    "lugar": "Laboratório de Anatomia Vegetal",
+    "dataInicio": "2027-05-17T14:00:00-03:00",
+    "dataFim": "2027-05-17T17:30:00-03:00",
+    "descricao": "<p>Treinamento prático conduzido pelo professor <b>Marcos Vinícius Prado</b> focado em espécies nativas comercializadas no Centro-Oeste.</p>",
+    "secao": "Minicursos e Oficinas"
+   },
+   {
+    "nome": "Sessão de Painéis de Iniciação Científica",
+    "lugar": "Espaço de Convivência da FT",
+    "dataInicio": "2027-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exposição dos trabalhos de pesquisa dos alunos de graduação sob avaliação do comitê presidido pela <b>Profa. Helena Diniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Roberto Salmeron",
+    "dataInicio": "2027-05-18T08:30:00-03:00",
+    "dataFim": "2027-05-18T10:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>Estratégias sustentáveis de restauração florestal produtiva voltadas à recuperação de áreas degradadas em bacias hidrográficas do Planalto Central</i>, apresentada pela consultora florestal <b>Beatriz Guimarães Rangel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Debate Interativo com Egressos",
+    "lugar": "Anfiteatro 9",
+    "dataInicio": "2027-05-18T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Roda de conversa com ex-alunos mediada por <b>Otávio Furtado Silveira</b>, abordando os desafios do mercado de trabalho florestal no setor público e privado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Roberto Salmeron",
+    "dataInicio": "2027-05-18T14:00:00-03:00",
+    "dataFim": "2027-05-18T15:45:00-03:00",
+    "descricao": "<p>Palestra sobre <i>Aplicações da modelagem estatística avançada no inventário florestal contínuo de florestas plantadas para previsão de volume comercial</i>, ministrada pelo <b>Prof. Lucas Nogueira Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Extensão Universitária",
+    "lugar": "Galeria do Bloco SG-12",
+    "dataInicio": "2027-05-18T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação de projetos comunitários com coordenação do estudante <b>Gabriel Toledo</b> e participação da comunidade acadêmica.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Roberto Salmeron",
+    "dataInicio": "2027-05-18T18:00:00-03:00",
+    "dataFim": "2027-05-18T19:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas aos melhores trabalhos pelo chefe de departamento <b>Prof. Antônio Carlos Peixoto</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

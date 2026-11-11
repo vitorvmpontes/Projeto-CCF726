@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-42-00257",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Fortaleza - CE",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "titulos_longos",
+   "descricoes_ricas",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:40+00:00",
+ "uso_tokens": {
+  "entrada": 696,
+  "saida": 2168
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Encontro Comunitário de Fé e Ação Social de Fortaleza",
+   "local_geral": "Centro Pastoral Padre Cícero, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Oração Comunitária",
+    "lugar": "Capela Central",
+    "dataInicio": "2026-05-16T08:00:00-03:00",
+    "dataFim": "2026-05-16T09:00:00-03:00",
+    "descricao": "<p>Momento inicial de oração e boas-vindas sob a coordenação do <b>Padre Reginaldo Vasconcelos</b> e música conduzida por <b>Irmã Letícia Brandão</b>.</p>",
+    "secao": "Celebrações e Liturgia"
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Dom Aloísio Lorscheider",
+    "dataInicio": "2026-05-16T09:30:00-03:00",
+    "dataFim": "2026-05-16T11:00:00-03:00",
+    "descricao": "<p>Tema: <i>A importância do engajamento solidário e da escuta fraterna na construção de redes comunitárias participativas em áreas periféricas urbanas</i>.</p><p>Palestrante: <b>Prof. Antônio Carlos Meireles</b>. Mediação: <b>Maria da Glória Sampaio</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Formação de Lideranças",
+    "lugar": "Sala São Francisco (Sala 102)",
+    "dataInicio": "2026-05-16T11:15:00-03:00",
+    "dataFim": "2026-05-16T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Metodologias ativas para dinamização de pastorais sociais e comitês de bairro</i>.</p><p>Facilitadores: <b>Diácono Marcos Aurélio de Castro</b> e <b>Tereza Cristina Lima</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2026-05-16T12:30:00-03:00",
+    "dataFim": "2026-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Comunicação Popular",
+    "lugar": "Laboratório Multimídia",
+    "dataInicio": "2026-05-16T14:00:00-03:00",
+    "dataFim": "2026-05-16T16:00:00-03:00",
+    "descricao": "<p>Capacitação sobre produção de boletins comunitários e uso consciente das redes sociais em paróquias, ministrada por <b>Jonas Albuquerque</b> e <b>Francisca Moreira</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Painel de Experiências Pastorais",
+    "lugar": "Auditório Dom Aloísio Lorscheider",
+    "dataInicio": "2026-05-16T16:30:00-03:00",
+    "dataFim": "2026-05-16T18:00:00-03:00",
+    "descricao": "<p>Coordenação geral: <b>Helena Fontenele Cavalcante</b>.</p><p>Apresentação dos seguintes relatos de campo:</p><p>1. <i>Hortas comunitárias e soberania alimentar na periferia oeste</i>, por <b>Cícero Mendes Ramos</b>.</p><p>2. <i>Mutirões de alfabetização e apoio escolar para jovens em situação de vulnerabilidade</i>, por <b>Rita de Cássia Bezerra</b>.</p><p>3. <i>Acolhimento aos migrantes e refugiados através da rede diocesana de apoio humanitário</i>, por <b>Paulo Roberto Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Vigília de Louvor e Testemunhos",
+    "lugar": "Pátio das Palmeiras",
+    "dataInicio": "2026-05-16T19:00:00-03:00",
+    "dataFim": "2026-05-16T21:00:00-03:00",
+    "descricao": "<p>Momento devocional e partilha de testemunhos coordenado por <b>Luís Fernando Dantas</b> e pelo grupo de jovens liderado por <b>Bruna Sales</b>.</p>",
+    "secao": "Celebrações e Liturgia"
+   },
+   {
+    "nome": "Oficina de Economia Solidária",
+    "lugar": "Tenda da Convivência",
+    "dataInicio": "2026-05-17T08:30:00-03:00",
+    "dataFim": "2026-05-17T10:00:00-03:00",
+    "descricao": "<p>Oficina prática voltada para feiras comunitárias e cooperativas artesanais. Coordenador: <b>Valmir Souza Braga</b> com participação especial de <b>Eliane Nogueira</b>.</p>",
+    "secao": "Oficinas Temáticas"
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Dom Aloísio Lorscheider",
+    "dataInicio": "2026-05-17T10:15:00-03:00",
+    "dataFim": "2026-05-17T11:45:00-03:00",
+    "descricao": "<p>Tema: <i>Os desafios contemporâneos da preservação ambiental e da sustentabilidade hídrica sob a perspectiva da ética e da fraternidade cristã</i>.</p><p>Palestrante: <b>Dra. Clara Beatriz Guimarães</b>. Debatedor convidado: <b>Frei Joaquim Santiago</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Iniciativas Comunitárias",
+    "lugar": "Galeria Central de Exposições",
+    "dataInicio": "2026-05-17T11:45:00-03:00",
+    "dataFim": "2026-05-17T13:00:00-03:00",
+    "descricao": "<p>Organização: <b>Patrícia Vidal</b>.</p><p>Exposição dos projetos:</p><p>1. <i>Cozinha solidária no bairro Bom Jardim: alimentação e dignidade para famílias carentes</i>, apresentado por <b>Geraldo Nunes Ferreira</b>.</p><p>2. <i>Oficinas de música e percussão como caminho de inclusão social de adolescentes</i>, apresentado por <b>Marina Holanda Cruz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa de Ação de Graças",
+    "lugar": "Capela Central",
+    "dataInicio": "2026-05-17T14:30:00-03:00",
+    "dataFim": "2026-05-17T16:00:00-03:00",
+    "descricao": "<p>Celebração eucarística presidida por <b>Dom José Vicente de Andrade</b>, com homilia de <b>Padre Reginaldo Vasconcelos</b>.</p>",
+    "secao": "Celebrações e Liturgia"
+   },
+   {
+    "nome": "Cerimônia de Envio e Encerramento",
+    "lugar": "Auditório Dom Aloísio Lorscheider",
+    "dataInicio": "2026-05-17T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Agradecimentos institucionais e leitura da Carta de Compromissos pelos coordenadores <b>Maria da Glória Sampaio</b> e <b>Diácono Marcos Aurélio de Castro</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

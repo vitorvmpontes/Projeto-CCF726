@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-42-00000",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Vitória - ES",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "titulos_longos",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:52:33+00:00",
+ "uso_tokens": {
+  "entrada": 685,
+  "saida": 955
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Espírito Santo 2027",
+   "local_geral": "Pavilhão de Carapina / Centro de Convenções de Vitória"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Retirada de Crachás",
+    "lugar": null,
+    "dataInicio": "2027-05-20T08:00:00-03:00",
+    "dataFim": "2027-05-20T09:30:00-03:00",
+    "descricao": "<p>Recepção dos participantes e validação de inscrições para acesso aos pavilhões temáticos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Estratégias Inovadoras de Expansão Comercial e Sustentabilidade Financeira para Pequenas e Médias Empresas no Cenário Econômico Capixaba Atual",
+    "lugar": "Arena Conhecimento",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": "2027-05-20T11:45:00-03:00",
+    "descricao": "<p>Apresentação ministrada por <b>Mariana Alvarenga Fontes</b> abordando o estudo de caso <i>Crescimento Sustentável e Práticas ESG no Mercado Capixaba</i>.</p>",
+    "secao": "Palestras de Mercado"
+   },
+   {
+    "nome": "Oficina Metodologias Ágeis de Gestão Aplicadas ao Comércio Varejista com Foco em Transformação Digital e Fidelização Omnichannel de Novos Clientes",
+    "lugar": null,
+    "dataInicio": "2027-05-21T14:00:00-03:00",
+    "dataFim": "2027-05-21T16:00:00-03:00",
+    "descricao": "<p>Atividade prática conduzida por <b>Rodrigo Vasconcelos</b> com foco no desenvolvimento do plano de ação <i>Jornada do Cliente Integrada</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": null,
+    "dataInicio": "2027-05-21T16:00:00-03:00",
+    "dataFim": "2027-05-21T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Soluções Práticas de Crédito Inteligente",
+    "lugar": "Auditório Castanheiras",
+    "dataInicio": "2027-05-22T10:30:00-03:00",
+    "dataFim": "2027-05-22T11:30:00-03:00",
+    "descricao": "<p>Painel orientado pelo consultor <b>Carlos Eduardo Guimarães</b> apresentando a proposta <i>Acesso a Microcrédito Orientado no ES</i>.</p>",
+    "secao": "Palestras de Mercado"
+   },
+   {
+    "nome": "Intervalo de Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-22T12:00:00-03:00",
+    "dataFim": "2027-05-22T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

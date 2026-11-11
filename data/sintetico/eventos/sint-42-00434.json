@@ -1,0 +1,59 @@
+{
+ "spec": {
+  "id": "sint-42-00434",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:25:46+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 949
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Oceanografia da UFBA",
+   "local_geral": "Instituto de Geociências - Campus Ondina, Salvador - BA"
+  },
+  "atividades": [
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2025-05-21T08:30:00-03:00",
+    "dataFim": "2025-05-21T10:00:00-03:00",
+    "descricao": "<p>Abertura oficial do evento com o tema <i>Desafios da Gestão Costeira na Baía de Todos-os-Santos</i>, ministrada pela Profa. Dra. <b>Iara Vasconcelos Ramos</b> (UFBA) e coordenada pelo Prof. Me. <b>Danilo Cerqueira Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala de Seminários 204",
+    "dataInicio": "2025-05-21T10:30:00-03:00",
+    "dataFim": "2025-05-21T12:00:00-03:00",
+    "descricao": "<p>Coordenação: Profa. Dra. <b>Mariana Pinho Caldas</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Variação Sazonal da Qualidade da Água no Estuário do Rio Paraguaçu</i>, por <b>Lucas Medeiros Santana</b> e <b>Beatriz Fontes Lima</b>.</p><p>2. <i>Monitoramento de Microplásticos em Sedimentos de Praias Urbanas de Salvador</i>, por <b>Rodrigo Alves Peixoto</b> e <b>Carla Silveira Dias</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala de Seminários 204",
+    "dataInicio": "2025-05-21T14:00:00-03:00",
+    "dataFim": "2025-05-21T15:30:00-03:00",
+    "descricao": "<p>Coordenação: Prof. Dr. <b>Henrique Viana Barreto</b>.</p><p>Apresentação dos trabalhos:</p><p>1. <i>Dinâmica de Sedimentos na Zona de Arrebentação da Praia de Jaguaribe</i>, por <b>Aline Mendes Nogueira</b> e <b>Tiago Correia Bastos</b>.</p><p>2. <i>Impacto da Elevação do Nível do Mar em Manguezais Baianos: Projeções para 2050</i>, por <b>Juliana Falcão Rios</b> e <b>Sérgio Antunes Prado</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Roda de Diálogo",
+    "lugar": "Auditório Yeda de Castro",
+    "dataInicio": "2025-05-21T16:00:00-03:00",
+    "dataFim": "2025-05-21T18:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Inserção Profissional e o Futuro do Oceanógrafo no Mercado de Energia Offshore</i> com os convidados <b>Matheus Brandão Ferraz</b> (Petrobras) e <b>Camila Sampaio Leite</b> (Consultoria Marítima Oceânica). Mediação realizada pelo oceanógrafo <b>Felipe Tanajura Dantas</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

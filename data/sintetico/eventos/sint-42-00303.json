@@ -1,0 +1,164 @@
+{
+ "spec": {
+  "id": "sint-42-00303",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Belém - PA",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 17,
+  "casos": [
+   "sem_horario_fim",
+   "subtitulo_separado"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:15+00:00",
+ "uso_tokens": {
+  "entrada": 659,
+  "saida": 2517
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada Paraense de Fé e Cidadania",
+   "local_geral": "Centro Comunitário São Francisco de Assis, Belém - PA"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café Regional",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2024-05-17T07:30:00-03:00",
+    "dataFim": "2024-05-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Celebração de Abertura",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-05-17T08:30:00-03:00",
+    "dataFim": "2024-05-17T10:00:00-03:00",
+    "descricao": "<p>Missa em ação de graças presidida por <b>Padre Raimundo Nonato de Sousa</b>, com bênção especial aos agentes comunitários da capital paraense.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2024-05-17T10:30:00-03:00",
+    "dataFim": "2024-05-17T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Ecologia Integral e Justiça Social nas Quebradas de Belém</i>. Facilitação de <b>Irmã Tereza Cristina Pantoja</b> e <b>Manoel Barata</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Fraterno",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2024-05-17T12:00:00-03:00",
+    "dataFim": "2024-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina 1",
+    "lugar": "Sala Nazaré",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Hortas Comunitárias e Ervas Medicinais Amazônicas</i>. Ministrada pela bióloga e educadora popular <b>Clara Luzia Guimarães</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 2",
+    "lugar": "Sala Guajará",
+    "dataInicio": "2024-05-17T14:00:00-03:00",
+    "dataFim": "2024-05-17T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Arte Sacra Popular em Miriti e Cerâmica</i>. Conduzida pelo artesão <b>Mestre Sebastião Farias</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Noite Cultural e Sarau de Louvor",
+    "lugar": "Anfiteatro Externo",
+    "dataInicio": "2024-05-17T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical comunitária com a participação especial de <b>Socorro Cavalcante</b> e do <b>Coral Filhos da Amazônia</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Momento de Oração Matinal",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2024-05-18T08:00:00-03:00",
+    "dataFim": "2024-05-18T08:45:00-03:00",
+    "descricao": "<p>Oração das Laudes e meditação das escrituras guiada pela <b>Pastoral da Juventude de Belém</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2024-05-18T09:00:00-03:00",
+    "dataFim": "2024-05-18T11:30:00-03:00",
+    "descricao": "<p>Tema: <i>Saneamento Básico, Fé e Dignidade Humana na Região Metropolitana de Belém</i>. Com o assistente social <b>Felipe Corrêa de Meireles</b> e a advogada popular <b>Gisela Marinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina 3",
+    "lugar": "Sala Nazaré",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Comunicação Popular nas Redes para Paróquias e Coletivos</i>. Facilitada pelo jornalista <b>Lucas Vianna Rocha</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina 4",
+    "lugar": "Sala Guajará",
+    "dataInicio": "2024-05-18T14:00:00-03:00",
+    "dataFim": "2024-05-18T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Primeiros Socorros Comunitários e Cuidados Básicos</i>. Instrução técnica com a enfermeira <b>Patrícia Magno Brandão</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Vigília Jovem pelos Ribeirinhos",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-05-18T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Adoração, cantos e intercessões pelas comunidades das ilhas fluviais do Pará, animada pelo grupo de jovens sob coordenação de <b>Thiago Alencar</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Caminhada Solidária pela Paz",
+    "lugar": null,
+    "dataInicio": "2024-05-19T07:00:00-03:00",
+    "dataFim": "2024-05-19T08:30:00-03:00",
+    "descricao": "<p>Caminhada pelas ruas do entorno do bairro do Guamá em prol do fim da violência e da preservação dos mananciais, organizada pela líder comunitária <b>Dona Francisca Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Partilha Comunitária e Café",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2024-05-19T08:30:00-03:00",
+    "dataFim": "2024-05-19T09:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária dos Grupos",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2024-05-19T09:15:00-03:00",
+    "dataFim": "2024-05-19T11:00:00-03:00",
+    "descricao": "<p>Apresentação das propostas para o plano de ação pastoral 2024/2025 com coordenação geral do diácono <b>Benedito Jorge de Castro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Missa Solene de Envio",
+    "lugar": "Nave Principal",
+    "dataInicio": "2024-05-19T11:15:00-03:00",
+    "dataFim": "2024-05-19T12:45:00-03:00",
+    "descricao": "<p>Celebração eucarística de encerramento da jornada com bênção dos participantes, presidida por <b>Dom Alberto Taveira Corrêa</b>.</p>",
+    "secao": "Celebrações Comunitárias"
+   },
+   {
+    "nome": "Almoço Festivo de Confraternização",
+    "lugar": "Refeitório São José",
+    "dataInicio": "2024-05-19T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Almoço comunitário com churrasco beneficente e pratos típicos paraenses em comemoração aos frutos da jornada comunitária.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

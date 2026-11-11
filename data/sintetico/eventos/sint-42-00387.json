@@ -1,0 +1,285 @@
+{
+ "spec": {
+  "id": "sint-42-00387",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 32,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:22:58+00:00",
+ "uso_tokens": {
+  "entrada": 682,
+  "saida": 4501
+ },
+ "saida": {
+  "evento": {
+   "nome": "II Encontro Mineiro de Docentes da Educação Básica",
+   "local_geral": "Faculdade de Educação da UFJF, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento e Entrega de Crachás",
+    "lugar": "Hall de Entrada da FACED",
+    "dataInicio": "2023-08-17T08:00:00-03:00",
+    "dataFim": "2023-08-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural de Boas-Vindas",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-17T09:00:00-03:00",
+    "dataFim": "2023-08-17T09:30:00-03:00",
+    "descricao": "<p>Apresentação musical do coral de alunos da Escola Estadual Normal de Juiz de Fora sob coordenação de <b>Regina Fonseca</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-17T09:30:00-03:00",
+    "dataFim": "2023-08-17T11:00:00-03:00",
+    "descricao": "<p>Conferência com a Profa. Dra. <b>Clarice Peixoto</b> intitulada <i>O desafio contemporâneo da valorização do magistério público e a reconstrução democrática dos espaços escolares em Minas Gerais</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2023-08-17T11:00:00-03:00",
+    "dataFim": "2023-08-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate Coletivo",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-17T11:30:00-03:00",
+    "dataFim": "2023-08-17T12:30:00-03:00",
+    "descricao": "<p>Mediação do debate com <b>Lucas Albuquerque</b> e intervenções do público presente.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-17T12:30:00-03:00",
+    "dataFim": "2023-08-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala 101",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T17:00:00-03:00",
+    "descricao": "<p>Ministrada por <b>Mariana Sampaio</b> abordando <i>Metodologias ativas e jogos matemáticos na alfabetização</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Sala 102",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T17:00:00-03:00",
+    "descricao": "<p>Condução de <b>Roberto Antunes</b> sobre <i>Práticas de letramento cartográfico para os anos iniciais do ensino fundamental</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2023-08-17T14:00:00-03:00",
+    "dataFim": "2023-08-17T17:00:00-03:00",
+    "descricao": "<p>Facilitação por <b>Thiago Meireles</b> tratando de <i>Ferramentas digitais abertas no cotidiano docente</i>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Lançamento de Livros e Sessão de Autógrafos",
+    "lugar": "Biblioteca Setorial",
+    "dataInicio": "2023-08-17T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão de autógrafos com as professoras <b>Lúcia Helena Guimarães</b> e <b>Patrícia Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa 1",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T10:15:00-03:00",
+    "descricao": "<p>Com <b>Sônia Regina Duarte</b> e <b>Fernando Guimarães</b> debatendo <i>Inclusão escolar e neurodiversidade na rotina pedagógica</i>.</p>",
+    "secao": "Rodas Temáticas"
+   },
+   {
+    "nome": "Roda de Conversa 2",
+    "lugar": "Auditório C",
+    "dataInicio": "2023-08-18T08:30:00-03:00",
+    "dataFim": "2023-08-18T10:15:00-03:00",
+    "descricao": "<p>Coordenação de <b>Gabriel Miranda</b> com o tema <i>Educação no campo e memórias camponesas na Zona da Mata mineira</i>.</p>",
+    "secao": "Rodas Temáticas"
+   },
+   {
+    "nome": "Pausa para Lanche Matutino",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2023-08-18T10:15:00-03:00",
+    "dataFim": "2023-08-18T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-18T10:45:00-03:00",
+    "dataFim": "2023-08-18T12:15:00-03:00",
+    "descricao": "<p>Palestra ministrada por <b>Vanessa Rezende</b> com o tema <i>Articulação entre currículo oficial, práticas avaliativas formativas e a garantia do direito de aprendizagem na escola pública</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2023-08-18T12:15:00-03:00",
+    "dataFim": "2023-08-18T13:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 201",
+    "dataInicio": "2023-08-18T13:45:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de <b>Juliana Bastos</b> e <b>Marcos Vinícius Prado</b> sob mediação de <b>Eliane Ramos</b>.</p>",
+    "secao": "Relatos de Práticas da Educação Básica"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 202",
+    "dataInicio": "2023-08-18T13:45:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Apresentação das pesquisas de <b>Danilo Faria</b> e <b>Camila Nogueira</b>.</p>",
+    "secao": "Relatos de Práticas da Educação Básica"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 3",
+    "lugar": "Sala 203",
+    "dataInicio": "2023-08-18T13:45:00-03:00",
+    "dataFim": "2023-08-18T15:30:00-03:00",
+    "descricao": "<p>Relatos de experiência com <b>Bárbara Freitas</b> e <b>Carlos Eduardo Toledo</b>.</p>",
+    "secao": "Relatos de Práticas da Educação Básica"
+   },
+   {
+    "nome": "Intervalo da Tarde",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2023-08-18T15:30:00-03:00",
+    "dataFim": "2023-08-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Banners Pedagógicos",
+    "lugar": "Pilotis da FACED",
+    "dataInicio": "2023-08-18T16:00:00-03:00",
+    "dataFim": "2023-08-18T17:30:00-03:00",
+    "descricao": "<p>Exposição de murais com mediação de <b>Aline Morais</b> e trabalhos de <b>Felipe Castilho</b>, <b>Tereza Cristina Neves</b> e <b>Renato Souza</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Teatral Estudantil",
+    "lugar": "Anfiteatro Externo",
+    "dataInicio": "2023-08-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Peça encenada pelo grupo teatral da Escola Municipal Presidente Tancredo Neves sob direção de <b>Heloísa Viana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-19T08:30:00-03:00",
+    "dataFim": "2023-08-19T10:00:00-03:00",
+    "descricao": "<p>Discussão com <b>Vitor Brandão</b> e <b>Mônica Arruda</b> acerca da saúde mental do educador.</p>",
+    "secao": "Diálogos Formativos"
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": "Auditório B",
+    "dataInicio": "2023-08-19T08:30:00-03:00",
+    "dataFim": "2023-08-19T10:00:00-03:00",
+    "descricao": "<p>Com <b>Carla Montenegro</b> e <b>Jorge Luiz Abreu</b> debatendo <i>Gestão participativa e conselhos escolares</i>.</p>",
+    "secao": "Diálogos Formativos"
+   },
+   {
+    "nome": "Parada para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2023-08-19T10:00:00-03:00",
+    "dataFim": "2023-08-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Sala 104",
+    "dataInicio": "2023-08-19T10:30:00-03:00",
+    "dataFim": "2023-08-19T12:30:00-03:00",
+    "descricao": "<p>Instrutor <b>Paulo Henrique Paiva</b> ensinando <i>Técnicas de contação de histórias no espaço da sala de aula</i>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Sala 105",
+    "dataInicio": "2023-08-19T10:30:00-03:00",
+    "dataFim": "2023-08-19T12:30:00-03:00",
+    "descricao": "<p>Instrutora <b>Renata Barcellos</b> ministrando <i>Educação ambiental prática por meio de hortas pedagógicas comunitárias</i>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Sala 106",
+    "dataInicio": "2023-08-19T10:30:00-03:00",
+    "dataFim": "2023-08-19T12:30:00-03:00",
+    "descricao": "<p>Ministrado por <b>Samuel Carvalho</b> e voltado para <i>Criação de experimentos científicos de baixo custo para o ensino fundamental</i>.</p>",
+    "secao": "Minicursos Temáticos"
+   },
+   {
+    "nome": "Horário de Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-19T12:30:00-03:00",
+    "dataFim": "2023-08-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-19T14:00:00-03:00",
+    "dataFim": "2023-08-19T15:45:00-03:00",
+    "descricao": "<p>Palestra de encerramento proferida por <b>Beatriz Mendonça de Castro</b> com o trabalho <i>Construção de pontes entre saberes populares locais e a ciência escolar no contexto da educação básica pública brasileira</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final de Delegados",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-19T16:00:00-03:00",
+    "dataFim": "2023-08-19T17:30:00-03:00",
+    "descricao": "<p>Aprovação da carta do encontro com relatoria de <b>Gustavo Naves</b> e comissão formada por <b>Valéria Gomes</b> e <b>André Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Ato Solene de Encerramento",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-08-19T17:30:00-03:00",
+    "dataFim": "2023-08-19T18:15:00-03:00",
+    "descricao": "<p>Condução pela presidente do comitê <b>Clarice Peixoto</b> com entrega de menções honrosas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização dos Docentes",
+    "lugar": "Pátio Coberto",
+    "dataInicio": "2023-08-19T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,299 @@
+{
+ "spec": {
+  "id": "sint-42-00133",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Viçosa - MG",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 34,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:07+00:00",
+ "uso_tokens": {
+  "entrada": 642,
+  "saida": 5345
+ },
+ "saida": {
+  "evento": {
+   "nome": "HackaGame Viçosa 2027: Maratona Integrada de Programação e Desenvolvimento de Jogos",
+   "local_geral": "Departamento de Informática - Universidade Federal de Viçosa (UFV), Viçosa - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Entrega de Kits",
+    "lugar": "Hall de Entrada do CCE",
+    "dataInicio": "2027-05-14T08:00:00-03:00",
+    "dataFim": "2027-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": "Recepção e Abertura"
+   },
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema Geral",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-14T09:00:00-03:00",
+    "dataFim": "2027-05-14T10:00:00-03:00",
+    "descricao": "<p>Apresentação das regras gerais, critérios de avaliação e anúncio do tema surpresa da Game Jam e dos desafios de software. Coordenação geral de <b>Prof. Marcelo Guimarães Ramos</b> e <b>Dra. Cecília Andrade Nogueira</b>.</p>",
+    "secao": "Recepção e Abertura"
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-14T10:00:00-03:00",
+    "dataFim": "2027-05-14T11:00:00-03:00",
+    "descricao": "<p>Palestra de abertura com o tema <i>Arquiteturas Eficientes para Motores de Jogos em Tempo Real</i>, proferida pelo engenheiro de software <b>Rodrigo Bicalho Castro</b>.</p>",
+    "secao": "Ciclo de Palestras Inspiradoras"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-14T11:00:00-03:00",
+    "dataFim": "2027-05-14T12:00:00-03:00",
+    "descricao": "<p>Discussão com a especialista <b>Vanessa Toledo Meireles</b> abordando <i>Design de Mecânicas Narrativas em Games Indie</i>.</p>",
+    "secao": "Ciclo de Palestras Inspiradoras"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-14T12:00:00-03:00",
+    "dataFim": "2027-05-14T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Formação de Equipes e Brainstorming Guiado",
+    "lugar": "Espaço Multiuso e Coworking",
+    "dataInicio": "2027-05-14T13:30:00-03:00",
+    "dataFim": "2027-05-14T14:30:00-03:00",
+    "descricao": "<p>Dinâmica para conexão de programadores solos, artistas e sound designers com mentoria de <b>Lucas Faria Brandão</b> e <b>Bárbara Quintão Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-05-14T14:30:00-03:00",
+    "dataFim": "2027-05-14T16:30:00-03:00",
+    "descricao": "<p>Oficina de curta duração intitulada <i>Prototipagem Ágil com Godot 4: Da Ideia ao Primeiro Build</i>, ministrada pelo desenvolvedor <b>Thiago Antunes Peixoto</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2027-05-14T14:30:00-03:00",
+    "dataFim": "2027-05-14T16:30:00-03:00",
+    "descricao": "<p>Treinamento prático sobre <i>Modelagem 3D Low-Poly e Rigging Rápido no Blender</i>, conduzido pela artista técnica <b>Fabiana Dornelas Vilela</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2027-05-14T16:30:00-03:00",
+    "dataFim": "2027-05-14T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Prática 3",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2027-05-14T17:00:00-03:00",
+    "dataFim": "2027-05-14T19:00:00-03:00",
+    "descricao": "<p>Oficina técnica com o tema <i>Design de Algoritmos Eficientes em Grafos para Inteligência Artificial de NPCs</i>, lecionada pelo pesquisador <b>Igor Vasconcelos Paiva</b>.</p>",
+    "secao": "Workshops Técnicos"
+   },
+   {
+    "nome": "Início Oficial do Hacking e Game Jam",
+    "lugar": "Espaço Multiuso e Coworking",
+    "dataInicio": "2027-05-14T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura oficial dos repositórios e cronômetro de 48 horas de desenvolvimento ininterrupto. Coordenado por <b>Prof. Marcelo Guimarães Ramos</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Jantar das Equipes",
+    "lugar": "Refeitório do CCE",
+    "dataInicio": "2027-05-14T20:30:00-03:00",
+    "dataFim": "2027-05-14T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão Noturno de Mentoria 1",
+    "lugar": "Espaço Multiuso e Coworking",
+    "dataInicio": "2027-05-14T22:00:00-03:00",
+    "dataFim": "2027-05-15T01:00:00-03:00",
+    "descricao": "<p>Atendimento tira-dúvidas de programação e arte com os mentores <b>Gabriel Esteves Rocha</b> e <b>Camila Sampaio Duarte</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Café da Madrugada",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2027-05-15T03:00:00-03:00",
+    "dataFim": "2027-05-15T03:40:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": "Refeitório do CCE",
+    "dataInicio": "2027-05-15T07:30:00-03:00",
+    "dataFim": "2027-05-15T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Checkpoint Técnico Matutino",
+    "lugar": "Espaço Multiuso e Coworking",
+    "dataInicio": "2027-05-15T09:00:00-03:00",
+    "dataFim": "2027-05-15T10:30:00-03:00",
+    "descricao": "<p>Validação da arquitetura inicial dos projetos e verificação de escopo. Coordenação da equipe com <b>Dra. Cecília Andrade Nogueira</b> e apoio de <b>Mateus Gontijo Lins</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Sessão Técnica 1: Game Dev e Interatividade",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-15T10:30:00-03:00",
+    "dataFim": "2027-05-15T12:00:00-03:00",
+    "descricao": "<p>Coordenação de <b>Prof. Sérgio Nogueira Ferraz</b>. Trabalhos apresentados:</p><p>- <i>Implementação de Shaders Procedurais para Ambientes Subaquáticos</i>, por <b>Aline Fonseca Lima</b> e <b>Daniel Resende Maia</b>;</p><p>- <i>Análise de Latência em Jogos Multiplayer Peer-to-Peer com WebSockets</i>, por <b>Pedro Henrique Fontes</b> e <b>Juliana Bastos Ribeiro</b>.</p>",
+    "secao": "Sessões Técnicas Acadêmicas"
+   },
+   {
+    "nome": "Almoço das Equipes",
+    "lugar": "Refeitório do CCE",
+    "dataInicio": "2027-05-15T12:00:00-03:00",
+    "dataFim": "2027-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2: Algoritmos e Otimização",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-15T13:30:00-03:00",
+    "dataFim": "2027-05-15T15:00:00-03:00",
+    "descricao": "<p>Coordenação da pesquisadora <b>Profa. Renata Mendes Caldas</b>. Apresentação dos seguintes trabalhos:</p><p>- <i>Heurísticas Gulosas Aplicadas à Geração Automática de Masmorras Lineares</i>, por <b>Vinícius Prado Albuquerque</b> e <b>Mariana Castro Teles</b>;</p><p>- <i>Compressão de Texturas e Gerenciamento Dinâmico de Memória VRAM em Dispositivos Móveis</i>, por <b>Guilherme Borges Vieira</b> e <b>Carla Silveira Dias</b>.</p>",
+    "secao": "Sessões Técnicas Acadêmicas"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-15T15:00:00-03:00",
+    "dataFim": "2027-05-15T16:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Mercado Brasileiro de Jogos e Startups de Tecnologia: Desafios e Oportunidades no Interior</i>. Coordenação de <b>Otávio Pinheiro Gusmão</b> com participação dos debatedores <b>Tatiana Morais Lacerda</b>, <b>Felipe Castanheira Nunes</b> e <b>Elisa Barreto Muniz</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break Vespertino",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2027-05-15T16:30:00-03:00",
+    "dataFim": "2027-05-15T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Playtest Aberto e Validação Alpha",
+    "lugar": "Espaço Multiuso e Coworking",
+    "dataInicio": "2027-05-15T17:00:00-03:00",
+    "dataFim": "2027-05-15T19:00:00-03:00",
+    "descricao": "<p>Momento para testar as primeiras builds jogáveis de cada grupo e fornecer feedback cruzado, sob supervisão dos avaliadores <b>André Mattos Coelho</b> e <b>Larissa Paes de Barros</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Jantar Temático dos Desenvolvedores",
+    "lugar": "Refeitório do CCE",
+    "dataInicio": "2027-05-15T19:30:00-03:00",
+    "dataFim": "2027-05-15T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão Noturno de Mentoria 2",
+    "lugar": "Espaço Multiuso e Coworking",
+    "dataInicio": "2027-05-15T21:30:00-03:00",
+    "dataFim": "2027-05-16T00:30:00-03:00",
+    "descricao": "<p>Rodada intensiva focada em correção de bugs críticos e polimento de gameplay. Mentores de plantão: <b>Samuel Pires Dornelas</b> e <b>Isabela Viana Goulart</b>.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Momento Descontração: Desafio Relâmpago de Algoritmos",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-16T01:00:00-03:00",
+    "dataFim": "2027-05-16T02:00:00-03:00",
+    "descricao": "<p>Competição curta de codificação rápida sob condições adversas. Condução por <b>Lucas Faria Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café Energético",
+    "lugar": "Área de Convivência Externa",
+    "dataInicio": "2027-05-16T04:30:00-03:00",
+    "dataFim": "2027-05-16T05:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã de Encerramento da Produção",
+    "lugar": "Refeitório do CCE",
+    "dataInicio": "2027-05-16T07:30:00-03:00",
+    "dataFim": "2027-05-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Congelamento de Código e Submissão Final",
+    "lugar": "Espaço Multiuso e Coworking",
+    "dataInicio": "2027-05-16T10:00:00-03:00",
+    "dataFim": "2027-05-16T10:30:00-03:00",
+    "descricao": "<p>Submissão final dos executáveis, código-fonte no Git e vídeos de demonstração na plataforma oficial. Supervisionado por <b>Prof. Marcelo Guimarães Ramos</b> e <b>Mateus Gontijo Lins</b>.</p>",
+    "secao": "Avaliação e Encerramento"
+   },
+   {
+    "nome": "Sessão de Pitch e Demonstração - Bloco A",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-16T10:30:00-03:00",
+    "dataFim": "2027-05-16T12:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos dos times 1 a 6 diante da banca de jurados, coordenada por <b>Dra. Cecília Andrade Nogueira</b> e avaliada por <b>Tatiana Morais Lacerda</b> e <b>Rodrigo Bicalho Castro</b>.</p>",
+    "secao": "Avaliação e Encerramento"
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": "Refeitório do CCE",
+    "dataInicio": "2027-05-16T12:00:00-03:00",
+    "dataFim": "2027-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pitch e Demonstração - Bloco B",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-16T13:30:00-03:00",
+    "dataFim": "2027-05-16T15:00:00-03:00",
+    "descricao": "<p>Apresentação dos projetos dos times 7 a 12 diante da banca de jurados, coordenada por <b>Prof. Sérgio Nogueira Ferraz</b> e avaliada por <b>Vanessa Toledo Meireles</b> e <b>Felipe Castanheira Nunes</b>.</p>",
+    "secao": "Avaliação e Encerramento"
+   },
+   {
+    "nome": "Mostra Pública de Jogos e Feira de Soluções",
+    "lugar": "Hall de Entrada do CCE",
+    "dataInicio": "2027-05-16T15:00:00-03:00",
+    "dataFim": "2027-05-16T16:30:00-03:00",
+    "descricao": "<p>Estandes interativos abertos à comunidade universitária para jogar os protótipos criados e testar os softwares desenvolvidos durante a maratona.</p>",
+    "secao": "Avaliação e Encerramento"
+   },
+   {
+    "nome": "Deliberação da Banca Examinadora",
+    "lugar": "Sala de Reuniões 102",
+    "dataInicio": "2027-05-16T16:30:00-03:00",
+    "dataFim": "2027-05-16T17:15:00-03:00",
+    "descricao": "<p>Reunião fechada da comissão de jurados sob a presidência de <b>Prof. Marcelo Guimarães Ramos</b>.</p>",
+    "secao": "Avaliação e Encerramento"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Principal do CCE",
+    "dataInicio": "2027-05-16T17:30:00-03:00",
+    "dataFim": "2027-05-16T19:00:00-03:00",
+    "descricao": "<p>Anúncio dos vencedores das categorias Melhor Jogo, Melhor Código, Inovação Técnica e Voto Popular, com entrega de troféus coordenada por <b>Prof. Marcelo Guimarães Ramos</b> e <b>Dra. Cecília Andrade Nogueira</b>.</p>",
+    "secao": "Avaliação e Encerramento"
+   }
+  ]
+ }
+}

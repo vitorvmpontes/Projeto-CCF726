@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-42-00465",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "descricoes_ricas",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:28:25+00:00",
+ "uso_tokens": {
+  "entrada": 652,
+  "saida": 1439
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech Cerrado 2025: Congresso de Inovação e Sustentabilidade no Campo",
+   "local_geral": "Center Convention Uberlândia, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Safra",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T11:00:00-03:00",
+    "descricao": "<p>Discussão sobre os rumos da conectividade rural e inteligência artificial nas lavouras brasileiras. Coordenação de <b>Mariana Guimarães Prado</b>. Palestrantes convidados: <b>Dr. Roberto Fagundes Cordeiro</b> abordando <i>A Revolução da Agricultura de Decisão em Grandes Culturas</i> e <b>Eng. Lucas Mendonça Valadares</b> apresentando <i>Desafios da Conectividade 5G no Campo</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Ipê Amarelo",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T16:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Profa. Dra. Camila Rezende Alvim</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Monitoramento de estresse hídrico na soja via imagens multiespectrais por VANTs</i>, apresentado por <b>Thiago Nogueira Ramos</b> (coautoria de <b>Beatriz Faria Lopes</b> e <b>Otávio Silveira Dias</b>).</p><p>2. <i>Algoritmos de aprendizado profundo na identificação precoce da ferrugem-asiática</i>, apresentado por <b>Fernanda Lemos Queiroz</b> (coautoria de <b>José Arnaldo Peixoto</b>).</p><p>3. <i>Sensores IoT de baixo custo para controle de umidade em solos arenosos do Triângulo Mineiro</i>, apresentado por <b>Matheus Duarte Castro</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Buriti",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T16:30:00-03:00",
+    "descricao": "<p>Coordenação: <b>Dr. Henrique Vasconcelos Brito</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Bioinsumos e bactérias promotoras de crescimento na cultura do milho safrinha</i>, apresentado por <b>Larissa Fontes Silvério</b> (coautoria de <b>Carlos Eduardo Manso</b>).</p><p>2. <i>Fixação biológica de nitrogênio e emissão de gases de efeito estufa em sistemas ILPF</i>, apresentado por <b>Gabriel Barreto Sanches</b>.</p><p>3. <i>Aplicação de nanotecnologia em fertilizantes de liberação lenta no Cerrado</i>, apresentado por <b>Tatiana Gomes Vilela</b> (coautoria de <b>Prof. Wellington Pires Rocha</b>).</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mostra de Startups Agtech",
+    "lugar": "Espaço Inovação",
+    "dataInicio": "2025-05-15T10:00:00-03:00",
+    "dataFim": "2025-05-15T12:30:00-03:00",
+    "descricao": "<p>Apresentação de pitchs de soluções emergentes com avaliação de banca especializada. Coordenadora da sessão: <b>Flávia Moreira Antunes</b>. Avaliadores convidados: <b>Ricardo Vianna Toledo</b> e <b>Daniela Castanho Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Tratores Autônomos",
+    "lugar": "Galpão Tecnológico Externo",
+    "dataInicio": "2025-05-15T14:30:00-03:00",
+    "dataFim": "2025-05-15T17:30:00-03:00",
+    "descricao": "<p>Treinamento prático e demonstração dinâmica em campo. Instrutores: <b>Eng. Agr. Paulo César Brandão</b> e <b>Dra. Juliana Neves Queiroz</b>, abordando o tema <i>Calibração de telemetria e segurança na automação de frotas agrícolas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debate",
+    "lugar": "Auditório Safra",
+    "dataInicio": "2025-05-16T10:00:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Debate sobre o mercado de carbono no agronegócio e exigências ESG para exportação de grãos e carne. Moderação de <b>Renata Pimentel Esteves</b>. Debatedores: <b>Guilherme Sampaio Junqueira</b>, <b>Dra. Vanessa Kuhlmann</b> e <b>Sérgio Albuquerque Melo</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

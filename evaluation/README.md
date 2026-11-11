@@ -6,6 +6,8 @@ Script único de avaliação, usado para a baseline (Gemini) e para todos os SLM
 python -m evaluation.evaluate --pred-dir data/test/baseline_gemini --nome gemini-2.0-flash
 ```
 
+Com `--pos-processar`, as predições passam por `inference/postprocess.py` antes da avaliação (parse tolerante, datas, HTML). As taxas de validade continuam medidas sobre a saída **bruta**, e as correções aplicadas aparecem no `resumo.json`. Para comparar modelos, use a mesma opção em todos (proposta: reportar com pós-processamento, que é como o modelo roda em produção).
+
 A pasta de predições deve ter um `<id>.json` por arquivo do `data/test/manifest.csv`, contendo uma lista de atividades ou `{"atividades": [...]}`. Arquivo ausente ou JSON inválido conta como predição vazia: todas as atividades do gabarito viram FN.
 
 Saídas em `evaluation/results/<nome>/`: `resumo.json`, `por_arquivo.csv` e `erros_formato.json` (quando houver).

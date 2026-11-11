@@ -1,0 +1,124 @@
+{
+ "spec": {
+  "id": "sint-42-00353",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Brasília - DF",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "descricoes_ricas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:20:06+00:00",
+ "uso_tokens": {
+  "entrada": 674,
+  "saida": 1998
+ },
+ "saida": {
+  "evento": {
+   "nome": "Cerrado GameJam & Hackathon 2026",
+   "local_geral": "Parque Tecnológico de Brasília (BIOTIC), Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in e Formação de Equipes",
+    "lugar": "Hall Principal",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T09:30:00-03:00",
+    "descricao": "<p>Recepção dos participantes, validação de inscrições e dinâmicas de pareamento para formação de equipes multidisciplinares.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura e Revelação do Tema",
+    "lugar": "Auditório Buriti",
+    "dataInicio": "2026-05-16T09:30:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": "<p>Apresentação das regras da maratona e anúncio do tema oficial com a coordenadora geral <b>Talita Meireles</b> e o mentor convidado <b>Rodrigo Sanches</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra 1",
+    "lugar": "Auditório Buriti",
+    "dataInicio": "2026-05-16T10:45:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Otimização de pipelines de renderização e inteligência artificial aplicada ao design procedural de jogos eletrônicos modernos em tempo real</i>, conduzida pelo desenvolvedor sênior <b>Lucas Nogueira</b> e mediada por <b>Aline Fonseca</b>.</p>",
+    "secao": "Ciclo de Palestras Técnicas"
+   },
+   {
+    "nome": "Palestra 2",
+    "lugar": "Auditório Buriti",
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T13:00:00-03:00",
+    "descricao": "<p>Palestra abordando arquitetura backend com o especialista <b>Felipe Castanheira</b>, debatendo estratégias para escalabilidade em jogos multijogador na nuvem.</p>",
+    "secao": "Ciclo de Palestras Técnicas"
+   },
+   {
+    "nome": "Início da Prototipagem e Desenvolvimento",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-16T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Liberação dos ambientes de codificação e laboratórios de mídia para o desenvolvimento contínuo dos projetos.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Oficina Prática 1",
+    "lugar": "Laboratório 102",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T17:00:00-03:00",
+    "descricao": "<p>Minicurso prático sobre desenvolvimento de assets e shaders leves com <b>Camila Duarte</b> e <b>Matheus Viana</b>.</p>",
+    "secao": "Workshops de Capacitação"
+   },
+   {
+    "nome": "Oficina Prática 2",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2026-05-16T17:15:00-03:00",
+    "dataFim": "2026-05-16T19:15:00-03:00",
+    "descricao": "<p>Atividade prática com o título <i>Estratégias avançadas de balanceamento matemático e monetização sustentável para jogos independentes focados em plataformas móveis de baixo consumo</i>, ministrada por <b>Guilherme Sato</b> e <b>Daniela Farias</b>.</p>",
+    "secao": "Workshops de Capacitação"
+   },
+   {
+    "nome": "Corujão de Mentorias Técnicas",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-16T22:00:00-03:00",
+    "dataFim": "2026-05-17T02:00:00-03:00",
+    "descricao": "<p>Plantão de suporte aos competidores com os coordenadores de mentoria <b>Vinícius Ramos</b> e <b>Priscila Andrade</b>, oferecendo apoio em física de jogos, modelagem e integração de APIs.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Playtest e Validação de Mecânicas",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2026-05-17T10:00:00-03:00",
+    "dataFim": "2026-05-17T12:00:00-03:00",
+    "descricao": "<p>Sessão aberta de testes de jogabilidade supervisionada por <b>Carla Rezende</b>, com feedback coletivo de mecânicas e usabilidade.</p>",
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Congelamento de Código e Submissão",
+    "lugar": "Arena Hacker",
+    "dataInicio": "2026-05-17T14:00:00-03:00",
+    "dataFim": "2026-05-17T14:30:00-03:00",
+    "descricao": null,
+    "secao": "Maratona de Desenvolvimento"
+   },
+   {
+    "nome": "Sessão de Demonstração de Jogos e Soluções",
+    "lugar": "Auditório Buriti",
+    "dataInicio": "2026-05-17T15:00:00-03:00",
+    "dataFim": "2026-05-17T17:30:00-03:00",
+    "descricao": "<p>Apresentação dos projetos finalistas para a banca julgadora presidida por <b>Mariana Prado</b> e avaliada por <b>Jorge Antunes</b>. Relação de trabalhos apresentados:</p><p><i>EcoQuest: Sobrevivência no Cerrado</i> por <b>Bruna Leão</b> e <b>Thiago Paz</b>;</p><p><i>Pixel Roots: A Cidade Esquecida</i> por <b>Henrique Valente</b> e <b>Sofia Moura</b>;</p><p><i>Neon Altiplano: Batalha Sonora</i> por <b>Caio Peixoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Auditório Buriti",
+    "dataInicio": "2026-05-17T18:00:00-03:00",
+    "dataFim": "2026-05-17T19:00:00-03:00",
+    "descricao": "<p>Divulgação dos vencedores nas categorias Melhor Jogo, Melhor Mecânica e Inovação Tecnológica com a coordenadora <b>Talita Meireles</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

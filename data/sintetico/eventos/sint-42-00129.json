@@ -1,0 +1,181 @@
+{
+ "spec": {
+  "id": "sint-42-00129",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Fortaleza - CE",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 19,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:34+00:00",
+ "uso_tokens": {
+  "entrada": 662,
+  "saida": 2686
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Nordestino de Artes e Músicas Urbanas - FestArtes 2026",
+   "local_geral": "Centro Dragão do Mar de Arte e Cultura, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Kits",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2026-08-14T09:00:00-03:00",
+    "dataFim": "2026-08-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Teatro Dragão do Mar",
+    "dataInicio": "2026-08-14T10:00:00-03:00",
+    "dataFim": "2026-08-14T11:30:00-03:00",
+    "descricao": "<p>Cerimônia de abertura com a presença da curadora <b>Larissa Benevides</b> e apresentação especial da Orquestra Transversal de Fortaleza.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Xilogravura e Cordel Contemporâneo",
+    "lugar": "Ateliê 1",
+    "dataInicio": "2026-08-14T14:00:00-03:00",
+    "dataFim": "2026-08-14T17:00:00-03:00",
+    "descricao": "<p>Aprenda técnicas de gravura em madeira aplicadas a estéticas urbanas com o mestre <b>Chico Silva</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Oficina de Produção de Batidas e Beats Nordestinos",
+    "lugar": "Laboratório de Áudio",
+    "dataInicio": "2026-08-14T14:00:00-03:00",
+    "dataFim": "2026-08-14T17:30:00-03:00",
+    "descricao": "<p>Técnicas de fusão entre baião, maracatu e trap ministradas pelo produtor <b>DJ Patricktê</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Rogaciano Leite Filho",
+    "dataInicio": "2026-08-14T15:30:00-03:00",
+    "dataFim": "2026-08-14T17:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Economia Criativa e Periferias Globais</i> conduzido por <b>Renata Albuquerque</b> com participação de <b>Mário Sérgio Soares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exposição Trajetórias do Olhar Cearense",
+    "lugar": "Galeria Vicente Leite",
+    "dataInicio": "2026-08-14T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Vernissage da mostra visual dos artistas visuais <b>Cláudia Parente</b> e <b>Emanoel Moreira</b>.</p>",
+    "secao": "Mostras Visuais"
+   },
+   {
+    "nome": "Show Vozes da Maré",
+    "lugar": "Palco Verde",
+    "dataInicio": "2026-08-14T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação musical da cantora <b>Iara Sol</b> e banda interpretando canções autorais litorâneas.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Café Literário e Bate-Papo",
+    "lugar": "Café das Artes",
+    "dataInicio": "2026-08-15T09:30:00-03:00",
+    "dataFim": "2026-08-15T11:00:00-03:00",
+    "descricao": "<p>Encontro informal e lançamento de obras poéticas com o autor <b>Tadeu Montenegro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Dança Urbana e Ritmos Populares",
+    "lugar": "Sala de Dança 2",
+    "dataInicio": "2026-08-15T10:00:00-03:00",
+    "dataFim": "2026-08-15T12:30:00-03:00",
+    "descricao": "<p>Prática de breaking mesclado a passos de frevo e coco com a dançarina <b>Keyla Gadelha</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2026-08-15T12:30:00-03:00",
+    "dataFim": "2026-08-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Auditório Rogaciano Leite Filho",
+    "dataInicio": "2026-08-15T14:30:00-03:00",
+    "dataFim": "2026-08-15T16:30:00-03:00",
+    "descricao": "<p>Mesa com o tema <i>Mulheres nas Artes Visuais Contemporâneas</i> contando com a mediação de <b>Camila Duarte</b> e falas de <b>Flávia Medeiros</b> e <b>Sônia Castelo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lanche da Tarde",
+    "lugar": "Pátio das Esculturas",
+    "dataInicio": "2026-08-15T16:30:00-03:00",
+    "dataFim": "2026-08-15T17:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Performance Urbana e Grafite ao Vivo",
+    "lugar": "Arena Dragão",
+    "dataInicio": "2026-08-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Ação coletiva de muralismo em grande escala comandada pelos artistas <b>Derlon Costa</b> e <b>Zaira Mendes</b>.</p>",
+    "secao": "Mostras Visuais"
+   },
+   {
+    "nome": "Show Som do Asfalto",
+    "lugar": "Palco Verde",
+    "dataInicio": "2026-08-15T19:00:00-03:00",
+    "dataFim": "2026-08-15T21:00:00-03:00",
+    "descricao": "<p>Concerto da banda instrumental liderada pelo guitarrista <b>Otávio Linhares</b> apresentando o álbum <i>Canto Metropolitano</i>.</p>",
+    "secao": "Programação Musical"
+   },
+   {
+    "nome": "Oficina de Fotografia Documental de Rua",
+    "lugar": "Ateliê 2",
+    "dataInicio": "2026-08-16T09:30:00-03:00",
+    "dataFim": "2026-08-16T12:00:00-03:00",
+    "descricao": "<p>Caminhada fotográfica e técnicas de captura documental conduzidas pela fotógrafa <b>Bárbara Freire</b>.</p>",
+    "secao": "Oficinas Formativas"
+   },
+   {
+    "nome": "Mostra de Cinema Nordeste Urgente",
+    "lugar": "Cinema do Dragão - Sala 1",
+    "dataInicio": "2026-08-16T10:30:00-03:00",
+    "dataFim": "2026-08-16T12:30:00-03:00",
+    "descricao": "<p>Exibição dos curtas-metragens selecionados com debate mediado pelo cineasta <b>Lucas Barreto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Festivo",
+    "lugar": "Praça de Convivência",
+    "dataInicio": "2026-08-16T12:30:00-03:00",
+    "dataFim": "2026-08-16T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Teatro Dragão do Mar",
+    "dataInicio": "2026-08-16T16:00:00-03:00",
+    "dataFim": "2026-08-16T17:30:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>O Futuro das Práticas Colaborativas na Arte</i> apresentada pela pesquisadora <b>Valéria Rios</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Show das Cores",
+    "lugar": "Palco Verde",
+    "dataInicio": "2026-08-16T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Grande show de encerramento comandado pelo coletivo <b>Batucada Cearense</b> com participação especial do cantor <b>Gilmar Fontes</b>.</p>",
+    "secao": "Programação Musical"
+   }
+  ]
+ }
+}

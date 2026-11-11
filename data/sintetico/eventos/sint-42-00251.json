@@ -1,0 +1,172 @@
+{
+ "spec": {
+  "id": "sint-42-00251",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Uberlândia - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:12:11+00:00",
+ "uso_tokens": {
+  "entrada": 658,
+  "saida": 2756
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Triangulino de Sustentabilidade e Gestão Ambiental",
+   "local_geral": "Centro de Convenções Center Minas, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall de Entrada",
+    "dataInicio": "2023-05-17T08:00:00-03:00",
+    "dataFim": "2023-05-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2023-05-17T09:00:00-03:00",
+    "dataFim": "2023-05-17T10:30:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e lançamento do fórum de debates com a participação da coordenadora <b>Dra. Mariana Vasconcellos</b> e do secretário <b>Roberto Silveira Mendes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Espaço de Diálogos Ambientais",
+    "lugar": null,
+    "dataInicio": "2023-05-17T10:45:00-03:00",
+    "dataFim": "2023-05-17T12:15:00-03:00",
+    "descricao": "<p>Apresentação e reflexão sobre <i>Transição Energética e Biocombustíveis no Cerrado Mineiro</i>, com a presença do engenheiro <b>Lucas Bernardes Fagundes</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 3 - Bloco Verde",
+    "dataInicio": "2023-05-17T14:00:00-03:00",
+    "dataFim": "2023-05-17T16:30:00-03:00",
+    "descricao": "<p>Módulo temático <i>Recuperação de Nascentes e Técnicas de Bioengenharia</i>, ministrado pelo especialista <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2023-05-17T14:00:00-03:00",
+    "dataFim": "2023-05-17T16:30:00-03:00",
+    "descricao": "<p>Módulo temático <i>Mapeamento de Áreas de Preservação Permanente com QGIS</i>, conduzido pela geógrafa <b>Patrícia Nogueira Campos</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Mostra de Banners Acadêmicos",
+    "lugar": null,
+    "dataInicio": "2023-05-17T16:45:00-03:00",
+    "dataFim": "2023-05-17T18:00:00-03:00",
+    "descricao": "<p>Apresentação dos pôsteres selecionados. Avaliação do trabalho <i>Indicadores de Ecoeficiência na Bacia do Rio Araguari</i> pelo relator <b>Prof. Fernando Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2023-05-18T08:30:00-03:00",
+    "dataFim": "2023-05-18T10:00:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Manejo Sustentável do Solo e Agricultura de Baixo Carbono</i> com os palestrantes <b>Sérgio Antunes Lima</b> e <b>Cláudia Meireles Rocha</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Espaço de Diálogos Ambientais",
+    "lugar": "Auditório Ipê-Amarelo",
+    "dataInicio": "2023-05-18T10:15:00-03:00",
+    "dataFim": "2023-05-18T12:00:00-03:00",
+    "descricao": "<p>Painel com foco no tema <i>Gestão Coletiva de Recursos Hídricos em Bacias Hidrográficas</i>, contando com mediação da pesquisadora <b>Juliana Prado Alencar</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Oficina Prática",
+    "lugar": "Laboratório 3 - Bloco Verde",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T16:30:00-03:00",
+    "descricao": "<p>Módulo temático <i>Compostagem Termofílica e Aproveitamento de Resíduos Agroindustriais</i>, conduzido pelo engenheiro agrônomo <b>Marcelo Diniz Esteves</b>.</p>",
+    "secao": "Capacitações Técnicas"
+   },
+   {
+    "nome": "Comunicação Oral",
+    "lugar": null,
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T16:00:00-03:00",
+    "descricao": "<p>Sessão com leitura do estudo <i>Estratégias de Logística Reversa de Embalagens de Defensivos</i> pelo pesquisador <b>Henrique Vilela Moreira</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Comunicação Oral",
+    "lugar": null,
+    "dataInicio": "2023-05-18T16:15:00-03:00",
+    "dataFim": "2023-05-18T18:00:00-03:00",
+    "descricao": "<p>Apresentação do trabalho <i>Análise da Pegada Hídrica da Suinocultura Regional</i> pela doutoranda <b>Beatriz Fontes Cunha</b>.</p>",
+    "secao": "Comunicações Orais"
+   },
+   {
+    "nome": "Roda de Saberes Tradicionais",
+    "lugar": "Tenda Externa",
+    "dataInicio": "2023-05-18T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro focado no projeto <i>Fitoterapia Popular e Uso Consciente da Flora Nativa</i> com mediação de <b>Dona Sebastiana de Carvalho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2023-05-19T08:30:00-03:00",
+    "dataFim": "2023-05-19T10:00:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Cidades Inteligentes e Drenagem Urbana Sustentável</i> apresentada pela urbanista <b>Aline Cordeiro Gomes</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Pausa para Café e Conexões",
+    "lugar": null,
+    "dataInicio": "2023-05-19T10:00:00-03:00",
+    "dataFim": "2023-05-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Colóquio de Políticas Públicas",
+    "lugar": null,
+    "dataInicio": "2023-05-19T10:30:00-03:00",
+    "dataFim": "2023-05-19T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Licenciamento Ambiental Municipal: Avanços e Gargalos</i> com a promotora <b>Vanessa Miranda Toledo</b> e o consultor <b>Tiago Ramos Peixoto</b>.</p>",
+    "secao": "Ciclo de Debates"
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2023-05-19T14:30:00-03:00",
+    "dataFim": "2023-05-19T16:30:00-03:00",
+    "descricao": "<p>Apresentação magna intitulada <i>O Papel do Cerrado na Segurança Climática Global</i>, ministrada pelo ambientalista <b>Dr. Valdemar Rabelo Sobrinho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação de Mérito Ecológico",
+    "lugar": "Auditório Pau-Brasil",
+    "dataInicio": "2023-05-19T16:30:00-03:00",
+    "dataFim": "2023-05-19T17:30:00-03:00",
+    "descricao": "<p>Entrega das menções honrosas conduzida por <b>Mariana Vasconcellos</b> e pelo patrono <b>Gilberto Siqueira Leite</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2023-05-19T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espetáculo de encerramento do violeiro <b>Tarcísio Manhães</b> tocando temas tradicionais mineiros.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

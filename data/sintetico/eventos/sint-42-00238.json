@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-42-00238",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 7,
+  "casos": [
+   "intervalos",
+   "titulos_longos",
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:11:01+00:00",
+ "uso_tokens": {
+  "entrada": 698,
+  "saida": 1096
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Seminário Mineiro de Sustentabilidade e Gestão de Bacias Hidrográficas",
+   "local_geral": "Centro de Convenções da UFJF, Juiz de Fora - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2025-05-16T08:00:00-03:00",
+    "dataFim": "2025-05-16T09:00:00-03:00",
+    "descricao": "<p>Acolhimento aos participantes, confirmação de inscrições prévias e distribuição do material institucional do evento.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T09:00:00-03:00",
+    "dataFim": "2025-05-16T10:30:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Desafios contemporâneos para a recuperação hidroambiental de mananciais urbanos degradados em cidades de médio porte no sudeste brasileiro</i>, ministrada pelo <b>Dr. Marcelo Guimarães Prado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Espaço Convivência",
+    "dataInicio": "2025-05-16T10:30:00-03:00",
+    "dataFim": "2025-05-16T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Temático A",
+    "lugar": "Sala Verde",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Debate sobre <i>Políticas públicas integradas voltadas para o saneamento básico ecológico e a conservação ativa dos recursos hídricos na Zona da Mata mineira</i> com a participação de <b>Profa. Camila Bittencourt</b> e <b>Eng. Roberto Silveira</b>.</p>",
+    "secao": "Painéis Simultâneos"
+   },
+   {
+    "nome": "Painel Temático B",
+    "lugar": "Sala das Águas",
+    "dataInicio": "2025-05-16T11:00:00-03:00",
+    "dataFim": "2025-05-16T12:30:00-03:00",
+    "descricao": "<p>Discussão intitulada <i>Tecnologias de baixo custo para reflorestamento ciliar e monitoramento comunitário de qualidade da água</i> sob coordenação de <b>Dr. Thiago Nogueira Ramos</b>.</p>",
+    "secao": "Painéis Simultâneos"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:30:00-03:00",
+    "dataFim": "2025-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-05-16T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Sessão final com a palestra <i>Transição climática justa e governança participativa na gestão sustentável dos comitês de bacia hidrográfica em Minas Gerais</i>, apresentada por <b>Dra. Juliana Fagundes Rezende</b> e mediada por <b>Prof. Carlos Henrique Duarte</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

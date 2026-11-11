@@ -1,0 +1,270 @@
+{
+ "spec": {
+  "id": "sint-42-00297",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Curitiba - PR",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 30,
+  "casos": [
+   "sem_local",
+   "subtitulo_separado",
+   "descricoes_ricas",
+   "titulos_longos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:16:00+00:00",
+ "uso_tokens": {
+  "entrada": 708,
+  "saida": 5019
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Fórum Paranaense de Autoavaliação Institucional e Comissões Próprias de Avaliação",
+   "local_geral": "Campus Botânico da UFPR, Curitiba - PR"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Hall do Prédio de Administração",
+    "dataInicio": "2027-05-19T08:00:00-03:00",
+    "dataFim": "2027-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-19T09:00:00-03:00",
+    "dataFim": "2027-05-19T09:45:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais com a presença do Magnífico Reitor <b>Ricardo Marcelo Fonseca</b> e da coordenadora geral da CPA <b>Helena Schmidt de Almeida</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Abertura",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-19T09:45:00-03:00",
+    "dataFim": "2027-05-19T11:15:00-03:00",
+    "descricao": "<p>Tema: <i>Os Rumos do Sistema Nacional de Avaliação da Educação Superior no Cenário Pós-Pandêmico e Digital</i>.</p><p>Palestrante convidada: <b>Clarice Maria Vianna</b> (INEP). Moderação a cargo de <b>Jorge Eduardo Lustosa</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Debate Plenário",
+    "lugar": null,
+    "dataInicio": "2027-05-19T11:15:00-03:00",
+    "dataFim": "2027-05-19T12:00:00-03:00",
+    "descricao": "<p>Espaço para perguntas dos delegados e participantes das CPAs presentes. Mediação: <b>Jorge Eduardo Lustosa</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-19T12:00:00-03:00",
+    "dataFim": "2027-05-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-19T13:30:00-03:00",
+    "dataFim": "2027-05-19T15:30:00-03:00",
+    "descricao": "<p>Tema: <i>A Articulação entre o Plano de Desenvolvimento Institucional e os Resultados da Autoavaliação</i>.</p><p>Expositores: <b>Carlos Alberto Zanin</b> (PUCPR) e <b>Beatriz Mendonça Ramos</b> (UEL). Coordenação dos trabalhos: <b>Sérgio Paulo Kovalski</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Sessão de Pôsteres Institucionais",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-19T15:30:00-03:00",
+    "dataFim": "2027-05-19T16:30:00-03:00",
+    "descricao": "<p>Apresentação de relatos de experiência e instrumentos avaliativos. Trabalhos em destaque: <i>Engajamento Estudantil na Avaliação Docente</i> por <b>Mariana Pires Teles</b>; <i>Painel de Indicadores em Tempo Real</i> por <b>Renato Castanheira Neto</b>.</p>",
+    "secao": "Relatos e Práticas"
+   },
+   {
+    "nome": "Oficina Metodológica A",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-19T16:30:00-03:00",
+    "dataFim": "2027-05-19T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Desenvolvimento de Instrumentos Avaliativos e Escalas de Percepção para Comunidades Universitárias Multicampi</i>.</p><p>Facilitadores: <b>Patrícia Siqueira Bueno</b> e <b>Tiago Meireles Cunha</b>.</p>",
+    "secao": "Oficinas de Capacitação"
+   },
+   {
+    "nome": "Oficina Metodológica B",
+    "lugar": "Sala de Seminários 102",
+    "dataInicio": "2027-05-19T16:30:00-03:00",
+    "dataFim": "2027-05-19T18:30:00-03:00",
+    "descricao": "<p>Tema: <i>Técnicas de Análise Qualitativa com Suporte Computacional aplicadas aos Comentários Livres da Autoavaliação</i>.</p><p>Facilitador: <b>Gustavo Henrique Fadel</b>.</p>",
+    "secao": "Oficinas de Capacitação"
+   },
+   {
+    "nome": "Reunião do Colegiado de Coordenadores de CPA",
+    "lugar": null,
+    "dataInicio": "2027-05-19T18:30:00-03:00",
+    "dataFim": "2027-05-19T19:30:00-03:00",
+    "descricao": "<p>Encontro reservado aos presidentes e coordenadores para alinhamento da agenda estadual de avaliação perante o CEE/PR. Condução: <b>Helena Schmidt de Almeida</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Especial da Manhã",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-20T08:30:00-03:00",
+    "dataFim": "2027-05-20T10:00:00-03:00",
+    "descricao": "<p>Título da apresentação: <i>Desafios Contemporâneos para a Integração Efetiva entre os Dados Avaliativos Coletados pelas Comissões Próprias e a Gestão Estratégica Universitária</i>.</p><p>Conferencista: <b>Marcos Aurélio Trevisan</b> (Unicamp). Presidência da sessão: <b>Letícia Goulart Peixoto</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café e Networking",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-20T10:00:00-03:00",
+    "dataFim": "2027-05-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicação Oral 1",
+    "lugar": "Sala de Seminários 101",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Fernando Antunes Ribas</b>.</p><p>Trabalhos: <i>A Percepção dos Técnicos-Administrativos no Processo Avaliativo da UEPG</i> por <b>Camila Duarte Nogueira</b>; <i>Autoavaliação e Sustentabilidade Ambiental no Ensino Superior</i> por <b>Rodrigo Otávio Paiva</b> e <b>Valéria Rios Toledo</b>.</p>",
+    "secao": "Sessões de Comunicação Coordenada"
+   },
+   {
+    "nome": "Comunicação Oral 2",
+    "lugar": "Sala de Seminários 102",
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Luciana Borges Brandão</b>.</p><p>Trabalhos: <i>Avaliação da Pós-Graduação Stricto Sensu e Diálogos com a CPA</i> por <b>Alexandre Moraes Filho</b>; <i>Estratégias de Comunicação Visual para Devolutivas à Comunidade Externa</i> por <b>Denise Carvalho Guimarães</b>.</p>",
+    "secao": "Sessões de Comunicação Coordenada"
+   },
+   {
+    "nome": "Comunicação Oral 3",
+    "lugar": null,
+    "dataInicio": "2027-05-20T10:30:00-03:00",
+    "dataFim": "2027-05-20T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Vanessa Cordeiro Lima</b>.</p><p>Trabalhos: <i>Uso de Formulários Acessíveis para Alunos com Deficiência Visual</i> por <b>Felipe Bastos Medeiros</b>; <i>Validação Estatística de Questionários Institucionais</i> por <b>Gilberto Marcondes Silva</b>.</p>",
+    "secao": "Sessões de Comunicação Coordenada"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-20T12:00:00-03:00",
+    "dataFim": "2027-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda Temática",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-20T13:30:00-03:00",
+    "dataFim": "2027-05-20T15:15:00-03:00",
+    "descricao": "<p>Tema: <i>Transparência Pública e a Publicização dos Relatórios Integrais de Autoavaliação</i>.</p><p>Debatedores: <b>Vinícius Fontes Maciel</b> (Ministério Público do Paraná), <b>Eliane Soares Prado</b> (UniCesumar) e <b>Cláudio Aníbal de Freitas</b> (UTFPR). Coordenação: <b>Helena Schmidt de Almeida</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Roda de Conversa Segmentada: Corpo Discente",
+    "lugar": "Sala de Seminários 101",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T17:00:00-03:00",
+    "descricao": "<p>Espaço para troca de experiências entre estudantes membros de CPAs. Facilitação: <b>Gabriel Santoro Rocha</b> (DCE-UFPR) e <b>Larissa Neves Silveira</b>.</p>",
+    "secao": "Encontros Segmentados"
+   },
+   {
+    "nome": "Roda de Conversa Segmentada: Sociedade Civil",
+    "lugar": "Sala de Seminários 102",
+    "dataInicio": "2027-05-20T15:30:00-03:00",
+    "dataFim": "2027-05-20T17:00:00-03:00",
+    "descricao": "<p>Debate sobre o papel dos representantes da comunidade externa nas comissões. Mediação: <b>Tereza Cristina Falcão</b> (Associação Comercial do Paraná).</p>",
+    "secao": "Encontros Segmentados"
+   },
+   {
+    "nome": "Oficina Técnica C",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-20T17:15:00-03:00",
+    "dataFim": "2027-05-20T18:45:00-03:00",
+    "descricao": "<p>Tema: <i>Construção de Dashboards Interativos com Power BI para Visualização de Metas Institucionais</i>.</p><p>Instrutor: <b>Fábio Lourenço Esteves</b>.</p>",
+    "secao": "Oficinas de Capacitação"
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": "Hall do Prédio de Administração",
+    "dataInicio": "2027-05-20T19:00:00-03:00",
+    "dataFim": "2027-05-20T20:00:00-03:00",
+    "descricao": "<p>Apresentação musical do Quarteto de Cordas da Universidade Federal do Paraná, com regência do maestro <b>Davi Zimmermann</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Temática",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-21T08:30:00-03:00",
+    "dataFim": "2027-05-21T10:00:00-03:00",
+    "descricao": "<p>Título: <i>A Relevância da Curricularização da Extensão Universitária na Construção dos Indicadores de Responsabilidade Social e Compromisso Comunitário</i>.</p><p>Palestrante: <b>Mônica Brandão Guimarães</b> (UFSC). Coordenação da mesa: <b>Roberto Carlos Silvano</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Foyer Central",
+    "dataInicio": "2027-05-21T10:00:00-03:00",
+    "dataFim": "2027-05-21T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Comunicação Oral 4",
+    "lugar": "Sala de Seminários 101",
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Manoel Messias Fagundes</b>.</p><p>Trabalhos: <i>O Impacto do Feedstock Avaliativo na Gestão de Cursos de Graduação</i> por <b>Juliana Pavanelli</b>; <i>Metodologias Ativas e a Percepção Docente</i> por <b>Paulo Cézar Fontoura</b>.</p>",
+    "secao": "Sessões de Comunicação Coordenada"
+   },
+   {
+    "nome": "Comunicação Oral 5",
+    "lugar": null,
+    "dataInicio": "2027-05-21T10:30:00-03:00",
+    "dataFim": "2027-05-21T12:00:00-03:00",
+    "descricao": "<p>Coordenação: <b>Solange Matos Ferraz</b>.</p><p>Trabalhos: <i>Autoavaliação em Instituições Privadas: Desafios de Engajamento</i> por <b>Marcio Vinicius Cordeiro</b>; <i>Da Teoria à Ação: Planos de Melhoria Contínua</i> por <b>Aline Cristina Vilarinho</b>.</p>",
+    "secao": "Sessões de Comunicação Coordenada"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2027-05-21T12:00:00-03:00",
+    "dataFim": "2027-05-21T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária de Encaminhamentos",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-21T13:30:00-03:00",
+    "dataFim": "2027-05-21T15:30:00-03:00",
+    "descricao": "<p>Apresentação e aprovação dos termos da <i>Carta de Curitiba sobre Avaliação Emancipatória no Ensino Superior</i>. Redação final elaborada pela comissão liderada por <b>Eunice Aparecida Zanatta</b> e <b>Bruno Queiroz Campelo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação de Boas Práticas",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-21T15:30:00-03:00",
+    "dataFim": "2027-05-21T16:30:00-03:00",
+    "descricao": "<p>Outorga do Prêmio Inovação em Autoavaliação Institucional para as iniciativas selecionadas pela banca presidida por <b>Waldir Antunes Chaves</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Bento Munhoz da Rocha Netto",
+    "dataInicio": "2027-05-21T16:30:00-03:00",
+    "dataFim": "2027-05-21T17:15:00-03:00",
+    "descricao": "<p>Agradecimentos e anúncio da sede da décima edição pelo presidente da CPA anfitriã <b>Helena Schmidt de Almeida</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Confraternização de Despedida",
+    "lugar": null,
+    "dataInicio": "2027-05-21T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

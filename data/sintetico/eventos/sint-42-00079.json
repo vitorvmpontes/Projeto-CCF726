@@ -1,0 +1,107 @@
+{
+ "spec": {
+  "id": "sint-42-00079",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 10,
+  "casos": [
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T18:58:23+00:00",
+ "uso_tokens": {
+  "entrada": 639,
+  "saida": 1568
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira do Empreendedor Sebrae Triângulo Mineiro 2025",
+   "local_geral": "Center Convention Uberlândia, Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas e Abertura Oficial",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-08-21T09:00:00-03:00",
+    "dataFim": "2025-08-21T10:00:00-03:00",
+    "descricao": "<p>Sessão solene de recepção com <b>Marcos Vinícius Resende</b> e representantes da Fiemg Regional Vale do Paranaíba.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-08-21T10:15:00-03:00",
+    "dataFim": "2025-08-21T11:30:00-03:00",
+    "descricao": "<p>Apresentação <i>Transformação Digital para Pequenos Varejistas: Do Físico ao Omnichannel</i>, ministrada por <b>Camila Duarte Silveira</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Rodada de Negócios 1",
+    "lugar": null,
+    "dataInicio": "2025-08-21T11:45:00-03:00",
+    "dataFim": "2025-08-21T13:00:00-03:00",
+    "descricao": "<p>Encontro multissetorial para geração de conexões comerciais entre microempresas e fornecedores do agronegócio, conduzido pelo consultor <b>Thiago Mendonça Prado</b>.</p>",
+    "secao": "Rodadas e Conexões"
+   },
+   {
+    "nome": "Workshop Prático",
+    "lugar": "Espaço Capacitação A",
+    "dataInicio": "2025-08-21T14:30:00-03:00",
+    "dataFim": "2025-08-21T16:30:00-03:00",
+    "descricao": "<p>Atividade prática <i>Gestão Financeira e Formação de Preço de Venda</i> com o especialista <b>Rodrigo Guimarães Fontes</b>.</p>",
+    "secao": "Oficinas de Gestão"
+   },
+   {
+    "nome": "Sessão de Pitch",
+    "lugar": null,
+    "dataInicio": "2025-08-21T17:00:00-03:00",
+    "dataFim": "2025-08-21T18:30:00-03:00",
+    "descricao": "<p>Apresentações rápidas de startups locais para banca avaliadora composta por <b>Luciana Borges Paiva</b> e <b>Felipe Castanheira</b>.</p>",
+    "secao": "Rodadas e Conexões"
+   },
+   {
+    "nome": "Painel Temático",
+    "lugar": null,
+    "dataInicio": "2025-08-22T09:30:00-03:00",
+    "dataFim": "2025-08-22T10:45:00-03:00",
+    "descricao": "<p>Debate <i>O Futuro da Logística e E-commerce no Interior de Minas</i> com <b>Patrícia Nogueira</b> e <b>Henrique Alvarenga</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Oficina Técnica",
+    "lugar": "Espaço Capacitação A",
+    "dataInicio": "2025-08-22T11:00:00-03:00",
+    "dataFim": "2025-08-22T12:30:00-03:00",
+    "descricao": "<p>Treinamento <i>Estratégias de Tráfego Pago e Marketing Local no Google</i>, facilitado por <b>Renata Meireles Costa</b>.</p>",
+    "secao": "Oficinas de Gestão"
+   },
+   {
+    "nome": "Rodada de Negócios 2",
+    "lugar": null,
+    "dataInicio": "2025-08-22T14:00:00-03:00",
+    "dataFim": "2025-08-22T15:30:00-03:00",
+    "descricao": "<p>Sessão voltada a negócios no segmento de serviços e tecnologia da informação, sob coordenação de <b>Débora Vasconcelos</b>.</p>",
+    "secao": "Rodadas e Conexões"
+   },
+   {
+    "nome": "Palestra Magna de Encerramento",
+    "lugar": "Arena Principal",
+    "dataInicio": "2025-08-22T16:00:00-03:00",
+    "dataFim": "2025-08-22T17:30:00-03:00",
+    "descricao": "<p>Conferência <i>Liderança Humanizada e Resiliência em Tempos de Mudança</i> com o palestrante convidado <b>Alexandre de Souza Leão</b>.</p>",
+    "secao": "Palestras de Impacto"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-08-22T17:45:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Divulgação dos vencedores do Prêmio Empreendedor Revelação de Uberlândia pela diretora regional <b>Gisele Martins Amaral</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

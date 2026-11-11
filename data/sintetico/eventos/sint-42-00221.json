@@ -1,0 +1,195 @@
+{
+ "spec": {
+  "id": "sint-42-00221",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Uberlândia - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 21,
+  "casos": [
+   "descricoes_ricas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:09:58+00:00",
+ "uso_tokens": {
+  "entrada": 640,
+  "saida": 3647
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Mineiro de Docentes da Educação Básica (EMDEB 2026)",
+   "local_geral": "Campus Santa Mônica - Universidade Federal de Uberlândia (UFU), Uberlândia - MG"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Materiais",
+    "lugar": "Hall do Bloco 5R",
+    "dataInicio": "2026-05-15T07:30:00-03:00",
+    "dataFim": "2026-05-15T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial e Apresentação Cultural",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2026-05-15T08:30:00-03:00",
+    "dataFim": "2026-05-15T09:30:00-03:00",
+    "descricao": "<p>Boas-vindas com a coordenadora geral Profa. Dra. <b>Helena Vasconcelos</b> e apresentação do Coral Vozes do Cerrado, sob regência do maestro <b>Carlos Eduardo Pires</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2026-05-15T09:30:00-03:00",
+    "dataFim": "2026-05-15T10:45:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Desafios da Docência Contemporânea: Práticas Inclusivas e Letramento Digital na Escola Pública</i>, ministrada pelo Prof. Dr. <b>Marcos Aurélio Silveira</b> (UFMG), com mediação da Profa. Me. <b>Cláudia Regina Amaral</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa Pedagógica",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2026-05-15T10:45:00-03:00",
+    "dataFim": "2026-05-15T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 1",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2026-05-15T11:15:00-03:00",
+    "dataFim": "2026-05-15T12:30:00-03:00",
+    "descricao": "<p>Tema: <i>Políticas Públicas e Currículo no Ensino Fundamental</i>. Coordenação: Profa. Dra. <b>Simone Beatriz Alcantara</b>. Debatedores: Prof. Me. <b>Lucas Ferreira de Castro</b> e Profa. Dra. <b>Tereza Cristina Prado</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Intervalo de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-15T12:30:00-03:00",
+    "dataFim": "2026-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 1",
+    "lugar": "Sala de Metodologias Ativas - Bloco 1G",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Gamificação e Ferramentas Livres nos Anos Iniciais</i>. Ministrante: Prof. Esp. <b>Thiago Mendes Resende</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 2",
+    "lugar": "Laboratório de Ciências - Bloco 1G",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Experimentação Científica com Materiais de Baixo Custo</i>. Ministrante: Profa. Me. <b>Renata Dias Morais</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 3",
+    "lugar": "Sala 102 - Bloco 5R",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: <i>Mediação de Conflitos e Círculos Restaurativos em Sala de Aula</i>. Ministrante: Profa. Dra. <b>Glória Maria Nogueira</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Café com Prosa",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2026-05-15T16:00:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 1",
+    "lugar": "Sala 204 - Bloco 5R",
+    "dataInicio": "2026-05-15T16:30:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Coordenação: Profa. Me. <b>Flávia Godoy Guimarães</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Sequência Didática Investigativa para o Ensino de Biologia Celular</i> por <b>Ana Júlia Furtado</b> e <b>Carlos Roberto Maia</b>;</p><p>2. <i>Histórias em Quadrinhos como Fomento à Leitura no 6º Ano</i> por <b>Juliano Macedo Costa</b>;</p><p>3. <i>Etnomatemática e Práticas Locais no Campo</i> por <b>Valéria Cristina Toledo</b>.</p>",
+    "secao": "Comunicações de Experiências"
+   },
+   {
+    "nome": "Sessão de Comunicações Orais 2",
+    "lugar": "Sala 206 - Bloco 5R",
+    "dataInicio": "2026-05-15T16:30:00-03:00",
+    "dataFim": "2026-05-15T18:00:00-03:00",
+    "descricao": "<p>Coordenação: Prof. Dr. <b>Sérgio Antunes Braga</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>A Educação Especial e a Adaptação de Materiais Didáticos em Uberlândia</i> por <b>Mariana Lopes Vilela</b>;</p><p>2. <i>Poesia Falada e Juventudes Periféricas no Ensino Médio</i> por <b>Rogério dos Santos Paiva</b> e <b>Fernanda Cândido</b>;</p><p>3. <i>Horta Escolar Interdisciplinar: Teoria e Ação</i> por <b>Beatriz Arantes Borges</b>.</p>",
+    "secao": "Comunicações de Experiências"
+   },
+   {
+    "nome": "Roda de Conversa Interativa",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-16T08:30:00-03:00",
+    "dataFim": "2026-05-16T10:00:00-03:00",
+    "descricao": "<p>Tema: <i>A Saúde Emocional do Educador no Cotidiano Escolar</i>. Mediação realizada pelo psicólogo escolar <b>Danilo Carvalho Arruda</b> com relatos de experiências dos professores <b>Patrícia Meireles</b> e <b>Jair Fontana Filho</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo da Manhã",
+    "lugar": "Pátio das Mangueiras",
+    "dataInicio": "2026-05-16T10:00:00-03:00",
+    "dataFim": "2026-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Diálogo 2",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2026-05-16T10:30:00-03:00",
+    "dataFim": "2026-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Avaliação da Aprendizagem: Entre a Regulação e a Formação Emancipatória</i>. Coordenadora: Profa. Dra. <b>Lívia Ramos Fontes</b>. Convidados: Prof. Dr. <b>Edson Queiroz Peixoto</b> e Profa. Dra. <b>Mirian Azevedo Caldas</b>.</p>",
+    "secao": "Mesas Temáticas"
+   },
+   {
+    "nome": "Pausa de Almoço",
+    "lugar": null,
+    "dataInicio": "2026-05-16T12:00:00-03:00",
+    "dataFim": "2026-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Relatos e Pôsteres",
+    "lugar": "Galeria Central de Exposições",
+    "dataInicio": "2026-05-16T13:30:00-03:00",
+    "dataFim": "2026-05-16T15:00:00-03:00",
+    "descricao": "<p>Coordenação de avaliação: Profa. Me. <b>Camila Gontijo Silva</b>.</p><p>Trabalhos expostos:</p><p>1. <i>Alfabetização na Idade Certa: Um Olhar sobre o Triângulo Mineiro</i> por <b>Sabrina Esteves Diniz</b>;</p><p>2. <i>Geografia Crítica e Práticas Cartográficas no Ensino Fundamental II</i> por <b>Alexandre Henrique Dantas</b>;</p><p>3. <i>Arte e Identidade Étnico-Racial na Educação Infantil</i> por <b>Zuleica Noronha Santos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina Pedagógica 4",
+    "lugar": "Laboratório de Informática 2 - Bloco 1G",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Inteligência Artificial Generativa e Produção Textual na Escola</i>. Ministrante: Prof. Dr. <b>Vinícius Esteves de Paula</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Oficina Pedagógica 5",
+    "lugar": "Sala de Dança - Bloco de Artes",
+    "dataInicio": "2026-05-16T15:00:00-03:00",
+    "dataFim": "2026-05-16T16:30:00-03:00",
+    "descricao": "<p>Tema: <i>Corpo, Movimento e Teatralidade no Espaço Escolar</i>. Ministrante: Profa. Esp. <b>Marina Telles Pinheiro</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2026-05-16T16:45:00-03:00",
+    "dataFim": "2026-05-16T18:00:00-03:00",
+    "descricao": "<p>Conferência intitulada <i>O Papel Social da Escola Pública e a Valorização da Carreira Docente</i>, proferida pela Profa. Dra. <b>Aracy Guimarães Vianna</b> (UFU), com mediação do Prof. Me. <b>Guilherme Soares Ramos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Plenária e Premiação",
+    "lugar": "Anfiteatro 5R-A",
+    "dataInicio": "2026-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Leitura da Carta de Uberlândia e entrega do Prêmio Práticas Inspiradoras da Educação Básica pela comissão organizadora presidida pela Profa. Dra. <b>Helena Vasconcelos</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

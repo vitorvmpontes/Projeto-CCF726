@@ -1,0 +1,116 @@
+{
+ "spec": {
+  "id": "sint-42-00141",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Vitória - ES",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 11,
+  "casos": [
+   "intervalos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:03:27+00:00",
+ "uso_tokens": {
+  "entrada": 649,
+  "saida": 1660
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Workshop Capixaba de Inteligência Artificial Aplicada (WCIA 2027)",
+   "local_geral": "Centro Tecnológico da UFES, Vitória - ES"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Credenciamento",
+    "lugar": null,
+    "dataInicio": "2027-05-14T08:00:00-03:00",
+    "dataFim": "2027-05-14T08:45:00-03:00",
+    "descricao": "<p>Retirada de crachás e material do evento para os participantes previamente inscritos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2027-05-14T08:45:00-03:00",
+    "dataFim": "2027-05-14T09:15:00-03:00",
+    "descricao": "<p>Boas-vindas da comissão organizadora composta pelos professores <b>Dr. Marcos Vinícius Guimarães</b> e <b>Dra. Cecília Antunes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2027-05-14T09:15:00-03:00",
+    "dataFim": "2027-05-14T10:15:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Avanços em Modelos Multimodais para Diagnóstico Médico</i> com o pesquisador convidado <b>Dr. Henrique Salles Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": null,
+    "dataInicio": "2027-05-14T10:15:00-03:00",
+    "dataFim": "2027-05-14T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2027-05-14T10:45:00-03:00",
+    "dataFim": "2027-05-14T12:30:00-03:00",
+    "descricao": "<p>Capacitação prática em <i>Introdução a LLMs Locais: Otimização com Quantização e LoRA</i> ministrado por <b>Msc. Felipe Duarte Nogueira</b>.</p>",
+    "secao": "Minicursos da Manhã"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": null,
+    "dataInicio": "2027-05-14T10:45:00-03:00",
+    "dataFim": "2027-05-14T12:30:00-03:00",
+    "descricao": "<p>Atividade sobre <i>Visão Computacional com YOLOv11 para Rastreamento em Tempo Real</i>, coordenada por <b>Dra. Larissa Bittencourt</b>.</p>",
+    "secao": "Minicursos da Manhã"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2027-05-14T12:30:00-03:00",
+    "dataFim": "2027-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório de Redes e Sistemas",
+    "dataInicio": "2027-05-14T14:00:00-03:00",
+    "dataFim": "2027-05-14T16:00:00-03:00",
+    "descricao": "<p>Treinamento prático <i>Engenharia de Prompt e Avaliação de Alucinações em Aplicações RAG</i> com o instrutor <b>Eng. Thiago Prado Ribeiro</b>.</p>",
+    "secao": "Minicursos da Tarde"
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": null,
+    "dataInicio": "2027-05-14T14:00:00-03:00",
+    "dataFim": "2027-05-14T16:00:00-03:00",
+    "descricao": "<p>Tópicos aplicados em <i>Graph Neural Networks para Detecção de Fraudes Financeiras</i>, conduzido por <b>Dra. Beatriz Menezes Leão</b>.</p>",
+    "secao": "Minicursos da Tarde"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2027-05-14T16:15:00-03:00",
+    "dataFim": "2027-05-14T17:30:00-03:00",
+    "descricao": "<p>Debate sobre o tema <i>Desafios Regulatórios e Ética no Uso de IA no Setor Público</i>, com a participação de <b>Dr. Roberto Camargo Pires</b>, <b>Dra. Cecília Antunes</b> e mediação de <b>Dr. Marcos Vinícius Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Encerramento",
+    "lugar": "Auditório Manoel Vereza",
+    "dataInicio": "2027-05-14T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Agradecimentos finais e premiação dos melhores trabalhos acadêmicos conduzida por <b>Dr. Marcos Vinícius Guimarães</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,325 @@
+{
+ "spec": {
+  "id": "sint-42-00128",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 4,
+  "n_atividades": 37,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:02:48+00:00",
+ "uso_tokens": {
+  "entrada": 673,
+  "saida": 5262
+ },
+ "saida": {
+  "evento": {
+   "nome": "WIA-DF 2025: Workshop de Inteligência Artificial e Aplicações Emergentes",
+   "local_geral": "Centro de Convenções Ulysses Guimarães, Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Registro de Participantes",
+    "lugar": "Foyer Central",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Abertura",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-14T09:00:00-03:00",
+    "dataFim": "2025-05-14T09:40:00-03:00",
+    "descricao": "<p>Boas-vindas da coordenação geral com <b>Dr. Marcos Aurelio Silveira</b> e <b>Profa. Dra. Leticia Fontoura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-14T09:40:00-03:00",
+    "dataFim": "2025-05-14T10:45:00-03:00",
+    "descricao": "<p>Apresentação intitulada <i>Desafios Regulatórios e Éticos no Desenvolvimento de IA Soberana</i>, conduzida pelo palestrante <b>Renato Castanho</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Conexões",
+    "lugar": null,
+    "dataInicio": "2025-05-14T10:45:00-03:00",
+    "dataFim": "2025-05-14T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-14T11:15:00-03:00",
+    "dataFim": "2025-05-14T12:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Modelos de Fundação em Português: Desafios e Oportunidades</i>, reunindo <b>Dra. Simone Albuquerque</b>, <b>Carlos Eduardo Neves</b> e moderação de <b>Prof. Helio Meireles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-14T12:30:00-03:00",
+    "dataFim": "2025-05-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório Turing",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Primeira parte do curso <i>Engenharia de Prompt e Otimização com LLMs em Ambientes Empresariais</i>, ministrado por <b>Thiago Brandão</b> e <b>Camila Rezende</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 2",
+    "lugar": "Laboratório Lovelace",
+    "dataInicio": "2025-05-14T14:00:00-03:00",
+    "dataFim": "2025-05-14T17:30:00-03:00",
+    "descricao": "<p>Instrução prática sobre <i>Visão Computacional Aplicada a Veículos Autônomos com PyTorch</i> conduzida por <b>Mariana Sampaio</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Espaço Monumental",
+    "dataInicio": "2025-05-14T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Exibição e avaliação de projetos em andamento, sob supervisão de <b>Dr. Daniel Valadares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-15T08:30:00-03:00",
+    "dataFim": "2025-05-15T09:45:00-03:00",
+    "descricao": "<p>Exposição sobre <i>Aceleração de Inferência em Hardware Heterogêneo</i> proferida pelo engenheiro <b>Lucas Vasconcelos</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Conexões",
+    "lugar": null,
+    "dataInicio": "2025-05-15T09:45:00-03:00",
+    "dataFim": "2025-05-15T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Auditório Planalto",
+    "dataInicio": "2025-05-15T10:15:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentação dos artigos: <i>Classificação de Textos Jurídicos Usando Transformadores Leves</i> por <b>Ana Beatriz Ramos</b> e <i>Detecção de Fraudes Financeiras com Grafos Neurais</i> por <b>Felipe Dornelles</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala de Reuniões Buriti",
+    "dataInicio": "2025-05-15T10:15:00-03:00",
+    "dataFim": "2025-05-15T12:00:00-03:00",
+    "descricao": "<p>Apresentações: <i>Predição de Queimadas no Cerrado com Séries Temporais e IA</i> por <b>Rodrigo Cordeiro</b> e <i>Segmentação Semântica de Imagens de Satélite</i> por <b>Juliana Parente</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-15T12:00:00-03:00",
+    "dataFim": "2025-05-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 1",
+    "lugar": "Laboratório Turing",
+    "dataInicio": "2025-05-15T13:30:00-03:00",
+    "dataFim": "2025-05-15T17:00:00-03:00",
+    "descricao": "<p>Conclusão e projetos finais do curso <i>Engenharia de Prompt e Otimização com LLMs em Ambientes Empresariais</i> com <b>Thiago Brandão</b> e <b>Camila Rezende</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 3",
+    "lugar": "Laboratório Lovelace",
+    "dataInicio": "2025-05-15T13:30:00-03:00",
+    "dataFim": "2025-05-15T17:00:00-03:00",
+    "descricao": "<p>Treinamento prático <i>Aprendizado por Reforço Aplicado à Robótica Móvel</i> ministrado por <b>Prof. Gustavo Vilar</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Reunião de Alinhamento Temático",
+    "lugar": null,
+    "dataInicio": "2025-05-15T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro de pesquisadores para debater editais e novas redes de cooperação em IA com <b>Dr. Marcos Aurelio Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Networking Noturno",
+    "lugar": "Espaço Monumental",
+    "dataInicio": "2025-05-15T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-16T08:30:00-03:00",
+    "dataFim": "2025-05-16T09:45:00-03:00",
+    "descricao": "<p>Palestra intitulada <i>Agentes Autônomos e Novas Fronteiras na Tomada de Decisão</i> apresentada por <b>Priscila Montenegro</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Intervalo para Conexões",
+    "lugar": null,
+    "dataInicio": "2025-05-16T09:45:00-03:00",
+    "dataFim": "2025-05-16T10:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Auditório Planalto",
+    "dataInicio": "2025-05-16T10:15:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Apresentações de pesquisas: <i>Robustez Adversarial em Redes Convolucionais para Diagnóstico Médico</i> com <b>Patrícia Godoi</b> e <i>Técnicas de Destilação de Conhecimento para TinyML</i> com <b>Vinícius Queiroz</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Sala de Reuniões Buriti",
+    "dataInicio": "2025-05-16T10:15:00-03:00",
+    "dataFim": "2025-05-16T12:00:00-03:00",
+    "descricao": "<p>Debate sobre <i>Impactos da Inteligência Artificial no Mercado de Trabalho no Setor Público</i> com <b>Fernando Bastos</b> e <b>Erica Toledo</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-16T12:00:00-03:00",
+    "dataFim": "2025-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório Turing",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Oficina prática <i>Implementação de Arquiteturas RAG Escaláveis com Bancos Vetoriais</i>, conduzida por <b>Alexandre Nogueira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 5",
+    "lugar": "Laboratório Lovelace",
+    "dataInicio": "2025-05-16T13:30:00-03:00",
+    "dataFim": "2025-05-16T17:00:00-03:00",
+    "descricao": "<p>Oficina <i>Fairness e Explicabilidade em Modelos Preditivos: Práticas com SHAP e LIME</i> sob instrução de <b>Dra. Cecília Morais</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Painel de Discussão",
+    "lugar": "Auditório Planalto",
+    "dataInicio": "2025-05-16T15:00:00-03:00",
+    "dataFim": "2025-05-16T16:30:00-03:00",
+    "descricao": "<p>Painel <i>Inovação Aberta e Transferência de Tecnologia de IA para o Governo</i> com <b>Bruno Prado</b> e <b>Vanessa Martins</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Ferramentas",
+    "lugar": "Espaço Monumental",
+    "dataInicio": "2025-05-16T17:15:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Apresentação interativa de protótipos e softwares de código aberto desenvolvidos pelas instituições parceiras, coordenada por <b>Leandro Barreto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso 4",
+    "lugar": "Laboratório Turing",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Sessão avançada e laboratório prático de <i>Implementação de Arquiteturas RAG Escaláveis com Bancos Vetoriais</i> ministrado por <b>Alexandre Nogueira</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso 6",
+    "lugar": "Laboratório Lovelace",
+    "dataInicio": "2025-05-17T08:30:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": "<p>Capacitação <i>Fine-Tuning Eficiente de LLMs com LoRA e QLoRA</i> ministrada por <b>Guilherme Dantas</b>.</p>",
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Auditório Planalto",
+    "dataInicio": "2025-05-17T09:00:00-03:00",
+    "dataFim": "2025-05-17T11:00:00-03:00",
+    "descricao": "<p>Apresentação das contribuições: <i>Geração Sintética de Dados para Saúde Pública</i> por <b>Roberta Guimarães</b> e <i>Bioacústica e Reconhecimento de Espécies Ameaçadas</i> por <b>Mateus Rocha</b>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Intervalo para Conexões",
+    "lugar": null,
+    "dataInicio": "2025-05-17T11:00:00-03:00",
+    "dataFim": "2025-05-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate Aberto com a Comunidade",
+    "lugar": null,
+    "dataInicio": "2025-05-17T11:30:00-03:00",
+    "dataFim": "2025-05-17T12:30:00-03:00",
+    "descricao": "<p>Fórum de discussão aberto sobre <i>Rumo da Pesquisa em Inteligência Artificial no Centro-Oeste</i> mediado por <b>Profa. Dra. Leticia Fontoura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Pausa para Almoço",
+    "lugar": null,
+    "dataInicio": "2025-05-17T12:30:00-03:00",
+    "dataFim": "2025-05-17T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-17T14:00:00-03:00",
+    "dataFim": "2025-05-17T15:30:00-03:00",
+    "descricao": "<p>Discussão sobre <i>Estratégias de Fomento e Investimento Público-Privado em Startups de Deep Tech</i> com <b>Igor Mendonça</b>, <b>Sabrina Falcão</b> e mediação de <b>Dra. Simone Albuquerque</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-17T15:45:00-03:00",
+    "dataFim": "2025-05-17T17:00:00-03:00",
+    "descricao": "<p>Conferência especial <i>Horizontes da Inteligência Artificial Geral: Mitos, Fatos e o Futuro da Ciência</i> apresentada pelo pesquisador <b>Prof. Dr. Valter Mendanha</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Alvorada",
+    "dataInicio": "2025-05-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Premiação dos melhores artigos e trabalhos de minicursos, conduzida por <b>Dr. Marcos Aurelio Silveira</b> e <b>Profa. Dra. Leticia Fontoura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Espaço Monumental",
+    "dataInicio": "2025-05-17T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-42-00339",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Macapá - AP",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "descricoes_ricas",
+   "sem_horario_fim",
+   "sem_local"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:18:56+00:00",
+ "uso_tokens": {
+  "entrada": 671,
+  "saida": 981
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Festival de Artes Integradas da Amazônia Tucuju",
+   "local_geral": "Complexo Beira-Rio e Entorno da Fortaleza de São José de Macapá"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Percussão e Marabaixo",
+    "lugar": "Tenda das Tradições",
+    "dataInicio": "2026-05-16T09:00:00-03:00",
+    "dataFim": "2026-05-16T11:30:00-03:00",
+    "descricao": "<p>Coordenação de <b>Mestre Julião Ramos Neto</b> e mediação de <b>Laura Ramos</b>. Oficina prática com foco nos toques ancestrais do marabaixo amapaense, apresentando as técnicas do trabalho <i>Batuque e Resistência na Linha do Equador</i> desenvolvido pela comunidade do Curiaú.</p>",
+    "secao": "Oficinas Matutinas"
+   },
+   {
+    "nome": "Oficina de Escultura em Cerâmica Maracá",
+    "lugar": null,
+    "dataInicio": "2026-05-16T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Ministrada pelo artesão <b>Carlos Bananeira</b> sob coordenação de <b>Silvia Alencar</b>. Trabalho exposto durante a oficina: <i>Grafismos Rupestres e Cosmologia Maracá</i>, explorando materiais nativos e argila da beira do rio.</p>",
+    "secao": "Oficinas Matutinas"
+   },
+   {
+    "nome": "Sessão de Painéis e Mostra de Fotografia Autoral",
+    "lugar": null,
+    "dataInicio": "2026-05-16T14:30:00-03:00",
+    "dataFim": "2026-05-16T17:00:00-03:00",
+    "descricao": "<p>Apresentação de trabalhos visuais com curadoria de <b>Mariana Canto</b>. Lista de ensaios exibidos e debatidos com os autores: <i>Ribeirinhos do Bailique</i> por <b>Edson Viana</b>; <i>Vozes do Quilombo do Rosa</i> por <b>Patrícia Nonato</b> e <b>Jorge Guedes</b>; e <i>Cores do Mercado Central</i> por <b>Tereza Maciel</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cortejo das Caixeiras e Músicas de Raiz",
+    "lugar": null,
+    "dataInicio": "2026-05-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Arrastão musical aberto coordenado por <b>Tia Biló</b> e pelo produtor <b>Wendel Santos</b>, integrando grupos tradicionais do Amapá e apresentando o espetáculo itinerante <i>Canto Sagrado de São Benedito</i> cantado por <b>Adelson Preto</b>.</p>",
+    "secao": "Mostra de Artes Vivas"
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Palco Encontro das Águas",
+    "dataInicio": "2026-05-16T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Espetáculo musical sob direção de <b>Fernanda Takai Macapá</b>, reunindo no palco os artistas <b>Val Milhomem</b>, <b>Joãozinho Gomes</b> e a cantora convidada <b>Patrícia Bastos</b>, interpretando a obra conjunta <i>Planeta Amapari e Outras Canções Ribeirinhas</i>.</p>",
+    "secao": "Mostra de Artes Vivas"
+   }
+  ]
+ }
+}

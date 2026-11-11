@@ -1,0 +1,269 @@
+{
+ "spec": {
+  "id": "sint-42-00469",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Niterói - RJ",
+  "ano": 2024,
+  "n_dias": 5,
+  "n_atividades": 30,
+  "casos": [
+   "descricoes_ricas",
+   "subtitulo_separado",
+   "intervalos"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:29:07+00:00",
+ "uso_tokens": {
+  "entrada": 677,
+  "saida": 5361
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova Leste Fluminense 2024: Simpósio de Tecnologia e Sustentabilidade no Campo",
+   "local_geral": "Centro de Convenções da Universidade Federal Fluminense (UFF), Campus Gragoatá, Niterói - RJ"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento e Entrega de Materiais",
+    "lugar": "Hall Principal",
+    "dataInicio": "2024-05-20T08:00:00-03:00",
+    "dataFim": "2024-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Solene de Abertura",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-20T09:00:00-03:00",
+    "dataFim": "2024-05-20T10:15:00-03:00",
+    "descricao": "<p>Boas-vindas institucionais e lançamento oficial da Rede AgroFluminense de Inovação Aberta.</p><p>Composição da mesa de abertura: <b>Dra. Mariana Albuquerque</b> (Reitora em exercício), <b>Carlos Eduardo Valença</b> (Secretário Estadual de Agricultura) e <b>Roberto Nogueira Sampaio</b> (Presidente da FAPERJ).</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Palestra Inaugural",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-20T10:30:00-03:00",
+    "dataFim": "2024-05-20T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Transformação Digital e o Futuro das Cadeias Produtivas no Sudeste Brasileiro</i>.</p><p>Palestrante: <b>Dr. Almir Antunes Coutinho</b> (Embrapa Solos). Moderação a cargo da coordenadora <b>Profa. Beatriz Galvão</b>.</p>",
+    "secao": "Abertura Oficial"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-20T12:00:00-03:00",
+    "dataFim": "2024-05-20T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 1",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-20T14:00:00-03:00",
+    "dataFim": "2024-05-20T16:00:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Inteligência Artificial Aplicada ao Monitoramento de Safras e Gestão Hídrica</i>.</p><p>Participantes convidados: <b>Marcio Resende Fontes</b> (AgTech Rio), <b>Dra. Juliana Prado Meirelles</b> (UFRRJ) e <b>Lucas Queiroz Silveira</b> (SensorAgro). Coordenação: <b>Prof. Fernando H. Vasconcelos</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Lanche da Tarde e Networking",
+    "lugar": "Foyer das Jabuticabeiras",
+    "dataInicio": "2024-05-20T16:00:00-03:00",
+    "dataFim": "2024-05-20T16:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Trabalhos 1",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2024-05-20T16:45:00-03:00",
+    "dataFim": "2024-05-20T18:30:00-03:00",
+    "descricao": "<p>Eixo: <i>Biotecnologia e Manejo Sustentável</i>. Coordenador da sessão: <b>Prof. Gilberto Mendonça</b>.</p><p>Trabalhos apresentados:<br>- <i>Aplicação de biofertilizantes à base de microalgas na horticultura periurbana de Niterói</i>, por <b>Camila Duarte Pires</b> e <b>Igor Santana Melo</b>.<br>- <i>Resistência induzida contra fitopatógenos em tomateiros através de extratos botânicos</i>, por <b>Renata Gusmão Ramos</b>.<br>- <i>Bioinsumos na recuperação de solos degradados em bacias hidrográficas</i>, por <b>Tiago Assis Bittencourt</b> e <b>Dra. Helena Barcellos</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Workshop Técnico 1",
+    "lugar": "Laboratório de Geoprocessamento 2",
+    "dataInicio": "2024-05-21T08:30:00-03:00",
+    "dataFim": "2024-05-21T10:30:00-03:00",
+    "descricao": "<p>Tema prático: <i>Processamento de Imagens de Drones para Mapeamento de Vigor Vegetativo</i>.</p><p>Instrutora: <b>Eng. Agr. Tânia Meireles Santos</b> (GeoCampo Consultoria).</p>",
+    "secao": "Capacitação e Oficinas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Jabuticabeiras",
+    "dataInicio": "2024-05-21T10:30:00-03:00",
+    "dataFim": "2024-05-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates 2",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-21T11:00:00-03:00",
+    "dataFim": "2024-05-21T12:30:00-03:00",
+    "descricao": "<p>Subtítulo: <i>Rastreabilidade Blockchain e Certificação de Alimentos Orgânicos</i>.</p><p>Debatedores: <b>Vinícius Peçanha</b> (AgroTrace Brasil), <b>Clarissa Fontoura Brandão</b> (ABIO) e <b>Rodrigo Vianna</b> (Sebrae Lab). Mediadora: <b>Renata Taveira Salles</b>.</p>",
+    "secao": "Painéis Temáticos"
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-21T12:30:00-03:00",
+    "dataFim": "2024-05-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Trabalhos 2",
+    "lugar": "Sala Multiuso B",
+    "dataInicio": "2024-05-21T14:00:00-03:00",
+    "dataFim": "2024-05-21T16:00:00-03:00",
+    "descricao": "<p>Eixo: <i>Engenharia Agrícola e Internet das Coisas (IoT)</i>. Coordenação: <b>Dra. Vanessa Lemos Guimarães</b>.</p><p>Trabalhos selecionados:<br>- <i>Protótipo de estação micrometeorológica autônoma de baixo custo para pequenos produtores</i>, autoria de <b>Felipe Castanheira</b> e <b>Jorge Linhares Neto</b>.<br>- <i>Sistemas de irrigação de precisão controlados via LoRaWAN</i>, apresentado por <b>Patrícia Belchior Tavares</b>.<br>- <i>Modelagem matemática de evapotranspiração real em cultivos protegidos da Região Serrana Fluminense</i>, por <b>Samuel Correia de Barros</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Sessão de Demonstração de Startups",
+    "lugar": "Espaço Inovação & Negócios",
+    "dataInicio": "2024-05-21T16:30:00-03:00",
+    "dataFim": "2024-05-21T18:30:00-03:00",
+    "descricao": "<p>Demonstrações curtas de soluções tecnológicas em campo (pitch sessions e protótipos funcionais).</p><p>Avaliadores da banca: <b>Gustavo Zanatta</b> (InvestAgro), <b>Clara Menezes Pimenta</b> (Pólen UFF) e <b>Dr. Marcelo Trindade</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico 2",
+    "lugar": "Laboratório de Solos e Nutrição de Plantas",
+    "dataInicio": "2024-05-22T08:30:00-03:00",
+    "dataFim": "2024-05-22T10:30:00-03:00",
+    "descricao": "<p>Tema prático: <i>Diagnóstico Rápido de Saúde Biológica do Solo Utilizando Cromatografia de Pfeiffer</i>.</p><p>Facilitadores: <b>Dr. Henrique Paes Barreto</b> e <b>M.Sc. Leila Macedo Gusmão</b>.</p>",
+    "secao": "Capacitação e Oficinas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Jabuticabeiras",
+    "dataInicio": "2024-05-22T10:30:00-03:00",
+    "dataFim": "2024-05-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Conversa",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-22T11:00:00-03:00",
+    "dataFim": "2024-05-22T12:30:00-03:00",
+    "descricao": "<p>Tema em pauta: <i>Transição Agroecológica e Mercados Institucionais de Niterói e Arredores</i>.</p><p>Palestrantes: <b>Tereza Cristina Boechat</b> (Associação de Produtores Orgânicos de Várzea das Moças), <b>Antônio Marcos Silveira</b> (Emater-Rio) e <b>Dra. Laura Esteves</b> (Coordenação de Segurança Alimentar de Niterói).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-22T12:30:00-03:00",
+    "dataFim": "2024-05-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Trabalhos 3",
+    "lugar": "Sala Multiuso A",
+    "dataInicio": "2024-05-22T14:00:00-03:00",
+    "dataFim": "2024-05-22T16:00:00-03:00",
+    "descricao": "<p>Eixo: <i>Economia Circular e Valorização de Coprodutos do Agronegócio</i>. Coordenador: <b>Prof. Daniel Cunha Pacheco</b>.</p><p>Apresentações:<br>- <i>Produção de biochar a partir de cascas de café arábica e seus efeitos no sequestro de carbono</i>, por <b>Aline Fonseca Vilar</b>.<br>- <i>Extração de pectina da casca de maracujá: alternativa de renda para cooperativas familiares</i>, apresentado por <b>Bruno César Mattos</b>.<br>- <i>Avaliação do ciclo de vida da biomassa residual da cana na produção de biopolímeros</i>, sob autoria de <b>Débora Rios Martins</b> e <b>Prof. André Albuquerque Maia</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Café com Inovação",
+    "lugar": "Foyer das Jabuticabeiras",
+    "dataInicio": "2024-05-22T16:00:00-03:00",
+    "dataFim": "2024-05-22T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Internacional",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-22T16:30:00-03:00",
+    "dataFim": "2024-05-22T18:00:00-03:00",
+    "descricao": "<p>Título temático: <i>Políticas Globais de Carbono Neutro e Oportunidades para a Agricultura Tropical</i>.</p><p>Conferencista internacional: <b>Dr. Jean-Pierre Meyer</b> (CIRAD - França). Tradução e mediação: <b>Profa. Solange Maria Fontes</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica Guiada",
+    "lugar": "Horto Florestal do Barreto",
+    "dataInicio": "2024-05-23T08:00:00-03:00",
+    "dataFim": "2024-05-23T12:00:00-03:00",
+    "descricao": "<p>Atividade externa de campo: <i>Experiências de Agricultura Urbana e Sistemas Agroflorestais Sustentáveis em Niterói</i>.</p><p>Guias e coordenadores de campo: <b>Eng. Florestal Fábio Antunes</b> e <b>Bióloga Cláudia Vasconcellos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-23T12:00:00-03:00",
+    "dataFim": "2024-05-23T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop Técnico 3",
+    "lugar": "Laboratório de Geoprocessamento 2",
+    "dataInicio": "2024-05-23T14:00:00-03:00",
+    "dataFim": "2024-05-23T16:00:00-03:00",
+    "descricao": "<p>Tema prático: <i>Elaboração de Planos de Descarbonização e Cálculo da Pegada de Carbono na Propriedade Rural</i>.</p><p>Instrutor: <b>M.Sc. Rodolfo Cordeiro Neves</b> (Iniciativa Clima Rural).</p>",
+    "secao": "Capacitação e Oficinas"
+   },
+   {
+    "nome": "Intervalo para Café",
+    "lugar": "Foyer das Jabuticabeiras",
+    "dataInicio": "2024-05-23T16:00:00-03:00",
+    "dataFim": "2024-05-23T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Trabalhos 4",
+    "lugar": "Sala Multiuso B",
+    "dataInicio": "2024-05-23T16:30:00-03:00",
+    "dataFim": "2024-05-23T18:15:00-03:00",
+    "descricao": "<p>Eixo: <i>Gestão, Crédito Verde e Políticas Públicas para o Agronegócio Sustentável</i>. Coordenadora de mesa: <b>Profa. Elisa Morais Padilha</b>.</p><p>Comunicações orais:<br>- <i>Adoção do CPR Verde por médios produtores fluminenses: barreiras e gargalos contratuais</i>, apresentado por <b>Guilherme Castilho Vianna</b>.<br>- <i>Logística reversa de embalagens vazias de defensivos agrícolas na Baixada Litorânea</i>, por <b>Tatiana Lemos Furtado</b>.<br>- <i>Impacto dos programas de aquisição pública de alimentos na sustentabilidade econômica de assentamentos rurais</i>, por <b>Lucas Medeiros Brandão</b> e <b>Dr. Raul Pessanha</b>.</p>",
+    "secao": "Comunicações Científicas"
+   },
+   {
+    "nome": "Mesa-Redonda de Investimentos",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-24T09:00:00-03:00",
+    "dataFim": "2024-05-24T10:45:00-03:00",
+    "descricao": "<p>Subtítulo do debate: <i>Fundos ESG, Venture Capital e Mecanismos Financeiros para AgTechs Brasileiras</i>.</p><p>Palestrantes convidados: <b>Paula Queiroz Tinoco</b> (Venture Verde), <b>Eduardo Farias Sobral</b> (Banco do Brasil Sustentável) e <b>Dr. Marcos Aurelio Fontes</b> (BNDES Agro). Coordenação geral: <b>Prof. Sérgio Brandão Drummond</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break de Encerramento",
+    "lugar": "Foyer das Jabuticabeiras",
+    "dataInicio": "2024-05-24T10:45:00-03:00",
+    "dataFim": "2024-05-24T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-24T11:15:00-03:00",
+    "dataFim": "2024-05-24T12:30:00-03:00",
+    "descricao": "<p>Tema final: <i>O Brasil como Hub Global de Alimentos Sustentáveis e Inovação Bioeconômica</i>.</p><p>Palestra ministrada pela <b>Dra. Elisabete Junqueira Franco</b> (Centro de Estudos Avançados em Bioeconomia - FGV Agro).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Premiação e Encerramento",
+    "lugar": "Auditório Paulo Freire",
+    "dataInicio": "2024-05-24T12:30:00-03:00",
+    "dataFim": "2024-05-24T13:30:00-03:00",
+    "descricao": "<p>Divulgação dos melhores trabalhos científicos do evento e anúncio da startup vencedora do Prêmio AgroInova 2024.</p><p>Condução: <b>Profa. Beatriz Galvão</b> e <b>Prof. Fernando H. Vasconcelos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Confraternização",
+    "lugar": "Terraço da Cantareira",
+    "dataInicio": "2024-05-24T13:30:00-03:00",
+    "dataFim": "2024-05-24T15:30:00-03:00",
+    "descricao": "<p>Apresentação musical do grupo regional de choro e celebração de encerramento do evento com produtores e pesquisadores.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

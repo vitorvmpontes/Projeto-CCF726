@@ -1,0 +1,174 @@
+{
+ "spec": {
+  "id": "sint-42-00118",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Fortaleza - CE",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "subtitulo_separado",
+   "intervalos",
+   "titulos_longos",
+   "atividades_paralelas"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:01:52+00:00",
+ "uso_tokens": {
+  "entrada": 698,
+  "saida": 2647
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Cearense de Sustentabilidade e Gestão Ambiental 2024",
+   "local_geral": "Centro de Eventos do Ceará, Fortaleza - CE"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Entrega de Crachás",
+    "lugar": "Foyer Principal",
+    "dataInicio": "2024-05-15T08:00:00-03:00",
+    "dataFim": "2024-05-15T09:00:00-03:00",
+    "descricao": "<p>Boas-vindas aos participantes e distribuição do material institucional do evento com a coordenação de <b>Marina Benevides</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2024-05-15T09:00:00-03:00",
+    "dataFim": "2024-05-15T10:00:00-03:00",
+    "descricao": "<p>Composição da mesa diretora com a presença do secretário <b>Carlos Alencar</b> e da reitora <b>Helena Silveira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2024-05-15T10:00:00-03:00",
+    "dataFim": "2024-05-15T11:30:00-03:00",
+    "descricao": "<p>Apresentação da palestra <i>Análise crítica das políticas públicas contemporâneas para mitigação dos impactos climáticos severos no semiárido nordestino e zonas litorâneas</i> ministrada pelo professor <b>Francisco Josué de Castro</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Pausa para Café",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-15T11:30:00-03:00",
+    "dataFim": "2024-05-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2024-05-15T12:00:00-03:00",
+    "dataFim": "2024-05-15T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática 1",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: Recursos Hídricos e Convivência com o Semiárido. Participantes: <b>Mariana Aragão</b> e <b>Roberto Frota</b>. Moderação de <b>Sônia Vasconcelos</b>.</p>",
+    "secao": "Mesas Redondas"
+   },
+   {
+    "nome": "Oficina Técnica 1",
+    "lugar": "Laboratório de Sustentabilidade",
+    "dataInicio": "2024-05-15T14:00:00-03:00",
+    "dataFim": "2024-05-15T16:00:00-03:00",
+    "descricao": "<p>Tema: Técnicas de Compostagem Urbana e Reúso de Água Cinza. Ministrante: <b>Lucas Peixoto</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Palestra Técnica",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2024-05-16T08:30:00-03:00",
+    "dataFim": "2024-05-16T10:00:00-03:00",
+    "descricao": "<p>Apresentação de <i>Estudo aprofundado sobre os desafios operacionais na implementação efetiva dos planos municipais de saneamento básico e gestão integrada de resíduos sólidos</i> com <b>Patrícia Meireles</b> e debatedora <b>Cíntia Holanda</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Café com Redes",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-16T10:00:00-03:00",
+    "dataFim": "2024-05-16T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Discussão 1",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: Energia Solar e Eólica no Nordeste: Oportunidades e Salvaguardas Socioambientais. Painelistas: <b>Danilo Queiroz</b> e <b>Cláudia Guimarães</b>.</p>",
+    "secao": "Mesas Redondas"
+   },
+   {
+    "nome": "Oficina Técnica 2",
+    "lugar": "Laboratório de Sustentabilidade",
+    "dataInicio": "2024-05-16T10:30:00-03:00",
+    "dataFim": "2024-05-16T12:00:00-03:00",
+    "descricao": "<p>Tema: Mapeamento de Ilhas de Calor Urbanas via QGIS. Condução: <b>Vitor Farias</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Intervalo para Almoço",
+    "lugar": null,
+    "dataInicio": "2024-05-16T12:00:00-03:00",
+    "dataFim": "2024-05-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Trabalhos",
+    "lugar": "Sala Cumbuco",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:30:00-03:00",
+    "descricao": "<p>Sessão temática de artigos acadêmicos. Coordenação do avaliador <b>Jorge Pinheiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática 2",
+    "lugar": "Sala Mundaú",
+    "dataInicio": "2024-05-16T14:00:00-03:00",
+    "dataFim": "2024-05-16T16:00:00-03:00",
+    "descricao": "<p>Tema: Conservação dos Manguezais e Biodiversidade Estuarina Cearense. Expositores: <b>Beatriz Fonteles</b> e <b>Guilherme Montenegro</b>.</p>",
+    "secao": "Mesas Redondas"
+   },
+   {
+    "nome": "Workshop Especializado",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2024-05-17T09:00:00-03:00",
+    "dataFim": "2024-05-17T11:00:00-03:00",
+    "descricao": "<p>Atividade com o título <i>Desenvolvimento de estratégias colaborativas para conservação de ecossistemas costeiros ameaçados pelas mudanças globais e avanço imobiliário desordenado</i>, orientada por <b>Aline Magalhães</b> e <b>Renan Barreto</b>.</p>",
+    "secao": "Oficinas Práticas"
+   },
+   {
+    "nome": "Coffee Break de Encerramento",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2024-05-17T11:00:00-03:00",
+    "dataFim": "2024-05-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Fechamento",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2024-05-17T11:30:00-03:00",
+    "dataFim": "2024-05-17T13:00:00-03:00",
+    "descricao": "<p>Conferência <i>Economia Circular e Inovação Verde</i> com a pesquisadora <b>Luciana Prado</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Sessão Solene de Encerramento",
+    "lugar": "Auditório Icapuí",
+    "dataInicio": "2024-05-17T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Premiação dos melhores pôsteres científicos e considerações finais apresentadas por <b>Marina Benevides</b> e <b>Carlos Alencar</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

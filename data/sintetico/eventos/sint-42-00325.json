@@ -1,0 +1,91 @@
+{
+ "spec": {
+  "id": "sint-42-00325",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "sem_horario_fim"
+  ]
+ },
+ "modelo": "gemini-3.8-flash",
+ "gerado_em": "2026-10-22T19:17:56+00:00",
+ "uso_tokens": {
+  "entrada": 634,
+  "saida": 1335
+ },
+ "saida": {
+  "evento": {
+   "nome": "V Encontro Gaúcho Mulheres na Computação",
+   "local_geral": "Instituto de Informática da UFRGS, Campus do Vale, Porto Alegre - RS"
+  },
+  "atividades": [
+   {
+    "nome": "Recepção e Boas-Vindas",
+    "lugar": "Hall de Entrada do Prédio 43413",
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T09:15:00-03:00",
+    "descricao": "<p>Acolhida das participantes com entrega de crachás, ecobags e café de integração organizado pela comissão discente liderada por <b>Juliana Vargas</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Keynote de Abertura",
+    "lugar": "Auditório Castilho",
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Abertura oficial com a conferência <i>Trajetórias e Desafios de Liderança Técnica Feminina no Sul do País</i>, ministrada pela <b>Dra. Simone André da Costa Cavalheiro</b> com mediação de <b>Renata Vieira</b>.</p>",
+    "secao": "Palestras Principais"
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Auditório Castilho",
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": "<p>Discussão com o tema <i>Transição de Carreira e Inclusão no Ecossistema de Startups</i>. Participam <b>Carla Maria Dal Sasso Freitas</b>, <b>Camila Rocha Schneider</b> e <b>Luciana Bourscheid</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": "Espaço de Convivência",
+    "dataInicio": "2026-05-14T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Encontro informal focado em <i>Maternidade e Carreira Acadêmica na Computação</i>, facilitado por <b>Profa. Mariana Prestes</b> e pela pós-graduanda <b>Aline Guimarães</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Workshop 1",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Oficina prática <i>Introdução ao Aprendizado Profundo com PyTorch para Detecção de Vieses Algorítmicos</i>, conduzida por <b>Beatriz Trindade</b> e <b>Fernanda Zanetti</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Workshop 2",
+    "lugar": "Laboratório 106",
+    "dataInicio": "2026-05-15T09:00:00-03:00",
+    "dataFim": "2026-05-15T12:00:00-03:00",
+    "descricao": "<p>Atividade prática <i>Fundamentos de Cibersegurança e Análise Forense de Redes</i>, ministrada por <b>Vanessa Braganholo</b> e <b>Gabriela Fontana</b>.</p>",
+    "secao": "Workshops Práticos"
+   },
+   {
+    "nome": "Sessão de Pôsteres e Relatos de Experiência",
+    "lugar": "Foyer Central",
+    "dataInicio": "2026-05-15T14:00:00-03:00",
+    "dataFim": "2026-05-15T16:30:00-03:00",
+    "descricao": "<p>Apresentação dos trabalhos de graduação e pós-graduação. Destaque para o trabalho <i>Plataforma Acessível de Apoio à Aprendizagem de Programação para Meninas da Rede Pública</i>, apresentado por <b>Letícia Nogueira</b> e orientado por <b>Luciana Salgado</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": "Auditório Castilho",
+    "dataInicio": "2026-05-15T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Conferência <i>Construindo Redes Sustentáveis de Apoio a Mulheres na Tecnologia</i> proferida por <b>Karin Becker</b>.</p>",
+    "secao": "Palestras Principais"
+   }
+  ]
+ }
+}
