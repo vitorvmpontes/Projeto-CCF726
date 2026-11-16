@@ -54,6 +54,13 @@ CASOS = {
 }
 
 
+# Estilos de programação (v1.1). "detalhado" é o da v1. "enxuto" imita posts,
+# cartazes e grades simples: poucas atividades, nomes diretos, quase sem
+# descrição e sem local. Casos que pedem descrição não fazem sentido nele.
+ESTILOS = ["detalhado", "enxuto"]
+CASOS_ENXUTO = ["nomes_repetidos", "sem_horario_fim", "sem_local", "intervalos", "atividades_paralelas"]
+
+
 @dataclass
 class EventoSpec:
     id: str
@@ -63,12 +70,18 @@ class EventoSpec:
     n_dias: int
     n_atividades: int
     casos: list[str] = field(default_factory=list)
+    estilo: str = "detalhado"
 
     def to_dict(self) -> dict:
         return asdict(self)
 
 
-def sortear_specs(n: int, semente: int = 42, ano_min: int = 2023, ano_max: int = 2027) -> list[EventoSpec]:
+def sortear_specs(n: int, semente: int = 42, ano_min: int = 2023, ano_max: int = 2027,
+                  estilo: str = "detalhado") -> list[EventoSpec]:
+    if estilo == "enxuto":
+        return _sortear_specs_enxutas(n, semente, ano_min, ano_max)
+    if estilo != "detalhado":
+        raise ValueError(f"estilo desconhecido: {estilo}")
     rng = random.Random(semente)
     specs = []
     for k in range(n):
@@ -83,5 +96,27 @@ def sortear_specs(n: int, semente: int = 42, ano_min: int = 2023, ano_max: int =
             n_dias=n_dias,
             n_atividades=n_ativ,
             casos=casos,
+        ))
+    return specs
+
+
+def _sortear_specs_enxutas(n: int, semente: int, ano_min: int, ano_max: int) -> list[EventoSpec]:
+    """Programações curtas: 1 a 3 dias, 2 a 6 atividades por dia (em média menos
+    que no estilo detalhado), sem casos que exigem descrição."""
+    rng = random.Random(semente)
+    specs = []
+    for k in range(n):
+        n_dias = rng.choices([1, 2, 3], weights=[50, 35, 15])[0]
+        n_ativ = rng.randint(2, 6 * n_dias)
+        casos = rng.sample(CASOS_ENXUTO, k=rng.randint(1, 3))
+        specs.append(EventoSpec(
+            id=f"sint-{semente}-{k:05d}",
+            tipo=rng.choice(TIPOS_EVENTO),
+            cidade=rng.choice(CIDADES),
+            ano=rng.randint(ano_min, ano_max),
+            n_dias=n_dias,
+            n_atividades=n_ativ,
+            casos=casos,
+            estilo="enxuto",
         ))
     return specs

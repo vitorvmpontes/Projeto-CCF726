@@ -4,16 +4,17 @@ Duas etapas:
 
 1. `gerar` (usa a API do professor; roda no seu computador, com GEMINI_API_KEY):
        python -m dataset_builder.build gerar --n-eventos 500
+       python -m dataset_builder.build gerar --n-eventos 300 --semente 43 --estilo enxuto
    Sorteia as especificações, chama o professor e salva um JSON por evento em
    data/sintetico/eventos/. Eventos já gerados são pulados (dá para retomar).
 
-3. `amostra`: sorteia exemplos para a revisão manual (data/processed/revisao/).
-
 2. `montar` (sem API):
        python -m dataset_builder.build montar
-   Limpa os eventos, renderiza cada um em N textos (layouts e ruídos
+   Limpa os eventos, renderiza cada um em N textos (layouts, ruídos e perfis
    sorteados), aplica os filtros, divide em treino/validação POR EVENTO e grava
    data/processed/train.jsonl, val.jsonl, estatisticas.json e DATA_CARD.md.
+
+3. `amostra`: sorteia exemplos para a revisão manual (data/processed/revisao/).
 """
 
 from __future__ import annotations
@@ -31,13 +32,17 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from .filters import aplicar_filtros, estimar_tokens, limpar_evento
-from .render import LAYOUTS, RUIDOS, renderizar
-from .spec import EventoSpec, sortear_specs
+from .render import LAYOUTS, PERFIS, RUIDOS, renderizar
+from .spec import ESTILOS, EventoSpec, sortear_specs
 from .teacher import MODELO_PADRAO, gerar_evento
 
 EVENTOS_DIR = Path("data/sintetico/eventos")
 SAIDA_DIR = Path("data/processed")
 PRECO = {"entrada": 0.75, "saida": 3.75}  # gemini-3.8-flash, USD por 1M tokens (até 31/12/2026)
+
+# Perfis de renderização (v1.1). Nas programações reais, a falta de local e de
+# descrição costuma valer para o documento inteiro; na v1 nenhum texto era assim.
+PESOS_PERFIL = {"completo": 0.40, "sem_lugar": 0.20, "sem_descricao": 0.10, "enxuto": 0.30}
 
 
 # --------------------------------------------------------------------------
@@ -53,7 +58,7 @@ def cmd_gerar(args) -> int:
 
     client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
     EVENTOS_DIR.mkdir(parents=True, exist_ok=True)
-    specs = sortear_specs(args.n_eventos, args.semente)
+    specs = sortear_specs(args.n_eventos, args.semente, estilo=args.estilo)
     pendentes = [s for s in specs if not (EVENTOS_DIR / f"{s.id}.json").exists()]
     print(f"{len(specs)} especificações; {len(specs) - len(pendentes)} já geradas; {len(pendentes)} a gerar "
           f"com {args.modelo} ({args.workers} em paralelo)")
@@ -93,6 +98,12 @@ def _sortear_ruidos(rng: random.Random) -> list[str]:
     return [r for r in RUIDOS if rng.random() < {"secoes": 0.5, "decorativo": 0.4, "quebra": 0.5, "ocr": 0.25}[r]]
 
 
+def _sortear_perfil(rng: random.Random, sem_perfis: bool) -> str:
+    if sem_perfis:
+        return "completo"
+    return rng.choices(PERFIS, weights=[PESOS_PERFIL[p] for p in PERFIS])[0]
+
+
 def cmd_montar(args) -> int:
     arquivos = sorted(EVENTOS_DIR.glob("*.json"))
     if not arquivos:
@@ -111,7 +122,7 @@ def cmd_montar(args) -> int:
         layouts = rng.sample(LAYOUTS, k=min(args.por_evento, len(LAYOUTS)))
         aprovados = 0
         for k, layout in enumerate(layouts):
-            r = renderizar(evento, layout, rng, _sortear_ruidos(rng))
+            r = renderizar(evento, layout, rng, _sortear_ruidos(rng), _sortear_perfil(rng, args.sem_perfis))
             motivos = aplicar_filtros(r.texto, r.atividades)
             if motivos:
                 rejeicoes.update(motivos)
@@ -119,7 +130,8 @@ def cmd_montar(args) -> int:
             aprovados += 1
             exemplos.append({
                 "id": f"{eid}-{k}", "evento_id": eid, "fonte": "sintetico",
-                "layout": r.layout, "ruidos": r.ruidos, "estilos": r.estilos,
+                "layout": r.layout, "ruidos": r.ruidos, "estilos": r.estilos, "perfil": r.perfil,
+                "estilo_evento": reg["spec"].get("estilo", "detalhado"),
                 "tipo_evento": reg["spec"]["tipo"], "casos": reg["spec"]["casos"],
                 "modelo_professor": reg["modelo"],
                 "n_atividades": len(r.atividades), "tokens_estimados": estimar_tokens(r.texto, r.atividades),
@@ -157,9 +169,15 @@ def estatisticas(arquivos, train, val, rejeicoes, args) -> dict:
         return dict(Counter(e[chave] for e in todos).most_common())
 
     toks = sorted(e["tokens_estimados"] for e in todos) or [0]
+    acts = [a for e in todos for a in e["atividades"]]
+
+    def frac(n, d):
+        return round(n / d, 3) if d else 0
+
     return {
         "gerado_em": datetime.now(timezone.utc).isoformat(timespec="seconds"),
-        "parametros": {"por_evento": args.por_evento, "val": args.val, "semente": args.semente},
+        "parametros": {"por_evento": args.por_evento, "val": args.val, "semente": args.semente,
+                       "pesos_perfil": None if args.sem_perfis else PESOS_PERFIL},
         "eventos_gerados": len(arquivos),
         "eventos_aprovados": len({e["evento_id"] for e in todos}),
         "exemplos": {"train": len(train), "val": len(val), "total": len(todos)},
@@ -169,6 +187,15 @@ def estatisticas(arquivos, train, val, rejeicoes, args) -> dict:
         "ruidos": dict(Counter(r for e in todos for r in e["ruidos"]).most_common()),
         "caixa_alta": {"exemplos": sum(1 for e in todos if e["estilos"].get("maiusculas")),
                        "fracao": round(sum(1 for e in todos if e["estilos"].get("maiusculas")) / len(todos), 3) if todos else 0},
+        "perfis": dist("perfil"),
+        "estilos_evento": dist("estilo_evento"),
+        "campos_ausentes": {
+            "atividades_sem_lugar": frac(sum(1 for a in acts if not a["lugar"]), len(acts)),
+            "atividades_sem_descricao": frac(sum(1 for a in acts if not a["descricao"]), len(acts)),
+            "atividades_sem_fim": frac(sum(1 for a in acts if not a["dataFim"]), len(acts)),
+            "textos_sem_nenhum_lugar": frac(sum(1 for e in todos if not any(a["lugar"] for a in e["atividades"])), len(todos)),
+            "textos_sem_nenhuma_descricao": frac(sum(1 for e in todos if not any(a["descricao"] for a in e["atividades"])), len(todos)),
+        },
         "tipos_evento": dist("tipo_evento"),
         "casos": dict(Counter(c for e in todos for c in e["casos"]).most_common()),
         "tokens_estimados": {"p50": toks[len(toks) // 2], "p95": toks[int(0.95 * (len(toks) - 1))], "max": toks[-1]},
@@ -179,15 +206,15 @@ def data_card(s: dict) -> str:
     def tab(d):
         return "\n".join(f"| {k} | {v} |" for k, v in d.items())
 
-    return f"""# Data card — dataset de treino/validação (fonte B: sintético)
+    return f"""# Data card — dataset de treino/validação (fonte B: sintético, v1.1)
 
 Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 
 ## Como foi construído
 
-1. Especificações de eventos sorteadas (`dataset_builder/spec.py`): tipo, cidade, ano, dias, número de atividades e casos difíceis.
+1. Especificações de eventos sorteadas (`dataset_builder/spec.py`): tipo, cidade, ano, dias, número de atividades, casos difíceis e estilo (detalhado ou enxuto).
 2. O professor (Gemini) inventa cada evento já no formato do gabarito (`dataset_builder/teacher.py`).
-3. O código renderiza cada evento como texto bruto, em layouts e com ruídos variados (`dataset_builder/render.py`). Como o texto vem do rótulo, o rótulo é correto por construção.
+3. O código renderiza cada evento como texto bruto, em layouts, ruídos e perfis variados (`dataset_builder/render.py`). O perfil apaga local e/ou descrição do texto e do rótulo ao mesmo tempo. Como o texto vem do rótulo, o rótulo é correto por construção.
 4. Filtros (`dataset_builder/filters.py`): schema, ancoragem (nome e local presentes no texto), datas (ano inferível do texto, fim ≥ início), tamanho e vazamento (nomes parecidos com os do conjunto de teste).
 5. Divisão treino/validação **por evento** (`val` = {s['parametros']['val']}).
 
@@ -201,6 +228,22 @@ Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 | Exemplos de validação | {s['exemplos']['val']} ({s['atividades']['val']} atividades) |
 | Exemplos com nomes em CAIXA ALTA | {s['caixa_alta']['exemplos']} ({100 * s['caixa_alta']['fracao']:.0f}%) |
 | Tokens estimados (p50 / p95 / máx.) | {s['tokens_estimados']['p50']} / {s['tokens_estimados']['p95']} / {s['tokens_estimados']['max']} |
+
+### Estilos de evento e perfis de renderização
+
+| Estilo do evento | Exemplos |
+|---|---|
+{tab(s['estilos_evento'])}
+
+| Perfil | Exemplos |
+|---|---|
+{tab(s['perfis'])}
+
+### Campos ausentes
+
+| | Fração |
+|---|---|
+{tab(s['campos_ausentes'])}
 
 ### Rejeições
 
@@ -222,7 +265,8 @@ Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 
 ## Limitações conhecidas
 
-- Texto renderizado por código: mais regular que programações reais. A fonte A (crawler + professor) entra para compensar.
+- Só dados sintéticos: o texto é renderizado por código e é mais regular que programações reais. Dados reais (crawler + professor) ficaram para trabalho futuro.
+- Os pesos dos perfis foram calibrados pela proporção agregada de programações sem local/descrição no conjunto de teste (nenhum texto nem rótulo do teste é usado).
 - O ano sempre aparece em algum lugar do texto (decisão da Fase 5), para o rótulo ser inferível.
 - Grades com horários separados dos nomes (como a SECOM2024) não são geradas, porque a associação horário→atividade seria impossível a partir do texto.
 - O conjunto de teste (`data/test/`) nunca é usado aqui, exceto pelo filtro de vazamento, que o compara para excluir exemplos parecidos.
@@ -288,10 +332,12 @@ def main() -> int:
     g.add_argument("--modelo", default=MODELO_PADRAO)
     g.add_argument("--semente", type=int, default=42)
     g.add_argument("--workers", type=int, default=4)
+    g.add_argument("--estilo", choices=ESTILOS, default="detalhado")
     m = sub.add_parser("montar", help="renderiza, filtra e divide (sem API)")
     m.add_argument("--por-evento", type=int, default=2, help="textos renderizados por evento")
     m.add_argument("--val", type=float, default=0.15, help="fração de EVENTOS na validação")
     m.add_argument("--semente", type=int, default=42)
+    m.add_argument("--sem-perfis", action="store_true", help="renderiza tudo no perfil completo (como a v1)")
     a = sub.add_parser("amostra", help="gera a amostra para revisão manual")
     a.add_argument("--n", type=int, default=12, help="número de exemplos (dividido entre os layouts)")
     a.add_argument("--semente", type=int, default=7)

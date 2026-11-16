@@ -27,6 +27,8 @@ A seção de trabalhos futuros do TCC propõe substituir o LLM generalista por u
 
 **Objetivo deste projeto:** treinar, avaliar e colocar em produção um SLM que substitua o Gemini **apenas na fase 2** do pipeline, comparando-o com a baseline do TCC.
 
+> **Escopo revisado (2026-11-16).** Com o prazo curto, o objetivo da disciplina passou a ser **treinar o SLM e documentar o processo**: dataset sintético, fine-tuning iterativo, avaliação no conjunto de teste e artigo. O SLM é comparado com os números já calculados do Gemini 2.0-Flash, sem novos experimentos com LLMs. Ficam para a pesquisa de 2027: dados reais (crawler), triagem de vários modelos base, métricas de eficiência, ablações e integração ao myMobiConf. As seções abaixo marcam o que foi adiado; o roadmap atual está em `ROADMAP.md`.
+
 **Fora do escopo** (trabalho futuro 2 do TCC): tratar layout espacial (VLMs ou bounding boxes). Essa limitação continua existindo, porque o SLM recebe o mesmo texto linearizado. Isso deve ficar explícito no artigo.
 
 ---
@@ -34,9 +36,9 @@ A seção de trabalhos futuros do TCC propõe substituir o LLM generalista por u
 ## 2. Perguntas de pesquisa
 
 - **QP1.** Um SLM ajustado com fine-tuning atinge desempenho de detecção (F1) comparável ao Gemini 2.0-Flash no mesmo conjunto de teste?
-- **QP2.** Qual modelo base (família e tamanho) rende o melhor resultado nesta tarefa, em português?
-- **QP3.** Quanto o fine-tuning melhora em relação ao mesmo modelo usado em zero/few-shot?
-- **QP4.** Qual o ganho em eficiência (latência, throughput, memória, custo) do SLM local em relação à API?
+- **QP2.** Qual modelo base (família e tamanho) rende o melhor resultado nesta tarefa, em português? — *adiada (2026-11-16)*
+- **QP3.** Quanto o fine-tuning melhora em relação ao mesmo modelo usado em zero/few-shot? — *opcional, se sobrar tempo*
+- **QP4.** Qual o ganho em eficiência (latência, throughput, memória, custo) do SLM local em relação à API? — *adiada (2026-11-16)*
 
 ---
 
@@ -48,6 +50,7 @@ A seção de trabalhos futuros do TCC propõe substituir o LLM generalista por u
 | Conjunto de teste | 10 eventos, 18 arquivos (HTML, PDF, XLS, imagem), 324 atividades |
 | Ground truth | https://github.com/vitorvmpontes/dataset-extracao-eventos |
 | Detecção (micro) | Precisão 88,75% · Revocação 90,12% · **F1 89,43%** |
+| Detecção com o gabarito revisado (2026-10-05) | Precisão 89,36% · Revocação 90,74% · **F1 90,05%** — referência usada no artigo |
 | Acurácia por campo | Tabela 2 do TCC (por arquivo) |
 
 **Decisões sobre a baseline**
@@ -62,6 +65,8 @@ A seção de trabalhos futuros do TCC propõe substituir o LLM generalista por u
 ## 4. Dataset
 
 ### 4.1 Fontes
+
+> **Atualização (2026-11-16):** só a fonte B entra neste projeto. A fonte A (crawler + professor) foi adiada para 2027. A validação também é sintética (divisão por evento).
 
 O treino precisa de exemplos (texto bruto → JSON de atividades) em volume muito maior que os 324 do teste. Serão combinadas duas fontes:
 
@@ -201,6 +206,8 @@ Validações:
 
 ### 6.3 Protocolo de seleção
 
+> **Atualização (2026-11-16):** a triagem de vários candidatos foi adiada. Escolhe-se **uma família, até dois tamanhos**, pelos critérios da seção 6.1 e pela GPU do Colab; o protocolo abaixo fica para 2027.
+
 1. **Triagem zero/few-shot**: todos os candidatos, com o mesmo prompt curto, no `val`. Métricas da seção 8.
 2. **Fine-tuning** dos 2–3 melhores da triagem, com o mesmo dataset e a mesma configuração-base.
 3. **Busca de hiperparâmetros** (seção 7) apenas nos finalistas.
@@ -250,6 +257,8 @@ Isso responde QP2 e QP3 e gera a tabela principal do artigo: modelo × (zero-sho
 
 ### 8.2 Métricas de eficiência (novas)
 
+> *Adiadas (2026-11-16).*
+
 - Latência por programação (média e p95) e tempo até o primeiro token.
 - Throughput (tokens/s de geração).
 - Pico de memória (VRAM/RAM).
@@ -265,6 +274,8 @@ Isso responde QP2 e QP3 e gera a tabela principal do artigo: modelo × (zero-sho
 
 ### 8.4 Ablações planejadas
 
+> *Adiadas (2026-11-16), exceto, se sobrar tempo, zero-shot × fine-tuned.*
+
 - Zero-shot × fine-tuned (mesmo modelo base).
 - Tamanho do modelo (4B × 8B/12B na mesma família).
 - Quantização Q4_K_M × Q8_0 (qualidade × eficiência).
@@ -273,6 +284,8 @@ Isso responde QP2 e QP3 e gera a tabela principal do artigo: modelo × (zero-sho
 ---
 
 ## 9. Produção / integração
+
+> *Adiada (2026-11-16).* Os arquivos do teste do `saulin_v2` na raiz (`main.py`, `ModelFile`, `prompt.txt`, `systemPrompt.txt`) não seguem as decisões abaixo e devem sair da raiz.
 
 - **Proposto**: servir o modelo via **Ollama** na máquina local, com uma API (FastAPI) que recebe o texto bruto e devolve o JSON final (após o pós-processamento). Ela substitui a chamada ao Gemini no backend NestJS do myMobiConf.
 - Correções necessárias no `main.py` atual:
@@ -355,37 +368,32 @@ Projeto-CCF726/
 | 2026-10-21 | v1 com ~1.000 exemplos (500 eventos × 2 textos) | Decidido | Crescer só se a curva de aprendizado na validação pedir |
 | 2026-10-21 | O ano sempre aparece no texto sintético | Decidido | O rótulo precisa ser inferível do texto (decisão de inferir o ano do texto) |
 | 2026-10-21 | Não gerar grades com horários separados dos nomes | Decidido | Associação horário→atividade impossível pelo texto; ensinaria a alucinar |
+| 2026-11-16 | **Escopo reduzido:** treinar o SLM, documentar e escrever o artigo; comparação aprofundada com LLMs fica para 2027 | Decidido | Prazo da entrega final (02/12/2026) |
+| 2026-11-16 | Adiados: fonte A/crawler/S3, triagem de vários modelos base, eficiência, ablações, produção | Decidido | Consequência da redução de escopo |
+| 2026-11-16 | SLM ainda é avaliado no teste, com o Gemini 2.0-Flash (números já calculados) como referência | Decidido | Sem resultado no teste o artigo não mostra se o modelo funciona; custo quase zero |
+| 2026-11-16 | Revisão manual da amostra não bloqueia o treino; entra no artigo como taxa de erro do professor | Decidido | Não travar o cronograma |
+| 2026-11-16 | Nomes com tema após ":" ou " - " (ex.: "Sessão Técnica 1: Genômica") aceitos como nome oficial | Decidido | Programações reais trazem o nome assim; o teste tem casos parecidos |
+| 2026-11-16 | v1.1: perfis de renderização (`completo` 40% / `sem_lugar` 20% / `sem_descricao` 10% / `enxuto` 30%) | Decidido | No teste, a ausência de local/descrição é por programação (8/17 sem local, 7/17 sem descrição); na v1, nenhum texto era assim. Os pesos usam só essa proporção agregada do teste, o que fica registrado como limitação |
+| 2026-11-16 | v1.1: +300 eventos no estilo `enxuto` (semente 43) | Decidido | Diversidade de eventos curtos, não só de renderização |
 
 ---
 
 ## 13. Tarefas (roadmap)
 
-### Até a 2ª entrega parcial (09/11/2026)
-
-- [ ] Revisão da literatura: SLMs para extração de informação, destilação de LLMs, fine-tuning com LoRA/QLoRA
-- [ ] Fechar a contagem de arquivos do teste (17 × 18) e congelar os textos brutos do teste
-- [ ] Portar o script de avaliação do TCC para `evaluation/` e reproduzir os números da baseline
-- [ ] Definir o schema final de saída do SLM e implementar o pós-processamento de datas, com testes
-- [ ] Implementar o crawler e o armazenamento no S3
-- [ ] Escolher o LLM professor e gerar o dataset (fontes A e B) com os filtros de qualidade
-- [ ] Análise exploratória do dataset (distribuição de tokens, formatos, atividades por evento)
-- [ ] Triagem zero/few-shot dos candidatos no `val`
-
-### Até a entrega final (02/12/2026)
-
-- [ ] Fine-tuning dos finalistas e busca de hiperparâmetros
-- [ ] Avaliação final no teste (qualidade + eficiência), bootstrap e ablações
-- [ ] Análise de erros qualitativa
-- [ ] Publicar modelos no Hugging Face Hub; atualizar o `ModelFile` e a API de inferência
-- [ ] Integração com o myMobiConf (substituir a chamada ao Gemini)
-- [ ] Artigo (≤ 8 páginas) e apresentação (10 min)
+As tarefas e o andamento ficam em `ROADMAP.md` (fora do git). Esta seção listava o plano original, antes da revisão de escopo de 2026-11-16.
 
 ---
 
 ## 14. Questões em aberto
 
-1. Qual LLM professor usar para rotular/gerar os dados?
-2. `descricao` em HTML gerado pelo modelo ou montado por código?
-3. Tamanho-alvo do dataset de treino.
-4. Hardware exato de produção (para medir eficiência e definir a quantização).
-5. Regra de anotação dos gabaritos (o que conta como `nome` da atividade).
+Resolvidas:
+
+1. ~~LLM professor~~ → `gemini-3.8-flash` (2026-10-21).
+2. ~~`descricao` em HTML pelo modelo ou por código~~ → modelo gera, código sanitiza (2026-10-21).
+3. ~~Tamanho-alvo do dataset~~ → v1 com ~1.000 exemplos; v1.1 com ~1.600; crescer só se a validação pedir.
+4. ~~Regra de anotação do `nome`~~ → `data/test/ANOTACAO.md` (2026-10-05); nomes com tema aceitos (2026-11-16).
+
+Em aberto:
+
+1. Modelo base (família e tamanho) — decidir na Fase 6 do roadmap.
+2. Hardware de produção — adiado com a integração.

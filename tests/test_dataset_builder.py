@@ -7,8 +7,8 @@ from pathlib import Path
 import pytest
 
 from dataset_builder.filters import aplicar_filtros, filtro_ancoragem, filtro_vazamento, limpar_evento
-from dataset_builder.render import LAYOUTS, RUIDOS, renderizar
-from dataset_builder.spec import sortear_specs
+from dataset_builder.render import LAYOUTS, PERFIS, RUIDOS, renderizar
+from dataset_builder.spec import CASOS_ENXUTO, sortear_specs
 from dataset_builder.teacher import RESPONSE_SCHEMA, montar_prompt
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -99,3 +99,45 @@ def test_vazamento_detecta_evento_do_teste():
     assert filtro_vazamento("", gt, str(ROOT / "data/test")) == ["vazamento_teste"]
     genericos = [{"nome": f"Sessão Técnica de Artigos {i}"} for i in range(10)]
     assert filtro_vazamento("", genericos, str(ROOT / "data/test")) == []
+
+
+# --------------------------------------------------------------------------
+# v1.1: perfis de renderização e estilo enxuto
+# --------------------------------------------------------------------------
+
+@pytest.mark.parametrize("perfil", PERFIS)
+@pytest.mark.parametrize("layout", LAYOUTS)
+def test_perfil_apaga_campo_do_texto_e_do_rotulo(perfil, layout):
+    r = renderizar(EVENTO, layout, random.Random(4), ["secoes"], perfil)
+    assert aplicar_filtros(r.texto, r.atividades) == []
+    assert r.perfil == perfil
+    sem_lugar = perfil in ("sem_lugar", "enxuto")
+    sem_desc = perfil in ("sem_descricao", "enxuto")
+    assert all(a["lugar"] is None for a in r.atividades) == sem_lugar
+    assert all(a["descricao"] is None for a in r.atividades) == sem_desc
+    if sem_lugar:
+        assert "lab 3" not in r.texto.lower()
+    if sem_desc:
+        assert "ana souza" not in r.texto.lower()
+    assert EVENTO["atividades"][1]["lugar"] == "Lab 3"  # o evento original não é alterado
+
+
+def test_perfil_desconhecido():
+    with pytest.raises(ValueError):
+        renderizar(EVENTO, "lista", random.Random(0), [], "inexistente")
+
+
+def test_specs_enxutas():
+    a = sortear_specs(50, 43, estilo="enxuto")
+    assert [s.to_dict() for s in a] == [s.to_dict() for s in sortear_specs(50, 43, estilo="enxuto")]
+    assert all(s.estilo == "enxuto" and 2 <= s.n_atividades <= 6 * s.n_dias for s in a)
+    assert all(c in CASOS_ENXUTO for s in a for c in s.casos)
+    assert "ENXUTA" in montar_prompt(a[0])
+    assert "ENXUTA" not in montar_prompt(sortear_specs(1, 42)[0])
+
+
+def test_specs_detalhadas_nao_mudaram_com_a_v11():
+    # os 500 eventos da v1 foram gerados com estas especificações
+    s = sortear_specs(3, 42)
+    assert [x.id for x in s] == ["sint-42-00000", "sint-42-00001", "sint-42-00002"]
+    assert all(x.estilo == "detalhado" for x in s)

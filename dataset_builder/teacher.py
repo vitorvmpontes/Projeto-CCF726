@@ -27,7 +27,7 @@ Evento:
 - Número de atividades: exatamente {n_atividades}
 - Situações que DEVEM aparecer:
 {casos}
-
+{estilo}
 Regras de cada atividade (são as mesmas regras do gabarito de avaliação):
 - "nome": EXATAMENTE o nome da atividade, como apareceria na programação. Não coloque palestrante,
   tema, subtítulo, horário nem local no nome. Ex.: "Mesa-redonda 2", e não "Mesa-redonda 2: Avaliação e
@@ -50,6 +50,11 @@ Diversidade (importante — o dataset terá centenas de eventos):
 - "secao" agrupa VÁRIAS atividades do mesmo tipo (ex.: 3 minicursos em "Minicursos"); não crie
   uma seção para cada atividade. Atividades isoladas ficam com "secao": null.
 Ordene as atividades por data e horário.
+"""
+
+ESTILO_ENXUTO = """- Estilo: programação ENXUTA, como num post de rede social, cartaz ou grade simples. Nomes
+  curtos e diretos. A maioria das atividades tem "descricao": null; no máximo algumas têm uma
+  frase curta. "lugar" só quando o evento usa salas diferentes; senão null.
 """
 
 RESPONSE_SCHEMA = {
@@ -85,6 +90,7 @@ def montar_prompt(spec: EventoSpec) -> str:
     return PROMPT.format(
         tipo=spec.tipo, cidade=spec.cidade, ano=spec.ano, n_dias=spec.n_dias,
         n_atividades=spec.n_atividades, casos=casos,
+        estilo=ESTILO_ENXUTO if getattr(spec, "estilo", "detalhado") == "enxuto" else "",
     )
 
 

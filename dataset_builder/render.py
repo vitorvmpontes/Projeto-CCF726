@@ -13,6 +13,15 @@ Layouts:
 - cartaz:   estilo arte de divulgação passada por OCR: CAIXA ALTA, horário em linha separada,
             textos decorativos
 
+Perfis (v1.1): o que a programação informa. Nas programações reais, a ausência
+de local e de descrição costuma valer para o documento inteiro (muitas não
+informam local de nenhuma atividade). O perfil apaga o campo do texto E do
+rótulo ao mesmo tempo, então o rótulo continua correto por construção.
+- completo:       como o professor gerou
+- sem_lugar:      nenhuma atividade com local
+- sem_descricao:  nenhuma atividade com descrição
+- enxuto:         nem local nem descrição (estilo post/cartaz/grade simples)
+
 Ruídos (independentes do layout):
 - secoes:      cabeçalhos de seção que NÃO são atividades
 - decorativo:  linhas soltas de patrocínio, redes sociais, avisos
@@ -31,6 +40,7 @@ from dataclasses import dataclass, field
 from datetime import datetime
 
 LAYOUTS = ["lista", "tabela", "colunas", "cartaz"]
+PERFIS = ["completo", "sem_lugar", "sem_descricao", "enxuto"]
 RUIDOS = ["secoes", "decorativo", "quebra", "ocr"]
 
 DIAS_SEMANA = ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado", "Domingo"]
@@ -49,6 +59,7 @@ class Renderizado:
     atividades: list[dict]  # rótulos, no schema da Fase 3
     layout: str
     ruidos: list[str] = field(default_factory=list)
+    perfil: str = "completo"
     estilos: dict = field(default_factory=dict)
 
 
@@ -142,12 +153,30 @@ def _sigla(nome_evento: str) -> str:
 # Renderização
 # --------------------------------------------------------------------------
 
-def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] | None = None) -> Renderizado:
+def aplicar_perfil(atividades: list[dict], perfil: str) -> list[dict]:
+    """Copia as atividades apagando os campos que o perfil não informa."""
+    if perfil not in PERFIS:
+        raise ValueError(f"perfil desconhecido: {perfil}")
+    sem_lugar = perfil in ("sem_lugar", "enxuto")
+    sem_desc = perfil in ("sem_descricao", "enxuto")
+    out = []
+    for a in atividades:
+        a = dict(a)
+        if sem_lugar:
+            a["lugar"] = None
+        if sem_desc:
+            a["descricao"] = None
+        out.append(a)
+    return out
+
+
+def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] | None = None,
+               perfil: str = "completo") -> Renderizado:
     """`evento` = {"evento": {...}, "atividades": [...]} vindo do professor (já limpo)."""
     ruidos = list(ruidos or [])
     info = evento.get("evento", {}) or {}
     nome_evento = (info.get("nome") or "Programação").strip()
-    acts = sorted(evento["atividades"], key=lambda a: (a["dataInicio"] or "", a["nome"]))
+    acts = sorted(aplicar_perfil(evento["atividades"], perfil), key=lambda a: (a["dataInicio"] or "", a["nome"]))
     ano = _dt(acts[0]["dataInicio"]).year if acts and acts[0]["dataInicio"] else datetime.now().year
     sigla = _sigla(nome_evento)
 
@@ -256,4 +285,4 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
         linhas += ["", rng.choice(["Realização", "Apoio"]) + ":", f"@{sigla}"]
 
     texto = "\n".join(linhas).strip() + "\n"
-    return Renderizado(texto=texto, atividades=rotulos, layout=layout, ruidos=ruidos, estilos=estilos)
+    return Renderizado(texto=texto, atividades=rotulos, layout=layout, ruidos=ruidos, estilos=estilos, perfil=perfil)
