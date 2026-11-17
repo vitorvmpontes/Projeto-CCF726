@@ -375,6 +375,11 @@ Projeto-CCF726/
 | 2026-11-16 | Nomes com tema após ":" ou " - " (ex.: "Sessão Técnica 1: Genômica") aceitos como nome oficial | Decidido | Programações reais trazem o nome assim; o teste tem casos parecidos |
 | 2026-11-16 | v1.1: perfis de renderização (`completo` 40% / `sem_lugar` 20% / `sem_descricao` 10% / `enxuto` 30%) | Decidido | No teste, a ausência de local/descrição é por programação (8/17 sem local, 7/17 sem descrição); na v1, nenhum texto era assim. Os pesos usam só essa proporção agregada do teste, o que fica registrado como limitação |
 | 2026-11-16 | v1.1: +300 eventos no estilo `enxuto` (semente 43) | Decidido | Diversidade de eventos curtos, não só de renderização |
+| 2026-11-16 | Os 300 eventos enxutos foram gerados pelo Claude (`claude-opus-5-5`, sessão do Cowork), não pelo Gemini; mesmas regras do prompt e mesmos filtros | Decidido | Sem créditos no Google AI Studio; registrado no campo `modelo` de cada evento e no data card. O dataset passa a ter dois professores |
+| 2026-11-16 | Qualidade dos rótulos medida por LLM como juiz (Claude) em 80 exemplos/923 atividades, com conferência humana de 20 vereditos | Decidido | Mais cobertura que a revisão manual de 12 exemplos com pouco tempo do Vitor. Limitação: o juiz é o mesmo modelo que gerou os eventos enxutos (viés de autoavaliação), por isso a conferência humana |
+| 2026-11-17 | Conferência humana de 20 vereditos do juiz: 20/20 de acordo | Concluído | Taxa de erro estimada 0,2% (2/923, ambos bugs do renderizador já corrigidos) |
+| 2026-11-17 | Treino no Colab gratuito (Tesla T4, 16 GB) | Decidido | Recurso disponível |
+| 2026-11-17 | Modelo base: **Gemma 4 E4B** (principal) e **E2B** (rodadas rápidas e comparação de tamanho), QLoRA 4-bit com Unsloth, template sem *thinking* | Decidido | Cabem no T4 com QLoRA (Unsloth recomenda QLoRA no E4B; ~10 GB); Apache 2.0; contexto 128k. Qwen3.5 descartado: o Unsloth desaconselha QLoRA nele (só LoRA 16-bit, apertado no T4 com 8k) e é mais lento no T4 |
 
 ---
 
@@ -395,5 +400,5 @@ Resolvidas:
 
 Em aberto:
 
-1. Modelo base (família e tamanho) — decidir na Fase 6 do roadmap.
+1. ~~Modelo base~~ → Gemma 4 E4B + E2B (2026-11-17).
 2. Hardware de produção — adiado com a integração.

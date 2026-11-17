@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-43-00119",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Brasília - DF",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Geografia da UnB 2023",
+   "local_geral": "Instituto de Ciências Humanas"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-05-09T09:00:00-03:00",
+    "dataFim": "2023-05-09T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-05-09T09:30:00-03:00",
+    "dataFim": "2023-05-09T11:00:00-03:00",
+    "descricao": "<p>Com <b>Prof. Henrique Albuquerque</b> sobre águas do Cerrado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de QGIS",
+    "lugar": null,
+    "dataInicio": "2023-05-09T14:00:00-03:00",
+    "dataFim": "2023-05-09T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com Egressos",
+    "lugar": null,
+    "dataInicio": "2023-05-09T19:00:00-03:00",
+    "dataFim": "2023-05-09T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Trabalho de Campo",
+    "lugar": null,
+    "dataInicio": "2023-05-10T07:30:00-03:00",
+    "dataFim": "2023-05-10T12:00:00-03:00",
+    "descricao": "<p>Saída para a Chapada da Contagem.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de QGIS",
+    "lugar": null,
+    "dataInicio": "2023-05-10T08:30:00-03:00",
+    "dataFim": "2023-05-10T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2023-05-10T14:00:00-03:00",
+    "dataFim": "2023-05-10T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-05-10T16:30:00-03:00",
+    "dataFim": "2023-05-10T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-43-00070",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Mineiro de Cidades Resilientes 2024",
+   "local_geral": "Escola de Arquitetura da UFMG"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2024-08-27T08:00:00-03:00",
+    "dataFim": "2024-08-27T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-08-27T08:30:00-03:00",
+    "dataFim": "2024-08-27T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Drenagem Urbana e Eventos Extremos",
+    "lugar": null,
+    "dataInicio": "2024-08-27T09:00:00-03:00",
+    "dataFim": "2024-08-27T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café",
+    "lugar": null,
+    "dataInicio": "2024-08-27T10:30:00-03:00",
+    "dataFim": "2024-08-27T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Mapeamento de Risco",
+    "lugar": "Sala 301",
+    "dataInicio": "2024-08-27T10:45:00-03:00",
+    "dataFim": "2024-08-27T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Hortas Urbanas",
+    "lugar": "Sala 302",
+    "dataInicio": "2024-08-27T10:45:00-03:00",
+    "dataFim": "2024-08-27T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-08-27T12:30:00-03:00",
+    "dataFim": "2024-08-27T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Pôsteres",
+    "lugar": "Hall Térreo",
+    "dataInicio": "2024-08-28T08:00:00-03:00",
+    "dataFim": "2024-08-28T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Arborização Urbana e Ilhas de Calor",
+    "lugar": null,
+    "dataInicio": "2024-08-28T09:00:00-03:00",
+    "dataFim": "2024-08-28T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café",
+    "lugar": null,
+    "dataInicio": "2024-08-28T10:30:00-03:00",
+    "dataFim": "2024-08-28T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Leitura da Carta de BH pelo Clima",
+    "lugar": null,
+    "dataInicio": "2024-08-28T11:00:00-03:00",
+    "dataFim": "2024-08-28T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

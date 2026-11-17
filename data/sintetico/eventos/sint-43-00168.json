@@ -1,0 +1,116 @@
+{
+ "spec": {
+  "id": "sint-43-00168",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Niterói - RJ",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Nacional de Engenharia de Petróleo e Gás - CONEPG 2025",
+   "local_geral": "Campus Praia Vermelha - UFF"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-10-14T08:00:00-03:00",
+    "dataFim": "2025-10-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": null,
+    "dataInicio": "2025-10-14T09:00:00-03:00",
+    "dataFim": "2025-10-14T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2025-10-14T10:00:00-03:00",
+    "dataFim": "2025-10-14T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral A",
+    "lugar": null,
+    "dataInicio": "2025-10-14T10:30:00-03:00",
+    "dataFim": "2025-10-14T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões de Artigos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-14T12:30:00-03:00",
+    "dataFim": "2025-10-14T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral B",
+    "lugar": null,
+    "dataInicio": "2025-10-14T14:00:00-03:00",
+    "dataFim": "2025-10-14T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões de Artigos"
+   },
+   {
+    "nome": "Sessão Oral C",
+    "lugar": null,
+    "dataInicio": "2025-10-15T08:30:00-03:00",
+    "dataFim": "2025-10-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões de Artigos"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2025-10-15T10:30:00-03:00",
+    "dataFim": "2025-10-15T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral D",
+    "lugar": null,
+    "dataInicio": "2025-10-15T11:00:00-03:00",
+    "dataFim": "2025-10-15T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões de Artigos"
+   },
+   {
+    "nome": "Painel Transição Energética Offshore",
+    "lugar": null,
+    "dataInicio": "2025-10-15T14:00:00-03:00",
+    "dataFim": "2025-10-15T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Premiação",
+    "lugar": null,
+    "dataInicio": "2025-10-15T16:00:00-03:00",
+    "dataFim": "2025-10-15T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00038",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Rio Dev Experience 2025",
+   "local_geral": "Armazém da Utopia"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": "Recepção",
+    "dataInicio": "2025-10-04T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café com Recrutadores",
+    "lugar": "Lounge de Carreiras",
+    "dataInicio": "2025-10-04T09:00:00-03:00",
+    "dataFim": "2025-10-04T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

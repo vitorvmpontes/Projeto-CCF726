@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00132",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Brasília - DF",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Distrital de Professores dos Anos Iniciais 2023",
+   "local_geral": "Escola de Aperfeiçoamento dos Profissionais da Educação"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida Cultural",
+    "lugar": null,
+    "dataInicio": "2023-04-14T08:00:00-03:00",
+    "dataFim": "2023-04-14T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2023-04-14T08:30:00-03:00",
+    "dataFim": "2023-04-14T10:00:00-03:00",
+    "descricao": "<p><i>Alfabetização na idade certa</i>, com <b>Profa. Kátia Valadares</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Jogos Matemáticos",
+    "lugar": null,
+    "dataInicio": "2023-04-14T10:15:00-03:00",
+    "dataFim": "2023-04-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Jogos Matemáticos",
+    "lugar": null,
+    "dataInicio": "2023-04-14T14:00:00-03:00",
+    "dataFim": "2023-04-14T15:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Socialização das Práticas",
+    "lugar": null,
+    "dataInicio": "2023-04-14T16:00:00-03:00",
+    "dataFim": "2023-04-14T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

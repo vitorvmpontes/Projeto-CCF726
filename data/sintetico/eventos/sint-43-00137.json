@@ -1,0 +1,54 @@
+{
+ "spec": {
+  "id": "sint-43-00137",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum da CPA do IFPB 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório da Reitoria",
+    "dataInicio": "2026-09-29T09:00:00-03:00",
+    "dataFim": "2026-09-29T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura dos Resultados",
+    "lugar": "Sala 101",
+    "dataInicio": "2026-09-29T09:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura dos Resultados",
+    "lugar": "Sala 102",
+    "dataInicio": "2026-09-29T09:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,124 @@
+{
+ "spec": {
+  "id": "sint-43-00248",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Florianópolis - SC",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 12,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova SC 2027",
+   "local_geral": "CentroSul Florianópolis"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": null,
+    "dataInicio": "2027-08-10T09:00:00-03:00",
+    "dataFim": "2027-08-10T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Maricultura e Inovação",
+    "lugar": null,
+    "dataInicio": "2027-08-10T10:30:00-03:00",
+    "dataFim": "2027-08-10T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Painéis"
+   },
+   {
+    "nome": "Painel Rastreabilidade na Cadeia da Maçã",
+    "lugar": null,
+    "dataInicio": "2027-08-10T14:00:00-03:00",
+    "dataFim": "2027-08-10T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Painéis"
+   },
+   {
+    "nome": "Desafio de Startups",
+    "lugar": null,
+    "dataInicio": "2027-08-10T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Crédito de Carbono no Campo",
+    "lugar": null,
+    "dataInicio": "2027-08-11T09:00:00-03:00",
+    "dataFim": "2027-08-11T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Drones de Pulverização",
+    "lugar": null,
+    "dataInicio": "2027-08-11T10:30:00-03:00",
+    "dataFim": "2027-08-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Sucessão Familiar no Agro",
+    "lugar": null,
+    "dataInicio": "2027-08-11T14:00:00-03:00",
+    "dataFim": "2027-08-11T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Painéis"
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-08-11T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra IA na Produção de Leite",
+    "lugar": null,
+    "dataInicio": "2027-08-12T09:00:00-03:00",
+    "dataFim": "2027-08-12T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Final do Desafio de Startups",
+    "lugar": null,
+    "dataInicio": "2027-08-12T10:30:00-03:00",
+    "dataFim": "2027-08-12T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2027-08-12T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2027-08-12T12:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

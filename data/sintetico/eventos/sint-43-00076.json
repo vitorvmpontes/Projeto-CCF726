@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-43-00076",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Belém - PA",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Nacional de Recursos Hídricos e Saneamento - CNRHS 2026",
+   "local_geral": "Hangar Centro de Convenções"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Oral A",
+    "lugar": "Sala Guamá",
+    "dataInicio": "2026-11-10T08:30:00-03:00",
+    "dataFim": "2026-11-10T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Sessão Oral B",
+    "lugar": "Sala Tapajós",
+    "dataInicio": "2026-11-10T08:30:00-03:00",
+    "dataFim": "2026-11-10T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2026-11-10T10:30:00-03:00",
+    "dataFim": "2026-11-10T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Plenária",
+    "lugar": null,
+    "dataInicio": "2026-11-10T14:00:00-03:00",
+    "dataFim": "2026-11-10T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2026-11-10T15:00:00-03:00",
+    "dataFim": "2026-11-10T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

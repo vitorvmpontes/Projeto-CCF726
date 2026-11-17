@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00154",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Retiro de Carnaval Renascer 2027",
+   "local_geral": "Comunidade Santa Luzia"
+  },
+  "atividades": [
+   {
+    "nome": "Café da Manhã Comunitário",
+    "lugar": null,
+    "dataInicio": "2027-02-08T07:30:00-03:00",
+    "dataFim": "2027-02-08T08:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pregação",
+    "lugar": null,
+    "dataInicio": "2027-02-08T08:30:00-03:00",
+    "dataFim": "2027-02-08T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-02-08T12:00:00-03:00",
+    "dataFim": "2027-02-08T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Celebração Eucarística",
+    "lugar": null,
+    "dataInicio": "2027-02-08T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

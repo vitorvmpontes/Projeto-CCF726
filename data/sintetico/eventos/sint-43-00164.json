@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00164",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "intervalos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontrão da Juventude Arquidiocesana de Cuiabá 2027",
+   "local_geral": "Paróquia São Gonçalo Beira Rio"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida",
+    "lugar": null,
+    "dataInicio": "2027-07-17T07:30:00-03:00",
+    "dataFim": "2027-07-17T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": null,
+    "dataInicio": "2027-07-17T08:00:00-03:00",
+    "dataFim": "2027-07-17T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Música Litúrgica",
+    "lugar": null,
+    "dataInicio": "2027-07-17T09:00:00-03:00",
+    "dataFim": "2027-07-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Partilhado",
+    "lugar": null,
+    "dataInicio": "2027-07-17T11:30:00-03:00",
+    "dataFim": "2027-07-17T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Comunicação Pastoral",
+    "lugar": null,
+    "dataInicio": "2027-07-17T13:30:00-03:00",
+    "dataFim": "2027-07-17T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Santa Missa de Envio",
+    "lugar": "<p>Presidida por <b>Dom Anselmo Corrêa</b>.</p>",
+    "dataInicio": "2027-07-17T16:00:00-03:00",
+    "dataFim": "2027-07-17T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

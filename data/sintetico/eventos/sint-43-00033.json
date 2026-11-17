@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-43-00033",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Fortaleza - CE",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Cearense de Direito Processual 2027",
+   "local_geral": "Centro de Eventos do Ceará"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2027-04-22T08:00:00-03:00",
+    "dataFim": "2027-04-22T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-22T09:00:00-03:00",
+    "dataFim": "2027-04-22T10:00:00-03:00",
+    "descricao": "<p>Com o ministro <b>Antônio Holanda Ribeiro</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-04-22T10:00:00-03:00",
+    "dataFim": "2027-04-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 1",
+    "lugar": "Sala Iracema",
+    "dataInicio": "2027-04-22T10:30:00-03:00",
+    "dataFim": "2027-04-22T12:00:00-03:00",
+    "descricao": "<p><i>Precedentes vinculantes</i>.</p>",
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Mesa-redonda 2",
+    "lugar": "Sala Jangada",
+    "dataInicio": "2027-04-22T10:30:00-03:00",
+    "dataFim": "2027-04-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-04-22T12:00:00-03:00",
+    "dataFim": "2027-04-22T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 3",
+    "lugar": "Sala Iracema",
+    "dataInicio": "2027-04-22T14:00:00-03:00",
+    "dataFim": "2027-04-22T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Lançamento de Livros",
+    "lugar": "Foyer",
+    "dataInicio": "2027-04-22T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda 4",
+    "lugar": "Sala Iracema",
+    "dataInicio": "2027-04-23T09:00:00-03:00",
+    "dataFim": "2027-04-23T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Mesa-redonda 5",
+    "lugar": "Sala Jangada",
+    "dataInicio": "2027-04-23T09:00:00-03:00",
+    "dataFim": "2027-04-23T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-redondas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-04-23T10:30:00-03:00",
+    "dataFim": "2027-04-23T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2027-04-23T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

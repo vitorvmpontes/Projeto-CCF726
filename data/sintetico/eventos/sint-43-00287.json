@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00287",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Engenharia de Produção do CEFET-MG 2023",
+   "local_geral": "Auditório do Campus Nova Suíça"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-10-25T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lean em Hospitais Públicos",
+    "lugar": null,
+    "dataInicio": "2023-10-25T19:15:00-03:00",
+    "dataFim": "2023-10-25T20:15:00-03:00",
+    "descricao": "<p>Com <b>Patrícia Lacerda Moura</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Egressos",
+    "lugar": null,
+    "dataInicio": "2023-10-25T20:15:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sorteio de Brindes",
+    "lugar": null,
+    "dataInicio": "2023-10-25T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

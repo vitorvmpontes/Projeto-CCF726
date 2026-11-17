@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00040",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Natal - RN",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Potiguar de Negócios 2026",
+   "local_geral": "Centro de Convenções de Natal"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": null,
+    "dataInicio": "2026-03-26T09:00:00-03:00",
+    "dataFim": "2026-03-26T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Clínica de Crédito",
+    "lugar": null,
+    "dataInicio": "2026-03-26T09:30:00-03:00",
+    "dataFim": "2026-03-26T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Vendas pelo WhatsApp",
+    "lugar": null,
+    "dataInicio": "2026-03-26T14:00:00-03:00",
+    "dataFim": "2026-03-26T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Desafio de Pitch",
+    "lugar": null,
+    "dataInicio": "2026-03-26T15:30:00-03:00",
+    "dataFim": "2026-03-26T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

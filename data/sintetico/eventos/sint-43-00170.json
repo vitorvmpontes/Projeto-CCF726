@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00170",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Fórum de Avaliação Institucional da UCSal",
+   "local_geral": "Campus Pituaçu"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-06-05T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Resultados da Avaliação Discente",
+    "lugar": null,
+    "dataInicio": "2025-06-05T14:30:00-03:00",
+    "dataFim": "2025-06-05T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Grupos de Trabalho",
+    "lugar": null,
+    "dataInicio": "2025-06-05T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária",
+    "lugar": null,
+    "dataInicio": "2025-06-05T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

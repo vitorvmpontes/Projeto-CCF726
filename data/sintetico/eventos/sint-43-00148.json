@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00148",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Goiás Tech Day 2023",
+   "local_geral": "Centro Cultural Oscar Niemeyer"
+  },
+  "atividades": [
+   {
+    "nome": "Rodada de Pitches",
+    "lugar": null,
+    "dataInicio": "2023-05-27T10:00:00-03:00",
+    "dataFim": "2023-05-27T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Pitches",
+    "lugar": null,
+    "dataInicio": "2023-05-27T15:00:00-03:00",
+    "dataFim": "2023-05-27T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00159",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroTech JF 2027",
+   "local_geral": "Embrapa Gado de Leite"
+  },
+  "atividades": [
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Auditório",
+    "dataInicio": "2027-08-04T09:00:00-03:00",
+    "dataFim": "2027-08-04T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica ao Campo Experimental",
+    "lugar": "Campo Experimental José Henrique Bruschi",
+    "dataInicio": "2027-08-04T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Leite 4.0",
+    "lugar": "Auditório",
+    "dataInicio": "2027-08-04T14:00:00-03:00",
+    "dataFim": "2027-08-04T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica ao Campo Experimental",
+    "lugar": "Campo Experimental José Henrique Bruschi",
+    "dataInicio": "2027-08-04T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

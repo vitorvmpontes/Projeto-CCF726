@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00071",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada Jovem de Pentecostes 2026",
+   "local_geral": "Paróquia de São José - Manaíra"
+  },
+  "atividades": [
+   {
+    "nome": "Adoração ao Santíssimo",
+    "lugar": null,
+    "dataInicio": "2026-05-23T19:00:00-03:00",
+    "dataFim": "2026-05-23T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Música Litúrgica",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2026-05-24T09:00:00-03:00",
+    "dataFim": "2026-05-24T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Artesanato com Reciclados",
+    "lugar": "Sala da Catequese",
+    "dataInicio": "2026-05-24T09:00:00-03:00",
+    "dataFim": "2026-05-24T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Adoração ao Santíssimo",
+    "lugar": null,
+    "dataInicio": "2026-05-24T17:00:00-03:00",
+    "dataFim": "2026-05-24T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

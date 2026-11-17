@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00203",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Natal - RN",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Boas-Vindas UFRN 2026",
+   "local_geral": "Campus Central - UFRN"
+  },
+  "atividades": [
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": null,
+    "dataInicio": "2026-03-02T09:00:00-03:00",
+    "dataFim": "2026-03-02T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour Guiado pelo Campus",
+    "lugar": null,
+    "dataInicio": "2026-03-02T14:00:00-03:00",
+    "dataFim": "2026-03-02T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

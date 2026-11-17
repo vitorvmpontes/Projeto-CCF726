@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00002",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Campinas - SP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum da CPA PUC-Campinas 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Roda de Conversa com Discentes",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2023-11-29T10:00:00-03:00",
+    "dataFim": "2023-11-29T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com Discentes",
+    "lugar": "Auditório Dom Gilberto",
+    "dataInicio": "2023-11-29T19:00:00-03:00",
+    "dataFim": "2023-11-29T20:30:00-03:00",
+    "descricao": "<p>Edição para os cursos noturnos.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

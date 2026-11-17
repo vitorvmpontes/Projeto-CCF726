@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00243",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Copa Interatléticas Curitiba 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": null,
+    "dataInicio": "2026-09-19T08:00:00-03:00",
+    "dataFim": "2026-09-19T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Fase de Grupos",
+    "lugar": null,
+    "dataInicio": "2026-09-19T09:00:00-03:00",
+    "dataFim": "2026-09-19T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-09-19T12:00:00-03:00",
+    "dataFim": "2026-09-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Finais",
+    "lugar": null,
+    "dataInicio": "2026-09-20T09:00:00-03:00",
+    "dataFim": "2026-09-20T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2026-09-20T14:00:00-03:00",
+    "dataFim": "2026-09-20T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

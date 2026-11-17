@@ -1,0 +1,142 @@
+{
+ "spec": {
+  "id": "sint-43-00087",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Cuiabá - MT",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 14,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Circuito Gastronômico Cerrado & Pantanal 2026",
+   "local_geral": "Praça Popular - Cuiabá"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura dos Portões",
+    "lugar": null,
+    "dataInicio": "2026-08-07T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-08-07T18:00:00-03:00",
+    "dataFim": "2026-08-07T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Paçoca de Carne Seca",
+    "lugar": "Cozinha Show",
+    "dataInicio": "2026-08-07T19:00:00-03:00",
+    "dataFim": "2026-08-07T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Lambadão",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-08-07T20:30:00-03:00",
+    "dataFim": "2026-08-07T22:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Ventrecha de Pacu",
+    "lugar": "Cozinha Show",
+    "dataInicio": "2026-08-08T10:00:00-03:00",
+    "dataFim": "2026-08-08T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Infantil de Biscoito de Polvilho",
+    "lugar": "Espaço Kids",
+    "dataInicio": "2026-08-08T10:00:00-03:00",
+    "dataFim": "2026-08-08T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Pantaneiro",
+    "lugar": null,
+    "dataInicio": "2026-08-08T12:00:00-03:00",
+    "dataFim": "2026-08-08T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Farofa de Banana",
+    "lugar": "Cozinha Show",
+    "dataInicio": "2026-08-08T16:00:00-03:00",
+    "dataFim": "2026-08-08T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Licores de Pequi",
+    "lugar": "Tenda dos Produtores",
+    "dataInicio": "2026-08-08T16:00:00-03:00",
+    "dataFim": "2026-08-08T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Viola de Cocho",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-08-08T20:00:00-03:00",
+    "dataFim": "2026-08-08T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Produtores",
+    "lugar": null,
+    "dataInicio": "2026-08-09T09:00:00-03:00",
+    "dataFim": "2026-08-09T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Pintado ao Urucum",
+    "lugar": "Cozinha Show",
+    "dataInicio": "2026-08-09T11:00:00-03:00",
+    "dataFim": "2026-08-09T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Pantaneiro",
+    "lugar": null,
+    "dataInicio": "2026-08-09T12:00:00-03:00",
+    "dataFim": "2026-08-09T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-08-09T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

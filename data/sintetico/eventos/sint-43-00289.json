@@ -1,0 +1,116 @@
+{
+ "spec": {
+  "id": "sint-43-00289",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Campo Grande - MS",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Expo Negócios MS 2027",
+   "local_geral": "Centro de Convenções Rubens Gil de Camillo"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": null,
+    "dataInicio": "2027-06-16T09:00:00-03:00",
+    "dataFim": "2027-06-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Clínica de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-06-16T10:00:00-03:00",
+    "dataFim": "2027-06-16T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-06-16T14:00:00-03:00",
+    "dataFim": "2027-06-16T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Turismo de Natureza como Negócio",
+    "lugar": null,
+    "dataInicio": "2027-06-16T17:00:00-03:00",
+    "dataFim": "2027-06-16T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Happy Hour de Networking",
+    "lugar": null,
+    "dataInicio": "2027-06-16T18:00:00-03:00",
+    "dataFim": "2027-06-16T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Clínica de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-06-17T09:00:00-03:00",
+    "dataFim": "2027-06-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Vitrinismo",
+    "lugar": null,
+    "dataInicio": "2027-06-17T11:00:00-03:00",
+    "dataFim": "2027-06-17T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-06-17T14:00:00-03:00",
+    "dataFim": "2027-06-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Do Campo à Gôndola",
+    "lugar": null,
+    "dataInicio": "2027-06-17T16:00:00-03:00",
+    "dataFim": "2027-06-17T17:00:00-03:00",
+    "descricao": "<p>Agricultura familiar e acesso ao varejo.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Clínica de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-06-17T17:00:00-03:00",
+    "dataFim": "2027-06-17T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Sorteio",
+    "lugar": null,
+    "dataInicio": "2027-06-17T18:30:00-03:00",
+    "dataFim": "2027-06-17T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

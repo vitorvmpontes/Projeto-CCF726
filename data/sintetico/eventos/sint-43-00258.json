@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-43-00258",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Belém - PA",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Margens do Guamá 2025",
+   "local_geral": "Complexo Feliz Lusitânia"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura com Carimbó",
+    "lugar": null,
+    "dataInicio": "2025-09-06T17:00:00-03:00",
+    "dataFim": "2025-09-06T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição Fotográfica Ribeirinhas",
+    "lugar": null,
+    "dataInicio": "2025-09-06T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Guitarrada",
+    "lugar": null,
+    "dataInicio": "2025-09-06T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Brinquedos de Miriti",
+    "lugar": null,
+    "dataInicio": "2025-09-07T09:00:00-03:00",
+    "dataFim": "2025-09-07T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Cerâmica Marajoara",
+    "lugar": null,
+    "dataInicio": "2025-09-07T14:00:00-03:00",
+    "dataFim": "2025-09-07T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Carimbó",
+    "lugar": null,
+    "dataInicio": "2025-09-07T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-09-07T20:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

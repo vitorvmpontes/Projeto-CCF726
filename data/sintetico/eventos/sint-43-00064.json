@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-43-00064",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Pantanal Dev Summit 2024",
+   "local_geral": "Uniderp - Unidade Agrárias"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-09-19T19:00:00-03:00",
+    "dataFim": "2024-09-19T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Arquitetura de Microsserviços na Prática",
+    "lugar": "Auditório A",
+    "dataInicio": "2024-09-19T19:30:00-03:00",
+    "dataFim": "2024-09-19T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Dados Abertos no Agro",
+    "lugar": "Auditório B",
+    "dataInicio": "2024-09-19T19:30:00-03:00",
+    "dataFim": "2024-09-19T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Hackathon",
+    "lugar": null,
+    "dataInicio": "2024-09-20T08:00:00-03:00",
+    "dataFim": "2024-09-21T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch dos Times",
+    "lugar": null,
+    "dataInicio": "2024-09-21T14:00:00-03:00",
+    "dataFim": "2024-09-21T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

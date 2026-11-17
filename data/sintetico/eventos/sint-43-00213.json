@@ -1,0 +1,141 @@
+{
+ "spec": {
+  "id": "sint-43-00213",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Macapá - AP",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 14,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Amapá Costeiro: Manguezais e Clima 2024",
+   "local_geral": "UNIFAP - Campus Marco Zero"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-15T08:30:00-03:00",
+    "dataFim": "2024-10-15T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Manguezais e Carbono Azul",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-15T09:00:00-03:00",
+    "dataFim": "2024-10-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Identificação de Aves Costeiras",
+    "lugar": "Sala 12",
+    "dataInicio": "2024-10-15T10:30:00-03:00",
+    "dataFim": "2024-10-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Mudas Nativas",
+    "lugar": "Viveiro do Campus",
+    "dataInicio": "2024-10-15T10:30:00-03:00",
+    "dataFim": "2024-10-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Mesa sobre Pesca Artesanal",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-15T14:00:00-03:00",
+    "dataFim": "2024-10-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cine Debate",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-15T19:00:00-03:00",
+    "dataFim": "2024-10-15T21:00:00-03:00",
+    "descricao": "<p>Exibição do curta <i>Maré de Lama</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Mudas Nativas",
+    "lugar": "Viveiro do Campus",
+    "dataInicio": "2024-10-16T08:30:00-03:00",
+    "dataFim": "2024-10-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Apresentação de Trabalhos",
+    "lugar": "Sala 12",
+    "dataInicio": "2024-10-16T08:30:00-03:00",
+    "dataFim": "2024-10-16T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa sobre Resíduos na Orla",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Identificação de Aves Costeiras",
+    "lugar": "Sala 12",
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Saída de Campo à Lagoa dos Índios",
+    "lugar": "Lagoa dos Índios",
+    "dataInicio": "2024-10-17T07:30:00-03:00",
+    "dataFim": "2024-10-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Trabalhos",
+    "lugar": "Sala 12",
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento Cultural com Marabaixo",
+    "lugar": "Auditório Central",
+    "dataInicio": "2024-10-17T16:00:00-03:00",
+    "dataFim": "2024-10-17T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

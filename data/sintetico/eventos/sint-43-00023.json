@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00023",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Campinas - SP",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "nomes_repetidos",
+   "intervalos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Calourada da Biologia Unicamp 2025",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Café de Boas-vindas",
+    "lugar": null,
+    "dataInicio": "2025-03-03T08:00:00-03:00",
+    "dataFim": "2025-03-03T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Caça ao Tesouro pelo Campus",
+    "lugar": null,
+    "dataInicio": "2025-03-03T09:00:00-03:00",
+    "dataFim": "2025-03-03T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço no Bandejão",
+    "lugar": null,
+    "dataInicio": "2025-03-03T11:30:00-03:00",
+    "dataFim": "2025-03-03T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Caça ao Tesouro pelo Campus",
+    "lugar": null,
+    "dataInicio": "2025-03-03T14:00:00-03:00",
+    "dataFim": "2025-03-03T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

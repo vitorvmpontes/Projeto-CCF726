@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-43-00097",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "João Pessoa - PB",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Paraibano de Professores de Matemática 2025",
+   "local_geral": "IFPB - Campus João Pessoa"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2025-08-14T08:00:00-03:00",
+    "dataFim": "2025-08-14T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2025-08-14T08:30:00-03:00",
+    "dataFim": "2025-08-14T10:00:00-03:00",
+    "descricao": "<p>Com a profa. <b>Maria do Socorro Lucena</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Geometria com Dobraduras",
+    "lugar": "Laboratório de Matemática",
+    "dataInicio": "2025-08-14T10:30:00-03:00",
+    "dataFim": "2025-08-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de GeoGebra",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2025-08-14T10:30:00-03:00",
+    "dataFim": "2025-08-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Relatos de Experiência",
+    "lugar": "Sala 15",
+    "dataInicio": "2025-08-14T14:00:00-03:00",
+    "dataFim": "2025-08-14T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Jogos com Frações",
+    "lugar": "Laboratório de Matemática",
+    "dataInicio": "2025-08-15T08:00:00-03:00",
+    "dataFim": "2025-08-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Estatística com Planilhas",
+    "lugar": "Laboratório de Informática 2",
+    "dataInicio": "2025-08-15T08:00:00-03:00",
+    "dataFim": "2025-08-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "BNCC e o Novo Ensino Médio",
+    "lugar": "Auditório",
+    "dataInicio": "2025-08-15T10:30:00-03:00",
+    "dataFim": "2025-08-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": "Auditório",
+    "dataInicio": "2025-08-15T12:00:00-03:00",
+    "dataFim": "2025-08-15T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00187",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Niterói - RJ",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Torneio Universitário de Beach Tennis de Niterói 2025",
+   "local_geral": "Praia de Icaraí"
+  },
+  "atividades": [
+   {
+    "nome": "Check-in dos Atletas",
+    "lugar": null,
+    "dataInicio": "2025-11-15T07:00:00-03:00",
+    "dataFim": "2025-11-15T07:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Chaves de Duplas Mistas",
+    "lugar": null,
+    "dataInicio": "2025-11-15T08:00:00-03:00",
+    "dataFim": "2025-11-15T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-11-15T12:00:00-03:00",
+    "dataFim": "2025-11-15T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Semifinais e Finais",
+    "lugar": null,
+    "dataInicio": "2025-11-15T13:00:00-03:00",
+    "dataFim": "2025-11-15T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-43-00155",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Enfermagem UFPB 2026",
+   "local_geral": "Centro de Ciências da Saúde"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-05-11T07:30:00-03:00",
+    "dataFim": "2026-05-11T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-05-11T08:00:00-03:00",
+    "dataFim": "2026-05-11T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2026-05-11T08:30:00-03:00",
+    "dataFim": "2026-05-11T10:00:00-03:00",
+    "descricao": "<p>Cuidado de enfermagem na atenção primária.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2026-05-11T10:00:00-03:00",
+    "dataFim": "2026-05-11T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Suporte Básico de Vida",
+    "lugar": null,
+    "dataInicio": "2026-05-11T10:20:00-03:00",
+    "dataFim": "2026-05-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Suporte Básico de Vida",
+    "lugar": null,
+    "dataInicio": "2026-05-12T08:00:00-03:00",
+    "dataFim": "2026-05-12T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-12T10:30:00-03:00",
+    "dataFim": "2026-05-12T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

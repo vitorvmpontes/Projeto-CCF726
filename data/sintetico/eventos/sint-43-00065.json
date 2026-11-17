@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00065",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Amazônia Sem Plástico 2027",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Resíduos Sólidos nas Comunidades Ribeirinhas",
+    "lugar": null,
+    "dataInicio": "2027-06-04T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lançamento do Guia de Coleta Seletiva",
+    "lugar": null,
+    "dataInicio": "2027-06-04T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

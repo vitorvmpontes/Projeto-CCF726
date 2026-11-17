@@ -1,0 +1,54 @@
+{
+ "spec": {
+  "id": "sint-43-00135",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Salvador - BA",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Educadores da Educação Infantil de Salvador 2026",
+   "local_geral": "Colégio Estadual Thales de Azevedo"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhimento",
+    "lugar": null,
+    "dataInicio": "2026-02-05T07:30:00-03:00",
+    "dataFim": "2026-02-05T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Contação de Histórias",
+    "lugar": "Sala 5",
+    "dataInicio": "2026-02-05T08:00:00-03:00",
+    "dataFim": "2026-02-05T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Robótica Educacional",
+    "lugar": "Laboratório de Informática",
+    "dataInicio": "2026-02-05T08:00:00-03:00",
+    "dataFim": "2026-02-05T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

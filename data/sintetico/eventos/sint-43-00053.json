@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00053",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Florianópolis - SC",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Tarde de Espiritualidade Santo Antônio de Lisboa 2023",
+   "local_geral": "Comunidade de Santo Antônio de Lisboa"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Arte Sacra",
+    "lugar": "Salão Comunitário",
+    "dataInicio": "2023-04-15T14:00:00-03:00",
+    "dataFim": "2023-04-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Catequese Infantil",
+    "lugar": "Sala da Catequese",
+    "dataInicio": "2023-04-15T14:00:00-03:00",
+    "dataFim": "2023-04-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

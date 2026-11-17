@@ -1,0 +1,117 @@
+{
+ "spec": {
+  "id": "sint-43-00172",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "João Pessoa - PB",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Conecta Tech JP 2023",
+   "local_geral": "Centro de Convenções de João Pessoa"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-11-24T09:00:00-03:00",
+    "dataFim": "2023-11-24T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Engenharia de Dados em Escala",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-11-24T09:30:00-03:00",
+    "dataFim": "2023-11-24T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Carreira em Segurança da Informação",
+    "lugar": "Sala 2",
+    "dataInicio": "2023-11-24T09:30:00-03:00",
+    "dataFim": "2023-11-24T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Ecossistema de Startups do Nordeste",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-11-24T11:00:00-03:00",
+    "dataFim": "2023-11-24T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Início do Hackathon",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2023-11-24T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Observabilidade na Prática",
+    "lugar": "Sala 2",
+    "dataInicio": "2023-11-24T14:00:00-03:00",
+    "dataFim": "2023-11-24T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentorias",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2023-11-24T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentorias",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2023-11-25T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega dos Projetos",
+    "lugar": null,
+    "dataInicio": "2023-11-25T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch dos Finalistas",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-11-25T14:00:00-03:00",
+    "dataFim": "2023-11-25T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": "Auditório Principal",
+    "dataInicio": "2023-11-25T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00158",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Professores da Rede Municipal de Porto Alegre 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida",
+    "lugar": null,
+    "dataInicio": "2023-03-11T08:00:00-03:00",
+    "dataFim": "2023-03-11T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Alfabetização e Recomposição das Aprendizagens",
+    "lugar": null,
+    "dataInicio": "2023-03-11T08:30:00-03:00",
+    "dataFim": "2023-03-11T10:00:00-03:00",
+    "descricao": "<p>Com a professora <b>Cláudia Bertoldi</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Troca de Experiências",
+    "lugar": null,
+    "dataInicio": "2023-03-11T10:15:00-03:00",
+    "dataFim": "2023-03-11T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Jogos Matemáticos",
+    "lugar": null,
+    "dataInicio": "2023-03-11T13:30:00-03:00",
+    "dataFim": "2023-03-11T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-03-11T15:30:00-03:00",
+    "dataFim": "2023-03-11T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

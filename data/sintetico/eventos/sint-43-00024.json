@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00024",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Vitória - ES",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Capixaba de Resíduos Sólidos 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-06-04T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel sobre Logística Reversa",
+    "lugar": null,
+    "dataInicio": "2026-06-04T09:00:00-03:00",
+    "dataFim": "2026-06-04T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica à Usina de Triagem",
+    "lugar": null,
+    "dataInicio": "2026-06-04T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,75 +1,129 @@
 {
-  "gerado_em": "2026-10-22T19:37:13+00:00",
+  "gerado_em": "2026-11-17T17:11:40+00:00",
   "parametros": {
     "por_evento": 2,
     "val": 0.15,
-    "semente": 42
+    "semente": 42,
+    "pesos_perfil": {
+      "completo": 0.4,
+      "sem_lugar": 0.2,
+      "sem_descricao": 0.1,
+      "enxuto": 0.3
+    }
   },
-  "eventos_gerados": 500,
-  "eventos_aprovados": 498,
+  "eventos_gerados": 800,
+  "eventos_aprovados": 799,
   "exemplos": {
-    "train": 845,
-    "val": 150,
-    "total": 995
+    "train": 1357,
+    "val": 240,
+    "total": 1597
   },
   "atividades": {
-    "train": 14024,
+    "train": 17532,
     "val": 2686
   },
   "rejeicoes": {
-    "muito_longo": 5
+    "muito_longo": 3
   },
   "layouts": {
-    "cartaz": 275,
-    "tabela": 256,
-    "lista": 240,
-    "colunas": 224
+    "tabela": 413,
+    "cartaz": 402,
+    "colunas": 395,
+    "lista": 387
   },
   "ruidos": {
-    "quebra": 502,
-    "secoes": 494,
-    "decorativo": 418,
-    "ocr": 243
+    "quebra": 804,
+    "secoes": 800,
+    "decorativo": 635,
+    "ocr": 409
   },
   "caixa_alta": {
-    "exemplos": 365,
-    "fracao": 0.367
+    "exemplos": 502,
+    "fracao": 0.314
+  },
+  "perfis": {
+    "completo": 623,
+    "enxuto": 464,
+    "sem_lugar": 310,
+    "sem_descricao": 200
+  },
+  "modelos_professor": {
+    "gemini-3.8-flash": 997,
+    "claude-opus-5-5 (Cowork)": 600
+  },
+  "estilos_evento": {
+    "detalhado": 997,
+    "enxuto": 600
+  },
+  "campos_ausentes": {
+    "atividades_sem_lugar": 0.607,
+    "atividades_sem_descricao": 0.613,
+    "atividades_sem_fim": 0.11,
+    "textos_sem_nenhum_lugar": 0.586,
+    "textos_sem_nenhuma_descricao": 0.57
   },
   "tipos_evento": {
-    "simpósio de pós-graduação": 66,
-    "congresso jurídico com mesas-redondas": 64,
-    "encontro de mulheres na computação": 64,
-    "evento de inovação no agronegócio": 62,
-    "evento religioso/comunitário com celebrações e oficinas": 60,
-    "evento de tecnologia com palestras de empresas e hackathon": 54,
-    "maratona de programação e game jam": 52,
-    "fórum institucional de avaliação (CPA)": 52,
-    "workshop de inteligência artificial com minicursos": 52,
-    "encontro de professores da educação básica": 48,
-    "festival gastronômico com aulas-show": 48,
-    "jornada médica / congresso de saúde": 48,
-    "mostra de extensão universitária": 47,
-    "seminário de sustentabilidade e meio ambiente": 46,
-    "congresso científico nacional com sessões técnicas de artigos": 44,
-    "semana de calouros com atividades de integração": 44,
-    "feira de negócios e empreendedorismo do Sebrae": 40,
-    "evento esportivo universitário com torneios e cerimônias": 36,
-    "semana acadêmica de um curso de graduação": 34,
-    "festival cultural com shows, oficinas e exposições": 34
+    "evento religioso/comunitário com celebrações e oficinas": 106,
+    "evento de inovação no agronegócio": 98,
+    "congresso jurídico com mesas-redondas": 95,
+    "simpósio de pós-graduação": 94,
+    "fórum institucional de avaliação (CPA)": 94,
+    "seminário de sustentabilidade e meio ambiente": 92,
+    "maratona de programação e game jam": 88,
+    "encontro de professores da educação básica": 88,
+    "evento de tecnologia com palestras de empresas e hackathon": 84,
+    "feira de negócios e empreendedorismo do Sebrae": 80,
+    "encontro de mulheres na computação": 76,
+    "semana de calouros com atividades de integração": 74,
+    "workshop de inteligência artificial com minicursos": 74,
+    "semana acadêmica de um curso de graduação": 74,
+    "congresso científico nacional com sessões técnicas de artigos": 72,
+    "festival gastronômico com aulas-show": 72,
+    "mostra de extensão universitária": 64,
+    "jornada médica / congresso de saúde": 64,
+    "festival cultural com shows, oficinas e exposições": 54,
+    "evento esportivo universitário com torneios e cerimônias": 54
   },
   "casos": {
-    "sem_local": 344,
-    "sem_horario_fim": 336,
-    "nomes_repetidos": 325,
-    "titulos_longos": 323,
-    "subtitulo_separado": 305,
-    "descricoes_ricas": 297,
-    "intervalos": 272,
-    "atividades_paralelas": 266
+    "sem_local": 596,
+    "nomes_repetidos": 581,
+    "sem_horario_fim": 558,
+    "atividades_paralelas": 513,
+    "intervalos": 506,
+    "titulos_longos": 325,
+    "subtitulo_separado": 306,
+    "descricoes_ricas": 299
   },
   "tokens_estimados": {
-    "p50": 2378,
-    "p95": 5261,
-    "max": 6962
+    "p50": 885,
+    "p95": 4135,
+    "max": 6999
+  },
+  "qualidade_rotulos": {
+    "juiz": "claude-opus-5-5 (Cowork)",
+    "exemplos": 80,
+    "atividades": 923,
+    "erros": 2,
+    "taxa_erro": 0.0022,
+    "por_veredito": {
+      "ok": 921,
+      "campo": 1,
+      "irreal": 1
+    },
+    "por_professor": {
+      "gemini-3.8-flash": {
+        "atividades": 646,
+        "erros": 0
+      },
+      "claude-opus-5-5 (Cowork)": {
+        "atividades": 277,
+        "erros": 2
+      }
+    },
+    "conferencia_humana": {
+      "vereditos": 20,
+      "concorda": 20,
+      "concordancia": 1.0
+    }
   }
 }

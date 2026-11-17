@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00198",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Goiânia - GO",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Simpósio de Pós-Graduação em Ciência Animal da UFG 2026",
+   "local_geral": "Escola de Veterinária e Zootecnia - UFG"
+  },
+  "atividades": [
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório da EVZ",
+    "dataInicio": "2026-11-25T08:30:00-03:00",
+    "dataFim": "2026-11-25T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral: Nutrição Animal",
+    "lugar": "Sala 1",
+    "dataInicio": "2026-11-25T10:00:00-03:00",
+    "dataFim": "2026-11-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral: Sanidade Animal",
+    "lugar": "Sala 2",
+    "dataInicio": "2026-11-25T10:00:00-03:00",
+    "dataFim": "2026-11-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall da EVZ",
+    "dataInicio": "2026-11-25T14:00:00-03:00",
+    "dataFim": "2026-11-25T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

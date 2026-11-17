@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00256",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Mostra de Negócios Sebrae MT 2027",
+   "local_geral": "Centro de Eventos do Pantanal"
+  },
+  "atividades": [
+   {
+    "nome": "Rodada de Negócios do Agro",
+    "lugar": "Arena de Negócios",
+    "dataInicio": "2027-08-19T14:00:00-03:00",
+    "dataFim": "2027-08-19T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Precificação para Pequenos Negócios",
+    "lugar": "Sala Empreender",
+    "dataInicio": "2027-08-19T14:00:00-03:00",
+    "dataFim": "2027-08-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

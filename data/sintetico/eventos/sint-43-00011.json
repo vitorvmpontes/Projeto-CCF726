@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00011",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Savassi Tech Day 2023",
+   "local_geral": "Teatro Sesiminas"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-05-20T08:00:00-03:00",
+    "dataFim": "2023-05-20T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Observabilidade na Prática",
+    "lugar": null,
+    "dataInicio": "2023-05-20T09:00:00-03:00",
+    "dataFim": "2023-05-20T10:00:00-03:00",
+    "descricao": "<p>Com <b>Marcelo Drumond</b>, engenheiro de plataforma.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lightning Talks",
+    "lugar": null,
+    "dataInicio": "2023-05-20T10:00:00-03:00",
+    "dataFim": "2023-05-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-05-20T12:00:00-03:00",
+    "dataFim": "2023-05-20T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lightning Talks",
+    "lugar": null,
+    "dataInicio": "2023-05-20T14:00:00-03:00",
+    "dataFim": "2023-05-20T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação do Hackathon",
+    "lugar": null,
+    "dataInicio": "2023-05-20T17:00:00-03:00",
+    "dataFim": "2023-05-20T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

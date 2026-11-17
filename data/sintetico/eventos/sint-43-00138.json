@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-43-00138",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "nomes_repetidos",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Congresso Nacional de Engenharia de Polímeros - CONEPOL 2023",
+   "local_geral": "Centro de Convenções Frei Caneca"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-08-28T08:00:00-03:00",
+    "dataFim": "2023-08-28T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura Oficial",
+    "lugar": null,
+    "dataInicio": "2023-08-28T09:00:00-03:00",
+    "dataFim": "2023-08-28T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-08-28T09:30:00-03:00",
+    "dataFim": "2023-08-28T10:30:00-03:00",
+    "descricao": "<p>Com <b>Profa. Helena Matsumoto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2023-08-28T10:30:00-03:00",
+    "dataFim": "2023-08-28T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica",
+    "lugar": null,
+    "dataInicio": "2023-08-28T11:00:00-03:00",
+    "dataFim": "2023-08-28T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-28T12:30:00-03:00",
+    "dataFim": "2023-08-28T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica",
+    "lugar": null,
+    "dataInicio": "2023-08-28T14:00:00-03:00",
+    "dataFim": "2023-08-28T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Palestra Convidada",
+    "lugar": null,
+    "dataInicio": "2023-08-29T09:00:00-03:00",
+    "dataFim": "2023-08-29T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2023-08-29T10:00:00-03:00",
+    "dataFim": "2023-08-29T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica",
+    "lugar": null,
+    "dataInicio": "2023-08-29T10:30:00-03:00",
+    "dataFim": "2023-08-29T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-29T12:30:00-03:00",
+    "dataFim": "2023-08-29T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2023-08-29T14:00:00-03:00",
+    "dataFim": "2023-08-29T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica",
+    "lugar": null,
+    "dataInicio": "2023-08-30T09:00:00-03:00",
+    "dataFim": "2023-08-30T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2023-08-30T10:30:00-03:00",
+    "dataFim": "2023-08-30T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": null,
+    "dataInicio": "2023-08-30T11:00:00-03:00",
+    "dataFim": "2023-08-30T12:30:00-03:00",
+    "descricao": "<p>Reciclagem química e economia circular.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": null,
+    "dataInicio": "2023-08-30T12:30:00-03:00",
+    "dataFim": "2023-08-30T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-08-30T13:00:00-03:00",
+    "dataFim": "2023-08-30T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço de Confraternização",
+    "lugar": null,
+    "dataInicio": "2023-08-30T13:30:00-03:00",
+    "dataFim": "2023-08-30T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

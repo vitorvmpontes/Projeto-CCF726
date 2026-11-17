@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00253",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Salvador - BA",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Dendê & Mar 2024",
+   "local_geral": "Largo do Santo Antônio Além do Carmo"
+  },
+  "atividades": [
+   {
+    "nome": "Aula-Show de Moqueca de Arraia",
+    "lugar": "Cozinha-Show",
+    "dataInicio": "2024-11-15T18:00:00-03:00",
+    "dataFim": "2024-11-15T19:00:00-03:00",
+    "descricao": "<p>Com a chef <b>Iracema Santana</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Acarajé",
+    "lugar": "Tenda das Baianas",
+    "dataInicio": "2024-11-15T18:00:00-03:00",
+    "dataFim": "2024-11-15T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Samba",
+    "lugar": null,
+    "dataInicio": "2024-11-16T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Concurso de Cocada",
+    "lugar": null,
+    "dataInicio": "2024-11-17T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

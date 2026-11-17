@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-43-00146",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Belém - PA",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 12,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Simpósio de Pós-Graduação em Saúde da Amazônia 2027",
+   "local_geral": "Instituto de Ciências da Saúde - UFPA"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2027-04-13T08:00:00-03:00",
+    "dataFim": "2027-04-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2027-04-13T09:00:00-03:00",
+    "dataFim": "2027-04-13T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-04-13T10:30:00-03:00",
+    "dataFim": "2027-04-13T10:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentações Orais",
+    "lugar": "Sala A",
+    "dataInicio": "2027-04-13T10:45:00-03:00",
+    "dataFim": "2027-04-13T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentações Orais",
+    "lugar": "Sala B",
+    "dataInicio": "2027-04-13T10:45:00-03:00",
+    "dataFim": "2027-04-13T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Escrita Científica",
+    "lugar": "Sala A",
+    "dataInicio": "2027-04-14T08:30:00-03:00",
+    "dataFim": "2027-04-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Análise de Dados em R",
+    "lugar": "Laboratório 3",
+    "dataInicio": "2027-04-14T08:30:00-03:00",
+    "dataFim": "2027-04-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall",
+    "dataInicio": "2027-04-14T14:00:00-03:00",
+    "dataFim": "2027-04-14T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-04-14T16:00:00-03:00",
+    "dataFim": "2027-04-14T16:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda",
+    "lugar": "Auditório",
+    "dataInicio": "2027-04-15T09:00:00-03:00",
+    "dataFim": "2027-04-15T10:30:00-03:00",
+    "descricao": "<p>Doenças tropicais negligenciadas na região Norte.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": "Auditório",
+    "dataInicio": "2027-04-15T10:45:00-03:00",
+    "dataFim": "2027-04-15T11:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": "Auditório",
+    "dataInicio": "2027-04-15T11:15:00-03:00",
+    "dataFim": "2027-04-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

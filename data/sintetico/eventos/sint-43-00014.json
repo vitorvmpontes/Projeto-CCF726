@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-43-00014",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Estadual de Professores da Educação Básica - MT 2027",
+   "local_geral": "Centro de Eventos do Pantanal"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Credenciamento",
+    "lugar": null,
+    "dataInicio": "2027-07-15T07:30:00-03:00",
+    "dataFim": "2027-07-15T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2027-07-15T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2027-07-15T08:30:00-03:00",
+    "dataFim": "2027-07-15T10:00:00-03:00",
+    "descricao": "<p>Com a professora <b>Eliane Cáceres</b> (UFMT).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-07-15T10:00:00-03:00",
+    "dataFim": "2027-07-15T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Letramento Matemático",
+    "lugar": null,
+    "dataInicio": "2027-07-15T10:20:00-03:00",
+    "dataFim": "2027-07-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-07-15T12:00:00-03:00",
+    "dataFim": "2027-07-15T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Contação de Histórias",
+    "lugar": null,
+    "dataInicio": "2027-07-15T13:30:00-03:00",
+    "dataFim": "2027-07-15T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Relatos de Experiência",
+    "lugar": null,
+    "dataInicio": "2027-07-15T15:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa sobre Alfabetização",
+    "lugar": null,
+    "dataInicio": "2027-07-16T08:00:00-03:00",
+    "dataFim": "2027-07-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-07-16T10:00:00-03:00",
+    "dataFim": "2027-07-16T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Robótica com Sucata",
+    "lugar": null,
+    "dataInicio": "2027-07-16T10:20:00-03:00",
+    "dataFim": "2027-07-16T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Encerramento e Entrega de Certificados",
+    "lugar": null,
+    "dataInicio": "2027-07-16T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

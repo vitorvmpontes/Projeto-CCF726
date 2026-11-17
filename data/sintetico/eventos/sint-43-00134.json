@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00134",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum Bahia AgroTech 2025",
+   "local_geral": "Centro de Convenções Salvador"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-05-22T08:00:00-03:00",
+    "dataFim": "2025-05-22T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-05-22T13:00:00-03:00",
+    "dataFim": "2025-05-22T14:00:00-03:00",
+    "descricao": "<p>Para participantes do turno da tarde.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

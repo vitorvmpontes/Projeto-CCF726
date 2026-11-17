@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00029",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Recife - PE",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Acolhida dos Calouros do CIn-UFPE 2025",
+   "local_geral": "Centro de Informática - UFPE"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas",
+    "lugar": null,
+    "dataInicio": "2025-03-17T09:00:00-03:00",
+    "dataFim": "2025-03-17T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo CIn",
+    "lugar": null,
+    "dataInicio": "2025-03-17T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo CIn",
+    "lugar": null,
+    "dataInicio": "2025-03-17T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Frevo de Integração",
+    "lugar": null,
+    "dataInicio": "2025-03-17T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

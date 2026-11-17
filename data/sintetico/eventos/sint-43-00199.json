@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00199",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Arborização Urbana em Porto Alegre 2024",
+   "local_geral": "Câmara Municipal de Porto Alegre"
+  },
+  "atividades": [
+   {
+    "nome": "Palestra: Arborização e Clima",
+    "lugar": null,
+    "dataInicio": "2024-11-26T19:00:00-03:00",
+    "dataFim": "2024-11-26T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate com o Público",
+    "lugar": null,
+    "dataInicio": "2024-11-26T20:00:00-03:00",
+    "dataFim": "2024-11-26T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

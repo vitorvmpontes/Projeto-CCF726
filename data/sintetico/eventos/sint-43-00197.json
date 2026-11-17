@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00197",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos",
+   "sem_local",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Recife Resiliente 2023",
+   "local_geral": "Paço do Frevo"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-04-18T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Encostas e Chuvas",
+    "lugar": null,
+    "dataInicio": "2023-04-18T08:30:00-03:00",
+    "dataFim": "2023-04-18T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-04-18T10:00:00-03:00",
+    "dataFim": "2023-04-18T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Rios Urbanos",
+    "lugar": null,
+    "dataInicio": "2023-04-18T10:20:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

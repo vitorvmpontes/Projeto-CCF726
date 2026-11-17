@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00003",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Macapá - AP",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Copa Universitária Amapaense de Futsal 2025",
+   "local_geral": "Ginásio da UNIFAP"
+  },
+  "atividades": [
+   {
+    "nome": "Congresso Técnico",
+    "lugar": null,
+    "dataInicio": "2025-09-13T07:30:00-03:00",
+    "dataFim": "2025-09-13T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada 1",
+    "lugar": null,
+    "dataInicio": "2025-09-13T08:00:00-03:00",
+    "dataFim": "2025-09-13T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-09-13T11:30:00-03:00",
+    "dataFim": "2025-09-13T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada 2",
+    "lugar": null,
+    "dataInicio": "2025-09-13T13:00:00-03:00",
+    "dataFim": "2025-09-13T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Final e Premiação",
+    "lugar": null,
+    "dataInicio": "2025-09-13T17:00:00-03:00",
+    "dataFim": "2025-09-13T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

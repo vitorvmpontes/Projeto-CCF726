@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00221",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Belém - PA",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Lixo Zero Belém 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2026-06-05T09:00:00-03:00",
+    "dataFim": "2026-06-05T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Reaproveitamento do Caroço de Açaí",
+    "lugar": null,
+    "dataInicio": "2026-06-05T10:30:00-03:00",
+    "dataFim": "2026-06-05T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

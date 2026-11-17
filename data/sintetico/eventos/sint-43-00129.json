@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00129",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Campinas - SP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Campinas Sustentável 2023",
+   "local_geral": "Teatro Castro Mendes"
+  },
+  "atividades": [
+   {
+    "nome": "Mesa Temática",
+    "lugar": null,
+    "dataInicio": "2023-06-05T08:30:00-03:00",
+    "dataFim": "2023-06-05T10:00:00-03:00",
+    "descricao": "<p>Recursos hídricos na bacia do Piracicaba.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café",
+    "lugar": null,
+    "dataInicio": "2023-06-05T10:00:00-03:00",
+    "dataFim": "2023-06-05T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Temática",
+    "lugar": null,
+    "dataInicio": "2023-06-05T10:20:00-03:00",
+    "dataFim": "2023-06-05T12:00:00-03:00",
+    "descricao": "<p>Resíduos sólidos e coleta seletiva.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-06-05T12:00:00-03:00",
+    "dataFim": "2023-06-05T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00012",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "São Paulo - SP",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 5,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Integração dos Calouros UNIFESP 2027",
+   "local_geral": "Campus Vila Clementino"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-vindas da Coordenação",
+    "lugar": null,
+    "dataInicio": "2027-02-22T09:00:00-03:00",
+    "dataFim": "2027-02-22T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": null,
+    "dataInicio": "2027-02-22T10:30:00-03:00",
+    "dataFim": "2027-02-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": null,
+    "dataInicio": "2027-02-23T10:00:00-03:00",
+    "dataFim": "2027-02-23T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Gincana de Integração",
+    "lugar": null,
+    "dataInicio": "2027-02-23T14:00:00-03:00",
+    "dataFim": "2027-02-23T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Trote Solidário",
+    "lugar": "<p>Arrecadação de alimentos e doação de sangue no Hemocentro.</p>",
+    "dataInicio": "2027-02-24T09:00:00-03:00",
+    "dataFim": "2027-02-24T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

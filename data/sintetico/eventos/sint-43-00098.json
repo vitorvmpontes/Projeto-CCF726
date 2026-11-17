@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00098",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Acolhida dos Calouros da UFMT 2024",
+   "local_geral": "Teatro Universitário da UFMT"
+  },
+  "atividades": [
+   {
+    "nome": "Aula Inaugural",
+    "lugar": null,
+    "dataInicio": "2024-03-04T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula Inaugural",
+    "lugar": null,
+    "dataInicio": "2024-03-04T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Turma do período noturno.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

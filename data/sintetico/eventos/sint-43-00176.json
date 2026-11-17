@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00176",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Cuiabá - MT",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Mato-Grossense de Negócios 2023",
+   "local_geral": "Centro de Eventos do Pantanal"
+  },
+  "atividades": [
+   {
+    "nome": "Consultoria Individual",
+    "lugar": "Estande Sebrae",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Plano de Negócios",
+    "lugar": "Sala A",
+    "dataInicio": "2023-10-19T09:00:00-03:00",
+    "dataFim": "2023-10-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina Plano de Negócios",
+    "lugar": "Sala A",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": "2023-10-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Agroindústria Familiar",
+    "lugar": "Auditório",
+    "dataInicio": "2023-10-19T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

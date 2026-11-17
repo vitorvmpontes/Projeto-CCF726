@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-43-00027",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Cuiabá - MT",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Arte no Porto 2027",
+   "local_geral": "Orla do Porto - Cuiabá"
+  },
+  "atividades": [
+   {
+    "nome": "Feira de Artesanato",
+    "lugar": "Praça do Porto",
+    "dataInicio": "2027-08-07T15:00:00-03:00",
+    "dataFim": "2027-08-07T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura da Exposição Fotográfica",
+    "lugar": "Galeria do Museu do Rio",
+    "dataInicio": "2027-08-07T16:00:00-03:00",
+    "dataFim": "2027-08-07T17:00:00-03:00",
+    "descricao": "<p>Mostra <i>Pantanal em Cores</i>, de <b>Rosângela Campos</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Viola de Cocho",
+    "lugar": "Tenda de Oficinas",
+    "dataInicio": "2027-08-07T16:00:00-03:00",
+    "dataFim": "2027-08-07T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cortejo de Siriri",
+    "lugar": null,
+    "dataInicio": "2027-08-07T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Abertura",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-08-07T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Viola de Cocho",
+    "lugar": "Tenda de Oficinas",
+    "dataInicio": "2027-08-08T09:00:00-03:00",
+    "dataFim": "2027-08-08T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Contação de Histórias Pantaneiras",
+    "lugar": "Espaço Infantil",
+    "dataInicio": "2027-08-08T09:00:00-03:00",
+    "dataFim": "2027-08-08T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Xilogravura",
+    "lugar": "Tenda de Oficinas",
+    "dataInicio": "2027-08-08T14:00:00-03:00",
+    "dataFim": "2027-08-08T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Guiada à Exposição",
+    "lugar": "Galeria do Museu do Rio",
+    "dataInicio": "2027-08-08T14:00:00-03:00",
+    "dataFim": "2027-08-08T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Guiada à Exposição",
+    "lugar": "Galeria do Museu do Rio",
+    "dataInicio": "2027-08-08T16:00:00-03:00",
+    "dataFim": "2027-08-08T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Cururu",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-08-08T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": "Palco Principal",
+    "dataInicio": "2027-08-08T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

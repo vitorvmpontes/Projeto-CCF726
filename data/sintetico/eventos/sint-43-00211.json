@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00211",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Meninas Digitais do Triângulo 2024",
+   "local_geral": "UFU - Campus Santa Mônica"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2024-05-10T13:30:00-03:00",
+    "dataFim": "2024-05-10T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2024-05-10T14:00:00-03:00",
+    "dataFim": "2024-05-10T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Arduino",
+    "lugar": "Laboratório 1B",
+    "dataInicio": "2024-05-11T09:00:00-03:00",
+    "dataFim": "2024-05-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Desenvolvimento Web",
+    "lugar": "Laboratório 2B",
+    "dataInicio": "2024-05-11T09:00:00-03:00",
+    "dataFim": "2024-05-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   }
+  ]
+ }
+}

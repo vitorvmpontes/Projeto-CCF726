@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-43-00147",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Curitiba - PR",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Paranaense de Inteligência Artificial 2025",
+   "local_geral": "Campus Centro Politécnico"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2025-10-09T08:30:00-03:00",
+    "dataFim": "2025-10-09T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Keynote",
+    "lugar": "Auditório",
+    "dataInicio": "2025-10-09T09:00:00-03:00",
+    "dataFim": "2025-10-09T10:00:00-03:00",
+    "descricao": "<p>Com <b>Dra. Renata Wosniak</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Café",
+    "lugar": null,
+    "dataInicio": "2025-10-09T10:00:00-03:00",
+    "dataFim": "2025-10-09T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de LLMs na Prática",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2025-10-09T10:30:00-03:00",
+    "dataFim": "2025-10-09T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Visão Computacional",
+    "lugar": "Laboratório 2",
+    "dataInicio": "2025-10-09T10:30:00-03:00",
+    "dataFim": "2025-10-09T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-10-09T12:30:00-03:00",
+    "dataFim": "2025-10-09T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel",
+    "lugar": "Auditório",
+    "dataInicio": "2025-10-09T14:00:00-03:00",
+    "dataFim": "2025-10-09T15:30:00-03:00",
+    "descricao": "<p>IA responsável no setor público.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de MLOps",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2025-10-09T16:00:00-03:00",
+    "dataFim": "2025-10-09T18:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Agentes com LLMs",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2025-10-10T09:00:00-03:00",
+    "dataFim": "2025-10-10T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Séries Temporais",
+    "lugar": "Laboratório 2",
+    "dataInicio": "2025-10-10T09:00:00-03:00",
+    "dataFim": "2025-10-10T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sessão de Demos",
+    "lugar": "Auditório",
+    "dataInicio": "2025-10-10T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-10-10T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

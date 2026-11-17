@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-43-00233",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada de Avaliação Institucional UFMT 2024",
+   "local_geral": "Teatro Universitário - UFMT"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-11-05T08:00:00-03:00",
+    "dataFim": "2024-11-05T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura dos Indicadores",
+    "lugar": null,
+    "dataInicio": "2024-11-05T08:30:00-03:00",
+    "dataFim": "2024-11-05T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta Ativa com Estudantes",
+    "lugar": null,
+    "dataInicio": "2024-11-05T10:45:00-03:00",
+    "dataFim": "2024-11-05T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura dos Indicadores",
+    "lugar": null,
+    "dataInicio": "2024-11-05T19:00:00-03:00",
+    "dataFim": "2024-11-05T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta Ativa com Estudantes",
+    "lugar": null,
+    "dataInicio": "2024-11-06T09:00:00-03:00",
+    "dataFim": "2024-11-06T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação do Plano de Melhorias",
+    "lugar": null,
+    "dataInicio": "2024-11-06T10:45:00-03:00",
+    "dataFim": "2024-11-06T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-11-06T11:45:00-03:00",
+    "dataFim": "2024-11-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-43-00083",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Campo Grande - MS",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Mostra de Extensão da UCDB 2023",
+   "local_geral": "Teatro da UCDB"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-10-24T18:00:00-03:00",
+    "dataFim": "2023-10-24T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura com Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2023-10-24T19:00:00-03:00",
+    "dataFim": "2023-10-24T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Saúde e Comunidade",
+    "lugar": null,
+    "dataInicio": "2023-10-25T19:00:00-03:00",
+    "dataFim": "2023-10-25T20:30:00-03:00",
+    "descricao": null,
+    "secao": "Apresentações"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-10-25T20:30:00-03:00",
+    "dataFim": "2023-10-25T20:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Educação e Cultura",
+    "lugar": null,
+    "dataInicio": "2023-10-25T20:45:00-03:00",
+    "dataFim": "2023-10-25T22:00:00-03:00",
+    "descricao": null,
+    "secao": "Apresentações"
+   },
+   {
+    "nome": "Sessão Meio Ambiente e Tecnologia",
+    "lugar": null,
+    "dataInicio": "2023-10-26T19:00:00-03:00",
+    "dataFim": "2023-10-26T20:30:00-03:00",
+    "descricao": null,
+    "secao": "Apresentações"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-10-26T20:45:00-03:00",
+    "dataFim": "2023-10-26T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

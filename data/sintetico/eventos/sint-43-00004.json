@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-43-00004",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Viçosa - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana do Meio Ambiente UFV 2024",
+   "local_geral": "Campus Viçosa"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2024-06-05T08:30:00-03:00",
+    "dataFim": "2024-06-05T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Trilha Ecológica na Mata do Paraíso",
+    "lugar": "Mata do Paraíso",
+    "dataInicio": "2024-06-05T09:00:00-03:00",
+    "dataFim": "2024-06-05T11:30:00-03:00",
+    "descricao": "<p>Saída do ponto de ônibus da Reitoria.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Compostagem Doméstica",
+    "lugar": "Horta Comunitária",
+    "dataInicio": "2024-06-05T14:00:00-03:00",
+    "dataFim": "2024-06-05T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mutirão de Plantio",
+    "lugar": "Lagoa Silvana",
+    "dataInicio": "2024-06-05T16:00:00-03:00",
+    "dataFim": "2024-06-05T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Trilha Ecológica na Mata do Paraíso",
+    "lugar": "Mata do Paraíso",
+    "dataInicio": "2024-06-06T08:00:00-03:00",
+    "dataFim": "2024-06-06T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Trocas Sustentáveis",
+    "lugar": "Praça do Restaurante Universitário",
+    "dataInicio": "2024-06-06T09:00:00-03:00",
+    "dataFim": "2024-06-06T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mutirão de Plantio",
+    "lugar": "Lagoa Silvana",
+    "dataInicio": "2024-06-06T14:00:00-03:00",
+    "dataFim": "2024-06-06T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cine Ambiental",
+    "lugar": "Espaço Acadêmico-Cultural Fernando Sabino",
+    "dataInicio": "2024-06-06T19:00:00-03:00",
+    "dataFim": "2024-06-06T21:00:00-03:00",
+    "descricao": "<p>Exibição do documentário <i>Águas do Cerrado</i> seguida de debate.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

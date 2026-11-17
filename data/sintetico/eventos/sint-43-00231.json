@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-43-00231",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Florestal - MG",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 10,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Florestal Game Jam 2027",
+   "local_geral": "UFV - Campus Florestal"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Anúncio do Tema",
+    "lugar": "Auditório",
+    "dataInicio": "2027-09-24T18:00:00-03:00",
+    "dataFim": "2027-09-24T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Formação dos Times",
+    "lugar": "Auditório",
+    "dataInicio": "2027-09-24T18:30:00-03:00",
+    "dataFim": "2027-09-24T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Unity",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2027-09-24T19:30:00-03:00",
+    "dataFim": "2027-09-24T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Trilha Sonora para Jogos",
+    "lugar": "Laboratório 2",
+    "dataInicio": "2027-09-24T19:30:00-03:00",
+    "dataFim": "2027-09-24T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2027-09-24T21:00:00-03:00",
+    "dataFim": "2027-09-24T22:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": "Cantina",
+    "dataInicio": "2027-09-25T07:30:00-03:00",
+    "dataFim": "2027-09-25T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2027-09-25T10:00:00-03:00",
+    "dataFim": "2027-09-25T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2027-09-25T15:00:00-03:00",
+    "dataFim": "2027-09-25T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Jogos",
+    "lugar": "Auditório",
+    "dataInicio": "2027-09-25T18:00:00-03:00",
+    "dataFim": "2027-09-25T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": "Auditório",
+    "dataInicio": "2027-09-25T19:30:00-03:00",
+    "dataFim": "2027-09-25T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

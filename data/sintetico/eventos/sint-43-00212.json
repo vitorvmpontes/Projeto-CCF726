@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00212",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festa de São Sebastião 2027 - Comunidade do Alto da Boa Vista",
+   "local_geral": "Capela de São Sebastião"
+  },
+  "atividades": [
+   {
+    "nome": "Missa Solene",
+    "lugar": null,
+    "dataInicio": "2027-01-20T07:00:00-03:00",
+    "dataFim": "2027-01-20T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa Solene",
+    "lugar": null,
+    "dataInicio": "2027-01-20T19:00:00-03:00",
+    "dataFim": "2027-01-20T20:30:00-03:00",
+    "descricao": "<p>Presidida por <b>Dom Ricardo Albuquerque</b>, seguida de procissão.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

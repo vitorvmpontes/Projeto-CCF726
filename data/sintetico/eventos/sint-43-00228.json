@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00228",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Macapá - AP",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 2,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Amapá Game Jam 2024",
+   "local_geral": "IFAP - Campus Macapá"
+  },
+  "atividades": [
+   {
+    "nome": "Lanche Coletivo",
+    "lugar": null,
+    "dataInicio": "2024-04-20T16:00:00-03:00",
+    "dataFim": "2024-04-20T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lanche Coletivo",
+    "lugar": null,
+    "dataInicio": "2024-04-21T16:00:00-03:00",
+    "dataFim": "2024-04-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

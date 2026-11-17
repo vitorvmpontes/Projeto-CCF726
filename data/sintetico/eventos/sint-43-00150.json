@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00150",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Recife - PE",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroSemiárido Recife 2024",
+   "local_geral": "Universidade Federal Rural de Pernambuco"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-08-07T09:00:00-03:00",
+    "dataFim": "2024-08-07T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Fruticultura Irrigada",
+    "lugar": null,
+    "dataInicio": "2024-08-07T09:30:00-03:00",
+    "dataFim": "2024-08-07T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Desafio de Startups",
+    "lugar": null,
+    "dataInicio": "2024-08-08T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2024-08-08T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

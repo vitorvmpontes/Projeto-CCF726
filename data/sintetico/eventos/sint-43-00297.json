@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00297",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Copa Universitária de Esportes de Praia 2026",
+   "local_geral": "Praia de Copacabana - Posto 4"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": null,
+    "dataInicio": "2026-11-21T07:30:00-03:00",
+    "dataFim": "2026-11-21T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Vôlei de Praia",
+    "lugar": null,
+    "dataInicio": "2026-11-21T08:00:00-03:00",
+    "dataFim": "2026-11-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Beach Tennis",
+    "lugar": null,
+    "dataInicio": "2026-11-21T11:00:00-03:00",
+    "dataFim": "2026-11-21T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Futevôlei",
+    "lugar": null,
+    "dataInicio": "2026-11-21T14:00:00-03:00",
+    "dataFim": "2026-11-21T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-11-21T17:00:00-03:00",
+    "dataFim": "2026-11-21T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

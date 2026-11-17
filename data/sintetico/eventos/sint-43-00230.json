@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00230",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop de Inteligência Artificial da FACOM/UFMS 2024",
+   "local_geral": "Faculdade de Computação - UFMS"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-10-03T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Scikit-learn",
+    "lugar": null,
+    "dataInicio": "2024-10-03T08:30:00-03:00",
+    "dataFim": "2024-10-03T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Sensoriamento Remoto com Deep Learning",
+    "lugar": null,
+    "dataInicio": "2024-10-03T13:30:00-03:00",
+    "dataFim": "2024-10-03T17:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de RAG com LangChain",
+    "lugar": null,
+    "dataInicio": "2024-10-03T18:30:00-03:00",
+    "dataFim": "2024-10-03T21:30:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sorteio de Brindes",
+    "lugar": null,
+    "dataInicio": "2024-10-03T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

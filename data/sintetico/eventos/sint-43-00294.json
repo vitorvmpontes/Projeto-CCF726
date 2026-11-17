@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00294",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Manaus - AM",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Maratona de Programação do ICOMP-UFAM 2023",
+   "local_geral": "Instituto de Computação - UFAM"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento das Equipes",
+    "lugar": null,
+    "dataInicio": "2023-04-29T07:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Prova da Maratona",
+    "lugar": null,
+    "dataInicio": "2023-04-29T08:30:00-03:00",
+    "dataFim": "2023-04-29T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

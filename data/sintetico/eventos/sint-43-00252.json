@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-43-00252",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Brasília - DF",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Cerrado e Clima 2026",
+   "local_geral": "Brasília - DF"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-09-10T09:00:00-03:00",
+    "dataFim": "2026-09-10T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Cerrado, Berço das Águas",
+    "lugar": null,
+    "dataInicio": "2026-09-10T09:30:00-03:00",
+    "dataFim": "2026-09-10T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Transição Energética no DF",
+    "lugar": null,
+    "dataInicio": "2026-09-10T11:00:00-03:00",
+    "dataFim": "2026-09-10T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Grupo de Trabalho Restauração",
+    "lugar": "Sala 1",
+    "dataInicio": "2026-09-10T14:00:00-03:00",
+    "dataFim": "2026-09-10T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Grupo de Trabalho Cidades Sustentáveis",
+    "lugar": "Sala 2",
+    "dataInicio": "2026-09-10T14:00:00-03:00",
+    "dataFim": "2026-09-10T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Visita ao Jardim Botânico",
+    "lugar": null,
+    "dataInicio": "2026-09-11T08:30:00-03:00",
+    "dataFim": "2026-09-11T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Grupos de Trabalho",
+    "lugar": null,
+    "dataInicio": "2026-09-11T14:00:00-03:00",
+    "dataFim": "2026-09-11T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aprovação da Carta Final",
+    "lugar": null,
+    "dataInicio": "2026-09-11T15:30:00-03:00",
+    "dataFim": "2026-09-11T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-09-11T16:30:00-03:00",
+    "dataFim": "2026-09-11T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

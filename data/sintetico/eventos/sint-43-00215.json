@@ -1,0 +1,124 @@
+{
+ "spec": {
+  "id": "sint-43-00215",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Avaliação Institucional - CPA/UFU 2025",
+   "local_geral": "Campus Santa Mônica"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-09-23T08:30:00-03:00",
+    "dataFim": "2025-09-23T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação do Relatório de Autoavaliação",
+    "lugar": null,
+    "dataInicio": "2025-09-23T09:00:00-03:00",
+    "dataFim": "2025-09-23T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2025-09-23T10:00:00-03:00",
+    "dataFim": "2025-09-23T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Avaliação da Graduação",
+    "lugar": null,
+    "dataInicio": "2025-09-23T10:20:00-03:00",
+    "dataFim": "2025-09-23T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Grupo de Trabalho - Docentes",
+    "lugar": "Sala 1F-120",
+    "dataInicio": "2025-09-23T14:00:00-03:00",
+    "dataFim": "2025-09-23T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Grupo de Trabalho - Técnicos",
+    "lugar": "Sala 1F-122",
+    "dataInicio": "2025-09-23T14:00:00-03:00",
+    "dataFim": "2025-09-23T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Grupo de Trabalho - Discentes",
+    "lugar": "Sala 1F-124",
+    "dataInicio": "2025-09-23T14:00:00-03:00",
+    "dataFim": "2025-09-23T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Grupos de Trabalho"
+   },
+   {
+    "nome": "Palestra Indicadores do SINAES",
+    "lugar": null,
+    "dataInicio": "2025-09-24T09:00:00-03:00",
+    "dataFim": "2025-09-24T10:00:00-03:00",
+    "descricao": "<p>Com <b>Profa. Mirela Antunes</b> (INEP).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Socialização dos Grupos de Trabalho",
+    "lugar": null,
+    "dataInicio": "2025-09-24T10:15:00-03:00",
+    "dataFim": "2025-09-24T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-09-24T12:00:00-03:00",
+    "dataFim": "2025-09-24T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Planejamento das Ações de Melhoria",
+    "lugar": null,
+    "dataInicio": "2025-09-24T14:00:00-03:00",
+    "dataFim": "2025-09-24T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-09-24T16:30:00-03:00",
+    "dataFim": "2025-09-24T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

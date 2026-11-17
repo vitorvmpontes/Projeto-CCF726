@@ -1,0 +1,141 @@
+{
+ "spec": {
+  "id": "sint-43-00091",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Cuiabá - MT",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 14,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "MT Tech Week 2026",
+   "local_geral": "Centro de Eventos do Pantanal"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-11-04T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Keynote de Abertura",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-11-04T09:00:00-03:00",
+    "dataFim": "2026-11-04T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cloud Native em Escala",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-11-04T10:30:00-03:00",
+    "dataFim": "2026-11-04T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Analytics para o Agro",
+    "lugar": "Sala Cerrado",
+    "dataInicio": "2026-11-04T10:30:00-03:00",
+    "dataFim": "2026-11-04T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura do Hackathon",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2026-11-04T14:00:00-03:00",
+    "dataFim": "2026-11-04T14:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Hackathon - Desenvolvimento",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2026-11-04T14:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Segurança em APIs",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-11-05T09:00:00-03:00",
+    "dataFim": "2026-11-05T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Carreira Remota em Tecnologia",
+    "lugar": "Sala Cerrado",
+    "dataInicio": "2026-11-05T09:00:00-03:00",
+    "dataFim": "2026-11-05T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentorias com os Times",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2026-11-05T14:00:00-03:00",
+    "dataFim": "2026-11-05T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Happy Hour de Networking",
+    "lugar": null,
+    "dataInicio": "2026-11-05T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega dos Projetos",
+    "lugar": "Arena Hackathon",
+    "dataInicio": "2026-11-06T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitches Finais",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-11-06T10:00:00-03:00",
+    "dataFim": "2026-11-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "IA Generativa em Produção",
+    "lugar": "Sala Cerrado",
+    "dataInicio": "2026-11-06T10:00:00-03:00",
+    "dataFim": "2026-11-06T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Palco Principal",
+    "dataInicio": "2026-11-06T14:00:00-03:00",
+    "dataFim": "2026-11-06T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

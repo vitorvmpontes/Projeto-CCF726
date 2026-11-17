@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00209",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Uberlândia - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local",
+   "intervalos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana Acadêmica de Engenharia Mecânica UFU 2026",
+   "local_geral": "Campus Santa Mônica"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-04-27T18:30:00-03:00",
+    "dataFim": "2026-04-27T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2026-04-27T19:00:00-03:00",
+    "dataFim": "2026-04-27T20:30:00-03:00",
+    "descricao": "<p>Com <b>Henrique Valadares</b>, engenheiro da indústria automotiva.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

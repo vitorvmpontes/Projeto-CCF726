@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00034",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Campinas - SP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Campinas de IA Generativa 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2023-08-26T09:00:00-03:00",
+    "dataFim": "2023-08-26T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de LLMs",
+    "lugar": "Laboratório 1",
+    "dataInicio": "2023-08-26T10:30:00-03:00",
+    "dataFim": "2023-08-26T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Visão Computacional",
+    "lugar": "Laboratório 2",
+    "dataInicio": "2023-08-26T10:30:00-03:00",
+    "dataFim": "2023-08-26T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Painel de Encerramento",
+    "lugar": "Auditório",
+    "dataInicio": "2023-08-26T14:00:00-03:00",
+    "dataFim": "2023-08-26T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-43-00190",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Fortaleza - CE",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada Pedagógica de Fortaleza 2025",
+   "local_geral": "Centro de Eventos do Ceará"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-01-27T08:00:00-03:00",
+    "dataFim": "2025-01-27T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Pensamento Computacional",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-01-27T09:30:00-03:00",
+    "dataFim": "2025-01-27T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Educação Antirracista",
+    "lugar": "Sala 2",
+    "dataInicio": "2025-01-27T09:30:00-03:00",
+    "dataFim": "2025-01-27T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Saúde Mental Docente",
+    "lugar": null,
+    "dataInicio": "2025-01-27T14:00:00-03:00",
+    "dataFim": "2025-01-27T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Pensamento Computacional",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-01-28T08:00:00-03:00",
+    "dataFim": "2025-01-28T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Educação Antirracista",
+    "lugar": "Sala 2",
+    "dataInicio": "2025-01-28T08:00:00-03:00",
+    "dataFim": "2025-01-28T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-01-28T10:30:00-03:00",
+    "dataFim": "2025-01-28T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

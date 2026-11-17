@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00249",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 2,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Geologia da UnB 2025",
+   "local_geral": "Instituto de Geociências - UnB"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-05-19T08:00:00-03:00",
+    "dataFim": "2025-05-19T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Confraternização de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-05-21T18:00:00-03:00",
+    "dataFim": "2025-05-21T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00232",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Brasília - DF",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada de Emergência e Trauma do DF 2026",
+   "local_geral": "Hospital de Base do Distrito Federal"
+  },
+  "atividades": [
+   {
+    "nome": "Curso de Suporte Básico de Vida",
+    "lugar": null,
+    "dataInicio": "2026-08-14T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Vagas limitadas a 30 participantes por turma.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Curso de Suporte Básico de Vida",
+    "lugar": null,
+    "dataInicio": "2026-08-15T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

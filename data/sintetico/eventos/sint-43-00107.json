@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-43-00107",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Brasília - DF",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Arquidiocesano da Pastoral Familiar 2024",
+   "local_geral": "Centro de Pastoral Paulo VI"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida e Café",
+    "lugar": null,
+    "dataInicio": "2024-08-10T07:30:00-03:00",
+    "dataFim": "2024-08-10T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": null,
+    "dataInicio": "2024-08-10T08:30:00-03:00",
+    "dataFim": "2024-08-10T09:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina para Casais",
+    "lugar": "Sala São José",
+    "dataInicio": "2024-08-10T10:00:00-03:00",
+    "dataFim": "2024-08-10T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina para Jovens",
+    "lugar": "Sala Santa Teresinha",
+    "dataInicio": "2024-08-10T10:00:00-03:00",
+    "dataFim": "2024-08-10T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Partilhado",
+    "lugar": null,
+    "dataInicio": "2024-08-10T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Bênção de Envio",
+    "lugar": null,
+    "dataInicio": "2024-08-10T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

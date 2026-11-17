@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-43-00186",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Manaus - AM",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Educadores da Rede Estadual do Amazonas 2025",
+   "local_geral": "Centro de Formação Padre José Anchieta"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-02-06T07:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Educação Escolar Indígena",
+    "lugar": "Auditório",
+    "dataInicio": "2025-02-06T08:00:00-03:00",
+    "dataFim": "2025-02-06T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2025-02-06T09:30:00-03:00",
+    "dataFim": "2025-02-06T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura e Escrita",
+    "lugar": "Sala 3",
+    "dataInicio": "2025-02-06T10:00:00-03:00",
+    "dataFim": "2025-02-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Robótica com Sucata",
+    "lugar": "Laboratório de Informática",
+    "dataInicio": "2025-02-06T10:00:00-03:00",
+    "dataFim": "2025-02-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-02-06T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

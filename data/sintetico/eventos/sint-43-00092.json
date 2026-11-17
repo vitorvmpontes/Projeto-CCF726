@@ -1,0 +1,52 @@
+{
+ "spec": {
+  "id": "sint-43-00092",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada de Espiritualidade Luterana 2023",
+   "local_geral": "Comunidade Evangélica Cristo - Partenon"
+  },
+  "atividades": [
+   {
+    "nome": "Culto de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-09-29T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Canto Coral",
+    "lugar": null,
+    "dataInicio": "2023-09-30T09:00:00-03:00",
+    "dataFim": "2023-09-30T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Culto de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-09-30T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

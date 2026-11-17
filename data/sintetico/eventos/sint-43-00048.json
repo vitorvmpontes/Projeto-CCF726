@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00048",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Londrina - PR",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada de Direito Previdenciário de Londrina 2023",
+   "local_geral": "Subseção da OAB Londrina"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-09-29T08:00:00-03:00",
+    "dataFim": "2023-09-29T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Cálculos Previdenciários",
+    "lugar": "Sala 1",
+    "dataInicio": "2023-09-29T08:30:00-03:00",
+    "dataFim": "2023-09-29T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atendimento Simulado",
+    "lugar": "Sala 2",
+    "dataInicio": "2023-09-29T08:30:00-03:00",
+    "dataFim": "2023-09-29T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Cálculos Previdenciários",
+    "lugar": "Sala 1",
+    "dataInicio": "2023-09-29T10:30:00-03:00",
+    "dataFim": "2023-09-29T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

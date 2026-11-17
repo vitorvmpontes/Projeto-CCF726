@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00271",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Brasileiro de Ensino de Estatística - CBEE 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2026-07-30T14:00:00-03:00",
+    "dataFim": "2026-07-30T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2026-07-30T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

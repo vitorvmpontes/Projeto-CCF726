@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00276",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Campinas - SP",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "nomes_repetidos",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "HackCampinas Fintech 2027",
+   "local_geral": "Espaço Taquaral Hub"
+  },
+  "atividades": [
+   {
+    "nome": "Mentoria com Engenheiros",
+    "lugar": null,
+    "dataInicio": "2027-02-27T10:00:00-03:00",
+    "dataFim": "2027-02-27T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-02-27T12:00:00-03:00",
+    "dataFim": "2027-02-27T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria com Engenheiros",
+    "lugar": null,
+    "dataInicio": "2027-02-27T14:00:00-03:00",
+    "dataFim": "2027-02-27T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

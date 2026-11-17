@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00075",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Salvador - BA",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Bahia AgroTech Day 2024",
+   "local_geral": "Centro de Convenções Salvador"
+  },
+  "atividades": [
+   {
+    "nome": "Mentoria com Investidores",
+    "lugar": "Sala 1",
+    "dataInicio": "2024-06-11T14:00:00-03:00",
+    "dataFim": "2024-06-11T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Fruticultura Irrigada",
+    "lugar": "Auditório",
+    "dataInicio": "2024-06-11T14:00:00-03:00",
+    "dataFim": "2024-06-11T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria com Investidores",
+    "lugar": "Sala 1",
+    "dataInicio": "2024-06-12T10:00:00-03:00",
+    "dataFim": "2024-06-12T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

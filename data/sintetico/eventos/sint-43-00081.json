@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00081",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Fortaleza - CE",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Ceará Empreende 2025",
+   "local_geral": "Centro de Eventos do Ceará"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": "Pavilhão Leste",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Credenciamento",
+    "lugar": "Pavilhão Oeste",
+    "dataInicio": "2025-05-14T08:00:00-03:00",
+    "dataFim": "2025-05-14T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

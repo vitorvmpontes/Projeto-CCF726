@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00177",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Campo Grande - MS",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Mostra de Extensão da UFMS 2023",
+   "local_geral": "Cidade Universitária - UFMS"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-10-26T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Projetos",
+    "lugar": null,
+    "dataInicio": "2023-10-26T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentações Orais",
+    "lugar": null,
+    "dataInicio": "2023-10-26T09:00:00-03:00",
+    "dataFim": "2023-10-26T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com a Comunidade",
+    "lugar": null,
+    "dataInicio": "2023-10-26T14:00:00-03:00",
+    "dataFim": "2023-10-26T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega de Certificados",
+    "lugar": null,
+    "dataInicio": "2023-10-26T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

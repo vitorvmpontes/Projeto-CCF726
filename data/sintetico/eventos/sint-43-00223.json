@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-43-00223",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Goiânia - GO",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário de Avaliação Institucional 2026 - CPA PUC Goiás",
+   "local_geral": "Área I - Auditório 2"
+  },
+  "atividades": [
+   {
+    "nome": "Apresentação dos Resultados",
+    "lugar": null,
+    "dataInicio": "2026-05-14T08:30:00-03:00",
+    "dataFim": "2026-05-14T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Diálogo com Estudantes",
+    "lugar": null,
+    "dataInicio": "2026-05-14T09:30:00-03:00",
+    "dataFim": "2026-05-14T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reunião com Coordenadores de Curso",
+    "lugar": null,
+    "dataInicio": "2026-05-14T14:00:00-03:00",
+    "dataFim": "2026-05-14T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Resultados",
+    "lugar": null,
+    "dataInicio": "2026-05-14T19:00:00-03:00",
+    "dataFim": "2026-05-14T20:00:00-03:00",
+    "descricao": "<p>Sessão voltada aos cursos do turno da noite.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Roda de Diálogo com Estudantes",
+    "lugar": null,
+    "dataInicio": "2026-05-14T20:00:00-03:00",
+    "dataFim": "2026-05-14T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-14T21:30:00-03:00",
+    "dataFim": "2026-05-14T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

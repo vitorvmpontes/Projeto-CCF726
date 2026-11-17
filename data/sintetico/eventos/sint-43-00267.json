@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-43-00267",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Florianópolis - SC",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Ilha Empreendedora 2026",
+   "local_geral": "Centrosul"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-04-16T08:30:00-03:00",
+    "dataFim": "2026-04-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Economia do Mar",
+    "lugar": null,
+    "dataInicio": "2026-04-16T09:00:00-03:00",
+    "dataFim": "2026-04-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2026-04-16T10:00:00-03:00",
+    "dataFim": "2026-04-16T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Precificação",
+    "lugar": null,
+    "dataInicio": "2026-04-16T10:20:00-03:00",
+    "dataFim": "2026-04-16T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-04-16T12:00:00-03:00",
+    "dataFim": "2026-04-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": null,
+    "dataInicio": "2026-04-16T13:30:00-03:00",
+    "dataFim": "2026-04-16T17:00:00-03:00",
+    "descricao": "<p>Inscrições prévias para compradores e fornecedores.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

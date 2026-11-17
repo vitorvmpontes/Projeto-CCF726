@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00054",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Florianópolis - SC",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Avaliação Institucional da UDESC 2025",
+   "local_geral": "Auditório da Reitoria - UDESC"
+  },
+  "atividades": [
+   {
+    "nome": "Apresentação do Relatório de Autoavaliação",
+    "lugar": null,
+    "dataInicio": "2025-09-17T09:00:00-03:00",
+    "dataFim": "2025-09-17T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta Ativa com a Comunidade",
+    "lugar": null,
+    "dataInicio": "2025-09-17T10:00:00-03:00",
+    "dataFim": "2025-09-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta Ativa com a Comunidade",
+    "lugar": null,
+    "dataInicio": "2025-09-17T14:00:00-03:00",
+    "dataFim": "2025-09-17T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encaminhamentos",
+    "lugar": null,
+    "dataInicio": "2025-09-17T16:00:00-03:00",
+    "dataFim": "2025-09-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00120",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "II Simpósio de Pós-Graduação em Agricultura Tropical - UFMT 2024",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Mostra de Pôsteres",
+    "lugar": "Hall da FAAZ",
+    "dataInicio": "2024-10-23T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Pôsteres",
+    "lugar": "Hall do ICET",
+    "dataInicio": "2024-10-23T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

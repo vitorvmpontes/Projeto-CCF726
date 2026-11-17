@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00090",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Viçosa - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival do Queijo e do Café de Viçosa 2026",
+   "local_geral": "Praça Silviano Brandão"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura da Feira",
+    "lugar": null,
+    "dataInicio": "2026-07-18T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Frango com Ora-pro-nóbis",
+    "lugar": null,
+    "dataInicio": "2026-07-18T11:00:00-03:00",
+    "dataFim": "2026-07-18T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Cafés da Zona da Mata",
+    "lugar": null,
+    "dataInicio": "2026-07-18T14:00:00-03:00",
+    "dataFim": "2026-07-18T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Frango com Ora-pro-nóbis",
+    "lugar": null,
+    "dataInicio": "2026-07-18T16:00:00-03:00",
+    "dataFim": "2026-07-18T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Cafés da Zona da Mata",
+    "lugar": null,
+    "dataInicio": "2026-07-18T17:30:00-03:00",
+    "dataFim": "2026-07-18T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Seresta na Praça",
+    "lugar": null,
+    "dataInicio": "2026-07-18T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

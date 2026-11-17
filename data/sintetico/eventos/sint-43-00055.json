@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00055",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "São Paulo - SP",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada de Fé da Paróquia Nossa Senhora do Ó 2026",
+   "local_geral": "Largo da Matriz - Freguesia do Ó"
+  },
+  "atividades": [
+   {
+    "nome": "Santa Missa",
+    "lugar": null,
+    "dataInicio": "2026-08-15T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Procissão",
+    "lugar": null,
+    "dataInicio": "2026-08-16T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Santa Missa",
+    "lugar": null,
+    "dataInicio": "2026-08-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

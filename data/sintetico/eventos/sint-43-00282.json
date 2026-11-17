@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00282",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Macapá - AP",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Empreendedores do Amapá - Sebrae 2025",
+   "local_geral": "Sebrae Amapá"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-03-20T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Vendas pelo WhatsApp",
+    "lugar": null,
+    "dataInicio": "2025-03-20T08:30:00-03:00",
+    "dataFim": "2025-03-20T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

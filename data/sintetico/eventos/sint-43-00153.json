@@ -1,0 +1,92 @@
+{
+ "spec": {
+  "id": "sint-43-00153",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Natal - RN",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Mostra de Extensão da UFRN 2024",
+   "local_geral": "Centro de Convivência"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-10-15T08:30:00-03:00",
+    "dataFim": "2024-10-15T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição dos Projetos",
+    "lugar": null,
+    "dataInicio": "2024-10-15T09:30:00-03:00",
+    "dataFim": "2024-10-15T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição dos Projetos",
+    "lugar": null,
+    "dataInicio": "2024-10-16T08:00:00-03:00",
+    "dataFim": "2024-10-16T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa",
+    "lugar": null,
+    "dataInicio": "2024-10-16T14:00:00-03:00",
+    "dataFim": "2024-10-16T16:00:00-03:00",
+    "descricao": "<p>Extensão e comunidades tradicionais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Exposição dos Projetos",
+    "lugar": null,
+    "dataInicio": "2024-10-17T08:00:00-03:00",
+    "dataFim": "2024-10-17T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2024-10-17T10:00:00-03:00",
+    "dataFim": "2024-10-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2024-10-17T14:00:00-03:00",
+    "dataFim": "2024-10-17T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-10-17T15:00:00-03:00",
+    "dataFim": "2024-10-17T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

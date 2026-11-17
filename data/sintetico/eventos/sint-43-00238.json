@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-43-00238",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Viçosa - MG",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário de Recursos Hídricos da Zona da Mata 2027",
+   "local_geral": "UFV - Campus Viçosa"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2027-03-22T08:00:00-03:00",
+    "dataFim": "2027-03-22T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Crise Hídrica na Zona da Mata",
+    "lugar": null,
+    "dataInicio": "2027-03-22T08:30:00-03:00",
+    "dataFim": "2027-03-22T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Geoprocessamento com QGIS",
+    "lugar": "Laboratório de Informática do DEA",
+    "dataInicio": "2027-03-22T10:00:00-03:00",
+    "dataFim": "2027-03-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Análise de Água",
+    "lugar": "Laboratório de Qualidade da Água",
+    "dataInicio": "2027-03-22T10:00:00-03:00",
+    "dataFim": "2027-03-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Visita à Estação de Tratamento do SAAE",
+    "lugar": null,
+    "dataInicio": "2027-03-22T14:00:00-03:00",
+    "dataFim": "2027-03-22T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Gestão Participativa das Águas",
+    "lugar": null,
+    "dataInicio": "2027-03-22T16:30:00-03:00",
+    "dataFim": "2027-03-22T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Geoprocessamento com QGIS",
+    "lugar": "Laboratório de Informática do DEA",
+    "dataInicio": "2027-03-23T08:00:00-03:00",
+    "dataFim": "2027-03-23T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Análise de Água",
+    "lugar": "Laboratório de Qualidade da Água",
+    "dataInicio": "2027-03-23T08:00:00-03:00",
+    "dataFim": "2027-03-23T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Visita à Estação de Tratamento do SAAE",
+    "lugar": null,
+    "dataInicio": "2027-03-23T10:30:00-03:00",
+    "dataFim": "2027-03-23T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2027-03-23T14:00:00-03:00",
+    "dataFim": "2027-03-23T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": null,
+    "dataInicio": "2027-03-23T16:00:00-03:00",
+    "dataFim": "2027-03-23T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Confraternização",
+    "lugar": null,
+    "dataInicio": "2027-03-23T17:00:00-03:00",
+    "dataFim": "2027-03-23T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

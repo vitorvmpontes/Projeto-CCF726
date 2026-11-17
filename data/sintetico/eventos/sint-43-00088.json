@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00088",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Londrina - PR",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festa da Padroeira - Paróquia Nossa Senhora Aparecida 2026",
+   "local_geral": "Jardim Bandeirantes, Londrina"
+  },
+  "atividades": [
+   {
+    "nome": "Alvorada Festiva",
+    "lugar": null,
+    "dataInicio": "2026-10-12T06:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa Solene",
+    "lugar": null,
+    "dataInicio": "2026-10-12T10:00:00-03:00",
+    "dataFim": "2026-10-12T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Comunitário",
+    "lugar": null,
+    "dataInicio": "2026-10-12T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Procissão Luminosa",
+    "lugar": null,
+    "dataInicio": "2026-10-12T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

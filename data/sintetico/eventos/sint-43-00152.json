@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-43-00152",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "São Paulo - SP",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Letras da Unifesp 2026",
+   "local_geral": "Campus Guarulhos"
+  },
+  "atividades": [
+   {
+    "nome": "Exposição de Zines",
+    "lugar": "Hall do Prédio Central",
+    "dataInicio": "2026-04-14T18:00:00-03:00",
+    "dataFim": "2026-04-14T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2026-04-14T19:00:00-03:00",
+    "dataFim": "2026-04-14T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Auditório",
+    "dataInicio": "2026-04-14T19:30:00-03:00",
+    "dataFim": "2026-04-14T21:00:00-03:00",
+    "descricao": "<p>Com a escritora <b>Lívia Okada</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Tradução Audiovisual",
+    "lugar": "Sala 12",
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Revisão de Textos",
+    "lugar": "Sala 14",
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Tradução Audiovisual",
+    "lugar": "Sala 12",
+    "dataInicio": "2026-04-15T16:30:00-03:00",
+    "dataFim": "2026-04-15T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sarau Literário",
+    "lugar": "Pátio",
+    "dataInicio": "2026-04-15T19:00:00-03:00",
+    "dataFim": "2026-04-15T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lançamento da Revista Discente",
+    "lugar": "Pátio",
+    "dataInicio": "2026-04-15T20:30:00-03:00",
+    "dataFim": "2026-04-15T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-43-00102",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Curitiba - PR",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana Acadêmica de Arquitetura e Urbanismo da PUCPR 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório do Bloco Azul",
+    "dataInicio": "2023-04-24T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Habitação Social em Curitiba",
+    "lugar": "Auditório do Bloco Azul",
+    "dataInicio": "2023-04-24T19:30:00-03:00",
+    "dataFim": "2023-04-24T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Revit",
+    "lugar": "Laboratório de Informática 3",
+    "dataInicio": "2023-04-25T08:00:00-03:00",
+    "dataFim": "2023-04-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Workshops"
+   },
+   {
+    "nome": "Workshop de Croqui Urbano",
+    "lugar": "Ateliê 2",
+    "dataInicio": "2023-04-25T08:00:00-03:00",
+    "dataFim": "2023-04-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Workshops"
+   },
+   {
+    "nome": "Caminhada Arquitetônica pelo Centro Histórico",
+    "lugar": "Praça Tiradentes",
+    "dataInicio": "2023-04-25T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Maquetes",
+    "lugar": "Hall do Bloco Azul",
+    "dataInicio": "2023-04-25T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Festa de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-04-25T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

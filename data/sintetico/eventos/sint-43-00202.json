@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00202",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Viçosa - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova Viçosa 2023",
+   "local_geral": "Departamento de Engenharia Agrícola - UFV"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-06-28T08:00:00-03:00",
+    "dataFim": "2023-06-28T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Cafeicultura de Precisão",
+    "lugar": null,
+    "dataInicio": "2023-06-28T08:30:00-03:00",
+    "dataFim": "2023-06-28T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups do Agro",
+    "lugar": null,
+    "dataInicio": "2023-06-28T10:00:00-03:00",
+    "dataFim": "2023-06-28T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demonstração de Drones",
+    "lugar": null,
+    "dataInicio": "2023-06-28T14:00:00-03:00",
+    "dataFim": "2023-06-28T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-06-28T16:00:00-03:00",
+    "dataFim": "2023-06-28T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -162,6 +162,34 @@ def cmd_montar(args) -> int:
     return 0
 
 
+def qualidade_rotulos(revisao_dir: Path = SAIDA_DIR / "revisao") -> dict | None:
+    """Resultado do LLM-juiz (juiz_vereditos.json) e da conferência humana dos
+    vereditos (juiz_revisao.csv, coluna `concorda`), se existirem."""
+    vfile = revisao_dir / "juiz_vereditos.json"
+    if not vfile.exists():
+        return None
+    vs = [v for v in json.loads(vfile.read_text(encoding="utf-8")) if v.get("i", 0) >= 0]
+    erros = [v for v in vs if v["veredito"] != "ok"]
+    por_prof = {}
+    for v in vs:
+        d = por_prof.setdefault(v.get("modelo_professor", "?"), {"atividades": 0, "erros": 0})
+        d["atividades"] += 1
+        d["erros"] += v["veredito"] != "ok"
+    q = {"juiz": "claude-opus-5-5 (Cowork)", "exemplos": len({v["id"] for v in vs}), "atividades": len(vs),
+         "erros": len(erros), "taxa_erro": round(len(erros) / len(vs), 4) if vs else 0,
+         "por_veredito": dict(Counter(v["veredito"] for v in vs).most_common()), "por_professor": por_prof}
+    cfile = revisao_dir / "juiz_revisao.csv"
+    if cfile.exists():
+        import csv as _csv
+        with cfile.open(encoding="utf-8-sig", newline="") as f:
+            linhas = [r for r in _csv.DictReader(f, delimiter=";") if (r.get("n") or "").strip() and (r.get("concorda") or "").strip()]
+        if linhas:
+            sim = sum(r["concorda"].strip().lower() == "sim" for r in linhas)
+            q["conferencia_humana"] = {"vereditos": len(linhas), "concorda": sim,
+                                       "concordancia": round(sim / len(linhas), 3)}
+    return q
+
+
 def estatisticas(arquivos, train, val, rejeicoes, args) -> dict:
     todos = train + val
 
@@ -188,6 +216,7 @@ def estatisticas(arquivos, train, val, rejeicoes, args) -> dict:
         "caixa_alta": {"exemplos": sum(1 for e in todos if e["estilos"].get("maiusculas")),
                        "fracao": round(sum(1 for e in todos if e["estilos"].get("maiusculas")) / len(todos), 3) if todos else 0},
         "perfis": dist("perfil"),
+        "modelos_professor": dist("modelo_professor"),
         "estilos_evento": dist("estilo_evento"),
         "campos_ausentes": {
             "atividades_sem_lugar": frac(sum(1 for a in acts if not a["lugar"]), len(acts)),
@@ -199,7 +228,34 @@ def estatisticas(arquivos, train, val, rejeicoes, args) -> dict:
         "tipos_evento": dist("tipo_evento"),
         "casos": dict(Counter(c for e in todos for c in e["casos"]).most_common()),
         "tokens_estimados": {"p50": toks[len(toks) // 2], "p95": toks[int(0.95 * (len(toks) - 1))], "max": toks[-1]},
+        "qualidade_rotulos": qualidade_rotulos(),
     }
+
+
+def _secao_qualidade(q: dict | None) -> str:
+    if not q:
+        return "Ainda não avaliada (ver `data/processed/revisao/`)."
+    linhas = [
+        f"Avaliada por LLM como juiz ({q['juiz']}) numa amostra de {q['exemplos']} exemplos "
+        f"({q['atividades']} atividades), metade de cada professor, com os critérios de `data/test/ANOTACAO.md`. "
+        f"Detalhes em `data/processed/revisao/JUIZ.md`.",
+        "",
+        "| | |",
+        "|---|---|",
+        f"| Atividades com erro | {q['erros']} de {q['atividades']} ({100 * q['taxa_erro']:.1f}%) |",
+        f"| Vereditos | {', '.join(f'{k}: {v}' for k, v in q['por_veredito'].items())} |",
+    ]
+    for prof, d in q["por_professor"].items():
+        linhas.append(f"| Erros — {prof} | {d['erros']} de {d['atividades']} |")
+    if q.get("conferencia_humana"):
+        c = q["conferencia_humana"]
+        linhas.append(f"| Conferência humana dos vereditos | {c['concorda']} de {c['vereditos']} concordam "
+                      f"({100 * c['concordancia']:.0f}%) |")
+    linhas += ["", "Os erros encontrados vinham do renderizador (fim em outro dia sem data no texto; perfil que "
+               "apagava o local e criava duplicatas) e foram corrigidos antes da versão final. O juiz é o mesmo "
+               "modelo que gerou os eventos enxutos, o que pode torná-lo complacente com eles; por isso a "
+               "conferência humana."]
+    return "\n".join(linhas)
 
 
 def data_card(s: dict) -> str:
@@ -213,7 +269,7 @@ Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 ## Como foi construído
 
 1. Especificações de eventos sorteadas (`dataset_builder/spec.py`): tipo, cidade, ano, dias, número de atividades, casos difíceis e estilo (detalhado ou enxuto).
-2. O professor (Gemini) inventa cada evento já no formato do gabarito (`dataset_builder/teacher.py`).
+2. O professor inventa cada evento já no formato do gabarito (`dataset_builder/teacher.py`): `gemini-3.8-flash` nos eventos detalhados (via API) e Claude (`claude-opus-5-5`, numa sessão do Cowork, com as mesmas regras do prompt) nos 300 eventos enxutos da v1.1.
 3. O código renderiza cada evento como texto bruto, em layouts, ruídos e perfis variados (`dataset_builder/render.py`). O perfil apaga local e/ou descrição do texto e do rótulo ao mesmo tempo. Como o texto vem do rótulo, o rótulo é correto por construção.
 4. Filtros (`dataset_builder/filters.py`): schema, ancoragem (nome e local presentes no texto), datas (ano inferível do texto, fim ≥ início), tamanho e vazamento (nomes parecidos com os do conjunto de teste).
 5. Divisão treino/validação **por evento** (`val` = {s['parametros']['val']}).
@@ -230,6 +286,10 @@ Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 | Tokens estimados (p50 / p95 / máx.) | {s['tokens_estimados']['p50']} / {s['tokens_estimados']['p95']} / {s['tokens_estimados']['max']} |
 
 ### Estilos de evento e perfis de renderização
+
+| Professor | Exemplos |
+|---|---|
+{tab(s['modelos_professor'])}
 
 | Estilo do evento | Exemplos |
 |---|---|
@@ -262,6 +322,10 @@ Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 | Ruído | Exemplos |
 |---|---|
 {tab(s['ruidos'])}
+
+## Qualidade dos rótulos
+
+{_secao_qualidade(s.get('qualidade_rotulos'))}
 
 ## Limitações conhecidas
 

@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00096",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Salvador - BA",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Cultural Ribeira em Movimento 2027",
+   "local_geral": "Largo da Ribeira"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Percussão",
+    "lugar": null,
+    "dataInicio": "2027-01-16T15:00:00-03:00",
+    "dataFim": "2027-01-16T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Samba de Roda",
+    "lugar": null,
+    "dataInicio": "2027-01-16T19:00:00-03:00",
+    "dataFim": "2027-01-16T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição Memórias da Península",
+    "lugar": null,
+    "dataInicio": "2027-01-17T10:00:00-03:00",
+    "dataFim": "2027-01-17T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Percussão",
+    "lugar": null,
+    "dataInicio": "2027-01-17T15:00:00-03:00",
+    "dataFim": "2027-01-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": null,
+    "dataInicio": "2027-01-17T19:00:00-03:00",
+    "dataFim": "2027-01-17T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

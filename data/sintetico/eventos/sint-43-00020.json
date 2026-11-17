@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00020",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Elas no Código SP 2023",
+   "local_geral": "Mackenzie - Campus Higienópolis"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-03-11T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Trajetórias",
+    "lugar": null,
+    "dataInicio": "2023-03-11T09:00:00-03:00",
+    "dataFim": "2023-03-11T10:00:00-03:00",
+    "descricao": "<p>Com <b>Juliana Okabe</b> e <b>Renata Siqueira</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2023-03-11T10:00:00-03:00",
+    "dataFim": "2023-03-11T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Git para Iniciantes",
+    "lugar": null,
+    "dataInicio": "2023-03-11T10:30:00-03:00",
+    "dataFim": "2023-03-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-03-11T12:00:00-03:00",
+    "dataFim": "2023-03-11T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Mentoria",
+    "lugar": null,
+    "dataInicio": "2023-03-11T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

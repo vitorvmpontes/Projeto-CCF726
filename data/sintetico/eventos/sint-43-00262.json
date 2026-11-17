@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00262",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Macapá - AP",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Professores Alfabetizadores do Amapá 2024",
+   "local_geral": "Centro de Formação dos Profissionais da Educação do Amapá"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-03-21T08:00:00-03:00",
+    "dataFim": "2024-03-21T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura e Escrita na Alfabetização",
+    "lugar": null,
+    "dataInicio": "2024-03-21T08:30:00-03:00",
+    "dataFim": "2024-03-21T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa sobre Práticas de Sala de Aula",
+    "lugar": null,
+    "dataInicio": "2024-03-21T14:00:00-03:00",
+    "dataFim": "2024-03-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura e Escrita na Alfabetização",
+    "lugar": null,
+    "dataInicio": "2024-03-22T08:30:00-03:00",
+    "dataFim": "2024-03-22T11:30:00-03:00",
+    "descricao": "<p>Turma 2.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-03-22T11:30:00-03:00",
+    "dataFim": "2024-03-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

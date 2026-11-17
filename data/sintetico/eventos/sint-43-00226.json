@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00226",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Elas na Computação - UTFPR 2026",
+   "local_geral": "UTFPR - Sede Centro"
+  },
+  "atividades": [
+   {
+    "nome": "Painel Carreiras em Tecnologia",
+    "lugar": null,
+    "dataInicio": "2026-03-06T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Git e GitHub",
+    "lugar": null,
+    "dataInicio": "2026-03-07T09:00:00-03:00",
+    "dataFim": "2026-03-07T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Speed Mentoring",
+    "lugar": null,
+    "dataInicio": "2026-03-07T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Happy Hour de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-03-07T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

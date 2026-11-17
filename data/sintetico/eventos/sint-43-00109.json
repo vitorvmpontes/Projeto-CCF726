@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00109",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Recife - PE",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Recife IA 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Minicurso de PyTorch",
+    "lugar": null,
+    "dataInicio": "2026-06-13T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Turma da manhã, com <b>Marília Cavalcanti</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de PyTorch",
+    "lugar": null,
+    "dataInicio": "2026-06-13T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

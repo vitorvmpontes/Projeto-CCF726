@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-43-00066",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Goiânia - GO",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Goiás AgroInova 2027",
+   "local_geral": "Centro de Cultura e Convenções de Goiânia"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2027-03-09T13:00:00-03:00",
+    "dataFim": "2027-03-09T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Bioinsumos",
+    "lugar": null,
+    "dataInicio": "2027-03-09T14:00:00-03:00",
+    "dataFim": "2027-03-09T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2027-03-09T15:30:00-03:00",
+    "dataFim": "2027-03-09T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios",
+    "lugar": null,
+    "dataInicio": "2027-03-10T09:00:00-03:00",
+    "dataFim": "2027-03-10T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Agtechs",
+    "lugar": null,
+    "dataInicio": "2027-03-10T14:00:00-03:00",
+    "dataFim": "2027-03-10T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Crédito Rural e Fintechs",
+    "lugar": null,
+    "dataInicio": "2027-03-11T09:00:00-03:00",
+    "dataFim": "2027-03-11T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação do Desafio AgroInova",
+    "lugar": null,
+    "dataInicio": "2027-03-11T11:00:00-03:00",
+    "dataFim": "2027-03-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

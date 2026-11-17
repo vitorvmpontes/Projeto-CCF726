@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00069",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Campinas - SP",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Autoavaliação Institucional - CPA FACAMP 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Apresentação dos Resultados da Autoavaliação 2025",
+    "lugar": null,
+    "dataInicio": "2026-04-15T09:00:00-03:00",
+    "dataFim": "2026-04-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta Ativa com Estudantes",
+    "lugar": null,
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plano de Ações 2026",
+    "lugar": null,
+    "dataInicio": "2026-04-15T16:00:00-03:00",
+    "dataFim": "2026-04-15T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta Ativa com Estudantes",
+    "lugar": "<p>Turno para os cursos noturnos.</p>",
+    "dataInicio": "2026-04-15T19:30:00-03:00",
+    "dataFim": "2026-04-15T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

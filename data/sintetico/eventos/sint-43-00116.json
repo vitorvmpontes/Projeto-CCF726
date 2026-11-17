@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00116",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Professores da Rede Municipal de Cuiabá 2024",
+   "local_geral": "EMEB Professora Ana Tereza"
+  },
+  "atividades": [
+   {
+    "nome": "Café da Manhã",
+    "lugar": null,
+    "dataInicio": "2024-07-25T07:30:00-03:00",
+    "dataFim": "2024-07-25T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Letramento Matemático",
+    "lugar": "Sala 3",
+    "dataInicio": "2024-07-25T08:00:00-03:00",
+    "dataFim": "2024-07-25T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Leitura e Produção Textual",
+    "lugar": "Sala 4",
+    "dataInicio": "2024-07-25T08:00:00-03:00",
+    "dataFim": "2024-07-25T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Letramento Matemático",
+    "lugar": "Sala 3",
+    "dataInicio": "2024-07-25T10:20:00-03:00",
+    "dataFim": "2024-07-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

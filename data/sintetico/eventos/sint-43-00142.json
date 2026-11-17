@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-43-00142",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Salvador - BA",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 10,
+  "casos": [
+   "intervalos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Baiano de Direito Processual 2023",
+   "local_geral": "Fiesta Convention Center"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-11-16T08:00:00-03:00",
+    "dataFim": "2023-11-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-11-16T09:00:00-03:00",
+    "dataFim": "2023-11-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência Inaugural",
+    "lugar": null,
+    "dataInicio": "2023-11-16T10:00:00-03:00",
+    "dataFim": "2023-11-16T11:00:00-03:00",
+    "descricao": "<p>Com o <b>Des. Aurélio Magalhães Brandão</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": null,
+    "dataInicio": "2023-11-16T11:00:00-03:00",
+    "dataFim": "2023-11-16T12:30:00-03:00",
+    "descricao": "<p>Precedentes e segurança jurídica.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-11-16T12:30:00-03:00",
+    "dataFim": "2023-11-16T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": null,
+    "dataInicio": "2023-11-16T14:00:00-03:00",
+    "dataFim": "2023-11-16T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": null,
+    "dataInicio": "2023-11-17T09:00:00-03:00",
+    "dataFim": "2023-11-17T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-11-17T10:30:00-03:00",
+    "dataFim": "2023-11-17T10:50:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": null,
+    "dataInicio": "2023-11-17T10:50:00-03:00",
+    "dataFim": "2023-11-17T12:30:00-03:00",
+    "descricao": "<p>Processo eletrônico e inteligência artificial.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-11-17T12:30:00-03:00",
+    "dataFim": "2023-11-17T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

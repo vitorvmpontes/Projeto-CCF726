@@ -141,3 +141,36 @@ def test_specs_detalhadas_nao_mudaram_com_a_v11():
     s = sortear_specs(3, 42)
     assert [x.id for x in s] == ["sint-42-00000", "sint-42-00001", "sint-42-00002"]
     assert all(x.estilo == "detalhado" for x in s)
+
+
+def test_tabela_sem_colunas_vazias():
+    r = renderizar(EVENTO, "tabela", random.Random(0), [], "enxuto")
+    assert "Local" not in r.texto and "Descrição" not in r.texto
+    r = renderizar(EVENTO, "tabela", random.Random(0), [], "completo")
+    assert "Local" in r.texto and "Descrição" in r.texto
+
+
+# --------------------------------------------------------------------------
+# Correções apontadas pelo juiz (2026-11-16)
+# --------------------------------------------------------------------------
+
+def test_fim_em_outro_dia_mostra_a_data():
+    from datetime import datetime
+    from dataset_builder.render import fmt_intervalo
+    ini = datetime(2024, 9, 20, 8, 0)
+    assert "21/09" in fmt_intervalo(ini, datetime(2024, 9, 21, 12, 0), "hh:mm", "hifen")
+    assert fmt_intervalo(datetime(2024, 9, 20, 21, 0), datetime(2024, 9, 21, 6, 0), "hh:mm", "hifen") == "21:00 - 06:00"
+    assert fmt_intervalo(ini, datetime(2024, 9, 20, 12, 0), "hh:mm", "hifen") == "08:00 - 12:00"
+
+
+def test_perfil_recua_quando_criaria_duplicatas():
+    ev = {"evento": {"nome": "X"}, "atividades": [
+        {"nome": "Oficina", "lugar": "Sala 1", "dataInicio": "2025-05-10T09:00:00-03:00", "dataFim": None,
+         "descricao": None, "secao": None},
+        {"nome": "Oficina", "lugar": "Sala 2", "dataInicio": "2025-05-10T09:00:00-03:00", "dataFim": None,
+         "descricao": None, "secao": None},
+    ]}
+    for perfil in ("sem_lugar", "enxuto"):
+        r = renderizar(ev, "lista", random.Random(0), [], perfil)
+        assert r.perfil in ("completo", "sem_descricao")
+        assert {a["lugar"] for a in r.atividades} == {"Sala 1", "Sala 2"}

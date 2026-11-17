@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-43-00144",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "São Paulo - SP",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 9,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Paulista Game Jam 2025",
+   "local_geral": "Fatec São Paulo"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Tema",
+    "lugar": "Auditório",
+    "dataInicio": "2025-01-24T19:00:00-03:00",
+    "dataFim": "2025-01-24T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Formação de Times",
+    "lugar": "Hall",
+    "dataInicio": "2025-01-24T20:00:00-03:00",
+    "dataFim": "2025-01-24T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria de Game Design",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-01-25T10:00:00-03:00",
+    "dataFim": "2025-01-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Mentoria de Arte",
+    "lugar": "Sala 2",
+    "dataInicio": "2025-01-25T10:00:00-03:00",
+    "dataFim": "2025-01-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Mentoria de Programação",
+    "lugar": "Sala 3",
+    "dataInicio": "2025-01-25T10:00:00-03:00",
+    "dataFim": "2025-01-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Mentorias"
+   },
+   {
+    "nome": "Palestra de Áudio para Jogos",
+    "lugar": "Auditório",
+    "dataInicio": "2025-01-25T14:00:00-03:00",
+    "dataFim": "2025-01-25T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega dos Jogos",
+    "lugar": null,
+    "dataInicio": "2025-01-26T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentações",
+    "lugar": "Auditório",
+    "dataInicio": "2025-01-26T15:00:00-03:00",
+    "dataFim": "2025-01-26T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": "Auditório",
+    "dataInicio": "2025-01-26T18:00:00-03:00",
+    "dataFim": "2025-01-26T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

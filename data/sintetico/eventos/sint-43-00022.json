@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00022",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Florestal - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Nacional de Engenharia de Alimentos - CONEALI 2025",
+   "local_geral": "UFV - Campus Florestal"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-11-12T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2025-11-12T09:00:00-03:00",
+    "dataFim": "2025-11-12T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2025-11-12T14:00:00-03:00",
+    "dataFim": "2025-11-12T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2025-11-13T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral",
+    "lugar": null,
+    "dataInicio": "2025-11-13T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

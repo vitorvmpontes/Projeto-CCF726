@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-43-00077",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Natal - RN",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Costa Viva 2025",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-06-05T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mutirão de Limpeza de Praia",
+    "lugar": null,
+    "dataInicio": "2025-06-05T09:00:00-03:00",
+    "dataFim": "2025-06-05T11:00:00-03:00",
+    "descricao": "<p>Concentração na Praia de Ponta Negra.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Conservação das Tartarugas Marinhas",
+    "lugar": null,
+    "dataInicio": "2025-06-05T14:00:00-03:00",
+    "dataFim": "2025-06-05T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mutirão de Limpeza de Praia",
+    "lugar": null,
+    "dataInicio": "2025-06-06T08:00:00-03:00",
+    "dataFim": "2025-06-06T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-06-06T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

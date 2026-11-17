@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-43-00151",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Niterói - RJ",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festa de Sant'Ana 2024 - Niterói",
+   "local_geral": "Paróquia de Sant'Ana"
+  },
+  "atividades": [
+   {
+    "nome": "Missa",
+    "lugar": "Igreja Matriz",
+    "dataInicio": "2024-07-26T08:00:00-03:00",
+    "dataFim": "2024-07-26T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Terço",
+    "lugar": "Salão Paroquial",
+    "dataInicio": "2024-07-26T09:30:00-03:00",
+    "dataFim": "2024-07-26T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Recreação Infantil",
+    "lugar": "Pátio",
+    "dataInicio": "2024-07-26T09:30:00-03:00",
+    "dataFim": "2024-07-26T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa",
+    "lugar": "Igreja Matriz",
+    "dataInicio": "2024-07-26T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Quermesse",
+    "lugar": "Pátio",
+    "dataInicio": "2024-07-26T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

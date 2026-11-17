@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00139",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Expo Pequenos Negócios Juiz de Fora 2026",
+   "local_geral": "Expominas Juiz de Fora"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-08-27T09:00:00-03:00",
+    "dataFim": "2026-08-27T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Finanças para MEI",
+    "lugar": null,
+    "dataInicio": "2026-08-27T10:00:00-03:00",
+    "dataFim": "2026-08-27T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Vendas pelo Instagram",
+    "lugar": null,
+    "dataInicio": "2026-08-27T14:00:00-03:00",
+    "dataFim": "2026-08-27T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Clínica de Precificação",
+    "lugar": null,
+    "dataInicio": "2026-08-27T16:00:00-03:00",
+    "dataFim": "2026-08-27T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento com Sorteio",
+    "lugar": null,
+    "dataInicio": "2026-08-27T18:00:00-03:00",
+    "dataFim": "2026-08-27T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "spec": {
+  "id": "sint-43-00051",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Salvador - BA",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Baía de Todos os Santos Sustentável 2025",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-06-05T08:00:00-03:00",
+    "dataFim": "2025-06-05T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-06-05T08:30:00-03:00",
+    "dataFim": "2025-06-05T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Economia Azul",
+    "lugar": null,
+    "dataInicio": "2025-06-05T09:00:00-03:00",
+    "dataFim": "2025-06-05T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2025-06-05T10:00:00-03:00",
+    "dataFim": "2025-06-05T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Educação Ambiental",
+    "lugar": null,
+    "dataInicio": "2025-06-05T10:30:00-03:00",
+    "dataFim": "2025-06-05T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mutirão de Limpeza de Praia",
+    "lugar": null,
+    "dataInicio": "2025-06-06T07:00:00-03:00",
+    "dataFim": "2025-06-06T09:00:00-03:00",
+    "descricao": "<p>Concentração no Porto da Barra.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Educação Ambiental",
+    "lugar": null,
+    "dataInicio": "2025-06-06T09:30:00-03:00",
+    "dataFim": "2025-06-06T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-06-06T11:30:00-03:00",
+    "dataFim": "2025-06-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

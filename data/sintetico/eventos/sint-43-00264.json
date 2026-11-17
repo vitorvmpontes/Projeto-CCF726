@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00264",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos",
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Brasiliense de Direito Público 2025",
+   "local_geral": "Escola Superior da Advocacia do DF"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-10-09T08:00:00-03:00",
+    "dataFim": "2025-10-09T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Direito Digital",
+    "lugar": "Auditório 1",
+    "dataInicio": "2025-10-09T09:00:00-03:00",
+    "dataFim": "2025-10-09T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Direito Tributário",
+    "lugar": "Auditório 2",
+    "dataInicio": "2025-10-09T09:00:00-03:00",
+    "dataFim": "2025-10-09T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coquetel de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-10-09T18:00:00-03:00",
+    "dataFim": "2025-10-09T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

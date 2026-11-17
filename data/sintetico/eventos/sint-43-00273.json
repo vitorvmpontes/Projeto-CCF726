@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00273",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Macapá - AP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Amapá Empreende 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Gestão Financeira",
+    "lugar": null,
+    "dataInicio": "2023-09-15T09:00:00-03:00",
+    "dataFim": "2023-09-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Consultoria Coletiva",
+    "lugar": null,
+    "dataInicio": "2023-09-15T14:00:00-03:00",
+    "dataFim": "2023-09-15T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

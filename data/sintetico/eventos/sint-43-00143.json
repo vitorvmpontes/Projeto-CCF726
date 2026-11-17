@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00143",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Florianópolis - SC",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana Acadêmica de Oceanografia UFSC 2025",
+   "local_geral": "Campus Trindade"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório do CFH",
+    "dataInicio": "2025-09-16T08:30:00-03:00",
+    "dataFim": "2025-09-16T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Python",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2025-09-16T09:00:00-03:00",
+    "dataFim": "2025-09-16T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Cartografia Náutica",
+    "lugar": "Sala 204",
+    "dataInicio": "2025-09-16T09:00:00-03:00",
+    "dataFim": "2025-09-16T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Python",
+    "lugar": "Laboratório de Informática 1",
+    "dataInicio": "2025-09-16T14:00:00-03:00",
+    "dataFim": "2025-09-16T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra com Egressos",
+    "lugar": "Auditório do CFH",
+    "dataInicio": "2025-09-16T14:00:00-03:00",
+    "dataFim": "2025-09-16T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Confraternização do CA",
+    "lugar": null,
+    "dataInicio": "2025-09-16T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

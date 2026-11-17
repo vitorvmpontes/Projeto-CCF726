@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00082",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Londrina - PR",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Norte do Paraná 2023",
+   "local_geral": "Zerão - Londrina"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Palco Central",
+    "dataInicio": "2023-07-15T10:00:00-03:00",
+    "dataFim": "2023-07-15T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Costela no Fogo de Chão",
+    "lugar": "Palco Central",
+    "dataInicio": "2023-07-15T11:00:00-03:00",
+    "dataFim": "2023-07-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Pães Artesanais",
+    "lugar": "Cozinha Escola",
+    "dataInicio": "2023-07-15T11:00:00-03:00",
+    "dataFim": "2023-07-15T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Pierogi Ucraniano",
+    "lugar": "Palco Central",
+    "dataInicio": "2023-07-15T15:00:00-03:00",
+    "dataFim": "2023-07-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Cafés Especiais",
+    "lugar": "Tenda do Café",
+    "dataInicio": "2023-07-15T15:00:00-03:00",
+    "dataFim": "2023-07-15T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

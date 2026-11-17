@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00125",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "João Pessoa - PB",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Paraíba Dev Summit 2026",
+   "local_geral": "Centro de Convenções de João Pessoa"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2026-07-10T09:00:00-03:00",
+    "dataFim": "2026-07-10T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tech Talk",
+    "lugar": "Auditório",
+    "dataInicio": "2026-07-10T10:00:00-03:00",
+    "dataFim": "2026-07-10T11:00:00-03:00",
+    "descricao": "<p>Com <b>Tássia Brayner</b>, engenheira de dados.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Início do Hackathon",
+    "lugar": "Arena Maker",
+    "dataInicio": "2026-07-10T10:00:00-03:00",
+    "dataFim": "2026-07-10T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tech Talk",
+    "lugar": "Auditório",
+    "dataInicio": "2026-07-10T14:00:00-03:00",
+    "dataFim": "2026-07-10T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch Final",
+    "lugar": "Auditório",
+    "dataInicio": "2026-07-11T10:00:00-03:00",
+    "dataFim": "2026-07-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": "Auditório",
+    "dataInicio": "2026-07-11T12:00:00-03:00",
+    "dataFim": "2026-07-11T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

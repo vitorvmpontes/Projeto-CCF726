@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-43-00123",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Curitiba - PR",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 10,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada Diocesana da Juventude 2026",
+   "local_geral": "Colégio Bom Jesus - Curitiba"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida",
+    "lugar": null,
+    "dataInicio": "2026-10-24T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Ginásio",
+    "dataInicio": "2026-10-24T08:30:00-03:00",
+    "dataFim": "2026-10-24T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Ginásio",
+    "dataInicio": "2026-10-24T09:00:00-03:00",
+    "dataFim": "2026-10-24T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Música",
+    "lugar": "Sala 1",
+    "dataInicio": "2026-10-24T10:30:00-03:00",
+    "dataFim": "2026-10-24T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Teatro",
+    "lugar": "Sala 2",
+    "dataInicio": "2026-10-24T10:30:00-03:00",
+    "dataFim": "2026-10-24T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Comunicação",
+    "lugar": "Sala 3",
+    "dataInicio": "2026-10-24T10:30:00-03:00",
+    "dataFim": "2026-10-24T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Gincana",
+    "lugar": "Pátio",
+    "dataInicio": "2026-10-24T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Noite de Louvor",
+    "lugar": "Ginásio",
+    "dataInicio": "2026-10-24T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa de Envio",
+    "lugar": "Ginásio",
+    "dataInicio": "2026-10-25T09:00:00-03:00",
+    "dataFim": "2026-10-25T10:30:00-03:00",
+    "descricao": "<p>Presidida por <b>Dom Anselmo Kowalski</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-10-25T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

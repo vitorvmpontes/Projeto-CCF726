@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00255",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Viçosa - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "XXIV Semana Acadêmica da Agronomia - UFV 2027",
+   "local_geral": "Campus Viçosa"
+  },
+  "atividades": [
+   {
+    "nome": "Minicurso de Drones na Agricultura",
+    "lugar": "Laboratório de Geoprocessamento",
+    "dataInicio": "2027-04-14T08:00:00-03:00",
+    "dataFim": "2027-04-14T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica ao Pomar",
+    "lugar": "Pomar do Departamento de Fitotecnia",
+    "dataInicio": "2027-04-14T08:00:00-03:00",
+    "dataFim": "2027-04-14T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-04-14T10:00:00-03:00",
+    "dataFim": "2027-04-14T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica ao Pomar",
+    "lugar": "Pomar do Departamento de Fitotecnia",
+    "dataInicio": "2027-04-14T10:20:00-03:00",
+    "dataFim": "2027-04-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-43-00036",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada Goiana de Direito Agrário 2023",
+   "local_geral": "OAB-GO"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-06-16T08:00:00-03:00",
+    "dataFim": "2023-06-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": null,
+    "dataInicio": "2023-06-16T08:30:00-03:00",
+    "dataFim": "2023-06-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2023-06-16T10:00:00-03:00",
+    "dataFim": "2023-06-16T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel I",
+    "lugar": "Auditório 1",
+    "dataInicio": "2023-06-16T10:20:00-03:00",
+    "dataFim": "2023-06-16T12:00:00-03:00",
+    "descricao": "<p>Regularização fundiária.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel II",
+    "lugar": "Auditório 2",
+    "dataInicio": "2023-06-16T10:20:00-03:00",
+    "dataFim": "2023-06-16T12:00:00-03:00",
+    "descricao": "<p>Contratos agrários.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

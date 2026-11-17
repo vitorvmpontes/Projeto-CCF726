@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-43-00025",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Cuiabá - MT",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Casais da Paróquia Bom Despacho 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida",
+    "lugar": null,
+    "dataInicio": "2026-09-12T07:30:00-03:00",
+    "dataFim": "2026-09-12T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Santa Missa",
+    "lugar": null,
+    "dataInicio": "2026-09-12T08:00:00-03:00",
+    "dataFim": "2026-09-12T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Partilha em Grupos",
+    "lugar": null,
+    "dataInicio": "2026-09-12T09:15:00-03:00",
+    "dataFim": "2026-09-12T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lanche",
+    "lugar": null,
+    "dataInicio": "2026-09-12T10:30:00-03:00",
+    "dataFim": "2026-09-12T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Oração em Família",
+    "lugar": null,
+    "dataInicio": "2026-09-12T11:00:00-03:00",
+    "dataFim": "2026-09-12T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

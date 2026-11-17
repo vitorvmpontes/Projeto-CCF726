@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-43-00268",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop de Inteligência Artificial do Triângulo - WIAT 2024",
+   "local_geral": "UFU - Campus Santa Mônica"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-11-07T08:30:00-03:00",
+    "dataFim": "2024-11-07T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso: Introdução ao PyTorch",
+    "lugar": null,
+    "dataInicio": "2024-11-07T09:00:00-03:00",
+    "dataFim": "2024-11-07T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Modelos de Linguagem em Produção",
+    "lugar": null,
+    "dataInicio": "2024-11-07T14:00:00-03:00",
+    "dataFim": "2024-11-07T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso: Visão Computacional com YOLO",
+    "lugar": null,
+    "dataInicio": "2024-11-07T15:00:00-03:00",
+    "dataFim": "2024-11-07T18:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso: Introdução ao PyTorch",
+    "lugar": null,
+    "dataInicio": "2024-11-08T09:00:00-03:00",
+    "dataFim": "2024-11-08T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "IA na Agricultura de Precisão",
+    "lugar": null,
+    "dataInicio": "2024-11-08T14:00:00-03:00",
+    "dataFim": "2024-11-08T15:00:00-03:00",
+    "descricao": "<p>Com <b>Henrique Bastos Queiroz</b> (Embrapa).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso: Visão Computacional com YOLO",
+    "lugar": null,
+    "dataInicio": "2024-11-08T15:00:00-03:00",
+    "dataFim": "2024-11-08T18:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-11-08T18:00:00-03:00",
+    "dataFim": "2024-11-08T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

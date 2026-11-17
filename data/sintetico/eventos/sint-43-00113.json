@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00113",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Macapá - AP",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Simpósio de Pós-Graduação da UNIFAP",
+   "local_geral": "Campus Marco Zero"
+  },
+  "atividades": [
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-11-27T09:00:00-03:00",
+    "dataFim": "2025-11-27T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala 1 - Bloco de Pós-Graduação",
+    "dataInicio": "2025-11-27T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Comunicações Orais",
+    "lugar": "Sala 2 - Bloco de Pós-Graduação",
+    "dataInicio": "2025-11-27T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": "Auditório Central",
+    "dataInicio": "2025-11-27T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

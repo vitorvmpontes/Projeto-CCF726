@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-43-00188",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Cultura na Praça Santa Tereza 2026",
+   "local_geral": "Praça Duque de Caxias"
+  },
+  "atividades": [
+   {
+    "nome": "Exposição Retratos do Bairro",
+    "lugar": null,
+    "dataInicio": "2026-08-15T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Xilogravura",
+    "lugar": null,
+    "dataInicio": "2026-08-15T10:00:00-03:00",
+    "dataFim": "2026-08-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Choro",
+    "lugar": null,
+    "dataInicio": "2026-08-15T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Percussão",
+    "lugar": null,
+    "dataInicio": "2026-08-15T14:00:00-03:00",
+    "dataFim": "2026-08-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sarau Aberto",
+    "lugar": null,
+    "dataInicio": "2026-08-15T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-08-15T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Com a cantora <b>Marília Andrade</b>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

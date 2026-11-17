@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00063",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Uberlândia - MG",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Dia de Campo AgroTech Cerrado 2024",
+   "local_geral": "Fazenda Experimental do Glória - UFU"
+  },
+  "atividades": [
+   {
+    "nome": "Demonstração de Drones de Pulverização",
+    "lugar": "Talhão A",
+    "dataInicio": "2024-03-14T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demonstração de Drones de Pulverização",
+    "lugar": "Talhão C",
+    "dataInicio": "2024-03-14T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

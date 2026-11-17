@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00007",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Londrina - PR",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "III Simpósio de Pós-Graduação em Química da UEL",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-11-07T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": "Anfiteatro do CCE",
+    "dataInicio": "2025-11-07T09:00:00-03:00",
+    "dataFim": "2025-11-07T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall do CCE",
+    "dataInicio": "2025-11-07T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentações Orais",
+    "lugar": "Anfiteatro do CCE",
+    "dataInicio": "2025-11-07T14:00:00-03:00",
+    "dataFim": "2025-11-07T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação dos Melhores Trabalhos",
+    "lugar": null,
+    "dataInicio": "2025-11-07T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

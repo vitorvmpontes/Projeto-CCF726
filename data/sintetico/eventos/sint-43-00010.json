@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00010",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Hackathon Cerrado Digital 2025",
+   "local_geral": "Biblioteca Nacional de Brasília"
+  },
+  "atividades": [
+   {
+    "nome": "Rodada de Mentorias",
+    "lugar": null,
+    "dataInicio": "2025-08-23T14:00:00-03:00",
+    "dataFim": "2025-08-23T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Mentorias",
+    "lugar": null,
+    "dataInicio": "2025-08-24T09:00:00-03:00",
+    "dataFim": "2025-08-24T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch dos Projetos",
+    "lugar": null,
+    "dataInicio": "2025-08-24T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

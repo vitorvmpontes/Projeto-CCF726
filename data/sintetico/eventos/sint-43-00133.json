@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00133",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Macapá - AP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada Pedagógica da Rede Estadual do Amapá 2023",
+   "local_geral": "Escola Estadual Tiradentes"
+  },
+  "atividades": [
+   {
+    "nome": "Formação por Área",
+    "lugar": "Sala 01",
+    "dataInicio": "2023-02-08T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Formação por Área",
+    "lugar": "Sala 02",
+    "dataInicio": "2023-02-08T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

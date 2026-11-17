@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-43-00005",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Cuiabá - MT",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores de Cuiabá 2023",
+   "local_geral": "Praça da Mandioca"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial com Siriri e Cururu",
+    "lugar": null,
+    "dataInicio": "2023-07-21T18:00:00-03:00",
+    "dataFim": "2023-07-21T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Mojica de Pintado",
+    "lugar": null,
+    "dataInicio": "2023-07-21T19:30:00-03:00",
+    "dataFim": "2023-07-21T20:30:00-03:00",
+    "descricao": "<p>Com a chef <b>Lúcia Arruda</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Furrundu",
+    "lugar": null,
+    "dataInicio": "2023-07-22T16:00:00-03:00",
+    "dataFim": "2023-07-22T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Mojica de Pintado",
+    "lugar": null,
+    "dataInicio": "2023-07-22T19:30:00-03:00",
+    "dataFim": "2023-07-22T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show Musical: Rasqueado Cuiabano",
+    "lugar": null,
+    "dataInicio": "2023-07-22T21:00:00-03:00",
+    "dataFim": "2023-07-22T23:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Concurso de Doces Regionais",
+    "lugar": null,
+    "dataInicio": "2023-07-23T15:00:00-03:00",
+    "dataFim": "2023-07-23T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-07-23T19:00:00-03:00",
+    "dataFim": "2023-07-23T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

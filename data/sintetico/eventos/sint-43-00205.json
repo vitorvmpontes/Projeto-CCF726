@@ -1,0 +1,124 @@
+{
+ "spec": {
+  "id": "sint-43-00205",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Londrina - PR",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 12,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Norte-Paranaense de Direito Civil 2025",
+   "local_geral": "Subseção da OAB Londrina"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-09-24T18:00:00-03:00",
+    "dataFim": "2025-09-24T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Solenidade de Abertura",
+    "lugar": null,
+    "dataInicio": "2025-09-24T19:00:00-03:00",
+    "dataFim": "2025-09-24T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": "<p>Com o professor <b>Henrique Gaspar Taborda</b>.</p>",
+    "dataInicio": "2025-09-24T19:30:00-03:00",
+    "dataFim": "2025-09-24T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 1",
+    "lugar": null,
+    "dataInicio": "2025-09-25T08:30:00-03:00",
+    "dataFim": "2025-09-25T10:30:00-03:00",
+    "descricao": "<p>Tema: <i>Contratos Digitais e Smart Contracts</i>.</p>",
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 2",
+    "lugar": null,
+    "dataInicio": "2025-09-25T10:45:00-03:00",
+    "dataFim": "2025-09-25T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 3",
+    "lugar": null,
+    "dataInicio": "2025-09-25T14:00:00-03:00",
+    "dataFim": "2025-09-25T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Lançamento de Livros",
+    "lugar": null,
+    "dataInicio": "2025-09-25T18:00:00-03:00",
+    "dataFim": "2025-09-25T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Direito Digital",
+    "lugar": null,
+    "dataInicio": "2025-09-25T19:00:00-03:00",
+    "dataFim": "2025-09-25T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-Redonda 4",
+    "lugar": null,
+    "dataInicio": "2025-09-26T08:30:00-03:00",
+    "dataFim": "2025-09-26T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Mesa-Redonda 5",
+    "lugar": null,
+    "dataInicio": "2025-09-26T10:45:00-03:00",
+    "dataFim": "2025-09-26T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Mesas-Redondas"
+   },
+   {
+    "nome": "Apresentação de Artigos",
+    "lugar": null,
+    "dataInicio": "2025-09-26T14:00:00-03:00",
+    "dataFim": "2025-09-26T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-09-26T16:30:00-03:00",
+    "dataFim": "2025-09-26T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00166",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Guaíba Vivo 2024",
+   "local_geral": "Campus Centro da UFRGS"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Mapeamento de Áreas de Risco",
+    "lugar": "Sala 101",
+    "dataInicio": "2024-09-21T09:00:00-03:00",
+    "dataFim": "2024-09-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com Comunidades Atingidas",
+    "lugar": "Salão de Atos",
+    "dataInicio": "2024-09-21T09:00:00-03:00",
+    "dataFim": "2024-09-21T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Mapeamento de Áreas de Risco",
+    "lugar": "Sala 101",
+    "dataInicio": "2024-09-21T14:00:00-03:00",
+    "dataFim": "2024-09-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

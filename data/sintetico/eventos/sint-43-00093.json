@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-43-00093",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Macapá - AP",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Inovação na Fruticultura Amapaense 2023",
+   "local_geral": "Embrapa Amapá"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-07-18T08:00:00-03:00",
+    "dataFim": "2023-07-18T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Manejo do Açaí de Terra Firme",
+    "lugar": null,
+    "dataInicio": "2023-07-18T08:30:00-03:00",
+    "dataFim": "2023-07-18T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-07-18T10:00:00-03:00",
+    "dataFim": "2023-07-18T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Dia de Campo",
+    "lugar": null,
+    "dataInicio": "2023-07-19T08:00:00-03:00",
+    "dataFim": "2023-07-19T12:00:00-03:00",
+    "descricao": "<p>Saída de ônibus às 7h30 em frente à Embrapa.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-07-19T12:00:00-03:00",
+    "dataFim": "2023-07-19T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Crédito Rural",
+    "lugar": null,
+    "dataInicio": "2023-07-20T09:00:00-03:00",
+    "dataFim": "2023-07-20T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-07-20T11:00:00-03:00",
+    "dataFim": "2023-07-20T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

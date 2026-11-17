@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-43-00045",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Natal - RN",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Maratona Potiguar de Programação 2026",
+   "local_geral": "IFRN - Campus Natal-Central"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2026-10-23T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Prova de Aquecimento",
+    "lugar": "Laboratório A",
+    "dataInicio": "2026-10-23T09:00:00-03:00",
+    "dataFim": "2026-10-23T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Reunião dos Técnicos",
+    "lugar": "Auditório",
+    "dataInicio": "2026-10-23T09:00:00-03:00",
+    "dataFim": "2026-10-23T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Maratona - Categoria Iniciante",
+    "lugar": "Laboratório A",
+    "dataInicio": "2026-10-23T13:00:00-03:00",
+    "dataFim": "2026-10-23T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Maratona - Categoria Avançado",
+    "lugar": "Laboratório B",
+    "dataInicio": "2026-10-23T13:00:00-03:00",
+    "dataFim": "2026-10-23T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Revelação do Placar",
+    "lugar": "Auditório",
+    "dataInicio": "2026-10-23T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Game Jam Relâmpago",
+    "lugar": "Laboratório A",
+    "dataInicio": "2026-10-24T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Godot",
+    "lugar": "Laboratório B",
+    "dataInicio": "2026-10-24T09:00:00-03:00",
+    "dataFim": "2026-10-24T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": "Auditório",
+    "dataInicio": "2026-10-24T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

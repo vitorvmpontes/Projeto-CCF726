@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-43-00210",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Manaus - AM",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "IV Simpósio de Pós-Graduação em Biodiversidade Amazônica - SIMBIA 2025",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-11-19T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": null,
+    "dataInicio": "2025-11-19T09:00:00-03:00",
+    "dataFim": "2025-11-19T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentações Orais - Ecologia",
+    "lugar": "Auditório da Ciência",
+    "dataInicio": "2025-11-19T10:30:00-03:00",
+    "dataFim": "2025-11-19T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Apresentações Orais"
+   },
+   {
+    "nome": "Apresentações Orais - Genética e Evolução",
+    "lugar": "Sala de Seminários",
+    "dataInicio": "2025-11-19T10:30:00-03:00",
+    "dataFim": "2025-11-19T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Apresentações Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2025-11-19T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-11-19T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

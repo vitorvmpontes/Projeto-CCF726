@@ -1,0 +1,100 @@
+{
+ "spec": {
+  "id": "sint-43-00263",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Viçosa - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Circuito Sebrae de Negócios - Viçosa 2026",
+   "local_geral": "Parque de Exposições de Viçosa"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-09-24T08:00:00-03:00",
+    "dataFim": "2026-09-24T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2026-09-24T09:00:00-03:00",
+    "dataFim": "2026-09-24T10:00:00-03:00",
+    "descricao": "<p>Com <b>Juliana Pacheco Ferraz</b>, consultora do Sebrae Minas.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Planejamento Financeiro",
+    "lugar": null,
+    "dataInicio": "2026-09-24T10:15:00-03:00",
+    "dataFim": "2026-09-24T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-09-24T12:00:00-03:00",
+    "dataFim": "2026-09-24T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Crédito com Cooperativas",
+    "lugar": null,
+    "dataInicio": "2026-09-24T13:30:00-03:00",
+    "dataFim": "2026-09-24T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Marketing Digital",
+    "lugar": null,
+    "dataInicio": "2026-09-25T09:00:00-03:00",
+    "dataFim": "2026-09-25T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2026-09-25T10:30:00-03:00",
+    "dataFim": "2026-09-25T10:50:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel: Negócios de Base Rural",
+    "lugar": null,
+    "dataInicio": "2026-09-25T10:50:00-03:00",
+    "dataFim": "2026-09-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento e Sorteios",
+    "lugar": null,
+    "dataInicio": "2026-09-25T12:00:00-03:00",
+    "dataFim": "2026-09-25T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

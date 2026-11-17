@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00056",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Recife - PE",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Pernambucano de Direito Digital 2027",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2027-11-25T08:30:00-03:00",
+    "dataFim": "2027-11-25T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": null,
+    "dataInicio": "2027-11-25T09:00:00-03:00",
+    "dataFim": "2027-11-25T10:30:00-03:00",
+    "descricao": "<p>Inteligência artificial nos tribunais.</p>",
+    "secao": null
+   },
+   {
+    "nome": "LGPD e Poder Judiciário",
+    "lugar": null,
+    "dataInicio": "2027-11-25T10:45:00-03:00",
+    "dataFim": "2027-11-25T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa-redonda",
+    "lugar": null,
+    "dataInicio": "2027-11-25T14:00:00-03:00",
+    "dataFim": "2027-11-25T15:30:00-03:00",
+    "descricao": "<p>Crimes cibernéticos e prova digital.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Lançamento de Livros",
+    "lugar": null,
+    "dataInicio": "2027-11-25T16:00:00-03:00",
+    "dataFim": "2027-11-25T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2027-11-25T17:00:00-03:00",
+    "dataFim": "2027-11-25T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

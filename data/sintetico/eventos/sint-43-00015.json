@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00015",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Goiânia - GO",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "IX Jornada Goiana de Cardiologia",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Discussão de Casos Clínicos",
+    "lugar": null,
+    "dataInicio": "2024-04-13T08:00:00-03:00",
+    "dataFim": "2024-04-13T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atualização em Insuficiência Cardíaca",
+    "lugar": null,
+    "dataInicio": "2024-04-13T09:30:00-03:00",
+    "dataFim": "2024-04-13T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Discussão de Casos Clínicos",
+    "lugar": null,
+    "dataInicio": "2024-04-13T14:00:00-03:00",
+    "dataFim": "2024-04-13T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-04-13T16:00:00-03:00",
+    "dataFim": "2024-04-13T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

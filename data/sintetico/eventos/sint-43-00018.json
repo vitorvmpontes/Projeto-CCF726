@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00018",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Gaúcho de Inteligência Artificial 2024",
+   "local_geral": "Instituto de Informática - UFRGS"
+  },
+  "atividades": [
+   {
+    "nome": "Minicurso de Visão Computacional",
+    "lugar": "Laboratório 101",
+    "dataInicio": "2024-06-08T14:00:00-03:00",
+    "dataFim": "2024-06-08T17:00:00-03:00",
+    "descricao": "<p>Turma A.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Visão Computacional",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2024-06-08T14:00:00-03:00",
+    "dataFim": "2024-06-08T17:00:00-03:00",
+    "descricao": "<p>Turma B.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

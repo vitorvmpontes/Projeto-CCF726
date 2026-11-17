@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-43-00216",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "João Pessoa - PB",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Acolhida dos Feras CI/UFPB 2025",
+   "local_geral": "Centro de Informática - UFPB"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-Vindas da Coordenação",
+    "lugar": null,
+    "dataInicio": "2025-08-18T08:00:00-03:00",
+    "dataFim": "2025-08-18T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": null,
+    "dataInicio": "2025-08-18T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Gincana dos Feras",
+    "lugar": null,
+    "dataInicio": "2025-08-18T10:00:00-03:00",
+    "dataFim": "2025-08-18T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço no RU",
+    "lugar": null,
+    "dataInicio": "2025-08-18T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Bate-papo com Veteranos",
+    "lugar": null,
+    "dataInicio": "2025-08-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Luau de Integração",
+    "lugar": null,
+    "dataInicio": "2025-08-18T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

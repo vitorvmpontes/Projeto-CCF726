@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00009",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Belém - PA",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Brasileiro de Engenharia de Pesca - CONBEP 2026",
+   "local_geral": "Hangar Centro de Convenções da Amazônia"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-05-26T08:00:00-03:00",
+    "dataFim": "2026-05-26T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": null,
+    "dataInicio": "2026-05-26T09:00:00-03:00",
+    "dataFim": "2026-05-26T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2026-05-26T10:30:00-03:00",
+    "dataFim": "2026-05-26T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": null,
+    "dataInicio": "2026-05-26T11:00:00-03:00",
+    "dataFim": "2026-05-26T12:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": null,
+    "dataInicio": "2026-05-27T09:00:00-03:00",
+    "dataFim": "2026-05-27T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Assembleia e Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-05-27T11:00:00-03:00",
+    "dataFim": "2026-05-27T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

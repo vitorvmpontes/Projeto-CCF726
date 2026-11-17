@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00028",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Florestal - MG",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova Florestal 2025",
+   "local_geral": "UFV - Campus Florestal"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-05-29T08:00:00-03:00",
+    "dataFim": "2025-05-29T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Demonstração de Drones Agrícolas",
+    "lugar": "Campo Experimental",
+    "dataInicio": "2025-05-29T09:00:00-03:00",
+    "dataFim": "2025-05-29T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Irrigação de Precisão",
+    "lugar": "Laboratório de Hidráulica",
+    "dataInicio": "2025-05-29T09:00:00-03:00",
+    "dataFim": "2025-05-29T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

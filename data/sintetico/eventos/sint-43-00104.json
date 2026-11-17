@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-43-00104",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Viçosa - MG",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Autoavaliação Institucional da UFV 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Lançamento da Campanha Avalie a UFV",
+    "lugar": null,
+    "dataInicio": "2023-10-03T10:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com Técnicos-Administrativos",
+    "lugar": null,
+    "dataInicio": "2023-10-03T14:00:00-03:00",
+    "dataFim": "2023-10-03T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Dúvidas da CPA",
+    "lugar": null,
+    "dataInicio": "2023-10-04T09:00:00-03:00",
+    "dataFim": "2023-10-04T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa com Técnicos-Administrativos",
+    "lugar": null,
+    "dataInicio": "2023-10-04T14:00:00-03:00",
+    "dataFim": "2023-10-04T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantão de Dúvidas da CPA",
+    "lugar": null,
+    "dataInicio": "2023-10-05T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Balanço Parcial da Participação",
+    "lugar": null,
+    "dataInicio": "2023-10-05T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

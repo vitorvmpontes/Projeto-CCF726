@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00112",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "XII Semana da Estatística UERJ 2025",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": "Hall do Pavilhão João Lyra Filho",
+    "dataInicio": "2025-10-06T08:00:00-03:00",
+    "dataFim": "2025-10-06T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Credenciamento",
+    "lugar": "Hall do Pavilhão Reitor Haroldo Lisboa da Cunha",
+    "dataInicio": "2025-10-06T08:00:00-03:00",
+    "dataFim": "2025-10-06T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

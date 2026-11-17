@@ -1,0 +1,84 @@
+{
+ "spec": {
+  "id": "sint-43-00260",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Maré Tech Day 2024",
+   "local_geral": "Píer Mauá"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-08-23T09:00:00-03:00",
+    "dataFim": "2024-08-23T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escalando Pagamentos Instantâneos",
+    "lugar": null,
+    "dataInicio": "2024-08-23T09:30:00-03:00",
+    "dataFim": "2024-08-23T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Observabilidade na Prática",
+    "lugar": null,
+    "dataInicio": "2024-08-23T10:45:00-03:00",
+    "dataFim": "2024-08-23T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Hackathon",
+    "lugar": null,
+    "dataInicio": "2024-08-23T13:00:00-03:00",
+    "dataFim": "2024-08-24T12:00:00-03:00",
+    "descricao": "<p>Desafios propostos pelas empresas parceiras.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mentorias",
+    "lugar": null,
+    "dataInicio": "2024-08-24T09:00:00-03:00",
+    "dataFim": "2024-08-24T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch dos Times",
+    "lugar": null,
+    "dataInicio": "2024-08-24T13:00:00-03:00",
+    "dataFim": "2024-08-24T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2024-08-24T15:30:00-03:00",
+    "dataFim": "2024-08-24T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

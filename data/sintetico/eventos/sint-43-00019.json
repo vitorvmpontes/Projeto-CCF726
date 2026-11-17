@@ -1,0 +1,68 @@
+{
+ "spec": {
+  "id": "sint-43-00019",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "São Paulo - SP",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana Acadêmica de Nutrição São Camilo 2024",
+   "local_geral": "Centro Universitário São Camilo - Ipiranga"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-09-25T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Nutrição Esportiva na Prática",
+    "lugar": null,
+    "dataInicio": "2024-09-25T09:00:00-03:00",
+    "dataFim": "2024-09-25T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Workshop de Rotulagem de Alimentos",
+    "lugar": null,
+    "dataInicio": "2024-09-25T10:45:00-03:00",
+    "dataFim": "2024-09-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Egressos",
+    "lugar": null,
+    "dataInicio": "2024-09-25T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-09-25T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

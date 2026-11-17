@@ -1,0 +1,126 @@
+{
+ "spec": {
+  "id": "sint-43-00044",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Campo Grande - MS",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "sem_local",
+   "intervalos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Pantanal Delas na Computação 2026",
+   "local_geral": "UFMS - Cidade Universitária"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-03-06T08:00:00-03:00",
+    "dataFim": "2026-03-06T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2026-03-06T08:30:00-03:00",
+    "dataFim": "2026-03-06T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café",
+    "lugar": null,
+    "dataInicio": "2026-03-06T09:30:00-03:00",
+    "dataFim": "2026-03-06T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Python",
+    "lugar": "Lab 3",
+    "dataInicio": "2026-03-06T10:00:00-03:00",
+    "dataFim": "2026-03-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Design de Interfaces",
+    "lugar": "Lab 5",
+    "dataInicio": "2026-03-06T10:00:00-03:00",
+    "dataFim": "2026-03-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-03-06T12:00:00-03:00",
+    "dataFim": "2026-03-06T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel de Pesquisadoras",
+    "lugar": null,
+    "dataInicio": "2026-03-06T14:00:00-03:00",
+    "dataFim": "2026-03-06T15:30:00-03:00",
+    "descricao": "<p>Mediação de <b>Larissa Benites</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Speed Mentoring",
+    "lugar": null,
+    "dataInicio": "2026-03-06T16:00:00-03:00",
+    "dataFim": "2026-03-06T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Arduino",
+    "lugar": "Lab 3",
+    "dataInicio": "2026-03-07T08:30:00-03:00",
+    "dataFim": "2026-03-07T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Segurança da Informação",
+    "lugar": "Lab 5",
+    "dataInicio": "2026-03-07T08:30:00-03:00",
+    "dataFim": "2026-03-07T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Café",
+    "lugar": null,
+    "dataInicio": "2026-03-07T10:30:00-03:00",
+    "dataFim": "2026-03-07T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-03-07T11:00:00-03:00",
+    "dataFim": "2026-03-07T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

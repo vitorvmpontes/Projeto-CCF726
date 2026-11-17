@@ -1,0 +1,86 @@
+{
+ "spec": {
+  "id": "sint-43-00292",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Manaus - AM",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 7,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Amazônia Game Jam 2027",
+   "local_geral": "UEA - Escola Superior de Tecnologia"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Divulgação do Tema",
+    "lugar": "Auditório da EST",
+    "dataInicio": "2027-07-09T18:00:00-03:00",
+    "dataFim": "2027-07-09T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Formação dos Times",
+    "lugar": "Hall da EST",
+    "dataInicio": "2027-07-09T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": null,
+    "dataInicio": "2027-07-10T08:00:00-03:00",
+    "dataFim": "2027-07-10T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria de Game Design",
+    "lugar": "Sala 12",
+    "dataInicio": "2027-07-10T10:00:00-03:00",
+    "dataFim": "2027-07-10T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria de Arte e Som",
+    "lugar": "Sala 14",
+    "dataInicio": "2027-07-10T10:00:00-03:00",
+    "dataFim": "2027-07-10T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega dos Jogos",
+    "lugar": null,
+    "dataInicio": "2027-07-11T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação e Premiação",
+    "lugar": "Auditório da EST",
+    "dataInicio": "2027-07-11T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

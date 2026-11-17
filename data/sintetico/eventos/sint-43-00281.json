@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-43-00281",
+  "tipo": "evento de inovação no agronegócio",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "AgroInova Florestal 2026",
+   "local_geral": "Fazenda Experimental do Campus Florestal"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-07-23T07:30:00-03:00",
+    "dataFim": "2026-07-23T08:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Irrigação com Sensores de Baixo Custo",
+    "lugar": null,
+    "dataInicio": "2026-07-23T08:00:00-03:00",
+    "dataFim": "2026-07-23T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2026-07-23T12:00:00-03:00",
+    "dataFim": "2026-07-23T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch de Startups Agro",
+    "lugar": null,
+    "dataInicio": "2026-07-23T13:30:00-03:00",
+    "dataFim": "2026-07-23T15:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Dia de Campo",
+    "lugar": null,
+    "dataInicio": "2026-07-24T08:00:00-03:00",
+    "dataFim": "2026-07-24T12:00:00-03:00",
+    "descricao": "<p>Estações de hortaliças, fruticultura e manejo de pastagens.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

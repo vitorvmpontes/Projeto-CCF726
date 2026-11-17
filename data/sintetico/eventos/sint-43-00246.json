@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00246",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Goiânia - GO",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 2,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Goiás Game Jam 2025",
+   "local_geral": "Instituto de Informática - UFG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Tema",
+    "lugar": null,
+    "dataInicio": "2025-07-26T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exibição dos Jogos",
+    "lugar": null,
+    "dataInicio": "2025-07-27T17:00:00-03:00",
+    "dataFim": "2025-07-27T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

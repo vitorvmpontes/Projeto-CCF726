@@ -1,0 +1,85 @@
+{
+ "spec": {
+  "id": "sint-43-00254",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Vitória - ES",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 7,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Nacional de Engenharia Ambiental e Sanitária - CONEAS 2025",
+   "local_geral": "Centro de Convenções de Vitória"
+  },
+  "atividades": [
+   {
+    "nome": "Conferência de Abertura",
+    "lugar": null,
+    "dataInicio": "2025-10-29T09:00:00-03:00",
+    "dataFim": "2025-10-29T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 1",
+    "lugar": "Sala Vitória",
+    "dataInicio": "2025-10-29T10:30:00-03:00",
+    "dataFim": "2025-10-29T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Recursos Hídricos</i>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 2",
+    "lugar": "Sala Vila Velha",
+    "dataInicio": "2025-10-29T10:30:00-03:00",
+    "dataFim": "2025-10-29T12:00:00-03:00",
+    "descricao": "<p>Tema: <i>Resíduos Sólidos</i>.</p>",
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2025-10-29T14:00:00-03:00",
+    "dataFim": "2025-10-29T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 3",
+    "lugar": "Sala Vitória",
+    "dataInicio": "2025-10-30T09:00:00-03:00",
+    "dataFim": "2025-10-30T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4",
+    "lugar": "Sala Vila Velha",
+    "dataInicio": "2025-10-30T09:00:00-03:00",
+    "dataFim": "2025-10-30T10:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Assembleia Geral e Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-10-30T11:00:00-03:00",
+    "dataFim": "2025-10-30T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

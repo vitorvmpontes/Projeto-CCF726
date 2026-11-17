@@ -1,0 +1,94 @@
+{
+ "spec": {
+  "id": "sint-43-00206",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Belém - PA",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "atividades_paralelas",
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "II Seminário Rios Urbanos da Amazônia 2024",
+   "local_geral": "UFPA - Campus Guamá"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2024-03-21T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2024-03-21T08:30:00-03:00",
+    "dataFim": "2024-03-21T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Monitoramento da Qualidade da Água",
+    "lugar": "Laboratório de Química Ambiental",
+    "dataInicio": "2024-03-21T09:30:00-03:00",
+    "dataFim": "2024-03-21T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Conversa sobre Saneamento nas Baixadas",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2024-03-21T09:30:00-03:00",
+    "dataFim": "2024-03-21T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-03-21T12:00:00-03:00",
+    "dataFim": "2024-03-21T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita ao Igarapé Tucunduba",
+    "lugar": null,
+    "dataInicio": "2024-03-22T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Saída em frente ao Restaurante Universitário.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Resíduos Sólidos e Economia Circular",
+    "lugar": "Auditório Setorial Básico",
+    "dataInicio": "2024-03-22T14:00:00-03:00",
+    "dataFim": "2024-03-22T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-03-22T16:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

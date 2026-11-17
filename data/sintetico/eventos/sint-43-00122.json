@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00122",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Florestal - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Cultural de Florestal 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Cerâmica",
+    "lugar": "Galpão da Estação",
+    "dataInicio": "2026-08-08T14:00:00-03:00",
+    "dataFim": "2026-08-08T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição Fotográfica",
+    "lugar": "Biblioteca Municipal",
+    "dataInicio": "2026-08-08T14:00:00-03:00",
+    "dataFim": "2026-08-08T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-08-08T19:30:00-03:00",
+    "dataFim": "2026-08-08T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

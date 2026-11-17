@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00236",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Professores dos Anos Iniciais de Juiz de Fora 2024",
+   "local_geral": "Escola Municipal Henrique José de Souza"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Jogos Matemáticos",
+    "lugar": null,
+    "dataInicio": "2024-07-17T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Jogos Matemáticos",
+    "lugar": null,
+    "dataInicio": "2024-07-18T08:00:00-03:00",
+    "dataFim": "2024-07-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária de Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-07-18T11:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

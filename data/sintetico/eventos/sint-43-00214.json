@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-43-00214",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "BH Jam 2027",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Revelação do Tema",
+    "lugar": "Auditório",
+    "dataInicio": "2027-02-06T08:00:00-03:00",
+    "dataFim": "2027-02-06T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Godot",
+    "lugar": "Sala 201",
+    "dataInicio": "2027-02-06T09:00:00-03:00",
+    "dataFim": "2027-02-06T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Pixel Art",
+    "lugar": "Sala 202",
+    "dataInicio": "2027-02-06T09:00:00-03:00",
+    "dataFim": "2027-02-06T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria com Desenvolvedores",
+    "lugar": "Sala 201",
+    "dataInicio": "2027-02-06T14:00:00-03:00",
+    "dataFim": "2027-02-06T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Playtest Aberto",
+    "lugar": "Hall",
+    "dataInicio": "2027-02-06T18:00:00-03:00",
+    "dataFim": "2027-02-06T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Votação e Premiação",
+    "lugar": "Auditório",
+    "dataInicio": "2027-02-06T20:00:00-03:00",
+    "dataFim": "2027-02-06T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

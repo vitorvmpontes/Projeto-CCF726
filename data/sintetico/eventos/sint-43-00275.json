@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00275",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Macapá - AP",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 3,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Simpósio de Pós-Graduação em Biodiversidade Tropical da UNIFAP",
+   "local_geral": "UNIFAP - Campus Marco Zero"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-11-25T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": null,
+    "dataInicio": "2024-11-26T08:30:00-03:00",
+    "dataFim": "2024-11-26T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-11-27T17:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

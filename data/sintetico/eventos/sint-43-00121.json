@@ -1,0 +1,52 @@
+{
+ "spec": {
+  "id": "sint-43-00121",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Belém - PA",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Jovens da Paróquia São Judas Tadeu 2024",
+   "local_geral": "Paróquia São Judas Tadeu - Marco"
+  },
+  "atividades": [
+   {
+    "nome": "Louvor e Adoração",
+    "lugar": null,
+    "dataInicio": "2024-03-16T19:00:00-03:00",
+    "dataFim": "2024-03-16T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Teatro Bíblico",
+    "lugar": null,
+    "dataInicio": "2024-03-17T09:00:00-03:00",
+    "dataFim": "2024-03-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Louvor e Adoração",
+    "lugar": null,
+    "dataInicio": "2024-03-17T19:00:00-03:00",
+    "dataFim": "2024-03-17T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

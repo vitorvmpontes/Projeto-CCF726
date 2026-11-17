@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00105",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Campo Grande - MS",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Professores de Educação Infantil da REME 2024",
+   "local_geral": "Centro de Formação de Professores - Campo Grande"
+  },
+  "atividades": [
+   {
+    "nome": "Acolhida Musical",
+    "lugar": null,
+    "dataInicio": "2024-07-27T07:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "O Brincar como Direito",
+    "lugar": null,
+    "dataInicio": "2024-07-27T08:00:00-03:00",
+    "dataFim": "2024-07-27T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficinas Temáticas",
+    "lugar": null,
+    "dataInicio": "2024-07-27T10:00:00-03:00",
+    "dataFim": "2024-07-27T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-07-27T11:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

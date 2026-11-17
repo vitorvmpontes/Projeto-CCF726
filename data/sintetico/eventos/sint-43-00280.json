@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-43-00280",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Santa Maria - RS",
+  "ano": 2026,
+  "n_dias": 3,
+  "n_atividades": 10,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada de Avaliação Institucional da UFN 2026",
+   "local_geral": "Universidade Franciscana"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-06-08T19:00:00-03:00",
+    "dataFim": "2026-06-08T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Avaliação Institucional e o SINAES",
+    "lugar": null,
+    "dataInicio": "2026-06-08T19:30:00-03:00",
+    "dataFim": "2026-06-08T21:00:00-03:00",
+    "descricao": "<p>Com a Profa. <b>Clarice Weber Dornelles</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Reunião com Coordenadores de Curso",
+    "lugar": null,
+    "dataInicio": "2026-06-09T09:00:00-03:00",
+    "dataFim": "2026-06-09T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Devolutiva aos Cursos da Saúde",
+    "lugar": "Sala 401 - Conjunto III",
+    "dataInicio": "2026-06-09T14:00:00-03:00",
+    "dataFim": "2026-06-09T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Devolutivas"
+   },
+   {
+    "nome": "Devolutiva aos Cursos de Humanas",
+    "lugar": "Sala 210 - Conjunto I",
+    "dataInicio": "2026-06-09T14:00:00-03:00",
+    "dataFim": "2026-06-09T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Devolutivas"
+   },
+   {
+    "nome": "Devolutiva aos Cursos de Tecnologia",
+    "lugar": "Laboratório 12 - Conjunto II",
+    "dataInicio": "2026-06-09T14:00:00-03:00",
+    "dataFim": "2026-06-09T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Devolutivas"
+   },
+   {
+    "nome": "Encontro com Representantes Discentes",
+    "lugar": null,
+    "dataInicio": "2026-06-09T19:00:00-03:00",
+    "dataFim": "2026-06-09T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Planejamento a partir dos Resultados",
+    "lugar": null,
+    "dataInicio": "2026-06-10T09:00:00-03:00",
+    "dataFim": "2026-06-10T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mostra de Ações de Melhoria",
+    "lugar": null,
+    "dataInicio": "2026-06-10T14:00:00-03:00",
+    "dataFim": "2026-06-10T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": null,
+    "dataInicio": "2026-06-10T16:30:00-03:00",
+    "dataFim": "2026-06-10T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

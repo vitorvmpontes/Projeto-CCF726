@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00175",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Campinas - SP",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Maratona de Programação do IC Unicamp 2026",
+   "local_geral": "Instituto de Computação - Unicamp"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento das Equipes",
+    "lugar": null,
+    "dataInicio": "2026-08-29T07:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aquecimento",
+    "lugar": null,
+    "dataInicio": "2026-08-29T08:30:00-03:00",
+    "dataFim": "2026-08-29T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Prova",
+    "lugar": null,
+    "dataInicio": "2026-08-29T10:00:00-03:00",
+    "dataFim": "2026-08-29T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Resolução Comentada",
+    "lugar": null,
+    "dataInicio": "2026-08-29T15:30:00-03:00",
+    "dataFim": "2026-08-29T16:30:00-03:00",
+    "descricao": "<p>Questões do nível Iniciante.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Resolução Comentada",
+    "lugar": null,
+    "dataInicio": "2026-08-29T17:00:00-03:00",
+    "dataFim": "2026-08-29T18:00:00-03:00",
+    "descricao": "<p>Questões do nível Avançado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2026-08-29T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

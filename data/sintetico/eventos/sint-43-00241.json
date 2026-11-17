@@ -1,0 +1,117 @@
+{
+ "spec": {
+  "id": "sint-43-00241",
+  "tipo": "semana de calouros com atividades de integração",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Recepção dos Calouros do INF/UFRGS 2025",
+   "local_geral": "Campus do Vale"
+  },
+  "atividades": [
+   {
+    "nome": "Boas-Vindas",
+    "lugar": "Auditório",
+    "dataInicio": "2025-03-17T09:00:00-03:00",
+    "dataFim": "2025-03-17T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": null,
+    "dataInicio": "2025-03-17T10:00:00-03:00",
+    "dataFim": "2025-03-17T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Linux",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2025-03-17T14:00:00-03:00",
+    "dataFim": "2025-03-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Git",
+    "lugar": "Laboratório 105",
+    "dataInicio": "2025-03-17T14:00:00-03:00",
+    "dataFim": "2025-03-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Chimarreada de Integração",
+    "lugar": "Gramado do Instituto",
+    "dataInicio": "2025-03-17T17:00:00-03:00",
+    "dataFim": "2025-03-17T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Tour pelo Campus",
+    "lugar": null,
+    "dataInicio": "2025-03-18T09:00:00-03:00",
+    "dataFim": "2025-03-18T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Linux",
+    "lugar": "Laboratório 104",
+    "dataInicio": "2025-03-18T09:00:00-03:00",
+    "dataFim": "2025-03-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Git",
+    "lugar": "Laboratório 105",
+    "dataInicio": "2025-03-18T09:00:00-03:00",
+    "dataFim": "2025-03-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Conversa com os Grupos de Pesquisa",
+    "lugar": "Auditório",
+    "dataInicio": "2025-03-18T14:00:00-03:00",
+    "dataFim": "2025-03-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação das Equipes de Competição",
+    "lugar": "Auditório",
+    "dataInicio": "2025-03-18T16:00:00-03:00",
+    "dataFim": "2025-03-18T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Festa dos Bixos",
+    "lugar": "Diretório Acadêmico",
+    "dataInicio": "2025-03-18T20:00:00-03:00",
+    "dataFim": "2025-03-18T23:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

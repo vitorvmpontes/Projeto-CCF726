@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00031",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Campo Grande - MS",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Pantanal Sul 2023",
+   "local_geral": "Orla Morena"
+  },
+  "atividades": [
+   {
+    "nome": "Aula-Show de Sopa Paraguaia",
+    "lugar": null,
+    "dataInicio": "2023-07-14T17:00:00-03:00",
+    "dataFim": "2023-07-14T18:00:00-03:00",
+    "descricao": "<p>Com a cozinheira <b>Dona Nilda Benítez</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show de Chipa",
+    "lugar": null,
+    "dataInicio": "2023-07-14T18:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Tereré",
+    "lugar": null,
+    "dataInicio": "2023-07-14T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Polca e Chamamé",
+    "lugar": null,
+    "dataInicio": "2023-07-14T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

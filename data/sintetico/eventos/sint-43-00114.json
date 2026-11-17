@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00114",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana de Engenharia Elétrica do CEFET/RJ 2026",
+   "local_geral": "Unidade Maracanã"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Arduino",
+    "lugar": "Laboratório E-201",
+    "dataInicio": "2026-05-20T13:30:00-03:00",
+    "dataFim": "2026-05-20T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Arduino",
+    "lugar": "Laboratório E-203",
+    "dataInicio": "2026-05-20T13:30:00-03:00",
+    "dataFim": "2026-05-20T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

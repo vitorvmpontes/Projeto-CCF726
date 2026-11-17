@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00165",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Brasília - DF",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabores do Cerrado Brasília 2025",
+   "local_geral": "Pátio do Museu Nacional"
+  },
+  "atividades": [
+   {
+    "nome": "Aula-Show: Galinhada com Pequi",
+    "lugar": "Cozinha Show",
+    "dataInicio": "2025-08-30T12:00:00-03:00",
+    "dataFim": "2025-08-30T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço Livre",
+    "lugar": null,
+    "dataInicio": "2025-08-30T12:00:00-03:00",
+    "dataFim": "2025-08-30T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

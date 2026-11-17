@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00041",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Cuiabá - MT",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Cultural da Praça Alencastro 2024",
+   "local_geral": "Praça Alencastro"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão de Cinema na Praça",
+    "lugar": "<p>Exibição do curta <i>Rio Abaixo</i>.</p>",
+    "dataInicio": "2024-11-09T18:30:00-03:00",
+    "dataFim": "2024-11-09T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Cinema na Praça",
+    "lugar": null,
+    "dataInicio": "2024-11-09T20:30:00-03:00",
+    "dataFim": "2024-11-09T22:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

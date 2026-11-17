@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-43-00156",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Santa Maria - RS",
+  "ano": 2025,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "intervalos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Diocesano de Catequese 2025",
+   "local_geral": "Centro de Pastoral - Santa Maria"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2025-09-05T17:30:00-03:00",
+    "dataFim": "2025-09-05T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Acolhida",
+    "lugar": null,
+    "dataInicio": "2025-09-05T19:00:00-03:00",
+    "dataFim": "2025-09-05T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa de Abertura",
+    "lugar": "Capela",
+    "dataInicio": "2025-09-05T19:30:00-03:00",
+    "dataFim": "2025-09-05T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": null,
+    "dataInicio": "2025-09-06T07:30:00-03:00",
+    "dataFim": "2025-09-06T08:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oração da Manhã",
+    "lugar": "Ginásio",
+    "dataInicio": "2025-09-06T08:30:00-03:00",
+    "dataFim": "2025-09-06T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": "Ginásio",
+    "dataInicio": "2025-09-06T09:00:00-03:00",
+    "dataFim": "2025-09-06T10:30:00-03:00",
+    "descricao": "<p>Com <b>Ir. Clarice Bortolotto</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2025-09-06T10:30:00-03:00",
+    "dataFim": "2025-09-06T10:50:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Catequese com Crianças",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-09-06T10:50:00-03:00",
+    "dataFim": "2025-09-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Catequese com Adolescentes",
+    "lugar": "Sala 2",
+    "dataInicio": "2025-09-06T10:50:00-03:00",
+    "dataFim": "2025-09-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Oficina de Catequese com Adultos",
+    "lugar": "Sala 3",
+    "dataInicio": "2025-09-06T10:50:00-03:00",
+    "dataFim": "2025-09-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-09-06T12:00:00-03:00",
+    "dataFim": "2025-09-06T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Partilha em Grupos",
+    "lugar": null,
+    "dataInicio": "2025-09-06T14:00:00-03:00",
+    "dataFim": "2025-09-06T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Noite Cultural",
+    "lugar": "Ginásio",
+    "dataInicio": "2025-09-06T19:30:00-03:00",
+    "dataFim": "2025-09-06T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café da Manhã",
+    "lugar": null,
+    "dataInicio": "2025-09-07T07:30:00-03:00",
+    "dataFim": "2025-09-07T08:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Adoração",
+    "lugar": "Capela",
+    "dataInicio": "2025-09-07T08:30:00-03:00",
+    "dataFim": "2025-09-07T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Missa de Envio",
+    "lugar": "Ginásio",
+    "dataInicio": "2025-09-07T10:00:00-03:00",
+    "dataFim": "2025-09-07T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-09-07T11:30:00-03:00",
+    "dataFim": "2025-09-07T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2025-09-07T12:00:00-03:00",
+    "dataFim": "2025-09-07T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

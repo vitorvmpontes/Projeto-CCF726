@@ -1,0 +1,54 @@
+{
+ "spec": {
+  "id": "sint-43-00174",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Goiânia - GO",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "sem_local",
+   "intervalos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Goiânia Dev Day 2024",
+   "local_geral": "Instituto de Informática - UFG"
+  },
+  "atividades": [
+   {
+    "nome": "Keynote de Abertura",
+    "lugar": null,
+    "dataInicio": "2024-04-13T09:00:00-03:00",
+    "dataFim": "2024-04-13T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2024-04-13T12:00:00-03:00",
+    "dataFim": "2024-04-13T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Hackathon Relâmpago",
+    "lugar": null,
+    "dataInicio": "2024-04-13T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

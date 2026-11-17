@@ -1,0 +1,93 @@
+{
+ "spec": {
+  "id": "sint-43-00130",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Florestal - MG",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 8,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum de Avaliação Institucional UFV Florestal 2024",
+   "local_geral": "Auditório do Campus Florestal"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2024-09-24T08:00:00-03:00",
+    "dataFim": "2024-09-24T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-09-24T08:30:00-03:00",
+    "dataFim": "2024-09-24T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Indicadores da Autoavaliação",
+    "lugar": null,
+    "dataInicio": "2024-09-24T09:00:00-03:00",
+    "dataFim": "2024-09-24T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2024-09-24T10:00:00-03:00",
+    "dataFim": "2024-09-24T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Escuta",
+    "lugar": null,
+    "dataInicio": "2024-09-24T10:20:00-03:00",
+    "dataFim": "2024-09-24T12:00:00-03:00",
+    "descricao": "<p>Com estudantes dos cursos técnicos e de graduação.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Escuta",
+    "lugar": null,
+    "dataInicio": "2024-09-25T08:30:00-03:00",
+    "dataFim": "2024-09-25T10:00:00-03:00",
+    "descricao": "<p>Com servidores docentes e técnico-administrativos.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2024-09-25T10:00:00-03:00",
+    "dataFim": "2024-09-25T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária de Encaminhamentos",
+    "lugar": null,
+    "dataInicio": "2024-09-25T10:20:00-03:00",
+    "dataFim": "2024-09-25T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

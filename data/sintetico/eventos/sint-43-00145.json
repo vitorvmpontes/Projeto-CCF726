@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-43-00145",
+  "tipo": "festival cultural com shows, oficinas e exposições",
+  "cidade": "Manaus - AM",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Encontro das Águas 2025",
+   "local_geral": "Largo de São Sebastião"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-06-20T16:00:00-03:00",
+    "dataFim": "2025-06-20T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Grafismo Indígena",
+    "lugar": null,
+    "dataInicio": "2025-06-20T17:00:00-03:00",
+    "dataFim": "2025-06-20T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Ciranda",
+    "lugar": null,
+    "dataInicio": "2025-06-20T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Toadas",
+    "lugar": null,
+    "dataInicio": "2025-06-20T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Contação de Histórias",
+    "lugar": null,
+    "dataInicio": "2025-06-21T15:00:00-03:00",
+    "dataFim": "2025-06-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Grafismo Indígena",
+    "lugar": null,
+    "dataInicio": "2025-06-21T16:00:00-03:00",
+    "dataFim": "2025-06-21T17:30:00-03:00",
+    "descricao": "<p>Com a artista <b>Jacy Sateré</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Apresentação de Ciranda",
+    "lugar": null,
+    "dataInicio": "2025-06-21T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sarau Poético",
+    "lugar": null,
+    "dataInicio": "2025-06-21T19:00:00-03:00",
+    "dataFim": "2025-06-21T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": null,
+    "dataInicio": "2025-06-21T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

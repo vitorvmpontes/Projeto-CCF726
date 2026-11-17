@@ -1,0 +1,78 @@
+{
+ "spec": {
+  "id": "sint-43-00136",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Florianópolis - SC",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Municipal de Professores de Florianópolis 2023",
+   "local_geral": "Centro de Educação Continuada"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2023-07-20T07:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Fala de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-07-20T08:15:00-03:00",
+    "dataFim": "2023-07-20T08:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra",
+    "lugar": null,
+    "dataInicio": "2023-07-20T08:45:00-03:00",
+    "dataFim": "2023-07-20T10:00:00-03:00",
+    "descricao": "<p>Educação integral em tempo ampliado.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-07-20T10:00:00-03:00",
+    "dataFim": "2023-07-20T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Trabalho em Grupos",
+    "lugar": null,
+    "dataInicio": "2023-07-20T10:20:00-03:00",
+    "dataFim": "2023-07-20T11:50:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-07-20T11:50:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

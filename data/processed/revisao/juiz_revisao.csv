@@ -1,0 +1,21 @@
+﻿n;exemplo;atividade;nome;veredito_juiz;justificativa;concorda;observacao
+1;sint-43-00133-0;1;FORMAÇÃO POR ÁREA;irreal;"Duplicata exata de i=0 (mesmo nome e horário, sem nada que distinga); exemplo degenerado/incoerente.";sim;
+2;sint-43-00133-0;0;FORMAÇÃO POR ÁREA;ok;;sim;
+3;sint-42-00193-0;1;Sessão Solene de Abertura;ok;;sim;
+4;sint-42-00193-0;4;Intervalo de Almoço;ok;;sim;
+5;sint-42-00062-0;1;RODA DE CONVERSA;ok;;sim;
+6;sint-42-00062-0;2;ALMOÇO LIVRE;ok;;sim;
+7;sint-43-00064-1;3;Hackathon;campo;"Texto: 20/09 08h00–12h00; dataFim rotulada 2024-09-21T12:00 (dia errado, deveria ser 2024-09-20T12:00).";sim;
+8;sint-43-00064-1;4;Pitch dos Times;ok;;sim;
+9;sint-43-00212-0;1;Missa Solene;ok;;sim;
+10;sint-43-00212-0;0;Missa Solene;ok;;sim;
+11;sint-42-00251-1;1;SESSÃO DE ABERTURA;ok;;sim;
+12;sint-42-00251-1;10;COMUNICAÇÃO ORAL;ok;;sim;
+13;sint-42-00093-0;1;Painel de Abertura;ok;;sim;
+14;sint-42-00093-0;6;Oficina Prática 2;ok;;sim;
+15;sint-43-00073-0;2;Roda de Conversa com Comunidades;ok;;sim;
+16;sint-43-00073-0;5;Apresentações Culturais;ok;;sim;
+17;sint-42-00423-0;1;Cerimônia de Abertura;ok;;sim;
+18;sint-42-00423-0;19;Mentoria Técnica;ok;;sim;
+19;sint-43-00111-1;1;Painel Agricultura Digital;ok;;sim;
+20;sint-43-00111-1;3;Vitrine de Tecnologias;ok;;sim;

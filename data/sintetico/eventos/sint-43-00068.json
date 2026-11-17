@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-43-00068",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Campinas - SP",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "atividades_paralelas",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Expo Pequenos Negócios Campinas 2024",
+   "local_geral": "Expo D. Pedro"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-10-08T10:00:00-03:00",
+    "dataFim": "2024-10-08T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Precificação",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-10-08T10:30:00-03:00",
+    "dataFim": "2024-10-08T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Como Vender no Marketplace",
+    "lugar": "Arena de Palestras",
+    "dataInicio": "2024-10-08T10:30:00-03:00",
+    "dataFim": "2024-10-08T11:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Crédito",
+    "lugar": "Espaço Finanças",
+    "dataInicio": "2024-10-08T14:00:00-03:00",
+    "dataFim": "2024-10-08T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Precificação",
+    "lugar": "Sala de Capacitação 2",
+    "dataInicio": "2024-10-08T14:00:00-03:00",
+    "dataFim": "2024-10-08T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Pitch de Startups",
+    "lugar": "Arena de Palestras",
+    "dataInicio": "2024-10-08T16:00:00-03:00",
+    "dataFim": "2024-10-08T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fluxo de Caixa",
+    "lugar": "Sala de Capacitação 1",
+    "dataInicio": "2024-10-09T10:00:00-03:00",
+    "dataFim": "2024-10-09T11:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Como Vender no Marketplace",
+    "lugar": "Arena de Palestras",
+    "dataInicio": "2024-10-09T10:00:00-03:00",
+    "dataFim": "2024-10-09T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Crédito",
+    "lugar": "Espaço Finanças",
+    "dataInicio": "2024-10-09T13:00:00-03:00",
+    "dataFim": "2024-10-09T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fluxo de Caixa",
+    "lugar": "Sala de Capacitação 2",
+    "dataInicio": "2024-10-09T14:00:00-03:00",
+    "dataFim": "2024-10-09T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Oficinas"
+   },
+   {
+    "nome": "Painel Mulheres Empreendedoras",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-10-09T16:00:00-03:00",
+    "dataFim": "2024-10-09T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-10-09T18:00:00-03:00",
+    "dataFim": "2024-10-09T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00131",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festa de São Sebastião 2026 - Paróquia da Tijuca",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Atendimento de Confissões",
+    "lugar": "Capela do Santíssimo",
+    "dataInicio": "2026-01-20T15:00:00-03:00",
+    "dataFim": "2026-01-20T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atendimento de Confissões",
+    "lugar": "Sala de Atendimento",
+    "dataInicio": "2026-01-20T15:00:00-03:00",
+    "dataFim": "2026-01-20T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

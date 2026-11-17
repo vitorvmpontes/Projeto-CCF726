@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00039",
+  "tipo": "evento religioso/comunitário com celebrações e oficinas",
+  "cidade": "João Pessoa - PB",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:06+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Jovem Cabo Branco 2025",
+   "local_geral": "Comunidade Cristã Cabo Branco"
+  },
+  "atividades": [
+   {
+    "nome": "Culto de Abertura",
+    "lugar": "Templo",
+    "dataInicio": "2025-07-26T09:00:00-03:00",
+    "dataFim": "2025-07-26T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Louvor",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-07-26T10:45:00-03:00",
+    "dataFim": "2025-07-26T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Teatro",
+    "lugar": "Sala 2",
+    "dataInicio": "2025-07-26T10:45:00-03:00",
+    "dataFim": "2025-07-26T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Louvor",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-07-26T14:00:00-03:00",
+    "dataFim": "2025-07-26T15:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

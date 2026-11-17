@@ -1,0 +1,77 @@
+{
+ "spec": {
+  "id": "sint-43-00008",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Florestal - MG",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Interclasses UFV Florestal 2027",
+   "local_geral": "UFV - Campus Florestal"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2027-05-15T07:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Queimada",
+    "lugar": null,
+    "dataInicio": "2027-05-15T08:00:00-03:00",
+    "dataFim": "2027-05-15T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Futsal",
+    "lugar": null,
+    "dataInicio": "2027-05-15T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Vôlei de Areia",
+    "lugar": null,
+    "dataInicio": "2027-05-15T10:00:00-03:00",
+    "dataFim": "2027-05-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Cabo de Guerra",
+    "lugar": null,
+    "dataInicio": "2027-05-15T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2027-05-15T17:00:00-03:00",
+    "dataFim": "2027-05-15T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

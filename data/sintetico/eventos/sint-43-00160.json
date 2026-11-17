@@ -1,0 +1,101 @@
+{
+ "spec": {
+  "id": "sint-43-00160",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Brasília - DF",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 9,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum de Autoavaliação Institucional do IFB 2026",
+   "local_geral": "Reitoria do IFB"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-04-22T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação do Relatório de Autoavaliação",
+    "lugar": null,
+    "dataInicio": "2026-04-22T09:30:00-03:00",
+    "dataFim": "2026-04-22T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate com Coordenadores de Curso",
+    "lugar": null,
+    "dataInicio": "2026-04-22T11:00:00-03:00",
+    "dataFim": "2026-04-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Indicadores",
+    "lugar": null,
+    "dataInicio": "2026-04-22T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta dos Técnicos-Administrativos",
+    "lugar": null,
+    "dataInicio": "2026-04-22T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta dos Estudantes",
+    "lugar": null,
+    "dataInicio": "2026-04-23T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Planos de Melhoria",
+    "lugar": null,
+    "dataInicio": "2026-04-23T10:30:00-03:00",
+    "dataFim": "2026-04-23T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": null,
+    "dataInicio": "2026-04-23T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-04-23T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

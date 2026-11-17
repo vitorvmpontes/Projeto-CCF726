@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00103",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Juiz de Fora - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "JF Game Jam 2025",
+   "local_geral": "ICE - UFJF"
+  },
+  "atividades": [
+   {
+    "nome": "Oficina de Pixel Art",
+    "lugar": "Lab 1",
+    "dataInicio": "2025-11-22T14:00:00-03:00",
+    "dataFim": "2025-11-22T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Godot",
+    "lugar": "Lab 2",
+    "dataInicio": "2025-11-22T14:00:00-03:00",
+    "dataFim": "2025-11-22T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Godot",
+    "lugar": "Lab 2",
+    "dataInicio": "2025-11-23T10:00:00-03:00",
+    "dataFim": "2025-11-23T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

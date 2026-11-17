@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-43-00179",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "João Pessoa - PB",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop Paraibano de Inteligência Artificial 2023",
+   "local_geral": "Centro de Informática - UFPB"
+  },
+  "atividades": [
+   {
+    "nome": "Minicurso de PyTorch",
+    "lugar": null,
+    "dataInicio": "2023-08-18T08:00:00-03:00",
+    "dataFim": "2023-08-18T10:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-08-18T10:00:00-03:00",
+    "dataFim": "2023-08-18T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de LLMs com Hugging Face",
+    "lugar": null,
+    "dataInicio": "2023-08-18T10:20:00-03:00",
+    "dataFim": "2023-08-18T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-08-18T12:00:00-03:00",
+    "dataFim": "2023-08-18T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: IA na Saúde Pública",
+    "lugar": null,
+    "dataInicio": "2023-08-18T14:00:00-03:00",
+    "dataFim": "2023-08-18T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

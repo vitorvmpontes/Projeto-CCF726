@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00286",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Vitória - ES",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Capixaba Game Jam 2025",
+   "local_geral": "Ifes - Campus Vitória"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Tema",
+    "lugar": null,
+    "dataInicio": "2025-06-27T18:00:00-03:00",
+    "dataFim": "2025-06-27T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Jantar",
+    "lugar": null,
+    "dataInicio": "2025-06-27T20:00:00-03:00",
+    "dataFim": "2025-06-27T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega dos Builds",
+    "lugar": null,
+    "dataInicio": "2025-06-28T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Votação e Premiação",
+    "lugar": null,
+    "dataInicio": "2025-06-28T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

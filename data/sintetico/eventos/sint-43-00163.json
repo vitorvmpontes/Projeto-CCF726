@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00163",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Londrina - PR",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Londrina Sustentável 2024",
+   "local_geral": "UEL - Centro de Estudos Sociais Aplicados"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Anfiteatro Maior",
+    "dataInicio": "2024-06-05T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Resíduos Sólidos",
+    "lugar": "Anfiteatro Maior",
+    "dataInicio": "2024-06-05T09:00:00-03:00",
+    "dataFim": "2024-06-05T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Hortas Urbanas",
+    "lugar": "Sala 205",
+    "dataInicio": "2024-06-05T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate Lago Igapó",
+    "lugar": "Anfiteatro Maior",
+    "dataInicio": "2024-06-05T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

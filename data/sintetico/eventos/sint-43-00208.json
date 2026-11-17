@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00208",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Campinas - SP",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "XVIII Congresso Nacional de Engenharia de Alimentos - CONEA 2025",
+   "local_geral": "Centro de Convenções da Unicamp"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Técnica 4A",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-10-08T14:00:00-03:00",
+    "dataFim": "2025-10-08T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Sessão Técnica 4B",
+    "lugar": "Sala 2",
+    "dataInicio": "2025-10-08T14:00:00-03:00",
+    "dataFim": "2025-10-08T15:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   },
+   {
+    "nome": "Coffee Break",
+    "lugar": null,
+    "dataInicio": "2025-10-08T15:30:00-03:00",
+    "dataFim": "2025-10-08T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 5",
+    "lugar": "Sala 1",
+    "dataInicio": "2025-10-08T16:00:00-03:00",
+    "dataFim": "2025-10-08T17:30:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Técnicas"
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "spec": {
+  "id": "sint-43-00115",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Belo Horizonte - MG",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "CONEBA 2023 - Congresso Nacional de Engenharia Biomédica Aplicada",
+   "local_geral": "Minascentro"
+  },
+  "atividades": [
+   {
+    "nome": "Sessão de Artigos",
+    "lugar": null,
+    "dataInicio": "2023-08-15T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Sessão de Artigos",
+    "lugar": null,
+    "dataInicio": "2023-08-15T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Assembleia Geral",
+    "lugar": null,
+    "dataInicio": "2023-08-15T17:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

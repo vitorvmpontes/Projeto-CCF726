@@ -1,0 +1,117 @@
+{
+ "spec": {
+  "id": "sint-43-00184",
+  "tipo": "festival gastronômico com aulas-show",
+  "cidade": "Uberlândia - MG",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Festival Sabor do Cerrado Mineiro 2026",
+   "local_geral": "Parque do Sabiá"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-07-10T18:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Pequi sem Medo",
+    "lugar": null,
+    "dataInicio": "2026-07-10T19:00:00-03:00",
+    "dataFim": "2026-07-10T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Costelinha no Tacho",
+    "lugar": null,
+    "dataInicio": "2026-07-10T20:00:00-03:00",
+    "dataFim": "2026-07-10T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Viola Caipira",
+    "lugar": null,
+    "dataInicio": "2026-07-10T21:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira de Produtores",
+    "lugar": null,
+    "dataInicio": "2026-07-11T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Frango com Guariroba",
+    "lugar": null,
+    "dataInicio": "2026-07-11T11:00:00-03:00",
+    "dataFim": "2026-07-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show Kids: Pão de Queijo",
+    "lugar": null,
+    "dataInicio": "2026-07-11T14:00:00-03:00",
+    "dataFim": "2026-07-11T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Concurso de Doce de Leite",
+    "lugar": null,
+    "dataInicio": "2026-07-11T15:00:00-03:00",
+    "dataFim": "2026-07-11T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Degustação de Cafés Especiais",
+    "lugar": null,
+    "dataInicio": "2026-07-11T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Aula-Show: Pequi sem Medo",
+    "lugar": null,
+    "dataInicio": "2026-07-11T17:00:00-03:00",
+    "dataFim": "2026-07-11T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-07-11T20:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

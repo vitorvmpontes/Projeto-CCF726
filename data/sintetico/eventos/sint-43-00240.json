@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00240",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Macapá - AP",
+  "ano": 2027,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Amapaense de Direito Ambiental 2027",
+   "local_geral": "Auditório da OAB/AP"
+  },
+  "atividades": [
+   {
+    "nome": "Painel de Debates",
+    "lugar": null,
+    "dataInicio": "2027-05-27T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Licenciamento na Foz do Amazonas</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Painel de Debates",
+    "lugar": null,
+    "dataInicio": "2027-05-27T15:00:00-03:00",
+    "dataFim": "2027-05-27T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Povos tradicionais e regularização fundiária</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

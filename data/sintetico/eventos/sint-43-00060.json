@@ -1,0 +1,125 @@
+{
+ "spec": {
+  "id": "sint-43-00060",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Campo Grande - MS",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 12,
+  "casos": [
+   "intervalos",
+   "nomes_repetidos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "XIV Semana Acadêmica de Zootecnia da UFMS",
+   "local_geral": "FAMEZ - UFMS"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-05-16T08:00:00-03:00",
+    "dataFim": "2023-05-16T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Bem-estar na Bovinocultura de Corte",
+    "lugar": null,
+    "dataInicio": "2023-05-16T08:30:00-03:00",
+    "dataFim": "2023-05-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-05-16T10:00:00-03:00",
+    "dataFim": "2023-05-16T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica à Embrapa Gado de Corte",
+    "lugar": null,
+    "dataInicio": "2023-05-16T10:20:00-03:00",
+    "dataFim": "2023-05-16T12:00:00-03:00",
+    "descricao": "<p>Saída em ônibus em frente ao bloco da FAMEZ.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-05-16T12:00:00-03:00",
+    "dataFim": "2023-05-16T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Formulação de Rações",
+    "lugar": null,
+    "dataInicio": "2023-05-16T13:30:00-03:00",
+    "dataFim": "2023-05-16T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Visita Técnica à Embrapa Gado de Corte",
+    "lugar": null,
+    "dataInicio": "2023-05-17T08:00:00-03:00",
+    "dataFim": "2023-05-17T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2023-05-17T10:00:00-03:00",
+    "dataFim": "2023-05-17T10:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Formulação de Rações",
+    "lugar": null,
+    "dataInicio": "2023-05-17T10:20:00-03:00",
+    "dataFim": "2023-05-17T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2023-05-17T12:00:00-03:00",
+    "dataFim": "2023-05-17T13:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Egressos",
+    "lugar": null,
+    "dataInicio": "2023-05-17T14:00:00-03:00",
+    "dataFim": "2023-05-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-05-17T16:00:00-03:00",
+    "dataFim": "2023-05-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

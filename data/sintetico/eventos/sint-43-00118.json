@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00118",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Macapá - AP",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Professores Ribeirinhos do Amapá 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-03-29T08:00:00-03:00",
+    "dataFim": "2023-03-29T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-03-29T08:30:00-03:00",
+    "dataFim": "2023-03-29T10:00:00-03:00",
+    "descricao": "<p><i>Educação do campo nas ilhas do Bailique</i>, com <b>Profa. Raimunda Picanço</b>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Grupos de Trabalho",
+    "lugar": null,
+    "dataInicio": "2023-03-29T10:15:00-03:00",
+    "dataFim": "2023-03-29T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": null,
+    "dataInicio": "2023-03-29T14:00:00-03:00",
+    "dataFim": "2023-03-29T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

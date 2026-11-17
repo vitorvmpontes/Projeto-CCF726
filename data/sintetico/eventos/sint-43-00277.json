@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00277",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Uberlândia - MG",
+  "ano": 2025,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada de Cardiologia do Triângulo Mineiro 2025",
+   "local_geral": "Center Convention Uberlândia"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-08-15T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Insuficiência Cardíaca com Fração de Ejeção Preservada",
+    "lugar": null,
+    "dataInicio": "2025-08-15T19:30:00-03:00",
+    "dataFim": "2025-08-15T20:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Discussão de ECGs",
+    "lugar": null,
+    "dataInicio": "2025-08-16T08:00:00-03:00",
+    "dataFim": "2025-08-16T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Simpósio de Arritmias",
+    "lugar": null,
+    "dataInicio": "2025-08-16T10:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

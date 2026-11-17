@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-43-00219",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Manaus - AM",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop de IA Aplicada da Amazônia - WIAA 2024",
+   "local_geral": "Instituto de Computação - UFAM"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2024-06-13T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Visão Computacional",
+    "lugar": null,
+    "dataInicio": "2024-06-13T09:00:00-03:00",
+    "dataFim": "2024-06-13T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de LLMs com Python",
+    "lugar": null,
+    "dataInicio": "2024-06-13T14:00:00-03:00",
+    "dataFim": "2024-06-13T17:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Visão Computacional",
+    "lugar": null,
+    "dataInicio": "2024-06-14T09:00:00-03:00",
+    "dataFim": "2024-06-14T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-06-14T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

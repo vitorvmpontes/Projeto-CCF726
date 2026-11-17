@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00196",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum de Avaliação Institucional da UNIRIO 2026",
+   "local_geral": "Campus Urca"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2026-06-16T18:00:00-03:00",
+    "dataFim": "2026-06-16T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação do Relatório da CPA",
+    "lugar": null,
+    "dataInicio": "2026-06-16T18:30:00-03:00",
+    "dataFim": "2026-06-16T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Debate com Discentes",
+    "lugar": null,
+    "dataInicio": "2026-06-17T18:00:00-03:00",
+    "dataFim": "2026-06-17T19:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-06-17T19:30:00-03:00",
+    "dataFim": "2026-06-17T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

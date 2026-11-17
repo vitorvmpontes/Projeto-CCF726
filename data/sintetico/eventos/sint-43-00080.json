@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00080",
+  "tipo": "workshop de inteligência artificial com minicursos",
+  "cidade": "Cuiabá - MT",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 3,
+  "casos": [
+   "sem_local",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Workshop de IA Aplicada da UFMT 2026",
+   "local_geral": "Instituto de Computação - UFMT"
+  },
+  "atividades": [
+   {
+    "nome": "Minicurso de Python para Ciência de Dados",
+    "lugar": null,
+    "dataInicio": "2026-06-18T08:00:00-03:00",
+    "dataFim": "2026-06-18T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Visão Computacional",
+    "lugar": null,
+    "dataInicio": "2026-06-18T14:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Palestra de Encerramento",
+    "lugar": null,
+    "dataInicio": "2026-06-19T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

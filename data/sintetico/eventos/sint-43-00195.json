@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-43-00195",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Curitiba - PR",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "atividades_paralelas",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum Anual da CPA - UTFPR Curitiba 2025",
+   "local_geral": "Sede Ecoville"
+  },
+  "atividades": [
+   {
+    "nome": "Café de Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2025-10-22T08:00:00-03:00",
+    "dataFim": "2025-10-22T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação dos Resultados",
+    "lugar": "Auditório",
+    "dataInicio": "2025-10-22T08:30:00-03:00",
+    "dataFim": "2025-10-22T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Grupo de Trabalho: Ensino",
+    "lugar": "Sala B-201",
+    "dataInicio": "2025-10-22T10:15:00-03:00",
+    "dataFim": "2025-10-22T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Grupo de Trabalho: Infraestrutura",
+    "lugar": "Sala B-202",
+    "dataInicio": "2025-10-22T10:15:00-03:00",
+    "dataFim": "2025-10-22T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária de Encerramento",
+    "lugar": "Auditório",
+    "dataInicio": "2025-10-22T12:00:00-03:00",
+    "dataFim": "2025-10-22T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

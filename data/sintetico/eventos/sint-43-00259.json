@@ -1,0 +1,45 @@
+{
+ "spec": {
+  "id": "sint-43-00259",
+  "tipo": "congresso científico nacional com sessões técnicas de artigos",
+  "cidade": "Salvador - BA",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Nacional de Oceanografia Costeira - CONOC 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Sessão Técnica 4A",
+    "lugar": null,
+    "dataInicio": "2026-10-21T14:00:00-03:00",
+    "dataFim": "2026-10-21T16:00:00-03:00",
+    "descricao": "<p>Gerenciamento costeiro e erosão de praias.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Técnica 4B",
+    "lugar": null,
+    "dataInicio": "2026-10-21T14:00:00-03:00",
+    "dataFim": "2026-10-21T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

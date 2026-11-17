@@ -96,11 +96,22 @@ def fmt_hora(d: datetime, estilo: str) -> str:
     return f"{d.hour}h" if d.minute == 0 else f"{d.hour}h{d:%M}"
 
 
+def termina_em_outro_dia(ini: datetime, fim: datetime) -> bool:
+    """Fim num dia posterior que NÃO dá para deduzir só pelos horários.
+    "21h - 6h" (virada da noite, < 24 h) é dedutível; "8h - 12h" do dia seguinte não é."""
+    if fim.date() == ini.date():
+        return False
+    pernoite = fim.time() < ini.time() and (fim - ini).total_seconds() < 86400
+    return not pernoite
+
+
 def fmt_intervalo(ini: datetime, fim: datetime | None, estilo_h: str, estilo_i: str) -> str:
     a = fmt_hora(ini, estilo_h)
     if fim is None:
         return a
     b = fmt_hora(fim, estilo_h)
+    if termina_em_outro_dia(ini, fim):
+        b = f"{fim:%d/%m} {b}"  # sem a data, o fim seria lido como no mesmo dia
     return {
         "hifen": f"{a} - {b}",
         "travessao": f"{a} – {b}",
@@ -170,12 +181,29 @@ def aplicar_perfil(atividades: list[dict], perfil: str) -> list[dict]:
     return out
 
 
+def _chaves(atividades: list[dict]) -> set:
+    return {(a["nome"], a.get("dataInicio"), a.get("dataFim"), a.get("lugar"), a.get("descricao")) for a in atividades}
+
+
+def perfil_viavel(atividades: list[dict], perfil: str) -> str:
+    """Se apagar campos deixa duas atividades idênticas (ex.: a mesma oficina em
+    duas salas, no mesmo horário, sem o local), o rótulo vira uma duplicata sem
+    sentido. Nesse caso recua para um perfil que mantém o local."""
+    base = len(_chaves(atividades))
+    for p in {"enxuto": ["enxuto", "sem_descricao", "completo"],
+              "sem_lugar": ["sem_lugar", "completo"]}.get(perfil, [perfil]):
+        if len(_chaves(aplicar_perfil(atividades, p))) == base:
+            return p
+    return "completo"
+
+
 def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] | None = None,
                perfil: str = "completo") -> Renderizado:
     """`evento` = {"evento": {...}, "atividades": [...]} vindo do professor (já limpo)."""
     ruidos = list(ruidos or [])
     info = evento.get("evento", {}) or {}
     nome_evento = (info.get("nome") or "Programação").strip()
+    perfil = perfil_viavel(evento["atividades"], perfil)
     acts = sorted(aplicar_perfil(evento["atividades"], perfil), key=lambda a: (a["dataInicio"] or "", a["nome"]))
     ano = _dt(acts[0]["dataInicio"]).year if acts and acts[0]["dataInicio"] else datetime.now().year
     sigla = _sigla(nome_evento)
@@ -205,7 +233,7 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
     # Cabeçalho: o ano SEMPRE aparece em algum lugar do texto (decisão da Fase 5),
     # porque o ano do rótulo precisa ser inferível do texto.
     cab = rng.choice([
-        [f"{nome_evento} {ano}", "Programação"],
+        [nome_evento if str(ano) in nome_evento else f"{nome_evento} {ano}", "Programação"],
         [nome_evento, f"Programação {ano}"],
         [nome_evento.upper(), info.get("local_geral") or "", "PROGRAMAÇÃO"],
         [f"Programação - {nome_evento}", f"Edição {ano}"],
@@ -231,6 +259,10 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
     # só repetiriam o nome dela e não são realistas).
     tamanho_secao = Counter(a.get("secao") for a in acts if a.get("secao"))
 
+    # Colunas vazias no evento inteiro (ex.: perfil enxuto) não aparecem no cabeçalho.
+    tem_lugar = any(a.get("lugar") for a in acts)
+    tem_desc = any(a.get("descricao") for a in acts)
+
     dias = []
     for a in acts:
         d = _dt(a["dataInicio"]).date() if a["dataInicio"] else None
@@ -244,9 +276,9 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
             linhas.append(fmt_dia(datetime.combine(dia, datetime.min.time()), estilos["dia"], idx))
         if layout == "tabela":
             sep = estilos["sep_tabela"]
-            linhas.append(sep.join(["Horário", "Atividade", "Local", "Descrição"]))
+            linhas.append(sep.join(["Horário", "Atividade"] + ["Local"] * tem_lugar + ["Descrição"] * tem_desc))
         elif layout == "colunas":
-            linhas += ["Horário", "Atividade", "Local"]
+            linhas += ["Horário", "Atividade"] + ["Local"] * tem_lugar
         secao_atual = None
         for a in grupo:
             if ("secoes" in ruidos and a.get("secao") and a["secao"] != secao_atual
@@ -266,7 +298,8 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
                 linhas += desc_linhas(a)
             elif layout == "tabela":
                 sep = estilos["sep_tabela"]
-                linhas.append(sep.join([hora, nome_txt(a), lugar, " ".join(desc_linhas(a))]).rstrip(" |\t"))
+                cels = [hora, nome_txt(a)] + [lugar] * tem_lugar + [" ".join(desc_linhas(a))] * tem_desc
+                linhas.append(sep.join(cels).rstrip(" |\t"))
             elif layout == "colunas":
                 linhas.append(hora)
                 linhas += nome_linhas(a)

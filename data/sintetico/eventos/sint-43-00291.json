@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00291",
+  "tipo": "encontro de mulheres na computação",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro Elas na Computação - Recife 2023",
+   "local_geral": "Centro de Informática da UFPE"
+  },
+  "atividades": [
+   {
+    "nome": "Café de Boas-Vindas",
+    "lugar": null,
+    "dataInicio": "2023-05-13T08:30:00-03:00",
+    "dataFim": "2023-05-13T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Git para Iniciantes",
+    "lugar": null,
+    "dataInicio": "2023-05-13T09:00:00-03:00",
+    "dataFim": "2023-05-13T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Git para Iniciantes",
+    "lugar": null,
+    "dataInicio": "2023-05-13T10:45:00-03:00",
+    "dataFim": "2023-05-13T12:15:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Mentoria",
+    "lugar": null,
+    "dataInicio": "2023-05-13T14:00:00-03:00",
+    "dataFim": "2023-05-13T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

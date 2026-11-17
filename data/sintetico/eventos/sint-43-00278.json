@@ -1,0 +1,46 @@
+{
+ "spec": {
+  "id": "sint-43-00278",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Hackathon Guaíba Dados Abertos 2023",
+   "local_geral": "Instituto Caldeira"
+  },
+  "atividades": [
+   {
+    "nome": "Lightning Talks",
+    "lugar": null,
+    "dataInicio": "2023-11-11T10:00:00-03:00",
+    "dataFim": "2023-11-11T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Lightning Talks",
+    "lugar": null,
+    "dataInicio": "2023-11-11T15:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

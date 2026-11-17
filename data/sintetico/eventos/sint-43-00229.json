@@ -1,0 +1,53 @@
+{
+ "spec": {
+  "id": "sint-43-00229",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Viçosa - MG",
+  "ano": 2025,
+  "n_dias": 1,
+  "n_atividades": 3,
+  "casos": [
+   "sem_horario_fim",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "I Jornada de Medicina de Família e Comunidade da UFV 2025",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2025-09-27T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa Atenção Primária no Meio Rural",
+    "lugar": null,
+    "dataInicio": "2025-09-27T08:30:00-03:00",
+    "dataFim": "2025-09-27T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Discussão de Casos Clínicos",
+    "lugar": null,
+    "dataInicio": "2025-09-27T10:45:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

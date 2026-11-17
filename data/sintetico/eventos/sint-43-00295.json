@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-43-00295",
+  "tipo": "semana acadêmica de um curso de graduação",
+  "cidade": "Uberlândia - MG",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Semana Acadêmica de Psicologia da UFU 2026",
+   "local_geral": "Campus Umuarama"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Anfiteatro do Bloco 2U",
+    "dataInicio": "2026-05-06T08:00:00-03:00",
+    "dataFim": "2026-05-06T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Saúde Mental na Universidade",
+    "lugar": "Anfiteatro do Bloco 2U",
+    "dataInicio": "2026-05-06T08:30:00-03:00",
+    "dataFim": "2026-05-06T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Minicurso de Avaliação Psicológica",
+    "lugar": "Sala 2U-105",
+    "dataInicio": "2026-05-06T10:30:00-03:00",
+    "dataFim": "2026-05-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Psicologia do Esporte",
+    "lugar": "Sala 2U-106",
+    "dataInicio": "2026-05-06T10:30:00-03:00",
+    "dataFim": "2026-05-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Minicurso de Terapia Cognitivo-Comportamental",
+    "lugar": "Sala 2U-210",
+    "dataInicio": "2026-05-06T10:30:00-03:00",
+    "dataFim": "2026-05-06T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Minicursos"
+   },
+   {
+    "nome": "Sarau de Encerramento",
+    "lugar": "Praça do Umuarama",
+    "dataInicio": "2026-05-06T14:00:00-03:00",
+    "dataFim": "2026-05-06T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

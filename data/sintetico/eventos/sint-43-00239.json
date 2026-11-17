@@ -1,0 +1,60 @@
+{
+ "spec": {
+  "id": "sint-43-00239",
+  "tipo": "encontro de professores da educação básica",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Encontro de Professores de Ciências da Rede Municipal de Goiânia 2023",
+   "local_geral": "Centro de Formação dos Profissionais da Educação"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2023-08-26T08:00:00-03:00",
+    "dataFim": "2023-08-26T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Experimentos com Materiais Recicláveis",
+    "lugar": "Sala 1",
+    "dataInicio": "2023-08-26T08:45:00-03:00",
+    "dataFim": "2023-08-26T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Robótica Educacional",
+    "lugar": "Sala 2",
+    "dataInicio": "2023-08-26T08:45:00-03:00",
+    "dataFim": "2023-08-26T11:45:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plenária Final",
+    "lugar": "Auditório",
+    "dataInicio": "2023-08-26T11:45:00-03:00",
+    "dataFim": "2023-08-26T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "spec": {
+  "id": "sint-43-00140",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Natal - RN",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Natal Jam Express 2024",
+   "local_geral": "IFRN - Campus Natal Central"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura e Tema",
+    "lugar": null,
+    "dataInicio": "2024-11-09T08:00:00-03:00",
+    "dataFim": "2024-11-09T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Playtest",
+    "lugar": null,
+    "dataInicio": "2024-11-09T13:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Playtest",
+    "lugar": null,
+    "dataInicio": "2024-11-09T16:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Votação e Premiação",
+    "lugar": null,
+    "dataInicio": "2024-11-09T19:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00106",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "São Paulo - SP",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso Paulista de Direito Digital 2023",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Mesa de Abertura",
+    "lugar": null,
+    "dataInicio": "2023-11-09T09:00:00-03:00",
+    "dataFim": "2023-11-09T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Conferência de Encerramento",
+    "lugar": null,
+    "dataInicio": "2023-11-10T16:00:00-03:00",
+    "dataFim": "2023-11-10T17:30:00-03:00",
+    "descricao": "<p>Tema: <i>Responsabilidade civil das plataformas digitais</i>.</p>",
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "spec": {
+  "id": "sint-43-00124",
+  "tipo": "fórum institucional de avaliação (CPA)",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 4,
+  "casos": [
+   "intervalos",
+   "sem_horario_fim"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:28+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Fórum da Comissão Própria de Avaliação - UFCSPA 2026",
+   "local_geral": "Auditório Moacyr Scliar"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2026-11-11T13:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação do Relatório Parcial",
+    "lugar": null,
+    "dataInicio": "2026-11-11T14:00:00-03:00",
+    "dataFim": "2026-11-11T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Café",
+    "lugar": null,
+    "dataInicio": "2026-11-11T15:00:00-03:00",
+    "dataFim": "2026-11-11T15:20:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Escuta com Discentes e Técnicos",
+    "lugar": null,
+    "dataInicio": "2026-11-11T15:20:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "spec": {
+  "id": "sint-43-00167",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Fortaleza - CE",
+  "ano": 2027,
+  "n_dias": 3,
+  "n_atividades": 18,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Feira Ceará de Negócios 2027",
+   "local_geral": "Centro de Eventos do Ceará"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura Oficial",
+    "lugar": null,
+    "dataInicio": "2027-06-09T10:00:00-03:00",
+    "dataFim": "2027-06-09T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Vendas pelo WhatsApp",
+    "lugar": "Arena de Conteúdo",
+    "dataInicio": "2027-06-09T14:00:00-03:00",
+    "dataFim": "2027-06-09T15:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fluxo de Caixa",
+    "lugar": "Sala de Capacitação",
+    "dataInicio": "2027-06-09T14:00:00-03:00",
+    "dataFim": "2027-06-09T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios: Moda",
+    "lugar": "Espaço Rodadas",
+    "dataInicio": "2027-06-09T15:00:00-03:00",
+    "dataFim": "2027-06-09T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Desfile de Moda Autoral",
+    "lugar": null,
+    "dataInicio": "2027-06-09T19:00:00-03:00",
+    "dataFim": "2027-06-09T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atendimento de Crédito",
+    "lugar": null,
+    "dataInicio": "2027-06-10T09:00:00-03:00",
+    "dataFim": "2027-06-10T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Formalização do MEI",
+    "lugar": "Arena de Conteúdo",
+    "dataInicio": "2027-06-10T10:00:00-03:00",
+    "dataFim": "2027-06-10T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Precificação de Serviços",
+    "lugar": "Sala de Capacitação",
+    "dataInicio": "2027-06-10T10:00:00-03:00",
+    "dataFim": "2027-06-10T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios: Alimentos",
+    "lugar": "Espaço Rodadas",
+    "dataInicio": "2027-06-10T14:00:00-03:00",
+    "dataFim": "2027-06-10T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Turismo no Litoral Oeste",
+    "lugar": "Arena de Conteúdo",
+    "dataInicio": "2027-06-10T15:00:00-03:00",
+    "dataFim": "2027-06-10T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mentoria Express",
+    "lugar": null,
+    "dataInicio": "2027-06-10T16:00:00-03:00",
+    "dataFim": "2027-06-10T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atendimento de Crédito",
+    "lugar": null,
+    "dataInicio": "2027-06-11T09:00:00-03:00",
+    "dataFim": "2027-06-11T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Inteligência Artificial para Pequenos Negócios",
+    "lugar": "Arena de Conteúdo",
+    "dataInicio": "2027-06-11T10:00:00-03:00",
+    "dataFim": "2027-06-11T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Vitrinismo",
+    "lugar": "Sala de Capacitação",
+    "dataInicio": "2027-06-11T10:00:00-03:00",
+    "dataFim": "2027-06-11T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios: Artesanato",
+    "lugar": "Espaço Rodadas",
+    "dataInicio": "2027-06-11T14:00:00-03:00",
+    "dataFim": "2027-06-11T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Desafio de Pitch",
+    "lugar": "Arena de Conteúdo",
+    "dataInicio": "2027-06-11T15:00:00-03:00",
+    "dataFim": "2027-06-11T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": null,
+    "dataInicio": "2027-06-11T17:30:00-03:00",
+    "dataFim": "2027-06-11T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Show de Forró Pé de Serra",
+    "lugar": null,
+    "dataInicio": "2027-06-11T19:00:00-03:00",
+    "dataFim": "2027-06-11T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

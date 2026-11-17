@@ -1,0 +1,76 @@
+{
+ "spec": {
+  "id": "sint-43-00242",
+  "tipo": "simpósio de pós-graduação",
+  "cidade": "Cuiabá - MT",
+  "ano": 2026,
+  "n_dias": 1,
+  "n_atividades": 6,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Simpósio de Pós-Graduação em Agricultura Tropical - UFMT 2026",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2026-04-15T08:00:00-03:00",
+    "dataFim": "2026-04-15T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Magna",
+    "lugar": "Teatro Universitário",
+    "dataInicio": "2026-04-15T08:30:00-03:00",
+    "dataFim": "2026-04-15T09:30:00-03:00",
+    "descricao": "<p>Com <b>Dr. Augusto Freitas Lemos</b> (Embrapa Agrossilvipastoril).</p>",
+    "secao": null
+   },
+   {
+    "nome": "Sessão Oral - Fitotecnia",
+    "lugar": "Sala 01",
+    "dataInicio": "2026-04-15T10:00:00-03:00",
+    "dataFim": "2026-04-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Sessão Oral - Solos",
+    "lugar": "Sala 02",
+    "dataInicio": "2026-04-15T10:00:00-03:00",
+    "dataFim": "2026-04-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Sessão Oral - Zootecnia",
+    "lugar": "Sala 03",
+    "dataInicio": "2026-04-15T10:00:00-03:00",
+    "dataFim": "2026-04-15T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Sessões Orais"
+   },
+   {
+    "nome": "Sessão de Pôsteres",
+    "lugar": "Hall da FAAZ",
+    "dataInicio": "2026-04-15T14:00:00-03:00",
+    "dataFim": "2026-04-15T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

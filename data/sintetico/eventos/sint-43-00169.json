@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-43-00169",
+  "tipo": "jornada médica / congresso de saúde",
+  "cidade": "Florianópolis - SC",
+  "ano": 2027,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "nomes_repetidos",
+   "sem_local",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jornada Catarinense de Medicina de Emergência 2027",
+   "local_geral": "Centro de Eventos da UFSC"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2027-03-19T07:30:00-03:00",
+    "dataFim": "2027-03-19T08:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atualização em Sepse",
+    "lugar": null,
+    "dataInicio": "2027-03-19T08:30:00-03:00",
+    "dataFim": "2027-03-19T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Manejo da Via Aérea Difícil",
+    "lugar": null,
+    "dataInicio": "2027-03-19T09:30:00-03:00",
+    "dataFim": "2027-03-19T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-03-19T10:30:00-03:00",
+    "dataFim": "2027-03-19T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Hands-on de Ultrassom POCUS",
+    "lugar": null,
+    "dataInicio": "2027-03-19T11:00:00-03:00",
+    "dataFim": "2027-03-19T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Almoço",
+    "lugar": null,
+    "dataInicio": "2027-03-19T12:30:00-03:00",
+    "dataFim": "2027-03-19T14:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Discussão de Casos Clínicos",
+    "lugar": null,
+    "dataInicio": "2027-03-19T14:00:00-03:00",
+    "dataFim": "2027-03-19T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Hands-on de Ultrassom POCUS",
+    "lugar": null,
+    "dataInicio": "2027-03-20T08:30:00-03:00",
+    "dataFim": "2027-03-20T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Intervalo",
+    "lugar": null,
+    "dataInicio": "2027-03-20T10:00:00-03:00",
+    "dataFim": "2027-03-20T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Simulação Realística em Parada Cardiorrespiratória",
+    "lugar": null,
+    "dataInicio": "2027-03-20T10:30:00-03:00",
+    "dataFim": "2027-03-20T12:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2027-03-20T12:30:00-03:00",
+    "dataFim": "2027-03-20T13:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-43-00171",
+  "tipo": "seminário de sustentabilidade e meio ambiente",
+  "cidade": "Goiânia - GO",
+  "ano": 2023,
+  "n_dias": 1,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Seminário Cerrado em Pé 2023",
+   "local_geral": "Escola de Agronomia - UFG"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-09-12T08:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Recuperação de Nascentes",
+    "lugar": "Auditório da EA",
+    "dataInicio": "2023-09-12T08:30:00-03:00",
+    "dataFim": "2023-09-12T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Viveiro de Mudas Nativas",
+    "lugar": "Viveiro Florestal",
+    "dataInicio": "2023-09-12T08:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Painel Queimadas no Cerrado",
+    "lugar": null,
+    "dataInicio": "2023-09-12T10:30:00-03:00",
+    "dataFim": "2023-09-12T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Plantio Simbólico",
+    "lugar": null,
+    "dataInicio": "2023-09-12T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "spec": {
+  "id": "sint-43-00288",
+  "tipo": "maratona de programação e game jam",
+  "cidade": "Porto Alegre - RS",
+  "ano": 2024,
+  "n_dias": 1,
+  "n_atividades": 2,
+  "casos": [
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:56+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Maratona Interna de Programação do IFRS - Campus Porto Alegre 2024",
+   "local_geral": null
+  },
+  "atividades": [
+   {
+    "nome": "Warm-up",
+    "lugar": null,
+    "dataInicio": "2024-08-31T09:00:00-03:00",
+    "dataFim": "2024-08-31T10:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Prova Principal",
+    "lugar": null,
+    "dataInicio": "2024-08-31T13:00:00-03:00",
+    "dataFim": "2024-08-31T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

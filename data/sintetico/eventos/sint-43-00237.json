@@ -1,0 +1,118 @@
+{
+ "spec": {
+  "id": "sint-43-00237",
+  "tipo": "mostra de extensão universitária",
+  "cidade": "Recife - PE",
+  "ano": 2023,
+  "n_dias": 2,
+  "n_atividades": 11,
+  "casos": [
+   "sem_local",
+   "nomes_repetidos",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Mostra de Extensão da UFRPE 2023",
+   "local_geral": "UFRPE - Campus Dois Irmãos"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": null,
+    "dataInicio": "2023-11-21T09:00:00-03:00",
+    "dataFim": "2023-11-21T09:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 1",
+    "dataInicio": "2023-11-21T09:30:00-03:00",
+    "dataFim": "2023-11-21T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 2",
+    "dataInicio": "2023-11-21T09:30:00-03:00",
+    "dataFim": "2023-11-21T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Banners",
+    "lugar": null,
+    "dataInicio": "2023-11-21T14:00:00-03:00",
+    "dataFim": "2023-11-21T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Feira da Agricultura Familiar",
+    "lugar": null,
+    "dataInicio": "2023-11-21T14:00:00-03:00",
+    "dataFim": "2023-11-21T18:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Cultural",
+    "lugar": null,
+    "dataInicio": "2023-11-21T18:00:00-03:00",
+    "dataFim": "2023-11-21T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Roda de Diálogo Extensão e Comunidade",
+    "lugar": null,
+    "dataInicio": "2023-11-22T09:00:00-03:00",
+    "dataFim": "2023-11-22T10:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Exposição de Banners",
+    "lugar": null,
+    "dataInicio": "2023-11-22T09:00:00-03:00",
+    "dataFim": "2023-11-22T12:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Apresentação Oral de Projetos",
+    "lugar": "Sala 1",
+    "dataInicio": "2023-11-22T14:00:00-03:00",
+    "dataFim": "2023-11-22T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Premiação",
+    "lugar": null,
+    "dataInicio": "2023-11-22T17:00:00-03:00",
+    "dataFim": "2023-11-22T17:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento com Maracatu",
+    "lugar": null,
+    "dataInicio": "2023-11-22T17:30:00-03:00",
+    "dataFim": "2023-11-22T18:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

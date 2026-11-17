@@ -1,0 +1,109 @@
+{
+ "spec": {
+  "id": "sint-43-00001",
+  "tipo": "evento esportivo universitário com torneios e cerimônias",
+  "cidade": "Goiânia - GO",
+  "ano": 2026,
+  "n_dias": 2,
+  "n_atividades": 10,
+  "casos": [
+   "atividades_paralelas",
+   "sem_local"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:03:53+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Jogos Universitários Goianos - JUG 2026",
+   "local_geral": "Complexo Esportivo da UFG"
+  },
+  "atividades": [
+   {
+    "nome": "Cerimônia de Abertura",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2026-10-17T08:00:00-03:00",
+    "dataFim": "2026-10-17T09:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Futsal Masculino - Fase de Grupos",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2026-10-17T09:30:00-03:00",
+    "dataFim": "2026-10-17T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Torneios"
+   },
+   {
+    "nome": "Vôlei Feminino - Fase de Grupos",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2026-10-17T09:30:00-03:00",
+    "dataFim": "2026-10-17T12:00:00-03:00",
+    "descricao": null,
+    "secao": "Torneios"
+   },
+   {
+    "nome": "Xadrez Rápido",
+    "lugar": null,
+    "dataInicio": "2026-10-17T14:00:00-03:00",
+    "dataFim": "2026-10-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": "Torneios"
+   },
+   {
+    "nome": "Atletismo - 100m Rasos",
+    "lugar": "Pista de Atletismo",
+    "dataInicio": "2026-10-17T15:00:00-03:00",
+    "dataFim": "2026-10-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Torneios"
+   },
+   {
+    "nome": "Futsal Masculino - Semifinais",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2026-10-18T09:00:00-03:00",
+    "dataFim": "2026-10-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Finais"
+   },
+   {
+    "nome": "Vôlei Feminino - Semifinais",
+    "lugar": "Ginásio 2",
+    "dataInicio": "2026-10-18T09:00:00-03:00",
+    "dataFim": "2026-10-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": "Finais"
+   },
+   {
+    "nome": "Tênis de Mesa",
+    "lugar": null,
+    "dataInicio": "2026-10-18T13:00:00-03:00",
+    "dataFim": "2026-10-18T16:00:00-03:00",
+    "descricao": null,
+    "secao": "Finais"
+   },
+   {
+    "nome": "Final do Futsal Masculino",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2026-10-18T16:00:00-03:00",
+    "dataFim": "2026-10-18T17:30:00-03:00",
+    "descricao": null,
+    "secao": "Finais"
+   },
+   {
+    "nome": "Premiação e Encerramento",
+    "lugar": "Ginásio Principal",
+    "dataInicio": "2026-10-18T18:00:00-03:00",
+    "dataFim": "2026-10-18T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

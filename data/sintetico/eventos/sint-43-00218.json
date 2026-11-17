@@ -1,0 +1,70 @@
+{
+ "spec": {
+  "id": "sint-43-00218",
+  "tipo": "congresso jurídico com mesas-redondas",
+  "cidade": "Londrina - PR",
+  "ano": 2024,
+  "n_dias": 3,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim",
+   "nomes_repetidos",
+   "intervalos"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Congresso de Direito Processual do Norte do Paraná 2024",
+   "local_geral": "Teatro Ouro Verde"
+  },
+  "atividades": [
+   {
+    "nome": "Credenciamento",
+    "lugar": null,
+    "dataInicio": "2024-08-20T18:00:00-03:00",
+    "dataFim": "2024-08-20T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": null,
+    "dataInicio": "2024-08-20T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": "<p>Tema: <i>Precedentes vinculantes no novo processo civil</i>.</p>",
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": null,
+    "dataInicio": "2024-08-21T19:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Mesa de Debates",
+    "lugar": null,
+    "dataInicio": "2024-08-22T19:30:00-03:00",
+    "dataFim": "2024-08-22T21:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": null,
+    "dataInicio": "2024-08-22T21:30:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

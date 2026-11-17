@@ -1,0 +1,156 @@
+{
+ "spec": {
+  "id": "sint-43-00201",
+  "tipo": "feira de negócios e empreendedorismo do Sebrae",
+  "cidade": "Londrina - PR",
+  "ano": 2023,
+  "n_dias": 3,
+  "n_atividades": 16,
+  "casos": [
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:23:58+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "ExpoNegócios Norte do Paraná 2023",
+   "local_geral": "Parque Ney Braga"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-16T18:00:00-03:00",
+    "dataFim": "2023-05-16T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Gestão Financeira para MEI",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-16T19:00:00-03:00",
+    "dataFim": "2023-05-16T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Fotos de Produto com Celular",
+    "lugar": "Sala Empreender",
+    "dataInicio": "2023-05-16T19:00:00-03:00",
+    "dataFim": "2023-05-16T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atendimento Empresarial",
+    "lugar": "Estande Sebrae",
+    "dataInicio": "2023-05-17T09:00:00-03:00",
+    "dataFim": "2023-05-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Gestão de Estoque",
+    "lugar": "Sala Empreender",
+    "dataInicio": "2023-05-17T09:00:00-03:00",
+    "dataFim": "2023-05-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Exportação para Pequenas Empresas",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-17T10:00:00-03:00",
+    "dataFim": "2023-05-17T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios: Agroindústria",
+    "lugar": "Sala de Rodadas",
+    "dataInicio": "2023-05-17T14:00:00-03:00",
+    "dataFim": "2023-05-17T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Cafés Especiais do Norte Pioneiro",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-17T15:00:00-03:00",
+    "dataFim": "2023-05-17T16:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Atendimento ao Cliente",
+    "lugar": "Sala Empreender",
+    "dataInicio": "2023-05-17T19:00:00-03:00",
+    "dataFim": "2023-05-17T21:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Varejo Omnichannel",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-17T19:00:00-03:00",
+    "dataFim": "2023-05-17T20:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Atendimento Empresarial",
+    "lugar": "Estande Sebrae",
+    "dataInicio": "2023-05-18T09:00:00-03:00",
+    "dataFim": "2023-05-18T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Oficina de Instagram para Negócios",
+    "lugar": "Sala Empreender",
+    "dataInicio": "2023-05-18T09:00:00-03:00",
+    "dataFim": "2023-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra: Franquias",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-18T10:00:00-03:00",
+    "dataFim": "2023-05-18T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Rodada de Negócios: Moveleiro",
+    "lugar": "Sala de Rodadas",
+    "dataInicio": "2023-05-18T14:00:00-03:00",
+    "dataFim": "2023-05-18T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Talk Show Histórias que Empreendem",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-18T15:00:00-03:00",
+    "dataFim": "2023-05-18T16:30:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Encerramento",
+    "lugar": "Auditório",
+    "dataInicio": "2023-05-18T18:00:00-03:00",
+    "dataFim": "2023-05-18T19:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}

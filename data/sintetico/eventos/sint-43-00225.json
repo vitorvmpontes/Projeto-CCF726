@@ -1,0 +1,69 @@
+{
+ "spec": {
+  "id": "sint-43-00225",
+  "tipo": "evento de tecnologia com palestras de empresas e hackathon",
+  "cidade": "Rio de Janeiro - RJ",
+  "ano": 2024,
+  "n_dias": 2,
+  "n_atividades": 5,
+  "casos": [
+   "sem_horario_fim",
+   "atividades_paralelas"
+  ],
+  "estilo": "enxuto"
+ },
+ "modelo": "claude-opus-5-5 (Cowork)",
+ "gerado_em": "2026-11-16T18:24:11+00:00",
+ "uso_tokens": {
+  "entrada": 0,
+  "saida": 0
+ },
+ "saida": {
+  "evento": {
+   "nome": "Hack Porto Maravilha 2024",
+   "local_geral": "Armazém 5 - Píer Mauá"
+  },
+  "atividades": [
+   {
+    "nome": "Abertura do Hackathon",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-11-09T09:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Open Finance na Prática",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-11-09T10:00:00-03:00",
+    "dataFim": "2024-11-09T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Palestra Observabilidade em Escala",
+    "lugar": "Palco 2",
+    "dataInicio": "2024-11-09T10:00:00-03:00",
+    "dataFim": "2024-11-09T11:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Entrega dos Projetos",
+    "lugar": null,
+    "dataInicio": "2024-11-10T12:00:00-03:00",
+    "dataFim": null,
+    "descricao": null,
+    "secao": null
+   },
+   {
+    "nome": "Pitch Final e Premiação",
+    "lugar": "Palco Principal",
+    "dataInicio": "2024-11-10T14:00:00-03:00",
+    "dataFim": "2024-11-10T17:00:00-03:00",
+    "descricao": null,
+    "secao": null
+   }
+  ]
+ }
+}
