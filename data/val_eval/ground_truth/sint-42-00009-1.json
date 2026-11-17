@@ -1,0 +1,93 @@
+[
+ {
+  "nome": "Acolhimento e Entrega de Crachás",
+  "lugar": null,
+  "dataInicio": "2027-05-13T08:00:00-03:00",
+  "dataFim": "2027-05-13T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Abertura",
+  "lugar": null,
+  "dataInicio": "2027-05-13T09:15:00-03:00",
+  "dataFim": "2027-05-13T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 1",
+  "lugar": null,
+  "dataInicio": "2027-05-13T14:00:00-03:00",
+  "dataFim": "2027-05-13T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 2",
+  "lugar": null,
+  "dataInicio": "2027-05-13T14:00:00-03:00",
+  "dataFim": "2027-05-13T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Conversa 1",
+  "lugar": null,
+  "dataInicio": "2027-05-14T08:30:00-03:00",
+  "dataFim": "2027-05-14T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Conversa 2",
+  "lugar": null,
+  "dataInicio": "2027-05-14T08:30:00-03:00",
+  "dataFim": "2027-05-14T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Lanche Comunitário",
+  "lugar": null,
+  "dataInicio": "2027-05-14T10:30:00-03:00",
+  "dataFim": "2027-05-14T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres",
+  "lugar": null,
+  "dataInicio": "2027-05-14T11:00:00-03:00",
+  "dataFim": "2027-05-14T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Colóquio de Políticas Educacionais",
+  "lugar": null,
+  "dataInicio": "2027-05-14T14:30:00-03:00",
+  "dataFim": "2027-05-14T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 3",
+  "lugar": null,
+  "dataInicio": "2027-05-15T08:30:00-03:00",
+  "dataFim": "2027-05-15T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 4",
+  "lugar": null,
+  "dataInicio": "2027-05-15T08:30:00-03:00",
+  "dataFim": "2027-05-15T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação Cultural",
+  "lugar": null,
+  "dataInicio": "2027-05-15T11:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Assembleia de Encerramento",
+  "lugar": null,
+  "dataInicio": "2027-05-15T14:00:00-03:00",
+  "dataFim": "2027-05-15T16:00:00-03:00",
+  "descricao": null
+ }
+]

@@ -1,0 +1,114 @@
+[
+ {
+  "nome": "Recepção e Entrega dos Kits Gastronômicos",
+  "lugar": null,
+  "dataInicio": "2024-05-17T09:00:00-03:00",
+  "dataFim": "2024-05-17T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra de Abertura",
+  "lugar": null,
+  "dataInicio": "2024-05-17T10:30:00-03:00",
+  "dataFim": "2024-05-17T12:00:00-03:00",
+  "descricao": "<p>Apresentação inaugural intitulada <i>Da Raiz à Alta Gastronomia: A Revolução da Cozinha Ribeirinha e as Práticas Sustentáveis dos Cozinheiros Tradicionais do Baixo Tocantins</i>, conduzida pelo chef <b>Thiago Castanho</b> e pela pesquisadora <b>Maria Trindade</b>.</p>"
+ },
+ {
+  "nome": "Circuito de Degustação de Produtores Locais",
+  "lugar": null,
+  "dataInicio": "2024-05-17T12:00:00-03:00",
+  "dataFim": "2024-05-17T14:00:00-03:00",
+  "descricao": "<p>Espaço aberto para degustação de farinhas, queijos de búfala e licores artesanais das cooperativas de Marajó e Bragança.</p>"
+ },
+ {
+  "nome": "Aula-Show 1",
+  "lugar": null,
+  "dataInicio": "2024-05-17T14:30:00-03:00",
+  "dataFim": "2024-05-17T16:00:00-03:00",
+  "descricao": "<p>Tema: <i>Segredos da Redução do Tucupi Amarelo e Negro com Peixes de Couro da Bacia Amazônica</i>, com a chef <b>Dona Nena</b>.</p>"
+ },
+ {
+  "nome": "Oficina Técnica 1",
+  "lugar": null,
+  "dataInicio": "2024-05-17T14:30:00-03:00",
+  "dataFim": "2024-05-17T16:00:00-03:00",
+  "descricao": "<p>Oficina prática abordando o uso de cogumelos nativos e fermentações caboclas sob supervisão da sommelière <b>Camila Albuquerque</b>.</p>"
+ },
+ {
+  "nome": "Mesa Temática 1",
+  "lugar": null,
+  "dataInicio": "2024-05-17T16:30:00-03:00",
+  "dataFim": "2024-05-17T18:00:00-03:00",
+  "descricao": "<p>Painel de debate sobre <i>Cadeias Produtivas da Sociobiodiversidade Amazônica e o Mercado Global de Superfrutas</i>, mediado pelo prof. <b>Eduardo Vasconcelos</b> com participação dos agricultores <b>João Pantoja</b> e <b>Luciana Baía</b>.</p>"
+ },
+ {
+  "nome": "Aula-Show 2",
+  "lugar": null,
+  "dataInicio": "2024-05-18T10:00:00-03:00",
+  "dataFim": "2024-05-18T11:30:00-03:00",
+  "descricao": "<p>Preparo ao vivo focado em <i>Cortes Nobres e Aproveitamento Total do Pirarucu de Manejo Sustentável de Mamirauá</i>, ministrado pelo chef convidado <b>Felipe Schaedler</b>.</p>"
+ },
+ {
+  "nome": "Palestra Temática",
+  "lugar": null,
+  "dataInicio": "2024-05-18T10:00:00-03:00",
+  "dataFim": "2024-05-18T11:30:00-03:00",
+  "descricao": "<p>Apresentação teórica com o título <i>Potencialidades Econômicas e Gastronômicas das Pimentas e Ervas Tropicais Nativas da Floresta Pluvial Amazônica para a Agroindústria Familiar</i>, conduzida pelo botânico <b>Geraldo Meireles</b> e pela pesquisadora <b>Selma Coutinho</b>.</p>"
+ },
+ {
+  "nome": "Intervalo para Almoço Livre",
+  "lugar": null,
+  "dataInicio": "2024-05-18T11:30:00-03:00",
+  "dataFim": "2024-05-18T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Aula-Show 3",
+  "lugar": null,
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": "2024-05-18T15:30:00-03:00",
+  "descricao": "<p>Elaboração de sobremesas modernas com o tema <i>Releituras Contemporâneas da Confeitaria Paraense Utilizando Cupuaçu, Bacuri e Mel de Abelhas Indígenas</i>, ministrada pela chef confeiteira <b>Ângela Sicília</b>.</p>"
+ },
+ {
+  "nome": "Oficina Técnica 2",
+  "lugar": null,
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": "2024-05-18T15:30:00-03:00",
+  "descricao": "<p>Prática de chocolataria intitulada <i>Temperagem e Conchagem do Cacau de Várzea com Frutas Secas Regionais</i>, com o chocolatier <b>César de Mendes</b>.</p>"
+ },
+ {
+  "nome": "Bate-papo Gastronômico",
+  "lugar": null,
+  "dataInicio": "2024-05-18T16:00:00-03:00",
+  "dataFim": "2024-05-18T17:30:00-03:00",
+  "descricao": "<p>Conversa informal com escritores de guias culinários e os chefs <b>Paulo Martins Filho</b> e <b>Roberta Sudbrack</b> sobre o futuro dos ingredientes do Norte.</p>"
+ },
+ {
+  "nome": "Oficina Técnica 3",
+  "lugar": null,
+  "dataInicio": "2024-05-19T09:30:00-03:00",
+  "dataFim": "2024-05-19T11:00:00-03:00",
+  "descricao": "<p>Técnicas de coquetelaria amazônica: <i>Mixologia com Cachaças Envelhecidas em Madeiras Nobres Regionais e Infusões de Jambu</i>, sob liderança do bartender <b>Yvens Penna</b>.</p>"
+ },
+ {
+  "nome": "Aula-Show 4",
+  "lugar": null,
+  "dataInicio": "2024-05-19T11:00:00-03:00",
+  "dataFim": "2024-05-19T12:30:00-03:00",
+  "descricao": "<p>Cozimento tradicional e releitura de pratos icônicos: <i>A Maniçoba Perfeita: Técnicas Tradicionais de Cocção Prolongada e Novas Texturas Urbanas</i>, apresentada pela cozinheira <b>Iracema Ribeiro</b>.</p>"
+ },
+ {
+  "nome": "Roda de Conversa com Mestres da Farinha",
+  "lugar": null,
+  "dataInicio": "2024-05-19T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": "<p>Troca de experiências com mestres farinheiros das comunidades quilombolas do Pará, articulada por <b>Benedito Chaves</b>.</p>"
+ },
+ {
+  "nome": "Cerimônia de Encerramento e Premiação",
+  "lugar": null,
+  "dataInicio": "2024-05-19T16:00:00-03:00",
+  "dataFim": "2024-05-19T17:30:00-03:00",
+  "descricao": "<p>Entrega do Prêmio Inovação na Gastronomia da Amazônia, com discursos finais conduzidos pela curadora <b>Renata Barreto</b>.</p>"
+ }
+]

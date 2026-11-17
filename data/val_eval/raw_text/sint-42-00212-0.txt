@@ -1,0 +1,43 @@
+IX Encontro Cearense de Mulheres na Tecnologia da Informação e Computação
+Programação 2026
+
+13 de maio de 2026
+Horário | Atividade
+(08:00 - 09:00) | Credenciamento e Boas-Vindas
+(09:00 - 10:00) | Sessão Solene de Abertura
+(10:00 - 11:15) | Palestra Inaugural
+(11:15 - 11:45) | Intervalo para Café
+(11:45 - 13:00) | Painel Temático 1
+(13:00 - 14:30) | Pausa para Almoço
+(14:30 - 16:00) | Sessão Técnica 1
+(16:00 - 17:15) | Palestra Técnica 1
+17:15 | Mostra de Projetos de Iniciação Científica
+
+14 de maio de 2026
+Horário | Atividade
+(08:30 - 10:30) | Oficina Prática 1
+(10:30 - 11:00) | Lanche da Manhã
+(11:00 - 12:30) | Mesa-Redonda
+(12:30 - 14:00) | Almoço Livre
+(14:00 - 16:00) | Oficina Prática 2
+(16:00 - 17:30) | Sessão Técnica 2
+17:30 | Roda de Conversa com Startups
+
+15 de maio de 2026
+Horário | Atividade
+(08:30 - 11:00) | Minicurso Avançado
+(11:00 - 11:30) | Pausa para Café
+(11:30 - 13:00) | Painel Temático 2
+(13:00 - 14:30) | Intervalo de Almoço
+(14:30 - 16:00) | Sessão Técnica 3
+(16:00 - 17:15) | Palestra Técnica 2
+17:15 | Sessão Relâmpago de Ideias
+
+16 de maio de 2026
+Horário | Atividade
+(08:30 - 11:00) | Hackathon Elas na Computação
+(11:00 - 11:30) | Coffee Break de Encerramento
+(11:30 - 12:45) | Palestra de Encerramento
+(12:45 - 13:30) | Premiação dos Melhores Trabalhos
+(13:30 - 14:00) | Cerimônia de Encerramento
+14:00 | Apresentação Cultural

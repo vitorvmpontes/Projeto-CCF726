@@ -1,0 +1,58 @@
+[
+ {
+  "nome": "Abertura",
+  "lugar": null,
+  "dataInicio": "2024-06-05T08:30:00-03:00",
+  "dataFim": "2024-06-05T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Trilha Ecológica na Mata do Paraíso",
+  "lugar": null,
+  "dataInicio": "2024-06-05T09:00:00-03:00",
+  "dataFim": "2024-06-05T11:30:00-03:00",
+  "descricao": "<p>Saída do ponto de ônibus da Reitoria.</p>"
+ },
+ {
+  "nome": "Oficina de Compostagem Doméstica",
+  "lugar": null,
+  "dataInicio": "2024-06-05T14:00:00-03:00",
+  "dataFim": "2024-06-05T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mutirão de Plantio",
+  "lugar": null,
+  "dataInicio": "2024-06-05T16:00:00-03:00",
+  "dataFim": "2024-06-05T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Trilha Ecológica na Mata do Paraíso",
+  "lugar": null,
+  "dataInicio": "2024-06-06T08:00:00-03:00",
+  "dataFim": "2024-06-06T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Feira de Trocas Sustentáveis",
+  "lugar": null,
+  "dataInicio": "2024-06-06T09:00:00-03:00",
+  "dataFim": "2024-06-06T15:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mutirão de Plantio",
+  "lugar": null,
+  "dataInicio": "2024-06-06T14:00:00-03:00",
+  "dataFim": "2024-06-06T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cine Ambiental",
+  "lugar": null,
+  "dataInicio": "2024-06-06T19:00:00-03:00",
+  "dataFim": "2024-06-06T21:00:00-03:00",
+  "descricao": "<p>Exibição do documentário <i>Águas do Cerrado</i> seguida de debate.</p>"
+ }
+]

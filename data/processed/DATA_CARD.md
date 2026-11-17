@@ -1,6 +1,6 @@
 # Data card — dataset de treino/validação (fonte B: sintético, v1.1)
 
-Gerado em 2026-11-17T17:11:40+00:00 por `python -m dataset_builder.build montar`.
+Gerado em 2026-11-17T17:27:21+00:00 por `python -m dataset_builder.build montar`.
 
 ## Como foi construído
 

@@ -1,0 +1,163 @@
+[
+ {
+  "nome": "Recepção e Check-in",
+  "lugar": null,
+  "dataInicio": "2024-05-16T08:30:00-03:00",
+  "dataFim": "2024-05-16T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Solenidade de Abertura",
+  "lugar": null,
+  "dataInicio": "2024-05-16T09:30:00-03:00",
+  "dataFim": "2024-05-16T10:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra",
+  "lugar": null,
+  "dataInicio": "2024-05-16T10:30:00-03:00",
+  "dataFim": "2024-05-16T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Debates",
+  "lugar": null,
+  "dataInicio": "2024-05-16T11:45:00-03:00",
+  "dataFim": "2024-05-16T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Almoço",
+  "lugar": null,
+  "dataInicio": "2024-05-16T12:45:00-03:00",
+  "dataFim": "2024-05-16T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 1",
+  "lugar": null,
+  "dataInicio": "2024-05-16T14:00:00-03:00",
+  "dataFim": "2024-05-16T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 2",
+  "lugar": null,
+  "dataInicio": "2024-05-16T14:00:00-03:00",
+  "dataFim": "2024-05-16T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Rodada de Conexões Locais",
+  "lugar": null,
+  "dataInicio": "2024-05-16T16:30:00-03:00",
+  "dataFim": "2024-05-16T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Noturna",
+  "lugar": null,
+  "dataInicio": "2024-05-16T19:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Abertura dos Estandes",
+  "lugar": null,
+  "dataInicio": "2024-05-17T09:00:00-03:00",
+  "dataFim": "2024-05-17T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra",
+  "lugar": null,
+  "dataInicio": "2024-05-17T10:00:00-03:00",
+  "dataFim": "2024-05-17T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 3",
+  "lugar": null,
+  "dataInicio": "2024-05-17T10:30:00-03:00",
+  "dataFim": "2024-05-17T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pitch Startups",
+  "lugar": null,
+  "dataInicio": "2024-05-17T11:30:00-03:00",
+  "dataFim": "2024-05-17T13:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Espaço Gastronômico e Convivência",
+  "lugar": null,
+  "dataInicio": "2024-05-17T13:00:00-03:00",
+  "dataFim": "2024-05-17T14:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 4",
+  "lugar": null,
+  "dataInicio": "2024-05-17T14:30:00-03:00",
+  "dataFim": "2024-05-17T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Consultoria Rápida Individual",
+  "lugar": null,
+  "dataInicio": "2024-05-17T15:00:00-03:00",
+  "dataFim": "2024-05-17T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Conversa",
+  "lugar": null,
+  "dataInicio": "2024-05-17T17:30:00-03:00",
+  "dataFim": "2024-05-17T18:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mostra de Inovação Regional",
+  "lugar": null,
+  "dataInicio": "2024-05-18T09:30:00-03:00",
+  "dataFim": "2024-05-18T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 5",
+  "lugar": null,
+  "dataInicio": "2024-05-18T10:00:00-03:00",
+  "dataFim": "2024-05-18T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Momento Conexão e Café",
+  "lugar": null,
+  "dataInicio": "2024-05-18T12:00:00-03:00",
+  "dataFim": "2024-05-18T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra",
+  "lugar": null,
+  "dataInicio": "2024-05-18T13:30:00-03:00",
+  "dataFim": "2024-05-18T14:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Premiação Empreendedor Destaque",
+  "lugar": null,
+  "dataInicio": "2024-05-18T15:00:00-03:00",
+  "dataFim": "2024-05-18T16:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Happy Hour e Encerramento",
+  "lugar": null,
+  "dataInicio": "2024-05-18T16:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

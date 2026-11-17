@@ -1,0 +1,86 @@
+[
+ {
+  "nome": "Recepção aos Pós-Graduandos e Entrega de Crachás",
+  "lugar": null,
+  "dataInicio": "2025-05-15T08:00:00-03:00",
+  "dataFim": "2025-05-15T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Plenária de Abertura",
+  "lugar": null,
+  "dataInicio": "2025-05-15T09:00:00-03:00",
+  "dataFim": "2025-05-15T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 1",
+  "lugar": null,
+  "dataInicio": "2025-05-15T11:00:00-03:00",
+  "dataFim": "2025-05-15T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 2",
+  "lugar": null,
+  "dataInicio": "2025-05-15T11:00:00-03:00",
+  "dataFim": "2025-05-15T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço",
+  "lugar": null,
+  "dataInicio": "2025-05-15T12:30:00-03:00",
+  "dataFim": "2025-05-15T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Colóquio de Pesquisa Integrada",
+  "lugar": null,
+  "dataInicio": "2025-05-15T14:00:00-03:00",
+  "dataFim": "2025-05-16T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres Científicos",
+  "lugar": null,
+  "dataInicio": "2025-05-15T16:30:00-03:00",
+  "dataFim": "2025-05-15T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Workshop Avançado A",
+  "lugar": null,
+  "dataInicio": "2025-05-16T08:30:00-03:00",
+  "dataFim": "2025-05-16T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Workshop Avançado B",
+  "lugar": null,
+  "dataInicio": "2025-05-16T08:30:00-03:00",
+  "dataFim": "2025-05-16T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Egressos",
+  "lugar": null,
+  "dataInicio": "2025-05-16T14:00:00-03:00",
+  "dataFim": "2025-05-16T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Especial de Premiação e Encerramento",
+  "lugar": null,
+  "dataInicio": "2025-05-16T16:00:00-03:00",
+  "dataFim": "2025-05-16T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Confraternização Cultural de Encerramento",
+  "lugar": null,
+  "dataInicio": "2025-05-16T18:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

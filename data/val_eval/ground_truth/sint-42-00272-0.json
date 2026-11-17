@@ -1,0 +1,79 @@
+[
+ {
+  "nome": "RECEPÇÃO E ENTREGA DE CRACHÁS",
+  "lugar": null,
+  "dataInicio": "2024-05-18T08:00:00-03:00",
+  "dataFim": "2024-05-18T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE ABERTURA INSTITUCIONAL",
+  "lugar": null,
+  "dataInicio": "2024-05-18T08:30:00-03:00",
+  "dataFim": "2024-05-18T09:00:00-03:00",
+  "descricao": "<p>Abertura oficial com a presença do coordenador geral <b>Carlos Henrique Rondon</b> e representantes da comunidade acadêmica regional.</p>"
+ },
+ {
+  "nome": "PALESTRA DE ABERTURA",
+  "lugar": null,
+  "dataInicio": "2024-05-18T09:00:00-03:00",
+  "dataFim": "2024-05-18T10:00:00-03:00",
+  "descricao": "<p>Apresentação intitulada <i>O avanço e impacto dos modelos generativos multimodais na transformação digital de cadeias produtivas no agronegócio moderno</i>, conduzida pela pesquisadora <b>Mariana Siqueira Luz</b>.</p>"
+ },
+ {
+  "nome": "PAUSA PARA NETWORKING E CAFÉ",
+  "lugar": null,
+  "dataInicio": "2024-05-18T10:00:00-03:00",
+  "dataFim": "2024-05-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 1",
+  "lugar": null,
+  "dataInicio": "2024-05-18T10:30:00-03:00",
+  "dataFim": "2024-05-18T12:30:00-03:00",
+  "descricao": "<p>Tema: <i>Visão Computacional voltada ao monitoramento e identificação precoce de pragas agrícolas em lavouras de soja</i>, ministrado pelo prof. <b>Danilo Albuquerque Viana</b>.</p>"
+ },
+ {
+  "nome": "MINICURSO 2",
+  "lugar": null,
+  "dataInicio": "2024-05-18T10:30:00-03:00",
+  "dataFim": "2024-05-18T12:30:00-03:00",
+  "descricao": "<p>Tema: <i>Ajuste fino de grandes modelos de linguagem em infraestrutura local para segurança e privacidade de dados corporativos</i>, conduzido por <b>Juliana Prado Esteves</b>.</p>"
+ },
+ {
+  "nome": "ALMOÇO LIVRE",
+  "lugar": null,
+  "dataInicio": "2024-05-18T12:30:00-03:00",
+  "dataFim": "2024-05-18T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 3",
+  "lugar": null,
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": "2024-05-18T16:30:00-03:00",
+  "descricao": "<p>Tema: <i>Técnicas de aprendizado por reforço profundo aplicadas ao gerenciamento autônomo de frotas agrícolas</i>, com o engenheiro <b>Thiago Godoy Mendes</b>.</p>"
+ },
+ {
+  "nome": "MINICURSO 4",
+  "lugar": null,
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": "<p>Tema: <i>Construção de pipelines de dados em tempo real com processamento escalável para inteligência artificial</i>, orientado por <b>Renata Barreto Fontes</b>.</p>"
+ },
+ {
+  "nome": "PAINEL DE DISCUSSÃO",
+  "lugar": null,
+  "dataInicio": "2024-05-18T17:00:00-03:00",
+  "dataFim": "2024-05-18T18:30:00-03:00",
+  "descricao": "<p>Debate sobre <i>Desafios éticos, regulação e soberania tecnológica no ecossistema de dados da região Centro-Oeste brasileira</i>, mediado por <b>Vanessa Mattos Pinheiro</b>, com a participação de <b>Luciano Silveira Maia</b> e <b>Edivaldo Campos Corrêa</b>.</p>"
+ },
+ {
+  "nome": "ENCERRAMENTO E SORTEIO DE BRINDES",
+  "lugar": null,
+  "dataInicio": "2024-05-18T18:30:00-03:00",
+  "dataFim": null,
+  "descricao": "<p>Palavras finais da comissão e sorteio de acessos a cursos online com <b>Carlos Henrique Rondon</b>.</p>"
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "nome": "RECEPÇÃO E ENTREGA DE CRACHÁS",
+  "lugar": "HALL DO PRÉDIO CENTRAL",
+  "dataInicio": "2026-05-14T08:00:00-03:00",
+  "dataFim": "2026-05-14T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA DE ABERTURA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2026-05-14T09:00:00-03:00",
+  "dataFim": "2026-05-14T10:30:00-03:00",
+  "descricao": "<p>Apresentação do tema <i>Desafios e Oportunidades do Aprendizado Profundo no Agronegócio</i>, ministrada pelo <b>Dr. Marcos Aurelio Ribeiro</b> (UFV).</p>"
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ",
+  "lugar": "ÁREA DE CONVIVÊNCIA",
+  "dataInicio": "2026-05-14T10:30:00-03:00",
+  "dataFim": "2026-05-14T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 1",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2026-05-14T11:00:00-03:00",
+  "dataFim": "2026-05-14T12:30:00-03:00",
+  "descricao": "<p>Coordenação de <b>Profa. Dra. Camila Antunes</b>. Apresentações: <i>Detecção de Pragas em Plantações Usando Redes Convolucionais</i> por <b>Felipe Duarte Santos</b>; <i>Otimização de Irrigação com Modelos Preditivos</i> por <b>Juliana Mendes Prado</b>.</p>"
+ },
+ {
+  "nome": "ALMOÇO",
+  "lugar": "RESTAURANTE UNIVERSITÁRIO",
+  "dataInicio": "2026-05-14T12:30:00-03:00",
+  "dataFim": "2026-05-14T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO A",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA 1",
+  "dataInicio": "2026-05-14T14:00:00-03:00",
+  "dataFim": "2026-05-14T17:30:00-03:00",
+  "descricao": "<p>Tema: <i>Visão Computacional na Prática com PyTorch e OpenCV</i>, conduzido por <b>Thiago Henrique Barbosa</b> e <b>Larissa Neves de Souza</b>.</p>"
+ },
+ {
+  "nome": "MINICURSO B",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA 2",
+  "dataInicio": "2026-05-14T14:00:00-03:00",
+  "dataFim": "2026-05-14T17:30:00-03:00",
+  "descricao": "<p>Tema: <i>Processamento de Linguagem Natural com Transformers e Hugging Face</i>, ministrado pelo <b>Prof. Lucas Guimarães Carvalho</b>.</p>"
+ },
+ {
+  "nome": "PALESTRA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2026-05-15T08:30:00-03:00",
+  "dataFim": "2026-05-15T10:00:00-03:00",
+  "descricao": "<p>Exposição sobre <i>Modelos Fundacionais e a Nova Fronteira da Automação Industrial</i>, conduzida pela pesquisadora <b>Dra. Beatriz Nogueira Castro</b>.</p>"
+ },
+ {
+  "nome": "INTERVALO",
+  "lugar": "ÁREA DE CONVIVÊNCIA",
+  "dataInicio": "2026-05-15T10:00:00-03:00",
+  "dataFim": "2026-05-15T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 2",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2026-05-15T10:30:00-03:00",
+  "dataFim": "2026-05-15T12:00:00-03:00",
+  "descricao": "<p>Coordenação de <b>Prof. Me. Rodrigo Teles Faria</b>. Apresentações de artigos selecionados na área de aprendizado por reforço e séries temporais.</p>"
+ },
+ {
+  "nome": "ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2026-05-15T12:00:00-03:00",
+  "dataFim": "2026-05-15T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO C",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA 1",
+  "dataInicio": "2026-05-15T13:30:00-03:00",
+  "dataFim": "2026-05-15T16:30:00-03:00",
+  "descricao": "<p>Tema: <i>Engenharia de Prompts e Agentes Autônomos com LangChain</i>, ministrado pelo especialista <b>Gabriel Rezende Moreira</b>.</p>"
+ },
+ {
+  "nome": "MINICURSO D",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA 2",
+  "dataInicio": "2026-05-15T13:30:00-03:00",
+  "dataFim": "2026-05-15T16:30:00-03:00",
+  "descricao": "<p>Tema: <i>MLOps: Deploy e Monitoramento de Modelos em Produção</i>, ministrado pelo engenheiro de dados <b>Vinícius Lopes da Costa</b>.</p>"
+ },
+ {
+  "nome": "MESA-REDONDA DE ENCERRAMENTO",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2026-05-15T16:45:00-03:00",
+  "dataFim": "2026-05-15T18:00:00-03:00",
+  "descricao": "<p>Debate intitulado <i>Ética, Regulação e Impactos Regionais da Inteligência Artificial em Minas Gerais</i> com participação de <b>Dra. Mariana Fontes Xavier</b>, <b>Prof. Carlos Eduardo Peixoto</b> e mediação de <b>Profa. Dra. Camila Antunes</b>.</p>"
+ }
+]

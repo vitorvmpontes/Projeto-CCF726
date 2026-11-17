@@ -1,0 +1,149 @@
+[
+ {
+  "nome": "Recepção e Entrega de Materiais",
+  "lugar": null,
+  "dataInicio": "2026-05-15T07:30:00-03:00",
+  "dataFim": "2026-05-15T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Abertura Oficial e Apresentação Cultural",
+  "lugar": null,
+  "dataInicio": "2026-05-15T08:30:00-03:00",
+  "dataFim": "2026-05-15T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra de Abertura",
+  "lugar": null,
+  "dataInicio": "2026-05-15T09:30:00-03:00",
+  "dataFim": "2026-05-15T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa Pedagógica",
+  "lugar": null,
+  "dataInicio": "2026-05-15T10:45:00-03:00",
+  "dataFim": "2026-05-15T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa de Diálogo 1",
+  "lugar": null,
+  "dataInicio": "2026-05-15T11:15:00-03:00",
+  "dataFim": "2026-05-15T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2026-05-15T12:30:00-03:00",
+  "dataFim": "2026-05-15T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 1",
+  "lugar": null,
+  "dataInicio": "2026-05-15T14:00:00-03:00",
+  "dataFim": "2026-05-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 2",
+  "lugar": null,
+  "dataInicio": "2026-05-15T14:00:00-03:00",
+  "dataFim": "2026-05-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 3",
+  "lugar": null,
+  "dataInicio": "2026-05-15T14:00:00-03:00",
+  "dataFim": "2026-05-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Café com Prosa",
+  "lugar": null,
+  "dataInicio": "2026-05-15T16:00:00-03:00",
+  "dataFim": "2026-05-15T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Comunicações Orais 1",
+  "lugar": null,
+  "dataInicio": "2026-05-15T16:30:00-03:00",
+  "dataFim": "2026-05-15T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Comunicações Orais 2",
+  "lugar": null,
+  "dataInicio": "2026-05-15T16:30:00-03:00",
+  "dataFim": "2026-05-15T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Conversa Interativa",
+  "lugar": null,
+  "dataInicio": "2026-05-16T08:30:00-03:00",
+  "dataFim": "2026-05-16T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo da Manhã",
+  "lugar": null,
+  "dataInicio": "2026-05-16T10:00:00-03:00",
+  "dataFim": "2026-05-16T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa de Diálogo 2",
+  "lugar": null,
+  "dataInicio": "2026-05-16T10:30:00-03:00",
+  "dataFim": "2026-05-16T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa de Almoço",
+  "lugar": null,
+  "dataInicio": "2026-05-16T12:00:00-03:00",
+  "dataFim": "2026-05-16T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mostra de Relatos e Pôsteres",
+  "lugar": null,
+  "dataInicio": "2026-05-16T13:30:00-03:00",
+  "dataFim": "2026-05-16T15:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 4",
+  "lugar": null,
+  "dataInicio": "2026-05-16T15:00:00-03:00",
+  "dataFim": "2026-05-16T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Pedagógica 5",
+  "lugar": null,
+  "dataInicio": "2026-05-16T15:00:00-03:00",
+  "dataFim": "2026-05-16T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Conferência de Encerramento",
+  "lugar": null,
+  "dataInicio": "2026-05-16T16:45:00-03:00",
+  "dataFim": "2026-05-16T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Plenária e Premiação",
+  "lugar": null,
+  "dataInicio": "2026-05-16T18:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

@@ -380,6 +380,11 @@ Projeto-CCF726/
 | 2026-11-17 | Conferência humana de 20 vereditos do juiz: 20/20 de acordo | Concluído | Taxa de erro estimada 0,2% (2/923, ambos bugs do renderizador já corrigidos) |
 | 2026-11-17 | Treino no Colab gratuito (Tesla T4, 16 GB) | Decidido | Recurso disponível |
 | 2026-11-17 | Modelo base: **Gemma 4 E4B** (principal) e **E2B** (rodadas rápidas e comparação de tamanho), QLoRA 4-bit com Unsloth, template sem *thinking* | Decidido | Cabem no T4 com QLoRA (Unsloth recomenda QLoRA no E4B; ~10 GB); Apache 2.0; contexto 128k. Qwen3.5 descartado: o Unsloth desaconselha QLoRA nele (só LoRA 16-bit, apertado no T4 com 8k) e é mais lento no T4 |
+| 2026-11-17 | Modelo escolhido por viabilidade no T4, não por desempenho comparativo; comparação entre famílias fica para trabalho futuro | Decidido | Declarar no artigo como restrição |
+| 2026-11-17 | Inferência e avaliação na RTX 3050 do Vitor (llama.cpp/Ollama, GGUF Q4_K_M); treino só no Colab | Decidido | A 3050 não tem memória para treinar com 8k de contexto, mas roda o modelo quantizado; poupa a cota do Colab |
+| 2026-11-17 | Prompt `v1` curto, uma mensagem de usuário sem system (`inference/prompt.py`), igual no treino e na inferência | Decidido | Formato aprendido no fine-tuning; não depende de como cada template trata "system" |
+| 2026-11-17 | Rodadas avaliadas no val rápido (58 exemplos estratificados, `data/val_eval/manifest_rapido.csv`), saída livre (sem geração restrita) + `--pos-processar` | Decidido | Avaliar a validação inteira (240) a cada rodada levaria horas na 3050; saída livre mede o próprio modelo |
+| 2026-11-17 | Exemplos acima do `max_seq_length` saem do treino em vez de serem truncados | Decidido | Truncar ensinaria JSON incompleto |
 
 ---
 

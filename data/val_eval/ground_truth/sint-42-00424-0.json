@@ -1,0 +1,233 @@
+[
+ {
+  "nome": "Recepção e Entrega de Crachás",
+  "lugar": null,
+  "dataInicio": "2023-05-17T08:00:00-03:00",
+  "dataFim": "2023-05-17T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Solene de Abertura",
+  "lugar": null,
+  "dataInicio": "2023-05-17T09:00:00-03:00",
+  "dataFim": "2023-05-17T09:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Inaugural",
+  "lugar": null,
+  "dataInicio": "2023-05-17T09:45:00-03:00",
+  "dataFim": "2023-05-17T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo para Convivência",
+  "lugar": null,
+  "dataInicio": "2023-05-17T11:00:00-03:00",
+  "dataFim": "2023-05-17T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Debates 1",
+  "lugar": null,
+  "dataInicio": "2023-05-17T11:30:00-03:00",
+  "dataFim": "2023-05-17T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço Livre",
+  "lugar": null,
+  "dataInicio": "2023-05-17T12:45:00-03:00",
+  "dataFim": "2023-05-17T14:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Metodológica 1",
+  "lugar": null,
+  "dataInicio": "2023-05-17T14:15:00-03:00",
+  "dataFim": "2023-05-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Metodológica 2",
+  "lugar": null,
+  "dataInicio": "2023-05-17T14:15:00-03:00",
+  "dataFim": "2023-05-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Metodológica 3",
+  "lugar": null,
+  "dataInicio": "2023-05-17T14:15:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Lanche",
+  "lugar": null,
+  "dataInicio": "2023-05-17T16:00:00-03:00",
+  "dataFim": "2023-05-17T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Debates 2",
+  "lugar": null,
+  "dataInicio": "2023-05-17T16:30:00-03:00",
+  "dataFim": "2023-05-17T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mostra de Boas Práticas - Eixo 1",
+  "lugar": null,
+  "dataInicio": "2023-05-17T18:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Mesa Temática 1",
+  "lugar": null,
+  "dataInicio": "2023-05-18T08:30:00-03:00",
+  "dataFim": "2023-05-18T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Temática",
+  "lugar": null,
+  "dataInicio": "2023-05-18T10:00:00-03:00",
+  "dataFim": "2023-05-18T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo Matutino",
+  "lugar": null,
+  "dataInicio": "2023-05-18T11:15:00-03:00",
+  "dataFim": "2023-05-18T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Comunicação Oral 1",
+  "lugar": null,
+  "dataInicio": "2023-05-18T11:30:00-03:00",
+  "dataFim": "2023-05-18T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Comunicação Oral 2",
+  "lugar": null,
+  "dataInicio": "2023-05-18T11:30:00-03:00",
+  "dataFim": "2023-05-18T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Comunicação Oral 3",
+  "lugar": null,
+  "dataInicio": "2023-05-18T11:30:00-03:00",
+  "dataFim": "2023-05-18T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo para Almoço",
+  "lugar": null,
+  "dataInicio": "2023-05-18T12:45:00-03:00",
+  "dataFim": "2023-05-18T14:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Grupos de Trabalho 1",
+  "lugar": null,
+  "dataInicio": "2023-05-18T14:15:00-03:00",
+  "dataFim": "2023-05-18T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Grupos de Trabalho 2",
+  "lugar": null,
+  "dataInicio": "2023-05-18T14:15:00-03:00",
+  "dataFim": "2023-05-18T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Lanche Coletivo",
+  "lugar": null,
+  "dataInicio": "2023-05-18T16:00:00-03:00",
+  "dataFim": "2023-05-18T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Técnica Avançada",
+  "lugar": null,
+  "dataInicio": "2023-05-18T16:30:00-03:00",
+  "dataFim": "2023-05-18T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mostra de Boas Práticas - Eixo 2",
+  "lugar": null,
+  "dataInicio": "2023-05-18T18:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Mesa Redonda 3",
+  "lugar": null,
+  "dataInicio": "2023-05-19T08:30:00-03:00",
+  "dataFim": "2023-05-19T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Debates 3",
+  "lugar": null,
+  "dataInicio": "2023-05-19T10:00:00-03:00",
+  "dataFim": "2023-05-19T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": null,
+  "dataInicio": "2023-05-19T11:15:00-03:00",
+  "dataFim": "2023-05-19T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Assembleia dos Coordenadores de CPA",
+  "lugar": null,
+  "dataInicio": "2023-05-19T11:30:00-03:00",
+  "dataFim": "2023-05-19T13:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço de Encerramento",
+  "lugar": null,
+  "dataInicio": "2023-05-19T13:00:00-03:00",
+  "dataFim": "2023-05-19T14:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Apresentação de Sínteses",
+  "lugar": null,
+  "dataInicio": "2023-05-19T14:30:00-03:00",
+  "dataFim": "2023-05-19T15:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Conferência de Encerramento",
+  "lugar": null,
+  "dataInicio": "2023-05-19T15:45:00-03:00",
+  "dataFim": "2023-05-19T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação Cultural",
+  "lugar": null,
+  "dataInicio": "2023-05-19T17:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Encerramento",
+  "lugar": null,
+  "dataInicio": "2023-05-19T17:45:00-03:00",
+  "dataFim": "2023-05-19T18:15:00-03:00",
+  "descricao": null
+ }
+]

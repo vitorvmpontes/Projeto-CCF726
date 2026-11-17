@@ -1,0 +1,191 @@
+[
+ {
+  "nome": "Credenciamento e Entrega de Kits",
+  "lugar": null,
+  "dataInicio": "2026-05-20T08:00:00-03:00",
+  "dataFim": "2026-05-20T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Abertura",
+  "lugar": null,
+  "dataInicio": "2026-05-20T09:00:00-03:00",
+  "dataFim": "2026-05-20T09:40:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra de Abertura",
+  "lugar": null,
+  "dataInicio": "2026-05-20T09:40:00-03:00",
+  "dataFim": "2026-05-20T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": null,
+  "dataInicio": "2026-05-20T10:45:00-03:00",
+  "dataFim": "2026-05-20T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa-Redonda 1",
+  "lugar": null,
+  "dataInicio": "2026-05-20T11:15:00-03:00",
+  "dataFim": "2026-05-20T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo para Almoço",
+  "lugar": null,
+  "dataInicio": "2026-05-20T12:30:00-03:00",
+  "dataFim": "2026-05-20T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": null,
+  "dataInicio": "2026-05-20T14:00:00-03:00",
+  "dataFim": "2026-05-20T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 2",
+  "lugar": null,
+  "dataInicio": "2026-05-20T14:00:00-03:00",
+  "dataFim": "2026-05-20T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres 1",
+  "lugar": null,
+  "dataInicio": "2026-05-20T17:30:00-03:00",
+  "dataFim": "2026-05-20T18:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra 2",
+  "lugar": null,
+  "dataInicio": "2026-05-21T08:30:00-03:00",
+  "dataFim": "2026-05-21T09:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra 3",
+  "lugar": null,
+  "dataInicio": "2026-05-21T09:45:00-03:00",
+  "dataFim": "2026-05-21T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": null,
+  "dataInicio": "2026-05-21T10:45:00-03:00",
+  "dataFim": "2026-05-21T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Conversa",
+  "lugar": null,
+  "dataInicio": "2026-05-21T11:15:00-03:00",
+  "dataFim": "2026-05-21T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo para Almoço",
+  "lugar": null,
+  "dataInicio": "2026-05-21T12:30:00-03:00",
+  "dataFim": "2026-05-21T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática 1",
+  "lugar": null,
+  "dataInicio": "2026-05-21T14:00:00-03:00",
+  "dataFim": "2026-05-21T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática 2",
+  "lugar": null,
+  "dataInicio": "2026-05-21T14:00:00-03:00",
+  "dataFim": "2026-05-21T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Oral 1",
+  "lugar": null,
+  "dataInicio": "2026-05-21T17:00:00-03:00",
+  "dataFim": "2026-05-21T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mostra de Inovação Discente",
+  "lugar": null,
+  "dataInicio": "2026-05-21T18:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Painel Temático",
+  "lugar": null,
+  "dataInicio": "2026-05-22T08:30:00-03:00",
+  "dataFim": "2026-05-22T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra 4",
+  "lugar": null,
+  "dataInicio": "2026-05-22T10:00:00-03:00",
+  "dataFim": "2026-05-22T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": null,
+  "dataInicio": "2026-05-22T11:00:00-03:00",
+  "dataFim": "2026-05-22T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa-Redonda 2",
+  "lugar": null,
+  "dataInicio": "2026-05-22T11:30:00-03:00",
+  "dataFim": "2026-05-22T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo para Almoço",
+  "lugar": null,
+  "dataInicio": "2026-05-22T12:45:00-03:00",
+  "dataFim": "2026-05-22T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 3",
+  "lugar": null,
+  "dataInicio": "2026-05-22T14:00:00-03:00",
+  "dataFim": "2026-05-22T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Oral 2",
+  "lugar": null,
+  "dataInicio": "2026-05-22T14:00:00-03:00",
+  "dataFim": "2026-05-22T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Premiação e Encerramento",
+  "lugar": null,
+  "dataInicio": "2026-05-22T16:30:00-03:00",
+  "dataFim": "2026-05-22T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação Cultural de Encerramento",
+  "lugar": null,
+  "dataInicio": "2026-05-22T17:30:00-03:00",
+  "dataFim": "2026-05-22T19:00:00-03:00",
+  "descricao": null
+ }
+]

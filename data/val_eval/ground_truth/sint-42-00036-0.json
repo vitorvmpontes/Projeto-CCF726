@@ -1,0 +1,86 @@
+[
+ {
+  "nome": "Recepção e Boas-Vindas da Reitoria",
+  "lugar": null,
+  "dataInicio": "2025-03-03T08:30:00-03:00",
+  "dataFim": "2025-03-03T09:30:00-03:00",
+  "descricao": "<p>Abertura oficial do ano letivo com a presença da reitora <b>Helena Schmidt de Almeida</b> e do pró-reitor de assuntos estudantis <b>Marcos Vinicius Portela</b>.</p>"
+ },
+ {
+  "nome": "Palestra Magna",
+  "lugar": null,
+  "dataInicio": "2025-03-03T09:30:00-03:00",
+  "dataFim": "2025-03-03T10:45:00-03:00",
+  "descricao": "<p>Tema: <i>Os desafios contemporâneos da vida universitária diante das transformações tecnológicas aceleradas e o papel da ciência pública na sociedade</i>.</p><p>Palestrante: <b>Rodrigo Cordeiro de Vasconcelos</b>.</p><p>Coordenação da mesa: <b>Juliana Meirelles</b>.</p>"
+ },
+ {
+  "nome": "Pausa para Lanche e Integração",
+  "lugar": null,
+  "dataInicio": "2025-03-03T10:45:00-03:00",
+  "dataFim": "2025-03-03T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa-Redonda",
+  "lugar": null,
+  "dataInicio": "2025-03-03T11:15:00-03:00",
+  "dataFim": "2025-03-03T12:30:00-03:00",
+  "descricao": "<p>Subtítulo: <i>Vivências acadêmicas, permanência estudantil e saúde mental no primeiro ano da graduação</i>.</p><p>Participantes: <b>Mariana Siqueira Rocha</b> e <b>Carlos Eduardo Pires</b>.</p><p>Mediação: <b>Renata Albuquerque Luz</b>.</p>"
+ },
+ {
+  "nome": "Almoço Coletivo no RU",
+  "lugar": null,
+  "dataInicio": "2025-03-03T12:30:00-03:00",
+  "dataFim": "2025-03-03T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 1",
+  "lugar": null,
+  "dataInicio": "2025-03-03T14:00:00-03:00",
+  "dataFim": "2025-03-03T15:30:00-03:00",
+  "descricao": "<p>Título da atividade: <i>Navegação eficiente nos sistemas acadêmicos e repositórios digitais para estruturação de projetos de pesquisa desde os primeiros períodos da graduação</i>.</p><p>Ministrante: <b>Fabrício Silveira Mendes</b>.</p><p>Coordenadora: <b>Cláudia Regina Dutra</b>.</p>"
+ },
+ {
+  "nome": "Oficina 2",
+  "lugar": null,
+  "dataInicio": "2025-03-03T14:00:00-03:00",
+  "dataFim": "2025-03-03T15:30:00-03:00",
+  "descricao": "<p>Tema da oficina: <i>Metodologias de escrita científica e uso consciente de referências bibliográficas</i>.</p><p>Ministrante: <b>Letícia Gouveia Zanetti</b>.</p>"
+ },
+ {
+  "nome": "Tour Guiado pelo Campus",
+  "lugar": null,
+  "dataInicio": "2025-03-03T15:30:00-03:00",
+  "dataFim": "2025-03-03T16:30:00-03:00",
+  "descricao": "<p>Visita às bibliotecas, secretarias departamentais, laboratórios e quadras poliesportivas, conduzida pelos veteranos <b>Guilherme Batista</b> e <b>Camila Fagundes</b>.</p>"
+ },
+ {
+  "nome": "Mostra de Iniciação Científica e Extensão",
+  "lugar": null,
+  "dataInicio": "2025-03-03T16:30:00-03:00",
+  "dataFim": "2025-03-03T18:00:00-03:00",
+  "descricao": "<p>Coordenador da sessão: <b>Thiago Antunes Farias</b>.</p><p>Apresentação dos trabalhos desenvolvidos pelos alunos veteranos:</p><p>1. <i>Monitoramento da qualidade da água da bacia do Rio Belém em áreas urbanas de Curitiba</i>, por <b>Lucas Fontana</b>.</p><p>2. <i>Desenvolvimento de hortas comunitárias sustentáveis em escolas públicas da região metropolitana</i>, por <b>Beatriz Campestrini</b>.</p><p>3. <i>Aplicativo de caronas solidárias e mapeamento de rotas seguras para a comunidade acadêmica</i>, por <b>Gabriel Prestes Vianna</b>.</p>"
+ },
+ {
+  "nome": "Palestra Temática",
+  "lugar": null,
+  "dataInicio": "2025-03-03T16:30:00-03:00",
+  "dataFim": "2025-03-03T18:00:00-03:00",
+  "descricao": "<p>Tema: <i>Estratégias inovadoras para o desenvolvimento de competências socioemocionais na transição do ensino médio para a complexidade do ambiente universitário</i>.</p><p>Palestrante convidada: <b>Denise Prado Fontes</b>.</p><p>Debatedor: <b>Arthur Viana de Castro</b>.</p>"
+ },
+ {
+  "nome": "Feira de Coletivos e Entidades Estudantis",
+  "lugar": null,
+  "dataInicio": "2025-03-03T18:00:00-03:00",
+  "dataFim": "2025-03-03T19:30:00-03:00",
+  "descricao": "<p>Apresentação das agremiações, atléticas, diretórios acadêmicos e empresas juniores com a coordenação de <b>Patrícia Nogueira</b>.</p>"
+ },
+ {
+  "nome": "Apresentação Cultural de Encerramento",
+  "lugar": null,
+  "dataInicio": "2025-03-03T19:30:00-03:00",
+  "dataFim": "2025-03-03T21:00:00-03:00",
+  "descricao": "<p>Apresentação musical da banda universitária com participação especial do músico <b>Tiago Amaral</b>.</p>"
+ }
+]

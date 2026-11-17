@@ -1,0 +1,124 @@
+IX ENCONTRO MULHERES NA COMPUTAÇÃO DE CAMPINAS (EMCC 2025)
+Instituto de Computação - UNICAMP, Campinas - SP
+PROGRAMAÇÃO
+
+15/05
+Horário
+Atividade
+Local
+08:00 às 09:00
+Recepção e Entrega de Kits
+Hall de Entrada
+09:00 às 09:40
+Solenidade de Abertura
+Auditório Principal
+Abertura oficial do evcnto com a prese*nça da coordenadora gral Dra. Mariana Vasconcellos e da vicc-reitora Profa. Beatriz Silveira.
+Palestras Principais
+09:40 às 10:45
+Palestra de Abertura
+Auditório Principal
+T'ema: Trajetórias e Desafios de Liderança Feminina na Inteligência Artificial.
+Palestrante: Dra. Camila Nogueira (USP/IBM Research).
+10:45 às 11:15
+Pausa para Café
+Espaço de Convivência
+Apresentação de Artigos
+11:15 às 12:30
+Sessão Técnica 1
+Anfiteatro 2
+Coordenação: Profa. Renata Furtádo.
+Apresentação dos trabalhos:
+1. Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural por Aline Morais e Luciana Prado.
+2. timização de Redes Complexas na Cadeia de Suprimentos por Fernanda Esteves.
+11:15 às 12:30
+Sessão Técnica 2
+Auditório Principal
+Coordenação: Dra. Juliana Mendes.
+Apresentação dos trabalh0s:
+1. Arquiteturas Seguras para Dispositivos IoT em Ambentes Hospitalares por Bruna Castilho e Helena Rocha.
+2. Análise Empírica de Desepenho em Algoritmos Quânticos Aplicados à Criptografia por Taiane Gomes.
+12:30 às 14:00
+Intervalo para Almoço
+OFICINAS E MINICURSOS
+14:00 às 16:00
+Minicurso
+Laboratório de Informática 1
+Tema: Intro|dução Prática à Visão Computacional com PyTorch.
+Instrutora: Larissa Paiva.
+14:00 às 16:00
+Minicurso
+Laboratório de Redes
+Tema:Fundament*os de Engenharia de Dados em Nuvem.
+Instrutoras: Carla Antunes e Patícia Ramos.
+16:15 às 17:45
+Painel de Discussão
+Auditório Principal
+Tema: Inluão, Retenção e Políticas Afirmativas na Pós-Graduação em TI.
+Debatedoras: Dra. Mônica Albuquerque, Me. Tânia Fagundes e Dra. Vanessa Couto. Mediação: Renata Furtado.
+17:45 às 19:00
+Sessão de Pôsteres
+Hall de Exposições
+Coordenadora da sessão: Dra. Cristina Loyola.
+Apresentação de pesquisas de iniciação cen*tífica e exte*nsões comunitárias ocdas em meninas na tecnologia.
+
+16/05
+Horário
+Atividade
+Local
+08:30 às 09:00
+Acolhimento e Credenciamento Diário
+Hall de Entrada
+PALESTRAS PRINCIPAIS
+09:00 às 10:15
+Palestra
+Auditório Principal
+Tema: |Segurança Cibcrnética Ofensiva: Perspectivas e Páticas Modernas.
+Palestrante: Dra. Débora Sales.
+10:15 às 10:45
+Pausa para Café
+Espaço de Convivência
+Apresentação de Artigos
+10:45 às 12:00
+Sessão Técnica 3
+Auditório Principal
+Coordenação: Dra. Cristina Loyola.
+Apresentação dos trabalhos:
+1. Interfaces Acessíveis para Cianç|as com Defíciência Vsual no Ensino de Algoritmos por  Sabrina Alencar e Sofia Neves.
+2. Uma Ferramenta de Análise de Códgo Estático para Sistemas Embarcados por Lorena Din iz.
+10:45 às 12:00
+Sessão Técnica 4
+Anfiteatro 2
+Coordenação: Me. Tânia Fagundes.
+Apresentação dos trabalhos:
+1. Avaliação da Eficácia d|e Agentes Virtuais no Suporte à Saúde Mental por Elisa Queiroz.
+2. Classificação de Sentimentos em Grandes Volumes de Dados de Redes Sociais por Marta Pimentel e Ana Clara Dias.
+12:00 às 13:30
+Intervalo para Almoço
+13:30 às 15:30
+Mentoria de Carreira
+Sala 102 - Bloco B
+Atividade prática para alunas de graduação. Conduzida por Juliana Godoy e Priscila| Sampaio.
+Oficinas e Minicursos
+13:30 às 15:30
+Minicurso
+Laboratório de Informática 2
+Te'ma: Dese*nvolvimento Frontend Responsivo corn React e TailwindCSS.
+Instrutora: Ingrid Fontana.
+15:45 às 17:00
+Mentoria de Carreira
+Sala 104 - Bloco B
+Sessão complementar direcionada a pós-graduandas e pesquisadorás  em início de carreira, com as facilitadoras Juliana Godoy e Priscila Sapaio.
+PALESTRAS PRINCIPAIS
+15:45 às 17:00
+Palestra
+Auditório Principal
+Tema: Carreíras Internacionais e Oportunidades em Big Tcchs.
+Palestrante: Eng. Roberta Medeiros.
+17:15 às 18:00
+Cerimônia de Premiação e Premiação
+Meninas Digitais
+Auditório Principal
+Premiação dos melhores artigos e menções hon*rosas da sessão de pôsteres. Condução pela coordenadora Dra. Mariana Vasconcellos.
+18:00
+Encerramento e Confraternização
+Espaço de Convivência

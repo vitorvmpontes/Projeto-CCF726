@@ -1,0 +1,205 @@
+[
+ {
+  "nome": "RECEPÇÃO E ENTREGA DE MATERIAIS",
+  "lugar": null,
+  "dataInicio": "2026-05-20T08:00:00-03:00",
+  "dataFim": "2026-05-20T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SOLENIDADE DE ABERTURA",
+  "lugar": null,
+  "dataInicio": "2026-05-20T09:00:00-03:00",
+  "dataFim": "2026-05-20T10:00:00-03:00",
+  "descricao": "<p>Boas-vindas com a presença do Secretário de Educação <b>Vitor de Angelo</b> e da coordenadora geral do evento <b>Dra. Mariana Pessotti</b>.</p>"
+ },
+ {
+  "nome": "CONFERÊNCIA INICIAL",
+  "lugar": null,
+  "dataInicio": "2026-05-20T10:30:00-03:00",
+  "dataFim": "2026-05-20T12:00:00-03:00",
+  "descricao": "<p>Conferência intitulada <i>Desafios da Docência Contemporânea: Currículo, Território e Equidade</i>, ministrada pelo Prof. <b>Carlos Alberto Fonseca</b>.</p>"
+ },
+ {
+  "nome": "PAUSA PARA ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2026-05-20T12:00:00-03:00",
+  "dataFim": "2026-05-20T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "DIÁLOGOS PEDAGÓGICOS I",
+  "lugar": null,
+  "dataInicio": "2026-05-20T13:30:00-03:00",
+  "dataFim": "2026-05-20T15:30:00-03:00",
+  "descricao": "<p>Debate sobre <i>Práticas de Alfabetização no Ciclo Inicial</i> com as professoras <b>Lúcia Helena Guimarães</b> e <b>Beatriz Rangel de Carvalho</b>.</p>"
+ },
+ {
+  "nome": "DIÁLOGOS PEDAGÓGICOS II",
+  "lugar": null,
+  "dataInicio": "2026-05-20T13:30:00-03:00",
+  "dataFim": "2026-05-20T15:30:00-03:00",
+  "descricao": "<p>Mesa com o tema <i>A Educação Inclusiva e o Atendimento Educacional Especializado</i>, conduzida por <b>Juliana Pimentel</b> e <b>Rodrigo Vasconcelos</b>.</p>"
+ },
+ {
+  "nome": "INTERVALO",
+  "lugar": null,
+  "dataInicio": "2026-05-20T15:30:00-03:00",
+  "dataFim": "2026-05-20T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "APRESENTAÇÃO CULTURAL DE BOAS-VINDAS",
+  "lugar": null,
+  "dataInicio": "2026-05-20T16:00:00-03:00",
+  "dataFim": "2026-05-20T17:30:00-03:00",
+  "descricao": "<p>Apresentação musical da banda de congo mirim coordenada pelo mestre <b>Antônio Chagas</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PEDAGÓGICA 1",
+  "lugar": null,
+  "dataInicio": "2026-05-21T08:30:00-03:00",
+  "dataFim": "2026-05-21T11:30:00-03:00",
+  "descricao": "<p>Oficina prática <i>Experimentos de Baixo Custo no Ensino Fundamental</i> ministrada pelo professor <b>Thiago Mendonça</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PEDAGÓGICA 2",
+  "lugar": null,
+  "dataInicio": "2026-05-21T08:30:00-03:00",
+  "dataFim": "2026-05-21T11:30:00-03:00",
+  "descricao": "<p>Capacitação sobre <i>Gamificação e Letramento Digital em Sala de Aula</i> com a formadora <b>Renata Siqueira</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PEDAGÓGICA 3",
+  "lugar": null,
+  "dataInicio": "2026-05-21T08:30:00-03:00",
+  "dataFim": "2026-05-21T11:30:00-03:00",
+  "descricao": "<p>Estudo e prática com o tema <i>Roda de Histórias e Contação na Educação Infantil</i> ministrada por <b>Camila Duarte</b>.</p>"
+ },
+ {
+  "nome": "ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2026-05-21T11:30:00-03:00",
+  "dataFim": "2026-05-21T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE PÔSTERES - EIXO EDUCAÇÃO INFANTIL",
+  "lugar": null,
+  "dataInicio": "2026-05-21T13:30:00-03:00",
+  "dataFim": "2026-05-21T15:00:00-03:00",
+  "descricao": "<p>Exposição de práticas docentes avaliada por <b>Marcos Vinícius Telles</b>.</p>"
+ },
+ {
+  "nome": "SESSÃO DE PÔSTERES - EIXO ENSINO FUNDAMENTAL",
+  "lugar": null,
+  "dataInicio": "2026-05-21T13:30:00-03:00",
+  "dataFim": "2026-05-21T15:00:00-03:00",
+  "descricao": "<p>Apresentação de relatos de experiência e trabalhos científicos com avaliação coordenada pela Profa. <b>Cláudia Coutinho</b>.</p>"
+ },
+ {
+  "nome": "LANCHE COMUNITÁRIO",
+  "lugar": null,
+  "dataInicio": "2026-05-21T15:00:00-03:00",
+  "dataFim": "2026-05-21T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL TEMÁTICO",
+  "lugar": null,
+  "dataInicio": "2026-05-21T15:30:00-03:00",
+  "dataFim": "2026-05-21T17:30:00-03:00",
+  "descricao": "<p>Debate sobre <i>Saúde Mental do Professor e Condições de Trabalho Escolar</i> com os palestrantes <b>Felipe Nascimento</b> e <b>Sílvia Regina Alencar</b>.</p>"
+ },
+ {
+  "nome": "RODA DE CONVERSA 1",
+  "lugar": null,
+  "dataInicio": "2026-05-22T08:30:00-03:00",
+  "dataFim": "2026-05-22T10:30:00-03:00",
+  "descricao": "<p>Encontro para debater <i>Gestão Democrática e Relação Escola-Comunidade</i> mediado por <b>Geraldo Magela</b>.</p>"
+ },
+ {
+  "nome": "RODA DE CONVERSA 2",
+  "lugar": null,
+  "dataInicio": "2026-05-22T08:30:00-03:00",
+  "dataFim": "2026-05-22T10:30:00-03:00",
+  "descricao": "<p>Diálogo sobre <i>Educação das Relações Étnico-Raciais nas Redes Públicas</i> coordenado por <b>Tatiana de Oliveira Santana</b>.</p>"
+ },
+ {
+  "nome": "INTERVALO DA MANHÃ",
+  "lugar": null,
+  "dataInicio": "2026-05-22T10:30:00-03:00",
+  "dataFim": "2026-05-22T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COMUNICAÇÕES ORAIS - SALA 1",
+  "lugar": null,
+  "dataInicio": "2026-05-22T11:00:00-03:00",
+  "dataFim": "2026-05-22T12:30:00-03:00",
+  "descricao": "<p>Apresentação do relato <i>Interdisciplinaridade nos Anos Finais</i> por <b>Alexandre Ramos</b>.</p>"
+ },
+ {
+  "nome": "COMUNICAÇÕES ORAIS - SALA 2",
+  "lugar": null,
+  "dataInicio": "2026-05-22T11:00:00-03:00",
+  "dataFim": "2026-05-22T12:30:00-03:00",
+  "descricao": "<p>Trabalhos voltados ao tema <i>Projetos Investigativos na Educação Infantil</i> sob coordenação de <b>Patrícia Belmiro</b>.</p>"
+ },
+ {
+  "nome": "HORÁRIO LIVRE PARA ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2026-05-22T12:30:00-03:00",
+  "dataFim": "2026-05-22T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA ESPECIAL",
+  "lugar": null,
+  "dataInicio": "2026-05-22T14:00:00-03:00",
+  "dataFim": "2026-05-22T16:00:00-03:00",
+  "descricao": "<p>Apresentação do tema <i>Avaliação da Aprendizagem: Entre a Regulação e a Emancipação</i> pela pesquisadora <b>Maria Inês Furtado</b>.</p>"
+ },
+ {
+  "nome": "LANÇAMENTO COLETIVO DE LIVROS",
+  "lugar": null,
+  "dataInicio": "2026-05-22T16:30:00-03:00",
+  "dataFim": "2026-05-22T18:00:00-03:00",
+  "descricao": "<p>Sessão de autógrafos com diversos autores participantes do evento organizada pelo docente <b>Paulo Sérgio Medeiros</b>.</p>"
+ },
+ {
+  "nome": "MESA DE EXPERIÊNCIAS DOCENTES",
+  "lugar": null,
+  "dataInicio": "2026-05-23T08:30:00-03:00",
+  "dataFim": "2026-05-23T10:30:00-03:00",
+  "descricao": "<p>Compartilhamento do projeto <i>Horta Escolar como Laboratório Vivo</i> pela Profa. <b>Carla Peçanha</b> e relato sobre mediação de conflitos pelo Prof. <b>Leandro Silveira</b>.</p>"
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ",
+  "lugar": null,
+  "dataInicio": "2026-05-23T10:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "ASSEMBLEIA DOS PROFESSORES DA REDE BÁSICA",
+  "lugar": null,
+  "dataInicio": "2026-05-23T11:00:00-03:00",
+  "dataFim": "2026-05-23T12:30:00-03:00",
+  "descricao": "<p>Discussão e redação da <i>Carta de Vitória pela Valorização do Magistério</i> presidida pela professora <b>Elaine Cristina Borges</b>.</p>"
+ },
+ {
+  "nome": "CONFERÊNCIA DE ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2026-05-23T14:00:00-03:00",
+  "dataFim": "2026-05-23T15:30:00-03:00",
+  "descricao": "<p>Conferência <i>O Futuro da Escola Pública Brasileira</i> proferida pelo renomado educador <b>Waldir Simões</b>.</p>"
+ },
+ {
+  "nome": "CERIMÔNIA DE ENCERRAMENTO E PREMIAÇÃO",
+  "lugar": null,
+  "dataInicio": "2026-05-23T15:30:00-03:00",
+  "dataFim": null,
+  "descricao": "<p>Entrega do Prêmio Destaque Práticas Educativas e encerramento oficial com a comissão organizadora presidida por <b>Mariana Pessotti</b>.</p>"
+ }
+]

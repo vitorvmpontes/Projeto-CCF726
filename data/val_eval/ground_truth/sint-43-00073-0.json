@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "Credenciamento",
+  "lugar": null,
+  "dataInicio": "2024-09-25T07:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Abertura",
+  "lugar": null,
+  "dataInicio": "2024-09-25T08:00:00-03:00",
+  "dataFim": "2024-09-25T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Conversa com Comunidades",
+  "lugar": null,
+  "dataInicio": "2024-09-25T09:00:00-03:00",
+  "dataFim": "2024-09-25T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres",
+  "lugar": null,
+  "dataInicio": "2024-09-25T09:00:00-03:00",
+  "dataFim": "2024-09-25T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço",
+  "lugar": null,
+  "dataInicio": "2024-09-25T11:30:00-03:00",
+  "dataFim": "2024-09-25T13:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentações Culturais",
+  "lugar": null,
+  "dataInicio": "2024-09-25T13:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

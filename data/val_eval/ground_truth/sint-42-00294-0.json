@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "Sessão Plenária de Abertura",
+  "lugar": "Auditório Manoel Vereza de Oliveira",
+  "dataInicio": "2027-05-20T08:30:00-03:00",
+  "dataFim": "2027-05-20T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Debates",
+  "lugar": "Auditório Manoel Vereza de Oliveira",
+  "dataInicio": "2027-05-20T10:15:00-03:00",
+  "dataFim": "2027-05-20T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Comunicações Orais 1",
+  "lugar": "Sala 102 - Bloco B",
+  "dataInicio": "2027-05-20T13:30:00-03:00",
+  "dataFim": "2027-05-20T15:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Comunicações Orais 2",
+  "lugar": "Sala 104 - Bloco B",
+  "dataInicio": "2027-05-20T13:30:00-03:00",
+  "dataFim": "2027-05-20T15:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo com Café",
+  "lugar": "Foyer do Auditório",
+  "dataInicio": "2027-05-20T15:00:00-03:00",
+  "dataFim": "2027-05-20T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Assembleia Deliberativa e Encerramento",
+  "lugar": "Auditório Manoel Vereza de Oliveira",
+  "dataInicio": "2027-05-20T15:30:00-03:00",
+  "dataFim": "2027-05-20T17:00:00-03:00",
+  "descricao": null
+ }
+]

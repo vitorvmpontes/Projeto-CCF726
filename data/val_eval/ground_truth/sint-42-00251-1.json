@@ -1,0 +1,128 @@
+[
+ {
+  "nome": "Recepção e Entrega de Crachás",
+  "lugar": "Hall de Entrada",
+  "dataInicio": "2023-05-17T08:00:00-03:00",
+  "dataFim": "2023-05-17T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Abertura",
+  "lugar": "Auditório Pau-Brasil",
+  "dataInicio": "2023-05-17T09:00:00-03:00",
+  "dataFim": "2023-05-17T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Espaço de Diálogos Ambientais",
+  "lugar": null,
+  "dataInicio": "2023-05-17T10:45:00-03:00",
+  "dataFim": "2023-05-17T12:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática",
+  "lugar": "Laboratório 3 - Bloco Verde",
+  "dataInicio": "2023-05-17T14:00:00-03:00",
+  "dataFim": "2023-05-17T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática",
+  "lugar": "Sala de Capacitação 1",
+  "dataInicio": "2023-05-17T14:00:00-03:00",
+  "dataFim": "2023-05-17T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mostra de Banners Acadêmicos",
+  "lugar": null,
+  "dataInicio": "2023-05-17T16:45:00-03:00",
+  "dataFim": "2023-05-17T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel Temático",
+  "lugar": "Auditório Pau-Brasil",
+  "dataInicio": "2023-05-18T08:30:00-03:00",
+  "dataFim": "2023-05-18T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Espaço de Diálogos Ambientais",
+  "lugar": "Auditório Ipê-Amarelo",
+  "dataInicio": "2023-05-18T10:15:00-03:00",
+  "dataFim": "2023-05-18T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Comunicação Oral",
+  "lugar": null,
+  "dataInicio": "2023-05-18T14:00:00-03:00",
+  "dataFim": "2023-05-18T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática",
+  "lugar": "Laboratório 3 - Bloco Verde",
+  "dataInicio": "2023-05-18T14:00:00-03:00",
+  "dataFim": "2023-05-18T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Comunicação Oral",
+  "lugar": null,
+  "dataInicio": "2023-05-18T16:15:00-03:00",
+  "dataFim": "2023-05-18T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Saberes Tradicionais",
+  "lugar": "Tenda Externa",
+  "dataInicio": "2023-05-18T18:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Painel Temático",
+  "lugar": "Auditório Pau-Brasil",
+  "dataInicio": "2023-05-19T08:30:00-03:00",
+  "dataFim": "2023-05-19T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café e Conexões",
+  "lugar": null,
+  "dataInicio": "2023-05-19T10:00:00-03:00",
+  "dataFim": "2023-05-19T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Colóquio de Políticas Públicas",
+  "lugar": null,
+  "dataInicio": "2023-05-19T10:30:00-03:00",
+  "dataFim": "2023-05-19T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Encerramento",
+  "lugar": "Auditório Pau-Brasil",
+  "dataInicio": "2023-05-19T14:30:00-03:00",
+  "dataFim": "2023-05-19T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Premiação de Mérito Ecológico",
+  "lugar": "Auditório Pau-Brasil",
+  "dataInicio": "2023-05-19T16:30:00-03:00",
+  "dataFim": "2023-05-19T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação Cultural",
+  "lugar": null,
+  "dataInicio": "2023-05-19T17:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

@@ -1,0 +1,205 @@
+[
+ {
+  "nome": "CREDENCIAMENTO E BOAS-VINDAS",
+  "lugar": null,
+  "dataInicio": "2026-05-13T08:00:00-03:00",
+  "dataFim": "2026-05-13T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO SOLENE DE ABERTURA",
+  "lugar": null,
+  "dataInicio": "2026-05-13T09:00:00-03:00",
+  "dataFim": "2026-05-13T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA INAUGURAL",
+  "lugar": null,
+  "dataInicio": "2026-05-13T10:00:00-03:00",
+  "dataFim": "2026-05-13T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO PARA CAFÉ",
+  "lugar": null,
+  "dataInicio": "2026-05-13T11:15:00-03:00",
+  "dataFim": "2026-05-13T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL TEMÁTICO 1",
+  "lugar": null,
+  "dataInicio": "2026-05-13T11:45:00-03:00",
+  "dataFim": "2026-05-13T13:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2026-05-13T13:00:00-03:00",
+  "dataFim": "2026-05-13T14:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 1",
+  "lugar": null,
+  "dataInicio": "2026-05-13T14:30:00-03:00",
+  "dataFim": "2026-05-13T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA TÉCNICA 1",
+  "lugar": null,
+  "dataInicio": "2026-05-13T16:00:00-03:00",
+  "dataFim": "2026-05-13T17:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MOSTRA DE PROJETOS DE INICIAÇÃO CIENTÍFICA",
+  "lugar": null,
+  "dataInicio": "2026-05-13T17:15:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "OFICINA PRÁTICA 1",
+  "lugar": null,
+  "dataInicio": "2026-05-14T08:30:00-03:00",
+  "dataFim": "2026-05-14T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "LANCHE DA MANHÃ",
+  "lugar": null,
+  "dataInicio": "2026-05-14T10:30:00-03:00",
+  "dataFim": "2026-05-14T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MESA-REDONDA",
+  "lugar": null,
+  "dataInicio": "2026-05-14T11:00:00-03:00",
+  "dataFim": "2026-05-14T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ALMOÇO LIVRE",
+  "lugar": null,
+  "dataInicio": "2026-05-14T12:30:00-03:00",
+  "dataFim": "2026-05-14T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "OFICINA PRÁTICA 2",
+  "lugar": null,
+  "dataInicio": "2026-05-14T14:00:00-03:00",
+  "dataFim": "2026-05-14T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 2",
+  "lugar": null,
+  "dataInicio": "2026-05-14T16:00:00-03:00",
+  "dataFim": "2026-05-14T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "RODA DE CONVERSA COM STARTUPS",
+  "lugar": null,
+  "dataInicio": "2026-05-14T17:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO AVANÇADO",
+  "lugar": null,
+  "dataInicio": "2026-05-15T08:30:00-03:00",
+  "dataFim": "2026-05-15T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ",
+  "lugar": null,
+  "dataInicio": "2026-05-15T11:00:00-03:00",
+  "dataFim": "2026-05-15T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL TEMÁTICO 2",
+  "lugar": null,
+  "dataInicio": "2026-05-15T11:30:00-03:00",
+  "dataFim": "2026-05-15T13:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO DE ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2026-05-15T13:00:00-03:00",
+  "dataFim": "2026-05-15T14:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 3",
+  "lugar": null,
+  "dataInicio": "2026-05-15T14:30:00-03:00",
+  "dataFim": "2026-05-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA TÉCNICA 2",
+  "lugar": null,
+  "dataInicio": "2026-05-15T16:00:00-03:00",
+  "dataFim": "2026-05-15T17:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO RELÂMPAGO DE IDEIAS",
+  "lugar": null,
+  "dataInicio": "2026-05-15T17:15:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "HACKATHON ELAS NA COMPUTAÇÃO",
+  "lugar": null,
+  "dataInicio": "2026-05-16T08:30:00-03:00",
+  "dataFim": "2026-05-16T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COFFEE BREAK DE ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2026-05-16T11:00:00-03:00",
+  "dataFim": "2026-05-16T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA DE ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2026-05-16T11:30:00-03:00",
+  "dataFim": "2026-05-16T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PREMIAÇÃO DOS MELHORES TRABALHOS",
+  "lugar": null,
+  "dataInicio": "2026-05-16T12:45:00-03:00",
+  "dataFim": "2026-05-16T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "CERIMÔNIA DE ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2026-05-16T13:30:00-03:00",
+  "dataFim": "2026-05-16T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "APRESENTAÇÃO CULTURAL",
+  "lugar": null,
+  "dataInicio": "2026-05-16T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

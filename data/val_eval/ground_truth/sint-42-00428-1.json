@@ -1,0 +1,156 @@
+[
+ {
+  "nome": "Retirada de Crachás e Kits das Delegações",
+  "lugar": null,
+  "dataInicio": "2027-05-15T07:30:00-03:00",
+  "dataFim": "2027-05-15T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Desfile das Delegações e Cerimônia de Abertura",
+  "lugar": null,
+  "dataInicio": "2027-05-15T09:00:00-03:00",
+  "dataFim": "2027-05-15T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Fase Preliminar - Voleibol Feminino",
+  "lugar": null,
+  "dataInicio": "2027-05-15T10:45:00-03:00",
+  "dataFim": "2027-05-15T12:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Partida Classificatória 1 - Futsal Masculino",
+  "lugar": null,
+  "dataInicio": "2027-05-15T10:45:00-03:00",
+  "dataFim": "2027-05-15T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Eliminatórias dos 100m Rasos",
+  "lugar": null,
+  "dataInicio": "2027-05-15T11:00:00-03:00",
+  "dataFim": "2027-05-15T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo para Almoço",
+  "lugar": null,
+  "dataInicio": "2027-05-15T12:30:00-03:00",
+  "dataFim": "2027-05-15T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática",
+  "lugar": null,
+  "dataInicio": "2027-05-15T14:00:00-03:00",
+  "dataFim": "2027-05-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra",
+  "lugar": null,
+  "dataInicio": "2027-05-15T14:00:00-03:00",
+  "dataFim": "2027-05-15T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Classificatórias - Basquetebol Masculino",
+  "lugar": null,
+  "dataInicio": "2027-05-15T15:45:00-03:00",
+  "dataFim": "2027-05-15T17:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Etapa de Classificação - Handebol Feminino",
+  "lugar": null,
+  "dataInicio": "2027-05-15T16:15:00-03:00",
+  "dataFim": "2027-05-15T17:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Congresso Técnico das Modalidades Coletivas",
+  "lugar": null,
+  "dataInicio": "2027-05-15T18:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Show das Baterias Universitárias",
+  "lugar": null,
+  "dataInicio": "2027-05-15T19:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Semifinal 1 - Futsal Feminino",
+  "lugar": null,
+  "dataInicio": "2027-05-16T08:30:00-03:00",
+  "dataFim": "2027-05-16T09:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Semifinal 2 - Voleibol Masculino",
+  "lugar": null,
+  "dataInicio": "2027-05-16T08:30:00-03:00",
+  "dataFim": "2027-05-16T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Finais da Natação - 50m Livre e Revezamento",
+  "lugar": null,
+  "dataInicio": "2027-05-16T10:15:00-03:00",
+  "dataFim": "2027-05-16T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço dos Atletas e Dirigentes",
+  "lugar": null,
+  "dataInicio": "2027-05-16T12:00:00-03:00",
+  "dataFim": "2027-05-16T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Disputa de 3º Lugar - Basquetebol Masculino",
+  "lugar": null,
+  "dataInicio": "2027-05-16T13:30:00-03:00",
+  "dataFim": "2027-05-16T15:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Grande Final - Handebol Feminino",
+  "lugar": null,
+  "dataInicio": "2027-05-16T14:30:00-03:00",
+  "dataFim": "2027-05-16T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Grande Final - Futsal Masculino",
+  "lugar": null,
+  "dataInicio": "2027-05-16T16:15:00-03:00",
+  "dataFim": "2027-05-16T17:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Premiação e Entrega de Troféus",
+  "lugar": null,
+  "dataInicio": "2027-05-16T18:00:00-03:00",
+  "dataFim": "2027-05-16T19:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Solenidade de Apagamento da Pira e Encerramento",
+  "lugar": null,
+  "dataInicio": "2027-05-16T19:30:00-03:00",
+  "dataFim": "2027-05-16T20:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Confraternização Oficial dos Atletas",
+  "lugar": null,
+  "dataInicio": "2027-05-16T20:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "nome": "CERIMÔNIA DE ABERTURA",
+  "lugar": "Palco Principal",
+  "dataInicio": "2024-05-16T09:00:00-03:00",
+  "dataFim": "2024-05-16T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA MAGNA",
+  "lugar": "Palco Principal",
+  "dataInicio": "2024-05-16T10:30:00-03:00",
+  "dataFim": "2024-05-16T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "OFICINA PRÁTICA 1",
+  "lugar": "Espaço Conexões - Sala B",
+  "dataInicio": "2024-05-16T14:30:00-03:00",
+  "dataFim": "2024-05-16T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE NETWORKING E NEGÓCIOS",
+  "lugar": "Arena Sebrae Delas",
+  "dataInicio": "2024-05-16T17:00:00-03:00",
+  "dataFim": "2024-05-16T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL TEMÁTICO",
+  "lugar": "Auditório Inovação",
+  "dataInicio": "2024-05-17T10:00:00-03:00",
+  "dataFim": "2024-05-17T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "OFICINA PRÁTICA 2",
+  "lugar": "Espaço Conexões - Sala A",
+  "dataInicio": "2024-05-17T14:00:00-03:00",
+  "dataFim": "2024-05-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PITCH DE STARTUPS",
+  "lugar": "Arena Sebrae Delas",
+  "dataInicio": "2024-05-17T16:30:00-03:00",
+  "dataFim": "2024-05-17T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA SETORIAL",
+  "lugar": "Auditório Inovação",
+  "dataInicio": "2024-05-18T10:30:00-03:00",
+  "dataFim": "2024-05-18T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "CONSULTORIA COLETIVA",
+  "lugar": "Espaço Conexões - Sala B",
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": "2024-05-18T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SHOWCASE DE ENCERRAMENTO",
+  "lugar": "Palco Principal",
+  "dataInicio": "2024-05-18T16:30:00-03:00",
+  "dataFim": "2024-05-18T18:00:00-03:00",
+  "descricao": null
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "nome": "Sessão Solene de Abertura",
+  "lugar": "Auditório Tucuju",
+  "dataInicio": "2027-05-19T18:00:00-03:00",
+  "dataFim": "2027-05-19T20:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa Temática",
+  "lugar": "Auditório Tucuju",
+  "dataInicio": "2027-05-20T09:00:00-03:00",
+  "dataFim": "2027-05-20T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação de Comunicações Orais",
+  "lugar": "Sala 102",
+  "dataInicio": "2027-05-20T14:30:00-03:00",
+  "dataFim": "2027-05-20T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação de Comunicações Orais",
+  "lugar": "Sala 104",
+  "dataInicio": "2027-05-20T14:30:00-03:00",
+  "dataFim": "2027-05-20T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa Temática",
+  "lugar": "Auditório Tucuju",
+  "dataInicio": "2027-05-21T09:00:00-03:00",
+  "dataFim": "2027-05-21T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo",
+  "lugar": "Foyer Principal",
+  "dataInicio": "2027-05-21T11:45:00-03:00",
+  "dataFim": "2027-05-21T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Encerramento",
+  "lugar": "Auditório Tucuju",
+  "dataInicio": "2027-05-21T14:30:00-03:00",
+  "dataFim": "2027-05-21T17:00:00-03:00",
+  "descricao": null
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "nome": "Credenciamento e Recepção dos Participantes",
+  "lugar": "Hall de Entrada",
+  "dataInicio": "2027-08-18T08:00:00-03:00",
+  "dataFim": "2027-08-18T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra de Abertura",
+  "lugar": "Auditório Tambaú",
+  "dataInicio": "2027-08-18T09:15:00-03:00",
+  "dataFim": "2027-08-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Discussão",
+  "lugar": "Auditório Tambaú",
+  "dataInicio": "2027-08-18T11:00:00-03:00",
+  "dataFim": "2027-08-18T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pitch de Startups",
+  "lugar": "Arena Inovação",
+  "dataInicio": "2027-08-18T14:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Demonstração Prática de Campo",
+  "lugar": "Área Externa Sul",
+  "dataInicio": "2027-08-19T09:00:00-03:00",
+  "dataFim": "2027-08-19T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Roda de Conversa",
+  "lugar": "Sala Cabo Branco",
+  "dataInicio": "2027-08-19T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Encerramento e Premiação",
+  "lugar": "Auditório Tambaú",
+  "dataInicio": "2027-08-19T17:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

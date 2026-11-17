@@ -1,0 +1,50 @@
+WORKSHOP PARANAENSE DE INTELIGÊNCIA ARTIFICIAL 2025
+Campus Centro Politécnico
+PROGRAMAÇÃO
+
+Quinta-feira (09/10/2025)
+Horário
+Atividade
+Local
+08:30 – 09:00
+ABERTURA
+Auditório
+09:00 – 10:00
+KEYNOTE
+Auditório
+Com Dra. Renata Wosniak.
+10:00 – 10:30
+CAFÉ
+MINICURSOS
+10:30 – 12:30
+MINICURSO DE LLMS NA PRÁTICA
+Laboratório 1
+10:30 – 12:30
+MINICURSO DE VISÃO COMPUTACIONAL
+Laboratório 2
+12:30 – 14:00
+ALMOÇO
+14:00 – 15:30
+PAINEL
+Auditório
+IA responsável no setor público.
+16:00 – 18:00
+MINICURSO DE MLOPS
+Laboratório 1
+
+Sexta-feira (10/10/2025)
+Horário
+Atividade
+Local
+Minicursos
+09:00 – 11:00
+MINICURSO DE AGENTES COM LLMS
+Laboratório 1
+09:00 – 11:00
+MINICURSO DE SÉRIES TEMPORAIS
+Laboratório 2
+11:00
+SESSÃO DE DEMOS
+Auditório
+12:00
+ENCERRAMENTO

@@ -1,0 +1,107 @@
+[
+ {
+  "nome": "CREDENCIAMENTO E RETIRADA DE CRACHÁS",
+  "lugar": null,
+  "dataInicio": "2023-08-17T07:30:00-03:00",
+  "dataFim": "2023-08-17T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO PLENÁRIA 1",
+  "lugar": null,
+  "dataInicio": "2023-08-17T08:30:00-03:00",
+  "dataFim": "2023-08-17T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ E VISITA AOS ESTANDES",
+  "lugar": null,
+  "dataInicio": "2023-08-17T10:00:00-03:00",
+  "dataFim": "2023-08-17T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL DE DISCUSSÃO 1",
+  "lugar": null,
+  "dataInicio": "2023-08-17T10:30:00-03:00",
+  "dataFim": "2023-08-17T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ALMOÇO LIVRE",
+  "lugar": null,
+  "dataInicio": "2023-08-17T12:00:00-03:00",
+  "dataFim": "2023-08-17T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "WORKSHOP PRÁTICO A",
+  "lugar": null,
+  "dataInicio": "2023-08-17T13:30:00-03:00",
+  "dataFim": "2023-08-17T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO PLENÁRIA 2",
+  "lugar": null,
+  "dataInicio": "2023-08-18T08:30:00-03:00",
+  "dataFim": "2023-08-18T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COFFEE BREAK",
+  "lugar": null,
+  "dataInicio": "2023-08-18T10:00:00-03:00",
+  "dataFim": "2023-08-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL DE DISCUSSÃO 2",
+  "lugar": null,
+  "dataInicio": "2023-08-18T10:30:00-03:00",
+  "dataFim": "2023-08-18T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ALMOÇO DOS CONGRESSISTAS",
+  "lugar": null,
+  "dataInicio": "2023-08-18T12:00:00-03:00",
+  "dataFim": "2023-08-18T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "WORKSHOP PRÁTICO B",
+  "lugar": null,
+  "dataInicio": "2023-08-18T13:30:00-03:00",
+  "dataFim": "2023-08-18T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE PÔSTERES DIGITAIS",
+  "lugar": null,
+  "dataInicio": "2023-08-19T08:30:00-03:00",
+  "dataFim": "2023-08-19T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO COM CAFÉ",
+  "lugar": null,
+  "dataInicio": "2023-08-19T10:00:00-03:00",
+  "dataFim": "2023-08-19T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COLÓQUIO MULTIPROFISSIONAL",
+  "lugar": null,
+  "dataInicio": "2023-08-19T10:30:00-03:00",
+  "dataFim": "2023-08-19T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "CERIMÔNIA DE ENCERRAMENTO E PREMIAÇÃO",
+  "lugar": null,
+  "dataInicio": "2023-08-19T12:00:00-03:00",
+  "dataFim": "2023-08-19T13:00:00-03:00",
+  "descricao": null
+ }
+]

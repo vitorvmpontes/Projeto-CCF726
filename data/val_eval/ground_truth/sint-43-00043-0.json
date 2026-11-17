@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "Abertura",
+  "lugar": null,
+  "dataInicio": "2024-05-22T08:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação dos Resultados da Autoavaliação",
+  "lugar": null,
+  "dataInicio": "2024-05-22T08:30:00-03:00",
+  "dataFim": "2024-05-22T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "GT Discentes",
+  "lugar": null,
+  "dataInicio": "2024-05-22T10:15:00-03:00",
+  "dataFim": "2024-05-22T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "GT Docentes",
+  "lugar": null,
+  "dataInicio": "2024-05-22T10:15:00-03:00",
+  "dataFim": "2024-05-22T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "GT Técnicos-Administrativos",
+  "lugar": null,
+  "dataInicio": "2024-05-22T10:15:00-03:00",
+  "dataFim": "2024-05-22T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Plenária Final",
+  "lugar": null,
+  "dataInicio": "2024-05-22T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

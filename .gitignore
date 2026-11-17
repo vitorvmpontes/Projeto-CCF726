@@ -31,3 +31,6 @@ venv/
 *.key
 credentials/
 *service-account*.json
+
+# Dados de treino derivados (gerados por python -m training.preparar)
+training/dados/

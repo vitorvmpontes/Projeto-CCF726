@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "CREDENCIAMENTO",
+  "lugar": null,
+  "dataInicio": "2024-09-25T07:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "ABERTURA",
+  "lugar": "AUDITÓRIO",
+  "dataInicio": "2024-09-25T08:00:00-03:00",
+  "dataFim": "2024-09-25T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "RODA DE CONVERSA COM COMUNIDADES",
+  "lugar": "SALA 3",
+  "dataInicio": "2024-09-25T09:00:00-03:00",
+  "dataFim": "2024-09-25T11:00:00-03:00",
+  "descricao": "<p>Com lideranças da aldeia urbana <b>Marçal de Souza</b>.</p>"
+ },
+ {
+  "nome": "SESSÃO DE PÔSTERES",
+  "lugar": "HALL CENTRAL",
+  "dataInicio": "2024-09-25T09:00:00-03:00",
+  "dataFim": "2024-09-25T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2024-09-25T11:30:00-03:00",
+  "dataFim": "2024-09-25T13:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "APRESENTAÇÕES CULTURAIS",
+  "lugar": "AUDITÓRIO",
+  "dataInicio": "2024-09-25T13:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

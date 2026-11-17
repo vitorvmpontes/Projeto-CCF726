@@ -1,0 +1,51 @@
+[
+ {
+  "nome": "Conferência de Abertura",
+  "lugar": null,
+  "dataInicio": "2025-10-29T09:00:00-03:00",
+  "dataFim": "2025-10-29T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 1",
+  "lugar": "Sala Vitória",
+  "dataInicio": "2025-10-29T10:30:00-03:00",
+  "dataFim": "2025-10-29T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 2",
+  "lugar": "Sala Vila Velha",
+  "dataInicio": "2025-10-29T10:30:00-03:00",
+  "dataFim": "2025-10-29T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres",
+  "lugar": null,
+  "dataInicio": "2025-10-29T14:00:00-03:00",
+  "dataFim": "2025-10-29T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 3",
+  "lugar": "Sala Vitória",
+  "dataInicio": "2025-10-30T09:00:00-03:00",
+  "dataFim": "2025-10-30T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 4",
+  "lugar": "Sala Vila Velha",
+  "dataInicio": "2025-10-30T09:00:00-03:00",
+  "dataFim": "2025-10-30T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Assembleia Geral e Encerramento",
+  "lugar": null,
+  "dataInicio": "2025-10-30T11:00:00-03:00",
+  "dataFim": "2025-10-30T12:00:00-03:00",
+  "descricao": null
+ }
+]

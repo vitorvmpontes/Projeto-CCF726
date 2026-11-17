@@ -1,0 +1,114 @@
+[
+ {
+  "nome": "Recepção e Entrega de Kits",
+  "lugar": null,
+  "dataInicio": "2024-10-17T08:00:00-03:00",
+  "dataFim": "2024-10-17T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Abertura",
+  "lugar": null,
+  "dataInicio": "2024-10-17T09:00:00-03:00",
+  "dataFim": "2024-10-17T09:40:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra de Abertura",
+  "lugar": null,
+  "dataInicio": "2024-10-17T09:40:00-03:00",
+  "dataFim": "2024-10-17T10:50:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café e Conexões",
+  "lugar": null,
+  "dataInicio": "2024-10-17T10:50:00-03:00",
+  "dataFim": "2024-10-17T11:20:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Discussão",
+  "lugar": null,
+  "dataInicio": "2024-10-17T11:20:00-03:00",
+  "dataFim": "2024-10-17T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2024-10-17T12:30:00-03:00",
+  "dataFim": "2024-10-17T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática 1",
+  "lugar": null,
+  "dataInicio": "2024-10-17T14:00:00-03:00",
+  "dataFim": "2024-10-17T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática 2",
+  "lugar": null,
+  "dataInicio": "2024-10-17T14:00:00-03:00",
+  "dataFim": "2024-10-17T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres e Projetos",
+  "lugar": null,
+  "dataInicio": "2024-10-17T17:00:00-03:00",
+  "dataFim": "2024-10-17T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Técnica",
+  "lugar": null,
+  "dataInicio": "2024-10-18T09:00:00-03:00",
+  "dataFim": "2024-10-18T10:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pitch de Ideias e Startups",
+  "lugar": null,
+  "dataInicio": "2024-10-18T10:30:00-03:00",
+  "dataFim": "2024-10-18T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2024-10-18T12:00:00-03:00",
+  "dataFim": "2024-10-18T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": null,
+  "dataInicio": "2024-10-18T13:30:00-03:00",
+  "dataFim": "2024-10-18T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 2",
+  "lugar": null,
+  "dataInicio": "2024-10-18T13:30:00-03:00",
+  "dataFim": "2024-10-18T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa de Encerramento",
+  "lugar": null,
+  "dataInicio": "2024-10-18T16:45:00-03:00",
+  "dataFim": "2024-10-18T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Premiação e Fechamento",
+  "lugar": null,
+  "dataInicio": "2024-10-18T18:00:00-03:00",
+  "dataFim": "2024-10-18T18:45:00-03:00",
+  "descricao": null
+ }
+]

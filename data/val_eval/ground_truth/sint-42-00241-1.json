@@ -1,0 +1,163 @@
+[
+ {
+  "nome": "RECEPÇÃO E ENTREGA DE KITS",
+  "lugar": "HALL DE ENTRADA",
+  "dataInicio": "2025-05-15T08:00:00-03:00",
+  "dataFim": "2025-05-15T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SOLENIDADE DE ABERTURA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-15T09:00:00-03:00",
+  "dataFim": "2025-05-15T09:40:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA DE ABERTURA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-15T09:40:00-03:00",
+  "dataFim": "2025-05-15T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ",
+  "lugar": "ESPAÇO DE CONVIVÊNCIA",
+  "dataInicio": "2025-05-15T10:45:00-03:00",
+  "dataFim": "2025-05-15T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 1",
+  "lugar": "ANFITEATRO 2",
+  "dataInicio": "2025-05-15T11:15:00-03:00",
+  "dataFim": "2025-05-15T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 2",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-15T11:15:00-03:00",
+  "dataFim": "2025-05-15T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO PARA ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2025-05-15T12:30:00-03:00",
+  "dataFim": "2025-05-15T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA 1",
+  "dataInicio": "2025-05-15T14:00:00-03:00",
+  "dataFim": "2025-05-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO",
+  "lugar": "LABORATÓRIO DE REDES",
+  "dataInicio": "2025-05-15T14:00:00-03:00",
+  "dataFim": "2025-05-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL DE DISCUSSÃO",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-15T16:15:00-03:00",
+  "dataFim": "2025-05-15T17:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE PÔSTERES",
+  "lugar": "HALL DE EXPOSIÇÕES",
+  "dataInicio": "2025-05-15T17:45:00-03:00",
+  "dataFim": "2025-05-15T19:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ACOLHIMENTO E CREDENCIAMENTO DIÁRIO",
+  "lugar": "HALL DE ENTRADA",
+  "dataInicio": "2025-05-16T08:30:00-03:00",
+  "dataFim": "2025-05-16T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-16T09:00:00-03:00",
+  "dataFim": "2025-05-16T10:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ",
+  "lugar": "ESPAÇO DE CONVIVÊNCIA",
+  "dataInicio": "2025-05-16T10:15:00-03:00",
+  "dataFim": "2025-05-16T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 3",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-16T10:45:00-03:00",
+  "dataFim": "2025-05-16T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 4",
+  "lugar": "ANFITEATRO 2",
+  "dataInicio": "2025-05-16T10:45:00-03:00",
+  "dataFim": "2025-05-16T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO PARA ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2025-05-16T12:00:00-03:00",
+  "dataFim": "2025-05-16T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MENTORIA DE CARREIRA",
+  "lugar": "SALA 102 - BLOCO B",
+  "dataInicio": "2025-05-16T13:30:00-03:00",
+  "dataFim": "2025-05-16T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA 2",
+  "dataInicio": "2025-05-16T13:30:00-03:00",
+  "dataFim": "2025-05-16T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MENTORIA DE CARREIRA",
+  "lugar": "SALA 104 - BLOCO B",
+  "dataInicio": "2025-05-16T15:45:00-03:00",
+  "dataFim": "2025-05-16T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-16T15:45:00-03:00",
+  "dataFim": "2025-05-16T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "CERIMÔNIA DE PREMIAÇÃO E PREMIAÇÃO MENINAS DIGITAIS",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2025-05-16T17:15:00-03:00",
+  "dataFim": "2025-05-16T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ENCERRAMENTO E CONFRATERNIZAÇÃO",
+  "lugar": "ESPAÇO DE CONVIVÊNCIA",
+  "dataInicio": "2025-05-16T18:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

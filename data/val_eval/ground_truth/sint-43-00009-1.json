@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "CREDENCIAMENTO",
+  "lugar": null,
+  "dataInicio": "2026-05-26T08:00:00-03:00",
+  "dataFim": "2026-05-26T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 1",
+  "lugar": null,
+  "dataInicio": "2026-05-26T09:00:00-03:00",
+  "dataFim": "2026-05-26T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COFFEE BREAK",
+  "lugar": null,
+  "dataInicio": "2026-05-26T10:30:00-03:00",
+  "dataFim": "2026-05-26T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 2",
+  "lugar": null,
+  "dataInicio": "2026-05-26T11:00:00-03:00",
+  "dataFim": "2026-05-26T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TÉCNICA 3",
+  "lugar": null,
+  "dataInicio": "2026-05-27T09:00:00-03:00",
+  "dataFim": "2026-05-27T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ASSEMBLEIA E ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2026-05-27T11:00:00-03:00",
+  "dataFim": "2026-05-27T12:00:00-03:00",
+  "descricao": null
+ }
+]

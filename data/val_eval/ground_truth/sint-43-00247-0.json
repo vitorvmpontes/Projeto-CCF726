@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "ABERTURA",
+  "lugar": null,
+  "dataInicio": "2025-10-23T09:00:00-03:00",
+  "dataFim": "2025-10-23T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ATENDIMENTO INDIVIDUAL",
+  "lugar": null,
+  "dataInicio": "2025-10-23T10:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "OFICINA DE VENDAS PELO WHATSAPP",
+  "lugar": null,
+  "dataInicio": "2025-10-23T10:00:00-03:00",
+  "dataFim": "2025-10-23T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA GESTÃO FINANCEIRA PARA MEI",
+  "lugar": null,
+  "dataInicio": "2025-10-23T10:00:00-03:00",
+  "dataFim": "2025-10-23T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL MULHERES QUE EMPREENDEM",
+  "lugar": null,
+  "dataInicio": "2025-10-23T14:00:00-03:00",
+  "dataFim": "2025-10-23T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SORTEIO DE BRINDES",
+  "lugar": null,
+  "dataInicio": "2025-10-23T17:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

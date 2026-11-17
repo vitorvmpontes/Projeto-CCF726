@@ -1,0 +1,79 @@
+[
+ {
+  "nome": "Recepção e Entrega de Crachás",
+  "lugar": "Hall Principal",
+  "dataInicio": "2024-10-17T08:00:00-03:00",
+  "dataFim": "2024-10-17T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Plenária de Abertura",
+  "lugar": "Auditório Vermelho",
+  "dataInicio": "2024-10-17T09:00:00-03:00",
+  "dataFim": "2024-10-17T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 1: Genômica e Transcriptômica",
+  "lugar": "Sala A3",
+  "dataInicio": "2024-10-17T11:00:00-03:00",
+  "dataFim": "2024-10-17T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 2: Biologia Estrutural e Modelagem Molecular",
+  "lugar": "Sala B2",
+  "dataInicio": "2024-10-17T11:00:00-03:00",
+  "dataFim": "2024-10-17T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres",
+  "lugar": "Espaço de Exposições",
+  "dataInicio": "2024-10-17T14:00:00-03:00",
+  "dataFim": "2024-10-17T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Discussão",
+  "lugar": "Auditório Vermelho",
+  "dataInicio": "2024-10-17T16:00:00-03:00",
+  "dataFim": "2024-10-17T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 3: Mineração de Dados Biológicos",
+  "lugar": "Sala A3",
+  "dataInicio": "2024-10-18T09:00:00-03:00",
+  "dataFim": "2024-10-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 4: Filogenômica e Evolução Molecular",
+  "lugar": "Sala B2",
+  "dataInicio": "2024-10-18T09:00:00-03:00",
+  "dataFim": "2024-10-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo para Almoço",
+  "lugar": null,
+  "dataInicio": "2024-10-18T12:00:00-03:00",
+  "dataFim": "2024-10-18T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres",
+  "lugar": "Espaço de Exposições",
+  "dataInicio": "2024-10-18T13:30:00-03:00",
+  "dataFim": "2024-10-18T15:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Premiação e Encerramento",
+  "lugar": "Auditório Vermelho",
+  "dataInicio": "2024-10-18T16:30:00-03:00",
+  "dataFim": "2024-10-18T18:00:00-03:00",
+  "descricao": null
+ }
+]

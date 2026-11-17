@@ -1,0 +1,170 @@
+[
+ {
+  "nome": "CREDENCIAMENTO E RETIRADA DE CRACHÁS",
+  "lugar": "HALL DE ENTRADA",
+  "dataInicio": "2023-08-17T08:00:00-03:00",
+  "dataFim": "2023-08-17T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE ABERTURA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2023-08-17T09:00:00-03:00",
+  "dataFim": "2023-08-17T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA DE ABERTURA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2023-08-17T09:30:00-03:00",
+  "dataFim": "2023-08-17T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ MATUTINA",
+  "lugar": "FOYER PRINCIPAL",
+  "dataInicio": "2023-08-17T10:30:00-03:00",
+  "dataFim": "2023-08-17T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 1 - PARTE 1",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "dataInicio": "2023-08-17T11:00:00-03:00",
+  "dataFim": "2023-08-17T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 2 - PARTE 1",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "dataInicio": "2023-08-17T11:00:00-03:00",
+  "dataFim": "2023-08-17T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ALMOÇO LIVRE",
+  "lugar": null,
+  "dataInicio": "2023-08-17T12:30:00-03:00",
+  "dataFim": "2023-08-17T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 1 - PARTE 2",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "dataInicio": "2023-08-17T14:00:00-03:00",
+  "dataFim": "2023-08-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 2 - PARTE 2",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "dataInicio": "2023-08-17T14:00:00-03:00",
+  "dataFim": "2023-08-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COFFEE BREAK E NETWORKING",
+  "lugar": "FOYER PRINCIPAL",
+  "dataInicio": "2023-08-17T16:00:00-03:00",
+  "dataFim": "2023-08-17T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL DE DISCUSSÃO 1",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2023-08-17T16:30:00-03:00",
+  "dataFim": "2023-08-17T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "HAPPY HOUR DA COMUNIDADE",
+  "lugar": "TERRAÇO PANORÂMICO",
+  "dataInicio": "2023-08-17T18:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "BOAS-VINDAS E RECEPÇÃO",
+  "lugar": "HALL DE ENTRADA",
+  "dataInicio": "2023-08-18T08:30:00-03:00",
+  "dataFim": "2023-08-18T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA TÉCNICA CONVIDADA",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2023-08-18T09:00:00-03:00",
+  "dataFim": "2023-08-18T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO PARA CAFÉ",
+  "lugar": "FOYER PRINCIPAL",
+  "dataInicio": "2023-08-18T10:00:00-03:00",
+  "dataFim": "2023-08-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 3 - PARTE 1",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "dataInicio": "2023-08-18T10:30:00-03:00",
+  "dataFim": "2023-08-18T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 4 - PARTE 1",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "dataInicio": "2023-08-18T10:30:00-03:00",
+  "dataFim": "2023-08-18T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "HORÁRIO DE ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2023-08-18T12:30:00-03:00",
+  "dataFim": "2023-08-18T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 3 - PARTE 2",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "dataInicio": "2023-08-18T14:00:00-03:00",
+  "dataFim": "2023-08-18T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO 4 - PARTE 2",
+  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "dataInicio": "2023-08-18T14:00:00-03:00",
+  "dataFim": "2023-08-18T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA LANCHE DA TARDE",
+  "lugar": "FOYER PRINCIPAL",
+  "dataInicio": "2023-08-18T16:00:00-03:00",
+  "dataFim": "2023-08-18T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL DE DISCUSSÃO 2",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2023-08-18T16:30:00-03:00",
+  "dataFim": "2023-08-18T17:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE ENCERRAMENTO E PREMIAÇÃO",
+  "lugar": "AUDITÓRIO PRINCIPAL",
+  "dataInicio": "2023-08-18T17:45:00-03:00",
+  "dataFim": "2023-08-18T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COQUETEL DE CONFRATERNIZAÇÃO",
+  "lugar": "ÁREA VERDE DO CIT",
+  "dataInicio": "2023-08-18T18:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

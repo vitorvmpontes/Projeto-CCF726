@@ -1,0 +1,128 @@
+[
+ {
+  "nome": "RECEPÇÃO E CREDENCIAMENTO DOS PARTICIPANTES",
+  "lugar": null,
+  "dataInicio": "2023-10-18T08:00:00-03:00",
+  "dataFim": "2023-10-18T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SOLENIDADE DE ABERTURA",
+  "lugar": null,
+  "dataInicio": "2023-10-18T09:30:00-03:00",
+  "dataFim": "2023-10-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "CONFERÊNCIA INAUGURAL",
+  "lugar": null,
+  "dataInicio": "2023-10-18T10:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2023-10-18T12:00:00-03:00",
+  "dataFim": "2023-10-18T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TEMÁTICA 1",
+  "lugar": null,
+  "dataInicio": "2023-10-18T13:30:00-03:00",
+  "dataFim": "2023-10-18T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO TEMÁTICA 2",
+  "lugar": null,
+  "dataInicio": "2023-10-18T13:30:00-03:00",
+  "dataFim": "2023-10-18T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAUSA PARA CAFÉ COM ARTE",
+  "lugar": null,
+  "dataInicio": "2023-10-18T15:30:00-03:00",
+  "dataFim": "2023-10-18T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "OFICINA METODOLÓGICA",
+  "lugar": null,
+  "dataInicio": "2023-10-18T16:00:00-03:00",
+  "dataFim": "2023-10-18T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MOSTRA INTERATIVA DE PROJETOS",
+  "lugar": null,
+  "dataInicio": "2023-10-19T09:00:00-03:00",
+  "dataFim": "2023-10-19T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "RODA DE CONVERSA INTERSETORIAL",
+  "lugar": null,
+  "dataInicio": "2023-10-19T10:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO DE ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2023-10-19T12:00:00-03:00",
+  "dataFim": "2023-10-19T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "OFICINA PRÁTICA DE AUDIOVISUAL",
+  "lugar": null,
+  "dataInicio": "2023-10-19T13:30:00-03:00",
+  "dataFim": "2023-10-19T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE PÔSTERES COMENTADOS",
+  "lugar": null,
+  "dataInicio": "2023-10-19T14:00:00-03:00",
+  "dataFim": "2023-10-19T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "COFFEE BREAK COLETIVO",
+  "lugar": null,
+  "dataInicio": "2023-10-19T16:30:00-03:00",
+  "dataFim": "2023-10-19T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL DE DEBATES",
+  "lugar": null,
+  "dataInicio": "2023-10-20T09:30:00-03:00",
+  "dataFim": "2023-10-20T11:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "INTERVALO PARA ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2023-10-20T12:00:00-03:00",
+  "dataFim": "2023-10-20T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "APRESENTAÇÃO DO GRUPO DE PERCUSSÃO DA UFRGS",
+  "lugar": null,
+  "dataInicio": "2023-10-20T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "CERIMÔNIA DE PREMIAÇÃO E ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2023-10-20T15:30:00-03:00",
+  "dataFim": "2023-10-20T17:30:00-03:00",
+  "descricao": null
+ }
+]

@@ -1,0 +1,51 @@
+[
+ {
+  "nome": "Cerimônia de Abertura",
+  "lugar": "Auditório Principal",
+  "dataInicio": "2026-10-14T09:00:00-03:00",
+  "dataFim": "2026-10-14T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 1A: Inteligência Artificial e Aprendizado de Máquina",
+  "lugar": "Sala Joaquina",
+  "dataInicio": "2026-10-14T14:00:00-03:00",
+  "dataFim": "2026-10-14T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 1B: Engenharia de Requisitos e Métodos Ágeis",
+  "lugar": "Sala Campeche",
+  "dataInicio": "2026-10-14T14:00:00-03:00",
+  "dataFim": "2026-10-14T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Debates",
+  "lugar": "Auditório Principal",
+  "dataInicio": "2026-10-15T10:00:00-03:00",
+  "dataFim": "2026-10-15T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres",
+  "lugar": "Foyer Central",
+  "dataInicio": "2026-10-15T15:30:00-03:00",
+  "dataFim": "2026-10-15T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Convidada Internacional",
+  "lugar": "Auditório Principal",
+  "dataInicio": "2026-10-16T10:30:00-03:00",
+  "dataFim": "2026-10-16T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Premiação e Encerramento",
+  "lugar": "Auditório Principal",
+  "dataInicio": "2026-10-16T16:30:00-03:00",
+  "dataFim": "2026-10-16T18:00:00-03:00",
+  "descricao": null
+ }
+]

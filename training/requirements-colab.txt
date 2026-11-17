@@ -1,7 +1,5 @@
-# Dependências do treino no Google Colab (GPU).
+# Dependências do treino no Google Colab (GPU T4).
 # O unsloth fixa versões compatíveis de torch, transformers, trl, peft,
-# accelerate e bitsandbytes; por isso só ele é fixado aqui.
+# accelerate, bitsandbytes e datasets; por isso só ele é fixado aqui.
+# Se o pip reclamar da versão, use a mais recente e registre-a no EXPERIMENTOS.md.
 unsloth==2026.9.12
-datasets==5.0.1
-huggingface-hub==2.0.0
-python-dotenv==1.2.3

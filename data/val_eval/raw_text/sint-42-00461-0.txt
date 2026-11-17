@@ -1,0 +1,79 @@
+Programação - I Workshop Amazônico de Inteligência Artificial e Aplicações Práticas
+Edição 2027
+
+Quinta-feira, 15/04
+8h às 9h
+RECEPÇÃO E ENTREGA DE CRACHÁS
+HALL DO PRÉDIO CENTRAL
+9h às 9h30
+SESSÃO DE ABERTURA
+Boas-vindas com a coordenação-geral do evento liderada por Dra. Simone Alencar e Prof. Carlos Marinho.
+AUDITÓRIO GUAJARÁ
+Palestras Plenárias
+9h30 às 10h45
+PALESTRA
+Apresentação intitulada Impactos ecológicos e desafios operacionais do processamento de modelos de linguagem de grande porte em ecossistemas computacionais distribuídos na Amazônia Legal, ministrada pelo pesquisador Dr. Marcelo Furtado Pinheiro.
+AUDITÓRIO GUAJARÁ
+10h45 às 11h15
+PAUSA PARA CAFÉ
+FOYER DAS ÁGUAS
+Minicursos
+11h15 às 12h45
+MINICURSO 1
+Primeira parte do curso Redes Neurais Convolucionais para Classificação de Imagens de Satélite com Profa. Juliana Barreto.
+LABORATÓRIO DE INFORMÁTICA 1
+11h15 às 12h45
+MINICURSO 2
+Treinamento prático sob o tema Ajuste Fino de Modelos Fundacionais Abertos Utilizando Bibliotecas em Python, facilitado por Eng. Thiago Meireles.
+LABORATÓRIO DE INFORMÁTICA 2
+12h45 às 14h
+INTERVALO DE ALMOÇO
+OFICINAS APLICADAS
+14h às 16h
+OFICINA TÉCNICA
+Atividade sobre Técnicas avançadas de compressão quantizada de modelos profundos para implementação eficiente em dispositivos de borda com baixa conectividade, apresentada por Msc. Renata Guedes.
+SALA DE TREINAMENTO A
+14h às 16h
+SESSÃO PRÁTICA HANDS-ON
+Atividade imersiva de prototipagem rápida orientada pelo desenvolvedor Rodrigo Vasconcelos.
+LABORATÓRIO DE INOVAÇÃO ABERTA
+Minicursos
+16h15 às 18h
+MINICURSO 1
+Continuação e conclusão de Redes Neurais Convolucionais para Classificação de Imagens de Satélite com Profa. Juliana Barreto.
+LABORATÓRIO DE INFORMÁTICA 1
+
+Sexta-feira, 16/04
+Palestras Plenárias
+8h30 às 9h45
+PALESTRA
+Conferência Visão Computacional no Monitoramento da Biodiversidade Fluvial apresentada pelo pesquisador Dr. Arthur Nogueira.
+AUDITÓRIO GUAJARÁ
+9h45 às 10h15
+PAUSA PARA CAFÉ
+FOYER DAS ÁGUAS
+MINICURSOS
+10h15 às 12h30
+MINICURSO 3
+Abordagem sobre Engenharia de Prompt e Aplicações com RAG para Bases Jurídicas, instruído por Dra. Mariana Bittencourt.
+LABORATÓRIO DE INFORMÁTICA 1
+10h15 às 12h30
+MINICURSO 4
+Apresentação do minicurso Detecção de Anomalias em Séries Temporais Hidrológicas conduzido pelo instrutor Prof. Lucas Pantoja.
+LABORATÓRIO DE INFORMÁTICA 2
+12h30 às 14h
+INTERVALO DE ALMOÇO
+PALESTRAS PLENÁRIAS
+14h às 15h45
+PALESTRA
+Exposição sobre Fundamentos metodológicos e diretrizes de governança ética para a criação de sistemas inteligentes voltados à sustentabilidade bioeconômica regional conduzida pela pesquisadora Profa. Elena Castelo Branco.
+AUDITÓRIO GUAJARÁ
+OFICINAS APLICADAS
+14h às 15h45
+SESSÃO PRÁTICA HANDS-ON
+Segunda edição do laboratório prático para participantes da tarde, com suporte do desenvolvedor Rodrigo Vasconcelos e mediação de Beatriz Mendonça.
+LABORATÓRIO DE INFORMÁTICA 1
+16h às 17h30
+ENCERRAMENTO E PREMIAÇÃO DE IDEIAS
+Anúncio dos destaques de projetos acadêmicos e fechamento conduzido por Dra. Simone Alencar.
+AUDITÓRIO GUAJARÁ

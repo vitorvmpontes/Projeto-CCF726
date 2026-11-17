@@ -1,0 +1,86 @@
+[
+ {
+  "nome": "ABERTURA",
+  "lugar": null,
+  "dataInicio": "2025-10-09T08:30:00-03:00",
+  "dataFim": "2025-10-09T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "KEYNOTE",
+  "lugar": null,
+  "dataInicio": "2025-10-09T09:00:00-03:00",
+  "dataFim": "2025-10-09T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "CAFÉ",
+  "lugar": null,
+  "dataInicio": "2025-10-09T10:00:00-03:00",
+  "dataFim": "2025-10-09T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO DE LLMS NA PRÁTICA",
+  "lugar": null,
+  "dataInicio": "2025-10-09T10:30:00-03:00",
+  "dataFim": "2025-10-09T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO DE VISÃO COMPUTACIONAL",
+  "lugar": null,
+  "dataInicio": "2025-10-09T10:30:00-03:00",
+  "dataFim": "2025-10-09T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "ALMOÇO",
+  "lugar": null,
+  "dataInicio": "2025-10-09T12:30:00-03:00",
+  "dataFim": "2025-10-09T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL",
+  "lugar": null,
+  "dataInicio": "2025-10-09T14:00:00-03:00",
+  "dataFim": "2025-10-09T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO DE MLOPS",
+  "lugar": null,
+  "dataInicio": "2025-10-09T16:00:00-03:00",
+  "dataFim": "2025-10-09T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO DE AGENTES COM LLMS",
+  "lugar": null,
+  "dataInicio": "2025-10-10T09:00:00-03:00",
+  "dataFim": "2025-10-10T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "MINICURSO DE SÉRIES TEMPORAIS",
+  "lugar": null,
+  "dataInicio": "2025-10-10T09:00:00-03:00",
+  "dataFim": "2025-10-10T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE DEMOS",
+  "lugar": null,
+  "dataInicio": "2025-10-10T11:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2025-10-10T12:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

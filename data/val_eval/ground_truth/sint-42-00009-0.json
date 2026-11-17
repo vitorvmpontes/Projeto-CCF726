@@ -1,0 +1,93 @@
+[
+ {
+  "nome": "ACOLHIMENTO E ENTREGA DE CRACHÁS",
+  "lugar": null,
+  "dataInicio": "2027-05-13T08:00:00-03:00",
+  "dataFim": "2027-05-13T09:00:00-03:00",
+  "descricao": "<p>Recepção dos participantes e retirada dos materiais institucionais com a comissão organizadora liderada por <b>Patrícia Nogueira</b>.</p>"
+ },
+ {
+  "nome": "PAINEL DE ABERTURA",
+  "lugar": null,
+  "dataInicio": "2027-05-13T09:15:00-03:00",
+  "dataFim": "2027-05-13T11:45:00-03:00",
+  "descricao": "<p>Discussão inicial sobre o tema <i>Desafios Curriculares e Práticas Pedagógicas no Centro-Oeste</i>, conduzida pelo Prof. Dr. <b>Carlos Eduardo Guimarães</b> e comentada pela Profa. Dra. <b>Miriam Albuquerque</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PEDAGÓGICA 1",
+  "lugar": null,
+  "dataInicio": "2027-05-13T14:00:00-03:00",
+  "dataFim": "2027-05-13T17:00:00-03:00",
+  "descricao": "<p>Práticas ativas voltadas aos Anos Iniciais com a oficina <i>Alfabetização e Letramento Científico na Sala de Aula</i> ministrada por <b>Heloísa Helena Ramos</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PEDAGÓGICA 2",
+  "lugar": null,
+  "dataInicio": "2027-05-13T14:00:00-03:00",
+  "dataFim": "2027-05-13T17:00:00-03:00",
+  "descricao": "<p>Capacitação voltada para professores do Ensino Médio sobre <i>Metodologias Ágeis e Tecnologias Livres</i>, mediada pelo educador <b>Thiago Rezende</b>.</p>"
+ },
+ {
+  "nome": "RODA DE CONVERSA 1",
+  "lugar": null,
+  "dataInicio": "2027-05-14T08:30:00-03:00",
+  "dataFim": "2027-05-14T10:30:00-03:00",
+  "descricao": "<p>Troca de experiências docentes com a temática <i>Inclusão e Acessibilidade no Ensino Fundamental</i>, articulada por <b>Beatriz Mendonça Fontes</b> e <b>Jorge Luís de Freitas</b>.</p>"
+ },
+ {
+  "nome": "RODA DE CONVERSA 2",
+  "lugar": null,
+  "dataInicio": "2027-05-14T08:30:00-03:00",
+  "dataFim": "2027-05-14T10:30:00-03:00",
+  "descricao": "<p>Debate sobre <i>Saúde Mental e Bem-Estar Docente no Pós-Pandemia</i>, com facilitação da psicóloga escolar <b>Renata Sanches Viana</b>.</p>"
+ },
+ {
+  "nome": "LANCHE COMUNITÁRIO",
+  "lugar": null,
+  "dataInicio": "2027-05-14T10:30:00-03:00",
+  "dataFim": "2027-05-14T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE PÔSTERES",
+  "lugar": null,
+  "dataInicio": "2027-05-14T11:00:00-03:00",
+  "dataFim": "2027-05-14T12:30:00-03:00",
+  "descricao": "<p>Apresentação de relatos de experiência por professores das redes municipal e estadual, sob coordenação do Prof. <b>Antônio Marcos Silveira</b>.</p>"
+ },
+ {
+  "nome": "COLÓQUIO DE POLÍTICAS EDUCACIONAIS",
+  "lugar": null,
+  "dataInicio": "2027-05-14T14:30:00-03:00",
+  "dataFim": "2027-05-14T17:30:00-03:00",
+  "descricao": "<p>Análise coletiva acerca do tema <i>Financiamento Público e Valorização da Carreira do Magistério</i>, reunindo a debatedora <b>Sônia Regina Duarte</b> e o pesquisador <b>Fábio Augusto Meireles</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PEDAGÓGICA 3",
+  "lugar": null,
+  "dataInicio": "2027-05-15T08:30:00-03:00",
+  "dataFim": "2027-05-15T10:30:00-03:00",
+  "descricao": "<p>Atividade prática <i>Educação Ambiental e o Bioma Pantanal nos Currículos Escolares</i>, facilitada por <b>Daniela Silvano</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PEDAGÓGICA 4",
+  "lugar": null,
+  "dataInicio": "2027-05-15T08:30:00-03:00",
+  "dataFim": "2027-05-15T10:30:00-03:00",
+  "descricao": "<p>Trabalho focado na transposição lúdica com <i>Jogos Teatrais e Expressão Corporal na Pré-Escola</i>, orientado por <b>Marcio Vinicius Toledo</b>.</p>"
+ },
+ {
+  "nome": "APRESENTAÇÃO CULTURAL",
+  "lugar": null,
+  "dataInicio": "2027-05-15T11:00:00-03:00",
+  "dataFim": null,
+  "descricao": "<p>Performance artística e musical promovida pelo conjunto regional de viola caipira liderado pelo maestro <b>Geraldo Espíndola Ribeiro</b>.</p>"
+ },
+ {
+  "nome": "ASSEMBLEIA DE ENCERRAMENTO",
+  "lugar": null,
+  "dataInicio": "2027-05-15T14:00:00-03:00",
+  "dataFim": "2027-05-15T16:00:00-03:00",
+  "descricao": "<p>Leitura e aprovação da <i>Carta de Campo Grande pela Qualidade da Educação Pública</i>, sob coordenação geral de <b>Patrícia Nogueira</b> e <b>Carlos Eduardo Guimarães</b>.</p>"
+ }
+]

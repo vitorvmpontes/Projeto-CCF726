@@ -1,0 +1,51 @@
+[
+ {
+  "nome": "CREDENCIAMENTO E RECEPÇÃO DOS PARTICIPANTES",
+  "lugar": null,
+  "dataInicio": "2027-08-18T08:00:00-03:00",
+  "dataFim": "2027-08-18T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PALESTRA DE ABERTURA",
+  "lugar": null,
+  "dataInicio": "2027-08-18T09:15:00-03:00",
+  "dataFim": "2027-08-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PAINEL DE DISCUSSÃO",
+  "lugar": null,
+  "dataInicio": "2027-08-18T11:00:00-03:00",
+  "dataFim": "2027-08-18T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "PITCH DE STARTUPS",
+  "lugar": null,
+  "dataInicio": "2027-08-18T14:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "DEMONSTRAÇÃO PRÁTICA DE CAMPO",
+  "lugar": null,
+  "dataInicio": "2027-08-19T09:00:00-03:00",
+  "dataFim": "2027-08-19T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "RODA DE CONVERSA",
+  "lugar": null,
+  "dataInicio": "2027-08-19T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "ENCERRAMENTO E PREMIAÇÃO",
+  "lugar": null,
+  "dataInicio": "2027-08-19T17:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "nome": "MISSA SOLENE DE ABERTURA",
+  "lugar": "NAVE PRINCIPAL",
+  "dataInicio": "2025-05-16T18:00:00-03:00",
+  "dataFim": "2025-05-16T19:30:00-03:00",
+  "descricao": "<p>Celebração eucarística presidida por Dom <b>Manoel Dantas Ribeiro</b>, com participação do coral comunitário Vozes de Esperança.</p>"
+ },
+ {
+  "nome": "PAINEL DE ACOLHIDA",
+  "lugar": "SALÃO NOBRE DOM JOSÉ",
+  "dataInicio": "2025-05-16T20:00:00-03:00",
+  "dataFim": "2025-05-16T21:30:00-03:00",
+  "descricao": "<p>Coordenação: <b>Irmã Letícia Cavalcanti</b>.</p><p>Palestra inaugural <i>Fraternidade, Vulnerabilidade e Redes de Solidariedade no Litoral Paraibano</i> proferida pelo Prof. Dr. <b>Severino dos Ramos Bezerra</b> e pela assistente social <b>Maria Clara Gusmão</b>.</p>"
+ },
+ {
+  "nome": "OFICINA 1",
+  "lugar": "SALA DE REUNIÕES SANTO ANTÔNIO",
+  "dataInicio": "2025-05-17T08:30:00-03:00",
+  "dataFim": "2025-05-17T11:30:00-03:00",
+  "descricao": "<p>Oficina prática intitulada <i>Captação de Recursos e Gestão Financeira para Projetos Paroquiais</i>, ministrada pelo administrador <b>Fábio Henrique Mendonça</b> e coordenada por <b>Gilberto Sampaio</b>.</p>"
+ },
+ {
+  "nome": "OFICINA 2",
+  "lugar": "SALA NAZARÉ",
+  "dataInicio": "2025-05-17T08:30:00-03:00",
+  "dataFim": "2025-05-17T11:30:00-03:00",
+  "descricao": "<p>Capacitação sobre <i>Mediação de Conflitos e Escuta Ativa nas Pastorais da Família</i>, orientada pela psicóloga <b>Regina Coeli Arruda</b> com facilitação do Diácono <b>Marcos André Toledo</b>.</p>"
+ },
+ {
+  "nome": "ALMOÇO COMUNITÁRIO",
+  "lugar": "PÁTIO SÃO VICENTE",
+  "dataInicio": "2025-05-17T12:00:00-03:00",
+  "dataFim": "2025-05-17T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SESSÃO DE PARTILHA DE EXPERIÊNCIAS SOCIAIS",
+  "lugar": "AUDITÓRIO ESPERANÇA",
+  "dataInicio": "2025-05-17T14:00:00-03:00",
+  "dataFim": "2025-05-17T17:30:00-03:00",
+  "descricao": "<p>Coordenação geral: <b>Tereza Cristina Falcão</b>.</p><p>Trabalhos apresentados:</p><p>1. <i>Hortas Comunitárias e Sustentabilidade nas Periferias de João Pessoa</i>, por <b>João Paulo Guimarães</b> e <b>Luciana Esteves</b>.</p><p>2. <i>Alfabetização de Jovens e Adultos na Paróquia Cristo Redentor</i>, relatado por <b>Antônio Carlos Vilar</b>.</p><p>3. <i>Acolhimento e Reinserção Social de Pessoas em Situação de Rua no Bairro de Tambiá</i>, exposto por <b>Ednaldo Pires Pontes</b> e <b>Francisca Soares Leite</b>.</p>"
+ },
+ {
+  "nome": "VIGÍLIA DE LOUVOR E CLAMOR",
+  "lugar": "CAPELA DO SANTÍSSIMO",
+  "dataInicio": "2025-05-17T19:00:00-03:00",
+  "dataFim": "2025-05-17T21:00:00-03:00",
+  "descricao": "<p>Momento oracional e contemplativo conduzido pelo Padre <b>Tiago Meireles</b> e a missionária <b>Rosângela Medeiros</b>.</p>"
+ },
+ {
+  "nome": "MESA TEMÁTICA",
+  "lugar": "AUDITÓRIO ESPERANÇA",
+  "dataInicio": "2025-05-18T09:00:00-03:00",
+  "dataFim": "2025-05-18T11:00:00-03:00",
+  "descricao": "<p>Coordenador de mesa: <b>Vicente de Paula Nogueira</b>.</p><p>Debate sobre <i>Políticas Públicas e Participação Social: O Papel das Comunidades de Fé</i>, com as exposições de <b>Cláudia Regina Batista</b> (Conselho Municipal de Assistência Social) e do sociólogo <b>Everaldo da Silva Costa</b>, apresentando o estudo <i>Mapeamento das Redes Pastorais na Zona da Mata Paraibana</i>.</p>"
+ },
+ {
+  "nome": "CELEBRAÇÃO ECUMÊNICA DE ENVIO E BÊNÇÃO FINAL",
+  "lugar": "NAVE PRINCIPAL",
+  "dataInicio": "2025-05-18T11:30:00-03:00",
+  "dataFim": "2025-05-18T13:00:00-03:00",
+  "descricao": "<p>Culto festivo conjunto liderado pelo Pastor <b>Elias Figueiredo</b> e pela Pastora <b>Noêmia Trindade</b>, com mensagem de encerramento proferida pelo Bispo Diocesano <b>Manoel Dantas Ribeiro</b>.</p>"
+ }
+]

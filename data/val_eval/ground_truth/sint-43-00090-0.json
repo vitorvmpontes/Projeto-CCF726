@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "ABERTURA DA FEIRA",
+  "lugar": null,
+  "dataInicio": "2026-07-18T09:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "AULA-SHOW: FRANGO COM ORA-PRO-NÓBIS",
+  "lugar": null,
+  "dataInicio": "2026-07-18T11:00:00-03:00",
+  "dataFim": "2026-07-18T12:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "DEGUSTAÇÃO DE CAFÉS DA ZONA DA MATA",
+  "lugar": null,
+  "dataInicio": "2026-07-18T14:00:00-03:00",
+  "dataFim": "2026-07-18T15:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "AULA-SHOW: FRANGO COM ORA-PRO-NÓBIS",
+  "lugar": null,
+  "dataInicio": "2026-07-18T16:00:00-03:00",
+  "dataFim": "2026-07-18T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "DEGUSTAÇÃO DE CAFÉS DA ZONA DA MATA",
+  "lugar": null,
+  "dataInicio": "2026-07-18T17:30:00-03:00",
+  "dataFim": "2026-07-18T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "SERESTA NA PRAÇA",
+  "lugar": null,
+  "dataInicio": "2026-07-18T20:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

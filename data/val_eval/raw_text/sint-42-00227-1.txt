@@ -1,0 +1,144 @@
+Amazonas Game Jam & Code Marathon 2027
+Programação
+
+16 • Abril
+Horário
+Atividade
+Local
+08h00 – 09h30
+Check-in e Entrega de Kits
+Hall Principal
+Recepção dos participantes e validação das equipes credenciadas.
+09h30 – 10h30
+Cerimônia de Abertura e Revelação do Tema
+Auditório Rio Negro
+Apresentação das diretrizes com Thiago Frota e anúncio surpresa do tema unificado.
+10h45 – 12h00
+Oficina Prática 1
+Laboratório Cupuaçu
+Oficina de Shaders e Renderização Procedural em Godot 4 com o instrutor Marcos Vinícius Siqueira.
+Apoio:
+10h45 – 11h45
+Palestra Técnica 1
+Auditório Rio Negro
+Apresentação de Desenvolvimento sustentável de motores gráficos de alta fidelidade e baixo consumo energético em sistemas embarcados e dispositivos computacionais móveis conduzida por Dra. Juliana Guimarães.
+12h00 – 13h30
+Almoço Livre
+12h00
+Início da Prototipação
+Arena Dev
+Início oficial da contagem regressiva para desenvolvimento dos projetos da maratona e da game jam.
+Realização:
+14h00 – 16h00
+Plantão de Mentoria
+Espaço Colaborativo
+Suporte em arquitetura de software e game design com Camila Brito e Carlos Eduardo Viana.
+Siga @agjcm nas redes sociais
+14h30 – 16h00
+Oficina Prática 2
+Laboratório Cupuaçu
+Workshop sobre Pipelines de Áudio Adaptativo Utilizando FMOD e Bancos de Sons Regionais conduzido por Larissa Paiva.
+16h30 – 17h15
+Lanche da Tarde
+Mezanino
+Vagas limitadas!
+17h30 – 18h45
+Painel Temático
+Auditório Rio Negro
+Debate sobre Mercado de Jogos Independentes no Norte do Brasil: Desafios e Oportunidades mediado por Ewerton Vasconcelos com os debatedores Beatriz Mendonça e Rodrigo Assis.
+Organização:
+19h00 – 20h30
+Checkpoint de Validação
+Arena Dev
+Verificação de escopo e alinhamento dos protótipos com a banca preliminar.
+22h00
+Corujão Dev
+Arena Dev
+Espaço aberto para programação contínua na madrugada sob monitoria de suporte técnico.
+#agjcm2027
+
+17 • Abril
+Horário
+Atividade
+Local
+07h30 – 08h30
+Café da Manhã dos Hackers
+Mezanino
+09h00 – 11h00
+Minicurso Especial
+Laboratório Cupuaçu
+Instrução de Inteligência Artificial Não Jogável: Da Teoria dos Grafos às Redes Neurais Rápidas com Patrícia Nogueira.
+Programação sujeita a alterações
+09h00 – 10h15
+Palestra Técnica 2
+Auditório Rio Negro
+Palestra intitulada Otimização de rotinas assíncronas e gerência eficiente de memória com Rust em infraestruturas distribuídas para jogos massivos ministrada por Fernando Albuquerque.
+10h30 – 12h00
+Plantão de Mentoria
+Arena Dev
+Sessão de mentoria com ênfase em usabilidade e performance conduzida por Carlos Eduardo Viana e Aline Fonseca.
+12h00 – 13h30
+Almoço dos Times
+14h00 – 15h15
+Palestra Técnica 3
+Auditório Rio Solimões
+Apresentação da palestra Metodologias ágeis aplicadas ao desenvolvimento contínuo de artefatos digitais interativos sob forte restrição temporal e orçamentária conduzida por Mariana Xerez.
+#agjcm2027
+14h00 – 16h30
+Playtest Guiado
+Lounge Gamer
+Testes cruzados de mecânica entre as equipes participantes supervisionados por Lucas Medeiros.
+16h30 – 17h00
+Pausa para Ginástica Laboral
+Área Externa
+Atividade ergonômica e relaxamento com o fisioterapeuta Danilo Queiroz.
+18h00 – 20h00
+Plantão de Mentoria
+Espaço Colaborativo
+Revisão de pitching e preparação dos builds com Thiago Frota e Camila Brito.
+21h30
+Ceia Noturna
+Mezanino
+
+18 • Abril
+Horário
+Atividade
+Local
+00h00
+Sprint Final de Código
+Arena Dev
+Horário reservado para congelamento de escopo e finalização de bugs.
+www.agjcm.com.br
+07h30 – 08h30
+Café da Manhã Final
+Mezanino
+10h00
+Encerramento das Submissões
+Arena Dev
+Bloqueio do repositório oficial e entrega de links de executáveis.
+10h30 – 13h00
+Avaliação da Banca Examinadora
+Sala de Reuniões Rio Madeira
+Avaliação técnica das submissões pelos jurados convidados Valéria Amazonas, Roberto Seixas e Dra. Juliana Guimarães.
+10h30 – 13h00
+Mostra Pública de Jogos
+Hall Principal
+Estandes com os projetos abertos à comunidade e visitantes externos para avaliação popular.
+Apoio:
+13h00 – 14h30
+Almoço de Confraternização
+Pátio Central
+Certificado de participação
+14h30 – 16h30
+Apresentação dos Finalistas
+Auditório Rio Negro
+Apresentação curta em formato pitch das 10 melhores soluções da maratona e jogos da jam com mediação de Thiago Frota.
+Apoio:
+17h00 – 18h30
+Cerimônia de Premiação e Encerramento
+Auditório Rio Negro
+Divulgação dos vencedores de cada categoria e entrega dos troféus pelos organizadores Thiago Frota e Valéria Amazonas.
+Programação sujeita a alterações
+
+Apoio:
+@agjcm

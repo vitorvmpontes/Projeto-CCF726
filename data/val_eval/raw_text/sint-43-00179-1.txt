@@ -1,0 +1,10 @@
+Programação - Workshop Paraibano de Inteligência Artificial 2023
+Edição 2023
+
+18 de agosto
+Horário | Atividade
+8h - 10h | Minicurso de PyTorch
+10h - 10h20 | Intervalo
+10h20 - 12h | Minicurso de LLMs com Hugging Face
+12h - 13h30 | Almoço
+14h - 15h | Palestra: IA na Saúde Pública

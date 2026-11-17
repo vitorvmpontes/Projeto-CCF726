@@ -1,0 +1,34 @@
+I Workshop Mato-Grossense de Inteligência Artificial Aplicada
+Programação 2024
+
+SÁBADO - 18/05/24
+das 08:00 às 08:30
+RECEPÇÃO E ENTREGA DE CRACHÁS
+das 08:30 às 09:00
+SESSÃO DE ABERTURA INSTITUCIONAL
+Abertura oficial com a presença do coordenador geral Carlos Henrique Rondon e representantes da comunidade acadêmica regional.
+das 09:00 às 10:00
+PALESTRA DE ABERTURA
+Apresentação intitulada O avanço e impacto dos modelos generativos multimodais na transformação digital de cadeias produtivas no agronegócio moderno, conduzida pela pesquisadora Mariana Siqueira Luz.
+das 10:00 às 10:30
+PAUSA PARA NETWORKING E CAFÉ
+das 10:30 às 12:30
+MINICURSO 1
+Tema: Visão Computacional voltada ao monitoramento e identificação precoce de pragas agrícolas em lavouras de soja, ministrado pelo prof. Danilo Albuquerque Viana.
+das 10:30 às 12:30
+MINICURSO 2
+Tema: Ajuste fino de grandes modelos de linguagem em infraestrutura local para segurança e privacidade de dados corporativos, conduzido por Juliana Prado Esteves.
+das 12:30 às 14:00
+ALMOÇO LIVRE
+das 14:00 às 16:30
+MINICURSO 3
+Tema: Técnicas de aprendizado por reforço profundo aplicadas ao gerenciamento autônomo de frotas agrícolas, com o engenheiro Thiago Godoy Mendes.
+14:00
+MINICURSO 4
+Tema: Construção de pipelines de dados em tempo real com processamento escalável para inteligência artificial, orientado por Renata Barreto Fontes.
+das 17:00 às 18:30
+PAINEL DE DISCUSSÃO
+Debate sobre Desafios éticos, regulação e soberania tecnológica no ecossistema de dados da região Centro-Oeste brasileira, mediado por Vanessa Mattos Pinheiro, com a participação de Luciano Silveira Maia e Edivaldo Campos Corrêa.
+18:30
+ENCERRAMENTO E SORTEIO DE BRINDES
+Palavras finais da comissão e sorteio de acessos a cursos online com Carlos Henrique Rondon.

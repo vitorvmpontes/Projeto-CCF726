@@ -1,0 +1,54 @@
+Programação - XXIV Congresso Brasileiro de Ciência da Computação e Engenharia de Software
+Edição 2026
+
+Quarta-feira (14/10/2026)
+Horário
+Atividade
+Local
+09:00 às 10:30
+Cerimônia de Abertura
+Auditório Principal
+Sessão solene de abertura com a coordenção-geral de Prof. Dr. Marcelo Vasc'oncelos e participação especial da presidente da sociedade científica Profa. Dra. Helena Siqueira.
+Vagas lmitadas*!
+Sessões Técnicas
+14:00 às 16:00
+Sessão Técnica 1A:
+Inteligência Artificial e
+Aprendizado de Máquina
+Sala Joaquina
+Coordenação de Dr. Rodrigo Albuquerque. Apresentaçã0 dos artigos: Redes Neurais Convolucionais Aplicadas à Detecção de Falhas E'struturais por Camila Duarte e Otimização Heurística em Grafos* Dinâmicos por Fe|lipe Dornelles.
+14:00 às 16:00
+Sessão Técnica 1B:
+Engenharia de Requisitos e
+Métodos Ágeis
+Sala Campeche
+Coordenação de Profa. Tatana Mneses|. Apresentação dos artigos: Impacto da Integração Contínua na Qualidade de Código porLucas Medeiros e Mapeameno de Histórias de Usuário com Métodos Participativos por Renata P|ires.
+
+Quinta-feira (15/10/2026)
+Horário
+Atividade
+Local
+10:00 às 12:00
+Painel de Debates
+Auditório Principal
+Tema: Ética e Governança n o Uso de Modelos de Linguagem de Grande Porte. Debatedores convidados: Dra. Ju1iana Prado, Prof. Fernando Bastos e mediação conduzida por Dr. André Silveira.
+15:30 às 17:30
+Sessão de Pôsteres
+Foyer Central
+Exibição e arguição de trabalhos de iniciação científica e pós-graduação, avaliados pelo comitê técnico liderado por Profa. Beatriz Noguera.
+
+Sexta-feira (16/10/2026)
+Horário
+Atividade
+Local
+10:30 às 12:00
+Palestra Convidada Internacional
+Auditório Principal
+Palestra intitulada Next-Generation Cloud Architectures and Resilience mi*nistrada pelo pesquisador convidado Dr. Keith Morrison com apresentação de Prof. Gabriel Font*es.
+16:30 às 18:00
+Sessão de Premiação e Encerramento
+Auditório Principal
+Entrega dos prêmios de melhores artigos e anúncio da sede da próxima edição porProf. Dr. Marcelo Vasconcelos.
+
+Realização:
+@xcbcces

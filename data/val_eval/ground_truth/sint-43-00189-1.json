@@ -1,0 +1,44 @@
+[
+ {
+  "nome": "Boas-Vindas",
+  "lugar": null,
+  "dataInicio": "2024-03-04T08:00:00-03:00",
+  "dataFim": "2024-03-04T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação do Curso",
+  "lugar": null,
+  "dataInicio": "2024-03-04T08:30:00-03:00",
+  "dataFim": "2024-03-04T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Tour pelo Campus",
+  "lugar": null,
+  "dataInicio": "2024-03-04T09:30:00-03:00",
+  "dataFim": "2024-03-04T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Gincana de Integração",
+  "lugar": null,
+  "dataInicio": "2024-03-04T14:00:00-03:00",
+  "dataFim": "2024-03-04T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Trote Solidário",
+  "lugar": null,
+  "dataInicio": "2024-03-04T16:00:00-03:00",
+  "dataFim": "2024-03-04T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Luau dos Calouros",
+  "lugar": null,
+  "dataInicio": "2024-03-04T19:00:00-03:00",
+  "dataFim": "2024-03-04T22:00:00-03:00",
+  "descricao": null
+ }
+]

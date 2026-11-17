@@ -1,0 +1,72 @@
+[
+ {
+  "nome": "CERIMÔNIA DE ABERTURA",
+  "lugar": "PALCO PRINCIPAL",
+  "dataInicio": "2024-05-16T09:00:00-03:00",
+  "dataFim": "2024-05-16T10:00:00-03:00",
+  "descricao": "<p>Abertura oficial com a presença do diretor-superintendente do Sebrae RS, <b>André Vanoni de Godoy</b>, e autoridades locais.</p>"
+ },
+ {
+  "nome": "PALESTRA MAGNA",
+  "lugar": "PALCO PRINCIPAL",
+  "dataInicio": "2024-05-16T10:30:00-03:00",
+  "dataFim": "2024-05-16T12:00:00-03:00",
+  "descricao": "<p>Apresentação de <b>Mariana Vasconcelos</b> abordando <i>Estratégias Disruptivas para Alavancar Pequenos Negócios em Mercados Altamente Competitivos e Cenários Econômicos Desafiadores</i>.</p>"
+ },
+ {
+  "nome": "OFICINA PRÁTICA 1",
+  "lugar": "ESPAÇO CONEXÕES - SALA B",
+  "dataInicio": "2024-05-16T14:30:00-03:00",
+  "dataFim": "2024-05-16T16:30:00-03:00",
+  "descricao": "<p>Facilitada por <b>Rodrigo Cintra</b>, a atividade desenvolve <i>Como Implementar Modelos Sustentáveis de Gestão Financeira Aplicados Diretamente à Rotina Operacional de Microempresas Urbanas</i>.</p>"
+ },
+ {
+  "nome": "SESSÃO DE NETWORKING E NEGÓCIOS",
+  "lugar": "ARENA SEBRAE DELAS",
+  "dataInicio": "2024-05-16T17:00:00-03:00",
+  "dataFim": "2024-05-16T18:30:00-03:00",
+  "descricao": "<p>Encontro promovido por <b>Carla Silveira</b> com dinâmicas voltadas para parcerias B2B.</p>"
+ },
+ {
+  "nome": "PAINEL TEMÁTICO",
+  "lugar": "AUDITÓRIO INOVAÇÃO",
+  "dataInicio": "2024-05-17T10:00:00-03:00",
+  "dataFim": "2024-05-17T11:30:00-03:00",
+  "descricao": "<p>Debate sobre tendências de mercado mediado por <b>Patrícia Ramos</b> com participação de <b>Lucas Mendes</b>.</p>"
+ },
+ {
+  "nome": "OFICINA PRÁTICA 2",
+  "lugar": "ESPAÇO CONEXÕES - SALA A",
+  "dataInicio": "2024-05-17T14:00:00-03:00",
+  "dataFim": "2024-05-17T16:00:00-03:00",
+  "descricao": "<p>Conduzida por <b>Juliana Bezerra</b> com o tema <i>Técnicas de Marketing Digital e Conversão Omnichannel Essenciais para Construir Presença de Marca Relevante nas Redes</i>.</p>"
+ },
+ {
+  "nome": "PITCH DE STARTUPS",
+  "lugar": "ARENA SEBRAE DELAS",
+  "dataInicio": "2024-05-17T16:30:00-03:00",
+  "dataFim": "2024-05-17T18:00:00-03:00",
+  "descricao": "<p>Apresentação rápida de soluções inovadoras para investidores-anjo, com curadoria de <b>Felipe Dornelles</b>.</p>"
+ },
+ {
+  "nome": "PALESTRA SETORIAL",
+  "lugar": "AUDITÓRIO INOVAÇÃO",
+  "dataInicio": "2024-05-18T10:30:00-03:00",
+  "dataFim": "2024-05-18T12:00:00-03:00",
+  "descricao": "<p>Apresentada por <b>Guilherme Dorneles</b> focando no varejo físico e eletrônico.</p>"
+ },
+ {
+  "nome": "CONSULTORIA COLETIVA",
+  "lugar": "ESPAÇO CONEXÕES - SALA B",
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": "2024-05-18T15:30:00-03:00",
+  "descricao": "<p>Orientação tira-dúvidas de regularização fiscal e MEI com a consultora <b>Bruna Fagundes</b>.</p>"
+ },
+ {
+  "nome": "SHOWCASE DE ENCERRAMENTO",
+  "lugar": "PALCO PRINCIPAL",
+  "dataInicio": "2024-05-18T16:30:00-03:00",
+  "dataFim": "2024-05-18T18:00:00-03:00",
+  "descricao": null
+ }
+]

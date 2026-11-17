@@ -1,0 +1,79 @@
+[
+ {
+  "nome": "Recepção e Entrega de Crachás",
+  "lugar": "Hall Central",
+  "dataInicio": "2024-05-18T08:00:00-03:00",
+  "dataFim": "2024-05-18T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Abertura Institucional",
+  "lugar": "Auditório Bororo",
+  "dataInicio": "2024-05-18T08:30:00-03:00",
+  "dataFim": "2024-05-18T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra de Abertura",
+  "lugar": "Auditório Bororo",
+  "dataInicio": "2024-05-18T09:00:00-03:00",
+  "dataFim": "2024-05-18T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Networking e Café",
+  "lugar": "Foyer das Águas",
+  "dataInicio": "2024-05-18T10:00:00-03:00",
+  "dataFim": "2024-05-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": "Laboratório de Informática A",
+  "dataInicio": "2024-05-18T10:30:00-03:00",
+  "dataFim": "2024-05-18T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 2",
+  "lugar": "Laboratório de Informática B",
+  "dataInicio": "2024-05-18T10:30:00-03:00",
+  "dataFim": "2024-05-18T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço Livre",
+  "lugar": null,
+  "dataInicio": "2024-05-18T12:30:00-03:00",
+  "dataFim": "2024-05-18T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 3",
+  "lugar": "Laboratório de Informática A",
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": "2024-05-18T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 4",
+  "lugar": "Laboratório de Informática B",
+  "dataInicio": "2024-05-18T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Discussão",
+  "lugar": "Auditório Bororo",
+  "dataInicio": "2024-05-18T17:00:00-03:00",
+  "dataFim": "2024-05-18T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Encerramento e Sorteio de Brindes",
+  "lugar": "Auditório Bororo",
+  "dataInicio": "2024-05-18T18:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

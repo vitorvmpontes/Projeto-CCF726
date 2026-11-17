@@ -1,0 +1,65 @@
+[
+ {
+  "nome": "Acolhida e Credenciamento Comunitário",
+  "lugar": null,
+  "dataInicio": "2027-05-20T17:00:00-03:00",
+  "dataFim": "2027-05-20T19:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Celebração Eucarística de Abertura",
+  "lugar": null,
+  "dataInicio": "2027-05-20T19:30:00-03:00",
+  "dataFim": "2027-05-20T21:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Formativa 1",
+  "lugar": null,
+  "dataInicio": "2027-05-21T09:00:00-03:00",
+  "dataFim": "2027-05-21T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço Fraterno",
+  "lugar": null,
+  "dataInicio": "2027-05-21T12:00:00-03:00",
+  "dataFim": "2027-05-21T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Formativa 2",
+  "lugar": null,
+  "dataInicio": "2027-05-21T14:30:00-03:00",
+  "dataFim": "2027-05-21T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Chá com Partilha",
+  "lugar": null,
+  "dataInicio": "2027-05-21T17:00:00-03:00",
+  "dataFim": "2027-05-21T17:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Vigília de Louvor e Testemunhos",
+  "lugar": null,
+  "dataInicio": "2027-05-22T19:00:00-03:00",
+  "dataFim": "2027-05-22T21:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa Temática de Encerramento",
+  "lugar": null,
+  "dataInicio": "2027-05-23T09:30:00-03:00",
+  "dataFim": "2027-05-23T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Bênção de Envio",
+  "lugar": null,
+  "dataInicio": "2027-05-23T11:45:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

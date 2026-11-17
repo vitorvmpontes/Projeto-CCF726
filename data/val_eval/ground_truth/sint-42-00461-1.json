@@ -1,0 +1,128 @@
+[
+ {
+  "nome": "Recepção e Entrega de Crachás",
+  "lugar": null,
+  "dataInicio": "2027-04-15T08:00:00-03:00",
+  "dataFim": "2027-04-15T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Abertura",
+  "lugar": null,
+  "dataInicio": "2027-04-15T09:00:00-03:00",
+  "dataFim": "2027-04-15T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra",
+  "lugar": null,
+  "dataInicio": "2027-04-15T09:30:00-03:00",
+  "dataFim": "2027-04-15T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": null,
+  "dataInicio": "2027-04-15T10:45:00-03:00",
+  "dataFim": "2027-04-15T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": null,
+  "dataInicio": "2027-04-15T11:15:00-03:00",
+  "dataFim": "2027-04-15T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 2",
+  "lugar": null,
+  "dataInicio": "2027-04-15T11:15:00-03:00",
+  "dataFim": "2027-04-15T12:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2027-04-15T12:45:00-03:00",
+  "dataFim": "2027-04-15T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Técnica",
+  "lugar": null,
+  "dataInicio": "2027-04-15T14:00:00-03:00",
+  "dataFim": "2027-04-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Prática Hands-on",
+  "lugar": null,
+  "dataInicio": "2027-04-15T14:00:00-03:00",
+  "dataFim": "2027-04-15T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": null,
+  "dataInicio": "2027-04-15T16:15:00-03:00",
+  "dataFim": "2027-04-15T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra",
+  "lugar": null,
+  "dataInicio": "2027-04-16T08:30:00-03:00",
+  "dataFim": "2027-04-16T09:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": null,
+  "dataInicio": "2027-04-16T09:45:00-03:00",
+  "dataFim": "2027-04-16T10:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 3",
+  "lugar": null,
+  "dataInicio": "2027-04-16T10:15:00-03:00",
+  "dataFim": "2027-04-16T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 4",
+  "lugar": null,
+  "dataInicio": "2027-04-16T10:15:00-03:00",
+  "dataFim": "2027-04-16T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2027-04-16T12:30:00-03:00",
+  "dataFim": "2027-04-16T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra",
+  "lugar": null,
+  "dataInicio": "2027-04-16T14:00:00-03:00",
+  "dataFim": "2027-04-16T15:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Prática Hands-on",
+  "lugar": null,
+  "dataInicio": "2027-04-16T14:00:00-03:00",
+  "dataFim": "2027-04-16T15:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Encerramento e Premiação de Ideias",
+  "lugar": null,
+  "dataInicio": "2027-04-16T16:00:00-03:00",
+  "dataFim": "2027-04-16T17:30:00-03:00",
+  "descricao": null
+ }
+]

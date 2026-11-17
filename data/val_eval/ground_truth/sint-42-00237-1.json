@@ -1,0 +1,128 @@
+[
+ {
+  "nome": "Check-in e Boas-Vindas",
+  "lugar": null,
+  "dataInicio": "2024-10-19T08:00:00-03:00",
+  "dataFim": "2024-10-19T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Abertura e Revelação do Tema",
+  "lugar": null,
+  "dataInicio": "2024-10-19T09:00:00-03:00",
+  "dataFim": "2024-10-19T09:40:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Técnica 1",
+  "lugar": null,
+  "dataInicio": "2024-10-19T09:45:00-03:00",
+  "dataFim": "2024-10-19T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Técnica 2",
+  "lugar": null,
+  "dataInicio": "2024-10-19T09:45:00-03:00",
+  "dataFim": "2024-10-19T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Início da Maratona de Desenvolvimento",
+  "lugar": null,
+  "dataInicio": "2024-10-19T11:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Almoço Livre",
+  "lugar": null,
+  "dataInicio": "2024-10-19T12:30:00-03:00",
+  "dataFim": "2024-10-19T13:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Ronda de Mentoria 1",
+  "lugar": null,
+  "dataInicio": "2024-10-19T14:30:00-03:00",
+  "dataFim": "2024-10-19T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mostra de Estudos de Caso Independentes",
+  "lugar": null,
+  "dataInicio": "2024-10-19T17:00:00-03:00",
+  "dataFim": "2024-10-19T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Lanche da Tarde",
+  "lugar": null,
+  "dataInicio": "2024-10-19T18:30:00-03:00",
+  "dataFim": "2024-10-19T19:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Ronda de Mentoria 2",
+  "lugar": null,
+  "dataInicio": "2024-10-19T21:00:00-03:00",
+  "dataFim": "2024-10-19T23:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Ceia da Madrugada",
+  "lugar": null,
+  "dataInicio": "2024-10-20T00:30:00-03:00",
+  "dataFim": "2024-10-20T01:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Café da Manhã dos Hackers",
+  "lugar": null,
+  "dataInicio": "2024-10-20T07:30:00-03:00",
+  "dataFim": "2024-10-20T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Check de Build e Playtest Cruzado",
+  "lugar": null,
+  "dataInicio": "2024-10-20T09:30:00-03:00",
+  "dataFim": "2024-10-20T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Fim do Prazo de Submissão",
+  "lugar": null,
+  "dataInicio": "2024-10-20T13:00:00-03:00",
+  "dataFim": "2024-10-20T13:10:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Demonstração e Feira de Protótipos",
+  "lugar": null,
+  "dataInicio": "2024-10-20T14:00:00-03:00",
+  "dataFim": "2024-10-20T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pitches Finais",
+  "lugar": null,
+  "dataInicio": "2024-10-20T15:30:00-03:00",
+  "dataFim": "2024-10-20T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Deliberação dos Jurados",
+  "lugar": null,
+  "dataInicio": "2024-10-20T17:30:00-03:00",
+  "dataFim": "2024-10-20T18:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Premiação e Encerramento",
+  "lugar": null,
+  "dataInicio": "2024-10-20T18:15:00-03:00",
+  "dataFim": "2024-10-20T19:30:00-03:00",
+  "descricao": null
+ }
+]

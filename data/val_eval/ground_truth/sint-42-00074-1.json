@@ -1,0 +1,121 @@
+[
+ {
+  "nome": "Acolhida e Café Fraterno",
+  "lugar": null,
+  "dataInicio": "2025-05-17T07:30:00-03:00",
+  "dataFim": "2025-05-17T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Missa de Abertura",
+  "lugar": null,
+  "dataInicio": "2025-05-17T08:30:00-03:00",
+  "dataFim": "2025-05-17T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Círculo Bíblico",
+  "lugar": null,
+  "dataInicio": "2025-05-17T10:15:00-03:00",
+  "dataFim": "2025-05-17T11:15:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Conferência de Abertura",
+  "lugar": null,
+  "dataInicio": "2025-05-17T11:15:00-03:00",
+  "dataFim": "2025-05-17T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço Solidário",
+  "lugar": null,
+  "dataInicio": "2025-05-17T12:30:00-03:00",
+  "dataFim": "2025-05-17T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 1",
+  "lugar": null,
+  "dataInicio": "2025-05-17T14:00:00-03:00",
+  "dataFim": "2025-05-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 2",
+  "lugar": null,
+  "dataInicio": "2025-05-17T14:00:00-03:00",
+  "dataFim": "2025-05-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina 3",
+  "lugar": null,
+  "dataInicio": "2025-05-17T14:00:00-03:00",
+  "dataFim": "2025-05-17T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Lanche Comunitário",
+  "lugar": null,
+  "dataInicio": "2025-05-17T16:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Vigília Jovem",
+  "lugar": null,
+  "dataInicio": "2025-05-17T19:30:00-03:00",
+  "dataFim": "2025-05-17T21:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Círculo Bíblico",
+  "lugar": null,
+  "dataInicio": "2025-05-18T08:00:00-03:00",
+  "dataFim": "2025-05-18T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Temática",
+  "lugar": null,
+  "dataInicio": "2025-05-18T09:15:00-03:00",
+  "dataFim": "2025-05-18T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa de Experiências Comunitárias",
+  "lugar": null,
+  "dataInicio": "2025-05-18T11:00:00-03:00",
+  "dataFim": "2025-05-18T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço Fraterno",
+  "lugar": null,
+  "dataInicio": "2025-05-18T12:30:00-03:00",
+  "dataFim": "2025-05-18T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mutirão Ecológico",
+  "lugar": null,
+  "dataInicio": "2025-05-18T14:00:00-03:00",
+  "dataFim": "2025-05-18T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Partilha dos Frutos",
+  "lugar": null,
+  "dataInicio": "2025-05-18T16:30:00-03:00",
+  "dataFim": "2025-05-18T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Missa de Encerramento",
+  "lugar": null,
+  "dataInicio": "2025-05-18T18:00:00-03:00",
+  "dataFim": "2025-05-18T19:45:00-03:00",
+  "descricao": null
+ }
+]

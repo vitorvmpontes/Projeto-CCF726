@@ -1,0 +1,49 @@
+I WORKSHOP BRASILIENSE DE INTELIGÊNCIA ARTIFICIAL E APLICAÇÕES PRÁTICAS (WBIA 2027)
+Centro de Convenções Ulysses Guimarães, Brasília - DF
+PROGRAMAÇÃO
+
+QUARTA-FEIRA - 19/05/27
+Horário	Atividade	Local
+08:00 – 09:00	Credenciamento e Entrega de Kits	Foyer Principal
+09:00 – 09:30	Sessão de Abertura	Auditório Master
+09:30 – 10:30	Palestra Plenária	Auditório Master
+10:30 – 11:00	Pausa para Café	Área de Convivência
+MINICURSOS TEÓRICO-PRÁTICOS
+11:00 – 12:30	Minicurso 1	Laboratório de Informática A
+11:00 – 12:30	Minicurso 2	Laboratório de Informática B
+11:00 – 12:30	Minicurso 3	Sala 102
+12:30 – 14:00	Intervalo de Almoço
+Apresentação de Trabalhos Científicos
+14:00 – 16:00	Sessão Técnica 1	Auditório Master
+16:00 – 16:30	Pausa para Café	Área de Convivência
+16:30 – 18:00	Painel de Debates	Auditório Master
+
+QUINTA-FEIRA - 20/05/27
+Horário	Atividade	Local
+08:30 – 09:30	Palestra Convidada	Auditório Master
+Minicursos Teórico-Práticos
+09:30 – 11:00	Minicurso 1	Laboratório de Informática A
+09:30 – 11:00	Minicurso 2	Laboratório de Informática B
+09:30 – 11:00	Minicurso 3	Sala 102
+11:00 – 11:30	Pausa para Café	Área de Convivência
+Apresentação de Trabalhos Científicos
+11:30 – 13:00	Sessão Técnica 2	Auditório Master
+13:00 – 14:30	Intervalo de Almoço
+Minicursos Teórico-Práticos
+14:30 – 16:30	Minicurso 4	Laboratório de Informática A
+14:30 – 16:30	Minicurso 5	Laboratório de Informática B
+16:30 – 17:00	Pausa para Café	Área de Convivência
+17:00 – 18:30	Sessão de Pôsteres	Hall de Exposições
+
+SEXTA-FEIRA - 21/05/27
+Horário	Atividade	Local
+09:00 – 10:30	Mesa-Redonda	Auditório Master
+10:30 – 11:00	Pausa para Café	Área de Convivência
+MINICURSOS TEÓRICO-PRÁTICOS
+11:00 – 12:30	Minicurso 1	Laboratório de Informática A
+11:00 – 12:30	Minicurso 2	Laboratório de Informática B
+12:30 – 14:00	Intervalo de Almoço
+14:00 – 15:30	Demoday de Soluções de IA	Espaço Inovação
+15:30 – 16:00	Pausa para Café	Área de Convivência
+16:00 – 17:30	Cerimônia de Premiação e Encerramento	Auditório Master
+17:30	Coquetel de Encerramento	Terraço Panorâmico

@@ -1,0 +1,219 @@
+[
+ {
+  "nome": "Credenciamento e Entrega de Kits",
+  "lugar": "Foyer Principal",
+  "dataInicio": "2027-05-19T08:00:00-03:00",
+  "dataFim": "2027-05-19T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Abertura",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-19T09:00:00-03:00",
+  "dataFim": "2027-05-19T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Plenária",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-19T09:30:00-03:00",
+  "dataFim": "2027-05-19T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": "Área de Convivência",
+  "dataInicio": "2027-05-19T10:30:00-03:00",
+  "dataFim": "2027-05-19T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": "Laboratório de Informática A",
+  "dataInicio": "2027-05-19T11:00:00-03:00",
+  "dataFim": "2027-05-19T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 2",
+  "lugar": "Laboratório de Informática B",
+  "dataInicio": "2027-05-19T11:00:00-03:00",
+  "dataFim": "2027-05-19T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 3",
+  "lugar": "Sala 102",
+  "dataInicio": "2027-05-19T11:00:00-03:00",
+  "dataFim": "2027-05-19T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2027-05-19T12:30:00-03:00",
+  "dataFim": "2027-05-19T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 1",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-19T14:00:00-03:00",
+  "dataFim": "2027-05-19T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": "Área de Convivência",
+  "dataInicio": "2027-05-19T16:00:00-03:00",
+  "dataFim": "2027-05-19T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel de Debates",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-19T16:30:00-03:00",
+  "dataFim": "2027-05-19T18:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Convidada",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-20T08:30:00-03:00",
+  "dataFim": "2027-05-20T09:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": "Laboratório de Informática A",
+  "dataInicio": "2027-05-20T09:30:00-03:00",
+  "dataFim": "2027-05-20T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 2",
+  "lugar": "Laboratório de Informática B",
+  "dataInicio": "2027-05-20T09:30:00-03:00",
+  "dataFim": "2027-05-20T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 3",
+  "lugar": "Sala 102",
+  "dataInicio": "2027-05-20T09:30:00-03:00",
+  "dataFim": "2027-05-20T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": "Área de Convivência",
+  "dataInicio": "2027-05-20T11:00:00-03:00",
+  "dataFim": "2027-05-20T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 2",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-20T11:30:00-03:00",
+  "dataFim": "2027-05-20T13:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2027-05-20T13:00:00-03:00",
+  "dataFim": "2027-05-20T14:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 4",
+  "lugar": "Laboratório de Informática A",
+  "dataInicio": "2027-05-20T14:30:00-03:00",
+  "dataFim": "2027-05-20T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 5",
+  "lugar": "Laboratório de Informática B",
+  "dataInicio": "2027-05-20T14:30:00-03:00",
+  "dataFim": "2027-05-20T16:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": "Área de Convivência",
+  "dataInicio": "2027-05-20T16:30:00-03:00",
+  "dataFim": "2027-05-20T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão de Pôsteres",
+  "lugar": "Hall de Exposições",
+  "dataInicio": "2027-05-20T17:00:00-03:00",
+  "dataFim": "2027-05-20T18:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa-Redonda",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-21T09:00:00-03:00",
+  "dataFim": "2027-05-21T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": "Área de Convivência",
+  "dataInicio": "2027-05-21T10:30:00-03:00",
+  "dataFim": "2027-05-21T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 1",
+  "lugar": "Laboratório de Informática A",
+  "dataInicio": "2027-05-21T11:00:00-03:00",
+  "dataFim": "2027-05-21T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Minicurso 2",
+  "lugar": "Laboratório de Informática B",
+  "dataInicio": "2027-05-21T11:00:00-03:00",
+  "dataFim": "2027-05-21T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Intervalo de Almoço",
+  "lugar": null,
+  "dataInicio": "2027-05-21T12:30:00-03:00",
+  "dataFim": "2027-05-21T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Demoday de Soluções de IA",
+  "lugar": "Espaço Inovação",
+  "dataInicio": "2027-05-21T14:00:00-03:00",
+  "dataFim": "2027-05-21T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Pausa para Café",
+  "lugar": "Área de Convivência",
+  "dataInicio": "2027-05-21T15:30:00-03:00",
+  "dataFim": "2027-05-21T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Premiação e Encerramento",
+  "lugar": "Auditório Master",
+  "dataInicio": "2027-05-21T16:00:00-03:00",
+  "dataFim": "2027-05-21T17:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Coquetel de Encerramento",
+  "lugar": "Terraço Panorâmico",
+  "dataInicio": "2027-05-21T17:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

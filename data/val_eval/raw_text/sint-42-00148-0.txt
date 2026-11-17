@@ -1,0 +1,38 @@
+BH TECH SUMMIT & HACKATHON 2025
+Centro de Inovação e Negócios de Minas Gerais - Belo Horizonte, MG
+PROGRAMAÇÃO
+
+16 de maio
+Horário
+Atividade
+09h00 – 10h30
+Abertura Oficial e Keynote Corporativo
+Apresentação dos desafios corporativos para o hackathon e visão de futuro com Renata Silveira trazendo a palestra O Ecossistema Mineiro de Tecnologia na Era da IA.
+11h00 – 12h00
+Palestra Técnica
+Engenharia de dados e confiabilidade em sistemas distribuídos apresentada por Marcelo Guimarães com o tema Arquiteturas Resilientes para Altas Cargas Transacionais.
+13h30 – 14h30
+Kickoff do Hackathon
+Divulgação dos temas secretos, formação de equipes e instruções gerais com o coordenador Thiago Mendonça.
+15h30 – 17h30
+Mentoria Técnica
+Sessão de validação de arquitetura e tecnologia com os mentores Camila Duarte e Lucas Furtado para as equipes do desafio.
+18h00 – 19h00
+Palestra Técnica
+Abordagem sobre segurança de código e compliance em nuvem ministrada por Patrícia Albuquerque sob o título DevSecOps na Prática: blindando pipelines corporativos.
+
+17 de maio
+Horário
+Atividade
+09h30 – 11h30
+Mentoria Técnica
+Segunda rodada de suporte aos competidores com foco em UX, viabilidade de negócio e prototipação, conduzida por Juliana Nogueira e Rodrigo Vasconcelos.
+14h00 – 15h30
+Painel Tech Leaders
+Discussão com líderes de engenharia sobre tendências de contratação e novos modelos de trabalho. Participação de Gabriel Santos, Beatriz Esteves e mediação de Carlos Henrique Paiva no debate Desafios de Escala e Retenção de Talentos em Tech.
+16h00 – 18h00
+Demoday de Pitches
+Apresentação final das soluções finalistas para a banca julgadora composta por Fernanda Lins, Alexandre Castro e Sofia Meireles.
+18h30 – 19h30
+Cerimônia de Premiação e Encerramento
+Divulgação dos projetos vencedores do hackathon e entrega de troféus com os anfitriões Renata Silveira e Thiago Mendonça.

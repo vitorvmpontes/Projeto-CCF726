@@ -1,0 +1,79 @@
+[
+ {
+  "nome": "Credenciamento",
+  "lugar": null,
+  "dataInicio": "2025-10-14T08:00:00-03:00",
+  "dataFim": "2025-10-14T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Conferência de Abertura",
+  "lugar": null,
+  "dataInicio": "2025-10-14T09:00:00-03:00",
+  "dataFim": "2025-10-14T10:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Coffee Break",
+  "lugar": null,
+  "dataInicio": "2025-10-14T10:00:00-03:00",
+  "dataFim": "2025-10-14T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Oral A",
+  "lugar": null,
+  "dataInicio": "2025-10-14T10:30:00-03:00",
+  "dataFim": "2025-10-14T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço",
+  "lugar": null,
+  "dataInicio": "2025-10-14T12:30:00-03:00",
+  "dataFim": "2025-10-14T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Oral B",
+  "lugar": null,
+  "dataInicio": "2025-10-14T14:00:00-03:00",
+  "dataFim": "2025-10-14T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Oral C",
+  "lugar": null,
+  "dataInicio": "2025-10-15T08:30:00-03:00",
+  "dataFim": "2025-10-15T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Coffee Break",
+  "lugar": null,
+  "dataInicio": "2025-10-15T10:30:00-03:00",
+  "dataFim": "2025-10-15T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Oral D",
+  "lugar": null,
+  "dataInicio": "2025-10-15T11:00:00-03:00",
+  "dataFim": "2025-10-15T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Painel Transição Energética Offshore",
+  "lugar": null,
+  "dataInicio": "2025-10-15T14:00:00-03:00",
+  "dataFim": "2025-10-15T15:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Encerramento e Premiação",
+  "lugar": null,
+  "dataInicio": "2025-10-15T16:00:00-03:00",
+  "dataFim": "2025-10-15T17:00:00-03:00",
+  "descricao": null
+ }
+]

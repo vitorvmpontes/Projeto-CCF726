@@ -1,0 +1,65 @@
+[
+ {
+  "nome": "Recepção e Entrega de Materiais",
+  "lugar": null,
+  "dataInicio": "2023-05-17T08:00:00-03:00",
+  "dataFim": "2023-05-17T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra de Abertura",
+  "lugar": null,
+  "dataInicio": "2023-05-17T09:15:00-03:00",
+  "dataFim": "2023-05-17T11:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 1",
+  "lugar": null,
+  "dataInicio": "2023-05-17T14:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Temática",
+  "lugar": null,
+  "dataInicio": "2023-05-18T09:00:00-03:00",
+  "dataFim": "2023-05-18T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Prática de Compostagem Urbana",
+  "lugar": null,
+  "dataInicio": "2023-05-18T11:00:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Sessão Técnica 2",
+  "lugar": null,
+  "dataInicio": "2023-05-18T14:30:00-03:00",
+  "dataFim": "2023-05-18T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina de Geoprocessamento Ambiental",
+  "lugar": null,
+  "dataInicio": "2023-05-19T08:30:00-03:00",
+  "dataFim": "2023-05-19T11:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Mesa de Debate Intersetorial",
+  "lugar": null,
+  "dataInicio": "2023-05-19T14:00:00-03:00",
+  "dataFim": "2023-05-19T16:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Cerimônia de Encerramento e Premiação",
+  "lugar": null,
+  "dataInicio": "2023-05-19T16:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

@@ -1,0 +1,79 @@
+[
+ {
+  "nome": "Credenciamento",
+  "lugar": null,
+  "dataInicio": "2024-08-27T08:00:00-03:00",
+  "dataFim": "2024-08-27T08:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Abertura",
+  "lugar": null,
+  "dataInicio": "2024-08-27T08:30:00-03:00",
+  "dataFim": "2024-08-27T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Drenagem Urbana e Eventos Extremos",
+  "lugar": null,
+  "dataInicio": "2024-08-27T09:00:00-03:00",
+  "dataFim": "2024-08-27T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Café",
+  "lugar": null,
+  "dataInicio": "2024-08-27T10:30:00-03:00",
+  "dataFim": "2024-08-27T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina de Hortas Urbanas",
+  "lugar": "Sala 302",
+  "dataInicio": "2024-08-27T10:45:00-03:00",
+  "dataFim": "2024-08-27T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Oficina de Mapeamento de Risco",
+  "lugar": "Sala 301",
+  "dataInicio": "2024-08-27T10:45:00-03:00",
+  "dataFim": "2024-08-27T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Almoço",
+  "lugar": null,
+  "dataInicio": "2024-08-27T12:30:00-03:00",
+  "dataFim": "2024-08-27T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Apresentação de Pôsteres",
+  "lugar": "Hall Térreo",
+  "dataInicio": "2024-08-28T08:00:00-03:00",
+  "dataFim": "2024-08-28T09:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Arborização Urbana e Ilhas de Calor",
+  "lugar": null,
+  "dataInicio": "2024-08-28T09:00:00-03:00",
+  "dataFim": "2024-08-28T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Café",
+  "lugar": null,
+  "dataInicio": "2024-08-28T10:30:00-03:00",
+  "dataFim": "2024-08-28T10:45:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Leitura da Carta de BH pelo Clima",
+  "lugar": null,
+  "dataInicio": "2024-08-28T11:00:00-03:00",
+  "dataFim": "2024-08-28T12:00:00-03:00",
+  "descricao": null
+ }
+]

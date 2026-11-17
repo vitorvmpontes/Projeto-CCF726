@@ -1,0 +1,58 @@
+[
+ {
+  "nome": "Desfile das Delegações e Abertura Oficial",
+  "lugar": null,
+  "dataInicio": "2027-05-14T18:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Oficina Técnica 1",
+  "lugar": null,
+  "dataInicio": "2027-05-15T08:30:00-03:00",
+  "dataFim": "2027-05-15T10:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Fase Classificatória do Handebol Feminino",
+  "lugar": null,
+  "dataInicio": "2027-05-15T11:00:00-03:00",
+  "dataFim": "2027-05-15T14:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Palestra Temática",
+  "lugar": null,
+  "dataInicio": "2027-05-15T15:00:00-03:00",
+  "dataFim": "2027-05-15T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Eliminatórias de Atletismo",
+  "lugar": null,
+  "dataInicio": "2027-05-15T17:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ },
+ {
+  "nome": "Torneio de Judô Individual",
+  "lugar": null,
+  "dataInicio": "2027-05-16T09:00:00-03:00",
+  "dataFim": "2027-05-16T12:30:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Disputas Finais de Futsal Masculino",
+  "lugar": null,
+  "dataInicio": "2027-05-16T14:00:00-03:00",
+  "dataFim": "2027-05-16T17:00:00-03:00",
+  "descricao": null
+ },
+ {
+  "nome": "Premiação Geral e Cerimônia de Encerramento",
+  "lugar": null,
+  "dataInicio": "2027-05-16T17:30:00-03:00",
+  "dataFim": null,
+  "descricao": null
+ }
+]

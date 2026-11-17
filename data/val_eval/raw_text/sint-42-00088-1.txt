@@ -1,0 +1,70 @@
+Programação - Workshop Potiguar de Inteligência Artificial Aplicada (WPIA 2027)
+Edição 2027
+
+QUARTA-FEIRA - 19/05/27
+08:00 às 09:00
+CREDENCIAMENTO E ENTREGA DE KITS
+Vagas limitadas!
+PALESTRAS PRINCIPAIS
+09:00 às 10:30
+PALESTRA DE ABERTURA
+Abertura oficial com a conferência Modelos de Fundação Multimdais para Diagnóstico por Imagem ministrada pelo Prof. Dr. Marcelo Vaconcelos (UFRN). Coordenação de Dra. Simone Albuquerque.
+Programação sujcita |a alterações
+10:30 às 11:00
+INTERVALO PARA CAFÉ
+Siga @wpiaaw nas redes sociais
+MINICURSOS
+11:00 às 12:30
+MINICURSO 1
+Tema: Engenhar*ia de Prompt e Fine-uning de LLMs para Iniciantes|. Instrutores: Lucas Marinho e Beatriz Guimarães.
+11:00 às 12:30
+MINICURSO 2
+Tema: Visão Computacional Aplicadá a Veículos Autônomos| usando PyTorch com o pesquisador Dr. Daniel Fontes.
+12:30 às 14:00
+ALMOÇO LIVRE
+#wpiaaw2027
+SESSÕES TÉCNICAS
+14:00 às 16:00
+SESSÃO ORAL 1
+Coordenação de Profa. Fernanda Telcs. Trabalhos apresentados:
+1. Detecção de Anomalias em Séries Temporais Industriais por Caio Mendonça e Jorge Linhares;
+2. Otimização de Rotas de Transporte Pú'blico em Natal utilizando Aprendizado por Reforço por Juliana Bastos e Renato Maia.
+Apoio:
+
+QUINTA-FEIRA - 20/05/27
+Minicursos
+09:00 às 12:00
+MINICURSO 3
+Tea: Construindo Agentes Autônomos com RAG e LangChain. Instrutora: Camila Dantas (Instituto Metrópole Digital).
+Programação sujeia a alterações
+09:00 às 12:00
+MINICURSO 4
+Tema: Graph Neural Netw ork s para Bioinformática ministrado por Prof. Roberto Salgado e monitorado por Vanes|saPrado.
+12:00 às 13:30
+ALMOÇO LIVRE
+Sessões Técnicas
+13:30 às 15:30
+SESSÃO ORAL 2
+Coordenação de Dr. Igor Cassemiro. Apresentações:
+1. Reduçã0 de Viés Algorítmico em Modelos de Crédito Bancário de autoria de Patrícia Ngueira e Carlos Eduardo Pires;
+2. Classificação Automática de Padrões Climát|icos no Litora Potiguar por Rodrigo Assis, Manoel Farias e Aline Morais.
+16:00 às 18:00
+PAINEL DE DEBATES
+Debte sobre Regulamentação e Éticá da IAno Setor Público mdiado por Larisa Neves, contando cm a participaç|ãodos debatedores Dr. Gustavo Paiva (OAB/N) e Profa. Helena Queiroz (UFRN).
+Pr ogramação sujeita a alterações
+
+SEXTA-FEIRA - 21/05/27
+Palestras Principais
+09:30 às 11:00
+PALESTRA TEMÁTICA
+Apresentação da palestra Eficiência Energética no Treinamento de Redes Neurais Profundas com o Dr. Thiago Brandã*o.
+11:00 às 12:30
+SESSÃO DE PÔSTERES
+Aresentação de trabalhos acadêmicos de graduação e pós-graduação. Coordenação geral do comitê co*m Prof. Anderson Medeiros.
+Realização:
+14:00 às 15:30
+SESSÃO DE ENCERRAMENTO
+Cerimônia de premiação dos mclhores artigos e minicurso coordenada por ra. Simone Albuquerque e Prof. Anderson Medeiros.
+
+Apoio:
+@wpiaaw
