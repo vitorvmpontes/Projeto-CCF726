@@ -1,30 +1,26 @@
-I Seminário Paranaense de Sustentabilidade e Conservação dos Recursos Hídricos
-Programação 2023
+Programação - I Seminário Paranaense de Sustentabilidade e Conservação dos Recursos Hídricos
+Edição 2023
 
-Dia 1 - 17/05
-(08h00 - 09h00) | Recepção e Entrega de Materiais
-CONFERÊNCIAS PLENÁRIAS
-(09h15 - 11h00)
-Palestra de Abertura
-COMUNICAÇÕES ORAIS
-14h00 - Sessão Técnica 1
-
-Dia 2 - 18/05
+17 • Maio
+Horário	Atividade	Local	Descrição
+das 8h às 9h	Recepção e Entrega de Materiais	Hall Principal
 Conferências Plenárias
-(09h00 - 10h30)  Palestra Temática
-Workshops e Oficinas
-11h00 - Oficina Prática de Compostagem Urbana
+das 9h15 às 11h	Palestra de Abertura	Auditório Araucária	Tema: Gestão Integrada de Bacias Hidrográficas no Norte do Paraná: Desafios Contemporâneos da Crise Climática Global e Preservação de Mananciais. Palestrante: Dra. Helena Moreira da Costa (IAPAR/IDR-Paraná). Coordenação dos trabalhos: Prof. Dr. Marcos Vinicius Silveira (UEL).
 Comunicações Orais
-(14h30 - 17h00) | Sessão Técnica 2
-www.spscdrh.com.br
+14h	Sessão Técnica 1	Sala 102	Coordenação: Profa. Juliana Mendes Fagundes. Apresentação de trabalhos orais: 1. Avaliação da Qualidade da Água do Ribeirão Cambé Através de Bioindicadores Bentônicos, apresentado por Lucas Ribeiro Prado e Beatriz Nogueira Soares. 2. Práticas Agroecológicas em Pequenas Propriedades Rurais no Vale do Tibagi, apresentado por Fernando Caetano Dias.
 
-Dia 3 - 19/05
+18 • Maio
+Horário	Atividade	Local	Descrição
+CONFERÊNCIAS PLENÁRIAS
+das 9h às 10h30	Palestra Temática	Auditório Araucária	Tema: Estratégias Avançadas para Mitigação de Efluentes Agroindustriais com Foco em Economia Circular e Tecnologias Sustentáveis de Baixo Custo. Conferencista convidado: Eng. Roberto Alcântara Guimarães (Sanepar).
+Workshops e Oficinas
+11h	Oficina Prática de Compostagem Urbana	Laboratório de Saneamento Ambiental	Subtítulo: Técnicas de reaproveitamento de resíduos orgânicos para hortas comunitárias e escolas públicas. Ministrante: Bióloga Camila Duarte Santana (Coletivo Verde Londrina).
+COMUNICAÇÕES ORAIS
+das 14h30 às 17h	Sessão Técnica 2	Sala 102	Coordenação: Prof. Carlos Eduardo Antunes. Trabalhos selecionados: 1. Zoneamento Ecológico e Dinâmica do Uso da Terra na Região Metropolitana de Londrina, autoria de Patrícia Lemos Fontes e Rodrigo Albuquerque Prado. 2. Implantação de Florestas Urbanas e Redução de Ilhas de Calor, de autoria de Mariana Viana Guedes.
+
+19 • Maio
+Horário	Atividade	Local	Descrição
 WORKSHOPS E OFICINAS
-(08h30 - 11h30) - Oficina de Geoprocessamento Ambiental
-(14h00 - 16h00)
-Mesa de Debate Intersetorial
-16h30 | Cerimônia de Encerramento e Premiação
-Certificado de participação
-
-Realização:
-@spscdrh
+das 8h30 às 11h30	Oficina de Geoprocessamento Ambiental	Laboratório de Informática II	Tema: Mapeamento de Áreas de Preservação Permanente Utilizando Ferramentas Livres de Sensoriamento Remoto e Drones. Instrutor: Msc. Thiago Henrique Beltrão (UTFPR).
+das 14h às 16h	Mesa de Debate Intersetorial	Auditório Araucária	Tema: Políticas Públicas Municipais de Sustentabilidade e Parcerias Público-Privadas no Enfrentamento das Inundações Urbanas. Moderador: Dr. André Carvalho Pires. Debatedores: Secretário Paulo Sérgio Ramos (SEMA Londrina) e Dra. Renata Vasconcellos Lima (Promotoria de Meio Ambiente).
+16h30	Cerimônia de Encerramento e Premiação	Auditório Araucária	Entrega do Prêmio Destaque Ambiental 2023 aos melhores artigos da pós-graduação e graduação conduzida pela presidente da comissão organizadora Profa. Dra. Tânia Regina Castilho.

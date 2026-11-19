@@ -1,17 +1,17 @@
 [
  {
   "nome": "ABERTURA",
-  "lugar": "Auditório",
+  "lugar": null,
   "dataInicio": "2025-10-09T08:30:00-03:00",
   "dataFim": "2025-10-09T09:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "KEYNOTE",
-  "lugar": "Auditório",
+  "lugar": null,
   "dataInicio": "2025-10-09T09:00:00-03:00",
   "dataFim": "2025-10-09T10:00:00-03:00",
-  "descricao": "<p>Com <b>Dra. Renata Wosniak</b>.</p>"
+  "descricao": null
  },
  {
   "nome": "CAFÉ",
@@ -22,14 +22,14 @@
  },
  {
   "nome": "MINICURSO DE LLMS NA PRÁTICA",
-  "lugar": "Laboratório 1",
+  "lugar": null,
   "dataInicio": "2025-10-09T10:30:00-03:00",
   "dataFim": "2025-10-09T12:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "MINICURSO DE VISÃO COMPUTACIONAL",
-  "lugar": "Laboratório 2",
+  "lugar": null,
   "dataInicio": "2025-10-09T10:30:00-03:00",
   "dataFim": "2025-10-09T12:30:00-03:00",
   "descricao": null
@@ -43,35 +43,35 @@
  },
  {
   "nome": "PAINEL",
-  "lugar": "Auditório",
+  "lugar": null,
   "dataInicio": "2025-10-09T14:00:00-03:00",
   "dataFim": "2025-10-09T15:30:00-03:00",
-  "descricao": "<p>IA responsável no setor público.</p>"
+  "descricao": null
  },
  {
   "nome": "MINICURSO DE MLOPS",
-  "lugar": "Laboratório 1",
+  "lugar": null,
   "dataInicio": "2025-10-09T16:00:00-03:00",
   "dataFim": "2025-10-09T18:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "MINICURSO DE AGENTES COM LLMS",
-  "lugar": "Laboratório 1",
+  "lugar": null,
   "dataInicio": "2025-10-10T09:00:00-03:00",
   "dataFim": "2025-10-10T11:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "MINICURSO DE SÉRIES TEMPORAIS",
-  "lugar": "Laboratório 2",
+  "lugar": null,
   "dataInicio": "2025-10-10T09:00:00-03:00",
   "dataFim": "2025-10-10T11:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "SESSÃO DE DEMOS",
-  "lugar": "Auditório",
+  "lugar": null,
   "dataInicio": "2025-10-10T11:00:00-03:00",
   "dataFim": null,
   "descricao": null

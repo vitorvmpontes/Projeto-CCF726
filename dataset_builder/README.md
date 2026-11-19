@@ -44,6 +44,17 @@ Nas programações reais, a falta de local e de descrição costuma valer para o
 
 `montar --sem-perfis` renderiza tudo no perfil `completo`, como a v1.
 
+### Extras da v1.2 (exploratória, 2026-11-20)
+
+Motivados pelos erros do teste da e2b-r1 (`evaluation/results/RESULTADO_E2B_R1.md`). Não exigem eventos novos: só mudam a renderização dos mesmos 800 eventos.
+
+- Separadores " – " e ": " depois do horário (`16h30 às 17h – COFFEE BREAK`, `14h: ABERTURA`).
+- `local_cabecalho` (35%): o local aparece uma vez, no topo (`Local: X`) ou no dia (`14 DE OUTUBRO – LOCAL – X`), e vale para todas as atividades sem local próprio, como nos gabaritos do teste.
+- `data_no_titulo` (40%, só eventos de um dia): sem cabeçalho de dia; a data aparece só no título ou no rodapé.
+- `aspas` (25%): títulos de palestras/mesas entre aspas tipográficas; o rótulo mantém as aspas.
+
+`montar --sem-extras` gera como a v1.1.
+
 O `gerar` pula eventos já gerados, então pode ser interrompido e retomado. Mesma semente → mesmas especificações.
 
 ## Formato de cada linha do JSONL

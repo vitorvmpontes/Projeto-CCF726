@@ -4,21 +4,21 @@
   "lugar": "Hall do Bloco de Ciência e Tecnologia",
   "dataInicio": "2025-05-21T08:00:00-03:00",
   "dataFim": "2025-05-21T09:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Acolhimento das participantes e distribuição do material oficial do evento coordenado por <b>Camila Brito Sales</b>.</p>"
  },
  {
   "nome": "Sessão Solene de Abertura",
   "lugar": "Auditório Paulo Freire",
   "dataInicio": "2025-05-21T09:00:00-03:00",
   "dataFim": "2025-05-21T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Boas-vindas institucionais com a coordenadora geral <b>Dra. Simone Paes de Vasconcelos</b> e a vice-reitora <b>Profª. Tânia Mara Silveira</b>.</p>"
  },
  {
   "nome": "Palestra 1",
   "lugar": "Auditório Paulo Freire",
   "dataInicio": "2025-05-21T10:15:00-03:00",
   "dataFim": "2025-05-21T11:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: <i>Análise crítica da representatividade feminina no desenvolvimento de modelos fundacionais de inteligência artificial generativa em centros de pesquisa latino-americanos</i>, apresentada pela pesquisadora convidada <b>Dra. Juliana Mendes Fontes</b>.</p>"
  },
  {
   "nome": "Pausa para Almoço",
@@ -32,83 +32,83 @@
   "lugar": "Auditório Paulo Freire",
   "dataInicio": "2025-05-21T14:00:00-03:00",
   "dataFim": "2025-05-21T15:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: <i>Trajetórias acadêmicas e barreiras invisíveis na pós-graduação em exatas</i>. Participação das pesquisadoras <b>Dra. Larissa Cordeiro Monteiro</b> e <b>Profª. Renata Xavier Maciel</b>, sob mediação de <b>Emanuelle Pinheiro Duarte</b>.</p>"
  },
  {
   "nome": "Espaço de Integração e Trocas",
   "lugar": "Pátio Central das Mangueiras",
   "dataInicio": "2025-05-21T15:30:00-03:00",
   "dataFim": "2025-05-21T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Momento de confraternização e lanche regional oferecido às participantes.</p>"
  },
  {
   "nome": "Oficina Técnica A",
   "lugar": "Laboratório de Informática Aplicada 1",
   "dataInicio": "2025-05-21T16:00:00-03:00",
   "dataFim": "2025-05-21T18:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Oficina prática com título <i>Implementação de microsserviços escaláveis com contêineres Docker e orquestração leve</i>, conduzida pela engenheira de software <b>Beatriz Nogueira Rabelo</b>.</p>"
  },
  {
   "nome": "Palestra 2",
   "lugar": "Auditório Paulo Freire",
   "dataInicio": "2025-05-22T08:30:00-03:00",
   "dataFim": "2025-05-22T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: <i>Estratégias inovadoras para retenção sustentável de alunas em cursos de tecnologia e engenharia computacional na Amazônia setentrional brasileira</i>, ministrada por <b>Profª. Drª. Walquíria Queiroz Ferreira</b>.</p>"
  },
  {
   "nome": "Mostra de Iniciação Científica",
   "lugar": "Saguão do Bloco de Exatas",
   "dataInicio": "2025-05-22T10:15:00-03:00",
   "dataFim": "2025-05-22T12:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação de pôsteres com a avaliação das comissárias <b>Maíra dos Anjos Carvalho</b> e <b>Cláudia Regina Teles</b>.</p>"
  },
  {
   "nome": "Oficina Técnica B",
   "lugar": "Laboratório de Redes e Sistemas",
   "dataInicio": "2025-05-22T14:00:00-03:00",
   "dataFim": "2025-05-22T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Treinamento prático sob o tema <i>Introdução ao pentest defensivo para proteção de infraestruturas locais</i>, ministrado pela especialista em segurança <b>Roberta Paiva Gusmão</b>.</p>"
  },
  {
   "nome": "Roda de Conversa",
   "lugar": "Sala Multiuso 3",
   "dataInicio": "2025-05-22T16:30:00-03:00",
   "dataFim": "2025-05-22T18:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Discussão sobre <i>Maternidade, carreira técnica e vida acadêmica</i> com mediação de <b>Fernanda Lacerda Guimarães</b> e relatos de <b>Gisele Souza Matos</b>.</p>"
  },
  {
   "nome": "Oficina Técnica C",
   "lugar": "Laboratório de Informática Aplicada 2",
   "dataInicio": "2025-05-23T08:30:00-03:00",
   "dataFim": "2025-05-23T10:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Atividade prática <i>Prototipação acessível de interfaces web e mobile utilizando princípios de Design Ops</i>, ministrada pela designer de interação <b>Letícia Albuquerque Viana</b>.</p>"
  },
  {
   "nome": "Sessão de Relatos de Experiência",
   "lugar": "Auditório Paulo Freire",
   "dataInicio": "2025-05-23T10:45:00-03:00",
   "dataFim": "2025-05-23T12:15:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação do relato <i>Criação do coletivo amapaense de incentivo à programação para meninas de escolas públicas</i>, por <b>Ingrid Nayara Costa</b> e <b>Sabrina Dias Cunha</b>.</p>"
  },
  {
   "nome": "Mesa de Encerramento",
   "lugar": "Auditório Paulo Freire",
   "dataInicio": "2025-05-23T14:00:00-03:00",
   "dataFim": "2025-05-23T15:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Discussão temática <i>O ecossistema de startups na Região Norte e lideranças femininas</i> com as convidadas <b>Patrícia Vilhena de Souza</b> e <b>Bruna Marinho Alencar</b>.</p>"
  },
  {
   "nome": "Premiação e Plenária Final",
   "lugar": "Auditório Paulo Freire",
   "dataInicio": "2025-05-23T15:45:00-03:00",
   "dataFim": "2025-05-23T17:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Entrega do prêmio <i>Jovem Pesquisadora Destaque da Computação 2025</i> coordenada por <b>Dra. Simone Paes de Vasconcelos</b> e votação da carta de reivindicações do coletivo.</p>"
  },
  {
   "nome": "Coquetel Cultural",
   "lugar": "Hall do Bloco de Ciência e Tecnologia",
   "dataInicio": "2025-05-23T17:15:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Confraternização final com apresentação do grupo de marabaixo feminino coordenado pela mestra <b>Joana da Silva Pureza</b>.</p>"
  }
 ]

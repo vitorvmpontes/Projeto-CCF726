@@ -1,91 +1,91 @@
 [
  {
-  "nome": "Recepção dos Participantes e Entrega de Crachás",
-  "lugar": "Hall do Centro de Convenções",
+  "nome": "RECEPÇÃO DOS PARTICIPANTES E ENTREGA DE CRACHÁS",
+  "lugar": null,
   "dataInicio": "2025-08-22T07:30:00-03:00",
   "dataFim": "2025-08-22T08:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão Plenária de Abertura",
-  "lugar": "Auditório Principal",
+  "nome": "SESSÃO PLENÁRIA DE ABERTURA",
+  "lugar": null,
   "dataInicio": "2025-08-22T08:30:00-03:00",
   "dataFim": "2025-08-22T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Intervalo com Café e Prosa",
-  "lugar": "Foyer do Auditório Principal",
+  "nome": "INTERVALO COM CAFÉ E PROSA",
+  "lugar": null,
   "dataInicio": "2025-08-22T10:00:00-03:00",
   "dataFim": "2025-08-22T10:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina Prática de Pequena Cirurgia Ambulatorial",
-  "lugar": "Laboratório de Habilidades Médicas A",
+  "nome": "OFICINA PRÁTICA DE PEQUENA CIRURGIA AMBULATORIAL",
+  "lugar": null,
   "dataInicio": "2025-08-22T10:30:00-03:00",
   "dataFim": "2025-08-22T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Painel de Discussão Clínica",
-  "lugar": "Anfiteatro B",
+  "nome": "PAINEL DE DISCUSSÃO CLÍNICA",
+  "lugar": null,
   "dataInicio": "2025-08-22T10:30:00-03:00",
   "dataFim": "2025-08-22T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Pausa para Almoço",
+  "nome": "PAUSA PARA ALMOÇO",
   "lugar": null,
   "dataInicio": "2025-08-22T12:00:00-03:00",
   "dataFim": "2025-08-22T14:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Apresentação Oral de Trabalhos",
-  "lugar": "Sala de Seminários 102",
+  "nome": "APRESENTAÇÃO ORAL DE TRABALHOS",
+  "lugar": null,
   "dataInicio": "2025-08-22T14:00:00-03:00",
   "dataFim": "2025-08-22T17:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina Prática de Pequena Cirurgia Ambulatorial",
-  "lugar": "Laboratório de Habilidades Médicas B",
+  "nome": "OFICINA PRÁTICA DE PEQUENA CIRURGIA AMBULATORIAL",
+  "lugar": null,
   "dataInicio": "2025-08-23T08:30:00-03:00",
   "dataFim": "2025-08-23T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Simpósio Temático",
-  "lugar": "Auditório Principal",
+  "nome": "SIMPÓSIO TEMÁTICO",
+  "lugar": null,
   "dataInicio": "2025-08-23T08:30:00-03:00",
   "dataFim": "2025-08-23T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Intervalo com Café e Prosa",
-  "lugar": "Foyer do Auditório Principal",
+  "nome": "INTERVALO COM CAFÉ E PROSA",
+  "lugar": null,
   "dataInicio": "2025-08-23T10:00:00-03:00",
   "dataFim": "2025-08-23T10:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Apresentação Oral de Trabalhos",
-  "lugar": "Sala de Seminários 102",
+  "nome": "APRESENTAÇÃO ORAL DE TRABALHOS",
+  "lugar": null,
   "dataInicio": "2025-08-23T10:30:00-03:00",
   "dataFim": "2025-08-23T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Painel de Discussão Clínica",
-  "lugar": "Auditório Principal",
+  "nome": "PAINEL DE DISCUSSÃO CLÍNICA",
+  "lugar": null,
   "dataInicio": "2025-08-23T10:30:00-03:00",
   "dataFim": "2025-08-23T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão de Encerramento e Premiação",
-  "lugar": "Auditório Principal",
+  "nome": "SESSÃO DE ENCERRAMENTO E PREMIAÇÃO",
+  "lugar": null,
   "dataInicio": "2025-08-23T12:15:00-03:00",
   "dataFim": "2025-08-23T13:00:00-03:00",
   "descricao": null

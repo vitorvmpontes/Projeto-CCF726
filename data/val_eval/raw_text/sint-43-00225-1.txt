@@ -1,16 +1,21 @@
-Programação - Hack Porto Maravilha 2024
-Edição 2024
+Hack Porto Maravilha 2024
+Programação 2024
+Local: Armazém 5 - Píer Mauá
 
-9 • Novembro
-09:00  Abertura do Hackathon
-Local: Palco Principal
-10:00 às 11:00 - Palestra Observabilidade em Escala
-Local: Palco 2
-10:00 às 11:00  Palestra Open Finance na Prática
-Palco Principal
+Dia 1 - 09/11
+Horário
+Atividade
+09:00
+Abertura do Hackathon
+das 10:00 às 11:00
+Palestra Observabilidade em Escala
+das 10:00 às 11:00
+Palestra Open Finance na Prática
 
-10 • Novembro
+Dia 2 - 10/11
+Horário
+Atividade
 12:00
 Entrega dos Projetos
-14:00 às 17:00  Pitch Final e Premiação
-Local: Palco Principal
+das 14:00 às 17:00
+Pitch Final e Premiação

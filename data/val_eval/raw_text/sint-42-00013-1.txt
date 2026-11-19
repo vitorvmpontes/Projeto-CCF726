@@ -1,30 +1,67 @@
 XXIV Congresso Brasileiro de Bioinformática e Biologia Computacional (CBBC 2024)
-Programação
+Programação 2024
 
-17/10
-Horário	Atividade
-08:00 - 09:00	Recepção e Entrega de Crachás
-09:00 - 10:30	Sessão Plenária de Abertura
-Acesse o QR Code
-Sessões Técnicas
-11:00 - 12:30	Sessão Técnica 1: Genômica e Transcriptômica
-11:00 - 12:30	Sessão Técnica 2: Biologia Estrutural e Modelagem Molecular
-Certificado de participação
-14:00 - 15:30	Sessão de Pôsteres
-16:00 - 17:30	Painel de Discussão
-Organização:
-
-18/10
-Horário	Atividade
-SESSÕES TÉCNICAS
-09:00 - 10:30	Sessão Técnica 3: Mineração de Dados Biológicos
+17 de outubro de 2024
+08:00 – 09:00
+RECEPÇÃO E ENTREGA DE CRACHÁS
+HALL PRINCIPAL
+#xcbbbcc2024
+09:00 – 10:30
+SESSÃO PLENÁRIA DE ABERTURA
+Abertura oficial do evento conduzida pela coordenadora-geral Dra. Mariana Vasconcellos, seguida da palestra Avanços da Inteligência Artificial Estrutural no Design de Proteínas ministrada pelo Prof. Dr. Arthur Sampaio.
+AUDITÓRIO VERMELHO
+11:00 – 12:30
+SESSÃO TÉCNICA 1:
+GENÔMICA E
+TRANSCRIPTÔMICA
+Apresentação de artigos científicos selecionados. Moderação por Dr. Felipe Brandão.
+Trabalhos: Pipeline Automatizado para Análise de Single-Cell RNA-Seq em Câncer Gástrico por Camila Duarte e Mapeamento de Polimorfismos Raros em Populações Tradicionais Brasileiras por Guilherme Antunes.
+SALA A3
 Realização:
-09:00 - 10:30	Sessão Técnica 4: Filogenômica e Evolução Molecular
+11:00 – 12:30
+SESSÃO TÉCNICA 2: BIOLOGIA
+ESTRUTURAL E MODELAGEM MOLECULAR
+Apresentação oral de artigos com moderação da Profa. Dra. Letícia Menezes.
+Artigos em pauta: Análise Comparativa de Algoritmos de Docking Molecular Aplicados a Candidatos a Fármacos Antivirais por Rodrigo Hayashi e Predição Conformacional de Peptídeos Antimicrobianos por Beatriz Nogueira.
+SALA B2
+Patrocínio
+14:00 – 15:30
+SESSÃO DE PÔSTERES
+Avaliação dos trabalhos em formato pôster submetidos ao comitê científico. Coordenação de Dra. Simone Rezende.
+ESPAÇO DE EXPOSIÇÕES
 Certificado de participação
-12:00 - 13:30	Intervalo para Almoço
-13:30 - 15:00	Sessão de Pôsteres
-16:30 - 18:00	Sessão de Premiação e Encerramento
-Vagas limitadas!
+16:00 – 17:30
+PAINEL DE DISCUSSÃO
+Discussão sobre O Futuro dos Bancos de Dados Biológicos Abertos na América Latina, com a participação de Prof. Carlos Eduardo Peixoto, Dra. Fernanda Lins e mediação de Dr. Marcelo Fagundes.
+AUDITÓRIO VERMELHO
+Siga @xcbbbcc nas redes sociais
+
+18 de outubro de 2024
+09:00 – 10:30
+SESSÃO TÉCNICA 3: MINERAÇÃO DE
+DADOS BIOLÓGICOS
+Apresentação dos trabalhos técnicos orais aprovados. Coordenação de Prof. Renato Silveira.
+Apresentações: Classificação de Variantes Patogênicas Utilizando Redes Neurais Gráficas apresentado por Tatiana Meireles e Identificação de Assinaturas Imunológicas em Doenças Autoimunes por Lucas Carvalho.
+SALA A3
+09:00 – 10:30
+SESSÃO TÉCNICA 4:
+FILOGENÔMICA E EVOLUÇÃO
+MOLECULAR
+Apresentação de artigos científicos. Avaliador convidado: Prof. Dr. Henrique Paiva.
+Trabalhos: Reconstrução Filogenômica de Arbovírus Emergentes no Sudeste Brasileiro apresentado por Juliana Fontes e Evolução Adaptativa de Genes Enzimáticos em Espécies Endêmicas do Cerrado apresentado por Thiago Alencar.
+SALA B2
+www.xcbbbcc.com.br
+12:00 – 13:30
+INTERVALO PARA ALMOÇO
+13:30 – 15:00
+SESSÃO DE PÔSTERES
+Segunda rodada de avaliações de trabalhos em formato pôster com presença obrigatória dos autores. Coordenação da Dra. Simone Rezende.
+ESPAÇO DE EXPOSIÇÕES
+16:30 – 18:00
+SESSÃO DE PREMIAÇÃO E ENCERRAMENTO
+Anúncio dos melhores artigos e pôsteres com entrega do Prêmio Jovem Bioinformata 2024 conduzida por Dra. Mariana Vasconcellos e Prof. Dr. Arthur Sampaio.
+AUDITÓRIO VERMELHO
+www.xcbbbcc.com.br
 
 Apoio:
 @xcbbbcc

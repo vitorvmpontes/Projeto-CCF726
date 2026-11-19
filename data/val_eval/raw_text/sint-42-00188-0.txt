@@ -1,70 +1,61 @@
 Programação - IV Encontro Amapaense de Mulheres na Computação
 Edição 2025
 
-21/05
-8h às 9h
-RECEPÇÃO E ENTREGA DE KITS
-Acolhimento das participantes e distribuição do material oficial do evento coordenado por Camil*a Brito Sales.
-HALL DO BLOCO DE CIÊNCIA E TECNOLOGIA
-9h às 10h
-SESSÃO SOLENE DE ABERTURA
-Boas-vindas ins titucionais com a coordenadora geral Dr|a. Simone Paes de Vasconcelos e a vice-reitora Profª. TâniaMara Silveir*a.
-AUDITÓRIO PAULO FREIRE
-10h15 às 11h45
-PALESTRA 1
-Tema: Análise crítica da representatividade f*eminina no desenvolvimento de modelos fundacionais de inteligência rtificial generativa em centros de pesquisa latino-americanos, apresentada pela pesquisadorá convida'da Dra.Juliana Mendes Fontes.
-AUDITÓRIO PAULO FREIRE
-12h às 13h30
-PAUSA PARA ALMOÇO
-14h às 15h30
-PAINEL DE DEBATES
-Tema: Trajetórias acadêmicas e barreiras invisíveis na pós-graduação em exatas. Participaão das pesquisadoras Dra. Larissa Cordeiro Monteiro e Profª. Renata Xavier Maciel, sob mediação de Emanuelle Pinheiro Duarte.
-AUDITÓRIO PAULO FREIRE
-15h30 às 16h
-ESPAÇO DE INTEGRAÇÃO E TROCAS
-Momento de confraernização e lanche reional oferecido às participantes.
-PÁTIO CENTRAL DAS MANGUEIRAS
-16h às 18h
-OFICINA TÉCNICA A
-Oficina prática com títuo Implementação de microsserviços escaláveis com contêineres Docker e orquestração leve, conduzida pela engenheira de software Beatriz Nogueira Rabelo.
-LABORATÓRIO DE INFORMÁTICA APLICADA 1
+Quarta-feira (21/05/2025)
+Horário
+Atividade
+8h – 9h
+Recepção e Entrega de Kits
+Acolhimento das participantes e di*stribuição do material oficia|l do evento coordenado por Camila Brito Sales.
+9h – 10h
+Sessão Solene de Abertura
+Boas-vindas institucionais com a coordenadora geral Dra. Simone Paes de Vasconcelos e a vice-reitora Profª. Tânia Mra Silveira.
+10h15 – 11h45
+Palestra 1
+Tema: Análise crítica da r'epresentatividade feminina no desenvolvimento de modelos fundacionais de inteligência artificial generativa em centros de pesquisa latino-americanos, apresentada pcla |pesquisadora convidada Dra. Juliana Mendes Fontes.
+12h – 13h30
+Pausa para Almoço
+14h – 15h30
+Painel de Debates
+Tema:Trajetórias acadêmicase barreiras invisíveis na pós-graduação em exatas. Participação das pesquisadoras Dra. Larissa Cordeiro M0nteiro e Profª. Renata Xavier Maciel, sob mediação d Emanuelle Pinheiro Duarte.
+15h30 – 16h
+Espaço de Integração e Trocas
+Momento de confraternização e lanche regional oferecido às participantes.
+16h – 18h
+Oficina Técnica A
+Oficina prática com título Implementação de microsserviços| escaláveis c0m contêineres Docker e orquestração leve, conduzida  pela engenheira de software Beatriz Nogueira Rabelo.
 
-22/05
-8h30 às 10h
-PALESTRA 2
-Tea: Estratégias inovadoras para retenção sustentável de alunas| em cursos de tecnologia e engnharia computacional na Amazônia setentrional brasileira, ministrada por Profª. Drª. Walquíria Queiroz Ferreira.
-AUDITÓRIO PAULO FREIRE
-10h15 às 12h
-MOSTRA DE INICIAÇÃO CIENTÍFICA
-Apresentação de pôstercs com a avaliação d*as comissárias Maíra dos Anjos Carvalho e Cláudia Regina Teles.
-SAGUÃO DO BLOCO DE EXATAS
-14h às 16h
-OFICINA TÉCNICA B
-Treinamento prático |sob o tema Introdução ao pentest defensi vo para proteção de infraestrutu*ras locais, minisrado pela especialista em segurança Roberta Paiva Gusmão.
-LABORATÓRIO DE REDES E SISTEMAS
-16h30 às 18h
-RODA DE CONVERSA
-Discussão sobre Maternidáde, carreira técnica e vida acadêmica com mediação de Fernanda  Lacerda uimarães e relatos de Gisele Souza Matos.
-SALA MULTIUSO 3
+Quinta-feira (22/05/2025)
+Horário
+Atividade
+8h30 – 10h
+Palestra 2
+Tema: Estratégias inovadoras para retenção sustentável de alunas em cursos de tecnolog|ia e engenharia computacional na Amazônia setentrional brasileira, ministrada por Profª. Drª. Walquíria Queiroz Ferreira.
+10h15 – 12h
+Mostra de Iniciação Científica
+Apresentação de pôsteres com a avaliação das  comissárias Maíra dos Anjos Carvalho e láudia Regina Teles.
+14h – 16h
+Oficina Técnica B
+Treinamento prático sob o tema Introduão ao pentest defensivo para proteção de infraestruturas locais, ministrado pela especialista em segurança Roberta Paiva Gusmão.
+16h30 – 18h
+Roda de Conversa
+Discussão sobre Maternidae,carreira técnica evida acadêmica com mediação de Fernanda Lacerda Guimarães e relatos de Gisele Souza Matos.
 
-23/05
-8h30 às 10h30
-OFICINA TÉCNICA C
-Atividade prática Prototipação acessível de interfaces web e mobile utilizando princípios de Design Ops, ministrada pela de|signer de interação Letícia Albuuerque Víana.
-LABORATÓRIO DE INFORMÁTICA APLICADA 2
-10h45 às 12h15
-SESSÃO DE RELATOS DE EXPERIÊNCIA
-Apresentáço do relato Criação do coletivo amapaense* de incentivo à programação para meninas d escolas públicas, por Ingrid Nayara Costa e Sabrina Dias Cunha.
-AUDITÓRIO PAULO FREIRE
-14h às 15h30
-MESA DE ENCERRAMENTO
-Discussão t emática O ecossistema de startups na Região Norte  e lideranças femi'ninas com as convidadas Patrícia Vilhena de Souzae Bruna Marinho Alencar.
-AUDITÓRIO PAULO FREIRE
-15h45 às 17h
-PREMIAÇÃO E PLENÁRIA FINAL
-Entrega do prêmio Jovem Pesquisadora Destaque da Computa'ção 2025 coordenada por Dra. Simone Paes de Vasconcelos e votação da cata de rei*v|indicações do coleti vo.
-AUDITÓRIO PAULO FREIRE
+Sexta-feira (23/05/2025)
+Horário
+Atividade
+8h30 – 10h30
+Oficina Técnica C
+Atividade prátíca Prototipaç|ão acessível d interfaces web e mobile utilizando princípios de Design Ops, ministrada pela deigner de interação Letícia A|lbuquerque Viana.
+10h45 – 12h15
+Sessão de Relatos de Experiência
+Apresentação do relatoCriação do coletivo amapaense de incentivo à programação para meninas de escolas públicas, por Ingrid Nayara Costa e Sabrina Dias Cunha.
+14h – 15h30
+Mesa de Encerramento
+Discussão temática O ecossistema de startups na| Região Norte e lideranças femininas com as convidadas Patrícia Vilhena de Souza e Bruna Marinho Alencar.
+15h45 – 17h
+Premiação e Plenária Final
+Entrega do prêmio Jovem Pesquisadora Destaque da Computação 2025 coordenada por Drá. Simone Paes de Vasconcelos e votação da car ta de re|ivindicações do coletivo.
 17h15
-COQUETEL CULTURAL
-Confraternização fina1 com apresentação *do grupo de marabaixo feminino coordenado pela mestra Joana da Silva Pureza.
-HALL DO BLOCO DE CIÊNCIA E TECNOLOGIA
+Coquetel Cultural
+Confraternização' finál com apresentação do grupo de marabaixo feminino coordenado pela mestra Joana da Siva P'ureza.

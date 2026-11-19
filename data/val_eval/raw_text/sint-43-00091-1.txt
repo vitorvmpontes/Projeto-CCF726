@@ -1,25 +1,48 @@
 MT Tech Week 2026
 Programação
 
-Quarta-feira (04/11/2026)
-8h | Credenciamento
-9h - 10h
-Keynote de Abertura
+Dia 1 - 04/11
+08h00
+CREDENCIAMENTO
+09h00 - 10h00
+KEYNOTE DE ABERTURA
+PALCO PRINCIPAL
 10h30 - 11h30
-Analytics para o Agro
-10h30 - 11h30  Cloud Native em Escala
-14h - 14h30
-Abertura do Hackathon
-14h30 | Hackathon - Desenvolvimento
+ANALYTICS PARA O AGRO
+SALA CERRADO
+10h30 - 11h30
+CLOUD NATIVE EM ESCALA
+PALCO PRINCIPAL
+14h00 - 14h30
+ABERTURA DO HACKATHON
+ARENA HACKATHON
+14h30
+HACKATHON - DESENVOLVIMENTO
+ARENA HACKATHON
 
-Quinta-feira (05/11/2026)
-9h - 10h | Carreira Remota em Tecnologia
-9h - 10h  Segurança em APIs
-14h - 17h | Mentorias com os Times
-18h - Happy Hour de Networking
+Dia 2 - 05/11
+09h00 - 10h00
+CARREIRA REMOTA EM TECNOLOGIA
+SALA CERRADO
+09h00 - 10h00
+SEGURANÇA EM APIS
+PALCO PRINCIPAL
+14h00 - 17h00
+MENTORIAS COM OS TIMES
+ARENA HACKATHON
+18h00
+HAPPY HOUR DE NETWORKING
 
-Sexta-feira (06/11/2026)
-9h | Entrega dos Projetos
-10h - 11h - IA Generativa em Produção
-10h - 12h | Pitches Finais
-14h - 15h | Premiação e Encerramento
+Dia 3 - 06/11
+09h00
+ENTREGA DOS PROJETOS
+ARENA HACKATHON
+10h00 - 11h00
+IA GENERATIVA EM PRODUÇÃO
+SALA CERRADO
+10h00 - 12h00
+PITCHES FINAIS
+PALCO PRINCIPAL
+14h00 - 15h00
+PREMIAÇÃO E ENCERRAMENTO
+PALCO PRINCIPAL

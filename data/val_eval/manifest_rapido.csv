@@ -1,61 +1,59 @@
 id,evento,formato,raw_text,ground_truth,avaliado,perfil,estilo_evento,modelo_professor
-sint-42-00008-1,sint-42-00008,colunas,raw_text/sint-42-00008-1.txt,ground_truth/sint-42-00008-1.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00009-1,sint-42-00009,colunas,raw_text/sint-42-00009-1.txt,ground_truth/sint-42-00009-1.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00013-0,sint-42-00013,lista,raw_text/sint-42-00013-0.txt,ground_truth/sint-42-00013-0.json,sim,sem_descricao,detalhado,gemini-3.8-flash
-sint-42-00024-0,sint-42-00024,cartaz,raw_text/sint-42-00024-0.txt,ground_truth/sint-42-00024-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00028-0,sint-42-00028,tabela,raw_text/sint-42-00028-0.txt,ground_truth/sint-42-00028-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00033-0,sint-42-00033,colunas,raw_text/sint-42-00033-0.txt,ground_truth/sint-42-00033-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00036-1,sint-42-00036,tabela,raw_text/sint-42-00036-1.txt,ground_truth/sint-42-00036-1.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00058-0,sint-42-00058,lista,raw_text/sint-42-00058-0.txt,ground_truth/sint-42-00058-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00078-1,sint-42-00078,cartaz,raw_text/sint-42-00078-1.txt,ground_truth/sint-42-00078-1.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00088-1,sint-42-00088,cartaz,raw_text/sint-42-00088-1.txt,ground_truth/sint-42-00088-1.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00101-0,sint-42-00101,cartaz,raw_text/sint-42-00101-0.txt,ground_truth/sint-42-00101-0.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00105-0,sint-42-00105,tabela,raw_text/sint-42-00105-0.txt,ground_truth/sint-42-00105-0.json,sim,sem_descricao,detalhado,gemini-3.8-flash
-sint-42-00110-0,sint-42-00110,colunas,raw_text/sint-42-00110-0.txt,ground_truth/sint-42-00110-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00173-0,sint-42-00173,cartaz,raw_text/sint-42-00173-0.txt,ground_truth/sint-42-00173-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00180-1,sint-42-00180,colunas,raw_text/sint-42-00180-1.txt,ground_truth/sint-42-00180-1.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00185-0,sint-42-00185,colunas,raw_text/sint-42-00185-0.txt,ground_truth/sint-42-00185-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00188-1,sint-42-00188,lista,raw_text/sint-42-00188-1.txt,ground_truth/sint-42-00188-1.json,sim,sem_descricao,detalhado,gemini-3.8-flash
-sint-42-00198-0,sint-42-00198,colunas,raw_text/sint-42-00198-0.txt,ground_truth/sint-42-00198-0.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00231-0,sint-42-00231,cartaz,raw_text/sint-42-00231-0.txt,ground_truth/sint-42-00231-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00251-0,sint-42-00251,colunas,raw_text/sint-42-00251-0.txt,ground_truth/sint-42-00251-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00256-1,sint-42-00256,tabela,raw_text/sint-42-00256-1.txt,ground_truth/sint-42-00256-1.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00272-0,sint-42-00272,cartaz,raw_text/sint-42-00272-0.txt,ground_truth/sint-42-00272-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00293-0,sint-42-00293,colunas,raw_text/sint-42-00293-0.txt,ground_truth/sint-42-00293-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00294-1,sint-42-00294,colunas,raw_text/sint-42-00294-1.txt,ground_truth/sint-42-00294-1.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00301-1,sint-42-00301,cartaz,raw_text/sint-42-00301-1.txt,ground_truth/sint-42-00301-1.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00308-1,sint-42-00308,tabela,raw_text/sint-42-00308-1.txt,ground_truth/sint-42-00308-1.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00373-1,sint-42-00373,colunas,raw_text/sint-42-00373-1.txt,ground_truth/sint-42-00373-1.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00399-0,sint-42-00399,cartaz,raw_text/sint-42-00399-0.txt,ground_truth/sint-42-00399-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00407-0,sint-42-00407,colunas,raw_text/sint-42-00407-0.txt,ground_truth/sint-42-00407-0.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00415-0,sint-42-00415,cartaz,raw_text/sint-42-00415-0.txt,ground_truth/sint-42-00415-0.json,sim,completo,detalhado,gemini-3.8-flash
-sint-42-00429-1,sint-42-00429,lista,raw_text/sint-42-00429-1.txt,ground_truth/sint-42-00429-1.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00448-0,sint-42-00448,colunas,raw_text/sint-42-00448-0.txt,ground_truth/sint-42-00448-0.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00475-0,sint-42-00475,colunas,raw_text/sint-42-00475-0.txt,ground_truth/sint-42-00475-0.json,sim,enxuto,detalhado,gemini-3.8-flash
-sint-42-00486-0,sint-42-00486,cartaz,raw_text/sint-42-00486-0.txt,ground_truth/sint-42-00486-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
-sint-42-00495-0,sint-42-00495,tabela,raw_text/sint-42-00495-0.txt,ground_truth/sint-42-00495-0.json,sim,sem_descricao,detalhado,gemini-3.8-flash
-sint-43-00000-1,sint-43-00000,colunas,raw_text/sint-43-00000-1.txt,ground_truth/sint-43-00000-1.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00003-0,sint-43-00003,cartaz,raw_text/sint-43-00003-0.txt,ground_truth/sint-43-00003-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00004-0,sint-43-00004,tabela,raw_text/sint-43-00004-0.txt,ground_truth/sint-43-00004-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00024-1,sint-43-00024,colunas,raw_text/sint-43-00024-1.txt,ground_truth/sint-43-00024-1.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00039-0,sint-43-00039,lista,raw_text/sint-43-00039-0.txt,ground_truth/sint-43-00039-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00040-0,sint-43-00040,cartaz,raw_text/sint-43-00040-0.txt,ground_truth/sint-43-00040-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00043-0,sint-43-00043,colunas,raw_text/sint-43-00043-0.txt,ground_truth/sint-43-00043-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00090-0,sint-43-00090,cartaz,raw_text/sint-43-00090-0.txt,ground_truth/sint-43-00090-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00102-0,sint-43-00102,lista,raw_text/sint-43-00102-0.txt,ground_truth/sint-43-00102-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00112-1,sint-43-00112,cartaz,raw_text/sint-43-00112-1.txt,ground_truth/sint-43-00112-1.json,sim,sem_descricao,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00118-0,sint-43-00118,colunas,raw_text/sint-43-00118-0.txt,ground_truth/sint-43-00118-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00128-0,sint-43-00128,lista,raw_text/sint-43-00128-0.txt,ground_truth/sint-43-00128-0.json,sim,sem_descricao,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00131-1,sint-43-00131,tabela,raw_text/sint-43-00131-1.txt,ground_truth/sint-43-00131-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00149-1,sint-43-00149,tabela,raw_text/sint-43-00149-1.txt,ground_truth/sint-43-00149-1.json,sim,sem_descricao,enxuto,claude-opus-5-5 (Cowork)
+sint-42-00017-1,sint-42-00017,tabela,raw_text/sint-42-00017-1.txt,ground_truth/sint-42-00017-1.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00024-1,sint-42-00024,colunas,raw_text/sint-42-00024-1.txt,ground_truth/sint-42-00024-1.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00028-0,sint-42-00028,cartaz,raw_text/sint-42-00028-0.txt,ground_truth/sint-42-00028-0.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00033-0,sint-42-00033,cartaz,raw_text/sint-42-00033-0.txt,ground_truth/sint-42-00033-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00036-0,sint-42-00036,cartaz,raw_text/sint-42-00036-0.txt,ground_truth/sint-42-00036-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00088-0,sint-42-00088,lista,raw_text/sint-42-00088-0.txt,ground_truth/sint-42-00088-0.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00101-0,sint-42-00101,colunas,raw_text/sint-42-00101-0.txt,ground_truth/sint-42-00101-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00105-0,sint-42-00105,colunas,raw_text/sint-42-00105-0.txt,ground_truth/sint-42-00105-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
+sint-42-00110-0,sint-42-00110,tabela,raw_text/sint-42-00110-0.txt,ground_truth/sint-42-00110-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
+sint-42-00148-0,sint-42-00148,tabela,raw_text/sint-42-00148-0.txt,ground_truth/sint-42-00148-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00173-1,sint-42-00173,cartaz,raw_text/sint-42-00173-1.txt,ground_truth/sint-42-00173-1.json,sim,sem_lugar,detalhado,gemini-3.8-flash
+sint-42-00180-0,sint-42-00180,tabela,raw_text/sint-42-00180-0.txt,ground_truth/sint-42-00180-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00191-1,sint-42-00191,tabela,raw_text/sint-42-00191-1.txt,ground_truth/sint-42-00191-1.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00201-1,sint-42-00201,tabela,raw_text/sint-42-00201-1.txt,ground_truth/sint-42-00201-1.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00212-1,sint-42-00212,tabela,raw_text/sint-42-00212-1.txt,ground_truth/sint-42-00212-1.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00221-1,sint-42-00221,lista,raw_text/sint-42-00221-1.txt,ground_truth/sint-42-00221-1.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00227-0,sint-42-00227,lista,raw_text/sint-42-00227-0.txt,ground_truth/sint-42-00227-0.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00229-1,sint-42-00229,colunas,raw_text/sint-42-00229-1.txt,ground_truth/sint-42-00229-1.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00237-1,sint-42-00237,colunas,raw_text/sint-42-00237-1.txt,ground_truth/sint-42-00237-1.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00272-0,sint-42-00272,lista,raw_text/sint-42-00272-0.txt,ground_truth/sint-42-00272-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
+sint-42-00280-0,sint-42-00280,lista,raw_text/sint-42-00280-0.txt,ground_truth/sint-42-00280-0.json,sim,sem_descricao,detalhado,gemini-3.8-flash
+sint-42-00308-0,sint-42-00308,cartaz,raw_text/sint-42-00308-0.txt,ground_truth/sint-42-00308-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
+sint-42-00320-0,sint-42-00320,cartaz,raw_text/sint-42-00320-0.txt,ground_truth/sint-42-00320-0.json,sim,sem_lugar,detalhado,gemini-3.8-flash
+sint-42-00373-1,sint-42-00373,colunas,raw_text/sint-42-00373-1.txt,ground_truth/sint-42-00373-1.json,sim,sem_descricao,detalhado,gemini-3.8-flash
+sint-42-00376-0,sint-42-00376,lista,raw_text/sint-42-00376-0.txt,ground_truth/sint-42-00376-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00384-1,sint-42-00384,tabela,raw_text/sint-42-00384-1.txt,ground_truth/sint-42-00384-1.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00399-0,sint-42-00399,colunas,raw_text/sint-42-00399-0.txt,ground_truth/sint-42-00399-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00402-0,sint-42-00402,cartaz,raw_text/sint-42-00402-0.txt,ground_truth/sint-42-00402-0.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00415-0,sint-42-00415,lista,raw_text/sint-42-00415-0.txt,ground_truth/sint-42-00415-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00428-0,sint-42-00428,tabela,raw_text/sint-42-00428-0.txt,ground_truth/sint-42-00428-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00429-0,sint-42-00429,colunas,raw_text/sint-42-00429-0.txt,ground_truth/sint-42-00429-0.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00451-0,sint-42-00451,cartaz,raw_text/sint-42-00451-0.txt,ground_truth/sint-42-00451-0.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-42-00461-0,sint-42-00461,cartaz,raw_text/sint-42-00461-0.txt,ground_truth/sint-42-00461-0.json,sim,completo,detalhado,gemini-3.8-flash
+sint-42-00496-1,sint-42-00496,colunas,raw_text/sint-42-00496-1.txt,ground_truth/sint-42-00496-1.json,sim,enxuto,detalhado,gemini-3.8-flash
+sint-43-00000-1,sint-43-00000,cartaz,raw_text/sint-43-00000-1.txt,ground_truth/sint-43-00000-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00024-0,sint-43-00024,tabela,raw_text/sint-43-00024-0.txt,ground_truth/sint-43-00024-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00040-0,sint-43-00040,tabela,raw_text/sint-43-00040-0.txt,ground_truth/sint-43-00040-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00049-0,sint-43-00049,lista,raw_text/sint-43-00049-0.txt,ground_truth/sint-43-00049-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00057-0,sint-43-00057,colunas,raw_text/sint-43-00057-0.txt,ground_truth/sint-43-00057-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00090-0,sint-43-00090,lista,raw_text/sint-43-00090-0.txt,ground_truth/sint-43-00090-0.json,sim,sem_descricao,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00091-1,sint-43-00091,cartaz,raw_text/sint-43-00091-1.txt,ground_truth/sint-43-00091-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00093-1,sint-43-00093,lista,raw_text/sint-43-00093-1.txt,ground_truth/sint-43-00093-1.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00102-0,sint-43-00102,tabela,raw_text/sint-43-00102-0.txt,ground_truth/sint-43-00102-0.json,sim,sem_descricao,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00107-0,sint-43-00107,lista,raw_text/sint-43-00107-0.txt,ground_truth/sint-43-00107-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00118-1,sint-43-00118,tabela,raw_text/sint-43-00118-1.txt,ground_truth/sint-43-00118-1.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00128-1,sint-43-00128,lista,raw_text/sint-43-00128-1.txt,ground_truth/sint-43-00128-1.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00141-0,sint-43-00141,cartaz,raw_text/sint-43-00141-0.txt,ground_truth/sint-43-00141-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00147-0,sint-43-00147,colunas,raw_text/sint-43-00147-0.txt,ground_truth/sint-43-00147-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00149-0,sint-43-00149,colunas,raw_text/sint-43-00149-0.txt,ground_truth/sint-43-00149-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00153-0,sint-43-00153,colunas,raw_text/sint-43-00153-0.txt,ground_truth/sint-43-00153-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
 sint-43-00165-0,sint-43-00165,lista,raw_text/sint-43-00165-0.txt,ground_truth/sint-43-00165-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00168-0,sint-43-00168,tabela,raw_text/sint-43-00168-0.txt,ground_truth/sint-43-00168-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00183-1,sint-43-00183,colunas,raw_text/sint-43-00183-1.txt,ground_truth/sint-43-00183-1.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00220-0,sint-43-00220,cartaz,raw_text/sint-43-00220-0.txt,ground_truth/sint-43-00220-0.json,sim,sem_descricao,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00221-1,sint-43-00221,tabela,raw_text/sint-43-00221-1.txt,ground_truth/sint-43-00221-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00225-1,sint-43-00225,lista,raw_text/sint-43-00225-1.txt,ground_truth/sint-43-00225-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00232-1,sint-43-00232,colunas,raw_text/sint-43-00232-1.txt,ground_truth/sint-43-00232-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00243-0,sint-43-00243,tabela,raw_text/sint-43-00243-0.txt,ground_truth/sint-43-00243-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00254-1,sint-43-00254,tabela,raw_text/sint-43-00254-1.txt,ground_truth/sint-43-00254-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00258-0,sint-43-00258,colunas,raw_text/sint-43-00258-0.txt,ground_truth/sint-43-00258-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
-sint-43-00293-0,sint-43-00293,lista,raw_text/sint-43-00293-0.txt,ground_truth/sint-43-00293-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00179-0,sint-43-00179,lista,raw_text/sint-43-00179-0.txt,ground_truth/sint-43-00179-0.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00183-1,sint-43-00183,lista,raw_text/sint-43-00183-1.txt,ground_truth/sint-43-00183-1.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00189-1,sint-43-00189,tabela,raw_text/sint-43-00189-1.txt,ground_truth/sint-43-00189-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00203-0,sint-43-00203,cartaz,raw_text/sint-43-00203-0.txt,ground_truth/sint-43-00203-0.json,sim,sem_lugar,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00221-0,sint-43-00221,cartaz,raw_text/sint-43-00221-0.txt,ground_truth/sint-43-00221-0.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00225-1,sint-43-00225,colunas,raw_text/sint-43-00225-1.txt,ground_truth/sint-43-00225-1.json,sim,enxuto,enxuto,claude-opus-5-5 (Cowork)
+sint-43-00278-1,sint-43-00278,tabela,raw_text/sint-43-00278-1.txt,ground_truth/sint-43-00278-1.json,sim,completo,enxuto,claude-opus-5-5 (Cowork)

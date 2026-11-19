@@ -1,37 +1,37 @@
 [
  {
-  "nome": "Sessão Solene de Abertura",
-  "lugar": "Auditório Rio Solimões",
+  "nome": "SESSÃO SOLENE DE ABERTURA",
+  "lugar": null,
   "dataInicio": "2027-05-21T08:30:00-03:00",
   "dataFim": "2027-05-21T09:30:00-03:00",
-  "descricao": "<p>Abertura oficial dos trabalhos conduzida pelo Desembargador <b>Carlos Eduardo Marinho</b> e pela Procuradora-Geral <b>Larissa Albuquerque</b>, com a participação de representantes da OAB-AM.</p>"
+  "descricao": null
  },
  {
-  "nome": "Mesa-redonda 1",
-  "lugar": "Auditório Rio Solimões",
+  "nome": "MESA-REDONDA 1",
+  "lugar": null,
   "dataInicio": "2027-05-21T09:45:00-03:00",
   "dataFim": "2027-05-21T11:45:00-03:00",
-  "descricao": "<p>Debate sobre <i>Proteção de Terras Indígenas e Jurisdição Constitucional na Amazônia</i>. Com palestras de <b>Antônio Carlos Tuxaua</b>, abordando <i>O Marco Temporal e os Direitos Originários</i>, e da Profa. Dra. <b>Helena Vasconcelos</b>, com o tema <i>Litigância Climática e Povos Tradicionais</i>. Moderação de <b>Renata Sampaio</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "Almoço",
-  "lugar": "Restaurante Panorâmico",
+  "nome": "ALMOÇO",
+  "lugar": null,
   "dataInicio": "2027-05-21T12:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "Mesa-redonda 2",
-  "lugar": "Auditório Rio Negro",
+  "nome": "MESA-REDONDA 2",
+  "lugar": null,
   "dataInicio": "2027-05-21T14:30:00-03:00",
   "dataFim": "2027-05-21T16:30:00-03:00",
-  "descricao": "<p>Discussão sobre <i>Mercado de Carbono e Bioeconomia: Perspectivas Regulatórias</i>. Participação dos especialistas <b>Felipe Castelo Branco</b>, apresentando <i>Certificação e Créditos de Carbono Jurisdicionais</i>, e <b>Mariana Ximenes Bentes</b>, com <i>Compliance e Governança Florestal Privada</i>. Coordenação a cargo de <b>Thiago Meireles</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "Plenária de Encerramento",
-  "lugar": "Auditório Rio Solimões",
+  "nome": "PLENÁRIA DE ENCERRAMENTO",
+  "lugar": null,
   "dataInicio": "2027-05-21T17:00:00-03:00",
   "dataFim": null,
-  "descricao": "<p>Apresentação e votação da <i>Carta de Manaus pelos Direitos da Natureza</i>, relatada pelo Prof. <b>Geraldo Nogueira Filho</b>, seguida pelas considerações finais da comissão organizadora presidida por <b>Juliana Fontes Pinheiro</b>.</p>"
+  "descricao": null
  }
 ]

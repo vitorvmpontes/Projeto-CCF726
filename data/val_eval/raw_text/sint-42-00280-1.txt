@@ -1,54 +1,21 @@
-Programação - XXIV Congresso Brasileiro de Ciência da Computação e Engenharia de Software
+XXIV CONGRESSO BRASILEIRO DE CIÊNCIA DA COMPUTAÇÃO E ENGENHARIA DE SOFTWARE
+Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC
+PROGRAMAÇÃO
 Edição 2026
 
-Quarta-feira (14/10/2026)
-Horário
-Atividade
-Local
-09:00 às 10:30
-Cerimônia de Abertura
-Auditório Principal
-Sessão solene de abertura com a coordenção-geral de Prof. Dr. Marcelo Vasc'oncelos e participação especial da presidente da sociedade científica Profa. Dra. Helena Siqueira.
-Vagas lmitadas*!
-Sessões Técnicas
-14:00 às 16:00
-Sessão Técnica 1A:
-Inteligência Artificial e
-Aprendizado de Máquina
-Sala Joaquina
-Coordenação de Dr. Rodrigo Albuquerque. Apresentaçã0 dos artigos: Redes Neurais Convolucionais Aplicadas à Detecção de Falhas E'struturais por Camila Duarte e Otimização Heurística em Grafos* Dinâmicos por Fe|lipe Dornelles.
-14:00 às 16:00
-Sessão Técnica 1B:
-Engenharia de Requisitos e
-Métodos Ágeis
-Sala Campeche
-Coordenação de Profa. Tatana Mneses|. Apresentação dos artigos: Impacto da Integração Contínua na Qualidade de Código porLucas Medeiros e Mapeameno de Histórias de Usuário com Métodos Participativos por Renata P|ires.
+Quarta-feira, 14/10
+Horário | Atividade | Local | Descrição
+das 9h às 10h30 | Cerimônia de Abertura | Auditório Principal | Sessão solene de abertura com a coordenação-geral de Prof. Dr. Marcelo Vasconcelos e participação especial da presidente da sociedade científica Profa. Dra. Helena Siqueira.
+SESSÕES TÉCNICAS
+das 14h às 16h | Sessão Técnica 1A: Inteligência Artificial e Aprendizado de Máquina | Sala Joaquina | Coordenação de Dr. Rodrigo Albuquerque. Apresentação dos artigos: Redes Neurais Convolucionais Aplicadas à Detecção de Falhas Estruturais por Camila Duarte e Otimização Heurística em Grafos Dinâmicos por Felipe Dornelles.
+das 14h às 16h | Sessão Técnica 1B: Engenharia de Requisitos e Métodos Ágeis | Sala Campeche | Coordenação de Profa. Tatiana Meneses. Apresentação dos artigos: Impacto da Integração Contínua na Qualidade de Código por Lucas Medeiros e Mapeamento de Histórias de Usuário com Métodos Participativos por Renata Pires.
 
-Quinta-feira (15/10/2026)
-Horário
-Atividade
-Local
-10:00 às 12:00
-Painel de Debates
-Auditório Principal
-Tema: Ética e Governança n o Uso de Modelos de Linguagem de Grande Porte. Debatedores convidados: Dra. Ju1iana Prado, Prof. Fernando Bastos e mediação conduzida por Dr. André Silveira.
-15:30 às 17:30
-Sessão de Pôsteres
-Foyer Central
-Exibição e arguição de trabalhos de iniciação científica e pós-graduação, avaliados pelo comitê técnico liderado por Profa. Beatriz Noguera.
+Quinta-feira, 15/10
+Horário | Atividade | Local | Descrição
+das 10h às 12h | Painel de Debates | Auditório Principal | Tema: Ética e Governança no Uso de Modelos de Linguagem de Grande Porte. Debatedores convidados: Dra. Juliana Prado, Prof. Fernando Bastos e mediação conduzida por Dr. André Silveira.
+das 15h30 às 17h30 | Sessão de Pôsteres | Foyer Central | Exibição e arguição de trabalhos de iniciação científica e pós-graduação, avaliados pelo comitê técnico liderado por Profa. Beatriz Nogueira.
 
-Sexta-feira (16/10/2026)
-Horário
-Atividade
-Local
-10:30 às 12:00
-Palestra Convidada Internacional
-Auditório Principal
-Palestra intitulada Next-Generation Cloud Architectures and Resilience mi*nistrada pelo pesquisador convidado Dr. Keith Morrison com apresentação de Prof. Gabriel Font*es.
-16:30 às 18:00
-Sessão de Premiação e Encerramento
-Auditório Principal
-Entrega dos prêmios de melhores artigos e anúncio da sede da próxima edição porProf. Dr. Marcelo Vasconcelos.
-
-Realização:
-@xcbcces
+Sexta-feira, 16/10
+Horário | Atividade | Local | Descrição
+das 10h30 às 12h | Palestra Convidada Internacional | Auditório Principal | Palestra intitulada Next-Generation Cloud Architectures and Resilience ministrada pelo pesquisador convidado Dr. Keith Morrison com apresentação de Prof. Gabriel Fontes.
+das 16h30 às 18h | Sessão de Premiação e Encerramento | Auditório Principal | Entrega dos prêmios de melhores artigos e anúncio da sede da próxima edição por Prof. Dr. Marcelo Vasconcelos.

@@ -1,34 +1,34 @@
 [
  {
-  "nome": "Abertura",
+  "nome": "ABERTURA",
   "lugar": null,
   "dataInicio": "2027-08-19T08:30:00-03:00",
   "dataFim": "2027-08-19T09:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Painel Bioinsumos",
+  "nome": "PAINEL BIOINSUMOS",
   "lugar": null,
   "dataInicio": "2027-08-19T09:00:00-03:00",
   "dataFim": "2027-08-19T10:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Painel Agricultura de Precisão",
+  "nome": "PAINEL AGRICULTURA DE PRECISÃO",
   "lugar": null,
   "dataInicio": "2027-08-19T10:45:00-03:00",
   "dataFim": "2027-08-19T12:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Rodada de Negócios",
+  "nome": "RODADA DE NEGÓCIOS",
   "lugar": null,
   "dataInicio": "2027-08-19T10:45:00-03:00",
   "dataFim": "2027-08-19T12:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Demonstração de Drones",
+  "nome": "DEMONSTRAÇÃO DE DRONES",
   "lugar": null,
   "dataInicio": "2027-08-19T14:00:00-03:00",
   "dataFim": "2027-08-19T15:30:00-03:00",

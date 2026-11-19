@@ -1,0 +1,153 @@
+{
+  "nome": "e2b-r1",
+  "manifest": "data/test/manifest.csv",
+  "url": "http://localhost:8080/v1",
+  "formato": "livre",
+  "versao_prompt": "v1",
+  "gerado_em": "2026-11-19T17:44:15+00:00",
+  "chamadas": 17,
+  "erros": 0,
+  "cortadas_max_tokens": 1,
+  "latencia_s": {
+    "media": 43.57823529411765,
+    "mediana": 39.03
+  },
+  "registros": [
+    {
+      "id": "bioeconomia-img",
+      "latencia_s": 43.6,
+      "tokens_entrada": 982,
+      "tokens_saida": 1929,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "forumcpa-pdf",
+      "latencia_s": 52.87,
+      "tokens_entrada": 1515,
+      "tokens_saida": 2433,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "mannamuseu-pdf",
+      "latencia_s": 61.91,
+      "tokens_entrada": 1817,
+      "tokens_saida": 2710,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "mfp2025-dia1-1-img",
+      "latencia_s": 7.54,
+      "tokens_entrada": 165,
+      "tokens_saida": 287,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "mfp2025-dia1-2-img",
+      "latencia_s": 10.03,
+      "tokens_entrada": 188,
+      "tokens_saida": 398,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "mfp2025-dia2-1-img",
+      "latencia_s": 8.6,
+      "tokens_entrada": 172,
+      "tokens_saida": 339,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "mfp2025-dia2-2-img",
+      "latencia_s": 5.91,
+      "tokens_entrada": 151,
+      "tokens_saida": 181,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "opmed-html",
+      "latencia_s": 64.9,
+      "tokens_entrada": 3535,
+      "tokens_saida": 3105,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sebrae-pdf",
+      "latencia_s": 67.34,
+      "tokens_entrada": 1299,
+      "tokens_saida": 2930,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "secom2023-pdf",
+      "latencia_s": 27.83,
+      "tokens_entrada": 829,
+      "tokens_saida": 1197,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "secom2024-img",
+      "latencia_s": 39.03,
+      "tokens_entrada": 543,
+      "tokens_saida": 1729,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "secom2024-pdf",
+      "latencia_s": 179.35,
+      "tokens_entrada": 631,
+      "tokens_saida": 8192,
+      "fim": "length",
+      "erro": ""
+    },
+    {
+      "id": "secom2024-planilha",
+      "latencia_s": 56.92,
+      "tokens_entrada": 709,
+      "tokens_saida": 2677,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "semanaacademicausp-pdf",
+      "latencia_s": 48.99,
+      "tokens_entrada": 4671,
+      "tokens_saida": 2288,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "wit2025-dia1-pdf",
+      "latencia_s": 18.12,
+      "tokens_entrada": 581,
+      "tokens_saida": 844,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "wit2025-dia2-pdf",
+      "latencia_s": 22.0,
+      "tokens_entrada": 710,
+      "tokens_saida": 1053,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "wit2025-dia3-pdf",
+      "latencia_s": 25.89,
+      "tokens_entrada": 791,
+      "tokens_saida": 1257,
+      "fim": "stop",
+      "erro": ""
+    }
+  ]
+}

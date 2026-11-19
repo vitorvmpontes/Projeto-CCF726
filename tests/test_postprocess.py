@@ -131,3 +131,32 @@ def test_pos_processamento_nao_altera_gabarito(row):
     c = count(gt, pp, match_exact(gt, pp))
     assert (c.tp, c.fp, c.fn) == (len(gt), 0, 0)
     assert all(c.field_ok[f] == c.tp for f in FIELDS)
+
+
+# --------------------------------------------------------------------------
+# Pós-processamento v2 (2026-11-20, exploratório)
+# --------------------------------------------------------------------------
+
+def test_v2_separa_faixa_de_horario_colada_na_data():
+    r = pos_processar([{"nome": "Mesa", "dataInicio": "2018-08-13T08:40:00-09:00:00-03:00"}], versao="v2")
+    a = r.atividades[0]
+    assert a["dataInicio"] == "2018-08-13T08:40:00-03:00" and a["dataFim"] == "2018-08-13T09:00:00-03:00"
+    # fim já informado não é sobrescrito
+    r = pos_processar([{"nome": "Mesa", "dataInicio": "2018-08-13T08:40-09:00",
+                        "dataFim": "2018-08-13T10:00:00-03:00"}], versao="v2")
+    assert r.atividades[0]["dataFim"] == "2018-08-13T10:00:00-03:00"
+    # v1 continua descartando, como no resultado principal
+    assert pos_processar([{"nome": "Mesa", "dataInicio": "2018-08-13T08:40:00-09:00:00-03:00"}],
+                         versao="v1").atividades[0]["dataInicio"] is None
+
+
+def test_v2_normaliza_travessao_no_nome():
+    r = pos_processar([{"nome": "Mesa de Abertura – Mesa das Autoridades"}], versao="v2")
+    assert r.atividades[0]["nome"] == "Mesa de Abertura - Mesa das Autoridades"
+    assert pos_processar([{"nome": "A – B"}], versao="v1").atividades[0]["nome"] == "A – B"
+
+
+def test_versao_desconhecida():
+    import pytest
+    with pytest.raises(ValueError):
+        pos_processar([], versao="v9")

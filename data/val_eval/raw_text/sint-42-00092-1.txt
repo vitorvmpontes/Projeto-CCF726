@@ -1,24 +1,27 @@
-XXIV Congresso Brasileiro de Bioinformática e Biologia Computacional
-Programação 2025
+XXIV CONGRESSO BRASILEIRO DE BIOINFORMÁTICA E BIOLOGIA COMPUTACIONAL
+Centro de Convenções de Goiânia, Goiânia - GO
+PROGRAMAÇÃO
 
-14 de agosto
-SESSÕES TÉCNICAS
-09h00 às 10h30
-Sessão Técnica Oral
-Auditório Buriti
-Coordenação: Dra. Mariana Faundes Siqueira (UFG).
+Sessões Técnicas
+9h às 10h30
+SESSÃO TÉCNICA ORAL
+Coordenação: Dra. Mariana Fagundes Siqueira (UFG).
 Apresentação dos trabalhos selecionados na trilha de Genômica Estrutural:
-- Modelagem comparativa e dinâmic'a molecular da proteína quinase virál, por Lucas Gabriel' Rocha e Beatriz Mendonça Dias.
-- Identificação de sítios de ligação 'em alos terapêuticos de Leishmania spp. utilizano aprendizado profundo, por Rodrigo Vianna Castro e Carlos Eduardo Pimentel.
-09h00 às 10h30
-Sessão Técnica Oral
-Local: Sala Ipê Amarelo
-Coordenação: Prf.Dr. Henrique Fontes Silveira (UnB).
+- Modelagem comparativa e dinâmica molecular da proteína quinase viral, por Lucas Gabriel Rocha e Beatriz Mendonça Dias.
+- Identificação de sítios de ligação em alvos terapêuticos de Leishmania spp. utilizando aprendizado profundo, por Rodrigo Vianna Castro e Carlos Eduardo Pimentel.
+AUDITÓRIO BURITI
+9h às 10h30
+SESSÃO TÉCNICA ORAL
+Coordenação: Prof. Dr. Henrique Fontes Silveira (UnB).
 Trabalhos da trilha de Mineração de Dados Biológicos e Filogenômica:
 - Inferência filogenética e caracterização genômica comparativa de cepas de Corynebacterium, por Fernanda Tavares Lima.
-- Predição in silico de peptídeos antimicrobianos a partir do transcriptoma de venenos de sepentes do Cerrado, por Thiago Alencar Brandão e Renata Nogueira Soares.
-11h00 às 12h30 | Painel Temático
-Auditório Cerrado
-Painel sobre Desafios da Inteligência Artificial Generativa no Desenvolvimento de Fármaco.
-Modcrador: Dr. Marcelo Albuquerque Prado (Fiocruz).
-Debatedores: Dra. Tatiana Neves Meireles (USP) e Dr. Wilso*n Antunes Barcellos (UFRJ).
+- Predição in silico de peptídeos antimicrobianos a partir do transcriptoma de venenos de serpentes do Cerrado, por Thiago Alencar Brandão e Renata Nogueira Soares.
+SALA IPÊ AMARELO
+11h às 12h30
+PAINEL TEMÁTICO
+Painel sobre Desafios da Inteligência Artificial Generativa no Desenvolvimento de Fármacos.
+Moderador: Dr. Marcelo Albuquerque Prado (Fiocruz).
+Debatedores: Dra. Tatiana Neves Meireles (USP) e Dr. Wilson Antunes Barcellos (UFRJ).
+AUDITÓRIO CERRADO
+
+Programação 14/08/2025

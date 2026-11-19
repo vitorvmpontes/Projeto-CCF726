@@ -1,27 +1,27 @@
 [
  {
-  "nome": "ABERTURA",
+  "nome": "Abertura",
   "lugar": null,
   "dataInicio": "2023-03-29T08:00:00-03:00",
   "dataFim": "2023-03-29T08:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PALESTRA DE ABERTURA",
+  "nome": "Palestra de Abertura",
   "lugar": null,
   "dataInicio": "2023-03-29T08:30:00-03:00",
   "dataFim": "2023-03-29T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p><i>Educação do campo nas ilhas do Bailique</i>, com <b>Profa. Raimunda Picanço</b>.</p>"
  },
  {
-  "nome": "GRUPOS DE TRABALHO",
+  "nome": "Grupos de Trabalho",
   "lugar": null,
   "dataInicio": "2023-03-29T10:15:00-03:00",
   "dataFim": "2023-03-29T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PLENÁRIA FINAL",
+  "nome": "Plenária Final",
   "lugar": null,
   "dataInicio": "2023-03-29T14:00:00-03:00",
   "dataFim": "2023-03-29T16:00:00-03:00",

@@ -2,86 +2,90 @@ I WORKSHOP BRASILIENSE DE INTELIGÊNCIA ARTIFICIAL E APLICAÇÕES PRÁTICAS (WBI
 Centro de Convenções Ulysses Guimarães, Brasília - DF
 PROGRAMAÇÃO
 
-19 de maio
-08:00 às 09:00
-CREDENCIAMENTO E ENTREGA DE KITS
-09:00 às 09:30
-SESSÃO DE ABERTURA
-09:30 às 10:30
-PALESTRA PLENÁRIA
-10:30 às 11:00
-PAUSA PARA CAFÉ
-MINICURSOS TEÓRICO-PRÁTICOS
-11:00 às 12:30
-MINICURSO 1
-11:00 às 12:30
-MINICURSO 2
-11:00 às 12:30
-MINICURSO 3
-12:30 às 14:00
-INTERVALO DE ALMOÇO
-APRESENTAÇÃO DE TRABALHOS CIENTÍFICOS
-14:00 às 16:00
-SESSÃO TÉCNICA 1
-#wbiaapw2027
-16:00 às 16:30
-PAUSA PARA CAFÉ
-16:30 às 18:00
-PAINEL DE DEBATES
+19 • Maio
+08h00 - 09h00: Credenciamento e Entrega de Kits
+Foyer Principal
+09h00 - 09h30 - Sessão de Abertura
+Auditório Master
+Boas-vindas institucionais com a coordenadora geral Dra. Cecília Meireles Ribeiro e representantes de órgãos federais parceiros.
+09h30 - 10h30: Palestra Plenária
+📍 Auditório Master
+Apresentação sob o tema Modlos Fundacionais Multimodais: Fron'teiras e Desafios para aPróxima Década, proferida pelo Prof. Dr. Ma rcelo Bastos Guimarães (UnB).
+10h30 - 11h00 - Pausa para Café
+Local: Área de Convivência
+11h00 - 12h30  Minicurso 1
+Local: Laboratório de Informática A
+Par*te I do minicurso Fine-'tuning e Alinhamento Eficiente de LLMs com Técnicas de LoRA e QLoRA, ministrado por Msc. Renata Albuquerque.
+11h00 - 12h30 – Minicurso 2
+📍 Laboratório de Informática B
+Párte I do minicurso Visão Computacional para Cid|ades Inteligentes: Detecção e Rastreamento em Temp|o Real, com Dr. André Villela Vianna.
+11h00 - 12h30 - Minicurso 3
+📍 Sala 102
+Parte *I do minicurso Grafos de Conhecimento e RAG| Avançado para Sistemas C orporativos, conduzido por Dra Talita Nogueira da Silva.
+12h30 - 14h00 – Intervalo de Almoço
+14h00 - 16h00  Sessão Técnica 1
+Auditório Master
+Apresentação de artigos curtos sobre Aprendizado Profundo. Coordenação de Prof. Lucas Meneses.| Artigos: Otimização de Redes Neurais Esparsas por Felipe Couto; Autoencoders Variacionais para Séries Temporais por Beatriz Brandão.
+16h00 - 16h30 – Pausa para Café
+📍 Área de Convivência
+16h30 - 18h00 | Painel de Debates
+Auditório Master
+Te*ma: Regulação da Inteligência Artificial e Soberania Digital no Brasil. Modeado por Dra. Juliana Prado, com debatedores Dr. Henrique Fontes e Msc. Patrícia Diniz Sampaio.
 
-20 de maio
-08:30 às 09:30
-PALESTRA CONVIDADA
-MINICURSOS TEÓRICO-PRÁTICOS
-09:30 às 11:00
-MINICURSO 1
-09:30 às 11:00
-MINICURSO 2
-Vagas limitadas!
-09:30 às 11:00
-MINICURSO 3
-11:00 às 11:30
-PAUSA PARA CAFÉ
-Programação sujeita a alterações
-Apresentação de Trabalhos Científicos
-11:30 às 13:00
-SESSÃO TÉCNICA 2
-13:00 às 14:30
-INTERVALO DE ALMOÇO
-Inscrições gratuitas
-MINICURSOS TEÓRICO-PRÁTICOS
-14:30 às 16:30
-MINICURSO 4
-Inscrições gratuitas
-14:30 às 16:30
-MINICURSO 5
-16:30 às 17:00
-PAUSA PARA CAFÉ
-17:00 às 18:30
-SESSÃO DE PÔSTERES
-Vagas limitadas!
+20 • Maio
+08h30 - 09h30 | Palestra Convidada
+Auditório Master
+Tema: IA Explicável e Causalidade em Saúde Pública com a pesquisadora Dra. Mariana Goulart (Fiocruz).
+09h30 - 11h00  Minicurso 1
+Laboratório de Informática A
+Parte II do minicurso Fin|e-tuning e Alinhamento Eficiente de LLMs com Técnicas de LoRA e QLoRA, ministrado por Msc. Renata Albuquerque.
+09h30 - 11h00: Minicurso 2
+Laboratório de Informática B
+Parte II d minicurso Visão Computacional para Cidades Inteligentes: Detecção e Rastreamento em Tempo Real, com Dr. André Villela Vianna.
+09h30 - 11h00 – Minicurso 3
+Sala 102
+Parte II do minicurso Grafos dc Conhecimento e RAG Avançado para Sisteas Corporativos, cnuzido por Dra. Talita Nogueira da Silva.
+11h00 - 11h30 | Pausa para Café
+Área de Convivência
+11h30 - 13h00 | Sessão Técnica 2
+Local: Auditório Master
+Sessão dedicada a Processamento de Linguagem Natural. Apresentação do trabalho Cor pus Anotado para Análise de Sentimentos em Documentos Oficias por Tiago Salgado e Detecção *Automática de Vieses Textuais por Carla Antunes. Modeação de Pr0f. Dr. Sérgio Dorneles.
+13h00 - 14h30 | Intervalo de Almoço
+14h30 - 16h30: Minicurso 4
+Local: Laboratório de Informática A
+Módulo intensivo: MLOps: Da Prototipagem ao Monitoramento de Modelos em Nuvem com o instrutor Eng. Rodr*igo Cavalcanti.
+14h30 - 16h30 – Minicurso 5
+Laboratório de Informática B
+Módulo intensívo: IA Generativa de Imagens com Modelos de Dif usão Latente sob orientação de Dra. Vanessa Figueiredo.
+16h30 - 17h00 – Pausa para Café
+📍 Área de Convivência
+17h00 - 18h30 | Sessão de Pôsteres
+Hall de Exposições
+Exibição e arguição de trabalhos de graduação e pós-graduação sobre aplicaçõe*s práticas de inteligência artificial na indústria e serviços públicos.
 
-21 de maio
-09:00 às 10:30
-MESA-REDONDA
-10:30 às 11:00
-PAUSA PARA CAFÉ
-MINICURSOS TEÓRICO-PRÁTICOS
-11:00 às 12:30
-MINICURSO 1
-11:00 às 12:30
-MINICURSO 2
-12:30 às 14:00
-INTERVALO DE ALMOÇO
-www.wbiaapw.com.br
-14:00 às 15:30
-DEMODAY DE SOLUÇÕES DE IA
-15:30 às 16:00
-PAUSA PARA CAFÉ
-16:00 às 17:30
-CERIMÔNIA DE PREMIAÇÃO E ENCERRAMENTO
-17:30
-COQUETEL DE ENCERRAMENTO
-
-Apoio:
-@wbiaapw
+21 • Maio
+09h00 - 10h30: Mesa-Redonda
+📍 Auditório Master
+Tema: Transformação do Setor Público por Meio de IA Ética. Participação dos specialistas Gustavo Faria, Dra. Helena Martins e mediação do Prof. Dr. Ricard o Ramos.
+10h30 - 11h00 – Pausa para Café
+📍 Área de Convivência
+11h00 - 12h30 – Minicurso 1
+📍 Laboratório de Informática A
+Parte III (finaliza'ção e projeto prático) do inicurso Fine-tuning e Alinhamento Eficient de LLMs com Técnicas de LoRA e QLoRA com Msc. Renata Albuqerque.
+11h00 - 12h30 – Minicurso 2
+Laboratório de Informática B
+Parte III (aplicação e testes em vídeo) do mi*nicurso Visão Computacional para Cidades Inteligentes: Det|ecção e Rast|reamento em Tempo Real conduido por Dr. André Villela Viana.
+12h30 - 14h00  Intervalo de Almoço
+14h00 - 15h30 – Demoday de Soluções de IA
+Local: Espaço Inovação
+Aprese*ntação ao vivo de protótipos de startups e grupos de pesquisa para bancas de *investidores, sob avaliação de B|runo Tavares e Fernand Lins.
+15h30 - 16h00
+Pausa para Café
+Local: Área de Convivência
+16h00 - 17h30 – Cerimônia de Premiação e Encerramento
+Local: Auditório Master
+Premiação dos melhores artigos e soluções do Demoday, conduzida pelos coordenadores Dra. Cecília Mireles Ribeiro e Prof. Lucas Meneses.
+17h30
+Coquetel de Encerramento
+📍 Terraço Panorâmico
+Momento de confraterniação e networking final entre congressistas, patrocinadores e palestrantes.

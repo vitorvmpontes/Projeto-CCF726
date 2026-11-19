@@ -2,13 +2,11 @@ HACK PORTO MARAVILHA 2024
 Armazém 5 - Píer Mauá
 PROGRAMAÇÃO
 
-SÁBADO - 09/11/24
-Horário | Atividade
-9h | Abertura do Hackathon
-10h às 11h | Palestra Observabilidade em Escala
-10h às 11h | Palestra Open Finance na Prática
+9 de novembro de 2024 - Armazém 5 - Píer Mauá
+09h00  Abertura do Hackathon
+(10h00 - 11h00) | Palestra Observabilidade em Escala
+(10h00 - 11h00): Palestra Open Finance na Prática
 
-DOMINGO - 10/11/24
-Horário | Atividade
-12h | Entrega dos Projetos
-14h às 17h | Pitch Final e Premiação
+10 de novembro de 2024 | Local: Armazém 5 - Píer Mauá
+12h00  Entrega dos Projetos
+(14h00 - 17h00): Pitch Final e Premiação

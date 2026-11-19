@@ -1,160 +1,160 @@
 [
  {
-  "nome": "Recepção e Boas-Vindas",
+  "nome": "RECEPÇÃO E BOAS-VINDAS",
   "lugar": null,
   "dataInicio": "2027-10-14T14:00:00-03:00",
   "dataFim": "2027-10-14T15:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Solenidade de Abertura",
+  "nome": "SOLENIDADE DE ABERTURA",
   "lugar": null,
   "dataInicio": "2027-10-14T15:00:00-03:00",
   "dataFim": "2027-10-14T16:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Aula-Show 1",
+  "nome": "AULA-SHOW 1",
   "lugar": null,
   "dataInicio": "2027-10-14T16:30:00-03:00",
   "dataFim": "2027-10-14T18:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina Técnica 1",
+  "nome": "OFICINA TÉCNICA 1",
   "lugar": null,
   "dataInicio": "2027-10-14T16:30:00-03:00",
   "dataFim": "2027-10-14T18:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Painel de Debates 1",
+  "nome": "PAINEL DE DEBATES 1",
   "lugar": null,
   "dataInicio": "2027-10-14T18:30:00-03:00",
   "dataFim": "2027-10-14T20:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Degustação Guiada de Cachaças Potiguares",
+  "nome": "DEGUSTAÇÃO GUIADA DE CACHAÇAS POTIGUARES",
   "lugar": null,
   "dataInicio": "2027-10-14T20:00:00-03:00",
   "dataFim": "2027-10-14T21:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Aula-Show 2",
+  "nome": "AULA-SHOW 2",
   "lugar": null,
   "dataInicio": "2027-10-15T10:00:00-03:00",
   "dataFim": "2027-10-15T11:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão de Pôsteres Científicos",
+  "nome": "SESSÃO DE PÔSTERES CIENTÍFICOS",
   "lugar": null,
   "dataInicio": "2027-10-15T10:00:00-03:00",
   "dataFim": "2027-10-15T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina Técnica 2",
+  "nome": "OFICINA TÉCNICA 2",
   "lugar": null,
   "dataInicio": "2027-10-15T11:30:00-03:00",
   "dataFim": "2027-10-15T13:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Intervalo para Almoço Livre",
+  "nome": "INTERVALO PARA ALMOÇO LIVRE",
   "lugar": null,
   "dataInicio": "2027-10-15T13:00:00-03:00",
   "dataFim": "2027-10-15T14:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Aula-Show 3",
+  "nome": "AULA-SHOW 3",
   "lugar": null,
   "dataInicio": "2027-10-15T14:30:00-03:00",
   "dataFim": "2027-10-15T16:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão Oral de Trabalhos",
+  "nome": "SESSÃO ORAL DE TRABALHOS",
   "lugar": null,
   "dataInicio": "2027-10-15T14:30:00-03:00",
   "dataFim": "2027-10-15T16:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Aula-Show 4",
+  "nome": "AULA-SHOW 4",
   "lugar": null,
   "dataInicio": "2027-10-15T16:30:00-03:00",
   "dataFim": "2027-10-15T18:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina Técnica 3",
+  "nome": "OFICINA TÉCNICA 3",
   "lugar": null,
   "dataInicio": "2027-10-15T16:30:00-03:00",
   "dataFim": "2027-10-15T18:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Painel de Debates 2",
+  "nome": "PAINEL DE DEBATES 2",
   "lugar": null,
   "dataInicio": "2027-10-15T18:30:00-03:00",
   "dataFim": "2027-10-15T20:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Aula-Show 5",
+  "nome": "AULA-SHOW 5",
   "lugar": null,
   "dataInicio": "2027-10-16T10:00:00-03:00",
   "dataFim": "2027-10-16T11:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina Técnica 4",
+  "nome": "OFICINA TÉCNICA 4",
   "lugar": null,
   "dataInicio": "2027-10-16T10:00:00-03:00",
   "dataFim": "2027-10-16T11:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Aula-Show 6",
+  "nome": "AULA-SHOW 6",
   "lugar": null,
   "dataInicio": "2027-10-16T11:30:00-03:00",
   "dataFim": "2027-10-16T13:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Intervalo para Almoço Livre",
+  "nome": "INTERVALO PARA ALMOÇO LIVRE",
   "lugar": null,
   "dataInicio": "2027-10-16T13:00:00-03:00",
   "dataFim": "2027-10-16T14:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina Técnica 5",
+  "nome": "OFICINA TÉCNICA 5",
   "lugar": null,
   "dataInicio": "2027-10-16T14:30:00-03:00",
   "dataFim": "2027-10-16T16:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Aula-Show Magna de Encerramento",
+  "nome": "AULA-SHOW MAGNA DE ENCERRAMENTO",
   "lugar": null,
   "dataInicio": "2027-10-16T16:00:00-03:00",
   "dataFim": "2027-10-16T17:45:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Premiação do Concurso Novos Talentos Potiguares",
+  "nome": "PREMIAÇÃO DO CONCURSO NOVOS TALENTOS POTIGUARES",
   "lugar": null,
   "dataInicio": "2027-10-16T18:00:00-03:00",
   "dataFim": "2027-10-16T19:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Encerramento e Coquetel",
+  "nome": "ENCERRAMENTO E COQUETEL",
   "lugar": null,
   "dataInicio": "2027-10-16T19:30:00-03:00",
   "dataFim": null,

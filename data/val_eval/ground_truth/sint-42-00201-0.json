@@ -8,14 +8,14 @@
  },
  {
   "nome": "Celebração Eucarística de Abertura",
-  "lugar": null,
+  "lugar": "Nave Principal",
   "dataInicio": "2027-05-20T19:30:00-03:00",
   "dataFim": "2027-05-20T21:00:00-03:00",
   "descricao": "<p>Missa solene presidida por Dom <b>Geraldo Vasconcelos</b> com participação do Coral Esperança Viva.</p>"
  },
  {
   "nome": "Oficina Formativa 1",
-  "lugar": null,
+  "lugar": "Salão Frei Anselmo",
   "dataInicio": "2027-05-21T09:00:00-03:00",
   "dataFim": "2027-05-21T11:30:00-03:00",
   "descricao": "<p>Oficina intitulada <i>O resgate do diálogo fraterno entre gerações para a superação do isolamento social e promoção da solidariedade nas periferias urbanas</i>, ministrada por <b>Clara Menezes de Souza</b> e <b>Irmão Valdir Trindade</b>.</p>"
@@ -29,7 +29,7 @@
  },
  {
   "nome": "Oficina Formativa 2",
-  "lugar": null,
+  "lugar": "Sala Catequética 3",
   "dataInicio": "2027-05-21T14:30:00-03:00",
   "dataFim": "2027-05-21T17:00:00-03:00",
   "descricao": "<p>Capacitação prática intitulada <i>Estratégias sustentáveis de mobilização popular e captação de recursos comunitários destinados à manutenção de cozinhas solidárias nos bairros vulneráveis</i>, sob coordenação de <b>Patrícia Figueiredo</b> e mediação de <b>Lucas Brandão</b>.</p>"
@@ -43,7 +43,7 @@
  },
  {
   "nome": "Vigília de Louvor e Testemunhos",
-  "lugar": null,
+  "lugar": "Nave Principal",
   "dataInicio": "2027-05-22T19:00:00-03:00",
   "dataFim": "2027-05-22T21:30:00-03:00",
   "descricao": "<p>Momento de oração comunitária e relatos coordenado pela liderança jovem <b>Mariana Antunes</b> e pelo diácono <b>Benedito Paiva</b>.</p>"

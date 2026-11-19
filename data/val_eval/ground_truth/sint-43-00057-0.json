@@ -1,35 +1,35 @@
 [
  {
   "nome": "Credenciamento",
-  "lugar": null,
+  "lugar": "Escola Superior de Advocacia - Centro",
   "dataInicio": "2024-05-15T17:00:00-03:00",
   "dataFim": "2024-05-15T18:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Conferência de Abertura",
-  "lugar": "Auditório Principal",
+  "lugar": "Escola Superior de Advocacia - Centro",
   "dataInicio": "2024-05-15T18:00:00-03:00",
   "dataFim": "2024-05-15T19:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "Painel A",
-  "lugar": "Sala 201",
+  "lugar": "Escola Superior de Advocacia - Centro",
   "dataInicio": "2024-05-16T09:00:00-03:00",
   "dataFim": "2024-05-16T10:30:00-03:00",
-  "descricao": "<p>Reforma trabalhista e plataformas digitais.</p>"
+  "descricao": null
  },
  {
   "nome": "Painel B",
-  "lugar": "Sala 202",
+  "lugar": "Escola Superior de Advocacia - Centro",
   "dataInicio": "2024-05-16T09:00:00-03:00",
   "dataFim": "2024-05-16T10:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "Encerramento",
-  "lugar": "Auditório Principal",
+  "lugar": "Escola Superior de Advocacia - Centro",
   "dataInicio": "2024-05-17T10:00:00-03:00",
   "dataFim": "2024-05-17T11:00:00-03:00",
   "descricao": null

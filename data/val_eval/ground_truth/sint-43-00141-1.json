@@ -1,20 +1,20 @@
 [
  {
-  "nome": "CREDENCIAMENTO",
+  "nome": "Credenciamento",
   "lugar": null,
   "dataInicio": "2027-10-14T18:30:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "APRESENTAÇÃO DO RELATÓRIO DA CPA",
+  "nome": "Apresentação do Relatório da CPA",
   "lugar": null,
   "dataInicio": "2027-10-14T19:00:00-03:00",
   "dataFim": "2027-10-14T20:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "DEBATE ABERTO",
+  "nome": "Debate Aberto",
   "lugar": null,
   "dataInicio": "2027-10-14T20:00:00-03:00",
   "dataFim": null,

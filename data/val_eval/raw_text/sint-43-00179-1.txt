@@ -1,10 +1,23 @@
-Programação - Workshop Paraibano de Inteligência Artificial 2023
-Edição 2023
+Workshop Paraibano de Inteligência Artificial 2023
+Programação
+LOCAL: Centro de Informática - UFPB
 
-18 de agosto
-Horário | Atividade
-8h - 10h | Minicurso de PyTorch
-10h - 10h20 | Intervalo
-10h20 - 12h | Minicurso de LLMs com Hugging Face
-12h - 13h30 | Almoço
-14h - 15h | Palestra: IA na Saúde Pública
+Horário
+Atividade
+08h00 – 10h00
+Minicurso de PyTorch
+10h00 – 10h20
+Intervalo
+10h20 – 12h00
+Minicurso de LLMs com Hugging Face
+Inscrições gratuitas
+12h00 – 13h30
+Almoço
+Inscrições gratuitas
+14h00 – 15h00
+Palestra: IA na Saúde Pública
+
+Apoio:
+@wpia
+
+18/08/2023

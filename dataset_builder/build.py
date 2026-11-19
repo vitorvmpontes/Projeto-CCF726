@@ -32,7 +32,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from .filters import aplicar_filtros, estimar_tokens, limpar_evento
-from .render import LAYOUTS, PERFIS, RUIDOS, renderizar
+from .render import EXTRAS, LAYOUTS, PERFIS, RUIDOS, renderizar
 from .spec import ESTILOS, EventoSpec, sortear_specs
 from .teacher import MODELO_PADRAO, gerar_evento
 
@@ -43,6 +43,10 @@ PRECO = {"entrada": 0.75, "saida": 3.75}  # gemini-3.8-flash, USD por 1M tokens 
 # Perfis de renderização (v1.1). Nas programações reais, a falta de local e de
 # descrição costuma valer para o documento inteiro; na v1 nenhum texto era assim.
 PESOS_PERFIL = {"completo": 0.40, "sem_lugar": 0.20, "sem_descricao": 0.10, "enxuto": 0.30}
+
+# Extras da v1.2 (render.EXTRAS): probabilidade de pedir cada um; o renderizador só aplica
+# quando faz sentido (ex.: data_no_titulo só em evento de um dia).
+PROB_EXTRAS = {"local_cabecalho": 0.35, "data_no_titulo": 0.4, "aspas": 0.25}
 
 
 # --------------------------------------------------------------------------
@@ -104,6 +108,12 @@ def _sortear_perfil(rng: random.Random, sem_perfis: bool) -> str:
     return rng.choices(PERFIS, weights=[PESOS_PERFIL[p] for p in PERFIS])[0]
 
 
+def _sortear_extras(rng: random.Random, sem_extras: bool) -> list[str]:
+    if sem_extras:
+        return []
+    return [e for e in EXTRAS if rng.random() < PROB_EXTRAS[e]]
+
+
 def cmd_montar(args) -> int:
     arquivos = sorted(EVENTOS_DIR.glob("*.json"))
     if not arquivos:
@@ -122,7 +132,8 @@ def cmd_montar(args) -> int:
         layouts = rng.sample(LAYOUTS, k=min(args.por_evento, len(LAYOUTS)))
         aprovados = 0
         for k, layout in enumerate(layouts):
-            r = renderizar(evento, layout, rng, _sortear_ruidos(rng), _sortear_perfil(rng, args.sem_perfis))
+            r = renderizar(evento, layout, rng, _sortear_ruidos(rng), _sortear_perfil(rng, args.sem_perfis),
+                           _sortear_extras(rng, args.sem_extras))
             motivos = aplicar_filtros(r.texto, r.atividades)
             if motivos:
                 rejeicoes.update(motivos)
@@ -130,7 +141,7 @@ def cmd_montar(args) -> int:
             aprovados += 1
             exemplos.append({
                 "id": f"{eid}-{k}", "evento_id": eid, "fonte": "sintetico",
-                "layout": r.layout, "ruidos": r.ruidos, "estilos": r.estilos, "perfil": r.perfil,
+                "layout": r.layout, "ruidos": r.ruidos, "estilos": r.estilos, "perfil": r.perfil, "extras": r.extras,
                 "estilo_evento": reg["spec"].get("estilo", "detalhado"),
                 "tipo_evento": reg["spec"]["tipo"], "casos": reg["spec"]["casos"],
                 "modelo_professor": reg["modelo"],
@@ -216,6 +227,7 @@ def estatisticas(arquivos, train, val, rejeicoes, args) -> dict:
         "caixa_alta": {"exemplos": sum(1 for e in todos if e["estilos"].get("maiusculas")),
                        "fracao": round(sum(1 for e in todos if e["estilos"].get("maiusculas")) / len(todos), 3) if todos else 0},
         "perfis": dist("perfil"),
+        "extras": dict(Counter(x for e in todos for x in e.get("extras", [])).most_common()),
         "modelos_professor": dist("modelo_professor"),
         "estilos_evento": dist("estilo_evento"),
         "campos_ausentes": {
@@ -262,7 +274,7 @@ def data_card(s: dict) -> str:
     def tab(d):
         return "\n".join(f"| {k} | {v} |" for k, v in d.items())
 
-    return f"""# Data card — dataset de treino/validação (fonte B: sintético, v1.1)
+    return f"""# Data card — dataset de treino/validação (fonte B: sintético, v1.2)
 
 Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 
@@ -298,6 +310,10 @@ Gerado em {s['gerado_em']} por `python -m dataset_builder.build montar`.
 | Perfil | Exemplos |
 |---|---|
 {tab(s['perfis'])}
+
+| Extra (v1.2) | Exemplos |
+|---|---|
+{tab(s.get('extras') or {}) or '| — | 0 |'}
 
 ### Campos ausentes
 
@@ -402,6 +418,7 @@ def main() -> int:
     m.add_argument("--val", type=float, default=0.15, help="fração de EVENTOS na validação")
     m.add_argument("--semente", type=int, default=42)
     m.add_argument("--sem-perfis", action="store_true", help="renderiza tudo no perfil completo (como a v1)")
+    m.add_argument("--sem-extras", action="store_true", help="não aplica os extras da v1.2 (como a v1.1)")
     a = sub.add_parser("amostra", help="gera a amostra para revisão manual")
     a.add_argument("--n", type=int, default=12, help="número de exemplos (dividido entre os layouts)")
     a.add_argument("--semente", type=int, default=7)

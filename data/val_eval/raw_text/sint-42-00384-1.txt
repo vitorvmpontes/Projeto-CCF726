@@ -1,91 +1,32 @@
-Programação - V Encontro Mineiro de Mulheres na Computação
-Edição 2024
+V Encontro Mineiro de Mulheres na Computação
+Programação 2024
 
 16 de outubro de 2024
-Horário
-Atividade
-Local
-das 8h30 às 9h15
-Boas-vindas e Abertura Institucional
-Anfiteatro das Engenharias
-Abertura oficial do evento com a coordenadora-geral Dra. Simone Rezende e representantes dos capítulos estudantis locais.
-das 9h15 às 10h30
-Palestra de Abertura
-Anfiteatro das Engenharias
-Palestra intitulada Mulheres, Ciência de Dados e Justiça Social na Era da Inteligência Artificial, proferida por Dra. Marcela Bittencourt.
-das 10h30 às 11h
-Pausa para Café e Conexões
-Hall do Anfiteatro
-das 11h às 12h30
-Painel de Discussão
-Anfiteatro das Engenharias
-Discussão sobre Transição de Carreira e Sobrevivência Feminina na Indústria de Software. Coordenação: Dra. Fernanda Prado. Painelistas convidadas: Carla Vasconcellos, Juliana Meireles e Patrícia Antunes.
-MINICURSOS E OFICINAS
-das 14h às 17h30
-Minicurso 1
-Laboratório de Redes e Sistemas
-Minicurso com tema Introdução à Cibersegurança Prática para Aplicações Web, ministrado por Msc. Bianca Guimarães e auxiliado por Larissa Fontes.
-das 14h às 17h30
-Minicurso 2
-Laboratório Multimídia
-Oficina prática com o tema Pipeline de Engenharia de Dados em Nuvem utilizando Apache Spark, conduzida por Eng. Tatiane Ramos.
+Horário	Atividade	Local	Descrição
+8h30 – 9h15	Boas-vindas e Abertura Institucional	Anfiteatro das Engenharias	Abertura oficial do evento com a coordenadora-geral Dra. Simone Rezende e representantes dos capítulos estudantis locais.
+9h15 – 10h30	Palestra de Abertura	Anfiteatro das Engenharias	Palestra intitulada Mulheres, Ciência de Dados e Justiça Social na Era da Inteligência Artificial, proferida por Dra. Marcela Bittencourt.
+10h30 – 11h	Pausa para Café e Conexões	Hall do Anfiteatro
+11h – 12h30	Painel de Discussão	Anfiteatro das Engenharias	Discussão sobre Transição de Carreira e Sobrevivência Feminina na Indústria de Software. Coordenação: Dra. Fernanda Prado. Painelistas convidadas: Carla Vasconcellos, Juliana Meireles e Patrícia Antunes.
+Minicursos e Oficinas
+14h – 17h30	Minicurso 1	Laboratório de Redes e Sistemas	Minicurso com tema Introdução à Cibersegurança Prática para Aplicações Web, ministrado por Msc. Bianca Guimarães e auxiliado por Larissa Fontes.
+14h – 17h30	Minicurso 2	Laboratório Multimídia	Oficina prática com o tema Pipeline de Engenharia de Dados em Nuvem utilizando Apache Spark, conduzida por Eng. Tatiane Ramos.
 
 17 de outubro de 2024
-Horário
-Atividade
-Local
-das 9h às 10h30
-Roda de Conversa
-Auditório 2 do ICE
-Tema: Maternidade, Academia e Mercado Tecnológico: Quebrando Barreiras. Mediadora: Prof. Camila Nogueira. Participantes: Dra. Renata Lacerda e Heloísa Figueiredo.
-das 10h30 às 11h
-Intervalo
-Área de Convivência
-SESSÕES TÉCNICAS
-das 11h às 12h30
-Sessão Técnica 1
-Auditório 2 do ICE
-Coordenadora de sessão: Dra. Aline Mourão.
-Trabalhos apresentados: Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural por Mariana Castro e Prof. Luísa Fagundes; Algoritmos Genéticos Aplicados à Otimização Logística Urbana por Letícia Duarte; Análise Comparativa de Frameworks para Edge Computing por Gabriela Sampaio.
-das 14h às 15h30
-Sessão Técnica 2
-Auditório 2 do ICE
-Coordenadora de sessão: Prof. Luciana Queiroz.
-Trabalhos apresentados: Interação Humano-Computador Acessível para Pessoas com Deficiência Visual por Sofia Toledo; Uso de Blockchain para Rastreabilidade na Agricultura Familiar por Camila Beltrão e Dra. Clara Silveira; Estudo Empírico sobre a Eficiência de Arquiteturas de Microsserviços por Natália Arruda.
-das 15h30 às 17h
-Sessão de Pôsteres
-Hall do Prédio Central do ICE
-Apresentação de pesquisas de iniciação científica e extensão. Coordenadora de avaliação: Dra. Viviane Teles. Trabalhos em exibição incluem pesquisas desenvolvidas por Beatriz Silvano, Manuela Neves, Rafaela Paiva e Isabela Diniz.
-das 17h às 18h30
-Mentoria Coletiva de Carreira
-Sala de Seminários 101
-Sessão de mentoria focada em revisão de currículo, entrevistas para big techs e liderança técnica. Mentoras: Valéria Montenegro, Flávia Cordeiro e Msc. Débora Alcantara.
+Horário	Atividade	Local	Descrição
+9h – 10h30	Roda de Conversa	Auditório 2 do ICE	Tema: Maternidade, Academia e Mercado Tecnológico: Quebrando Barreiras. Mediadora: Prof. Camila Nogueira. Participantes: Dra. Renata Lacerda e Heloísa Figueiredo.
+10h30 – 11h	Intervalo	Área de Convivência
+Sessões Técnicas
+11h – 12h30	Sessão Técnica 1	Auditório 2 do ICE	Coordenadora de sessão: Dra. Aline Mourão. Trabalhos apresentados: Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural por Mariana Castro e Prof. Luísa Fagundes; Algoritmos Genéticos Aplicados à Otimização Logística Urbana por Letícia Duarte; Análise Comparativa de Frameworks para Edge Computing por Gabriela Sampaio.
+14h – 15h30	Sessão Técnica 2	Auditório 2 do ICE	Coordenadora de sessão: Prof. Luciana Queiroz. Trabalhos apresentados: Interação Humano-Computador Acessível para Pessoas com Deficiência Visual por Sofia Toledo; Uso de Blockchain para Rastreabilidade na Agricultura Familiar por Camila Beltrão e Dra. Clara Silveira; Estudo Empírico sobre a Eficiência de Arquiteturas de Microsserviços por Natália Arruda.
+15h30 – 17h	Sessão de Pôsteres	Hall do Prédio Central do ICE	Apresentação de pesquisas de iniciação científica e extensão. Coordenadora de avaliação: Dra. Viviane Teles. Trabalhos em exibição incluem pesquisas desenvolvidas por Beatriz Silvano, Manuela Neves, Rafaela Paiva e Isabela Diniz.
+17h – 18h30	Mentoria Coletiva de Carreira	Sala de Seminários 101	Sessão de mentoria focada em revisão de currículo, entrevistas para big techs e liderança técnica. Mentoras: Valéria Montenegro, Flávia Cordeiro e Msc. Débora Alcantara.
 
 18 de outubro de 2024
-Horário
-Atividade
-Local
+Horário	Atividade	Local	Descrição
 MINICURSOS E OFICINAS
-das 9h às 11h
-Oficina 3
-Laboratório de Software Livre
-Oficina prática intitulada Como Contribuir com Projetos de Código Aberto: Seu Primeiro Pull Request, com a desenvolvedora Roberta Guedes.
-das 11h15 às 12h15
-Palestra Técnica
-Anfiteatro das Engenharias
-Apresentação da palestra Computação Quântica: Fundamentos e Desafios para a Nova Década com a pesquisadora Dra. Teresa Cristina Maia.
-das 14h às 15h15
-Palestra Convidada
-Anfiteatro das Engenharias
-Palestra com o tema Inovação Aberta e Empreendedorismo de Base Tecnológica Liderado por Mulheres ministrada por CEO Cláudia Xavier.
-das 15h30 às 16h30
-Assembleia da Comunidade
-Anfiteatro das Engenharias
-Reunião aberta para discussão e estruturação de novos projetos regionais de incentivo a meninas na tecnologia. Coordenadores: Dra. Simone Rezende e Prof. Amanda Valadares.
-das 16h30 às 17h30
-Premiação e Encerramento
-Anfiteatro das Engenharias
-Entrega das premiações para os melhores artigos e pôsteres com a comissão formada por Dra. Viviane Teles e Dra. Aline Mourão, seguida de encerramento do encontro.
-18h
-Happy Hour de Integração
-Espaço Cultural dos Estudantes
+9h – 11h	Oficina 3	Laboratório de Software Livre	Oficina prática intitulada Como Contribuir com Projetos de Código Aberto: Seu Primeiro Pull Request, com a desenvolvedora Roberta Guedes.
+11h15 – 12h15	Palestra Técnica	Anfiteatro das Engenharias	Apresentação da palestra Computação Quântica: Fundamentos e Desafios para a Nova Década com a pesquisadora Dra. Teresa Cristina Maia.
+14h – 15h15	Palestra Convidada	Anfiteatro das Engenharias	Palestra com o tema Inovação Aberta e Empreendedorismo de Base Tecnológica Liderado por Mulheres ministrada por CEO Cláudia Xavier.
+15h30 – 16h30	Assembleia da Comunidade	Anfiteatro das Engenharias	Reunião aberta para discussão e estruturação de novos projetos regionais de incentivo a meninas na tecnologia. Coordenadores: Dra. Simone Rezende e Prof. Amanda Valadares.
+16h30 – 17h30	Premiação e Encerramento	Anfiteatro das Engenharias	Entrega das premiações para os melhores artigos e pôsteres com a comissão formada por Dra. Viviane Teles e Dra. Aline Mourão, seguida de encerramento do encontro.
+18h	Happy Hour de Integração	Espaço Cultural dos Estudantes

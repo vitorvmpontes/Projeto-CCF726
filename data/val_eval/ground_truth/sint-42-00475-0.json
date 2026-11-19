@@ -1,28 +1,28 @@
 [
  {
   "nome": "Recepção e Entrega de Crachás",
-  "lugar": null,
+  "lugar": "Hall de Entrada",
   "dataInicio": "2023-11-23T08:00:00-03:00",
   "dataFim": "2023-11-23T09:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Painel de Abertura",
-  "lugar": null,
+  "lugar": "Auditório Rio Negro",
   "dataInicio": "2023-11-23T09:00:00-03:00",
   "dataFim": "2023-11-23T10:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "Intervalo com Café Regional",
-  "lugar": null,
+  "lugar": "Foyer Principal",
   "dataInicio": "2023-11-23T10:30:00-03:00",
   "dataFim": "2023-11-23T11:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Sessão de Pitches de Startups",
-  "lugar": null,
+  "lugar": "Arena Inovação",
   "dataInicio": "2023-11-23T11:00:00-03:00",
   "dataFim": "2023-11-23T12:30:00-03:00",
   "descricao": null
@@ -36,14 +36,14 @@
  },
  {
   "nome": "Painel Temático",
-  "lugar": null,
+  "lugar": "Auditório Rio Negro",
   "dataInicio": "2023-11-23T14:00:00-03:00",
   "dataFim": "2023-11-23T16:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Encontro de Negócios e Confraternização",
-  "lugar": null,
+  "lugar": "Espaço Conectar",
   "dataInicio": "2023-11-23T16:30:00-03:00",
   "dataFim": null,
   "descricao": null

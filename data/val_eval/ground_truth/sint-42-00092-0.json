@@ -1,21 +1,21 @@
 [
  {
-  "nome": "SESSÃO TÉCNICA ORAL",
-  "lugar": "AUDITÓRIO BURITI",
+  "nome": "Sessão Técnica Oral",
+  "lugar": null,
   "dataInicio": "2025-08-14T09:00:00-03:00",
   "dataFim": "2025-08-14T10:30:00-03:00",
   "descricao": "<p>Coordenação: <b>Dra. Mariana Fagundes Siqueira</b> (UFG).</p><p>Apresentação dos trabalhos selecionados na trilha de Genômica Estrutural:</p><p>- <i>Modelagem comparativa e dinâmica molecular da proteína quinase viral</i>, por <b>Lucas Gabriel Rocha</b> e <b>Beatriz Mendonça Dias</b>.</p><p>- <i>Identificação de sítios de ligação em alvos terapêuticos de Leishmania spp. utilizando aprendizado profundo</i>, por <b>Rodrigo Vianna Castro</b> e <b>Carlos Eduardo Pimentel</b>.</p>"
  },
  {
-  "nome": "SESSÃO TÉCNICA ORAL",
-  "lugar": "SALA IPÊ AMARELO",
+  "nome": "Sessão Técnica Oral",
+  "lugar": null,
   "dataInicio": "2025-08-14T09:00:00-03:00",
   "dataFim": "2025-08-14T10:30:00-03:00",
   "descricao": "<p>Coordenação: <b>Prof. Dr. Henrique Fontes Silveira</b> (UnB).</p><p>Trabalhos da trilha de Mineração de Dados Biológicos e Filogenômica:</p><p>- <i>Inferência filogenética e caracterização genômica comparativa de cepas de Corynebacterium</i>, por <b>Fernanda Tavares Lima</b>.</p><p>- <i>Predição in silico de peptídeos antimicrobianos a partir do transcriptoma de venenos de serpentes do Cerrado</i>, por <b>Thiago Alencar Brandão</b> e <b>Renata Nogueira Soares</b>.</p>"
  },
  {
-  "nome": "PAINEL TEMÁTICO",
-  "lugar": "AUDITÓRIO CERRADO",
+  "nome": "Painel Temático",
+  "lugar": null,
   "dataInicio": "2025-08-14T11:00:00-03:00",
   "dataFim": "2025-08-14T12:30:00-03:00",
   "descricao": "<p>Painel sobre <i>Desafios da Inteligência Artificial Generativa no Desenvolvimento de Fármacos</i>.</p><p>Moderador: <b>Dr. Marcelo Albuquerque Prado</b> (Fiocruz).</p><p>Debatedores: <b>Dra. Tatiana Neves Meireles</b> (USP) e <b>Dr. Wilson Antunes Barcellos</b> (UFRJ).</p>"

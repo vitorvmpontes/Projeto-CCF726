@@ -2,49 +2,40 @@ WORKSHOP PARANAENSE DE INTELIGÊNCIA ARTIFICIAL 2025
 Campus Centro Politécnico
 PROGRAMAÇÃO
 
-Quinta-feira (09/10/2025)
-Horário
-Atividade
-Local
-08:30 – 09:00
+09/10
+(08h30 - 09h00)
 ABERTURA
-Auditório
-09:00 – 10:00
+#wpia2025
+(09h00 - 10h00)
 KEYNOTE
-Auditório
-Com Dra. Renata Wosniak.
-10:00 – 10:30
+(10h00 - 10h30)
 CAFÉ
-MINICURSOS
-10:30 – 12:30
+(10h30 - 12h30)
 MINICURSO DE LLMS NA PRÁTICA
-Laboratório 1
-10:30 – 12:30
+(10h30 - 12h30)
 MINICURSO DE VISÃO COMPUTACIONAL
-Laboratório 2
-12:30 – 14:00
+www.wpia.com.br
+(12h30 - 14h00)
 ALMOÇO
-14:00 – 15:30
+Realização:
+(14h00 - 15h30)
 PAINEL
-Auditório
-IA responsável no setor público.
-16:00 – 18:00
+Acesse o QR Code
+(16h00 - 18h00)
 MINICURSO DE MLOPS
-Laboratório 1
 
-Sexta-feira (10/10/2025)
-Horário
-Atividade
-Local
-Minicursos
-09:00 – 11:00
+10/10
+(09h00 - 11h00)
 MINICURSO DE AGENTES COM LLMS
-Laboratório 1
-09:00 – 11:00
+www.wpia.com.br
+(09h00 - 11h00)
 MINICURSO DE SÉRIES TEMPORAIS
-Laboratório 2
-11:00
+11h00
 SESSÃO DE DEMOS
-Auditório
-12:00
+Certificado de participação
+12h00
 ENCERRAMENTO
+Acesse o QR Code
+
+Realização:
+@wpia

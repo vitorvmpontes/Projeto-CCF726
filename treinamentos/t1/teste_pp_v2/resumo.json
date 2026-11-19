@@ -1,0 +1,81 @@
+{
+  "gerado_em": "2026-11-19T18:51:57+00:00",
+  "predicoes": "evaluation/predictions/e2b-r1",
+  "manifest": "data/test/manifest.csv",
+  "arquivos_avaliados": 17,
+  "limiar_aproximado": 0.9,
+  "pos_processado": true,
+  "pos_processamento_versao": "v2",
+  "correcoes_pos_processamento": {
+    "travessao_no_nome_normalizado": 11,
+    "faixa_de_horario_separada": 14,
+    "tag_html_removida": 38,
+    "data_invalida_descartada": 40,
+    "offset_ajustado": 1,
+    "atividade_sem_nome_descartada": 31
+  },
+  "bootstrap": {
+    "reamostras": 2000,
+    "semente": 42
+  },
+  "validade": {
+    "json_valido": 0.9411764705882353,
+    "atividades_no_schema": 0.724025974025974
+  },
+  "exato": {
+    "tp": 228,
+    "fp": 49,
+    "fn": 96,
+    "precisao": 0.8231046931407943,
+    "revocacao": 0.7037037037037037,
+    "f1": 0.7587354409317804,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.7227657975221605,
+        0.911516814159292
+      ],
+      "revocacao": [
+        0.5141043857850175,
+        0.8631698564593301
+      ],
+      "f1": [
+        0.6110964912280701,
+        0.8709713261648745
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.6271929824561403,
+      "dataInicio": 0.45614035087719296,
+      "dataFim": 0.42543859649122806,
+      "descricao": 0.6491228070175439
+    }
+  },
+  "aproximado": {
+    "tp": 244,
+    "fp": 33,
+    "fn": 80,
+    "precisao": 0.8808664259927798,
+    "revocacao": 0.7530864197530864,
+    "f1": 0.8119800332778702,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.8149433241070252,
+        0.9520629484670581
+      ],
+      "revocacao": [
+        0.5670321392701707,
+        0.8989952576159472
+      ],
+      "f1": [
+        0.686356649014416,
+        0.903475849885602
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.5983606557377049,
+      "dataInicio": 0.48360655737704916,
+      "dataFim": 0.44672131147540983,
+      "descricao": 0.6229508196721312
+    }
+  }
+}

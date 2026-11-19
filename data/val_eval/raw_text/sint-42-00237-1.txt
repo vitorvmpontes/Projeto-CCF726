@@ -1,52 +1,46 @@
-Programação - Curitiba DevJam 2024: Hackathon & Game Jam
-Edição 2024
+Curitiba DevJam 2024: Hackathon & Game Jam
+Programação 2024
 
-19 de outubro
+SÁBADO, 19/10 – LOCAL – Hub de Inovação Engenho da Inovação, Curitiba - PR
 Horário
 Atividade
-(8h - 9h)
+08h00 às 09h00
 Check-in e Boas-Vindas
-(9h - 9h40)
+09h00 às 09h40
 Cerimônia de Abertura e Revelação do Tema
-Apoio:
-(9h45 - 10h45)
+09h45 às 10h45
 Oficina Técnica 1
-Realização:
-(9h45 - 10h45)
+09h45 às 10h45
 Oficina Técnica 2
-11h
+11h00
 Início da Maratona de Desenvolvimento
-(12h30 - 13h30)
+12h30 às 13h30
 Almoço Livre
-(14h30 - 16h30)
+14h30 às 16h30
 Ronda de Mentoria 1
-Realização:
-(17h - 18h30)
+17h00 às 18h30
 Mostra de Estudos de Caso Independentes
-(18h30 - 19h)
+18h30 às 19h00
 Pausa para Lanche da Tarde
-(21h - 23h)
+21h00 às 23h00
 Ronda de Mentoria 2
 
-20 de outubro
+Domingo, 20/10 - Hub de Inovação Engenho da Inovação, Curitiba - PR
 Horário
 Atividade
-(0h30 - 1h15)
+00h30 às 01h15
 Ceia da Madrugada
-(7h30 - 8h30)
+07h30 às 08h30
 Café da Manhã dos Hackers
-(9h30 - 11h)
+09h30 às 11h00
 Check de Build e Playtest Cruzado
-(13h - 13h10)
+13h00 às 13h10
 Fim do Prazo de Submissão
-(14h - 15h30)
+14h00 às 15h30
 Sessão de Demonstração e Feira de Protótipos
-(15h30 - 17h30)
+15h30 às 17h30
 Sessão de Pitches Finais
-(17h30 - 18h15)
+17h30 às 18h15
 Deliberação dos Jurados
-(18h15 - 19h30)
+18h15 às 19h30
 Premiação e Encerramento
-
-Apoio:
-@cdhgj

@@ -57,7 +57,7 @@ def bootstrap_ci(per_file: list[Counts], n: int = 2000, seed: int = 42, alpha: f
 
 
 def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, seed: int,
-        pos_processar: bool = False) -> dict:
+        pos_processar: bool = False, pp_versao: str = "v2") -> dict:
     base = manifest.parent
     with manifest.open(encoding="utf-8", newline="") as f:
         rows = [r for r in csv.DictReader(f) if r.get("avaliado") == "sim"]
@@ -79,7 +79,7 @@ def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, see
 
             bruto = pred_path.read_text(encoding="utf-8") if pred_path.exists() else ""
             texto = (base / r["raw_text"]).read_text(encoding="utf-8") if r.get("raw_text") else None
-            res_pp = pp(bruto, texto)
+            res_pp = pp(bruto, texto, versao=pp_versao)
             acts = res_pp.atividades
             correcoes.update(res_pp.correcoes)
 
@@ -113,6 +113,7 @@ def run(manifest: Path, pred_dir: Path, fuzzy_threshold: float, n_boot: int, see
         "arquivos_avaliados": len(rows),
         "limiar_aproximado": fuzzy_threshold,
         "pos_processado": pos_processar,
+        "pos_processamento_versao": pp_versao if pos_processar else None,
         "correcoes_pos_processamento": dict(correcoes),
         "bootstrap": {"reamostras": n_boot, "semente": seed},
         "validade": {
@@ -181,9 +182,12 @@ def main() -> int:
     p.add_argument("--semente", type=int, default=42)
     p.add_argument("--pos-processar", action="store_true",
                    help="aplica inference.postprocess às predições antes de avaliar")
+    p.add_argument("--pp-versao", choices=["v1", "v2"], default="v2",
+                   help="versão do pós-processamento (v1 = a do resultado principal da e2b-r1)")
     args = p.parse_args()
 
-    result = run(args.manifest, args.pred_dir, args.limiar, args.bootstrap, args.semente, args.pos_processar)
+    result = run(args.manifest, args.pred_dir, args.limiar, args.bootstrap, args.semente, args.pos_processar,
+                 args.pp_versao)
     print_report(result, args.nome)
     write_outputs(result, args.saida / args.nome)
     print(f"\nResultados salvos em {args.saida / args.nome}")

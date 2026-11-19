@@ -1,0 +1,73 @@
+{
+  "gerado_em": "2026-11-19T17:56:04+00:00",
+  "predicoes": "evaluation/predictions/e2b-r1",
+  "manifest": "data/test/manifest.csv",
+  "arquivos_avaliados": 17,
+  "limiar_aproximado": 0.9,
+  "pos_processado": false,
+  "correcoes_pos_processamento": {},
+  "bootstrap": {
+    "reamostras": 2000,
+    "semente": 42
+  },
+  "validade": {
+    "json_valido": 0.9411764705882353,
+    "atividades_no_schema": 0.724025974025974
+  },
+  "exato": {
+    "tp": 218,
+    "fp": 90,
+    "fn": 106,
+    "precisao": 0.7077922077922078,
+    "revocacao": 0.6728395061728395,
+    "f1": 0.689873417721519,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.546585724228598,
+        0.8657590735771783
+      ],
+      "revocacao": [
+        0.4873400460299194,
+        0.8401850266362252
+      ],
+      "f1": [
+        0.5263012770897834,
+        0.8372943327239488
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.6513761467889908,
+      "dataInicio": 0.4036697247706422,
+      "dataFim": 0.39908256880733944,
+      "descricao": 0.6697247706422018
+    }
+  },
+  "aproximado": {
+    "tp": 244,
+    "fp": 64,
+    "fn": 80,
+    "precisao": 0.7922077922077922,
+    "revocacao": 0.7530864197530864,
+    "f1": 0.7721518987341771,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.6172484499123767,
+        0.9337354148455018
+      ],
+      "revocacao": [
+        0.5670321392701707,
+        0.8989952576159472
+      ],
+      "f1": [
+        0.614175925925926,
+        0.8983068072206146
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.5983606557377049,
+      "dataInicio": 0.4262295081967213,
+      "dataFim": 0.44672131147540983,
+      "descricao": 0.6229508196721312
+    }
+  }
+}

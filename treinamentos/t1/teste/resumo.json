@@ -1,0 +1,78 @@
+{
+  "gerado_em": "2026-11-19T17:55:57+00:00",
+  "predicoes": "evaluation/predictions/e2b-r1",
+  "manifest": "data/test/manifest.csv",
+  "arquivos_avaliados": 17,
+  "limiar_aproximado": 0.9,
+  "pos_processado": true,
+  "correcoes_pos_processamento": {
+    "data_invalida_descartada": 54,
+    "tag_html_removida": 38,
+    "offset_ajustado": 1,
+    "atividade_sem_nome_descartada": 31
+  },
+  "bootstrap": {
+    "reamostras": 2000,
+    "semente": 42
+  },
+  "validade": {
+    "json_valido": 0.9411764705882353,
+    "atividades_no_schema": 0.724025974025974
+  },
+  "exato": {
+    "tp": 218,
+    "fp": 59,
+    "fn": 106,
+    "precisao": 0.7870036101083032,
+    "revocacao": 0.6728395061728395,
+    "f1": 0.7254575707154741,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.6732435531688763,
+        0.8921593384828679
+      ],
+      "revocacao": [
+        0.4873400460299194,
+        0.8401850266362252
+      ],
+      "f1": [
+        0.5764984940655469,
+        0.8477517406822302
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.6513761467889908,
+      "dataInicio": 0.40825688073394495,
+      "dataFim": 0.39908256880733944,
+      "descricao": 0.6697247706422018
+    }
+  },
+  "aproximado": {
+    "tp": 244,
+    "fp": 33,
+    "fn": 80,
+    "precisao": 0.8808664259927798,
+    "revocacao": 0.7530864197530864,
+    "f1": 0.8119800332778702,
+    "ic95_bootstrap": {
+      "precisao": [
+        0.8149433241070252,
+        0.9520629484670581
+      ],
+      "revocacao": [
+        0.5670321392701707,
+        0.8989952576159472
+      ],
+      "f1": [
+        0.686356649014416,
+        0.903475849885602
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.5983606557377049,
+      "dataInicio": 0.430327868852459,
+      "dataFim": 0.44672131147540983,
+      "descricao": 0.6229508196721312
+    }
+  }
+}

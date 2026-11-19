@@ -1,25 +1,11 @@
-XXIV Congresso Brasileiro de Bioinformática e Biologia Computacional
-Programação 2025
+Programação - XXIV Congresso Brasileiro de Bioinformática e Biologia Computacional
+Edição 2025
 
 14 • Agosto
-SESSÕES TÉCNICAS
-9h - 10h30
-SESSÃO TÉCNICA ORAL
-Coordenação: Dra. Mariana Fagundes Siqueira (UFG).
-Apresentação dos trabalhos selecionados na trilha de Genômica Estrutural:
-- Modelagem comparativa e dinâmica molecular da proteína quinase viral, por Lucas Gabriel Rocha e Beatriz Mendonça Dias.
-- Identificação de sítios de ligação em alvos terapêuticos de Leishmania spp. utilizando aprendizado profundo, por Rodrigo Vianna Castro e Carlos Eduardo Pimentel.
-AUDITÓRIO BURITI
-9h - 10h30
-SESSÃO TÉCNICA ORAL
-Coordenação: Prof. Dr. Henrique Fontes Silveira (UnB).
-Trabalhos da trilha de Mineração de Dados Biológicos e Filogenômica:
-- Inferência filogenética e caracterização genômica comparativa de cepas de Corynebacterium, por Fernanda Tavares Lima.
-- Predição in silico de peptídeos antimicrobianos a partir do transcriptoma de venenos de serpentes do Cerrado, por Thiago Alencar Brandão e Renata Nogueira Soares.
-SALA IPÊ AMARELO
-11h - 12h30
-PAINEL TEMÁTICO
-Painel sobre Desafios da Inteligência Artificial Generativa no Desenvolvimento de Fármacos.
-Moderador: Dr. Marcelo Albuquerque Prado (Fiocruz).
-Debatedores: Dra. Tatiana Neves Meireles (USP) e Dr. Wilson Antunes Barcellos (UFRJ).
-AUDITÓRIO CERRADO
+Horário | Atividade | Descrição
+9h - 10h30 | Sessão Técnica Oral | Coordenação: Dra. Mariana Fagundes Siqueira (UFG). Apresentação dos trabalhos selecionados na trilha de Genômica Estrutural: - Modelagem comparativa e dinâmica molecular da proteína quinase viral, por Lucas Gabriel Rocha e Beatriz Mendonça Dias. - Identificação de sítios de ligação em alvos terapêuticos de Leishmania spp. utilizando aprendizado profundo, por Rodrigo Vianna Castro e Carlos Eduardo Pimentel.
+9h - 10h30 | Sessão Técnica Oral | Coordenação: Prof. Dr. Henrique Fontes Silveira (UnB). Trabalhos da trilha de Mineração de Dados Biológicos e Filogenômica: - Inferência filogenética e caracterização genômica comparativa de cepas de Corynebacterium, por Fernanda Tavares Lima. - Predição in silico de peptídeos antimicrobianos a partir do transcriptoma de venenos de serpentes do Cerrado, por Thiago Alencar Brandão e Renata Nogueira Soares.
+11h - 12h30 | Painel Temático | Painel sobre Desafios da Inteligência Artificial Generativa no Desenvolvimento de Fármacos. Moderador: Dr. Marcelo Albuquerque Prado (Fiocruz). Debatedores: Dra. Tatiana Neves Meireles (USP) e Dr. Wilson Antunes Barcellos (UFRJ).
+
+Apoio:
+@xcbbbc

@@ -1,59 +1,44 @@
-Congresso Amazônico de Direito Ambiental e Constitucional 2027
-Programação
+Programação - Congresso Amazônico de Direito Ambiental e Constitucional
+Edição 2027
 
-19 de maio de 2027
-Horário
-Atividade
-Local
-(18h00 - 20h30)
-Sessão Solene de Abertura
-Auditório Tucuju
+Dia 1 - 19/05
+18:00 - 20:30
+SESSÃO SOLENE DE ABERTURA
 Abertura oficial com a conferência inaugural O Constitucionalismo Ecológico e a Proteção das Florestas Equatoriais, ministrada pela Desa. Maria de Fátima Cabral (TJAP) e presidida pelo Dr. Raimundo Nonato Picanço.
-#cadac2027
+AUDITÓRIO TUCUJU
 
-20 de maio de 2027
-Horário
-Atividade
-Local
+Dia 2 - 20/05
 Mesas Temáticas
-(09h00 - 11h30)
-Mesa Temática
-Auditório Tucuju
+09:00 - 11:30
+MESA TEMÁTICA
 Debate sobre Litigância Climática e Populações Tradicionais na Borda da Amazônia. Coordenação de Cláudio Roberto Silveira. Palestrantes convidados: Profa. Dra. Irene dos Santos Maciel, abordando Jurisdição Constitucional e Direitos Originários, e Dr. Felipe Castelo Branco, com Reparação Civil por Danos Transfronteiriços.
-Comunicações Científicas
-(14h30 - 17h30)
-Apresentação de Comunicações Orais
-Sala 102
+AUDITÓRIO TUCUJU
+COMUNICAÇÕES CIENTÍFICAS
+14:30 - 17:30
+APRESENTAÇÃO DE COMUNICAÇÕES ORAIS
 Apresentação de pesquisas submetidas ao Grupo de Trabalho de Direito Socioambiental. Coordenador da sessão: Prof. Me. Thiago Alcolumbre Viana.
 Trabalhos apresentados:
 1. Zoneamento Ecológico-Econômico e Sustentabilidade no Amapá, por Larissa Mendonça Guedes;
 2. O Papel da Defensoria Pública nos Conflitos Fundiários Fluviais, por Rodrigo Otávio Pinheiro e Sabrina Leão Costa.
-Apoio:
-(14h30 - 17h30)
-Apresentação de Comunicações Orais
-Sala 104
+SALA 102
+14:30 - 17:30
+APRESENTAÇÃO DE COMUNICAÇÕES ORAIS
 Apresentação de pesquisas do Grupo de Trabalho de Hermenêutica Constitucional e Garantismo. Avaliadora responsável: Dra. Helena Esteves Vasconcelos.
 Trabalhos apresentados:
 1. Ativismo Judicial e Proteção dos Mananciais Urbanos, por Carlos Eduardo Belfort;
 2. Democracia Participativa e Licenciamento em Terras Devolutas, por Bruna Marinho Teles e Jorge Aníbal Picanço.
+SALA 104
 
-21 de maio de 2027
-Horário
-Atividade
-Local
-MESAS TEMÁTICAS
-(09h00 - 11h45)
-Mesa Temática
-Auditório Tucuju
+Dia 3 - 21/05
+Mesas Temáticas
+09:00 - 11:45
+MESA TEMÁTICA
 Discussão sobre Mineração, Transição Energética e Sustentabilidade no Escudo das Guianas, sob a moderação da Profa. Glória Maria Albuquerque. Participam como expositores o Dr. Arthur Nogueira Sobrinho com o tema Tributação Extrafiscal e Compensação Ambiental, e a Dra. Viviane Bastos Trindade abordando Responsabilidade Corporativa em Áreas Protegidas.
-(11h45 - 14h00)
-Intervalo
-Foyer Principal
-Realização:
-(14h30 - 17h00)
-Painel de Encerramento
-Auditório Tucuju
+AUDITÓRIO TUCUJU
+11:45 - 14:00
+INTERVALO
+FOYER PRINCIPAL
+14:30 - 17:00
+PAINEL DE ENCERRAMENTO
 Conferência de encerramento com o tema Desafios da Governança Jurídica Transnacional no Século XXI, apresentada pelo Prof. Titular Waldir Pacheco Fontes e mediada pela Dra. Regina Coeli Barata.
-
-Realização:
-@cadac
+AUDITÓRIO TUCUJU

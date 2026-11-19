@@ -1,28 +1,28 @@
 [
  {
-  "nome": "PALESTRA DE ABERTURA",
-  "lugar": null,
+  "nome": "Palestra de Abertura",
+  "lugar": "IAC - Centro Experimental Central",
   "dataInicio": "2023-11-10T09:00:00-03:00",
   "dataFim": "2023-11-10T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "COFFEE BREAK",
-  "lugar": null,
+  "nome": "Coffee Break",
+  "lugar": "IAC - Centro Experimental Central",
   "dataInicio": "2023-11-10T10:00:00-03:00",
   "dataFim": "2023-11-10T10:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "APRESENTAÇÕES ORAIS",
-  "lugar": null,
+  "nome": "Apresentações Orais",
+  "lugar": "IAC - Centro Experimental Central",
   "dataInicio": "2023-11-10T10:30:00-03:00",
   "dataFim": "2023-11-10T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "SESSÃO DE PÔSTERES",
-  "lugar": null,
+  "nome": "Sessão de Pôsteres",
+  "lugar": "IAC - Centro Experimental Central",
   "dataInicio": "2023-11-10T13:30:00-03:00",
   "dataFim": "2023-11-10T15:00:00-03:00",
   "descricao": null

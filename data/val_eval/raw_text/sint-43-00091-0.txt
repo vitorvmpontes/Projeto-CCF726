@@ -1,48 +1,26 @@
-MT Tech Week 2026
-Programação
+MT TECH WEEK 2026
+Centro de Eventos do Pantanal
+PROGRAMAÇÃO
 
-4 • Novembro
-08h00
-CREDENCIAMENTO
-09h00 às 10h00
-KEYNOTE DE ABERTURA
-PALCO PRINCIPAL
-10h30 às 11h30
-ANALYTICS PARA O AGRO
-SALA CERRADO
-10h30 às 11h30
-CLOUD NATIVE EM ESCALA
-PALCO PRINCIPAL
-14h00 às 14h30
-ABERTURA DO HACKATHON
-ARENA HACKATHON
-14h30
-HACKATHON - DESENVOLVIMENTO
-ARENA HACKATHON
+Dia 1 - 04/11
+Horário | Atividade
+08:00 | Credenciamento
+09:00 às 10:00 | Keynote de Abertura
+10:30 às 11:30 | Analytics para o Agro
+10:30 às 11:30 | Cloud Native em Escala
+14:00 às 14:30 | Abertura do Hackathon
+14:30 | Hackathon - Desenvolvimento
 
-5 • Novembro
-09h00 às 10h00
-CARREIRA REMOTA EM TECNOLOGIA
-SALA CERRADO
-09h00 às 10h00
-SEGURANÇA EM APIS
-PALCO PRINCIPAL
-14h00 às 17h00
-MENTORIAS COM OS TIMES
-ARENA HACKATHON
-18h00
-HAPPY HOUR DE NETWORKING
+Dia 2 - 05/11
+Horário | Atividade
+09:00 às 10:00 | Carreira Remota em Tecnologia
+09:00 às 10:00 | Segurança em APIs
+14:00 às 17:00 | Mentorias com os Times
+18:00 | Happy Hour de Networking
 
-6 • Novembro
-09h00
-ENTREGA DOS PROJETOS
-ARENA HACKATHON
-10h00 às 11h00
-IA GENERATIVA EM PRODUÇÃO
-SALA CERRADO
-10h00 às 12h00
-PITCHES FINAIS
-PALCO PRINCIPAL
-14h00 às 15h00
-PREMIAÇÃO E ENCERRAMENTO
-PALCO PRINCIPAL
+Dia 3 - 06/11
+Horário | Atividade
+09:00 | Entrega dos Projetos
+10:00 às 11:00 | IA Generativa em Produção
+10:00 às 12:00 | Pitches Finais
+14:00 às 15:00 | Premiação e Encerramento

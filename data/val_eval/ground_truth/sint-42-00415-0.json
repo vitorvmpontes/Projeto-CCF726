@@ -1,41 +1,41 @@
 [
  {
-  "nome": "ABERTURA OFICIAL",
-  "lugar": "AUDITÓRIO ALMIRANTE BARROSO",
+  "nome": "Abertura Oficial",
+  "lugar": "Auditório Almirante Barroso",
   "dataInicio": "2027-05-18T08:30:00-03:00",
   "dataFim": "2027-05-18T09:15:00-03:00",
   "descricao": "<p>Boas-vindas da coordenação geral com o coordenador <b>Prof. Dr. Marcelo Pinheiro</b> e apresentação das diretrizes de inovação regional.</p>"
  },
  {
-  "nome": "MINICURSO: FUNDAMENTOS DE REDES CONVOLUCIONAIS",
-  "lugar": "LABORATÓRIO DE COMPUTAÇÃO APLICADA",
+  "nome": "Minicurso: “Fundamentos de Redes Convolucionais”",
+  "lugar": "Laboratório de Computação Aplicada",
   "dataInicio": "2027-05-18T09:30:00-03:00",
   "dataFim": "2027-05-18T12:00:00-03:00",
   "descricao": "<p>Primeira parte do curso <i>Introdução Prática à Visão Computacional com PyTorch</i>, ministrado pelo pesquisador <b>Msc. Renan Albuquerque</b>.</p>"
  },
  {
-  "nome": "INTERVALO PARA ALMOÇO",
+  "nome": "Intervalo para Almoço",
   "lugar": null,
   "dataInicio": "2027-05-18T12:00:00-03:00",
   "dataFim": "2027-05-18T13:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "MINICURSO: FUNDAMENTOS DE REDES CONVOLUCIONAIS",
-  "lugar": "LABORATÓRIO DE COMPUTAÇÃO APLICADA",
+  "nome": "Minicurso: “Fundamentos de Redes Convolucionais”",
+  "lugar": "Laboratório de Computação Aplicada",
   "dataInicio": "2027-05-18T13:30:00-03:00",
   "dataFim": "2027-05-18T16:00:00-03:00",
   "descricao": "<p>Segunda parte do curso prático abordando fine-tuning e transfer learning, sob supervisão de <b>Msc. Renan Albuquerque</b> e do monitor <b>Lucas Nogueira</b>.</p>"
  },
  {
-  "nome": "MINICURSO: MODELOS DE LINGUAGEM PARA BIOECONOMIA",
+  "nome": "Minicurso: “Modelos de Linguagem para Bioeconomia”",
   "lugar": null,
   "dataInicio": "2027-05-18T13:30:00-03:00",
   "dataFim": "2027-05-18T16:00:00-03:00",
   "descricao": "<p>Apresentação do minicurso <i>Processamento de Linguagem Natural Aplicado à Catalogação da Flora Amazônica</i>, ministrado pela <b>Dra. Samanta Cordovil</b>.</p>"
  },
  {
-  "nome": "SESSÃO DE ENCERRAMENTO E RELATOS DE EXPERIÊNCIA",
+  "nome": "Sessão de Encerramento e Relatos de Experiência",
   "lugar": null,
   "dataInicio": "2027-05-18T16:30:00-03:00",
   "dataFim": "2027-05-18T18:00:00-03:00",

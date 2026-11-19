@@ -1,14 +1,14 @@
 [
  {
   "nome": "Boas-vindas e Abertura Oficial",
-  "lugar": null,
+  "lugar": "Auditório Roberto Salmeron",
   "dataInicio": "2027-05-18T08:30:00-03:00",
   "dataFim": "2027-05-18T09:15:00-03:00",
   "descricao": "<p>Abertura com a coordenação de curso representada pelo Prof. <b>Rodrigo Albuquerque</b> e fala da diretoria da Faculdade de Tecnologia.</p>"
  },
  {
   "nome": "Palestra de Abertura",
-  "lugar": null,
+  "lugar": "Auditório Roberto Salmeron",
   "dataInicio": "2027-05-18T09:30:00-03:00",
   "dataFim": "2027-05-18T10:45:00-03:00",
   "descricao": "<p>Tema: <i>Manejo Sustentável do Cerrado e Restauração Ecológica em Larga Escala</i>, ministrada pela Dra. <b>Helena Vasconcelos</b>.</p>"

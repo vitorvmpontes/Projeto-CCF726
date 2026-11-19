@@ -1,19 +1,24 @@
 I Workshop Paraense de Inteligência Artificial Aplicada (WPIAA 2027)
 Programação 2027
+18 de maio de 2027
 
-TERÇA-FEIRA - 18/05/27
-8h30 – 9h15
-Abertura Oficial
-9h30 – 12h  Minicurso: Fundamentos de Redes
-Convolucionais
-12h – 13h30
-Intervalo para Almoço
-13h30 – 16h
-Minicurso: Fundamentos
-de Redes
-Convolucionais
-13h30 – 16h | Minicurso: Modelos de
-Linguagem para Bioeconomia
-16h30 – 18h
-Sessão de Encerramento e
-Relatos de Experiência
+Horário
+Atividade
+das 8h30 às 9h15
+ABERTURA OFICIAL
+Minicursos
+das 9h30 às 12h
+MINICURSO: “FUNDAMENTOS DE REDES
+CONVOLUCIONAIS”
+das 12h às 13h30
+INTERVALO PARA ALMOÇO
+das 13h30 às 16h
+MINICURSO: “FUNDAMENTOS DE
+REDES CONVOLUCIONAIS”
+das 13h30 às 16h
+MINICURSO: “MODELOS DE
+LINGUAGEM PARA
+BIOECONOMIA”
+das 16h30 às 18h
+SESSÃO DE ENCERRAMENTO E RELATOS DE
+EXPERIÊNCIA

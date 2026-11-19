@@ -1,21 +1,21 @@
 [
  {
-  "nome": "Keynote de Abertura",
-  "lugar": null,
+  "nome": "KEYNOTE DE ABERTURA",
+  "lugar": "INSTITUTO DE INFORMÁTICA - UFG",
   "dataInicio": "2024-04-13T09:00:00-03:00",
   "dataFim": "2024-04-13T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Almoço",
-  "lugar": null,
+  "nome": "ALMOÇO",
+  "lugar": "INSTITUTO DE INFORMÁTICA - UFG",
   "dataInicio": "2024-04-13T12:00:00-03:00",
   "dataFim": "2024-04-13T13:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Hackathon Relâmpago",
-  "lugar": null,
+  "nome": "HACKATHON RELÂMPAGO",
+  "lugar": "INSTITUTO DE INFORMÁTICA - UFG",
   "dataInicio": "2024-04-13T13:30:00-03:00",
   "dataFim": null,
   "descricao": null

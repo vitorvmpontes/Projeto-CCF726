@@ -1,19 +1,36 @@
 I Workshop Mato-Grossense de Inteligência Artificial Aplicada 2024
 Programação
 
-Sábado (18/05/2024)
-Horário | Atividade | Local
-das 8h às 8h30 | Recepção e Entrega de Crachás | Hall Central
-das 8h30 às 9h | Sessão de Abertura Institucional | Auditório Bororo
-Palestras Plenárias
-das 9h às 10h | Palestra de Abertura | Auditório Bororo
-das 10h às 10h30 | Pausa para Networking e Café | Foyer das Águas
-MINICURSOS PRÁTICOS
-das 10h30 às 12h30 | Minicurso 1 | Laboratório de Informática A
-das 10h30 às 12h30 | Minicurso 2 | Laboratório de Informática B
-das 12h30 às 14h | Almoço Livre
-das 14h às 16h30 | Minicurso 3 | Laboratório de Informática A
-14h | Minicurso 4 | Laboratório de Informática B
-Palestras Plenárias
-das 17h às 18h30 | Painel de Discussão | Auditório Bororo
-18h30 | Encerramento e Sorteio de Brindes | Auditório Bororo
+18 de maio de 2024
+Horário
+Atividade
+das 08h00 às 08h30
+Recepção e Entrega de Crachás
+das 08h30 às 09h00
+Sessão de Abertura Institucional
+Abertura oficial com a preença do coordenador geral Carlos Henrique Rondon e representantes da comunidade acadêmica regional.
+das 09h00 às 10h00
+Palestra de Abertura
+Apresentação intitulada O avanço e impacto dos modelos generativos multimodais na transformação digital de cadeias produtivas no agronegócio moderno, conduzida pela pesquisadora Mariana Siqueira Luz.
+das 10h00 às 10h30
+Pausa para Networking e Café
+das 10h30 às 12h30
+Minicurso 1
+Tema: Visão Computacional voltada ao monitoramento e identificaço precoce de pragas agrícolas em lavouras de soja, ministrado pelo prof. Danilo Albuquerque Vi*ana.
+das 10h30 às 12h30
+Minicurso 2
+Tema: Ajuste fino de grandes modelos de linguagem em infraestrutura local* para segurança e privacidade de dados corporativos, conduzido por Juliana Prado Esteves.
+das 12h30 às 14h00
+Almoço Livre
+das 14h00 às 16h30
+Minicurso 3
+Tema: Técnicas de aprendizado por eforço profundo aplicadas ao gerenciamento autônomo de frotas agrícolas, com o engenheiro Thiago Godoy Mendes.
+14h00
+Minicurso 4
+Tema: Construção de| pipelines de dados em tempo real com process*amento escalável para inteligência artificial, |orientado por Renata Barreto Fontes.
+das 17h00 às 18h30
+Painel de Discussão
+Debate sbre Desafios éticos, regulação e soberania tecnlógca no ecossistema de dados da região Centro-Oeste brasileir|a, mediado por Vanessa Mattos Pinheiro, com a partiipação de Luciano Silveira Maia e Edivaldo Campos Corrêa.
+18h30
+Encerramento e Sorteio de Brindes
+Palavras finais da comissão e s*ortei0 de acessos a cursos online com Carlos Henrique Rondon.

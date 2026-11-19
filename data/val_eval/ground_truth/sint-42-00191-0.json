@@ -1,287 +1,287 @@
 [
  {
-  "nome": "Acolhimento das Delegações e Validação de Inscrições",
-  "lugar": "Saguão Principal do Ginásio Multidisciplinar",
+  "nome": "ACOLHIMENTO DAS DELEGAÇÕES E VALIDAÇÃO DE INSCRIÇÕES",
+  "lugar": "SAGUÃO PRINCIPAL DO GINÁSIO MULTIDISCIPLINAR",
   "dataInicio": "2027-05-13T08:00:00-03:00",
   "dataFim": "2027-05-13T11:30:00-03:00",
   "descricao": "<p>Recepção oficial e conferência de documentos com a coordenação de <b>Marina Silveira Duarte</b>.</p>"
  },
  {
-  "nome": "Congresso Técnico Geral",
-  "lugar": "Auditório da Faculdade de Educação Física",
+  "nome": "CONGRESSO TÉCNICO GERAL",
+  "lugar": "AUDITÓRIO DA FACULDADE DE EDUCAÇÃO FÍSICA",
   "dataInicio": "2027-05-13T10:00:00-03:00",
   "dataFim": "2027-05-13T12:00:00-03:00",
   "descricao": "<p>Sorteio de chaves e alinhamento do regulamento geral com o árbitro-chefe <b>Carlos Alberto Mendonça</b>.</p>"
  },
  {
-  "nome": "Cerimônia de Abertura",
-  "lugar": "Arena Central",
+  "nome": "CERIMÔNIA DE ABERTURA",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-13T13:30:00-03:00",
   "dataFim": "2027-05-13T15:00:00-03:00",
   "descricao": "<p>Tema: <i>Integração, Respeito e Superação Universitária</i>. Desfile de delegações, acendimento da pira e juramento dos atletas liderado por <b>Bruna Vasconcellos</b>.</p>"
  },
  {
-  "nome": "Futsal Masculino - Jogo 1",
-  "lugar": "Quadra Poliesportiva 1",
+  "nome": "FUTSAL MASCULINO - JOGO 1",
+  "lugar": "QUADRA POLIESPORTIVA 1",
   "dataInicio": "2027-05-13T15:30:00-03:00",
   "dataFim": "2027-05-13T16:45:00-03:00",
   "descricao": "<p>Fase Classificatória: Engenharia Campinas vs. Medicina Ribeirão. Arbitragem de <b>Thiago Antunes Rios</b>.</p>"
  },
  {
-  "nome": "Voleibol Feminino - Jogo 1",
-  "lugar": "Quadra Poliesportiva 2",
+  "nome": "VOLEIBOL FEMININO - JOGO 1",
+  "lugar": "QUADRA POLIESPORTIVA 2",
   "dataInicio": "2027-05-13T15:30:00-03:00",
   "dataFim": "2027-05-13T17:00:00-03:00",
   "descricao": "<p>Fase Classificatória: Direito São Paulo vs. Educação Física Sorocaba.</p>"
  },
  {
-  "nome": "Handebol Feminino - Jogo 1",
-  "lugar": "Ginásio Anexo",
+  "nome": "HANDEBOL FEMININO - JOGO 1",
+  "lugar": "GINÁSIO ANEXO",
   "dataInicio": "2027-05-13T16:00:00-03:00",
   "dataFim": "2027-05-13T17:15:00-03:00",
   "descricao": "<p>Fase de Grupos: Biologia Unicamp vs. Economia FGV. Supervisão de <b>Juliana Penteado</b>.</p>"
  },
  {
-  "nome": "Futsal Masculino - Jogo 2",
-  "lugar": "Quadra Poliesportiva 1",
+  "nome": "FUTSAL MASCULINO - JOGO 2",
+  "lugar": "QUADRA POLIESPORTIVA 1",
   "dataInicio": "2027-05-13T17:00:00-03:00",
   "dataFim": "2027-05-13T18:15:00-03:00",
   "descricao": "<p>Fase Classificatória: Comunicação Santos vs. Arquitetura Bauru.</p>"
  },
  {
-  "nome": "Basquetebol Masculino - Jogo 1",
-  "lugar": "Arena Central",
+  "nome": "BASQUETEBOL MASCULINO - JOGO 1",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-13T17:30:00-03:00",
   "dataFim": "2027-05-13T19:00:00-03:00",
   "descricao": "<p>Fase Classificatória: Politécnica USP vs. Unesp Araraquara. Narração oficial de <b>Rodrigo Faro Bueno</b>.</p>"
  },
  {
-  "nome": "Workshop Técnico",
-  "lugar": "Sala de Reuniões da FEF",
+  "nome": "WORKSHOP TÉCNICO",
+  "lugar": "SALA DE REUNIÕES DA FEF",
   "dataInicio": "2027-05-13T19:00:00-03:00",
   "dataFim": "2027-05-13T20:30:00-03:00",
   "descricao": "<p>Subtítulo: <i>Prevenção de Lesões em Atletas Universitários de Alta Demanda</i>, conduzido pelo fisioterapeuta <b>Dr. Marcelo Nogales</b>.</p>"
  },
  {
-  "nome": "Apresentação Cultural Universitária",
-  "lugar": "Praça das Bandeiras",
+  "nome": "APRESENTAÇÃO CULTURAL UNIVERSITÁRIA",
+  "lugar": "PRAÇA DAS BANDEIRAS",
   "dataInicio": "2027-05-13T20:30:00-03:00",
   "dataFim": "2027-05-13T22:00:00-03:00",
   "descricao": "<p>Tema: <i>Batucada e Tradição: O Ritmo das Baterias Universitárias</i>. Conduzido pelo mestre de bateria <b>Felipe Sanches</b>.</p>"
  },
  {
-  "nome": "Eliminatórias de Natação 50m e 100m Livre",
-  "lugar": "Parque Aquático",
+  "nome": "ELIMINATÓRIAS DE NATAÇÃO 50M E 100M LIVRE",
+  "lugar": "PARQUE AQUÁTICO",
   "dataInicio": "2027-05-14T08:30:00-03:00",
   "dataFim": "2027-05-14T11:00:00-03:00",
   "descricao": "<p>Provas individuais masculinas e femininas. Coordenação técnica de <b>Renata Meireles</b>.</p>"
  },
  {
-  "nome": "Torneio de Judô - Categorias Ligeiro e Meio-Médio",
-  "lugar": "Tatame 1 - Sala de Lutas",
+  "nome": "TORNEIO DE JUDÔ - CATEGORIAS LIGEIRO E MEIO-MÉDIO",
+  "lugar": "TATAME 1 - SALA DE LUTAS",
   "dataInicio": "2027-05-14T09:00:00-03:00",
   "dataFim": "2027-05-14T12:00:00-03:00",
   "descricao": "<p>Fases preliminares com arbitragem da sensei <b>Beatriz Camargo</b>.</p>"
  },
  {
-  "nome": "Torneio de Xadrez Rápido - Rodadas 1 a 3",
-  "lugar": "Salão Nobre da ADUNICAMP",
+  "nome": "TORNEIO DE XADREZ RÁPIDO - RODADAS 1 A 3",
+  "lugar": "SALÃO NOBRE DA ADUNICAMP",
   "dataInicio": "2027-05-14T09:30:00-03:00",
   "dataFim": "2027-05-14T12:30:00-03:00",
   "descricao": "<p>Sistema suíço de emparceiramento organizado pelo mestre nacional <b>Gustavo Henrique Lins</b>.</p>"
  },
  {
-  "nome": "Voleibol Masculino - Jogo 1",
-  "lugar": "Quadra Poliesportiva 2",
+  "nome": "VOLEIBOL MASCULINO - JOGO 1",
+  "lugar": "QUADRA POLIESPORTIVA 2",
   "dataInicio": "2027-05-14T10:00:00-03:00",
   "dataFim": "2027-05-14T11:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Almoço dos Atletas",
-  "lugar": "Restaurante Universitário Integrado",
+  "nome": "ALMOÇO DOS ATLETAS",
+  "lugar": "RESTAURANTE UNIVERSITÁRIO INTEGRADO",
   "dataInicio": "2027-05-14T12:00:00-03:00",
   "dataFim": "2027-05-14T13:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Futsal Feminino - Jogo 1",
-  "lugar": "Quadra Poliesportiva 1",
+  "nome": "FUTSAL FEMININO - JOGO 1",
+  "lugar": "QUADRA POLIESPORTIVA 1",
   "dataInicio": "2027-05-14T13:30:00-03:00",
   "dataFim": "2027-05-14T14:45:00-03:00",
   "descricao": "<p>Fase de grupos com supervisão de arbitragem de <b>Mariana Prado</b>.</p>"
  },
  {
-  "nome": "Basquetebol Feminino - Jogo 1",
-  "lugar": "Arena Central",
+  "nome": "BASQUETEBOL FEMININO - JOGO 1",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-14T14:00:00-03:00",
   "dataFim": "2027-05-14T15:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Finais da Natação e Premiação da Etapa",
-  "lugar": "Parque Aquático",
+  "nome": "FINAIS DA NATAÇÃO E PREMIAÇÃO DA ETAPA",
+  "lugar": "PARQUE AQUÁTICO",
   "dataInicio": "2027-05-14T15:00:00-03:00",
   "dataFim": "2027-05-14T17:00:00-03:00",
   "descricao": "<p>Disputa de medalhas com entrega coordenada pelo diretor <b>Lucas Viana Sampaio</b>.</p>"
  },
  {
-  "nome": "Handebol Masculino - Jogo 1",
-  "lugar": "Ginásio Anexo",
+  "nome": "HANDEBOL MASCULINO - JOGO 1",
+  "lugar": "GINÁSIO ANEXO",
   "dataInicio": "2027-05-14T15:30:00-03:00",
   "dataFim": "2027-05-14T16:45:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Mesa de Debate",
-  "lugar": "Auditório da Faculdade de Educação Física",
+  "nome": "MESA DE DEBATE",
+  "lugar": "AUDITÓRIO DA FACULDADE DE EDUCAÇÃO FÍSICA",
   "dataInicio": "2027-05-14T17:30:00-03:00",
   "dataFim": "2027-05-14T19:00:00-03:00",
   "descricao": "<p>Tema: <i>Gestão Esportiva Universitária e Captação de Patrocínios</i>. Palestrantes: <b>Patrícia Albuquerque</b> e <b>Otávio Ramalho Neto</b>.</p>"
  },
  {
-  "nome": "Torneio Noturno de Tênis de Mesa",
-  "lugar": "Espaço Multiuso 3",
+  "nome": "TORNEIO NOTURNO DE TÊNIS DE MESA",
+  "lugar": "ESPAÇO MULTIUSO 3",
   "dataInicio": "2027-05-14T19:30:00-03:00",
   "dataFim": "2027-05-14T21:30:00-03:00",
   "descricao": "<p>Fase eliminatória simples feminina e masculina organizada por <b>Cláudio Massao</b>.</p>"
  },
  {
-  "nome": "Etapa Matutina de Atletismo - Pista e Campo",
-  "lugar": "Pista de Atletismo",
+  "nome": "ETAPA MATUTINA DE ATLETISMO - PISTA E CAMPO",
+  "lugar": "PISTA DE ATLETISMO",
   "dataInicio": "2027-05-15T08:00:00-03:00",
   "dataFim": "2027-05-15T11:30:00-03:00",
   "descricao": "<p>Provas de 100m rasos, salto em distância e arremesso de peso. Direção de prova por <b>Helena Fontoura</b>.</p>"
  },
  {
-  "nome": "Torneio de Xadrez Rápido - Rodadas 4 a 6",
-  "lugar": "Salão Nobre da ADUNICAMP",
+  "nome": "TORNEIO DE XADREZ RÁPIDO - RODADAS 4 A 6",
+  "lugar": "SALÃO NOBRE DA ADUNICAMP",
   "dataInicio": "2027-05-15T09:00:00-03:00",
   "dataFim": "2027-05-15T12:00:00-03:00",
   "descricao": "<p>Rodadas decisivas com o árbitro <b>Gustavo Henrique Lins</b>.</p>"
  },
  {
-  "nome": "Semifinal 1 de Voleibol Masculino",
-  "lugar": "Quadra Poliesportiva 2",
+  "nome": "SEMIFINAL 1 DE VOLEIBOL MASCULINO",
+  "lugar": "QUADRA POLIESPORTIVA 2",
   "dataInicio": "2027-05-15T10:00:00-03:00",
   "dataFim": "2027-05-15T11:45:00-03:00",
   "descricao": "<p>Confronto entre o 1º Colocado do Grupo A e o 2º Colocado do Grupo B.</p>"
  },
  {
-  "nome": "Semifinal 1 de Futsal Masculino",
-  "lugar": "Quadra Poliesportiva 1",
+  "nome": "SEMIFINAL 1 DE FUTSAL MASCULINO",
+  "lugar": "QUADRA POLIESPORTIVA 1",
   "dataInicio": "2027-05-15T11:00:00-03:00",
   "dataFim": "2027-05-15T12:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Almoço dos Atletas",
-  "lugar": "Restaurante Universitário Integrado",
+  "nome": "ALMOÇO DOS ATLETAS",
+  "lugar": "RESTAURANTE UNIVERSITÁRIO INTEGRADO",
   "dataInicio": "2027-05-15T12:30:00-03:00",
   "dataFim": "2027-05-15T13:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Semifinal 2 de Voleibol Masculino",
-  "lugar": "Quadra Poliesportiva 2",
+  "nome": "SEMIFINAL 2 DE VOLEIBOL MASCULINO",
+  "lugar": "QUADRA POLIESPORTIVA 2",
   "dataInicio": "2027-05-15T13:30:00-03:00",
   "dataFim": "2027-05-15T15:15:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Semifinal 2 de Futsal Masculino",
-  "lugar": "Quadra Poliesportiva 1",
+  "nome": "SEMIFINAL 2 DE FUTSAL MASCULINO",
+  "lugar": "QUADRA POLIESPORTIVA 1",
   "dataInicio": "2027-05-15T14:00:00-03:00",
   "dataFim": "2027-05-15T15:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Semifinal de Basquetebol Masculino",
-  "lugar": "Arena Central",
+  "nome": "SEMIFINAL DE BASQUETEBOL MASCULINO",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-15T15:30:00-03:00",
   "dataFim": "2027-05-15T17:15:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Finais de Tênis de Mesa e Premiação",
-  "lugar": "Espaço Multiuso 3",
+  "nome": "FINAIS DE TÊNIS DE MESA E PREMIAÇÃO",
+  "lugar": "ESPAÇO MULTIUSO 3",
   "dataInicio": "2027-05-15T16:00:00-03:00",
   "dataFim": "2027-05-15T18:00:00-03:00",
   "descricao": "<p>Decisão de medalhas com premiação entregue pelo árbitro internacional <b>Cláudio Massao</b>.</p>"
  },
  {
-  "nome": "Semifinal de Handebol Masculino",
-  "lugar": "Ginásio Anexo",
+  "nome": "SEMIFINAL DE HANDEBOL MASCULINO",
+  "lugar": "GINÁSIO ANEXO",
   "dataInicio": "2027-05-15T17:00:00-03:00",
   "dataFim": "2027-05-15T18:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Confraternização das Atléticas",
-  "lugar": "Praça das Bandeiras",
+  "nome": "CONFRATERNIZAÇÃO DAS ATLÉTICAS",
+  "lugar": "PRAÇA DAS BANDEIRAS",
   "dataInicio": "2027-05-15T19:30:00-03:00",
   "dataFim": "2027-05-15T22:30:00-03:00",
   "descricao": "<p>Apresentação especial das baterias universitárias sob coordenação de <b>André Luiz Barreto</b>.</p>"
  },
  {
-  "nome": "Disputa de 3º Lugar do Basquetebol",
-  "lugar": "Arena Central",
+  "nome": "DISPUTA DE 3º LUGAR DO BASQUETEBOL",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-16T08:30:00-03:00",
   "dataFim": "2027-05-16T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Disputa de 3º Lugar do Handebol",
-  "lugar": "Ginásio Anexo",
+  "nome": "DISPUTA DE 3º LUGAR DO HANDEBOL",
+  "lugar": "GINÁSIO ANEXO",
   "dataInicio": "2027-05-16T09:00:00-03:00",
   "dataFim": "2027-05-16T10:15:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Grande Final do Voleibol Feminino",
-  "lugar": "Quadra Poliesportiva 2",
+  "nome": "GRANDE FINAL DO VOLEIBOL FEMININO",
+  "lugar": "QUADRA POLIESPORTIVA 2",
   "dataInicio": "2027-05-16T09:30:00-03:00",
   "dataFim": "2027-05-16T11:15:00-03:00",
   "descricao": "<p>Disputa pelo ouro e troféu geral feminino sob mediação do delegado <b>Fábio Coimbra</b>.</p>"
  },
  {
-  "nome": "Grande Final do Futsal Feminino",
-  "lugar": "Quadra Poliesportiva 1",
+  "nome": "GRANDE FINAL DO FUTSAL FEMININO",
+  "lugar": "QUADRA POLIESPORTIVA 1",
   "dataInicio": "2027-05-16T10:30:00-03:00",
   "dataFim": "2027-05-16T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Grande Final do Handebol Masculino",
-  "lugar": "Ginásio Anexo",
+  "nome": "GRANDE FINAL DO HANDEBOL MASCULINO",
+  "lugar": "GINÁSIO ANEXO",
   "dataInicio": "2027-05-16T11:00:00-03:00",
   "dataFim": "2027-05-16T12:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Grande Final do Basquetebol Masculino",
-  "lugar": "Arena Central",
+  "nome": "GRANDE FINAL DO BASQUETEBOL MASCULINO",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-16T12:30:00-03:00",
   "dataFim": "2027-05-16T14:15:00-03:00",
   "descricao": "<p>Partida decisiva com comentários técnicos de <b>Professor Eduardo Guimarães</b>.</p>"
  },
  {
-  "nome": "Grande Final do Futsal Masculino",
-  "lugar": "Arena Central",
+  "nome": "GRANDE FINAL DO FUTSAL MASCULINO",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-16T14:30:00-03:00",
   "dataFim": "2027-05-16T16:00:00-03:00",
   "descricao": "<p>Confronto de encerramento da modalidade futsal.</p>"
  },
  {
-  "nome": "Cerimônia de Encerramento e Premiação Geral",
-  "lugar": "Arena Central",
+  "nome": "CERIMÔNIA DE ENCERRAMENTO E PREMIAÇÃO GERAL",
+  "lugar": "ARENA CENTRAL",
   "dataInicio": "2027-05-16T16:30:00-03:00",
   "dataFim": "2027-05-16T18:00:00-03:00",
   "descricao": "<p>Tema: <i>Consagração dos Campeões Universitários e Troféu Eficiência</i>. Conduzida pela presidente da comissão organizadora <b>Dra. Simone Rezende</b> e pelo reitor <b>Paulo César Antunha</b>.</p>"
  },
  {
-  "nome": "Desmobilização e Liberação de Alojamentos",
-  "lugar": "Vila Esportiva / Alojamento Universitário",
+  "nome": "DESMOBILIZAÇÃO E LIBERAÇÃO DE ALOJAMENTOS",
+  "lugar": "VILA ESPORTIVA / ALOJAMENTO UNIVERSITÁRIO",
   "dataInicio": "2027-05-16T18:30:00-03:00",
   "dataFim": "2027-05-16T21:00:00-03:00",
   "descricao": null

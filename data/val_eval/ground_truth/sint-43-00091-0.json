@@ -1,98 +1,98 @@
 [
  {
-  "nome": "CREDENCIAMENTO",
+  "nome": "Credenciamento",
   "lugar": null,
   "dataInicio": "2026-11-04T08:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "KEYNOTE DE ABERTURA",
-  "lugar": "PALCO PRINCIPAL",
+  "nome": "Keynote de Abertura",
+  "lugar": null,
   "dataInicio": "2026-11-04T09:00:00-03:00",
   "dataFim": "2026-11-04T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "ANALYTICS PARA O AGRO",
-  "lugar": "SALA CERRADO",
+  "nome": "Analytics para o Agro",
+  "lugar": null,
   "dataInicio": "2026-11-04T10:30:00-03:00",
   "dataFim": "2026-11-04T11:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "CLOUD NATIVE EM ESCALA",
-  "lugar": "PALCO PRINCIPAL",
+  "nome": "Cloud Native em Escala",
+  "lugar": null,
   "dataInicio": "2026-11-04T10:30:00-03:00",
   "dataFim": "2026-11-04T11:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "ABERTURA DO HACKATHON",
-  "lugar": "ARENA HACKATHON",
+  "nome": "Abertura do Hackathon",
+  "lugar": null,
   "dataInicio": "2026-11-04T14:00:00-03:00",
   "dataFim": "2026-11-04T14:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "HACKATHON - DESENVOLVIMENTO",
-  "lugar": "ARENA HACKATHON",
+  "nome": "Hackathon - Desenvolvimento",
+  "lugar": null,
   "dataInicio": "2026-11-04T14:30:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "CARREIRA REMOTA EM TECNOLOGIA",
-  "lugar": "SALA CERRADO",
+  "nome": "Carreira Remota em Tecnologia",
+  "lugar": null,
   "dataInicio": "2026-11-05T09:00:00-03:00",
   "dataFim": "2026-11-05T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "SEGURANÇA EM APIS",
-  "lugar": "PALCO PRINCIPAL",
+  "nome": "Segurança em APIs",
+  "lugar": null,
   "dataInicio": "2026-11-05T09:00:00-03:00",
   "dataFim": "2026-11-05T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "MENTORIAS COM OS TIMES",
-  "lugar": "ARENA HACKATHON",
+  "nome": "Mentorias com os Times",
+  "lugar": null,
   "dataInicio": "2026-11-05T14:00:00-03:00",
   "dataFim": "2026-11-05T17:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "HAPPY HOUR DE NETWORKING",
+  "nome": "Happy Hour de Networking",
   "lugar": null,
   "dataInicio": "2026-11-05T18:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "ENTREGA DOS PROJETOS",
-  "lugar": "ARENA HACKATHON",
+  "nome": "Entrega dos Projetos",
+  "lugar": null,
   "dataInicio": "2026-11-06T09:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "IA GENERATIVA EM PRODUÇÃO",
-  "lugar": "SALA CERRADO",
+  "nome": "IA Generativa em Produção",
+  "lugar": null,
   "dataInicio": "2026-11-06T10:00:00-03:00",
   "dataFim": "2026-11-06T11:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PITCHES FINAIS",
-  "lugar": "PALCO PRINCIPAL",
+  "nome": "Pitches Finais",
+  "lugar": null,
   "dataInicio": "2026-11-06T10:00:00-03:00",
   "dataFim": "2026-11-06T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PREMIAÇÃO E ENCERRAMENTO",
-  "lugar": "PALCO PRINCIPAL",
+  "nome": "Premiação e Encerramento",
+  "lugar": null,
   "dataInicio": "2026-11-06T14:00:00-03:00",
   "dataFim": "2026-11-06T15:00:00-03:00",
   "descricao": null

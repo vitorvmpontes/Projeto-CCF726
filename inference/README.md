@@ -32,6 +32,7 @@ Contratos de dados e pós-processamento da extração. O serviço do SLM (Ollama
 - **Nome e local:** espaços normalizados; atividade sem nome é descartada.
 - **Repetições:** só corta repetições idênticas seguidas além de 2 (modelo em loop); duplicatas legítimas ficam.
 - **Correções:** todas são contadas em `Resultado.correcoes`.
+- **Versões** (`versao=`): `v1` é a do resultado principal da e2b-r1; `v2` (padrão, exploratória) também separa faixas de horário coladas na data (`2018-08-13T08:40:00-09:00:00-03:00`) e troca travessão por hífen no nome.
 
 ```python
 from inference.postprocess import pos_processar, para_mymobiconf

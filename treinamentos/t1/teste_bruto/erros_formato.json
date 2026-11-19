@@ -1,0 +1,27 @@
+{
+  "forumcpa-pdf": [
+    "atividade 2: dataInicio: '2018-08-13T08:40:00-09:00:00-03:00' is not valid under any of the given schemas",
+    "atividade 3: dataInicio: '2018-08-13T09:00:00-10:15:00-03:00' is not valid under any of the given schemas",
+    "atividade 4: dataInicio: '2018-08-13T10:15:00-11:00:00-03:00' is not valid under any of the given schemas",
+    "atividade 5: dataInicio: '2018-08-13T11:00:00-12:00:00-03:00' is not valid under any of the given schemas",
+    "atividade 6: dataInicio: '2018-08-13T12:00:00-13:30:00-03:00' is not valid under any of the given schemas"
+  ],
+  "mannamuseu-pdf": [
+    "atividade 0: dataInicio: '10:30' is not valid under any of the given schemas",
+    "atividade 1: dataInicio: '6:00' is not valid under any of the given schemas",
+    "atividade 2: dataInicio: '7:00' is not valid under any of the given schemas",
+    "atividade 3: dataInicio: '8:00' is not valid under any of the given schemas",
+    "atividade 4: dataInicio: '8:30' is not valid under any of the given schemas"
+  ],
+  "secom2024-pdf": "JSON inválido: Unterminated string starting at: line 1 column 17072 (char 17071)",
+  "secom2024-planilha": [
+    "atividade 1: nome: None is not of type 'string'",
+    "atividade 5: nome: None is not of type 'string'",
+    "atividade 6: nome: None is not of type 'string'",
+    "atividade 9: nome: None is not of type 'string'",
+    "atividade 11: nome: None is not of type 'string'"
+  ],
+  "wit2025-dia1-pdf": [
+    "atividade 8: nome: None is not of type 'string'"
+  ]
+}

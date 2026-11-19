@@ -15,14 +15,14 @@
  },
  {
   "nome": "Oficina para Casais",
-  "lugar": null,
+  "lugar": "Sala São José",
   "dataInicio": "2024-08-10T10:00:00-03:00",
   "dataFim": "2024-08-10T11:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "Oficina para Jovens",
-  "lugar": null,
+  "lugar": "Sala Santa Teresinha",
   "dataInicio": "2024-08-10T10:00:00-03:00",
   "dataFim": "2024-08-10T11:30:00-03:00",
   "descricao": null

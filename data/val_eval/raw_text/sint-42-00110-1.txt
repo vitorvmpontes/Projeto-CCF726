@@ -1,24 +1,59 @@
-IV Encontro Mineiro de Mulheres na Computação 2024
-Programação
+IV Encontro Mineiro de Mulheres na Computação
+Programação 2024
 
-Quinta-feira (17/10/2024)
-Horário	Atividade
-08:00 - 09:00	Recepção e Entrega de Kits
-09:00 - 09:40	Cerimônia de Abertura
-09:40 - 10:50	Palestra de Abertura
-10:50 - 11:20	Pausa para Café e Conexões
-11:20 - 12:30	Painel de Discussão
-12:30 - 14:00	Intervalo de Almoço
-14:00 - 17:00	Oficina Prática 1
-14:00 - 17:00	Oficina Prática 2
-17:00 - 18:30	Sessão de Pôsteres e Projetos
+QUINTA-FEIRA - 17/10/24
+(08:00 - 09:00)
+RECEPÇÃO E ENTREGA DE KITS
+(09:00 - 09:40)
+CERIMÔNIA DE ABERTURA
+Abertura oficial com a coordenadora geral Dra. Sabrina Silveira e boas-vindas da comissão organizadora das Meninas Digitais UFV.
+PALESTRAS
+(09:40 - 10:50)
+PALESTRA DE ABERTURA
+Palestra intitulada Quebrando Barreiras: A Trajetória Feminina na Ciência de Dados e Inteligência Artificíal ministrada por Dra. Clarice de Almeida aria.
+#emmc2024
+(10:50 - 11:20)
+PAUSA PARA CAFÉ E CONEXÕES
+(11:20 - 12:30)
+PAINEL DE DISCUSSÃO
+Debate sobre Permanência e Representatividade de Gênero na Pós-Graduação em Computação, mediad0 por Profa. Mirella Martins Moro com as debatedoras Beatriz Guimarães e Luciana Pereira.
+(12:30 - 14:00)
+INTERVALO DE ALMOÇO
+WORKSHOPS E OFICINAS
+(14:00 - 17:00)
+OFICINA PRÁTICA 1
+Oficina Desenvolvimnto Web Inclusivo com oco em Acessibilidade Digital, conduzida pela instrutora Renata Vasconcelos.
+Inscrções gratuitas
+(14:00 - 17:00)
+OFICINA PRÁTICA 2
+Oficina Introdução à Cibersegurança Defensiva e Anlise Forense, ministrada pela especialista Mariana Fontes.
+(17:00 - 18:30)
+SESSÃO DE PÔSTERES E PROJETOS
+Apresentação d trabalhos acadêmicos de graduação e pós-graduação sob c0ordenação de Camila Duarte de Resende.
 
-Sexta-feira (18/10/2024)
-Horário	Atividade
-09:00 - 10:15	Palestra Técnica
-10:30 - 12:00	Pitch de Ideias e Startups
-12:00 - 13:30	Intervalo de Almoço
-13:30 - 16:30	Minicurso 1
-13:30 - 16:30	Minicurso 2
-16:45 - 18:00	Mesa de Encerramento
-18:00 - 18:45	Premiação e Fechamento
+SEXTA-FEIRA - 18/10/24
+PALESTRAS
+(09:00 - 10:15)
+PALESTRA TÉCNICA
+Apresentação da palestrá Computação Quântica: Fundamentos e Oportunidades Emergentes, apresentada por Dra. Kell Cristina Paim.
+(10:30 - 12:00)
+PITCH DE IDEIAS E STARTUPS
+Apresentação ráp'ida de projetos empreendedores liderados por mulheres, com avaliação das mentoras Flávia Ramos e Inrid Brandão.
+(12:00 - 13:30)
+INTERVALO DE ALMOÇO
+Minicursos
+(13:30 - 16:30)
+MINICURSO 1
+At ividade prática Processamento de Linguagem Natural com Tránsformers em Pyth0n, facilitada por Carla Regina Mendonça.
+(13:30 - 16:30)
+MINICURSO 2
+Atividade prática Design de Interfaces e Experiência do Usuárío |(UI/UX) para Sistemas Complexos, com a designer Juliana Nogueira Lima.
+(16:45 - 18:00)
+MESA DE ENCERRAMENTO
+Mesa com tema Futuro do Trabalho na Tecnologia e Liderança Feminina com participação de Aline Siqueira, Patrícia Gonçalves e mediação de Dra. Sabrina Silveira.
+(18:00 - 18:45)
+PREMIAÇÃO E FECHAMENTO
+Entrega das menções honrosas aos melhores traba1hos e anúncios para o próximo ano com Dra. Sabina Silveira.
+
+Realização:
+@emmc

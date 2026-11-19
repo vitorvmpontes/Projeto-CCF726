@@ -1,51 +1,51 @@
 [
  {
-  "nome": "Credenciamento e Recepção dos Participantes",
-  "lugar": "Hall de Entrada",
+  "nome": "CREDENCIAMENTO E RECEPÇÃO DOS PARTICIPANTES",
+  "lugar": "CENTRO DE CONVENÇÕES POETA RONALDO CUNHA LIMA, JOÃO PESSOA - PB",
   "dataInicio": "2027-08-18T08:00:00-03:00",
   "dataFim": "2027-08-18T09:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Palestra de Abertura",
-  "lugar": "Auditório Tambaú",
+  "nome": "PALESTRA DE ABERTURA",
+  "lugar": "CENTRO DE CONVENÇÕES POETA RONALDO CUNHA LIMA, JOÃO PESSOA - PB",
   "dataInicio": "2027-08-18T09:15:00-03:00",
   "dataFim": "2027-08-18T10:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação de <i>Transformação Digital e o Futuro da Convivência com o Semiárido</i> ministrada por <b>Dr. Marcelo Guimarães Farias</b> da Embrapa Algodão.</p>"
  },
  {
-  "nome": "Painel de Discussão",
-  "lugar": "Auditório Tambaú",
+  "nome": "PAINEL DE DISCUSSÃO",
+  "lugar": "CENTRO DE CONVENÇÕES POETA RONALDO CUNHA LIMA, JOÃO PESSOA - PB",
   "dataInicio": "2027-08-18T11:00:00-03:00",
   "dataFim": "2027-08-18T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Debate sobre <i>Irrigação de Precisão e Gestão Hídrica Inteligente</i> com os especialistas <b>Dra. Cecília Meireles Cavalcanti</b> e <b>Eng. Rogério Albuquerque</b>.</p>"
  },
  {
-  "nome": "Pitch de Startups",
-  "lugar": "Arena Inovação",
+  "nome": "PITCH DE STARTUPS",
+  "lugar": "CENTRO DE CONVENÇÕES POETA RONALDO CUNHA LIMA, JOÃO PESSOA - PB",
   "dataInicio": "2027-08-18T14:30:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Apresentação dinâmica com moderação de <b>Renata Vasconcelos Lins</b> avaliando soluções emergentes de biotecnologia aplicadas ao campo.</p>"
  },
  {
-  "nome": "Demonstração Prática de Campo",
-  "lugar": "Área Externa Sul",
+  "nome": "DEMONSTRAÇÃO PRÁTICA DE CAMPO",
+  "lugar": "CENTRO DE CONVENÇÕES POETA RONALDO CUNHA LIMA, JOÃO PESSOA - PB",
   "dataInicio": "2027-08-19T09:00:00-03:00",
   "dataFim": "2027-08-19T11:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Demonstração prática conduzida por <b>Lucas Medeiros Barreto</b> com o tema <i>Voo Autônomo e Sensoriamento Remoto para Pulverização Agrícola</i>.</p>"
  },
  {
-  "nome": "Roda de Conversa",
-  "lugar": "Sala Cabo Branco",
+  "nome": "RODA DE CONVERSA",
+  "lugar": "CENTRO DE CONVENÇÕES POETA RONALDO CUNHA LIMA, JOÃO PESSOA - PB",
   "dataInicio": "2027-08-19T14:00:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Discussão sobre <i>Linhas de Crédito e Financiamento Sustentável para o Pequeno Produtor</i> coordenada por <b>Flávia Holanda Silva</b> e com participação de <b>Bernardo Queiroz</b>.</p>"
  },
  {
-  "nome": "Encerramento e Premiação",
-  "lugar": "Auditório Tambaú",
+  "nome": "ENCERRAMENTO E PREMIAÇÃO",
+  "lugar": "CENTRO DE CONVENÇÕES POETA RONALDO CUNHA LIMA, JOÃO PESSOA - PB",
   "dataInicio": "2027-08-19T17:00:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Solenidade final de entrega do Prêmio Inovação no Campo 2027 sob comando de <b>Patrícia Nóbrega Dantas</b>.</p>"
  }
 ]

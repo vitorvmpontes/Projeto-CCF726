@@ -15,21 +15,21 @@
  },
  {
   "nome": "GT Discentes",
-  "lugar": null,
+  "lugar": "Sala 14",
   "dataInicio": "2024-05-22T10:15:00-03:00",
   "dataFim": "2024-05-22T11:45:00-03:00",
   "descricao": null
  },
  {
   "nome": "GT Docentes",
-  "lugar": null,
+  "lugar": "Sala 12",
   "dataInicio": "2024-05-22T10:15:00-03:00",
   "dataFim": "2024-05-22T11:45:00-03:00",
   "descricao": null
  },
  {
   "nome": "GT Técnicos-Administrativos",
-  "lugar": null,
+  "lugar": "Sala 16",
   "dataInicio": "2024-05-22T10:15:00-03:00",
   "dataFim": "2024-05-22T11:45:00-03:00",
   "descricao": null

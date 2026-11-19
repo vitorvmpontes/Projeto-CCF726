@@ -1,44 +1,44 @@
 [
  {
-  "nome": "Sessão Plenária de Abertura",
-  "lugar": null,
+  "nome": "SESSÃO PLENÁRIA DE ABERTURA",
+  "lugar": "AUDITÓRIO MANOEL VEREZA DE OLIVEIRA",
   "dataInicio": "2027-05-20T08:30:00-03:00",
   "dataFim": "2027-05-20T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Abertura oficial com a coordenação de <b>Prof. Marcelo Guimarães Farias</b> e apresentação do relatório preliminar do ciclo avaliativo pelo palestrante convidado <b>Dr. Rogério Mendonça Lemos</b>, sob o tema <i>O Papel da CPA na Consolidação do PDI Institucional</i>.</p>"
  },
  {
-  "nome": "Painel de Debates",
-  "lugar": null,
+  "nome": "PAINEL DE DEBATES",
+  "lugar": "AUDITÓRIO MANOEL VEREZA DE OLIVEIRA",
   "dataInicio": "2027-05-20T10:15:00-03:00",
   "dataFim": "2027-05-20T12:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Coordenação de <b>Profa. Beatriz Silveira Ramos</b>. Debate focado nos indicadores de infraestrutura e governança participativa, com as contribuições dos palestrantes <b>Prof. Ricardo Valadares Alvim</b>, abordando <i>Metodologias Qualitativas na Avaliação de Cursos de Graduação</i>, e <b>Carla Vasconcellos Diniz</b>, apresentando <i>Engajamento Estudantil na Autoavaliação Contínua</i>.</p>"
  },
  {
-  "nome": "Sessão de Comunicações Orais 1",
-  "lugar": null,
+  "nome": "SESSÃO DE COMUNICAÇÕES ORAIS 1",
+  "lugar": "SALA 102 - BLOCO B",
   "dataInicio": "2027-05-20T13:30:00-03:00",
   "dataFim": "2027-05-20T15:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Coordenador: <b>Prof. André Luiz Cavalcante</b>.</p><p>Trabalhos apresentados: <i>O Impacto do Feedback Docente na Reestruturação Curricular</i> por <b>Juliana Pires Meireles</b>; <i>Percepção da Comunidade Externa na Extensão Universitária</i> por <b>Marcos Vinícius Prado</b> e <b>Tatiana Freitas Rocha</b>; <i>Instrumentos Digitais de Escuta Discente: Análise Comparativa</i> por <b>Helena Esteves Martins</b>.</p>"
  },
  {
-  "nome": "Sessão de Comunicações Orais 2",
-  "lugar": null,
+  "nome": "SESSÃO DE COMUNICAÇÕES ORAIS 2",
+  "lugar": "SALA 104 - BLOCO B",
   "dataInicio": "2027-05-20T13:30:00-03:00",
   "dataFim": "2027-05-20T15:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Coordenadora: <b>Profa. Renata Drummond Calmon</b>.</p><p>Apresentação das experiências: <i>Inclusão e Acessibilidade: O que Revelam os Dados da CPA</i> por <b>Fernando Gomes Toledo</b>; <i>Desafios na Coleta de Dados em Polos EAD</i> por <b>Viviane Cordeiro Neves</b> e <b>Roberto Assis Barreto</b>; <i>Gestão de Dados Avaliativos com Painéis de Business Intelligence</i> por <b>Lucas Siqueira Duarte</b>.</p>"
  },
  {
-  "nome": "Intervalo com Café",
-  "lugar": null,
+  "nome": "INTERVALO COM CAFÉ",
+  "lugar": "FOYER DO AUDITÓRIO",
   "dataInicio": "2027-05-20T15:00:00-03:00",
   "dataFim": "2027-05-20T15:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Assembleia Deliberativa e Encerramento",
-  "lugar": null,
+  "nome": "ASSEMBLEIA DELIBERATIVA E ENCERRAMENTO",
+  "lugar": "AUDITÓRIO MANOEL VEREZA DE OLIVEIRA",
   "dataInicio": "2027-05-20T15:30:00-03:00",
   "dataFim": "2027-05-20T17:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Sessão conduzida pela coordenadora-geral <b>Profa. Denise Albuquerque Santos</b> e pelo relator <b>Prof. Gustavo Henrique Pimentel</b> para aprovação da minuta de recomendações para o plano de metas institucionais de 2028.</p>"
  }
 ]

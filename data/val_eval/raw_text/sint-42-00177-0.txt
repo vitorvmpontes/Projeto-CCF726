@@ -1,16 +1,10 @@
-I Congresso Amazonense de Direito Ambiental e Sustentabilidade
-Programação 2027
+Programação - I Congresso Amazonense de Direito Ambiental e Sustentabilidade
+Edição 2027
 
-21 • Maio
-Horário
-Atividade
-08:30 às 09:30
-Sessão Solene de Abertura
-09:45 às 11:45
-Mesa-redonda 1
-12:00
-Almoço
-14:30 às 16:30
-Mesa-redonda 2
-17:00
-Plenária de Encerramento
+Dia 1 - 21/05
+Horário	Atividade	Descrição
+08h30 às 09h30	Sessão Solene de Abertura	Abert|ura oficial dos trabalhos conduzida pelo Desembargador Carlos Eduardo Marinho e pela Procuradora-Geral Lari ssa Albuquerque, com a partiipação de representantes da OAB-AM.
+09h45 às 11h45	Mesa-redonda 1	Debate sobre Proteção d Terras Indígenas e urisdição Constitucional na Amazônia. Com palestras de Antônio Carlos Tuxaua abordando O Marco Temporal e s Direitos Origináios, e da Profa. Dra. Helena Vasconcelos, com o tema Litigância Climática e Povos Tradicion ais. Moderação de Renata Sampaio.
+12h00	Almoço
+14h30 às 16h30	Mesa-redonda 2	Discussão sobre Mercádo de Carbono e Bioeconomia:Perspectivas Regulatórias. Participação dos especialistas Felipe Castelo Branco, apresentando Certificação e Créditos de Carbono Jurisdicionais, e Mariana Ximenes Bentes, com Compliance e Governánça Florestal Privada. Coordenação a cargo de Thiago Meireles.
+17h00	Plenária de Encerramento	Apresentação e votação da Carta de Manaus pelos Direitos da Natureza, relatada pelo Prof. Geraldo Nogueira Filho, seguida pelas considerações finais da comissão organizadora presidida por Juliana Fontes Pinheiro.

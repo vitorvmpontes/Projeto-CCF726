@@ -8,6 +8,12 @@ python -m evaluation.evaluate --pred-dir data/test/baseline_gemini --nome gemini
 
 Com `--pos-processar`, as predições passam por `inference/postprocess.py` antes da avaliação (parse tolerante, datas, HTML). As taxas de validade continuam medidas sobre a saída **bruta**, e as correções aplicadas aparecem no `resumo.json`. Para comparar modelos, use a mesma opção em todos (proposta: reportar com pós-processamento, que é como o modelo roda em produção).
 
+O pós-processamento tem versões (`--pp-versao`, padrão `v2`). O resultado principal da e2b-r1 usa a `v1`; a `v2` (2026-11-20) foi escrita depois de ver o teste e é exploratória. Para reproduzir o resultado principal:
+
+```powershell
+python -m evaluation.evaluate --pred-dir evaluation/predictions/e2b-r1 --nome e2b-r1 --pos-processar --pp-versao v1
+```
+
 A pasta de predições deve ter um `<id>.json` por arquivo do `data/test/manifest.csv`, contendo uma lista de atividades ou `{"atividades": [...]}`. Arquivo ausente ou JSON inválido conta como predição vazia: todas as atividades do gabarito viram FN.
 
 Saídas em `evaluation/results/<nome>/`: `resumo.json`, `por_arquivo.csv` e `erros_formato.json` (quando houver).

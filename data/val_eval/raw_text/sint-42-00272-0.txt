@@ -1,34 +1,34 @@
-I Workshop Mato-Grossense de Inteligência Artificial Aplicada
-Programação 2024
+I Workshop Mato-Grossense de Inteligência Artificial Aplicada 2024
+Programação
 
-SÁBADO - 18/05/24
-das 08:00 às 08:30
-RECEPÇÃO E ENTREGA DE CRACHÁS
-das 08:30 às 09:00
-SESSÃO DE ABERTURA INSTITUCIONAL
+Sábado, 18/05
+(08h00 - 08h30)  Recepção e Entrega de Crachás
+(08h30 - 09h00)  Sessão de Abertura Institucional
 Abertura oficial com a presença do coordenador geral Carlos Henrique Rondon e representantes da comunidade acadêmica regional.
-das 09:00 às 10:00
-PALESTRA DE ABERTURA
+Patrocínio
+PALESTRAS PLENÁRIAS
+(09h00 - 10h00) - Palestra de Abertura
 Apresentação intitulada O avanço e impacto dos modelos generativos multimodais na transformação digital de cadeias produtivas no agronegócio moderno, conduzida pela pesquisadora Mariana Siqueira Luz.
-das 10:00 às 10:30
-PAUSA PARA NETWORKING E CAFÉ
-das 10:30 às 12:30
-MINICURSO 1
+www.wmgiaa.com.br
+(10h00 - 10h30)
+Pausa para Networking e Café
+Minicursos Práticos
+(10h30 - 12h30) | Minicurso 1
 Tema: Visão Computacional voltada ao monitoramento e identificação precoce de pragas agrícolas em lavouras de soja, ministrado pelo prof. Danilo Albuquerque Viana.
-das 10:30 às 12:30
-MINICURSO 2
+Programação sujeita a alterações
+(10h30 - 12h30) – Minicurso 2
 Tema: Ajuste fino de grandes modelos de linguagem em infraestrutura local para segurança e privacidade de dados corporativos, conduzido por Juliana Prado Esteves.
-das 12:30 às 14:00
-ALMOÇO LIVRE
-das 14:00 às 16:30
-MINICURSO 3
+(12h30 - 14h00)  Almoço Livre
+(14h00 - 16h30) - Minicurso 3
 Tema: Técnicas de aprendizado por reforço profundo aplicadas ao gerenciamento autônomo de frotas agrícolas, com o engenheiro Thiago Godoy Mendes.
-14:00
-MINICURSO 4
+14h00: Minicurso 4
 Tema: Construção de pipelines de dados em tempo real com processamento escalável para inteligência artificial, orientado por Renata Barreto Fontes.
-das 17:00 às 18:30
-PAINEL DE DISCUSSÃO
+PALESTRAS PLENÁRIAS
+(17h00 - 18h30) | Painel de Discussão
 Debate sobre Desafios éticos, regulação e soberania tecnológica no ecossistema de dados da região Centro-Oeste brasileira, mediado por Vanessa Mattos Pinheiro, com a participação de Luciano Silveira Maia e Edivaldo Campos Corrêa.
-18:30
-ENCERRAMENTO E SORTEIO DE BRINDES
+18h30
+Encerramento e Sorteio de Brindes
 Palavras finais da comissão e sorteio de acessos a cursos online com Carlos Henrique Rondon.
+
+Realização:
+@wmgiaa

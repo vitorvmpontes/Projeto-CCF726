@@ -1,0 +1,497 @@
+{
+  "nome": "e2b-r1",
+  "manifest": "data/val_eval/manifest_rapido.csv",
+  "url": "http://localhost:8080/v1",
+  "formato": "livre",
+  "versao_prompt": "v1",
+  "gerado_em": "2026-11-19T17:16:38+00:00",
+  "chamadas": 60,
+  "erros": 0,
+  "cortadas_max_tokens": 0,
+  "latencia_s": {
+    "media": 24.544166666666666,
+    "mediana": 21.009999999999998
+  },
+  "registros": [
+    {
+      "id": "sint-42-00008-1",
+      "latencia_s": 57.25,
+      "tokens_entrada": 306,
+      "tokens_saida": 716,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00009-1",
+      "latencia_s": 25.32,
+      "tokens_entrada": 471,
+      "tokens_saida": 1097,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00013-0",
+      "latencia_s": 24.67,
+      "tokens_entrada": 529,
+      "tokens_saida": 1025,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00024-0",
+      "latencia_s": 74.17,
+      "tokens_entrada": 1598,
+      "tokens_saida": 3397,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00028-0",
+      "latencia_s": 52.29,
+      "tokens_entrada": 1142,
+      "tokens_saida": 2268,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00033-0",
+      "latencia_s": 31.2,
+      "tokens_entrada": 887,
+      "tokens_saida": 1318,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00036-1",
+      "latencia_s": 43.45,
+      "tokens_entrada": 979,
+      "tokens_saida": 1783,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00058-0",
+      "latencia_s": 47.59,
+      "tokens_entrada": 1123,
+      "tokens_saida": 2155,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00078-1",
+      "latencia_s": 44.83,
+      "tokens_entrada": 582,
+      "tokens_saida": 1381,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00088-1",
+      "latencia_s": 42.41,
+      "tokens_entrada": 1077,
+      "tokens_saida": 2020,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00101-0",
+      "latencia_s": 12.43,
+      "tokens_entrada": 275,
+      "tokens_saida": 542,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00105-0",
+      "latencia_s": 12.27,
+      "tokens_entrada": 354,
+      "tokens_saida": 524,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00110-0",
+      "latencia_s": 45.97,
+      "tokens_entrada": 1018,
+      "tokens_saida": 2000,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00173-0",
+      "latencia_s": 42.99,
+      "tokens_entrada": 852,
+      "tokens_saida": 1783,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00180-1",
+      "latencia_s": 12.3,
+      "tokens_entrada": 287,
+      "tokens_saida": 434,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00185-0",
+      "latencia_s": 23.15,
+      "tokens_entrada": 688,
+      "tokens_saida": 926,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00188-1",
+      "latencia_s": 35.31,
+      "tokens_entrada": 621,
+      "tokens_saida": 1439,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00198-0",
+      "latencia_s": 16.22,
+      "tokens_entrada": 455,
+      "tokens_saida": 701,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00231-0",
+      "latencia_s": 24.53,
+      "tokens_entrada": 739,
+      "tokens_saida": 1106,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00251-0",
+      "latencia_s": 54.29,
+      "tokens_entrada": 1098,
+      "tokens_saida": 2250,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00256-1",
+      "latencia_s": 23.2,
+      "tokens_entrada": 507,
+      "tokens_saida": 897,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00272-0",
+      "latencia_s": 29.91,
+      "tokens_entrada": 650,
+      "tokens_saida": 1307,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00293-0",
+      "latencia_s": 37.26,
+      "tokens_entrada": 980,
+      "tokens_saida": 1729,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00294-1",
+      "latencia_s": 12.27,
+      "tokens_entrada": 318,
+      "tokens_saida": 529,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00301-1",
+      "latencia_s": 50.76,
+      "tokens_entrada": 1376,
+      "tokens_saida": 2454,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00308-1",
+      "latencia_s": 27.74,
+      "tokens_entrada": 478,
+      "tokens_saida": 1295,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00373-1",
+      "latencia_s": 20.84,
+      "tokens_entrada": 622,
+      "tokens_saida": 906,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00399-0",
+      "latencia_s": 55.98,
+      "tokens_entrada": 1472,
+      "tokens_saida": 2665,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00407-0",
+      "latencia_s": 50.31,
+      "tokens_entrada": 819,
+      "tokens_saida": 2274,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00415-0",
+      "latencia_s": 21.18,
+      "tokens_entrada": 542,
+      "tokens_saida": 830,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00429-1",
+      "latencia_s": 24.05,
+      "tokens_entrada": 393,
+      "tokens_saida": 1029,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00448-0",
+      "latencia_s": 41.21,
+      "tokens_entrada": 717,
+      "tokens_saida": 1815,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00475-0",
+      "latencia_s": 14.48,
+      "tokens_entrada": 253,
+      "tokens_saida": 582,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00486-0",
+      "latencia_s": 19.41,
+      "tokens_entrada": 516,
+      "tokens_saida": 800,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-42-00495-0",
+      "latencia_s": 21.95,
+      "tokens_entrada": 450,
+      "tokens_saida": 922,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00000-1",
+      "latencia_s": 7.59,
+      "tokens_entrada": 177,
+      "tokens_saida": 258,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00003-0",
+      "latencia_s": 12.02,
+      "tokens_entrada": 228,
+      "tokens_saida": 427,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00004-0",
+      "latencia_s": 18.43,
+      "tokens_entrada": 343,
+      "tokens_saida": 726,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00024-1",
+      "latencia_s": 6.77,
+      "tokens_entrada": 193,
+      "tokens_saida": 211,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00039-0",
+      "latencia_s": 9.93,
+      "tokens_entrada": 227,
+      "tokens_saida": 352,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00040-0",
+      "latencia_s": 9.96,
+      "tokens_entrada": 212,
+      "tokens_saida": 348,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00043-0",
+      "latencia_s": 12.54,
+      "tokens_entrada": 235,
+      "tokens_saida": 459,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00090-0",
+      "latencia_s": 13.2,
+      "tokens_entrada": 263,
+      "tokens_saida": 499,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00102-0",
+      "latencia_s": 13.13,
+      "tokens_entrada": 324,
+      "tokens_saida": 532,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00112-1",
+      "latencia_s": 6.53,
+      "tokens_entrada": 204,
+      "tokens_saida": 202,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00118-0",
+      "latencia_s": 8.62,
+      "tokens_entrada": 187,
+      "tokens_saida": 344,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00128-0",
+      "latencia_s": 10.94,
+      "tokens_entrada": 247,
+      "tokens_saida": 446,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00131-1",
+      "latencia_s": 5.71,
+      "tokens_entrada": 189,
+      "tokens_saida": 184,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00149-1",
+      "latencia_s": 27.61,
+      "tokens_entrada": 514,
+      "tokens_saida": 1341,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00165-0",
+      "latencia_s": 5.76,
+      "tokens_entrada": 187,
+      "tokens_saida": 181,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00168-0",
+      "latencia_s": 22.07,
+      "tokens_entrada": 399,
+      "tokens_saida": 924,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00183-1",
+      "latencia_s": 20.56,
+      "tokens_entrada": 319,
+      "tokens_saida": 984,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00220-0",
+      "latencia_s": 6.46,
+      "tokens_entrada": 189,
+      "tokens_saida": 225,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00221-1",
+      "latencia_s": 5.68,
+      "tokens_entrada": 178,
+      "tokens_saida": 182,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00225-1",
+      "latencia_s": 9.53,
+      "tokens_entrada": 231,
+      "tokens_saida": 393,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00232-1",
+      "latencia_s": 5.03,
+      "tokens_entrada": 183,
+      "tokens_saida": 145,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00243-0",
+      "latencia_s": 10.02,
+      "tokens_entrada": 227,
+      "tokens_saida": 419,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00254-1",
+      "latencia_s": 14.78,
+      "tokens_entrada": 370,
+      "tokens_saida": 667,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00258-0",
+      "latencia_s": 11.65,
+      "tokens_entrada": 257,
+      "tokens_saida": 506,
+      "fim": "stop",
+      "erro": ""
+    },
+    {
+      "id": "sint-43-00293-0",
+      "latencia_s": 24.94,
+      "tokens_entrada": 495,
+      "tokens_saida": 1209,
+      "fim": "stop",
+      "erro": ""
+    }
+  ]
+}

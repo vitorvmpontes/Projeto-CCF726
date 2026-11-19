@@ -1,43 +1,126 @@
-IX Encontro Cearense de Mulheres na Tecnologia da Informação e Computação
-Programação 2026
+Programação - IX Encontro Cearense de Mulheres na Tecnologia da Informação e Computação
+Edição 2026
 
 13 de maio de 2026
-Horário | Atividade
-(08:00 - 09:00) | Credenciamento e Boas-Vindas
-(09:00 - 10:00) | Sessão Solene de Abertura
-(10:00 - 11:15) | Palestra Inaugural
-(11:15 - 11:45) | Intervalo para Café
-(11:45 - 13:00) | Painel Temático 1
-(13:00 - 14:30) | Pausa para Almoço
-(14:30 - 16:00) | Sessão Técnica 1
-(16:00 - 17:15) | Palestra Técnica 1
-17:15 | Mostra de Projetos de Iniciação Científica
+Horário
+Atividade
+8h às 9h
+Credenciamento e Boas-Vindas
+Recepção das participantes, entrega de crachás e kits do evento.
+Organização:
+9h às 10h
+Sessão Solene de Abertura
+Abertura oficial com a coordenadora-geral Camila Frota Albuquerque e representantes institucionais da UFC e IFCE.
+PALESTRAS PRINCIPAIS
+10h às 11h15
+Palestra Inaugural
+Apresentação de Liderança Feminina e Inovação Tecnológica na Transformação Digital do Nordeste ministrada por Mariana Paiva Vasconcelos.
+11h15 às 11h45
+Intervalo para Café
+Painéis e Debates
+11h45 às 13h
+Painel Temático 1
+Discussão sobre Transição de Carreira e Desafios de Permanência Feminina na Indústria de Software com Juliana Bezerra Sales, Tereza Cristina Ramos e mediação de Débora Alencar Rios.
+Organização:
+13h às 14h30
+Pausa para Almoço
+www.ecmtic.com.br
+COMUNICAÇÕES ORAIS
+14h30 às 16h
+Sessão Técnica 1
+Apresentações de artigos sobre Engenharia de Software e Algoritmos. Coordenação da professora Beatriz Pontes Moreira.
+Palestras Principais
+16h às 17h15
+Palestra Técnica 1
+Palestra intitulada Uma Abordagem Prática sobre Governança de Algoritmos Preditivos para Redução de Disparidades de Gênero em Sistemas Digitais com Letícia Nogueira Dantas.
+17h15
+Mostra de Projetos de Iniciação
+Científica
+Apresentação em formato de pôsteres com avaliação conduzida por Roberta Saraiva Macedo e Emanuela Gomes Vieira.
 
 14 de maio de 2026
-Horário | Atividade
-(08:30 - 10:30) | Oficina Prática 1
-(10:30 - 11:00) | Lanche da Manhã
-(11:00 - 12:30) | Mesa-Redonda
-(12:30 - 14:00) | Almoço Livre
-(14:00 - 16:00) | Oficina Prática 2
-(16:00 - 17:30) | Sessão Técnica 2
-17:30 | Roda de Conversa com Startups
+Horário
+Atividade
+Oficinas e Minicursos
+8h30 às 10h30
+Oficina Prática 1
+Atividade sobre Construindo Modelos de Linguagem para Tarefas Específicas com Python e Bibliotecas Open Source conduzida por Aline Menezes Holanda.
+10h30 às 11h
+Lanche da Manhã
+PAINÉIS E DEBATES
+11h às 12h30
+Mesa-Redonda
+Mesa com o tema Mulheres Negras e Indígenas nas Ciências Exatas com as debatedoras Joana Darc Oliveira e Taís Pankararu Costa sob moderação de Nádia Peixoto Barreto.
+12h30 às 14h
+Almoço Livre
+Organização:
+Oficinas e Minicursos
+14h às 16h
+Oficina Prática 2
+Atividade prática Introdução ao Desenvolvimento Web Acessível para Pessoas com Deficiência Visual facilitada por Priscila Magalhães Cruz.
+Comunicações Orais
+16h às 17h30
+Sessão Técnica 2
+Apresentações de pesquisas em Inteligência Artificial e Ciência de Dados com mediação de Renata Pimentel Fontes.
+17h30
+Roda de Conversa com Startups
+Bate-papo informal entre fundadoras locais de startups de tecnologia e graduandas. Participação de Sofia Castello Branco e Lorena Martins Pires.
+Patrocínio
 
 15 de maio de 2026
-Horário | Atividade
-(08:30 - 11:00) | Minicurso Avançado
-(11:00 - 11:30) | Pausa para Café
-(11:30 - 13:00) | Painel Temático 2
-(13:00 - 14:30) | Intervalo de Almoço
-(14:30 - 16:00) | Sessão Técnica 3
-(16:00 - 17:15) | Palestra Técnica 2
-17:15 | Sessão Relâmpago de Ideias
+Horário
+Atividade
+OFICINAS E MINICURSOS
+8h30 às 11h
+Minicurso Avançado
+Treinamento intensivo sobre Arquiteturas Seguras em Nuvem e Resiliência Operacional para Ambientes Críticos Corporativos ministrado pela especialista Carla Antunes Mendonça.
+Vagas limitadas!
+11h às 11h30
+Pausa para Café
+Painéis e Debates
+11h30 às 13h
+Painel Temático 2
+Discussão sobre Pós-graduação e Carreira Acadêmica: Conciliação entre Maternidade e Pesquisa Científica com Patrícia Carvalho Moura, Viviane Chaves Lins e Erika Meireles Gadelha.
+13h às 14h30
+Intervalo de Almoço
+COMUNICAÇÕES ORAIS
+14h30 às 16h
+Sessão Técnica 3
+Trabalhos em Interação Humano-Computador e Robótica Educacional apresentados por pesquisadoras júniores, avaliados por Heloísa Aragão Silva.
+Programação sujeita a alterações
+Palestras Principais
+16h às 17h15
+Palestra Técnica 2
+Palestra Computação Quântica e Novos Horizontes Criptográficos proferida pela pesquisadora Fabiana Araripe Sobral.
+17h15
+Sessão Relâmpago de Ideias
+Apresentações rápidas de 5 minutos sobre projetos de extensão comunitária com mediação de Tatiana Figueiredo Neves.
 
 16 de maio de 2026
-Horário | Atividade
-(08:30 - 11:00) | Hackathon Elas na Computação
-(11:00 - 11:30) | Coffee Break de Encerramento
-(11:30 - 12:45) | Palestra de Encerramento
-(12:45 - 13:30) | Premiação dos Melhores Trabalhos
-(13:30 - 14:00) | Cerimônia de Encerramento
-14:00 | Apresentação Cultural
+Horário
+Atividade
+8h30 às 11h
+Hackathon Elas na Computação
+Maratona colaborativa de desenvolvimento focada em soluções cívicas municipais para Fortaleza. Mentoria de Isabela Furtado Siqueira e Gisele Cunha Arruda.
+Acesse o QR Code
+11h às 11h30
+Coffee Break de Encerramento
+Palestras Principais
+11h30 às 12h45
+Palestra de Encerramento
+Conferência A Construção Coletiva de Redes Femininas de Apoio e o Futuro da Tecnologia Aberta no Brasil com a diretora de tecnologia Monique Batista Brandão.
+12h45 às 13h30
+Premiação dos Melhores Trabalhos
+Divulgação dos resultados do Hackathon e das sessões técnicas com entrega de certificados por Camila Frota Albuquerque e Beatriz Pontes Moreira.
+#ecmtic2026
+13h30 às 14h
+Cerimônia de Encerramento
+Considerações finais da comissão organizadora e anúncio da sede para a edição de 2027.
+Patrocínio
+14h
+Apresentação Cultural
+Show com o grupo feminino de percussão e forró tradicional liderado por Clarisse Feitosa Peixoto.
+Apoio:
+
+Realização:
+@ecmtic

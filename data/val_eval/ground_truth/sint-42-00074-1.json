@@ -1,31 +1,31 @@
 [
  {
   "nome": "Acolhida e Café Fraterno",
-  "lugar": null,
+  "lugar": "Salão Paroquial São João Batista",
   "dataInicio": "2025-05-17T07:30:00-03:00",
   "dataFim": "2025-05-17T08:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "Missa de Abertura",
-  "lugar": null,
+  "lugar": "Nave Principal da Igreja Matriz",
   "dataInicio": "2025-05-17T08:30:00-03:00",
   "dataFim": "2025-05-17T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Celebração eucarística de envio presidida pelo <b>Padre Geraldo de Freitas</b> com participação do coral das comunidades rurais.</p>"
  },
  {
   "nome": "Círculo Bíblico",
-  "lugar": null,
+  "lugar": "Tenda da Esperança",
   "dataInicio": "2025-05-17T10:15:00-03:00",
   "dataFim": "2025-05-17T11:15:00-03:00",
-  "descricao": null
+  "descricao": "<p>Reflexão coletiva guiada pela animadora <b>Irmã Teresa Vasconcelos</b> sobre o cuidado com a criação a partir do livro de Gênesis.</p>"
  },
  {
   "nome": "Conferência de Abertura",
-  "lugar": null,
+  "lugar": "Auditório Central do Colégio Carmo",
   "dataInicio": "2025-05-17T11:15:00-03:00",
   "dataFim": "2025-05-17T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Palestra inaugural com o professor e diácono <b>Carlos Eduardo Fontes</b> abordando a conferência <i>Caminhos de solidariedade comunitária frente aos desafios socioambientais e à urgência de preservação das nascentes em territórios rurais</i>.</p>"
  },
  {
   "nome": "Almoço Solidário",
@@ -36,24 +36,24 @@
  },
  {
   "nome": "Oficina 1",
-  "lugar": null,
+  "lugar": "Sala de Catequese 2",
   "dataInicio": "2025-05-17T14:00:00-03:00",
   "dataFim": "2025-05-17T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Atividade prática conduzida por <b>Mariana Pires Resende</b> ensinando métodos caseiros de compostagem e reciclagem de resíduos orgânicos.</p>"
  },
  {
   "nome": "Oficina 2",
-  "lugar": null,
+  "lugar": "Pátio Comunitário Santo Antônio",
   "dataInicio": "2025-05-17T14:00:00-03:00",
   "dataFim": "2025-05-17T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Oficina ministrada por <b>Vicente Silveira</b> com o tema <i>Metodologias populares de hortas comunitárias orgânicas como instrumento pedagógico e de transformação social na superação da vulnerabilidade alimentar</i>.</p>"
  },
  {
   "nome": "Oficina 3",
   "lugar": null,
   "dataInicio": "2025-05-17T14:00:00-03:00",
   "dataFim": "2025-05-17T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Facilitada por <b>Clara Beatriz Mendonça</b>, focando em técnicas básicas de restauração de imagens sacras e patrimônio histórico paroquial.</p>"
  },
  {
   "nome": "Lanche Comunitário",
@@ -64,31 +64,31 @@
  },
  {
   "nome": "Vigília Jovem",
-  "lugar": null,
+  "lugar": "Capela da Medalha Milagrosa",
   "dataInicio": "2025-05-17T19:30:00-03:00",
   "dataFim": "2025-05-17T21:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Momento de louvor e adoração organizado pelo coordenador da pastoral juvenil <b>Lucas Antunes</b> e pela musicista <b>Fernanda Prado</b>.</p>"
  },
  {
   "nome": "Círculo Bíblico",
-  "lugar": null,
+  "lugar": "Pátio Comunitário Santo Antônio",
   "dataInicio": "2025-05-18T08:00:00-03:00",
   "dataFim": "2025-05-18T09:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Partilha matinal sobre a encíclica Laudato Si e os compromissos dos leigos, mediada por <b>Irmã Teresa Vasconcelos</b>.</p>"
  },
  {
   "nome": "Palestra Temática",
-  "lugar": null,
+  "lugar": "Auditório Central do Colégio Carmo",
   "dataInicio": "2025-05-18T09:15:00-03:00",
   "dataFim": "2025-05-18T10:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação da pesquisadora <b>Dra. Cecília Nogueira</b> e do líder comunitário <b>Sebastião Valadares</b> intitulada <i>O papel transformador das redes inter-religiosas na promoção de políticas públicas de segurança alimentar sustentável para populações periféricas</i>.</p>"
  },
  {
   "nome": "Mesa de Experiências Comunitárias",
-  "lugar": null,
+  "lugar": "Auditório Central do Colégio Carmo",
   "dataInicio": "2025-05-18T11:00:00-03:00",
   "dataFim": "2025-05-18T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Debate sobre iniciativas de economia popular solidária mediado por <b>Antônio Moreira</b> com depoimentos dos agentes pastorais <b>Dona Rita de Cássia</b> e <b>Jorge Ramos</b>.</p>"
  },
  {
   "nome": "Almoço Fraterno",
@@ -102,20 +102,20 @@
   "lugar": null,
   "dataInicio": "2025-05-18T14:00:00-03:00",
   "dataFim": "2025-05-18T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Ação coletiva de plantio de mudas nativas no entorno do córrego São Bartolomeu, sob coordenação do agrônomo <b>Felipe Dornelas</b>.</p>"
  },
  {
   "nome": "Partilha dos Frutos",
-  "lugar": null,
+  "lugar": "Salão Paroquial São João Batista",
   "dataInicio": "2025-05-18T16:30:00-03:00",
   "dataFim": "2025-05-18T17:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Plenária para elaboração da carta de compromissos socioambientais das paróquias, facilitada por <b>Helena Guimarães</b>.</p>"
  },
  {
   "nome": "Missa de Encerramento",
-  "lugar": null,
+  "lugar": "Nave Principal da Igreja Matriz",
   "dataInicio": "2025-05-18T18:00:00-03:00",
   "dataFim": "2025-05-18T19:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Eucaristia solene de encerramento presidida por <b>Dom Gabriel Álvares</b> e concelebrada pelo <b>Padre Geraldo de Freitas</b>.</p>"
  }
 ]

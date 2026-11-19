@@ -1,28 +1,49 @@
-BAHIA TECH SUMMIT & HACKATHON 2023
-Hub Salvador, Comércio, Salvador - BA
-PROGRAMAÇÃO
+Programação - Bahia Tech Summit & Hackathon 2023
+Edição 2023
+19 de agosto de 2023
 
-Sábado (19/08/2023)
-8h - 8h45
-Check-in e Welcome Coffee
-8h45 - 9h40
-Keynote de Abertura
+08h00 - 08h45: Check-in e Welcome Coffee
+Local: Foyer Principal
+Oganização:
+08h45 - 09h40 - Keynote de Abertura
+Local: Auditório Baía de Todos os Santos
+Abertura oficial do evento com 'Lorena Queiroz apresentndo a palestra O Ecossistema de Inovação Baiano e as Oportunidades Globais.
+Siga @btsh nas redes sociais
 Hackathon TechInova
-9h45 - 10h30
-Kick-off do Hackathon
-10h45 - 12h - Mentoria Técnica 1
-Trilha Corporativa
-10h45 - 11h45 - Palestra Empresarial 1
-12h - 13h30 - Almoço Livre
-HACKATHON TECHINOVA
-13h30 - 15h | Mentoria de Negócios e Pitch
+09h45 - 10h30 - Kick-off do Hackathon
+📍 Espaço Maker & Arena Hack
+Divulgação dos desafios temáticos e início da maratona de desenvolvimento. Facílitação por Thiago Meireles e Beatriz Vianna.
+10h45 - 12h00 – Mentoria Técnica 1
+📍 Espaço Maker & Arena Hack
+Rodada de validaçãode hipóteses com os mentores Carla Mendonça e Felipe Santana.
+Certificado de partícipação
 TRILHA CORPORATIVA
+10h45 - 11h45 – Palestra Empresarial 1
+📍 Auditório Baía de Todos os Santos
+Apresentação de Marcos André Ribeiro (iFood) abordando Arquiteturas Resilientes para Aplicaçõe de Alto Volume.
+12h00 - 13h30 - Almoço Livre
+Hackathon TechInova
+13h30 - 15h00 - Mentoria de Negócios e Pitch
+Espaço Maker & Arena Hack
+Apoio na modelagem de negócios e estruturação de pitches com os especialistas Rodrigo Vasc|oncelos e Aline Guimarães.
+Trilha Corporativa
 13h30 - 14h30 | Palestra Empresarial 2
-14h45 - 15h45
-Palestra Empresarial 3
+Local: Auditório Baía de Todos os Santos
+Palestra e Patrícia Nogueira (Nubank) com o tema Engenharia de Dados e Governança em Serviços Financeiros Críticos.
+14h45 - 15h45: Palestra Empresarial 3
+Auditório Baía de Todos os Santos
+Sessão conduzida por Dánilo Cerqueira (Google Cloud) apresentando Inteligência Artificial Generativa Aplicada à Produtividade de Software.
+Vagas limitada s!
 HACKATHON TECHINOVA
-17h - 17h30
-Submissão Final dos Projetos
-18h - 19h30
-Banca de Pitch e Avaliação
-19h30 - 21h  Premiação e Happy Hour de Encerramento
+17h00 - 17h30: Submissão Final dos Projetos
+📍 Espaço Maker & Arena Hack
+Encerramento do código e envio de repositóríos sob coordenação de Thiago Meireles.
+18h00 - 19h30  Banca de Pitch e Avaliação
+Auditório Baía de Todos os Santos
+Apresentação das cinco equipes finalistas perante a banca jugadora composta por Lorena Queiroz, Patrícia Nogueira e Danil0 'Cerqueira.
+19h30 - 21h00 | Premiação e Happy Hour de Encerramento
+📍 Rooftop Hub Salvador
+Anúncio dos vencedores do hackathon com Thiago Meireles e confraternização musical com networking.
+
+Apoio:
+@btsh

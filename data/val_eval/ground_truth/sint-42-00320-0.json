@@ -1,168 +1,168 @@
 [
  {
   "nome": "CREDENCIAMENTO E RETIRADA DE CRACHÁS",
-  "lugar": "HALL DE ENTRADA",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T08:00:00-03:00",
   "dataFim": "2023-08-17T09:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "SESSÃO DE ABERTURA",
-  "lugar": "AUDITÓRIO PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T09:00:00-03:00",
   "dataFim": "2023-08-17T09:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Abertura oficial do evento com a presença da coordenadora geral <b>Dra. Juliana Prado</b> e do diretor <b>Dr. Marcos Vinícius Toledo</b>.</p>"
  },
  {
   "nome": "PALESTRA DE ABERTURA",
-  "lugar": "AUDITÓRIO PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T09:30:00-03:00",
   "dataFim": "2023-08-17T10:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação de abertura ministrada pelo <b>Prof. Dr. Ricardo Albuquerque</b> com o tema <i>Modelos de Linguagem de Grande Escala e o Futuro do Processamento Textual</i>.</p>"
  },
  {
   "nome": "PAUSA PARA CAFÉ MATUTINA",
-  "lugar": "FOYER PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T10:30:00-03:00",
   "dataFim": "2023-08-17T11:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "MINICURSO 1 - PARTE 1",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T11:00:00-03:00",
   "dataFim": "2023-08-17T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Instrutora: <b>MSc. Camila Dantas</b>. Conteúdo prático cobrindo <i>Introdução a Visão Computacional com PyTorch e OpenCV</i>.</p>"
  },
  {
   "nome": "MINICURSO 2 - PARTE 1",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T11:00:00-03:00",
   "dataFim": "2023-08-17T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Ministrado por <b>Dr. Felipe Cerqueira</b>, abordando <i>Engenharia de Prompts e Arquitetura RAG para Aplicações Corporativas</i>.</p>"
  },
  {
   "nome": "ALMOÇO LIVRE",
-  "lugar": null,
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T12:30:00-03:00",
   "dataFim": "2023-08-17T14:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "MINICURSO 1 - PARTE 2",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T14:00:00-03:00",
   "dataFim": "2023-08-17T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Continuação com a instrutora <b>MSc. Camila Dantas</b> sobre <i>Implementação e Ajuste Fino de Redes Convolucionais para Reconhecimento de Objetos</i>.</p>"
  },
  {
   "nome": "MINICURSO 2 - PARTE 2",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T14:00:00-03:00",
   "dataFim": "2023-08-17T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Continuação com <b>Dr. Felipe Cerqueira</b> trabalhando <i>Integração de Vetores e Bancos de Dados com LangChain</i>.</p>"
  },
  {
   "nome": "COFFEE BREAK E NETWORKING",
-  "lugar": "FOYER PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T16:00:00-03:00",
   "dataFim": "2023-08-17T16:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "PAINEL DE DISCUSSÃO 1",
-  "lugar": "AUDITÓRIO PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T16:30:00-03:00",
   "dataFim": "2023-08-17T18:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Debate sobre <i>Desafios Éticos e Regulamentação de Inteligência Artificial no Cenário Brasileiro</i> com mediação de <b>Dra. Mariana Lins</b> e participação de <b>Lucas Fontes</b> e <b>Beatriz Nogueira</b>.</p>"
  },
  {
   "nome": "HAPPY HOUR DA COMUNIDADE",
-  "lugar": "TERRAÇO PANORÂMICO",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-17T18:30:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "BOAS-VINDAS E RECEPÇÃO",
-  "lugar": "HALL DE ENTRADA",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T08:30:00-03:00",
   "dataFim": "2023-08-18T09:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "PALESTRA TÉCNICA CONVIDADA",
-  "lugar": "AUDITÓRIO PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T09:00:00-03:00",
   "dataFim": "2023-08-18T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação pelo especialista <b>Eng. Rodrigo Valente</b> abordando <i>MLOps: Estratégias para Implantação Contínua de Modelos Preditivos em Produção</i>.</p>"
  },
  {
   "nome": "INTERVALO PARA CAFÉ",
-  "lugar": "FOYER PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T10:00:00-03:00",
   "dataFim": "2023-08-18T10:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "MINICURSO 3 - PARTE 1",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T10:30:00-03:00",
   "dataFim": "2023-08-18T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Oficina conduzida por <b>Dra. Talita Guimarães</b> sobre <i>Aprendizado por Reforço Profundo: Fundamentos e Primeiros Passos</i>.</p>"
  },
  {
   "nome": "MINICURSO 4 - PARTE 1",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T10:30:00-03:00",
   "dataFim": "2023-08-18T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Sessão conduzida por <b>Prof. André Meireles</b> tratando de <i>Análise de Grafos de Conhecimento e IA Explicável com NetworkX</i>.</p>"
  },
  {
   "nome": "HORÁRIO DE ALMOÇO",
-  "lugar": null,
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T12:30:00-03:00",
   "dataFim": "2023-08-18T14:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "MINICURSO 3 - PARTE 2",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA A",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T14:00:00-03:00",
   "dataFim": "2023-08-18T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Aplicação em simuladores com a especialista <b>Dra. Talita Guimarães</b>: <i>Treinando Agentes com Gym e Stable-Baselines3</i>.</p>"
  },
  {
   "nome": "MINICURSO 4 - PARTE 2",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA B",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T14:00:00-03:00",
   "dataFim": "2023-08-18T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Exercícios práticos com <b>Prof. André Meireles</b> demonstrando <i>Interpretabilidade de Modelos Complexos Utilizando SHAP e LIME</i>.</p>"
  },
  {
   "nome": "PAUSA PARA LANCHE DA TARDE",
-  "lugar": "FOYER PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T16:00:00-03:00",
   "dataFim": "2023-08-18T16:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "PAINEL DE DISCUSSÃO 2",
-  "lugar": "AUDITÓRIO PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T16:30:00-03:00",
   "dataFim": "2023-08-18T17:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Mesa redonda sobre <i>Mercado de Trabalho em IA: Demandas, Habilidades e Carreiras Emergentes</i>, moderada por <b>Patrícia Ramos</b> com debatedores <b>Carlos Eduardo Bueno</b> e <b>Fernanda Siqueira</b>.</p>"
  },
  {
   "nome": "SESSÃO DE ENCERRAMENTO E PREMIAÇÃO",
-  "lugar": "AUDITÓRIO PRINCIPAL",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T17:45:00-03:00",
   "dataFim": "2023-08-18T18:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Entrega das premiações de melhores projetos dos minicursos presidida por <b>Dra. Juliana Prado</b>.</p>"
  },
  {
   "nome": "COQUETEL DE CONFRATERNIZAÇÃO",
-  "lugar": "ÁREA VERDE DO CIT",
+  "lugar": "CENTRO DE INOVAÇÕES TECNOLÓGICAS DE SÃO PAULO - SÃO PAULO - SP",
   "dataInicio": "2023-08-18T18:30:00-03:00",
   "dataFim": null,
   "descricao": null

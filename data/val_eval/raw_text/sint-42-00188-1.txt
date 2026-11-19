@@ -1,47 +1,63 @@
 IV Encontro Amapaense de Mulheres na Computação
 Programação 2025
 
-21/05
-(08:00 - 09:00) | Recepção e Entrega de Kits
-📍 Hall do Bloco de Ciência e Tecnologia
-(09:00 - 10:00) | Sessão Solene de Abertura
-Auditório Paulo Freire
-Palestras Principais
-(10:15 - 11:45) - Palestra 1
-Auditório Paulo Freire
-(12:00 - 13:30)
-Pausa para Almoço
-(14:00 - 15:30) | Painel de Debates
-Local: Auditório Paulo Freire
-(15:30 - 16:00) | Espaço de Integração e Trocas
-Pátio Central das Mangueiras
-TRILHAS PRÁTICAS
-(16:00 - 18:00) - Oficina Técnica A
-Laboratório de Informática Aplicada 1
-
-22/05
-Palestras Principais
-(08:30 - 10:00) - Palestra 2
-Local: Auditório Paulo Freire
-(10:15 - 12:00)  Mostra de Iniciação Científica
-Saguão do Bloco de Exatas
-Trilhas Práticas
-(14:00 - 16:00)
-Oficina Técnica B
-Laboratório de Redes e Sistemas
-(16:30 - 18:00) - Roda de Conversa
-Sala Multiuso 3
-
-23/05
-TRILHAS PRÁTICAS
-(08:30 - 10:30) | Oficina Técnica C
-📍 Laboratório de Informática Aplicada 2
-(10:45 - 12:15)
-Sessão de Relatos de Experiência
-Auditório Paulo Freire
-(14:00 - 15:30)  Mesa de Encerramento
-Auditório Paulo Freire
-(15:45 - 17:00)  Premiação e Plenária Final
-Local: Auditório Paulo Freire
-17:15 - Coquetel Cultural
+Quarta-feira (21/05/2025)
+08:00 - 09:00 | Recepção e Entrega de Kits
 Hall do Bloco de Ciência e Tecnologia
+Acolhimento das participantes e distribuição do material oficial do evento coordenado por Camila Brito Sales.
+09:00 - 10:00
+Sessão Solene de Abertura
+📍 Auditório Paulo Freire
+Boas-vindas institucionais com a coordenadora geral Dra. Simone Paes de Vasconcelos e a vice-reitora Profª. Tânia Mara Silveira.
+Siga @eamc nas redes sociais
+10:15 - 11:45 | Palestra 1
+📍 Auditório Paulo Freire
+Tema: Análise crítica da representatividade feminina no desenvolvimento de modelos fundacionais de inteligência artificial generativa em centros de pesquisa latino-americanos, apresentada pela pesquisadora convidada Dra. Juliana Mendes Fontes.
+Programação sujeita a alterações
+12:00 - 13:30 – Pausa para Almoço
+14:00 - 15:30  Painel de Debates
+Local: Auditório Paulo Freire
+Tema: Trajetórias acadêmicas e barreiras invisíveis na pós-graduação em exatas. Participação das pesquisadoras Dra. Larissa Cordeiro Monteiro e Profª. Renata Xavier Maciel, sob mediação de Emanuelle Pinheiro Duarte.
+Acesse o QR Code
+15:30 - 16:00  Espaço de Integração e Trocas
+Local: Pátio Central das Mangueiras
+Momento de confraternização e lanche regional oferecido às participantes.
+Apoio:
+16:00 - 18:00 – Oficina Técnica A
+Laboratório de Informática Aplicada 1
+Oficina prática com título Implementação de microsserviços escaláveis com contêineres Docker e orquestração leve, conduzida pela engenheira de software Beatriz Nogueira Rabelo.
+
+Quinta-feira (22/05/2025)
+08:30 - 10:00 | Palestra 2
+Local: Auditório Paulo Freire
+Tema: Estratégias inovadoras para retenção sustentável de alunas em cursos de tecnologia e engenharia computacional na Amazônia setentrional brasileira, ministrada por Profª. Drª. Walquíria Queiroz Ferreira.
+10:15 - 12:00  Mostra de Iniciação Científica
+Saguão do Bloco de Exatas
+Apresentação de pôsteres com a avaliação das comissárias Maíra dos Anjos Carvalho e Cláudia Regina Teles.
+14:00 - 16:00 – Oficina Técnica B
+Local: Laboratório de Redes e Sistemas
+Treinamento prático sob o tema Introdução ao pentest defensivo para proteção de infraestruturas locais, ministrado pela especialista em segurança Roberta Paiva Gusmão.
+16:30 - 18:00 – Roda de Conversa
+Local: Sala Multiuso 3
+Discussão sobre Maternidade, carreira técnica e vida acadêmica com mediação de Fernanda Lacerda Guimarães e relatos de Gisele Souza Matos.
+
+Sexta-feira (23/05/2025)
+08:30 - 10:30 - Oficina Técnica C
+Local: Laboratório de Informática Aplicada 2
+Atividade prática Prototipação acessível de interfaces web e mobile utilizando princípios de Design Ops, ministrada pela designer de interação Letícia Albuquerque Viana.
+10:45 - 12:15: Sessão de Relatos de Experiência
+Local: Auditório Paulo Freire
+Apresentação do relato Criação do coletivo amapaense de incentivo à programação para meninas de escolas públicas, por Ingrid Nayara Costa e Sabrina Dias Cunha.
+14:00 - 15:30
+Mesa de Encerramento
+📍 Auditório Paulo Freire
+Discussão temática O ecossistema de startups na Região Norte e lideranças femininas com as convidadas Patrícia Vilhena de Souza e Bruna Marinho Alencar.
+15:45 - 17:00  Premiação e Plenária Final
+📍 Auditório Paulo Freire
+Entrega do prêmio Jovem Pesquisadora Destaque da Computação 2025 coordenada por Dra. Simone Paes de Vasconcelos e votação da carta de reivindicações do coletivo.
+17:15  Coquetel Cultural
+📍 Hall do Bloco de Ciência e Tecnologia
+Confraternização final com apresentação do grupo de marabaixo feminino coordenado pela mestra Joana da Silva Pureza.
+
+Realização:
+@eamc

@@ -1,6 +1,6 @@
-# Data card — dataset de treino/validação (fonte B: sintético, v1.1)
+# Data card — dataset de treino/validação (fonte B: sintético, v1.2)
 
-Gerado em 2026-11-17T17:27:21+00:00 por `python -m dataset_builder.build montar`.
+Gerado em 2026-11-19T18:56:02+00:00 por `python -m dataset_builder.build montar`.
 
 ## Como foi construído
 
@@ -16,63 +16,70 @@ Gerado em 2026-11-17T17:27:21+00:00 por `python -m dataset_builder.build montar`
 |---|---|
 | Eventos gerados | 800 |
 | Eventos aprovados | 799 |
-| Exemplos de treino | 1357 (17532 atividades) |
+| Exemplos de treino | 1356 (17489 atividades) |
 | Exemplos de validação | 240 (2686 atividades) |
-| Exemplos com nomes em CAIXA ALTA | 502 (31%) |
-| Tokens estimados (p50 / p95 / máx.) | 885 / 4135 / 6999 |
+| Exemplos com nomes em CAIXA ALTA | 488 (31%) |
+| Tokens estimados (p50 / p95 / máx.) | 939 / 4221 / 6942 |
 
 ### Estilos de evento e perfis de renderização
 
 | Professor | Exemplos |
 |---|---|
-| gemini-3.8-flash | 997 |
+| gemini-3.8-flash | 996 |
 | claude-opus-5-5 (Cowork) | 600 |
 
 | Estilo do evento | Exemplos |
 |---|---|
-| detalhado | 997 |
+| detalhado | 996 |
 | enxuto | 600 |
 
 | Perfil | Exemplos |
 |---|---|
-| completo | 623 |
-| enxuto | 464 |
-| sem_lugar | 310 |
-| sem_descricao | 200 |
+| completo | 672 |
+| enxuto | 428 |
+| sem_lugar | 309 |
+| sem_descricao | 187 |
+
+| Extra (v1.2) | Exemplos |
+|---|---|
+| local_cabecalho | 268 |
+| data_no_titulo | 195 |
+| aspas | 11 |
 
 ### Campos ausentes
 
 | | Fração |
 |---|---|
-| atividades_sem_lugar | 0.607 |
-| atividades_sem_descricao | 0.613 |
+| atividades_sem_lugar | 0.433 |
+| atividades_sem_descricao | 0.601 |
 | atividades_sem_fim | 0.11 |
-| textos_sem_nenhum_lugar | 0.586 |
-| textos_sem_nenhuma_descricao | 0.57 |
+| textos_sem_nenhum_lugar | 0.405 |
+| textos_sem_nenhuma_descricao | 0.547 |
 
 ### Rejeições
 
 | Motivo | Quantidade |
 |---|---|
 | muito_longo | 3 |
+| rotulo_muda_no_pos_processamento | 1 |
 
 ### Layouts
 
 | Layout | Exemplos |
 |---|---|
-| tabela | 413 |
-| cartaz | 402 |
-| colunas | 395 |
-| lista | 387 |
+| lista | 442 |
+| colunas | 391 |
+| tabela | 383 |
+| cartaz | 380 |
 
 ### Ruídos
 
 | Ruído | Exemplos |
 |---|---|
-| quebra | 804 |
-| secoes | 800 |
-| decorativo | 635 |
-| ocr | 409 |
+| quebra | 816 |
+| secoes | 786 |
+| decorativo | 624 |
+| ocr | 401 |
 
 ## Qualidade dos rótulos
 

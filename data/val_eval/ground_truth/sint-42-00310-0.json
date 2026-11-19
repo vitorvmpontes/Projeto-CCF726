@@ -1,62 +1,62 @@
 [
  {
-  "nome": "Acolhida e Entrega de Materiais",
-  "lugar": "Hall do Complexo Multiuso",
+  "nome": "ACOLHIDA E ENTREGA DE MATERIAIS",
+  "lugar": "HALL DO COMPLEXO MULTIUSO",
   "dataInicio": "2023-10-18T07:30:00-03:00",
   "dataFim": "2023-10-18T08:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão Solene de Abertura",
-  "lugar": "Auditório Central",
+  "nome": "SESSÃO SOLENE DE ABERTURA",
+  "lugar": "AUDITÓRIO CENTRAL",
   "dataInicio": "2023-10-18T08:30:00-03:00",
   "dataFim": "2023-10-18T09:15:00-03:00",
   "descricao": "<p>Boas-vindas da coordenação com a presença da Profa. Dra. <b>Heloísa Fontes Arantes</b> e do Pró-Reitor de Pesquisa e Pós-Graduação Prof. Dr. <b>Valdomiro Siqueira Filho</b>.</p>"
  },
  {
-  "nome": "Palestra de Abertura",
+  "nome": "PALESTRA DE ABERTURA",
   "lugar": null,
   "dataInicio": "2023-10-18T09:15:00-03:00",
   "dataFim": "2023-10-18T10:45:00-03:00",
   "descricao": "<p>Apresentação da palestra <i>Impactos das mudanças ecossistêmicas globais nos regimes hídricos e na biodiversidade das bacias hidrográficas do Pantanal sul-mato-grossense</i>, ministrada pelo Prof. Dr. <b>Cláudio Renato Mendonça</b>.</p>"
  },
  {
-  "nome": "Pausa para Convivência",
-  "lugar": "Foyer das Araucárias",
+  "nome": "PAUSA PARA CONVIVÊNCIA",
+  "lugar": "FOYER DAS ARAUCÁRIAS",
   "dataInicio": "2023-10-18T10:45:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "Mesa Temática 1",
+  "nome": "MESA TEMÁTICA 1",
   "lugar": null,
   "dataInicio": "2023-10-18T11:00:00-03:00",
   "dataFim": "2023-10-18T12:30:00-03:00",
   "descricao": "<p>Tema: <i>Bioeconomia circular e cadeias agroecológicas sustentáveis</i>. Participação dos debatedores Dr. <b>Thiago Albuquerque Luz</b> e Dra. <b>Miriam Esteves Garcia</b>. Mediação: Profa. <b>Denise Carvalho Rangel</b>.</p>"
  },
  {
-  "nome": "Mesa Temática 2",
+  "nome": "MESA TEMÁTICA 2",
   "lugar": null,
   "dataInicio": "2023-10-18T14:00:00-03:00",
   "dataFim": "2023-10-18T15:45:00-03:00",
   "descricao": "<p>Tema: <i>Desafios da governança ambiental e os conflitos territoriais na conservação de biomas frágeis</i>. Debatedores convidados: Dr. <b>Luciano Nogueira Prado</b> e Profa. Dra. <b>Yara Beatriz Kuhl</b>. Coordenação: Prof. <b>Geraldo Meireles Brandão</b>.</p>"
  },
  {
-  "nome": "Sessão Integrada de Painéis",
-  "lugar": "Pátio Coberto do Bloco B",
+  "nome": "SESSÃO INTEGRADA DE PAINÉIS",
+  "lugar": "PÁTIO COBERTO DO BLOCO B",
   "dataInicio": "2023-10-18T15:45:00-03:00",
   "dataFim": "2023-10-18T17:00:00-03:00",
   "descricao": "<p>Apresentação e avaliação dos resumos expandidos desenvolvidos por pós-graduandos e pesquisadores bolsistas do estado de Mato Grosso do Sul.</p>"
  },
  {
-  "nome": "Palestra de Encerramento",
+  "nome": "PALESTRA DE ENCERRAMENTO",
   "lugar": null,
   "dataInicio": "2023-10-18T17:00:00-03:00",
   "dataFim": null,
   "descricao": "<p>Conferência especial <i>Diretrizes metodológicas contemporâneas para o avanço da produção científica interdisciplinar em programas de pós-graduação das áreas ambientais</i> com o Prof. Emérito <b>Sérgio Paulo Vianna</b>.</p>"
  },
  {
-  "nome": "Premiação de Trabalhos e Confraternização",
+  "nome": "PREMIAÇÃO DE TRABALHOS E CONFRATERNIZAÇÃO",
   "lugar": null,
   "dataInicio": "2023-10-18T18:15:00-03:00",
   "dataFim": null,

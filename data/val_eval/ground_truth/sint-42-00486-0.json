@@ -1,41 +1,41 @@
 [
  {
-  "nome": "BOAS-VINDAS E ABERTURA OFICIAL",
-  "lugar": null,
+  "nome": "Boas-vindas e Abertura Oficial",
+  "lugar": "Auditório Roberto Salmeron",
   "dataInicio": "2027-05-18T08:30:00-03:00",
   "dataFim": "2027-05-18T09:15:00-03:00",
   "descricao": "<p>Abertura com a coordenação de curso representada pelo Prof. <b>Rodrigo Albuquerque</b> e fala da diretoria da Faculdade de Tecnologia.</p>"
  },
  {
-  "nome": "PALESTRA DE ABERTURA",
-  "lugar": null,
+  "nome": "Palestra de Abertura",
+  "lugar": "Auditório Roberto Salmeron",
   "dataInicio": "2027-05-18T09:30:00-03:00",
   "dataFim": "2027-05-18T10:45:00-03:00",
   "descricao": "<p>Tema: <i>Manejo Sustentável do Cerrado e Restauração Ecológica em Larga Escala</i>, ministrada pela Dra. <b>Helena Vasconcelos</b>.</p>"
  },
  {
-  "nome": "MINICURSO 1",
+  "nome": "Minicurso 1",
   "lugar": null,
   "dataInicio": "2027-05-18T11:00:00-03:00",
   "dataFim": "2027-05-18T12:30:00-03:00",
   "descricao": "<p>Tema: <i>Sensoriamento Remoto Aplicado à Detecção de Desmatamento</i>. Instrutor: Me. <b>Felipe Dornelles</b>.</p>"
  },
  {
-  "nome": "MINICURSO 2",
+  "nome": "Minicurso 2",
   "lugar": null,
   "dataInicio": "2027-05-18T14:00:00-03:00",
   "dataFim": "2027-05-18T15:30:00-03:00",
   "descricao": "<p>Tema: <i>Dendrometria Prática e Inventário Florestal Urbano</i>, coordenado pela Profa. Dra. <b>Carla Mendonça</b>.</p>"
  },
  {
-  "nome": "MESA DE DEBATE",
+  "nome": "Mesa de Debate",
   "lugar": null,
   "dataInicio": "2027-05-18T16:00:00-03:00",
   "dataFim": "2027-05-18T17:45:00-03:00",
   "descricao": "<p>Debate sobre <i>Políticas Públicas e Conservação da Biodiversidade no Planalto Central</i>, com os debatedores <b>Vinícius Guimarães</b> e <b>Camila Siqueira</b>, mediado por <b>Patrícia Nogueira</b>.</p>"
  },
  {
-  "nome": "SOLENIDADE DE ENCERRAMENTO E ENTREGA DE MENÇÕES HONROSAS",
+  "nome": "Solenidade de Encerramento e Entrega de Menções Honrosas",
   "lugar": null,
   "dataInicio": "2027-05-18T18:00:00-03:00",
   "dataFim": "2027-05-18T19:00:00-03:00",

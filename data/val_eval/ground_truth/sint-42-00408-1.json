@@ -1,161 +1,161 @@
 [
  {
-  "nome": "Recepção e Check-in",
-  "lugar": null,
+  "nome": "RECEPÇÃO E CHECK-IN",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T08:30:00-03:00",
   "dataFim": "2024-05-16T09:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Solenidade de Abertura",
-  "lugar": null,
+  "nome": "SOLENIDADE DE ABERTURA",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T09:30:00-03:00",
   "dataFim": "2024-05-16T10:15:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Palestra",
-  "lugar": null,
+  "nome": "PALESTRA",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T10:30:00-03:00",
   "dataFim": "2024-05-16T11:45:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Painel de Debates",
-  "lugar": null,
+  "nome": "PAINEL DE DEBATES",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T11:45:00-03:00",
   "dataFim": "2024-05-16T12:45:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Pausa para Almoço",
-  "lugar": null,
+  "nome": "PAUSA PARA ALMOÇO",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T12:45:00-03:00",
   "dataFim": "2024-05-16T14:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina 1",
-  "lugar": null,
+  "nome": "OFICINA 1",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T14:00:00-03:00",
   "dataFim": "2024-05-16T16:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina 2",
-  "lugar": null,
+  "nome": "OFICINA 2",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T14:00:00-03:00",
   "dataFim": "2024-05-16T16:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Rodada de Conexões Locais",
-  "lugar": null,
+  "nome": "RODADA DE CONEXÕES LOCAIS",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T16:30:00-03:00",
   "dataFim": "2024-05-16T18:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Palestra Noturna",
-  "lugar": null,
+  "nome": "PALESTRA NOTURNA",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-16T19:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "Abertura dos Estandes",
-  "lugar": null,
+  "nome": "ABERTURA DOS ESTANDES",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T09:00:00-03:00",
   "dataFim": "2024-05-17T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Palestra",
-  "lugar": null,
+  "nome": "PALESTRA",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T10:00:00-03:00",
   "dataFim": "2024-05-17T11:15:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina 3",
-  "lugar": null,
+  "nome": "OFICINA 3",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T10:30:00-03:00",
   "dataFim": "2024-05-17T12:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão de Pitch Startups",
-  "lugar": null,
+  "nome": "SESSÃO DE PITCH STARTUPS",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T11:30:00-03:00",
   "dataFim": "2024-05-17T13:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Espaço Gastronômico e Convivência",
-  "lugar": null,
+  "nome": "ESPAÇO GASTRONÔMICO E CONVIVÊNCIA",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T13:00:00-03:00",
   "dataFim": "2024-05-17T14:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina 4",
-  "lugar": null,
+  "nome": "OFICINA 4",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T14:30:00-03:00",
   "dataFim": "2024-05-17T16:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Consultoria Rápida Individual",
-  "lugar": null,
+  "nome": "CONSULTORIA RÁPIDA INDIVIDUAL",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T15:00:00-03:00",
   "dataFim": "2024-05-17T17:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Roda de Conversa",
-  "lugar": null,
+  "nome": "RODA DE CONVERSA",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-17T17:30:00-03:00",
   "dataFim": "2024-05-17T18:45:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Mostra de Inovação Regional",
-  "lugar": null,
+  "nome": "MOSTRA DE INOVAÇÃO REGIONAL",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-18T09:30:00-03:00",
   "dataFim": "2024-05-18T11:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Oficina 5",
-  "lugar": null,
+  "nome": "OFICINA 5",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-18T10:00:00-03:00",
   "dataFim": "2024-05-18T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Momento Conexão e Café",
-  "lugar": null,
+  "nome": "MOMENTO CONEXÃO E CAFÉ",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-18T12:00:00-03:00",
   "dataFim": "2024-05-18T13:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Palestra",
-  "lugar": null,
+  "nome": "PALESTRA",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-18T13:30:00-03:00",
   "dataFim": "2024-05-18T14:45:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Premiação Empreendedor Destaque",
-  "lugar": null,
+  "nome": "PREMIAÇÃO EMPREENDEDOR DESTAQUE",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-18T15:00:00-03:00",
   "dataFim": "2024-05-18T16:15:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Happy Hour e Encerramento",
-  "lugar": null,
+  "nome": "HAPPY HOUR E ENCERRAMENTO",
+  "lugar": "PARQUE DE INOVAÇÃO E TECNOLOGIA DE SANTA MARIA",
   "dataInicio": "2024-05-18T16:30:00-03:00",
   "dataFim": null,
   "descricao": null

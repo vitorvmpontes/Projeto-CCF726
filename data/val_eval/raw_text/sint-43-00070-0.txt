@@ -1,19 +1,29 @@
 Seminário Mineiro de Cidades Resilientes 2024
 Programação
 
-27 de agosto de 2024
-Horário	Atividade	Local
-(08:00 - 08:30)	Credenciamento
-(08:30 - 09:00)	Abertura
-(09:00 - 10:30)	Drenagem Urbana e Eventos Extremos
-(10:30 - 10:45)	Café
-(10:45 - 12:30)	Oficina de Hortas Urbanas	Sala 302
-(10:45 - 12:30)	Oficina de Mapeamento de Risco	Sala 301
-(12:30 - 14:00)	Almoço
+Dia 1 - 27/08
+08:00 - 08:30
+CREDENCIAMENTO
+08:30 - 09:00
+ABERTURA
+09:00 - 10:30
+DRENAGEM URBANA E EVENTOS EXTREMOS
+10:30 - 10:45
+CAFÉ
+Oficinas
+10:45 - 12:30
+OFICINA DE HORTAS URBANAS
+10:45 - 12:30
+OFICINA DE MAPEAMENTO DE RISCO
+12:30 - 14:00
+ALMOÇO
 
-28 de agosto de 2024
-Horário	Atividade	Local
-(08:00 - 09:00)	Apresentação de Pôsteres	Hall Térreo
-(09:00 - 10:30)	Arborização Urbana e Ilhas de Calor
-(10:30 - 10:45)	Café
-(11:00 - 12:00)	Leitura da Carta de BH pelo Clima
+Dia 2 - 28/08
+08:00 - 09:00
+APRESENTAÇÃO DE PÔSTERES
+09:00 - 10:30
+ARBORIZAÇÃO URBANA E ILHAS DE CALOR
+10:30 - 10:45
+CAFÉ
+11:00 - 12:00
+LEITURA DA CARTA DE BH PELO CLIMA

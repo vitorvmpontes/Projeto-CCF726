@@ -1,48 +1,48 @@
 [
  {
-  "nome": "Credenciamento e Entrega de Materiais",
+  "nome": "CREDENCIAMENTO E ENTREGA DE MATERIAIS",
   "lugar": null,
   "dataInicio": "2026-05-15T08:00:00-03:00",
   "dataFim": "2026-05-15T09:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Mesa de Abertura",
+  "nome": "MESA DE ABERTURA",
   "lugar": null,
   "dataInicio": "2026-05-15T09:00:00-03:00",
   "dataFim": "2026-05-15T10:30:00-03:00",
   "descricao": "<p>Tema: <i>Os Desafios da Jurisdição Constitucional na Era Digital</i></p><p>Debatedores: <b>Dr. Marcelo Tavares</b>, <b>Dra. Clarissa Peixoto</b> e <b>Des. Otávio Guimarães</b>.</p>"
  },
  {
-  "nome": "Pausa para Café",
+  "nome": "PAUSA PARA CAFÉ",
   "lugar": null,
   "dataInicio": "2026-05-15T10:30:00-03:00",
   "dataFim": "2026-05-15T11:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Mesa-redonda 1",
+  "nome": "MESA-REDONDA 1",
   "lugar": null,
   "dataInicio": "2026-05-15T11:00:00-03:00",
   "dataFim": "2026-05-15T12:30:00-03:00",
   "descricao": "<p>Tema: <i>Inteligência Artificial e a Prova Digital no Processo Civil</i></p><p>Expositores: <b>Prof. Roberto Meireles</b> e <b>Profa. Camila Albuquerque</b>. Coordenação: <b>Dra. Juliana Sampaio</b>.</p>"
  },
  {
-  "nome": "Almoço Livre",
+  "nome": "ALMOÇO LIVRE",
   "lugar": null,
   "dataInicio": "2026-05-15T12:30:00-03:00",
   "dataFim": "2026-05-15T14:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Mesa-redonda 2",
+  "nome": "MESA-REDONDA 2",
   "lugar": null,
   "dataInicio": "2026-05-15T14:00:00-03:00",
   "dataFim": "2026-05-15T16:00:00-03:00",
   "descricao": "<p>Tema: <i>Precedentes Vinculantes e Segurança Jurídica nos Tribunais Superiores</i></p><p>Palestrantes: <b>Dra. Fernanda Castelo Branco</b> e <b>Dr. Thiago Lins</b>. Moderação de <b>Prof. Eduardo Matos</b>.</p>"
  },
  {
-  "nome": "Mesa-redonda 3",
+  "nome": "MESA-REDONDA 3",
   "lugar": null,
   "dataInicio": "2026-05-15T16:15:00-03:00",
   "dataFim": "2026-05-15T18:00:00-03:00",

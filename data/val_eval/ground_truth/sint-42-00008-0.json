@@ -1,55 +1,55 @@
 [
  {
-  "nome": "Recepção e Entrega de Materiais",
+  "nome": "RECEPÇÃO E ENTREGA DE MATERIAIS",
   "lugar": null,
   "dataInicio": "2024-10-18T08:00:00-03:00",
   "dataFim": "2024-10-18T08:45:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão de Abertura",
+  "nome": "SESSÃO DE ABERTURA",
   "lugar": null,
   "dataInicio": "2024-10-18T08:45:00-03:00",
   "dataFim": "2024-10-18T09:30:00-03:00",
   "descricao": "<p>Abertura oficial do evento com a presença da coordenadora do programa, Profa. Dra. <b>Beatriz Mendonça Ramos</b>, e do Pró-Reitor de Pesquisa, Prof. Dr. <b>Carlos Eduardo Guimarães</b>.</p>"
  },
  {
-  "nome": "Painel de Debates 1",
+  "nome": "PAINEL DE DEBATES 1",
   "lugar": null,
   "dataInicio": "2024-10-18T09:30:00-03:00",
   "dataFim": "2024-10-18T11:00:00-03:00",
   "descricao": "<p>Tema: <i>Desafios e Perspectivas para a Preservação do Pantanal Norte Frente às Mudanças Climáticas</i>.</p><p>Coordenação: Profa. Dra. <b>Helena Soares Ribeiro</b>.</p><p>Debatedores: Dr. <b>Marcos Vinícius Prado</b> (INPA) e Dra. <b>Fernanda Lacerda de Albuquerque</b> (Embrapa Pantanal).</p>"
  },
  {
-  "nome": "Sessão Coordenada 1",
+  "nome": "SESSÃO COORDENADA 1",
   "lugar": null,
   "dataInicio": "2024-10-18T11:15:00-03:00",
   "dataFim": "2024-10-18T12:30:00-03:00",
   "descricao": "<p>Tema da sessão: <i>Ecologia Aquática e Qualidade da Água</i>.</p><p>Coordenador: Prof. Dr. <b>Thiago Antunes Farias</b>.</p><p>Apresentações de dissertações e teses em andamento:</p><p>- <i>Dinâmica de nutrientes no Rio Cuiabá durante o período de estiagem</i>, por <b>Lucas Morais de Oliveira</b> e <b>Marina Duarte Castro</b>.</p><p>- <i>Impactos de macrocontaminantes na comunidade de macroinvertebrados bentônicos</i>, por <b>Rafaela Nogueira Gomes</b>.</p>"
  },
  {
-  "nome": "Sessão Coordenada 2",
+  "nome": "SESSÃO COORDENADA 2",
   "lugar": null,
   "dataInicio": "2024-10-18T11:15:00-03:00",
   "dataFim": "2024-10-18T12:30:00-03:00",
   "descricao": "<p>Tema da sessão: <i>Interações Tróficas e Dinâmica de Populações</i>.</p><p>Coordenadora: Profa. Dra. <b>Cristiane Peixoto Barros</b>.</p><p>Apresentações de dissertações e teses em andamento:</p><p>- <i>Padrões de frugivoria e dispersão de sementes por aves no Cerrado mato-grossense</i>, por <b>Guilherme Henrique Sampaio</b>.</p><p>- <i>Efeito de borda na abundância de pequenos mamíferos em fragmentos florestais</i>, por <b>Aline Cristina Viana</b> e <b>Rodrigo César Toledo</b>.</p>"
  },
  {
-  "nome": "Intervalo para Almoço",
+  "nome": "INTERVALO PARA ALMOÇO",
   "lugar": null,
   "dataInicio": "2024-10-18T12:30:00-03:00",
   "dataFim": "2024-10-18T14:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão de Painéis e Pôsteres",
+  "nome": "SESSÃO DE PAINÉIS E PÔSTERES",
   "lugar": null,
   "dataInicio": "2024-10-18T14:00:00-03:00",
   "dataFim": "2024-10-18T16:00:00-03:00",
   "descricao": "<p>Exposição e avaliação dos projetos de mestrado e doutorado em andamento. Comissão avaliadora coordenada pelo Dr. <b>Sérgio Paulo Junqueira</b>, com presença dos pareceristas Dra. <b>Camila Rezende Pires</b> e Dr. <b>Juliano Barreto Neto</b>.</p>"
  },
  {
-  "nome": "Palestra de Encerramento",
+  "nome": "PALESTRA DE ENCERRAMENTO",
   "lugar": null,
   "dataInicio": "2024-10-18T16:30:00-03:00",
   "dataFim": "2024-10-18T18:00:00-03:00",

@@ -1,23 +1,12 @@
 I Jornada Franciscana de Espiritualidade e Ação Comunitária
 Programação 2024
 
-Sábado (18/05/2024)
-Horário
-Atividade
-(08:30 - 09:15)
-ORAÇÃO DA MANHÃ E ACOLHIDA
-Momento inicial de reflexão e cantos conduzido por Frei Almir Ribeiro.
-(09:30 - 11:30)
-OFICINA DE ESCUTA FRATERNA
-Treinamento prático sobre acolhimento comunitário e diálogo empático com a psicóloga Regina Helena Cordeiro, abordando a temática A arte da presença no cuidado pastoral.
-(09:30 - 11:30)
-OFICINA DE HORTAS COMUNITÁRIAS
-Técnicas de cultivo agroecológico em pequenos espaços sob orientação do agrônomo Tiago Zanetti.
-(12:00 - 13:30)
-ALMOÇO PARTILHADO
-(14:00 - 16:00)
-OFICINA DE ESCUTA FRATERNA
-Segunda turma da capacitação em acolhimento pastoral conduzida por Regina Helena Cordeiro com foco no tema A arte da presença no cuidado pastoral.
-(16:30 - 18:00)
-MISSA DE ENVIO E BÊNÇÃO DAS FAMÍLIAS
-Celebração eucarística de encerramento presidida por Dom José Mário Scalon com a participação do coral comunitário regido por Luciana Veiga.
+Horário	Atividade	Local	Descrição
+das 08:30 às 09:15	Oração da Manhã e Acolhida		Momento inicial de reflexão e cantos conduzido por Frei Almir Ribeiro.
+das 09:30 às 11:30	Oficina de Escuta Fraterna	Sala São Damião	Treinamento prático sobre acolhimento comunitário e diálogo empático com a psicóloga Regina Helena Cordeiro, abordando a temática A arte da presença no cuidado pastoral.
+das 09:30 às 11:30	Oficina de Hortas Comunitárias	Pátio São Francisco	Técnicas de cultivo agroecológico em pequenos espaços sob orientação do agrônomo Tiago Zanetti.
+das 12:00 às 13:30	Almoço Partilhado
+das 14:00 às 16:00	Oficina de Escuta Fraterna	Salão Clara de Assis	Segunda turma da capacitação em acolhimento pastoral conduzida por Regina Helena Cordeiro com foco no tema A arte da presença no cuidado pastoral.
+das 16:30 às 18:00	Missa de Envio e Bênção das Famílias		Celebração eucarística de encerramento presidida por Dom José Mário Scalon com a participação do coral comunitário regido por Luciana Veiga.
+
+Programação 18/05/2024

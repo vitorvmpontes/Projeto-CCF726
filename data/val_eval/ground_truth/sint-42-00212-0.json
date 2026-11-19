@@ -4,21 +4,21 @@
   "lugar": null,
   "dataInicio": "2026-05-13T08:00:00-03:00",
   "dataFim": "2026-05-13T09:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Recepção das participantes, entrega de crachás e kits do evento.</p>"
  },
  {
   "nome": "Sessão Solene de Abertura",
   "lugar": null,
   "dataInicio": "2026-05-13T09:00:00-03:00",
   "dataFim": "2026-05-13T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Abertura oficial com a coordenadora-geral <b>Camila Frota Albuquerque</b> e representantes institucionais da UFC e IFCE.</p>"
  },
  {
   "nome": "Palestra Inaugural",
   "lugar": null,
   "dataInicio": "2026-05-13T10:00:00-03:00",
   "dataFim": "2026-05-13T11:15:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação de <i>Liderança Feminina e Inovação Tecnológica na Transformação Digital do Nordeste</i> ministrada por <b>Mariana Paiva Vasconcelos</b>.</p>"
  },
  {
   "nome": "Intervalo para Café",
@@ -32,7 +32,7 @@
   "lugar": null,
   "dataInicio": "2026-05-13T11:45:00-03:00",
   "dataFim": "2026-05-13T13:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Discussão sobre <i>Transição de Carreira e Desafios de Permanência Feminina na Indústria de Software</i> com <b>Juliana Bezerra Sales</b>, <b>Tereza Cristina Ramos</b> e mediação de <b>Débora Alencar Rios</b>.</p>"
  },
  {
   "nome": "Pausa para Almoço",
@@ -46,28 +46,28 @@
   "lugar": null,
   "dataInicio": "2026-05-13T14:30:00-03:00",
   "dataFim": "2026-05-13T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentações de artigos sobre Engenharia de Software e Algoritmos. Coordenação da professora <b>Beatriz Pontes Moreira</b>.</p>"
  },
  {
   "nome": "Palestra Técnica 1",
   "lugar": null,
   "dataInicio": "2026-05-13T16:00:00-03:00",
   "dataFim": "2026-05-13T17:15:00-03:00",
-  "descricao": null
+  "descricao": "<p>Palestra intitulada <i>Uma Abordagem Prática sobre Governança de Algoritmos Preditivos para Redução de Disparidades de Gênero em Sistemas Digitais</i> com <b>Letícia Nogueira Dantas</b>.</p>"
  },
  {
   "nome": "Mostra de Projetos de Iniciação Científica",
   "lugar": null,
   "dataInicio": "2026-05-13T17:15:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Apresentação em formato de pôsteres com avaliação conduzida por <b>Roberta Saraiva Macedo</b> e <b>Emanuela Gomes Vieira</b>.</p>"
  },
  {
   "nome": "Oficina Prática 1",
   "lugar": null,
   "dataInicio": "2026-05-14T08:30:00-03:00",
   "dataFim": "2026-05-14T10:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Atividade sobre <i>Construindo Modelos de Linguagem para Tarefas Específicas com Python e Bibliotecas Open Source</i> conduzida por <b>Aline Menezes Holanda</b>.</p>"
  },
  {
   "nome": "Lanche da Manhã",
@@ -81,7 +81,7 @@
   "lugar": null,
   "dataInicio": "2026-05-14T11:00:00-03:00",
   "dataFim": "2026-05-14T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Mesa com o tema <i>Mulheres Negras e Indígenas nas Ciências Exatas</i> com as debatedoras <b>Joana Darc Oliveira</b> e <b>Taís Pankararu Costa</b> sob moderação de <b>Nádia Peixoto Barreto</b>.</p>"
  },
  {
   "nome": "Almoço Livre",
@@ -95,28 +95,28 @@
   "lugar": null,
   "dataInicio": "2026-05-14T14:00:00-03:00",
   "dataFim": "2026-05-14T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Atividade prática <i>Introdução ao Desenvolvimento Web Acessível para Pessoas com Deficiência Visual</i> facilitada por <b>Priscila Magalhães Cruz</b>.</p>"
  },
  {
   "nome": "Sessão Técnica 2",
   "lugar": null,
   "dataInicio": "2026-05-14T16:00:00-03:00",
   "dataFim": "2026-05-14T17:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentações de pesquisas em Inteligência Artificial e Ciência de Dados com mediação de <b>Renata Pimentel Fontes</b>.</p>"
  },
  {
   "nome": "Roda de Conversa com Startups",
   "lugar": null,
   "dataInicio": "2026-05-14T17:30:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Bate-papo informal entre fundadoras locais de startups de tecnologia e graduandas. Participação de <b>Sofia Castello Branco</b> e <b>Lorena Martins Pires</b>.</p>"
  },
  {
   "nome": "Minicurso Avançado",
   "lugar": null,
   "dataInicio": "2026-05-15T08:30:00-03:00",
   "dataFim": "2026-05-15T11:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Treinamento intensivo sobre <i>Arquiteturas Seguras em Nuvem e Resiliência Operacional para Ambientes Críticos Corporativos</i> ministrado pela especialista <b>Carla Antunes Mendonça</b>.</p>"
  },
  {
   "nome": "Pausa para Café",
@@ -130,7 +130,7 @@
   "lugar": null,
   "dataInicio": "2026-05-15T11:30:00-03:00",
   "dataFim": "2026-05-15T13:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Discussão sobre <i>Pós-graduação e Carreira Acadêmica: Conciliação entre Maternidade e Pesquisa Científica</i> com <b>Patrícia Carvalho Moura</b>, <b>Viviane Chaves Lins</b> e <b>Erika Meireles Gadelha</b>.</p>"
  },
  {
   "nome": "Intervalo de Almoço",
@@ -144,28 +144,28 @@
   "lugar": null,
   "dataInicio": "2026-05-15T14:30:00-03:00",
   "dataFim": "2026-05-15T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Trabalhos em Interação Humano-Computador e Robótica Educacional apresentados por pesquisadoras júniores, avaliados por <b>Heloísa Aragão Silva</b>.</p>"
  },
  {
   "nome": "Palestra Técnica 2",
   "lugar": null,
   "dataInicio": "2026-05-15T16:00:00-03:00",
   "dataFim": "2026-05-15T17:15:00-03:00",
-  "descricao": null
+  "descricao": "<p>Palestra <i>Computação Quântica e Novos Horizontes Criptográficos</i> proferida pela pesquisadora <b>Fabiana Araripe Sobral</b>.</p>"
  },
  {
   "nome": "Sessão Relâmpago de Ideias",
   "lugar": null,
   "dataInicio": "2026-05-15T17:15:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Apresentações rápidas de 5 minutos sobre projetos de extensão comunitária com mediação de <b>Tatiana Figueiredo Neves</b>.</p>"
  },
  {
   "nome": "Hackathon Elas na Computação",
   "lugar": null,
   "dataInicio": "2026-05-16T08:30:00-03:00",
   "dataFim": "2026-05-16T11:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Maratona colaborativa de desenvolvimento focada em soluções cívicas municipais para Fortaleza. Mentoria de <b>Isabela Furtado Siqueira</b> e <b>Gisele Cunha Arruda</b>.</p>"
  },
  {
   "nome": "Coffee Break de Encerramento",
@@ -179,27 +179,27 @@
   "lugar": null,
   "dataInicio": "2026-05-16T11:30:00-03:00",
   "dataFim": "2026-05-16T12:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Conferência <i>A Construção Coletiva de Redes Femininas de Apoio e o Futuro da Tecnologia Aberta no Brasil</i> com a diretora de tecnologia <b>Monique Batista Brandão</b>.</p>"
  },
  {
   "nome": "Premiação dos Melhores Trabalhos",
   "lugar": null,
   "dataInicio": "2026-05-16T12:45:00-03:00",
   "dataFim": "2026-05-16T13:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Divulgação dos resultados do Hackathon e das sessões técnicas com entrega de certificados por <b>Camila Frota Albuquerque</b> e <b>Beatriz Pontes Moreira</b>.</p>"
  },
  {
   "nome": "Cerimônia de Encerramento",
   "lugar": null,
   "dataInicio": "2026-05-16T13:30:00-03:00",
   "dataFim": "2026-05-16T14:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Considerações finais da comissão organizadora e anúncio da sede para a edição de 2027.</p>"
  },
  {
   "nome": "Apresentação Cultural",
   "lugar": null,
   "dataInicio": "2026-05-16T14:00:00-03:00",
   "dataFim": null,
-  "descricao": null
+  "descricao": "<p>Show com o grupo feminino de percussão e forró tradicional liderado por <b>Clarisse Feitosa Peixoto</b>.</p>"
  }
 ]

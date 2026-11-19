@@ -1,32 +1,51 @@
-V Encontro Mineiro de Mulheres na Computação 2024
-Programação
+V Encontro Mineiro de Mulheres na Computação
+Programação 2024
 
-16 • Outubro
-Horário	Atividade	Local	Descrição
-08:30 – 09:15	BOAS-VINDAS E ABERTURA INSTITUCIONAL	Anfiteatro das Engenharias	Abertura oficial do evento com a coordenadora-geral Dra. Simone Rezende e representantes dos capítulos estudantis locais.
-09:15 – 10:30	PALESTRA DE ABERTURA	Anfiteatro das Engenharias	Palestra intitulada Mulheres, Ciência de Dados e Justiça Social na Era da Inteligência Artificial, proferida por Dra. Marcela Bittencourt.
-10:30 – 11:00	PAUSA PARA CAFÉ E CONEXÕES	Hall do Anfiteatro
-11:00 – 12:30	PAINEL DE DISCUSSÃO	Anfiteatro das Engenharias	Discussão sobre Transição de Carreira e Sobrevivência Feminina na Indústria de Software. Coordenação: Dra. Fernanda Prado. Painelistas convidadas: Carla Vasconcellos, Juliana Meireles e Patrícia Antunes.
-Minicursos e Oficinas
-14:00 – 17:30	MINICURSO 1	Laboratório de Redes e Sistemas	Minicurso com tema Introdução à Cibersegurança Prática para Aplicações Web, ministrado por Msc. Bianca Guimarães e auxiliado por Larissa Fontes.
-14:00 – 17:30	MINICURSO 2	Laboratório Multimídia	Oficina prática com o tema Pipeline de Engenharia de Dados em Nuvem utilizando Apache Spark, conduzida por Eng. Tatiane Ramos.
+Quarta-feira (16/10/2024)
+08h30 – 09h15
+BOAS-VINDAS E ABERTURA INSTITUCIONAL
+09h15 – 10h30
+PALESTRA DE ABERTURA
+10h30 – 11h00
+PAUSA PARA CAFÉ E CONEXÕES
+11h00 – 12h30
+PAINEL DE DISCUSSÃO
+14h00 – 17h30
+MINICURSO 1
+14h00 – 17h30
+MINICURSO 2
+Siga @e mmc nas redes soiais
 
-17 • Outubro
-Horário	Atividade	Local	Descrição
-09:00 – 10:30	RODA DE CONVERSA	Auditório 2 do ICE	Tema: Maternidade, Academia e Mercado Tecnológico: Quebrando Barreiras. Mediadora: Prof. Camila Nogueira. Participantes: Dra. Renata Lacerda e Heloísa Figueiredo.
-10:30 – 11:00	INTERVALO	Área de Convivência
-SESSÕES TÉCNICAS
-11:00 – 12:30	SESSÃO TÉCNICA 1	Auditório 2 do ICE	Coordenadora de sessão: Dra. Aline Mourão. Trabalhos apresentados: Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural por Mariana Castro e Prof. Luísa Fagundes; Algoritmos Genéticos Aplicados à Otimização Logística Urbana por Letícia Duarte; Análise Comparativa de Frameworks para Edge Computing por Gabriela Sampaio.
-14:00 – 15:30	SESSÃO TÉCNICA 2	Auditório 2 do ICE	Coordenadora de sessão: Prof. Luciana Queiroz. Trabalhos apresentados: Interação Humano-Computador Acessível para Pessoas com Deficiência Visual por Sofia Toledo; Uso de Blockchain para Rastreabilidade na Agricultura Familiar por Camila Beltrão e Dra. Clara Silveira; Estudo Empírico sobre a Eficiência de Arquiteturas de Microsserviços por Natália Arruda.
-15:30 – 17:00	SESSÃO DE PÔSTERES	Hall do Prédio Central do ICE	Apresentação de pesquisas de iniciação científica e extensão. Coordenadora de avaliação: Dra. Viviane Teles. Trabalhos em exibição incluem pesquisas desenvolvidas por Beatriz Silvano, Manuela Neves, Rafaela Paiva e Isabela Diniz.
-17:00 – 18:30	MENTORIA COLETIVA DE CARREIRA	Sala de Seminários 101	Sessão de mentoria focada em revisão de currículo, entrevistas para big techs e liderança técnica. Mentoras: Valéria Montenegro, Flávia Cordeiro e Msc. Débora Alcantara.
+Quinta-feira (17/10/2024)
+09h00 – 10h30
+RODA DE CONVERSA
+10h30 – 11h00
+INTERVALO
+11h00 – 12h30
+SESSÃO TÉCNICA 1
+#emmc2024
+14h00 – 15h30
+SESSÃO TÉCNICA 2
+15h30 – 17h00
+SESSÃO DE PÔSTERES
+17h00 – 18h30
+MENTORIA COLETIVA DE CARREIRA
+Siga @e*mmc na redes sociais
 
-18 • Outubro
-Horário	Atividade	Local	Descrição
-Minicursos e Oficinas
-09:00 – 11:00	OFICINA 3	Laboratório de Software Livre	Oficina prática intitulada Como Contribuir com Projetos de Código Aberto: Seu Primeiro Pull Request, com a desenvolvedora Roberta Guedes.
-11:15 – 12:15	PALESTRA TÉCNICA	Anfiteatro das Engenharias	Apresentação da palestra Computação Quântica: Fundamentos e Desafios para a Nova Década com a pesquisadora Dra. Teresa Cristina Maia.
-14:00 – 15:15	PALESTRA CONVIDADA	Anfiteatro das Engenharias	Palestra com o tema Inovação Aberta e Empreendedorismo de Base Tecnológica Liderado por Mulheres ministrada por CEO Cláudia Xavier.
-15:30 – 16:30	ASSEMBLEIA DA COMUNIDADE	Anfiteatro das Engenharias	Reunião aberta para discussão e estruturação de novos projetos regionais de incentivo a meninas na tecnologia. Coordenadores: Dra. Simone Rezende e Prof. Amanda Valadares.
-16:30 – 17:30	PREMIAÇÃO E ENCERRAMENTO	Anfiteatro das Engenharias	Entrega das premiações para os melhores artigos e pôsteres com a comissão formada por Dra. Viviane Teles e Dra. Aline Mourão, seguida de encerramento do encontro.
-18:00	HAPPY HOUR DE INTEGRAÇÃO	Espaço Cultural dos Estudantes
+Sexta-feira (18/10/2024)
+09h00 – 11h00
+OFICINA 3
+11h15 – 12h15
+PALESTRA TÉCNICA
+14h00 – 15h15
+PALESTRA CONVIDADA
+15h30 – 16h30
+ASSEMBLEIA DA COMUNIDADE
+16h30 – 17h30
+PREMIAÇÃO E ENCERRAMENTO
+#emmc2024
+18h00
+HAPPY HOUR DE INTEGRAÇÃO
+
+Apoio:
+@emmc

@@ -1,52 +1,31 @@
 XXII Semana Acadêmica de Biomedicina - PUC Goiás 2026
-Programação
+Programação 2026
 
-15 de setembro de 2026
-Horário
-Atividade
-18h
-Credenciamento
-(19h - 19h30)
-Abertura
-(19h30 - 21h)
-Medicina Diagnóstica e Automação Laboratorial
-21h
-Coquetel
+Dia 1 - 15/09
+Horário	Atividade
+18h00	Credenciamento
+das 19h00 às 19h30	Abertura
+das 19h30 às 21h00	Medicina Diagnóstica e Automação Laboratorial
+21h00	Coquetel
 
-16 de setembro de 2026
-Horário
-Atividade
-MINICURSOS
-(8h - 12h)
-Minicurso de Estética Biomédica
-(8h - 12h)
-Minicurso de Hematologia Clínica
-(13h30 - 15h30)
-Mostra de Pôsteres
-(14h - 18h)
-Minicurso de Hematologia Clínica
-(19h - 20h30)
-Biomedicina Forense
-20h30
-Roda de Egressos
+Dia 2 - 16/09
+Horário	Atividade
+Minicursos
+das 08h00 às 12h00	Minicurso de Estética Biomédica
+das 08h00 às 12h00	Minicurso de Hematologia Clínica
+das 13h30 às 15h30	Mostra de Pôsteres
+das 14h00 às 18h00	Minicurso de Hematologia Clínica
+das 19h00 às 20h30	Biomedicina Forense
+20h30	Roda de Egressos
 
-17 de setembro de 2026
-Horário
-Atividade
-MINICURSOS
-(8h - 12h)
-Minicurso de Análises Microbiológicas
-(8h - 12h)
-Minicurso de Estética Biomédica
-(12h - 13h30)
-Almoço
-(13h30 - 15h30)
-Mostra de Pôsteres
-(16h - 17h)
-Bioinformática na Prática Clínica
-(17h - 18h30)
-Pesquisa em Oncologia no Brasil
-19h
-Quiz Biomed
-20h30
-Encerramento e Confraternização
+Dia 3 - 17/09
+Horário	Atividade
+Minicursos
+das 08h00 às 12h00	Minicurso de Análises Microbiológicas
+das 08h00 às 12h00	Minicurso de Estética Biomédica
+das 12h00 às 13h30	Almoço
+das 13h30 às 15h30	Mostra de Pôsteres
+das 16h00 às 17h00	Bioinformática na Prática Clínica
+das 17h00 às 18h30	Pesquisa em Oncologia no Brasil
+19h00	Quiz Biomed
+20h30	Encerramento e Confraternização

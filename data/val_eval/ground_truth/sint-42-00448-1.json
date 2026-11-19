@@ -1,153 +1,153 @@
 [
  {
-  "nome": "ENTREGA DE MATERIAL E VALIDAÇÃO DE INSCRIÇÕES",
-  "lugar": "HALL DO PRÉDIO IC-II",
+  "nome": "Entrega de Material e Validação de Inscrições",
+  "lugar": null,
   "dataInicio": "2026-05-18T08:00:00-03:00",
   "dataFim": "2026-05-18T09:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "SESSÃO SOLENE DE ABERTURA",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Sessão Solene de Abertura",
+  "lugar": null,
   "dataInicio": "2026-05-18T09:30:00-03:00",
   "dataFim": "2026-05-18T10:30:00-03:00",
-  "descricao": "<p>Boas-vindas com o coordenador do programa Prof. Dr. <b>Henrique Duarte de Almeida</b> e a Pró-reitora de Pesquisa e Pós-Graduação Profa. Dra. <b>Clarissa Meneghelli</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "PALESTRA DE ABERTURA",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Palestra de Abertura",
+  "lugar": null,
   "dataInicio": "2026-05-18T10:45:00-03:00",
   "dataFim": "2026-05-18T12:00:00-03:00",
-  "descricao": "<p>Apresentação intitulada <i>Mudanças Climáticas e Resiliência em Ecossistemas Costeiros Neotropicais</i>, ministrada pelo Prof. Dr. <b>Sérgio Ricardo Floeter</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "SESSÃO TÉCNICA ORAL",
-  "lugar": "SALA 102 - IC-II",
+  "nome": "Sessão Técnica Oral",
+  "lugar": null,
   "dataInicio": "2026-05-18T14:00:00-03:00",
   "dataFim": "2026-05-18T16:00:00-03:00",
-  "descricao": "<p>Apresentação dos trabalhos discentes de mestrado sobre ecologia vegetal e restauração florestal. Coordenação da Profa. Dra. <b>Luciana Dias Thomaz</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "PAINEL TEMÁTICO",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Painel Temático",
+  "lugar": null,
   "dataInicio": "2026-05-18T16:30:00-03:00",
   "dataFim": "2026-05-18T18:00:00-03:00",
-  "descricao": "<p>Discussão com o tema <i>Desafios na Conservação dos Manguezais Capixabas</i>, reunindo a pesquisadora Dra. <b>Yara Schaeffer-Novelli</b> e o analista ambiental <b>Renato Cruz Trindade</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "MINICURSO",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA DA BIOLOGIA",
+  "nome": "Minicurso",
+  "lugar": null,
   "dataInicio": "2026-05-19T08:30:00-03:00",
   "dataFim": "2026-05-19T12:00:00-03:00",
-  "descricao": "<p>Oficina de <i>Introdução a Modelagem de Nicho Ecológico utilizando R</i>, conduzida pelo pós-doutorando Dr. <b>Felipe de Paula Silva</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "APRESENTAÇÃO DE PAINÉIS",
+  "nome": "Apresentação de Painéis",
   "lugar": null,
   "dataInicio": "2026-05-19T14:00:00-03:00",
   "dataFim": "2026-05-19T16:00:00-03:00",
-  "descricao": "<p>Avaliação dos pôsteres científicos vinculados aos projetos de iniciação científica e dissertações em andamento. Comissão avaliadora coordenada pelo Prof. Dr. <b>Marcelo Antônio Martins</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "SESSÃO TÉCNICA ORAL",
-  "lugar": "SALA 104 - IC-II",
+  "nome": "Sessão Técnica Oral",
+  "lugar": null,
   "dataInicio": "2026-05-19T16:30:00-03:00",
   "dataFim": "2026-05-19T18:30:00-03:00",
-  "descricao": "<p>Comunicações orais na linha de pesquisa de ecologia marinha e limnologia. Moderação da Profa. Dra. <b>Tatiana da Silva Neves</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "MINICURSO",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA DA BIOLOGIA",
+  "nome": "Minicurso",
+  "lugar": null,
   "dataInicio": "2026-05-20T08:30:00-03:00",
   "dataFim": "2026-05-20T12:00:00-03:00",
-  "descricao": "<p>Continuação do curso <i>Introdução a Modelagem de Nicho Ecológico utilizando R</i> ministrado pelo Dr. <b>Felipe de Paula Silva</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "PALESTRA",
+  "nome": "Palestra",
   "lugar": null,
   "dataInicio": "2026-05-20T14:00:00-03:00",
   "dataFim": "2026-05-20T15:30:00-03:00",
-  "descricao": "<p>Conferência <i>Interações Tróficas e Serviços Ecossistêmicos em Ambientes Insulares</i> com a Dra. <b>Gisele Lôbo Hajdu</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "APRESENTAÇÃO DE PAINÉIS",
+  "nome": "Apresentação de Painéis",
   "lugar": null,
   "dataInicio": "2026-05-20T16:00:00-03:00",
   "dataFim": "2026-05-20T17:30:00-03:00",
-  "descricao": "<p>Exposição e avaliação do segundo bloco de trabalhos de pesquisa dos discentes do programa de pós-graduação.</p>"
+  "descricao": null
  },
  {
-  "nome": "REUNIÃO DE ALINHAMENTO COM DISCENTES",
-  "lugar": "SALA DE REUNIÕES DO CCHN",
+  "nome": "Reunião de Alinhamento com Discentes",
+  "lugar": null,
   "dataInicio": "2026-05-20T17:30:00-03:00",
   "dataFim": "2026-05-20T18:45:00-03:00",
-  "descricao": "<p>Encontro entre a comissão de pós-graduação coordenada por <b>Henrique Duarte de Almeida</b> e os representantes discentes <b>Mariana Varejão Costa</b> e <b>Lucas Salles Pimentel</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "MINICURSO",
-  "lugar": "LABORATÓRIO DE ECOLOGIA QUÍMICA",
+  "nome": "Minicurso",
+  "lugar": null,
   "dataInicio": "2026-05-21T08:30:00-03:00",
   "dataFim": "2026-05-21T12:00:00-03:00",
-  "descricao": "<p>Atividade prática <i>Métodos Cromatográficos Aplicados à Ecologia Química</i>, sob instrução do Prof. Dr. <b>Valdemar Lacerda Júnior</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "SESSÃO TÉCNICA ORAL",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Sessão Técnica Oral",
+  "lugar": null,
   "dataInicio": "2026-05-21T14:00:00-03:00",
   "dataFim": "2026-05-21T16:00:00-03:00",
-  "descricao": "<p>Apresentações discentes com foco em conservação da fauna e ecologia de comunidades. Comitê examinador: Dr. <b>Paulo de Tarso Zuquim Antas</b> e Profa. Dra. <b>Helena Godoy Bergallo</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "ESPAÇO CAFÉ E INTEGRAÇÃO",
+  "nome": "Espaço Café e Integração",
   "lugar": null,
   "dataInicio": "2026-05-21T16:00:00-03:00",
   "dataFim": "2026-05-21T16:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PALESTRA",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Palestra",
+  "lugar": null,
   "dataInicio": "2026-05-21T16:30:00-03:00",
   "dataFim": "2026-05-21T18:00:00-03:00",
-  "descricao": "<p>Palestra <i>Integridade Ecológica da Mata Atlântica: Desafios para a Próxima Década</i> proferida pelo Prof. Dr. <b>Marcos Rodrigues</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "ASSEMBLEIA GERAL DA PÓS-GRADUAÇÃO",
+  "nome": "Assembleia Geral da Pós-Graduação",
   "lugar": null,
   "dataInicio": "2026-05-21T18:15:00-03:00",
   "dataFim": null,
-  "descricao": "<p>Discussão sobre critérios avaliativos CAPES e autoavaliação discente com a comissão coordenadora liderada por <b>Clarissa Meneghelli</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "MINICURSO",
-  "lugar": "LABORATÓRIO DE ECOLOGIA QUÍMICA",
+  "nome": "Minicurso",
+  "lugar": null,
   "dataInicio": "2026-05-22T08:30:00-03:00",
   "dataFim": "2026-05-22T11:30:00-03:00",
-  "descricao": "<p>Módulo conclusivo de <i>Métodos Cromatográficos Aplicados à Ecologia Química</i> com o Prof. Dr. <b>Valdemar Lacerda Júnior</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "MESA DE DEBATE",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Mesa de Debate",
+  "lugar": null,
   "dataInicio": "2026-05-22T13:30:00-03:00",
   "dataFim": "2026-05-22T15:00:00-03:00",
-  "descricao": "<p>Debate sobre <i>Políticas Públicas e Transparência na Gestão de Unidades de Conservação</i> com <b>Fabio Abreu Santos</b> e Profa. Dra. <b>Maria Cristina Gaglianone</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "PREMIAÇÃO DOS MELHORES TRABALHOS",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Premiação dos Melhores Trabalhos",
+  "lugar": null,
   "dataInicio": "2026-05-22T15:30:00-03:00",
   "dataFim": "2026-05-22T16:30:00-03:00",
-  "descricao": "<p>Anúncio dos trabalhos premiados nas categorias Mestrado e Doutorado pela comissão julgadora presidida pelo Prof. Dr. <b>Carlos Augusto Zanotti</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "SESSÃO DE ENCERRAMENTO",
-  "lugar": "AUDITÓRIO MANOEL VEREZA",
+  "nome": "Sessão de Encerramento",
+  "lugar": null,
   "dataInicio": "2026-05-22T16:30:00-03:00",
   "dataFim": "2026-05-22T17:15:00-03:00",
-  "descricao": "<p>Pronunciamento oficial de fechamento pelo coordenador geral Prof. Dr. <b>Henrique Duarte de Almeida</b>.</p>"
+  "descricao": null
  },
  {
-  "nome": "CONFRATERNIZAÇÃO DISCENTE",
+  "nome": "Confraternização Discente",
   "lugar": null,
   "dataInicio": "2026-05-22T18:00:00-03:00",
   "dataFim": null,

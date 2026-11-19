@@ -1,32 +1,96 @@
 Workshop Paulista de Inteligência Artificial Aplicada 2023
-Programação
+Programação 2023
 
-Quinta-feira (17/08/2023)
-Horário | Atividade | Local | Descrição
-8h às 9h | Credenciamento e Retirada de Crachás | Hall de Entrada
-9h às 9h30 | Sessão de Abertura | Auditório Principal | Abertura oficial do evento com a presença da coordenadora geral Dra. Juliana Prado e do diretor Dr. Marcos Vinícius Toledo.
-9h30 às 10h30 | Palestra de Abertura | Auditório Principal | Apresentação de abertura ministrada pelo Prof. Dr. Ricardo Albuquerque com o tema Modelos de Linguagem de Grande Escala e o Futuro do Processamento Textual.
-10h30 às 11h | Pausa para Café matutina | Foyer Principal
-11h às 12h30 | Minicurso 1 - Parte 1 | Laboratório de Informática A | Instrutora: MSc. Camila Dantas. Conteúdo prático cobrindo Introdução a Visão Computacional com PyTorch e OpenCV.
-11h às 12h30 | Minicurso 2 - Parte 1 | Laboratório de Informática B | Ministrado por Dr. Felipe Cerqueira, abordando Engenharia de Prompts e Arquitetura RAG para Aplicações Corporativas.
-12h30 às 14h | Almoço Livre
-14h às 16h | Minicurso 1 - Parte 2 | Laboratório de Informática A | Continuação com a instrutora MSc. Camila Dantas sobre Implementação e Ajuste Fino de Redes Convolucionais para Reconhecimento de Objetos.
-14h às 16h | Minicurso 2 - Parte 2 | Laboratório de Informática B | Continuação com Dr. Felipe Cerqueira trabalhando Integração de Vetores e Bancos de Dados com LangChain.
-16h às 16h30 | Coffee Break e Networking | Foyer Principal
-16h30 às 18h | Painel de Discussão 1 | Auditório Principal | Debate sobre Desafios Éticos e Regulamentação de Inteligência Artificial no Cenário Brasileiro com mediação de Dra. Mariana Lins e participação de Lucas Fontes e Beatriz Nogueira.
-18h30 | Happy Hour da Comunidade | Terraço Panorâmico
+17 de agosto
+Horário
+Atividade
+Local
+08:00 às 09:00
+Credenciamento e Retirada de Crachás
+Hall de Entrada
+09:00 às 09:30
+Sessão de Abertura
+Auditório Principal
+Abertura oficial do evento com a presença da coordenadora geral Dra. Juliana Prado e do diretor Dr. Marcos Vinícius Toledo.
+09:30 às 10:30
+Palestra de Abertura
+Auditório Principal
+Apresentação de abertura ministrada pelo Prof. Dr. Ricardo Albuquerque com o tema Modelos de Linguagem de Grande Escala e o Futuro do Processamento Textual.
+10:30 às 11:00
+Pausa para Café matutina
+Foyer Principal
+11:00 às 12:30
+Minicurso 1 - Parte 1
+Laboratório de Informática A
+Instrutora: MSc. Camila Dantas. Conteúdo prático cobrindo Introdução a Visão Computacional com PyTorch e OpenCV.
+11:00 às 12:30
+Minicurso 2 - Parte 1
+Laboratório de Informática B
+Ministrado por Dr. Felipe Cerqueira, abordando Engenharia de Prompts e Arquitetura RAG para Aplicações Corporativas.
+12:30 às 14:00
+Almoço Livre
+14:00 às 16:00
+Minicurso 1 - Parte 2
+Laboratório de Informática A
+Continuação com a instrutora MSc. Camila Dantas sobre Implementação e Ajuste Fino de Redes Convolucionais para Reconhecimento de Objetos.
+14:00 às 16:00
+Minicurso 2 - Parte 2
+Laboratório de Informática B
+Continuação com Dr. Felipe Cerqueira trabalhando Integração de Vetores e Bancos de Dados com LangChain.
+16:00 às 16:30
+Coffee Break e Networking
+Foyer Principal
+16:30 às 18:00
+Painel de Discussão 1
+Auditório Principal
+Debate sobre Desafios Éticos e Regulamentação de Inteligência Artificial no Cenário Brasileiro com mediação de Dra. Mariana Lins e participação de Lucas Fontes e Beatriz Nogueira.
+18:30
+Happy Hour da Comunidade
+Terraço Panorâmico
 
-Sexta-feira (18/08/2023)
-Horário | Atividade | Local | Descrição
-8h30 às 9h | Boas-vindas e Recepção | Hall de Entrada
-9h às 10h | Palestra Técnica Convidada | Auditório Principal | Apresentação pelo especialista Eng. Rodrigo Valente abordando MLOps: Estratégias para Implantação Contínua de Modelos Preditivos em Produção.
-10h às 10h30 | Intervalo para Café | Foyer Principal
-10h30 às 12h30 | Minicurso 3 - Parte 1 | Laboratório de Informática A | Oficina conduzida por Dra. Talita Guimarães sobre Aprendizado por Reforço Profundo: Fundamentos e Primeiros Passos.
-10h30 às 12h30 | Minicurso 4 - Parte 1 | Laboratório de Informática B | Sessão conduzida por Prof. André Meireles tratando de Análise de Grafos de Conhecimento e IA Explicável com NetworkX.
-12h30 às 14h | Horário de Almoço
-14h às 16h | Minicurso 3 - Parte 2 | Laboratório de Informática A | Aplicação em simuladores com a especialista Dra. Talita Guimarães: Treinando Agentes com Gym e Stable-Baselines3.
-14h às 16h | Minicurso 4 - Parte 2 | Laboratório de Informática B | Exercícios práticos com Prof. André Meireles demonstrando Interpretabilidade de Modelos Complexos Utilizando SHAP e LIME.
-16h às 16h30 | Pausa para Lanche da Tarde | Foyer Principal
-16h30 às 17h45 | Painel de Discussão 2 | Auditório Principal | Mesa redonda sobre Mercado de Trabalho em IA: Demandas, Habilidades e Carreiras Emergentes, moderada por Patrícia Ramos com debatedores Carlos Eduardo Bueno e Fernanda Siqueira.
-17h45 às 18h30 | Sessão de Encerramento e Premiação | Auditório Principal | Entrega das premiações de melhores projetos dos minicursos presidida por Dra. Juliana Prado.
-18h30 | Coquetel de Confraternização | Área Verde do CIT
+18 de agosto
+Horário
+Atividade
+Local
+08:30 às 09:00
+Boas-vindas e Recepção
+Hall de Entrada
+09:00 às 10:00
+Palestra Técnica Convidada
+Auditório Principal
+Apresentação pelo especialista Eng. Rodrigo Valente abordando MLOps: Estratégias para Implantação Contínua de Modelos Preditivos em Produção.
+10:00 às 10:30
+Intervalo para Café
+Foyer Principal
+10:30 às 12:30
+Minicurso 3 - Parte 1
+Laboratório de Informática A
+Oficina conduzida por Dra. Talita Guimarães sobre Aprendizado por Reforço Profundo: Fundamentos e Primeiros Passos.
+10:30 às 12:30
+Minicurso 4 - Parte 1
+Laboratório de Informática B
+Sessão conduzida por Prof. André Meireles tratando de Análise de Grafos de Conhecimento e IA Explicável com NetworkX.
+12:30 às 14:00
+Horário de Almoço
+14:00 às 16:00
+Minicurso 3 - Parte 2
+Laboratório de Informática A
+Aplicação em simuladores com a especialista Dra. Talita Guimarães: Treinando Agentes com Gym e Stable-Baselines3.
+14:00 às 16:00
+Minicurso 4 - Parte 2
+Laboratório de Informática B
+Exercícios práticos com Prof. André Meireles demonstrando Interpretabilidade de Modelos Complexos Utilizando SHAP e LIME.
+16:00 às 16:30
+Pausa para Lanche da Tarde
+Foyer Principal
+16:30 às 17:45
+Painel de Discussão 2
+Auditório Principal
+Mesa redonda sobre Mercado de Trabalho em IA: Demandas, Habilidades e Carreiras Emergentes, moderada por Patrícia Ramos com debatedores Carlos Eduardo Bueno e Fernanda Siqueira.
+17:45 às 18:30
+Sessão de Encerramento e Premiação
+Auditório Principal
+Entrega das premiações de melhores projetos dos minicursos presidida por Dra. Juliana Prado.
+18:30
+Coquetel de Confraternização
+Área Verde do CIT

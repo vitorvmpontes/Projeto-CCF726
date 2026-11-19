@@ -1,26 +1,27 @@
-Programação - XXIV Congresso Brasileiro de Ciência da Computação e Engenharia de Software
-Edição 2026
+XXIV Congresso Brasileiro de Ciência da Computação e Engenharia de Software
+Programação 2026
 
 QUARTA-FEIRA - 14/10/26
-09:00 - 10:30 | Cerimônia de Abertura
+9h – 10h30 - Cerimônia de Abertura
 Auditório Principal
-SESSÕES TÉCNICAS
-14:00 - 16:00  Sessão Técnica 1A: Inteligência
-Artificial e Aprendizado de Máquina
-Local: Sala Joaquina
-14:00 - 16:00 - Sessão Técnica 1B: Engenharia de
-Requisitos e Métodos Ágeis
+14h – 16h | Sessão Técnica 1A: Inteligência Artificial e Aprendizado de Máquina
+Sala Joaquina
+Apoio:
+14h – 16h: Sessão Técnica 1B: Engenharia de Requisitos e Métodos Ágeis
 Sala Campeche
 
 QUINTA-FEIRA - 15/10/26
-10:00 - 12:00
-Painel de Debates
-Local: Auditório Principal
-15:30 - 17:30  Sessão de Pôsteres
-Foyer Central
+10h – 12h - Painel de Debates
+📍 Auditório Principal
+15h30 – 17h30  Sessão de Pôsteres
+📍 Foyer Central
 
 SEXTA-FEIRA - 16/10/26
-10:30 - 12:00 | Palestra Convidada Internacional
-Local: Auditório Principal
-16:30 - 18:00 - Sessão de Premiação e Encerramento
-Auditório Principal
+10h30 – 12h - Palestra Convidada Internacional
+📍 Auditório Principal
+16h30 – 18h - Sessão de Premiação e Encerramento
+📍 Auditório Principal
+Apoio:
+
+Apoio:
+@xcbcces

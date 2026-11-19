@@ -1,37 +1,21 @@
-I WORKSHOP PARAENSE DE INTELIGÊNCIA ARTIFICIAL APLICADA (WPIAA 2027)
-Parque de Ciência e Tecnologia Guamá (PCT Guamá), Belém - PA
-PROGRAMAÇÃO
+Programação - I Workshop Paraense de Inteligência Artificial Aplicada (WPIAA 2027)
+Edição 2027
 
-18 • Maio
-das 08:30 às 09:15
-ABERTURA OFICIAL
+18/05
+(8h30 - 9h15): Abertura Oficial
+Local: Auditório Almirante Barroso
 Boas-vindas da coordenação geral com o coordenador Prof. Dr. Marcelo Pinheiro e apresentação das diretrizes de inovação regional.
-AUDITÓRIO ALMIRANTE BARROSO
 Minicursos
-das 09:30 às 12:00
-MINICURSO: FUNDAMENTOS
-DE REDES
-CONVOLUCIONAIS
+(9h30 - 12h) - Minicurso: “Fundamentos de Redes Convolucionais”
+Local: Laboratório de Computação Aplicada
 Primeira parte do curso Introdução Prática à Visão Computacional com PyTorch, ministrado pelo pesquisador Msc. Renan Albuquerque.
-LABORATÓRIO DE COMPUTAÇÃO APLICADA
-das 12:00 às 13:30
-INTERVALO PARA ALMOÇO
-das 13:30 às 16:00
-MINICURSO: FUNDAMENTOS DE
-REDES CONVOLUCIONAIS
+(12h - 13h30)
+Intervalo para Almoço
+(13h30 - 16h): Minicurso: “Fundamentos de Redes Convolucionais”
+Local: Laboratório de Computação Aplicada
 Segunda parte do curso prático abordando fine-tuning e transfer learning, sob supervisão de Msc. Renan Albuquerque e do monitor Lucas Nogueira.
-LABORATÓRIO DE COMPUTAÇÃO APLICADA
-Certificado de participação
-das 13:30 às 16:00
-MINICURSO: MODELOS DE
-LINGUAGEM PARA
-BIOECONOMIA
+(13h30 - 16h)
+Minicurso: “Modelos de Linguagem para Bioeconomia”
 Apresentação do minicurso Processamento de Linguagem Natural Aplicado à Catalogação da Flora Amazônica, ministrado pela Dra. Samanta Cordovil.
-das 16:30 às 18:00
-SESSÃO DE ENCERRAMENTO
-E RELATOS DE
-EXPERIÊNCIA
+(16h30 - 18h) - Sessão de Encerramento e Relatos de Experiência
 Debate sobre o futuro dos dados abertos na região norte conduzido por Dra. Samanta Cordovil e Prof. Dr. Marcelo Pinheiro.
-
-Apoio:
-@wpiaaw

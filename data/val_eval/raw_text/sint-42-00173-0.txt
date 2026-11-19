@@ -1,56 +1,22 @@
-Programação - I Workshop de Inteligência Artificial Aplicada do Vale do Paraopeba
-Edição 2026
+I Workshop de Inteligência Artificial Aplicada do Vale do Paraopeba 2026
+Programação
 
-14 • Maio
-08h00 - 09h00
-RECEPÇÃO E ENTREGA DE CRACHÁS
-HALL DO PRÉDIO CENTRAL
-09h00 - 10h30
-PALESTRA DE ABERTURA
-Apresentação do tema Desafios e Oportunidades do Aprendizado Profundo no Agronegócio, ministrada pelo Dr. Marcos Aurelio Ribeiro (UFV).
-AUDITÓRIO PRINCIPAL
-10h30 - 11h00
-PAUSA PARA CAFÉ
-ÁREA DE CONVIVÊNCIA
-11h00 - 12h30
-SESSÃO TÉCNICA 1
-Coordenação de Profa. Dra. Camila Antunes. Apresentações: Detecção de Pragas em Plantações Usando Redes Convolucionais por Felipe Duarte Santos; Otimização de Irrigação com Modelos Preditivos por Juliana Mendes Prado.
-AUDITÓRIO PRINCIPAL
-12h30 - 14h00
-ALMOÇO
-RESTAURANTE UNIVERSITÁRIO
-14h00 - 17h30
-MINICURSO A
-Tema: Visão Computacional na Prática com PyTorch e OpenCV, conduzido por Thiago Henrique Barbosa e Larissa Neves de Souza.
-LABORATÓRIO DE INFORMÁTICA 1
-14h00 - 17h30
-MINICURSO B
-Tema: Processamento de Linguagem Natural com Transformers e Hugging Face, ministrado pelo Prof. Lucas Guimarães Carvalho.
-LABORATÓRIO DE INFORMÁTICA 2
+Quinta-feira, 14/05
+Horário	Atividade
+8h – 9h	Recepção e Entrega de Crachás
+9h – 10h30	Palestra de Abertura
+10h30 – 11h	Pausa para Café
+11h – 12h30	Sessão Técnica 1
+12h30 – 14h	Almoço
+14h – 17h30	Minicurso A
+14h – 17h30	Minicurso B
 
-15 • Maio
-08h30 - 10h00
-PALESTRA
-Exposição sobre Modelos Fundacionais e a Nova Fronteira da Automação Industrial, conduzida pela pesquisadora Dra. Beatriz Nogueira Castro.
-AUDITÓRIO PRINCIPAL
-10h00 - 10h30
-INTERVALO
-ÁREA DE CONVIVÊNCIA
-10h30 - 12h00
-SESSÃO TÉCNICA 2
-Coordenação de Prof. Me. Rodrigo Teles Faria. Apresentações de artigos selecionados na área de aprendizado por reforço e séries temporais.
-AUDITÓRIO PRINCIPAL
-12h00 - 13h30
-ALMOÇO
-13h30 - 16h30
-MINICURSO C
-Tema: Engenharia de Prompts e Agentes Autônomos com LangChain, ministrado pelo especialista Gabriel Rezende Moreira.
-LABORATÓRIO DE INFORMÁTICA 1
-13h30 - 16h30
-MINICURSO D
-Tema: MLOps: Deploy e Monitoramento de Modelos em Produção, ministrado pelo engenheiro de dados Vinícius Lopes da Costa.
-LABORATÓRIO DE INFORMÁTICA 2
-16h45 - 18h00
-MESA-REDONDA DE ENCERRAMENTO
-Debate intitulado Ética, Regulação e Impactos Regionais da Inteligência Artificial em Minas Gerais com participação de Dra. Mariana Fontes Xavier, Prof. Carlos Eduardo Peixoto e mediação de Profa. Dra. Camila Antunes.
-AUDITÓRIO PRINCIPAL
+Sexta-feira, 15/05
+Horário	Atividade
+8h30 – 10h	Palestra
+10h – 10h30	Intervalo
+10h30 – 12h	Sessão Técnica 2
+12h – 13h30	Almoço
+13h30 – 16h30	Minicurso C
+13h30 – 16h30	Minicurso D
+16h45 – 18h	Mesa-redonda de Encerramento

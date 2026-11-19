@@ -1,31 +1,12 @@
-XIV SEMANA ACADÊMICA DE ENGENHARIA FLORESTAL DA UNB
-Faculdade de Tecnologia, Universidade de Brasília
-PROGRAMAÇÃO
-© 2027 XIV Semana Acadêmica de Engenharia Florestal da UnB
+XIV Semana Acadêmica de Engenharia Florestal da UnB 2027
+Programação
 
-TERÇA-FEIRA - 18/05/27
-08:30 às 09:15
-BOAS-VINDAS E ABERTURA OFICIAL
-Abertura com a coordenação de curso representada pelo Prof. Rodrigo Albuquerque e fala da diretoria da Faculdade de Tecnologia.
-09:30 às 10:45
-PALESTRA DE ABERTURA
-Tema: Manejo Sustentável do Cerrado e Restauração Ecológica em Larga Escala, ministrada pela Dra. Helena Vasconcelos.
-MINICURSOS TEMÁTICOS
-11:00 às 12:30
-MINICURSO 1
-Tema: Sensoriamento Remoto Aplicado à Detecção de Desmatamento. Instrutor: Me. Felipe Dornelles.
-#xsaefu2027
-14:00 às 15:30
-MINICURSO 2
-Tema: Dendrometria Prática e Inventário Florestal Urbano, coordenado pela Profa. Dra. Carla Mendonça.
-16:00 às 17:45
-MESA DE DEBATE
-Debate sobre Políticas Públicas e Conservação da Biodiversidade no Planalto Central, com os debatedores Vinícius Guimarães e Camila Siqueira, mediado por Patrícia Nogueira.
-18:00 às 19:00
-SOLENIDADE DE ENCERRAMENTO E
-ENTREGA DE MENÇÕES HONROSAS
-Premiação dos melhores pôsteres científicos e encerramento com a Profa. Clarice Prado.
-Acesse o QR Code
+Horário | Atividade | Local | Descrição
+08h30 - 09h15 | Boas-vindas e Abertura Oficial | Auditório Roberto Salmeron | Abertura com a coordenação de curso representada pelo Prof. Rodrigo Albuquerque e fala da diretoria da Faculdade de Tecnologia.
+09h30 - 10h45 | Palestra de Abertura | Auditório Roberto Salmeron | Tema: Manejo Sustentável do Cerrado e Restauração Ecológica em Larga Escala, ministrada pela Dra. Helena Vasconcelos.
+11h00 - 12h30 | Minicurso 1 |  | Tema: Sensoriamento Remoto Aplicado à Detecção de Desmatamento. Instrutor: Me. Felipe Dornelles.
+14h00 - 15h30 | Minicurso 2 |  | Tema: Dendrometria Prática e Inventário Florestal Urbano, coordenado pela Profa. Dra. Carla Mendonça.
+16h00 - 17h45 | Mesa de Debate |  | Debate sobre Políticas Públicas e Conservação da Biodiversidade no Planalto Central, com os debatedores Vinícius Guimarães e Camila Siqueira, mediado por Patrícia Nogueira.
+18h00 - 19h00 | Solenidade de Encerramento e Entrega de Menções Honrosas |  | Premiação dos melhores pôsteres científicos e encerramento com a Profa. Clarice Prado.
 
-Apoio:
-@xsaefu
+Programação 18/05/2027

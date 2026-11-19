@@ -8,14 +8,14 @@
  },
  {
   "nome": "EXPOSIÇÃO DE BANNERS",
-  "lugar": "PÁTIO CENTRAL",
+  "lugar": null,
   "dataInicio": "2027-10-21T09:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "RODAS DE CONVERSA DOS PROJETOS",
-  "lugar": "MINIAUDITÓRIO",
+  "lugar": null,
   "dataInicio": "2027-10-21T09:00:00-03:00",
   "dataFim": "2027-10-21T11:30:00-03:00",
   "descricao": null

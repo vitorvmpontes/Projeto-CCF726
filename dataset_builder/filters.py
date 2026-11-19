@@ -79,7 +79,9 @@ def filtro_schema(texto: str, atividades: list[dict]) -> list[str]:
         except Exception:  # noqa: BLE001
             motivos.append("schema")
             break
-    pp = pos_processar(atividades, texto).atividades
+    # v1: o rótulo copia o texto (inclusive travessões); a normalização de
+    # travessões da v2 é aplicada só na avaliação das predições.
+    pp = pos_processar(atividades, texto, versao="v1").atividades
     if pp != atividades:
         motivos.append("rotulo_muda_no_pos_processamento")
     return motivos

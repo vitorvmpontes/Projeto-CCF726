@@ -1,35 +1,35 @@
 [
  {
   "nome": "Abertura",
-  "lugar": null,
+  "lugar": "Centro Universitário São Camilo - Ipiranga",
   "dataInicio": "2024-09-25T08:30:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "Nutrição Esportiva na Prática",
-  "lugar": null,
+  "lugar": "Centro Universitário São Camilo - Ipiranga",
   "dataInicio": "2024-09-25T09:00:00-03:00",
   "dataFim": "2024-09-25T10:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "Workshop de Rotulagem de Alimentos",
-  "lugar": null,
+  "lugar": "Centro Universitário São Camilo - Ipiranga",
   "dataInicio": "2024-09-25T10:45:00-03:00",
   "dataFim": "2024-09-25T12:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Mesa de Egressos",
-  "lugar": null,
+  "lugar": "Centro Universitário São Camilo - Ipiranga",
   "dataInicio": "2024-09-25T14:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "Encerramento",
-  "lugar": null,
+  "lugar": "Centro Universitário São Camilo - Ipiranga",
   "dataInicio": "2024-09-25T16:00:00-03:00",
   "dataFim": null,
   "descricao": null

@@ -1,76 +1,32 @@
-WORKSHOP POTIGUAR DE INTELIGÊNCIA ARTIFICIAL APLICADA (WPIA 2027)
-Centro de Convenções de Natal, Natal - RN
-PROGRAMAÇÃO
+Workshop Potiguar de Inteligência Artificial Aplicada (WPIA 2027)
+Programação
+LOCAL: Centro de Convenções de Natal, Natal - RN
 
-QUARTA-FEIRA - 19/05/27
-Horário
-Atividade
-Local
-(8h - 9h)
-Credenciamento e Entrega de Kits
-Foyer Principal
-(9h - 10h30)
-Palestra de Abertura
-Auditório Ponta Negra
-Abertura oficial com a conferência Modelos de Fundação Multimodais para Diagnóstico por Imagem ministrada pelo Prof. Dr. Marcelo Vasconcelos (UFRN). Coordenação de Dra. Simone Albuquerque.
-(10h30 - 11h)
-Intervalo para Café
-Área de Convivência Externa
-(11h - 12h30)
-Minicurso 1
-Laboratório de Informática 1
-Tema: Engenharia de Prompt e Fine-Tuning de LLMs para Iniciantes. Instrutores: Lucas Marinho e Beatriz Guimarães.
-(11h - 12h30)
+Quarta-feira (19/05/2027)
+08:00 - 09:00: Credenciamento e Entrega de Kits
+PALESTRAS PRINCIPAIS
+09:00 - 10:30 - Palestra de Abertura
+10:30 - 11:00 – Intervalo para Café
+Minicursos
+11:00 - 12:30 - Minicurso 1
+11:00 - 12:30
 Minicurso 2
-Laboratório de Informática 2
-Tema: Visão Computacional Aplicada a Veículos Autônomos usando PyTorch com o pesquisador Dr. Daniel Fontes.
-(12h30 - 14h)
-Almoço Livre
-(14h - 16h)
-Sessão Oral 1
-Sala Genipabu
-Coordenação de Profa. Fernanda Teles. Trabalhos apresentados:
-1. Detecção de Anomalias em Séries Temporais Industriais por Caio Mendonça e Jorge Linhares;
-2. Otimização de Rotas de Transporte Público em Natal utilizando Aprendizado por Reforço por Juliana Bastos e Renato Maia.
+12:30 - 14:00 | Almoço Livre
+Sessões Técnicas
+14:00 - 16:00  Sessão Oral 1
 
-QUINTA-FEIRA - 20/05/27
-Horário
-Atividade
-Local
-(9h - 12h)
-Minicurso 3
-Laboratório de Informática 1
-Tema: Construindo Agentes Autônomos com RAG e LangChain. Instrutora: Camila Dantas (Instituto Metrópole Digital).
-(9h - 12h)
-Minicurso 4
-Laboratório de Informática 2
-Tema: Graph Neural Networks para Bioinformática ministrado por Prof. Roberto Salgado e monitorado por Vanessa Prado.
-(12h - 13h30)
-Almoço Livre
-(13h30 - 15h30)
-Sessão Oral 2
-Sala Genipabu
-Coordenação de Dr. Igor Cassemiro. Apresentações:
-1. Redução de Viés Algorítmico em Modelos de Crédito Bancário de autoria de Patrícia Nogueira e Carlos Eduardo Pires;
-2. Classificação Automática de Padrões Climáticos no Litoral Potiguar por Rodrigo Assis, Manoel Farias e Aline Morais.
-(16h - 18h)
-Painel de Debates
-Auditório Ponta Negra
-Debate sobre Regulamentação e Ética da IA no Setor Público mediado por Larissa Neves, contando com a participação dos debatedores Dr. Gustavo Paiva (OAB/RN) e Profa. Helena Queiroz (UFRN).
+Quinta-feira (20/05/2027)
+Minicursos
+09:00 - 12:00: Minicurso 3
+09:00 - 12:00 | Minicurso 4
+12:00 - 13:30 - Almoço Livre
+Sessões Técnicas
+13:30 - 15:30: Sessão Oral 2
+16:00 - 18:00: Painel de Debates
 
-SEXTA-FEIRA - 21/05/27
-Horário
-Atividade
-Local
-(9h30 - 11h)
-Palestra Temática
-Auditório Ponta Negra
-Apresentação da palestra Eficiência Energética no Treinamento de Redes Neurais Profundas com o Dr. Thiago Brandão.
-(11h - 12h30)
-Sessão de Pôsteres
-Hall de Exposições
-Apresentação de trabalhos acadêmicos de graduação e pós-graduação. Coordenação geral do comitê com Prof. Anderson Medeiros.
-(14h - 15h30)
+Sexta-feira (21/05/2027)
+Palestras Principais
+09:30 - 11:00 - Palestra Temática
+11:00 - 12:30 – Sessão de Pôsteres
+14:00 - 15:30
 Sessão de Encerramento
-Auditório Ponta Negra
-Cerimônia de premiação dos melhores artigos e minicursos coordenada por Dra. Simone Albuquerque e Prof. Anderson Medeiros.

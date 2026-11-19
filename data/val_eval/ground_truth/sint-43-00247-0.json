@@ -1,42 +1,42 @@
 [
  {
-  "nome": "ABERTURA",
-  "lugar": null,
+  "nome": "Abertura",
+  "lugar": "Palco Principal",
   "dataInicio": "2025-10-23T09:00:00-03:00",
   "dataFim": "2025-10-23T09:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "ATENDIMENTO INDIVIDUAL",
-  "lugar": null,
+  "nome": "Atendimento Individual",
+  "lugar": "Estande de Atendimento",
   "dataInicio": "2025-10-23T10:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "OFICINA DE VENDAS PELO WHATSAPP",
-  "lugar": null,
+  "nome": "Oficina de Vendas pelo WhatsApp",
+  "lugar": "Sala de Oficinas",
   "dataInicio": "2025-10-23T10:00:00-03:00",
   "dataFim": "2025-10-23T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PALESTRA GESTÃO FINANCEIRA PARA MEI",
-  "lugar": null,
+  "nome": "Palestra Gestão Financeira para MEI",
+  "lugar": "Auditório 1",
   "dataInicio": "2025-10-23T10:00:00-03:00",
   "dataFim": "2025-10-23T11:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PAINEL MULHERES QUE EMPREENDEM",
-  "lugar": null,
+  "nome": "Painel Mulheres que Empreendem",
+  "lugar": "Palco Principal",
   "dataInicio": "2025-10-23T14:00:00-03:00",
   "dataFim": "2025-10-23T15:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "SORTEIO DE BRINDES",
-  "lugar": null,
+  "nome": "Sorteio de Brindes",
+  "lugar": "Palco Principal",
   "dataInicio": "2025-10-23T17:00:00-03:00",
   "dataFim": null,
   "descricao": null

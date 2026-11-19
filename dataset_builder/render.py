@@ -41,6 +41,13 @@ from datetime import datetime
 
 LAYOUTS = ["lista", "tabela", "colunas", "cartaz"]
 PERFIS = ["completo", "sem_lugar", "sem_descricao", "enxuto"]
+# Extras da v1.2 (2026-11-20, exploratória; motivados pelos erros do teste da e2b-r1):
+# - local_cabecalho: o local vem uma vez só ("Local: X" no topo ou "14 DE OUTUBRO – LOCAL – X" no dia)
+#                    e vale para todas as atividades sem local próprio (como nos gabaritos do teste)
+# - data_no_titulo:  evento de um dia sem cabeçalho de dia; a data aparece só no título ou no rodapé
+# - aspas:           títulos de palestras/mesas entre aspas tipográficas (o rótulo mantém as aspas)
+EXTRAS = ["local_cabecalho", "data_no_titulo", "aspas"]
+_TITULO_RE = re.compile(r"^((?:Palestra|Mesa[- ][Rr]edonda|Conferência|Oficina|Minicurso|Painel)[^:]{0,30}): (.{8,})$")
 RUIDOS = ["secoes", "decorativo", "quebra", "ocr"]
 
 DIAS_SEMANA = ["Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado", "Domingo"]
@@ -60,6 +67,7 @@ class Renderizado:
     layout: str
     ruidos: list[str] = field(default_factory=list)
     perfil: str = "completo"
+    extras: list[str] = field(default_factory=list)
     estilos: dict = field(default_factory=dict)
 
 
@@ -198,13 +206,35 @@ def perfil_viavel(atividades: list[dict], perfil: str) -> str:
 
 
 def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] | None = None,
-               perfil: str = "completo") -> Renderizado:
-    """`evento` = {"evento": {...}, "atividades": [...]} vindo do professor (já limpo)."""
+               perfil: str = "completo", extras: list[str] | None = None) -> Renderizado:
+    """`evento` = {"evento": {...}, "atividades": [...]} vindo do professor (já limpo).
+    `extras` (v1.2) só são aplicados quando fazem sentido para o evento; os aplicados
+    voltam em `Renderizado.extras`."""
     ruidos = list(ruidos or [])
+    pedidos = set(extras or [])
+    aplicados: list[str] = []
     info = evento.get("evento", {}) or {}
     nome_evento = (info.get("nome") or "Programação").strip()
     perfil = perfil_viavel(evento["atividades"], perfil)
     acts = sorted(aplicar_perfil(evento["atividades"], perfil), key=lambda a: (a["dataInicio"] or "", a["nome"]))
+
+    if "aspas" in pedidos:
+        n_aspas = 0
+        for a in acts:
+            m = _TITULO_RE.match(a["nome"])
+            if m and "“" not in a["nome"] and '"' not in a["nome"]:
+                a["nome"] = f"{m.group(1)}: “{m.group(2)}”"
+                n_aspas += 1
+        if n_aspas:
+            aplicados.append("aspas")
+
+    local_geral = (info.get("local_geral") or "").strip()
+    local_cab = None
+    if "local_cabecalho" in pedidos and local_geral and not any(a.get("lugar") for a in acts):
+        local_cab = local_geral
+        for a in acts:
+            a["lugar"] = local_cab
+        aplicados.append("local_cabecalho")
     ano = _dt(acts[0]["dataInicio"]).year if acts and acts[0]["dataInicio"] else datetime.now().year
     sigla = _sigla(nome_evento)
 
@@ -219,6 +249,14 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
 
     def nome_txt(a):
         return a["nome"].upper() if estilos["maiusculas"] else a["nome"]
+
+    dias_evento = {a["dataInicio"][:10] for a in acts if a.get("dataInicio")}
+    data_titulo = "data_no_titulo" in pedidos and len(dias_evento) == 1
+    if data_titulo:
+        aplicados.append("data_no_titulo")
+    modo_local = rng.choice(["evento", "dia"]) if local_cab else None
+    if modo_local == "dia" and data_titulo:
+        modo_local = "evento"  # sem cabeçalho de dia, o local vai para o topo
 
     rotulos = []
     for a in acts:
@@ -239,7 +277,17 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
         [f"Programação - {nome_evento}", f"Edição {ano}"],
     ])
     linhas += [c for c in cab if c]
-    if str(ano) not in "\n".join(linhas) and "aaaa" not in estilos["dia"]:
+    if data_titulo:
+        d0 = _dt(acts[0]["dataInicio"])
+        linha_data = rng.choice([f"Programação {d0:%d/%m/%Y}", f"{d0:%d/%m/%Y}",
+                                 f"{d0.day} de {MESES[d0.month - 1]} de {d0.year}"])
+        data_no_rodape = rng.random() < 0.5
+        if not data_no_rodape:
+            linhas.append(linha_data)
+    if modo_local == "evento":
+        lc = local_cab.upper() if layout == "cartaz" else local_cab
+        linhas.append(rng.choice([f"Local: {lc}", f"LOCAL: {lc}", f"Local do evento: {lc}"]))
+    if str(ano) not in "\n".join(linhas) and "aaaa" not in estilos["dia"] and not data_titulo:
         linhas.append(rng.choice([f"© {ano} {nome_evento}", f"Inscrições até 10/01/{ano}", f"Edição {ano}"]))
 
     def decor():
@@ -260,7 +308,7 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
     tamanho_secao = Counter(a.get("secao") for a in acts if a.get("secao"))
 
     # Colunas vazias no evento inteiro (ex.: perfil enxuto) não aparecem no cabeçalho.
-    tem_lugar = any(a.get("lugar") for a in acts)
+    tem_lugar = any(a.get("lugar") for a in acts) and not local_cab
     tem_desc = any(a.get("descricao") for a in acts)
 
     dias = []
@@ -272,8 +320,13 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
 
     for idx, (dia, grupo) in enumerate(dias):
         linhas.append("")
-        if dia is not None:
-            linhas.append(fmt_dia(datetime.combine(dia, datetime.min.time()), estilos["dia"], idx))
+        if dia is not None and not data_titulo:
+            txt_dia = fmt_dia(datetime.combine(dia, datetime.min.time()), estilos["dia"], idx)
+            if modo_local == "dia":
+                lc = local_cab.upper() if layout == "cartaz" else local_cab
+                txt_dia = rng.choice([f"{txt_dia.upper()} – LOCAL – {lc}", f"{txt_dia} | Local: {lc}",
+                                      f"{txt_dia} - {lc}"])
+            linhas.append(txt_dia)
         if layout == "tabela":
             sep = estilos["sep_tabela"]
             linhas.append(sep.join(["Horário", "Atividade"] + ["Local"] * tem_lugar + ["Descrição"] * tem_desc))
@@ -287,9 +340,9 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
                 linhas.append(secao_atual.upper() if rng.random() < 0.5 else secao_atual)
             ini, fim = _dt(a["dataInicio"]), _dt(a.get("dataFim"))
             hora = fmt_intervalo(ini, fim, estilos["hora"], estilos["intervalo"]) if ini else ""
-            lugar = a.get("lugar") or ""
+            lugar = "" if local_cab else (a.get("lugar") or "")  # local do cabeçalho não se repete
             if layout == "lista":
-                sep = rng.choice([" | ", " - ", "  ", "\n"])
+                sep = rng.choice([" | ", " - ", "  ", "\n", " – ", ": "])
                 nl = nome_linhas(a)
                 linhas.append(f"{hora}{sep}{nl[0]}" if hora else nl[0])
                 linhas += nl[1:]
@@ -317,5 +370,9 @@ def renderizar(evento: dict, layout: str, rng: random.Random, ruidos: list[str] 
     if "decorativo" in ruidos:
         linhas += ["", rng.choice(["Realização", "Apoio"]) + ":", f"@{sigla}"]
 
+    if data_titulo and data_no_rodape:
+        linhas += ["", linha_data]
+
     texto = "\n".join(linhas).strip() + "\n"
-    return Renderizado(texto=texto, atividades=rotulos, layout=layout, ruidos=ruidos, estilos=estilos, perfil=perfil)
+    return Renderizado(texto=texto, atividades=rotulos, layout=layout, ruidos=ruidos, estilos=estilos, perfil=perfil,
+                       extras=aplicados)

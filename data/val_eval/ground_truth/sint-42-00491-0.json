@@ -1,72 +1,72 @@
 [
  {
   "nome": "Credenciamento e Retirada de Crachás",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-17T08:30:00-03:00",
   "dataFim": "2023-08-17T10:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Cerimônia de Abertura",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-17T10:00:00-03:00",
   "dataFim": "2023-08-17T11:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Abertura oficial com a presença de autoridades e da diretoria do Sebrae/SC.</p><p>Coordenação: <b>Carlos Henrique Ramos Fonseca</b> e <b>Luciana Thomé</b>.</p>"
  },
  {
   "nome": "Como estruturar modelos de negócios inovadores e sustentáveis para pequenas e médias empresas em mercados altamente competitivos e digitalizados",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-17T11:15:00-03:00",
   "dataFim": "2023-08-17T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: Transformação digital e novos ecossistemas produtivos.</p><p>Palestra ministrada por <b>Mariana Siqueira Luz</b> (Consultora de Negócios Globais).</p>"
  },
  {
   "nome": "Intervalo para Almoço",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-17T12:30:00-03:00",
   "dataFim": "2023-08-17T14:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Mostra de Soluções e Casos de Sucesso das Startups Catarinenses",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-17T14:30:00-03:00",
   "dataFim": "2023-08-17T17:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação dos projetos acelerados pelo programa Sebrae Startups.</p><p>Coordenação geral: <b>Renata Alcantara Silveira</b>.</p><p>Trabalhos apresentados: <i>Automação de microcrédito rural com uso de inteligência artificial</i>, por <b>Tiago Mendes Fagundes</b>; <i>Plataforma circular para descarte e reciclagem de resíduos têxteis em Santa Catarina</i>, por <b>Bianca Duarte Rossi</b>; <i>Eficiência logística de última milha para o pequeno varejo de bairro</i>, por <b>Guilherme Pires de Camargo</b>.</p>"
  },
  {
   "nome": "Estratégias práticas de captação de recursos e investimentos anjo para impulsionar o crescimento acelerado de empreendimentos em estágio inicial",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-18T09:30:00-03:00",
   "dataFim": "2023-08-18T11:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Painel sobre venture capital e captação de investimento semente.</p><p>Debatedores: <b>Felipe Bastos Vianna</b> (Rede Angels SC) e <b>Cláudia Regina Medeiros</b> (InovaCapital).</p><p>Mediação: <b>Roberto Nogueira Filho</b>.</p>"
  },
  {
   "nome": "Pausa para Café e Networking",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-18T11:00:00-03:00",
   "dataFim": "2023-08-18T11:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "Oficina de Tráfego Pago e Redes Sociais para Pequenos Varejistas",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-18T14:00:00-03:00",
   "dataFim": "2023-08-18T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Subtítulo: Campanhas digitais de alta conversão com baixo orçamento para comércio local.</p><p>Instrutor: <b>Marcos Vinícius Prado</b>.</p>"
  },
  {
   "nome": "Oficina de Precificação e Gestão de Fluxo de Caixa para Prestadores de Serviço",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-19T10:00:00-03:00",
   "dataFim": "2023-08-19T12:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Subtítulo: Métodos para equilibrar contas e garantir lucratividade no MEI e na microempresa.</p><p>Facilitadora: <b>Danielle Freitas Carvalho</b>.</p>"
  },
  {
   "nome": "O impacto transformador da liderança feminina no ecossistema de tecnologia e empreendedorismo tradicional do sul do Brasil",
-  "lugar": null,
+  "lugar": "Centro de Convenções de Florianópolis (CentroSul), Florianópolis - SC",
   "dataInicio": "2023-08-19T14:30:00-03:00",
   "dataFim": "2023-08-19T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Palestra de encerramento destacando trajetórias de mulheres empreendedoras.</p><p>Palestrante: <b>Helena Boabaid Zanella</b>.</p><p>Apresentação: <b>Patrícia Becker Antunes</b>.</p>"
  }
 ]

@@ -8,21 +8,21 @@
  },
  {
   "nome": "Abertura",
-  "lugar": null,
+  "lugar": "Auditório",
   "dataInicio": "2024-09-25T08:00:00-03:00",
   "dataFim": "2024-09-25T09:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Roda de Conversa com Comunidades",
-  "lugar": null,
+  "lugar": "Sala 3",
   "dataInicio": "2024-09-25T09:00:00-03:00",
   "dataFim": "2024-09-25T11:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Com lideranças da aldeia urbana <b>Marçal de Souza</b>.</p>"
  },
  {
   "nome": "Sessão de Pôsteres",
-  "lugar": null,
+  "lugar": "Hall Central",
   "dataInicio": "2024-09-25T09:00:00-03:00",
   "dataFim": "2024-09-25T11:30:00-03:00",
   "descricao": null
@@ -36,7 +36,7 @@
  },
  {
   "nome": "Apresentações Culturais",
-  "lugar": null,
+  "lugar": "Auditório",
   "dataInicio": "2024-09-25T13:00:00-03:00",
   "dataFim": null,
   "descricao": null

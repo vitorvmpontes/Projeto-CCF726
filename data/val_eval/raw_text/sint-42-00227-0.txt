@@ -1,105 +1,53 @@
 Amazonas Game Jam & Code Marathon 2027
 Programação
 
-16/04
-8h – 9h30
-CHECK-IN E ENTREGA DE KITS
-Recepção dos participantes e validação das equipes credenciadas.
-#agjcm2027
-9h30 – 10h30
-CERIMÔNIA DE ABERTURA E
-REVELAÇÃO DO TEMA
-Apresentação das diretrizes com Thiago Frota e anúncio surpresa do tema unificado.
-10h45 – 12h
-OFICINA PRÁTICA 1
-Oficina de Shaders e Renderização Procedural em Godot 4 com o instrutor Marcos Vinícius Siqueira.
-10h45 – 11h45
-PALESTRA TÉCNICA 1
-Apresentação de Desenvolvimento sustentável de motores gráficos de alta fidelidade e baixo consumo energético em sistemas embarcados e dispositivos computacionais móveis conduzida por Dra. Juliana Guimarães.
-12h – 13h30
-ALMOÇO LIVRE
-12h
-INÍCIO DA PROTOTIPAÇÃO
-Início oficial da contagem regressiva para desenvolvimento dos projetos da maratona e da game jam.
-Inscrições gratuitas
-14h – 16h
-PLANTÃO DE MENTORIA
-Suporte em arquitetura de software e game design com Camila Brito e Carlos Eduardo Viana.
-14h30 – 16h
-OFICINA PRÁTICA 2
-Workshop sobre Pipelines de Áudio Adaptativo Utilizando FMOD e Bancos de Sons Regionais conduzido por Larissa Paiva.
-16h30 – 17h15
-LANCHE DA TARDE
-Acesse o QR Code
-17h30 – 18h45
-PAINEL TEMÁTICO
-Debate sobre Mercado de Jogos Independentes no Norte do Brasil: Desafios e Oportunidades mediado por Ewerton Vasconcelos com os debatedores Beatriz Mendonça e Rodrigo Assis.
-Patrocínio
-19h – 20h30
-CHECKPOINT DE VALIDAÇÃO
-Verificação de escopo e alinhamento dos protótipos com a banca preliminar.
-Siga @agjcm nas redes sociais
-22h
-CORUJÃO DEV
-Espaço aberto para programação contínua na madrugada sob monitoria de suporte técnico.
+16 • Abril
+(08:00 - 09:30) - Check-in e Entrega de Kits
+(09:30 - 10:30)
+Cerimônia de Abertura e
+Revelação do Tema
+Workshops de Inicialização
+(10:45 - 12:00) - Oficina Prática 1
+(10:45 - 11:45): Palestra Técnica 1
+(12:00 - 13:30): Almoço Livre
+12:00
+Início da Prototipação
+MENTORIAS TÉCNICAS
+(14:00 - 16:00)
+Plantão de Mentoria
+WORKSHOPS DE INICIALIZAÇÃO
+(14:30 - 16:00): Oficina Prática 2
+(16:30 - 17:15) – Lanche da Tarde
+(17:30 - 18:45) – Painel Temático
+(19:00 - 20:30): Checkpoint de Validação
+22:00 | Corujão Dev
 
-17/04
-7h30 – 8h30
-CAFÉ DA MANHÃ DOS HACKERS
-9h – 11h
-MINICURSO ESPECIAL
-Instrução de Inteligência Artificial Não Jogável: Da Teoria dos Grafos às Redes Neurais Rápidas com Patrícia Nogueira.
-9h – 10h15
-PALESTRA TÉCNICA 2
-Palestra intitulada Otimização de rotinas assíncronas e gerência eficiente de memória com Rust em infraestruturas distribuídas para jogos massivos ministrada por Fernando Albuquerque.
-Vagas limitadas!
-10h30 – 12h
-PLANTÃO DE MENTORIA
-Sessão de mentoria com ênfase em usabilidade e performance conduzida por Carlos Eduardo Viana e Aline Fonseca.
-12h – 13h30
-ALMOÇO DOS TIMES
-Patrocínio
-14h – 15h15
-PALESTRA TÉCNICA 3
-Apresentação da palestra Metodologias ágeis aplicadas ao desenvolvimento contínuo de artefatos digitais interativos sob forte restrição temporal e orçamentária conduzida por Mariana Xerez.
-14h – 16h30
-PLAYTEST GUIADO
-Testes cruzados de mecânica entre as equipes participantes supervisionados por Lucas Medeiros.
-16h30 – 17h
-PAUSA PARA GINÁSTICA LABORAL
-Atividade ergonômica e relaxamento com o fisioterapeuta Danilo Queiroz.
-18h – 20h
-PLANTÃO DE MENTORIA
-Revisão de pitching e preparação dos builds com Thiago Frota e Camila Brito.
-21h30
-CEIA NOTURNA
+17 • Abril
+(07:30 - 08:30): Café da Manhã dos Hackers
+(09:00 - 11:00): Minicurso Especial
+PALESTRAS AVANÇADAS
+(09:00 - 10:15) – Palestra Técnica 2
+Mentorias Técnicas
+(10:30 - 12:00)  Plantão de Mentoria
+(12:00 - 13:30)
+Almoço dos Times
+Palestras Avançadas
+(14:00 - 15:15) - Palestra Técnica 3
+(14:00 - 16:30) – Playtest Guiado
+(16:30 - 17:00)  Pausa para Ginástica Laboral
+Mentorias Técnicas
+(18:00 - 20:00) – Plantão de Mentoria
+21:30 – Ceia Noturna
 
-18/04
-0h
-SPRINT FINAL DE CÓDIGO
-Horário reservado para congelamento de escopo e finalização de bugs.
-7h30 – 8h30
-CAFÉ DA MANHÃ FINAL
-10h
-ENCERRAMENTO DAS SUBMISSÕES
-Bloqueio do repositório oficial e entrega de links de executáveis.
-Siga @agjcm nas redes sociais
-10h30 – 13h
-AVALIAÇÃO DA BANCA EXAMINADORA
-Avaliação técnica das submissões pelos jurados convidados Valéria Amazonas, Roberto Seixas e Dra. Juliana Guimarães.
-Vagas limitadas!
-10h30 – 13h
-MOSTRA PÚBLICA DE JOGOS
-Estandes com os projetos abertos à comunidade e visitantes externos para avaliação popular.
-13h – 14h30
-ALMOÇO DE CONFRATERNIZAÇÃO
-14h30 – 16h30
-APRESENTAÇÃO DOS FINALISTAS
-Apresentação curta em formato pitch das 10 melhores soluções da maratona e jogos da jam com mediação de Thiago Frota.
-17h – 18h30
-CERIMÔNIA DE PREMIAÇÃO E ENCERRAMENTO
-Divulgação dos vencedores de cada categoria e entrega dos troféus pelos organizadores Thiago Frota e Valéria Amazonas.
-www.agjcm.com.br
-
-Apoio:
-@agjcm
+18 • Abril
+00:00 – Sprint Final de Código
+(07:30 - 08:30)
+Café da Manhã Final
+10:00 – Encerramento das Submissões
+Avaliação dos Projetos
+(10:30 - 13:00): Avaliação da Banca Examinadora
+(10:30 - 13:00)
+Mostra Pública de Jogos
+(13:00 - 14:30)  Almoço de Confraternização
+(14:30 - 16:30) | Apresentação dos Finalistas
+(17:00 - 18:30) | Cerimônia de Premiação e Encerramento

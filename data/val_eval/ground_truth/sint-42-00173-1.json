@@ -1,100 +1,100 @@
 [
  {
-  "nome": "Recepção e Entrega de Crachás",
-  "lugar": null,
+  "nome": "RECEPÇÃO E ENTREGA DE CRACHÁS",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-14T08:00:00-03:00",
   "dataFim": "2026-05-14T09:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Palestra de Abertura",
-  "lugar": null,
+  "nome": "PALESTRA DE ABERTURA",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-14T09:00:00-03:00",
   "dataFim": "2026-05-14T10:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação do tema <i>Desafios e Oportunidades do Aprendizado Profundo no Agronegócio</i>, ministrada pelo <b>Dr. Marcos Aurelio Ribeiro</b> (UFV).</p>"
  },
  {
-  "nome": "Pausa para Café",
-  "lugar": null,
+  "nome": "PAUSA PARA CAFÉ",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-14T10:30:00-03:00",
   "dataFim": "2026-05-14T11:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão Técnica 1",
-  "lugar": null,
+  "nome": "SESSÃO TÉCNICA 1",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-14T11:00:00-03:00",
   "dataFim": "2026-05-14T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Coordenação de <b>Profa. Dra. Camila Antunes</b>. Apresentações: <i>Detecção de Pragas em Plantações Usando Redes Convolucionais</i> por <b>Felipe Duarte Santos</b>; <i>Otimização de Irrigação com Modelos Preditivos</i> por <b>Juliana Mendes Prado</b>.</p>"
  },
  {
-  "nome": "Almoço",
-  "lugar": null,
+  "nome": "ALMOÇO",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-14T12:30:00-03:00",
   "dataFim": "2026-05-14T14:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Minicurso A",
-  "lugar": null,
+  "nome": "MINICURSO A",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-14T14:00:00-03:00",
   "dataFim": "2026-05-14T17:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: <i>Visão Computacional na Prática com PyTorch e OpenCV</i>, conduzido por <b>Thiago Henrique Barbosa</b> e <b>Larissa Neves de Souza</b>.</p>"
  },
  {
-  "nome": "Minicurso B",
-  "lugar": null,
+  "nome": "MINICURSO B",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-14T14:00:00-03:00",
   "dataFim": "2026-05-14T17:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: <i>Processamento de Linguagem Natural com Transformers e Hugging Face</i>, ministrado pelo <b>Prof. Lucas Guimarães Carvalho</b>.</p>"
  },
  {
-  "nome": "Palestra",
-  "lugar": null,
+  "nome": "PALESTRA",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-15T08:30:00-03:00",
   "dataFim": "2026-05-15T10:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Exposição sobre <i>Modelos Fundacionais e a Nova Fronteira da Automação Industrial</i>, conduzida pela pesquisadora <b>Dra. Beatriz Nogueira Castro</b>.</p>"
  },
  {
-  "nome": "Intervalo",
-  "lugar": null,
+  "nome": "INTERVALO",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-15T10:00:00-03:00",
   "dataFim": "2026-05-15T10:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Sessão Técnica 2",
-  "lugar": null,
+  "nome": "SESSÃO TÉCNICA 2",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-15T10:30:00-03:00",
   "dataFim": "2026-05-15T12:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Coordenação de <b>Prof. Me. Rodrigo Teles Faria</b>. Apresentações de artigos selecionados na área de aprendizado por reforço e séries temporais.</p>"
  },
  {
-  "nome": "Almoço",
-  "lugar": null,
+  "nome": "ALMOÇO",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-15T12:00:00-03:00",
   "dataFim": "2026-05-15T13:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "Minicurso C",
-  "lugar": null,
+  "nome": "MINICURSO C",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-15T13:30:00-03:00",
   "dataFim": "2026-05-15T16:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: <i>Engenharia de Prompts e Agentes Autônomos com LangChain</i>, ministrado pelo especialista <b>Gabriel Rezende Moreira</b>.</p>"
  },
  {
-  "nome": "Minicurso D",
-  "lugar": null,
+  "nome": "MINICURSO D",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-15T13:30:00-03:00",
   "dataFim": "2026-05-15T16:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Tema: <i>MLOps: Deploy e Monitoramento de Modelos em Produção</i>, ministrado pelo engenheiro de dados <b>Vinícius Lopes da Costa</b>.</p>"
  },
  {
-  "nome": "Mesa-redonda de Encerramento",
-  "lugar": null,
+  "nome": "MESA-REDONDA DE ENCERRAMENTO",
+  "lugar": "CAMPUS UFV-FLORESTAL, FLORESTAL - MG",
   "dataInicio": "2026-05-15T16:45:00-03:00",
   "dataFim": "2026-05-15T18:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Debate intitulado <i>Ética, Regulação e Impactos Regionais da Inteligência Artificial em Minas Gerais</i> com participação de <b>Dra. Mariana Fontes Xavier</b>, <b>Prof. Carlos Eduardo Peixoto</b> e mediação de <b>Profa. Dra. Camila Antunes</b>.</p>"
  }
 ]

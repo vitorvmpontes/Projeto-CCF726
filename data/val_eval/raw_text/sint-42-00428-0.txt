@@ -1,30 +1,40 @@
-Jogos Universitários Baianos 2027
-Programação 2027
+Programação - Jogos Universitários Baianos 2027
+Edição 2027
 
-15/05
-Horário	Atividade
-das 7h30 às 9h	Retirada de Crachás e Kits das Delegações
-das 9h às 10h30	Desfile das Delegações e Cerimônia de Abertura
-das 10h45 às 12h15	Fase Preliminar - Voleibol Feminino
-das 10h45 às 12h	Partida Classificatória 1 - Futsal Masculino
-das 11h às 12h30	Eliminatórias dos 100m Rasos
-das 12h30 às 14h	Intervalo para Almoço
-das 14h às 16h	Oficina Prática
-das 14h às 15h30	Palestra
-das 15h45 às 17h15	Classificatórias - Basquetebol Masculino
-das 16h15 às 17h45	Etapa de Classificação - Handebol Feminino
-18h	Congresso Técnico das Modalidades Coletivas
-19h30	Show das Baterias Universitárias
+Sábado (15/05/2027)
+Horário	Atividade	Local	Descrição
+7h30 às 9h	Retirada de Crachás e Kits das Delegações	Hall do Ginásio Poliesportivo	Distribuição do material oficial e credenciais sob coordenação de Camila Peixoto.
+Patrocínio
+9h às 10h30	Desfile das Delegações e Cerimônia de Abertura	Quadra Principal do Ginásio	Entrada solene dos atletas, acendimento da pira e juramento dos atletas liderado por Matheus Nogueira e pronunciamento do presidente da federação Rodrigo Assis.
+10h45 às 12h15	Fase Preliminar - Voleibol Feminino	Quadra Poliesportiva B	Disputa entre UNEB e UCSAL, supervisionada pela delegada Tatiane Meireles.
+10h45 às 12h	Partida Classificatória 1 - Futsal Masculino	Quadra Poliesportiva A	Confronto entre as equipes da UFBA e UEFS, com arbitragem de Luciano Barreto.
+11h às 12h30	Eliminatórias dos 100m Rasos	Pista de Atletismo	Baterias classificatórias masculinas e femininas, coordenadas por Professor Valmir Silveira.
+12h30 às 14h	Intervalo para Almoço	Praça de Alimentação do Campus
+14h às 16h	Oficina Prática	Sala de Ginástica Artística	Oficina de Prevenção de Lesões Articulares em Esportes de Quadra ministrada pelo fisioterapeuta esportivo Bruno Guimarães.
+14h às 15h30	Palestra	Auditório de Educação Física	Apresentação intitulada Periodização e Fisiologia do Exercício em Atletas Universitários de Alto Rendimento proferida pela Dra. Fernanda Lacerda e mediada por Sérgio Antunes.
+15h45 às 17h15	Classificatórias - Basquetebol Masculino	Quadra Poliesportiva A	Partida eliminatória entre UNIFACS e IFBA sob arbitragem de Claudio Dantas.
+16h15 às 17h45	Etapa de Classificação - Handebol Feminino	Quadra Poliesportiva B	Jogo de estreia do grupo B com arbitragem coordenada por Renata Albuquerque.
+Siga @jub nas redes sociais
+18h	Congresso Técnico das Modalidades Coletivas	Sala Multiuso 2	Reunião de alinhamento com os técnicos e capitães, conduzida pelo diretor técnico Marcos Vinícius Prado.
+19h30	Show das Baterias Universitárias	Espaço Cultural Aberto	Apresentação das agremiações e baterias universitárias organizada pelo coordenador cultural Igor Santana.
+Realização:
 
-16/05
-Horário	Atividade
-das 8h30 às 9h45	Semifinal 1 - Futsal Feminino
-das 8h30 às 10h	Semifinal 2 - Voleibol Masculino
-das 10h15 às 12h	Finais da Natação - 50m Livre e Revezamento
-das 12h às 13h30	Almoço dos Atletas e Dirigentes
-das 13h30 às 15h	Disputa de 3º Lugar - Basquetebol Masculino
-das 14h30 às 16h	Grande Final - Handebol Feminino
-das 16h15 às 17h45	Grande Final - Futsal Masculino
-das 18h às 19h30	Cerimônia de Premiação e Entrega de Troféus
-das 19h30 às 20h15	Solenidade de Apagamento da Pira e Encerramento
-20h30	Confraternização Oficial dos Atletas
+Domingo (16/05/2027)
+Horário	Atividade	Local	Descrição
+8h30 às 9h45	Semifinal 1 - Futsal Feminino	Quadra Poliesportiva A	Primeira semifinal do torneio de futsal feminino sob supervisão de Tatiane Meireles.
+Vagas limitadas!
+8h30 às 10h	Semifinal 2 - Voleibol Masculino	Quadra Poliesportiva B	Confronto decisivo para a grande final do vôlei masculino conduzido pelo árbitro Luciano Barreto.
+10h15 às 12h	Finais da Natação - 50m Livre e Revezamento	Parque Aquático Universitário	Provas individuais e de equipes masculinas e femininas sob coordenação de Patrícia Castelo.
+12h às 13h30	Almoço dos Atletas e Dirigentes	Refeitório Central
+13h30 às 15h	Disputa de 3º Lugar - Basquetebol Masculino	Quadra Poliesportiva A	Disputa pela medalha de bronze coordenada pelo árbitro geral Claudio Dantas.
+14h30 às 16h	Grande Final - Handebol Feminino	Quadra Poliesportiva B	Disputa do título baiano universitário com apito de Renata Albuquerque.
+16h15 às 17h45	Grande Final - Futsal Masculino	Quadra Principal do Ginásio	Decisão do campeonato universitário masculino com comentários técnicos de Professor Valmir Silveira.
+Programação sujeita a alterações
+18h às 19h30	Cerimônia de Premiação e Entrega de Troféus	Quadra Principal do Ginásio	Outorga das medalhas gerais e troféu de campeão geral das atléticas por Rodrigo Assis e Camila Peixoto.
+Vagas limitadas!
+19h30 às 20h15	Solenidade de Apagamento da Pira e Encerramento	Quadra Principal do Ginásio	Pronunciamento oficial de fechamento conduzido por Rodrigo Assis.
+20h30	Confraternização Oficial dos Atletas	Área Verde do Centro Esportivo	Momento de integração entre atletas, comissão organizadora e torcidas sob mediação de Igor Santana.
+Programação sujeita a alterações
+
+Realização:
+@jub

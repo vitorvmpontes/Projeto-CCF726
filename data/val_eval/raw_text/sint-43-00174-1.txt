@@ -1,12 +1,11 @@
-Programação - Goiânia Dev Day 2024
-Edição 2024
+Goiânia Dev Day 2024
+Programação
+Programação 13/04/2024
+Local: INSTITUTO DE INFORMÁTICA - UFG
 
-Sábado, 13/04
-Horário	Atividade
-(09:00 - 10:00)	Keynote de Abertura
-#gdd2024
-(12:00 - 13:30)	Almoço
-13:30	Hackathon Relâmpago
-
-Apoio:
-@gdd
+09:00 às 10:00
+KEYNOTE DE ABERTURA
+12:00 às 13:30
+ALMOÇO
+13:30
+HACKATHON RELÂMPAGO

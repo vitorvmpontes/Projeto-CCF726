@@ -1,35 +1,35 @@
 [
  {
   "nome": "Abertura do Hackathon",
-  "lugar": "Palco Principal",
+  "lugar": "Armazém 5 - Píer Mauá",
   "dataInicio": "2024-11-09T09:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "Palestra Observabilidade em Escala",
-  "lugar": "Palco 2",
+  "lugar": "Armazém 5 - Píer Mauá",
   "dataInicio": "2024-11-09T10:00:00-03:00",
   "dataFim": "2024-11-09T11:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Palestra Open Finance na Prática",
-  "lugar": "Palco Principal",
+  "lugar": "Armazém 5 - Píer Mauá",
   "dataInicio": "2024-11-09T10:00:00-03:00",
   "dataFim": "2024-11-09T11:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "Entrega dos Projetos",
-  "lugar": null,
+  "lugar": "Armazém 5 - Píer Mauá",
   "dataInicio": "2024-11-10T12:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "Pitch Final e Premiação",
-  "lugar": "Palco Principal",
+  "lugar": "Armazém 5 - Píer Mauá",
   "dataInicio": "2024-11-10T14:00:00-03:00",
   "dataFim": "2024-11-10T17:00:00-03:00",
   "descricao": null

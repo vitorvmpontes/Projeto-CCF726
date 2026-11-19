@@ -2,97 +2,73 @@ HACKJAM LONDRINA 2025: MARATONA DE INOVAÇÃO E JOGOS DIGITAIS
 Hub de Inovação de Londrina e Centro de Tecnologia Integrada
 PROGRAMAÇÃO
 
-Dia 1 - 16/05
-14h00 - 15h30
-CHECK-IN E ENTREGA DE KITS
-15h30 - 16h30
-CERIMÔNIA DE ABERTURA
-Apresentação das regras gerais, anúncio dos desafios temáticos e revelação dos modificadores especiais da jam com Mariana Castro e Carlos Eduardo Pires.
-CICLO DE PALESTRAS
-16h30 - 17h30
-PALESTRA
-Palestra de abertura com Guilherme Dorneles abordando o tema Arquitetura de Jogos Independentes em Ciclos Curtos de Produção.
-17h30 - 18h30
-FORMAÇÃO DE EQUIPES E BRAINSTORMING
-Dinâmica para conexão de participantes avulsos e consolidação dos times com mediação de Beatriz Nogueira.
-18h30 - 19h00
-INÍCIO OFICIAL DO HACKING E GAME JAM
-Liberação dos acessos aos repositórios e início da contagem regressiva para o desenvolvimento.
-WORKSHOPS TÉCNICOS
-19h30 - 21h00
-OFICINA 1
-Oficina prática com Lucas Marcondes sobre Prototipagem Rápida na Godot Engine 4.
-19h30 - 21h00
-OFICINA 2
-Capacitação ministrada por Vanessa Zanin explorando Desenvolvimento de APIs RESTful Ágeis com FastAPI.
-21h00 - 22h30
-JANTAR DOS COMPETIDORES
-Sessões de Mentoria
-23h00 - 01h00
-PLANTÃO NOTURNO DE MENTORIA
-Sessão de suporte técnico e validação de escopo com os mentores Felipe Rangel e Sabrina Alencar.
+SEXTA-FEIRA - 16/05/25
+Horário
+Atividade
+das 14h00 às 15h30
+Check-in e Entrega de Kits
+das 15h30 às 16h30
+Cerimônia de Abertura
+das 16h30 às 17h30
+Palestra
+das 17h30 às 18h30
+Formação de Equipes e Brainstorming
+das 18h30 às 19h00
+Início Oficial do Hacking e Game Jam
+das 19h30 às 21h00
+Oficina 1
+das 19h30 às 21h00
+Oficina 2
+das 21h00 às 22h30
+Jantar dos Competidores
+das 23h00 às 01h00
+Plantão Noturno de Mentoria
 
-Dia 2 - 17/05
-07h30 - 08h30
-CAFÉ DA MANHÃ
-Workshops Técnicos
-09h00 - 10h30
-OFICINA 3
-Treinamento conduzido por Thiago Sampaio sob o tema Pipeline de Animação 2D e Pixel Art para Jogos de Ação.
-09h00 - 10h30
-OFICINA 4
-Apresentação prática de Juliana Meireles focada em Deploy Contínuo e Conteinerização com Docker para Microsserviços.
-10h30 - 11h00
-PAUSA ENERGÉTICA
-CICLO DE PALESTRAS
-11h00 - 12h30
-MESA-REDONDA
-Debate intitulado O Ecossistema de Jogos no Paraná: Oportunidades e Financiamento, com os debatedores Otávio Mendes, Camila Barreto e mediação de Roberto Antunes.
-12h30 - 14h00
-ALMOÇO
-Sessões de Mentoria
-14h30 - 16h00
-MENTORIA ESPECIALIZADA EM
-BACKEND E CLOUD
-Revisão de infraestrutura e otimização de bancos de dados com a arquiteta de software Patrícia Guimarães.
-14h30 - 16h00
-MENTORIA ESPECIALIZADA EM GAME DESIGN
-Atendimento individualizado para balanceamento de mecânicas com o especialista André Furtado.
-16h30 - 17h30
-CHECK-IN DE PROGRESSO
-Submissão parcial obrigatória de build inicial e descrição da solução.
-Ciclo de Palestras
-18h00 - 19h00
-PALESTRA TÉCNICA
-Apresentação de Renato Godoy com a palestra Design de Áudio Procedural para Jogos Imersivos.
-19h30 - 21h00
-JANTAR DOS COMPETIDORES
-22h00 - 02h00
-MADRUGADA DO CÓDIGO E PLAYTEST ABERTO
-Sessão interativa de troca de feedbacks rápidos e testes cruzados entre equipes, coordenada por Danilo Queiroz.
+SÁBADO - 17/05/25
+Horário
+Atividade
+das 07h30 às 08h30
+Café da Manhã
+das 09h00 às 10h30
+Oficina 3
+das 09h00 às 10h30
+Oficina 4
+das 10h30 às 11h00
+Pausa Energética
+das 11h00 às 12h30
+Mesa-redonda
+das 12h30 às 14h00
+Almoço
+das 14h30 às 16h00
+Mentoria Especializada em Backend
+e Cloud
+das 14h30 às 16h00
+Mentoria Especializada em Game Design
+das 16h30 às 17h30
+Check-in de Progresso
+das 18h00 às 19h00
+Palestra Técnica
+das 19h30 às 21h00
+Jantar dos Competidores
+das 22h00 às 02h00
+Madrugada do Código e Playtest Aberto
 
-Dia 3 - 18/05
-07h30 - 08h30
-CAFÉ DA MANHÃ
-10h00 - 10h30
-ENCERRAMENTO DOS ENVIOS
-Congelamento dos repositórios e entrega final de documentação e builds jogáveis.
-BANCAS DE AVALIAÇÃO
-10h30 - 12h00
-SESSÃO DE PITCH DE SOFTWARE
-Apresentação das soluções de código e arquitetura de software para a banca composta por Gustavo Henrique Silva e Evelyn Prado.
-10h30 - 12h00
-SESSÃO DE PLAYTEST DA BANCA
-Avaliação técnica e experimentação dos jogos desenvolvidos pelos jurados Larissa Fontes e Marcelo Vianna.
-12h00 - 13h30
-ALMOÇO
-13h30 - 15h30
-FEIRA DE DEMONSTRAÇÃO E MOSTRA PÚBLICA
-Estandes abertos à comunidade externa para teste de protótipos e votação popular.
-Encerramento e Premiação
-16h00 - 17h30
-APRESENTAÇÃO DOS FINALISTAS
-Apresentação rápida dos 5 melhores projetos selecionados pela comissão julgadora, com comentários de Diego Medeiros.
-17h30 - 18h30
-CERIMÔNIA DE PREMIAÇÃO E ENCERRAMENTO
-Divulgação dos vencedores das categorias técnica, design e júri popular, com encerramento por Mariana Castro.
+DOMINGO - 18/05/25
+Horário
+Atividade
+das 07h30 às 08h30
+Café da Manhã
+das 10h00 às 10h30
+Encerramento dos Envios
+das 10h30 às 12h00
+Sessão de Pitch de Software
+das 10h30 às 12h00
+Sessão de Playtest da Banca
+das 12h00 às 13h30
+Almoço
+das 13h30 às 15h30
+Feira de Demonstração e Mostra Pública
+das 16h00 às 17h30
+Apresentação dos Finalistas
+das 17h30 às 18h30
+Cerimônia de Premiação e Encerramento

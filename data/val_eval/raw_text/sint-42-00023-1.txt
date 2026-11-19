@@ -1,29 +1,29 @@
 Programação - XII Congresso Brasileiro de Engenharia de Recursos Hídricos e Saneamento Ambiental
 Edição 2023
+17 de novembro de 2023
 
-Sexta-feira (17/11/2023)
 Horário
 Atividade
 Local
-08h30 às 10h00
+08:30 - 10:00
 Sessão Plenária de Abertura
 Auditório Professor Ulysses de Campos
 Abertura oficial com a conferência Desafios contemporâneos para a governança das bacias hidrográficas sob a perspectiva das mudanças climáticas globais e da segurança hídrica regional, ministrada pelo Prof. Dr. Marcos Vinicius Silveira.
-10h30 às 12h00
+10:30 - 12:00
 Sessão Técnica 1
 Sala Multiuso 102
 Apresentação oral de artigos científicos sob coordenação da Dra. Camila Nogueira Furtado. Artigo em destaque: Avaliação da eficiência de biorreatores de membrana aplicados ao tratamento de efluentes sanitários urbanos com ênfase na remoção de fármacos, por Lucas Medeiros Duarte e Beatriz Mendonça Ramos.
-10h30 às 12h00
+10:30 - 12:00
 Sessão Técnica 2
 Sala Multiuso 104
 Apresentação oral de artigos de modelagem hidrológica coordenada pelo Prof. Roberto Fagundes Cordeiro. Artigo em destaque: Simulação hidrodinâmica bidimensional em áreas úmidas urbanas, apresentado por Juliana Costa Valença.
-12h00 às 13h30
+12:00 - 13:30
 Almoço Livre
-13h30 às 15h00
+13:30 - 15:00
 Palestra Técnica
 Auditório Professor Ulysses de Campos
 Apresentação do estudo especial intitulado Modelagem matemática integrada de escoamento superficial urbano e sistemas de drenagem sustentável como estratégia resiliente para mitigação de inundações, conduzida pelo Eng. Fernando Augusto Paes e pela Dra. Helena Barcellos Martins.
-15h30 às 17h30
+15:30 - 17:30
 Sessão de Painéis e Encerramento
 Hall do Prédio de Engenharia Hidráulica
 Exposição dos pôsteres acadêmicos avaliados pela comissão liderada pelo Dr. Thiago Rezende Sampaio, seguida pela cerimônia de premiação dos melhores trabalhos e encerramento do evento.

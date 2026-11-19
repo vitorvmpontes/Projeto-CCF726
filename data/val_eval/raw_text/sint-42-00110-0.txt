@@ -3,73 +3,27 @@ Departamento de Informática - Universidade Federal de Viçosa (UFV), Viçosa - 
 PROGRAMAÇÃO
 
 Quinta-feira (17/10/2024)
-Horário
-Atividade
-Local
-das 08h00 às 09h00
-Recepção e Entrega de Kits
-Hall do Edifício Arthur Bernardes
-das 09h00 às 09h40
-Cerimônia de Abertura
-Auditório Principal
-Abertura oficial com a coordenadora geral Dra. Sabrina Silveira e boas-vindas da comissão organizadora das Meninas Digitais UFV.
+Horário | Atividade | Descrição
+08h00 às 09h00 | Recepção e Entrega de Kits
+09h00 às 09h40 | Cerimônia de Abertura | Abertura oficial com a coordenadora geral Dra. Sabrina Silveira e boas-vindas da comissão organizadora das Meninas Digitais UFV.
 PALESTRAS
-das 09h40 às 10h50
-Palestra de Abertura
-Auditório Principal
-Palestra intitulada Quebrando Barreiras: A Trajetória Feminina na Ciência de Dados e Inteligência Artificial ministrada por Dra. Clarice de Almeida Faria.
-das 10h50 às 11h20
-Pausa para Café e Conexões
-Área de Convivência Externa
-das 11h20 às 12h30
-Painel de Discussão
-Auditório Principal
-Debate sobre Permanência e Representatividade de Gênero na Pós-Graduação em Computação, mediado por Profa. Mirella Martins Moro com as debatedoras Beatriz Guimarães e Luciana Pereira.
-das 12h30 às 14h00
-Intervalo de Almoço
-Workshops e Oficinas
-das 14h00 às 17h00
-Oficina Prática 1
-Laboratório de Computação 2
-Oficina Desenvolvimento Web Inclusivo com Foco em Acessibilidade Digital, conduzida pela instrutora Renata Vasconcelos.
-das 14h00 às 17h00
-Oficina Prática 2
-Laboratório de Redes
-Oficina Introdução à Cibersegurança Defensiva e Análise Forense, ministrada pela especialista Mariana Fontes.
-das 17h00 às 18h30
-Sessão de Pôsteres e Projetos
-Hall do Edifício Arthur Bernardes
-Apresentação de trabalhos acadêmicos de graduação e pós-graduação sob coordenação de Camila Duarte de Resende.
+09h40 às 10h50 | Palestra de Abertura | Palestra intitulada Quebrando Barreiras: A Trajetória Feminina na Ciência de Dados e Inteligência Artificial ministrada por Dra. Clarice de Almeida Faria.
+10h50 às 11h20 | Pausa para Café e Conexões
+11h20 às 12h30 | Painel de Discussão | Debate sobre Permanência e Representatividade de Gênero na Pós-Graduação em Computação, mediado por Profa. Mirella Martins Moro com as debatedoras Beatriz Guimarães e Luciana Pereira.
+12h30 às 14h00 | Intervalo de Almoço
+WORKSHOPS E OFICINAS
+14h00 às 17h00 | Oficina Prática 1 | Oficina Desenvolvimento Web Inclusivo com Foco em Acessibilidade Digital, conduzida pela instrutora Renata Vasconcelos.
+14h00 às 17h00 | Oficina Prática 2 | Oficina Introdução à Cibersegurança Defensiva e Análise Forense, ministrada pela especialista Mariana Fontes.
+17h00 às 18h30 | Sessão de Pôsteres e Projetos | Apresentação de trabalhos acadêmicos de graduação e pós-graduação sob coordenação de Camila Duarte de Resende.
 
 Sexta-feira (18/10/2024)
-Horário
-Atividade
-Local
+Horário | Atividade | Descrição
 Palestras
-das 09h00 às 10h15
-Palestra Técnica
-Auditório Principal
-Apresentação da palestra Computação Quântica: Fundamentos e Oportunidades Emergentes, apresentada por Dra. Kelly Cristina Paim.
-das 10h30 às 12h00
-Pitch de Ideias e Startups
-Auditório Principal
-Apresentação rápida de projetos empreendedores liderados por mulheres, com avaliação das mentoras Flávia Ramos e Ingrid Brandão.
-das 12h00 às 13h30
-Intervalo de Almoço
-Minicursos
-das 13h30 às 16h30
-Minicurso 1
-Laboratório de Computação 1
-Atividade prática Processamento de Linguagem Natural com Transformers em Python, facilitada por Carla Regina Mendonça.
-das 13h30 às 16h30
-Minicurso 2
-Laboratório Multimídia
-Atividade prática Design de Interfaces e Experiência do Usuário (UI/UX) para Sistemas Complexos, com a designer Juliana Nogueira Lima.
-das 16h45 às 18h00
-Mesa de Encerramento
-Auditório Principal
-Mesa com tema Futuro do Trabalho na Tecnologia e Liderança Feminina com participação de Aline Siqueira, Patrícia Gonçalves e mediação de Dra. Sabrina Silveira.
-das 18h00 às 18h45
-Premiação e Fechamento
-Auditório Principal
-Entrega das menções honrosas aos melhores trabalhos e anúncios para o próximo ano com Dra. Sabrina Silveira.
+09h00 às 10h15 | Palestra Técnica | Apresentação da palestra Computação Quântica: Fundamentos e Oportunidades Emergentes, apresentada por Dra. Kelly Cristina Paim.
+10h30 às 12h00 | Pitch de Ideias e Startups | Apresentação rápida de projetos empreendedores liderados por mulheres, com avaliação das mentoras Flávia Ramos e Ingrid Brandão.
+12h00 às 13h30 | Intervalo de Almoço
+MINICURSOS
+13h30 às 16h30 | Minicurso 1 | Atividade prática Processamento de Linguagem Natural com Transformers em Python, facilitada por Carla Regina Mendonça.
+13h30 às 16h30 | Minicurso 2 | Atividade prática Design de Interfaces e Experiência do Usuário (UI/UX) para Sistemas Complexos, com a designer Juliana Nogueira Lima.
+16h45 às 18h00 | Mesa de Encerramento | Mesa com tema Futuro do Trabalho na Tecnologia e Liderança Feminina com participação de Aline Siqueira, Patrícia Gonçalves e mediação de Dra. Sabrina Silveira.
+18h00 às 18h45 | Premiação e Fechamento | Entrega das menções honrosas aos melhores trabalhos e anúncios para o próximo ano com Dra. Sabrina Silveira.

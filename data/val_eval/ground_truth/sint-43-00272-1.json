@@ -1,20 +1,20 @@
 [
  {
-  "nome": "RECEPÇÃO DOS CALOUROS",
+  "nome": "Recepção dos Calouros",
   "lugar": null,
   "dataInicio": "2027-03-15T08:00:00-03:00",
   "dataFim": "2027-03-15T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "TOUR PELO CAMPUS",
+  "nome": "Tour pelo Campus",
   "lugar": null,
   "dataInicio": "2027-03-15T10:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
-  "nome": "TROTE SOLIDÁRIO",
+  "nome": "Trote Solidário",
   "lugar": null,
   "dataInicio": "2027-03-16T08:00:00-03:00",
   "dataFim": null,

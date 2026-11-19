@@ -1,69 +1,56 @@
 IX Encontro Cearense de Mulheres na Tecnologia da Informação e Computação 2026
 Programação
 
-13 de maio
-(8h - 9h)
-CREDENCIAMENTO E BOAS-VINDAS
-(9h - 10h)
-SESSÃO SOLENE DE ABERTURA
-(10h - 11h15)
-PALESTRA INAUGURAL
-(11h15 - 11h45)
-INTERVALO PARA CAFÉ
-(11h45 - 13h)
-PAINEL TEMÁTICO 1
-(13h - 14h30)
-PAUSA PARA ALMOÇO
-(14h30 - 16h)
-SESSÃO TÉCNICA 1
-(16h - 17h15)
-PALESTRA TÉCNICA 1
-17h15
-MOSTRA DE PROJETOS DE INICIAÇÃO
-CIENTÍFICA
+13 • Maio
+Horário | Atividade | Local | Descrição
+8h - 9h | Credenciamento e Boas-Vindas | Foyer Principal | Recepção das participantes, entrega *de c rachás e kits do evento.
+9h - 10h | Sessão Solene de Abertura | Auditório Rachel de Queiroz | Abertura oficial com a coordenadora-geral Camila Frota Aluquerque e represetantes institucionais da UFC e IFCE.
+PALESTRAS PRINCIPAIS
+10h - 11h15 | Palestra Inaugural | Auditório Rachel de Queiroz | Apresentação de Liderança Feminina e Inovação Tenológica na Transformação Digital do Nordeste ministrada por Mariana Paiva Vasconcelos.
+11h15 - 11h45 | Intervalo para Café | Foyer Principal
+PAINÉIS E DEBATES
+11h45 - 13h | Painel Temático 1 | Auditório Rachel de Queiroz | Discussão sobre Transição de Carreira e Desafios de Permanência Feminina na Indústria de Software com Juliana Bezerra Sales, Tereza Cristina Ramos e mediação de Débora Alencar Rios.
+13h - 14h30 | Pausa para Almoço
+Comunicações Orais
+14h30 - 16h | Sessão Técnica 1 | Sala Icapuí | Apresentações de artios sobre Engenharia de Software e Algoritmos. Coordenação da professora Beatriz Pontes Moreira.
+PALESTRAS PRINCIPAIS
+16h - 17h15 | Palestra Técnica 1 | Auditório Rachel de Queiroz | Palestra intitulada Uma Abordagem Prátic*a sobre Governança de Algoritmos Preditivos para Reduçãode Disparidades de Gênero em Sistemas Digitais com Letícia Nogueira Dantas.
+17h15 | Mostra de Projetos de Iniciação Científica | Hall de Exposições | Apresentação em formato de pôsteres com avaliação conduzida por Roberta Saraiva Macedo e Emanuela Go|mes Vieira.
 
-14 de maio
-(8h30 - 10h30)
-OFICINA PRÁTICA 1
-(10h30 - 11h)
-LANCHE DA MANHÃ
-(11h - 12h30)
-MESA-REDONDA
-(12h30 - 14h)
-ALMOÇO LIVRE
-(14h - 16h)
-OFICINA PRÁTICA 2
-(16h - 17h30)
-SESSÃO TÉCNICA 2
-17h30
-RODA DE CONVERSA COM STARTUPS
+14 • Maio
+Horário | Atividade | Local | Descrição
+Oficinas e Minicursos
+8h30 - 10h30 | Oficina Prática 1 | Laboratório de Informática A | Atividade sobre Construindo Modelos de Linguagem para Tarefas Específicas com Python e Bibliotecas Open Source cnduzida por Aline Menezes Holanda.
+10h30 - 11h | Lanche da Manhã | Foyer Principal
+PAINÉIS E DEBATES
+11h - 12h30 | Mesa-Redonda | Auditório Rachel de Queiroz | Mesa com o tema Mulheres Negras e Indígenas nas Ciências Exatas c om as debatedoras Joan Darc Oliveira e Taís Pankararu Costa sob moderação de Nádia Peixoto Barrto.
+12h30 - 14h | Almoço Livre
+OFICINAS E MINICURSOS
+14h - 16h | Oficina Prática 2 | Laboratório de Informática B | Atividade prática Introdução ao Desnvlvimento Web Acessível para  Pessoas com Deficiência Visual facilitada por Priscila agalhães Cruz.
+COMUNICAÇÕES ORAIS
+16h - 17h30 | Sessão Técnica 2 | Sala Icapuí | Apresentações de pesquisas em Inteligência Artificial e Ciência de Dados com mediação de Renata Pimentel Fontes.
+17h30 | Roda de Conversa com Startups | Espaço Inovação | Bate-papo informal entre fundadoras locais de startups de tecnologia e graduandas. Participação de Sofia Castello Branco e Lorena Martins Pires.
 
-15 de maio
-(8h30 - 11h)
-MINICURSO AVANÇADO
-(11h - 11h30)
-PAUSA PARA CAFÉ
-(11h30 - 13h)
-PAINEL TEMÁTICO 2
-(13h - 14h30)
-INTERVALO DE ALMOÇO
-(14h30 - 16h)
-SESSÃO TÉCNICA 3
-(16h - 17h15)
-PALESTRA TÉCNICA 2
-17h15
-SESSÃO RELÂMPAGO DE IDEIAS
+15 • Maio
+Horário | Atividade | Local | Descrição
+Oficinas e Minicursos
+8h30 - 11h | Minicurso Avançado | Laboratório de Informática A | Treinamento intensivo sobre Arquiteturas Seguras em Nuvem e Resiliência Operacional para Ambient*es ríticos Corporativos* ministrado pela especialista Carla Antunes M*endonça.
+11h - 11h30 | Pausa para Café | Foyer Principal
+Painéis e Debates
+11h30 - 13h | Painel Temático 2 | Auditório Rachel de Queiroz | Discussão sobr|e Pós-graduação e Carreira cadêrnica: Conciliação entre Maternidade e Pesquisa Científica com Patrícia Carvalho Moura, Viviane Chaves Lins e Erika Meireles Gadelha.
+13h - 14h30 | Intervalo de Almoço
+COMUNICAÇÕES ORAIS
+14h30 - 16h | Sessão Técnica 3 | Sala Icapuí | Trabalhos em Intcração Humano-Computador e Robótica Educacional apresentados por pesquisadoras júniores, avaliados por Heloísa Aragão Silva.
+PALESTRAS PRINCIPAIS
+16h - 17h15 | Palestra Técnica 2 | Auditório Rachel de Queiroz | Palestra Computação Quntica e Novos Horizontes Criptográficos proferida pela pesquisadora Fabiana Araripe Sobral.
+17h15 | Sessão Relâmpago de Ideias | Auditório Rachel de Queiroz | Apresentções rápidas de 5 minutos sobre projetos de extensão comunitária com mediaçãode Tatiana Figueiredo Neves.
 
-16 de maio
-(8h30 - 11h)
-HACKATHON ELAS NA COMPUTAÇÃO
-(11h - 11h30)
-COFFEE BREAK DE ENCERRAMENTO
-(11h30 - 12h45)
-PALESTRA DE ENCERRAMENTO
-(12h45 - 13h30)
-PREMIAÇÃO DOS MELHORES TRABALHOS
-(13h30 - 14h)
-CERIMÔNIA DE ENCERRAMENTO
-14h
-APRESENTAÇÃO CULTURAL
+16 • Maio
+Horário | Atividade | Local | Descrição
+8h30 - 11h | Hackathon Elas na Computação | Espaço Multiuso | Maratona colaborativa de desenvolvimento focad*a em soluções cívicas municipais para Fortaleza. Mentoria de Isabela Furtado Siqueira e Gislc Cuna Arruda.
+11h - 11h30 | Coffee Break de Encerramento | Foyer Principal
+PALESTRAS PRINCIPAIS
+11h30 - 12h45 | Palestra de Encerramento | Auditório Rachel de Queiroz | Conferência A Construção Coletiva de Redes Femininas de Apoio e o Futuro da Tecnologia Aberta no Brasil| com adiretora de tecnologia Monique Batita Bradão.
+12h45 - 13h30 | Premiação dos Melhores Trabalhos | Auditório Rachel de Queiroz | Divulgação dos resultados d Hackathon  das sessões técnicas com entrega de certificados por Camila Frota Albuquerque e Beatriz Pon tes Moreira.
+13h30 - 14h | Cerimônia de Encerramento | Auditório Rachel de Queiroz | Considerações finais da comissão organizadora e anúncio da sede para a edição de 2027.
+14h | Apresentação Cultural | Espaço Aberto de Convivência | Show com o grupo feminino de percussão e forró tradicional liderado por Clarisse Feitosa Peixoto.

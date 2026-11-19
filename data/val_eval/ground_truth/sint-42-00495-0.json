@@ -1,70 +1,70 @@
 [
  {
-  "nome": "CERIMÔNIA DE ABERTURA",
-  "lugar": "Palco Principal",
+  "nome": "Cerimônia de Abertura",
+  "lugar": null,
   "dataInicio": "2024-05-16T09:00:00-03:00",
   "dataFim": "2024-05-16T10:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PALESTRA MAGNA",
-  "lugar": "Palco Principal",
+  "nome": "Palestra Magna",
+  "lugar": null,
   "dataInicio": "2024-05-16T10:30:00-03:00",
   "dataFim": "2024-05-16T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "OFICINA PRÁTICA 1",
-  "lugar": "Espaço Conexões - Sala B",
+  "nome": "Oficina Prática 1",
+  "lugar": null,
   "dataInicio": "2024-05-16T14:30:00-03:00",
   "dataFim": "2024-05-16T16:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "SESSÃO DE NETWORKING E NEGÓCIOS",
-  "lugar": "Arena Sebrae Delas",
+  "nome": "Sessão de Networking e Negócios",
+  "lugar": null,
   "dataInicio": "2024-05-16T17:00:00-03:00",
   "dataFim": "2024-05-16T18:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PAINEL TEMÁTICO",
-  "lugar": "Auditório Inovação",
+  "nome": "Painel Temático",
+  "lugar": null,
   "dataInicio": "2024-05-17T10:00:00-03:00",
   "dataFim": "2024-05-17T11:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "OFICINA PRÁTICA 2",
-  "lugar": "Espaço Conexões - Sala A",
+  "nome": "Oficina Prática 2",
+  "lugar": null,
   "dataInicio": "2024-05-17T14:00:00-03:00",
   "dataFim": "2024-05-17T16:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PITCH DE STARTUPS",
-  "lugar": "Arena Sebrae Delas",
+  "nome": "Pitch de Startups",
+  "lugar": null,
   "dataInicio": "2024-05-17T16:30:00-03:00",
   "dataFim": "2024-05-17T18:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "PALESTRA SETORIAL",
-  "lugar": "Auditório Inovação",
+  "nome": "Palestra Setorial",
+  "lugar": null,
   "dataInicio": "2024-05-18T10:30:00-03:00",
   "dataFim": "2024-05-18T12:00:00-03:00",
   "descricao": null
  },
  {
-  "nome": "CONSULTORIA COLETIVA",
-  "lugar": "Espaço Conexões - Sala B",
+  "nome": "Consultoria Coletiva",
+  "lugar": null,
   "dataInicio": "2024-05-18T14:00:00-03:00",
   "dataFim": "2024-05-18T15:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "SHOWCASE DE ENCERRAMENTO",
-  "lugar": "Palco Principal",
+  "nome": "Showcase de Encerramento",
+  "lugar": null,
   "dataInicio": "2024-05-18T16:30:00-03:00",
   "dataFim": "2024-05-18T18:00:00-03:00",
   "descricao": null

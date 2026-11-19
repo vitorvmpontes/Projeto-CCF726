@@ -1,0 +1,41 @@
+{
+  "rodada": "e2b-r1",
+  "modelo_base": "unsloth/gemma-4-E2B-it",
+  "commit_repo": "dea4fe2",
+  "max_seq": 8192,
+  "lora_r": 16,
+  "lora_alpha": 16,
+  "lr": 0.0002,
+  "epocas": 2,
+  "batch_efetivo": 8,
+  "warmup": 0.05,
+  "semente": 3407,
+  "exemplos_treino": 1348,
+  "removidos_por_tamanho": 9,
+  "tokens": {
+    "treino": {
+      "p50": 1442,
+      "p95": 5552,
+      "p99": 7512,
+      "max": 9048
+    },
+    "val": {
+      "p50": 1359,
+      "p95": 4150,
+      "p99": 5946,
+      "max": 6960
+    },
+    "resposta_treino": {
+      "p50": 961,
+      "p95": 3839,
+      "max": 6076
+    },
+    "tokens_treino_total": 2793628
+  },
+  "duracao_min": 187.9,
+  "pico_memoria_gb": 11.9,
+  "gpu": "Tesla T4",
+  "melhor_checkpoint": "/content/checkpoints/checkpoint-294",
+  "melhor_eval_loss": 0.0020865267142653465,
+  "train_loss_final": 0.005579226492551437
+}

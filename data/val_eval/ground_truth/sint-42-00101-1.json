@@ -1,41 +1,41 @@
 [
  {
-  "nome": "ORAÇÃO DA MANHÃ E ACOLHIDA",
+  "nome": "Oração da Manhã e Acolhida",
   "lugar": null,
   "dataInicio": "2024-05-18T08:30:00-03:00",
   "dataFim": "2024-05-18T09:15:00-03:00",
   "descricao": "<p>Momento inicial de reflexão e cantos conduzido por <b>Frei Almir Ribeiro</b>.</p>"
  },
  {
-  "nome": "OFICINA DE ESCUTA FRATERNA",
-  "lugar": null,
+  "nome": "Oficina de Escuta Fraterna",
+  "lugar": "Sala São Damião",
   "dataInicio": "2024-05-18T09:30:00-03:00",
   "dataFim": "2024-05-18T11:30:00-03:00",
   "descricao": "<p>Treinamento prático sobre acolhimento comunitário e diálogo empático com a psicóloga <b>Regina Helena Cordeiro</b>, abordando a temática <i>A arte da presença no cuidado pastoral</i>.</p>"
  },
  {
-  "nome": "OFICINA DE HORTAS COMUNITÁRIAS",
-  "lugar": null,
+  "nome": "Oficina de Hortas Comunitárias",
+  "lugar": "Pátio São Francisco",
   "dataInicio": "2024-05-18T09:30:00-03:00",
   "dataFim": "2024-05-18T11:30:00-03:00",
   "descricao": "<p>Técnicas de cultivo agroecológico em pequenos espaços sob orientação do agrônomo <b>Tiago Zanetti</b>.</p>"
  },
  {
-  "nome": "ALMOÇO PARTILHADO",
+  "nome": "Almoço Partilhado",
   "lugar": null,
   "dataInicio": "2024-05-18T12:00:00-03:00",
   "dataFim": "2024-05-18T13:30:00-03:00",
   "descricao": null
  },
  {
-  "nome": "OFICINA DE ESCUTA FRATERNA",
-  "lugar": null,
+  "nome": "Oficina de Escuta Fraterna",
+  "lugar": "Salão Clara de Assis",
   "dataInicio": "2024-05-18T14:00:00-03:00",
   "dataFim": "2024-05-18T16:00:00-03:00",
   "descricao": "<p>Segunda turma da capacitação em acolhimento pastoral conduzida por <b>Regina Helena Cordeiro</b> com foco no tema <i>A arte da presença no cuidado pastoral</i>.</p>"
  },
  {
-  "nome": "MISSA DE ENVIO E BÊNÇÃO DAS FAMÍLIAS",
+  "nome": "Missa de Envio e Bênção das Famílias",
   "lugar": null,
   "dataInicio": "2024-05-18T16:30:00-03:00",
   "dataFim": "2024-05-18T18:00:00-03:00",

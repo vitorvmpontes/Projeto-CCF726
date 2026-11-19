@@ -1,32 +1,65 @@
-Curitiba DevJam 2024: Hackathon & Game Jam
-Programação
+Programação - Curitiba DevJam 2024: Hackathon & Game Jam
+Edição 2024
 
-Sábado, 19/10
-Horário | Atividade | Local | Descrição
-8h - 9h | Check-in e Boas-Vindas | Hall Principal
-9h - 9h40 | Cerimônia de Abertura e Revelação do Tema | Auditório Araucária | Apresentação das regras gerais, critérios de avaliação e anúncio oficial do tema secreto da maratona conduzida pelos coordenadores gerais Lucas Silveira e Camila Matsubara.
-9h45 - 10h45 | Oficina Técnica 1 | Laboratório Beta | A oficina abordará o tema Prototipagem Rápida em Godot Engine 4, ministrada pelo desenvolvedor Rodrigo Castanho.
-9h45 - 10h45 | Oficina Técnica 2 | Laboratório Gama | Instruções práticas sobre Pipelines Ágeis e Deploy Automatizado de APIs em Nuvem com o instrutor Felipe Fagundes.
-Vagas limitadas!
-11h | Início da Maratona de Desenvolvimento | Espaço Makers | Liberação dos ambientes de trabalho e início do cronômetro de 30 horas ininterruptas de desenvolvimento de jogos e softwares.
-Certificado de participação
-12h30 - 13h30 | Almoço Livre
-14h30 - 16h30 | Ronda de Mentoria 1 | Espaço Makers | Acompanhamento e validação das ideias iniciais conduzido pela coordenadora de mentoria Priscila Neves, contando com os mentores especialistas André Vianna e Guilherme Dornelles.
-17h - 18h30 | Mostra de Estudos de Caso Independentes | Auditório Araucária | Apresentação de artigos e relatos técnicos de estúdios paranaenses. Coordenação da mesa por Juliana Bastos. Trabalhos selecionados: Otimização de Shaders em Dispositivos Móveis com Vulkan, apresentado por Diego Zanin e Renata Pimentel; Design Narrativo Emergente em Roguelikes, apresentado por Vinícius de Souza; Integração de Modelos de Linguagem para NPCs Autônomos, apresentado por Larissa Munhoz.
-18h30 - 19h | Pausa para Lanche da Tarde | Área de Convivência
-21h - 23h | Ronda de Mentoria 2 | Espaço Makers | Auxílio nas barreiras de arquitetura e arte técnica com os mentores Mariana Pires e Bruno Siqueira, sob supervisão de Priscila Neves.
+SÁBADO - 19/10/24
+08h00 - 09h00: Check-in e Boas-Vindas
+📍 Hall Principal
+09h00 - 09h40
+Cerimônia de Abertura e Revelação do Tema
+📍 Auditório Araucária
+Apresent ação das regras gerais, critérios de avaliação e anúncio oficial do tema secret da maratona conduzida pelos coordenadores gerais Lucas Silveira e Cami la Matsubara.
+09h45 - 10h45: Oficina Técnica 1
+Laboratório Beta
+A oficina abordará o tema Prototipagem Rápid em Godot Engine 4, ministrada pelo desenvolvedor Rodrigo| Castanho.
+09h45 - 10h45  Oficina Técnica 2
+Local: Laboratório Gama
+Instruções práticas sobre Pipelines Ágeis e Deploy Automatizado de APIs em Nuvem com o in'strutor Felipe Fagundes.
+11h00: Início da Maratona de Desenvolvimento
+📍 Espaço Makers
+Liberaçã' dos ambientes de trabalho e início do cr|onômetro d 30 horas *ininterruptas de desenvolvimento de jogos e softwares.
+12h30 - 13h30
+Almoço Livre
+14h30 - 16h30 – Ronda de Mentoria 1
+Local: Espaço Makers
+Acompanhamento e validação das ideias iniciaís conduzid pela coordenadora de mentoria Priscila Neves, contando com os mentores especialista André Vianna e Guilherme Dornelles.
+17h00 - 18h30  Mostra de Estudos de Caso Independentes
+Auditório Araucária
+Apresentação de artigos e relatos técnicos de estúdios paranaenses.  Coordenação da mesa por Juliana Bastos.
+Trabal hos selecionados:
+Otimização d*e Shaders em Dispositivos Móveis com Vulkan, apresentado pr Diego Zanin e Renata Pimentel;
+Design Narrativo Emergente em Roguelikes, apresentado por Vinícius de Souza;
+Integração de Modelos de Linguagem para NPCs Autônomos, apresentado por Larissa Munhoz.
+18h30 - 19h00 - Pausa para Lanche da Tarde
+Local: Área de Convivência
+21h00 - 23h00 - Ronda de Mentoria 2
+📍 Espaço Makers
+Auxílio na barreiras de arquitetura e arte técnica  com os me|ntores Mariana Pires e Bruno Siqueira, sob supervisão de Priscila Neves.
 
-Domingo, 20/10
-Horário | Atividade | Local | Descrição
-0h30 - 1h15 | Ceia da Madrugada | Área de Convivência
-7h30 - 8h30 | Café da Manhã dos Hackers | Área de Convivência
-9h30 - 11h | Check de Build e Playtest Cruzado | Espaço Makers | Rodada de testes rápidos entre equipes concorrentes para levantamento de falhas críticas, orientada pelo coordenador de qualidade Marcos Antunes.
-13h - 13h10 | Fim do Prazo de Submissão | Espaço Makers | Encerramento oficial do envio dos repositórios no GitHub e builds no portal itch.io sob acompanhamento de Lucas Silveira.
-14h - 15h30 | Sessão de Demonstração e Feira de Protótipos | Salão de Exposições | Espaço aberto para a banca e participantes testarem os projetos finalizados. Coordenação do espaço por Daniela Farias.
-15h30 - 17h30 | Sessão de Pitches Finais | Auditório Araucária | Apresentação das cinco equipes finalistas para a comissão julgadora. Coordenador da sessão: Thiago Meirelles. Projetos apresentados: EcoPulse: Monitoramento Urbano em Tempo Real, apresentado por Bianca Trindade; Luz & Sombra: Aventura Isométrica em Pixel Art, apresentado por Gabriel Fontana; Raízes de Curitiba: Gamificação do Transporte Sustentável, apresentado por Aline Nogueira e Carlos Eduardo Silva.
-17h30 - 18h15 | Deliberação dos Jurados | Sala de Reuniões 1
-18h15 - 19h30 | Premiação e Encerramento | Auditório Araucária | Divulgação dos vencedores das categorias Melhor Jogo, Melhor Software e Escolha do Público, com entrega de troféus feita pelos organizadores Camila Matsubara e Lucas Silveira.
-Patrocínio
-
-Apoio:
-@cdhgj
+DOMINGO - 20/10/24
+00h30 - 01h15 - Ceia da Madrugada
+📍 Área de Convivência
+07h30 - 08h30 – Café da Manhã dos Hackers
+Área de Convivência
+09h30 - 11h00 - Check de Build e Playtest Cruzado
+Local: Espaço Makers
+R odada de testes rápidos entre equipes concorrentes para levantamento de falhas críticas, orientada pelo coordenador de qualidade Marcos Antunes.
+13h00 - 13h10  Fim do Prazo de Submissão
+Espaço Makers
+Encerramento oficial do envio dos repositórios no GitHub e builds no portal itch.io sob acompanhamento de Lucas Silveira.
+14h00 - 15h30 – Sessão de Demonstração e Feira de Protótipos
+Local: Salão de Exposições
+Espaço aberto para a banca e participantes estarem os projetos finalizados. Coordenação do espaço por Daniela Farias.
+15h30 - 17h30 | Sessão de Pitches Finais
+Local: Auditório Araucária
+Apres|entação das cinco equipes finalistas pára a comissão julgadora. Coordenador da sessão: Thiago eir*elles.
+Projetos apresentados:
+EcoPulse: Monitoraento Urbano em Tempo Real, apre'sentado por Bianca Trindade
+Luz & Sombra: Aventura Isométrica em Pixel Art, apresentado por Gabriel Fontana;
+Raízes de Curitiba: Gamificação do Transporte Sustentável, apresentado por Aline Nogueira e Carlos Eduardo Silva.
+17h30 - 18h15
+Deliberação dos Jurados
+📍 Sala de Reuniões 1
+18h15 - 19h30
+Premiação e Encerramento
+Local: Auditório Araucária
+Divulgação dos vencedores das categorias Melhor Jogo, Melhor Software e Escolha do Público, com entrega de troféus feita pelos organ'izadores Camila Matsubara e' Luas Silveira.

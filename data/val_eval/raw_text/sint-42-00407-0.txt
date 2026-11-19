@@ -1,77 +1,47 @@
-XXII Semana Acadêmica de Engenharia de Alimentos da UFC 2026
-Programação
+XXII Semana Acadêmica de Engenharia de Alimentos da UFC
+Programação 2026
 
-Dia 1 - 20/05
-Horário
-Atividade
-(08:00 - 09:00)
-Credenciamento e Entrega de Kits
-(09:00 - 09:40)
-Cerimônia de Abertura
+20 de maio
+Horário | Atividade | Descrição
+08h00 - 09h00 | Credenciamento e Entrega de Kits
+09h00 - 09h40 | Cerimônia de Abertura | Abertura oficial com a presença do coordenador do curso Prof. Dr. Marcos Vinícius Holanda e da diretora do Centro de Tecnologia Profa. Dra. Clara Albuquerque.
 Palestras Plenárias
-(09:40 - 10:45)
-Palestra de Abertura
-(10:45 - 11:15)
-Pausa para Café
-(11:15 - 12:30)
-Mesa-Redonda 1
-(12:30 - 14:00)
-Intervalo para Almoço
+09h40 - 10h45 | Palestra de Abertura | Palestra com a pesquisadora Dra. Simone Meireles Castro abordando o tema Inovações na biotecnologia alimentar e os desafios regulatórios da transição proteica sustentável na América Latina.
+10h45 - 11h15 | Pausa para Café
+11h15 - 12h30 | Mesa-Redonda 1 | Debate intitulado Aproveitamento Integral de Subprodutos Agroindustriais no Semiárido Cearense. Mediação feita por Prof. Carlos Eduardo Linhares com os convidados Dra. Juliana Parente e Eng. Marcelo Aragão.
+12h30 - 14h00 | Intervalo para Almoço
 MINICURSOS E OFICINAS
-(14:00 - 17:30)
-Minicurso 1
-(14:00 - 17:30)
-Minicurso 2
+14h00 - 17h30 | Minicurso 1 | Tema: Técnicas Descritivas Rápidas em Análise Sensorial de Alimentos. Ministrante: Dra. Patrícia Figueiredo Lima.
+14h00 - 17h30 | Minicurso 2 | Tema: Desenvolvimento de Produtos Cárneos Embutidos Fermentados com Culturas Iniciadoras Autóctones. Ministrante: Prof. Rodrigo Bezerra Maia.
 Comunicações Científicas
-(17:30 - 18:45)
-Sessão de Pôsteres 1
+17h30 - 18h45 | Sessão de Pôsteres 1 | Apresentação dos trabalhos acadêmicos sob coordenação de Profa. Renata Vasconcelos: 1. Estabilidade de polpa de acerola liofilizada enriquecida com probióticos, por Lucas Feitosa Martins e Bruna Sales Rocha. 2. Caracterização reológica de géis de amido de milho aditivados com quitosana, por Thiago Mendonça Frota e Prof. Paulo Roberto Saraiva.
 
-Dia 2 - 21/05
-Horário
-Atividade
+21 de maio
+Horário | Atividade | Descrição
 Palestras Plenárias
-(08:30 - 09:45)
-Palestra 2
-(09:45 - 10:45)
-Palestra 3
-(10:45 - 11:15)
-Pausa para Café
-(11:15 - 12:30)
-Roda de Conversa
-(12:30 - 14:00)
-Intervalo para Almoço
+08h30 - 09h45 | Palestra 2 | Apresentação conduzida por Dra. Helena Barreto Montenegro sob o título Estratégias Avançadas para Mitigação de Desperdício e Valorização Tecnológica de Resíduos na Cadeia de Frutos Tropicais.
+09h45 - 10h45 | Palestra 3 | Palestra intitulada Segurança Alimentar e Normas Internacionais do Codex Alimentarius, proferida pelo auditor fiscal Dr. Fernando Castelo Branco.
+10h45 - 11h15 | Pausa para Café
+11h15 - 12h30 | Roda de Conversa | Tema: Carreira e Empreendedorismo no Setor de Alimentos e Bebidas no Ceará. Moderador: Prof. Henrique Silveira. Participantes: Mariana Sampaio Fontes e Guilherme Queiroz Dantas.
+12h30 - 14h00 | Intervalo para Almoço
+MINICURSOS E OFICINAS
+14h00 - 17h00 | Oficina Prática 1 | Aplicação: Elaboração de Queijo de Coalho Artesanal com Culturas Lácticas Selecionadas. Ministrada pela engenheira de alimentos Profa. Teresa Cristina Ramos.
+14h00 - 17h00 | Oficina Prática 2 | Aplicação: Panificação Funcional: Aplicação de Farinha da Casca do Maracujá em Pães sem Glúten. Instrutora: M.Sc. Beatriz Nogueira Uchôa.
+Comunicações Científicas
+17h00 - 18h30 | Sessão Oral 1 | Sessão temática coordenada pelo Prof. Daniel Xavier Gadelha com apresentação dos seguintes trabalhos: 1. Efeito do ultrassom na extração de compostos fenólicos de resíduos de caju, apresentado por Camila Duarte Pinheiro. 2. Utilização de mucilagem de quiabo como hidrocoloide em sobremesas lácteas, apresentado por Rafael Silveira Fontenele.
+18h30 | Mostra de Inovação Discente | Apresentação de protótipos de produtos alimentícios concebidos pelos alunos do 8º e 9º semestres, avaliados pela comissão chefiada por Profa. Débora Macedo Cruz.
+
+22 de maio
+Horário | Atividade | Descrição
+08h30 - 10h00 | Painel Temático | Painel: Transição Energética e Sustentabilidade de Processos na Indústria de Alimentos. Coordenação do Prof. Lúcio Mauro Cabral, com palestras de Eng. Amanda Esteves e Prof. André Valente Leão.
+Palestras Plenárias
+10h00 - 11h00 | Palestra 4 | Conferência da pesquisadora Dra. Vânia Maria Azevedo com o título Aplicação de Inteligência Artificial e Visão Computacional para Classificação Automática e Controle de Qualidade de Grãos.
+11h00 - 11h30 | Pausa para Café
+11h30 - 12h45 | Mesa-Redonda 2 | Discussão sobre Tendências em Embalagens Biodegradáveis e Ativas para Alimentos, coordenada pela Profa. Ingrid Benevides Soares, com a participação dos expositores Dr. Marcelo Chaves Ribeiro e Dra. Natália Teles Pontes.
+12h45 - 14h00 | Intervalo para Almoço
 Minicursos e Oficinas
-(14:00 - 17:00)
-Oficina Prática 1
-(14:00 - 17:00)
-Oficina Prática 2
-Comunicações Científicas
-(17:00 - 18:30)
-Sessão Oral 1
-18:30
-Mostra de Inovação Discente
-
-Dia 3 - 22/05
-Horário
-Atividade
-(08:30 - 10:00)
-Painel Temático
-PALESTRAS PLENÁRIAS
-(10:00 - 11:00)
-Palestra 4
-(11:00 - 11:30)
-Pausa para Café
-(11:30 - 12:45)
-Mesa-Redonda 2
-(12:45 - 14:00)
-Intervalo para Almoço
-MINICURSOS E OFICINAS
-(14:00 - 16:00)
-Minicurso 3
+14h00 - 16h00 | Minicurso 3 | Atividade formativa sobre Simulação Numérica de Transferência de Calor em Processos Térmicos Industriais, com o orientador Prof. Fábio Gusmão Torres.
 COMUNICAÇÕES CIENTÍFICAS
-(14:00 - 16:00)
-Sessão Oral 2
-(16:30 - 17:30)
-Cerimônia de Premiação e Encerramento
-(17:30 - 19:00)
-Apresentação Cultural de Encerramento
+14h00 - 16h00 | Sessão Oral 2 | Sessão de trabalhos técnicos avaliada pela Profa. Larissa Holanda Silva contendo: 1. Secagem em camada de espuma da polpa de pitaya vermelha, com autoria de Gabriel Meireles Souza. 2. Incorporação de óleo essencial de capim-santo em revestimentos de quitosana para conservação de morangos, por Letícia Aguiar Peixoto.
+16h30 - 17h30 | Cerimônia de Premiação e Encerramento | Entrega das menções honrosas aos melhores trabalhos e encerramento com Prof. Dr. Marcos Vinícius Holanda e a presidente do centro acadêmico Jéssica Vasconcelos.
+17h30 - 19h00 | Apresentação Cultural de Encerramento | Show com o grupo regional Flor de Mandacaru, com participação dos cantores Artur Lima e Mariana Fonteles.

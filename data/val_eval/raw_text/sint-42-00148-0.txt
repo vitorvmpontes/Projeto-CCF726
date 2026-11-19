@@ -1,38 +1,17 @@
-BH TECH SUMMIT & HACKATHON 2025
-Centro de Inovação e Negócios de Minas Gerais - Belo Horizonte, MG
-PROGRAMAÇÃO
+BH Tech Summit & Hackathon 2025
+Programação
 
-16 de maio
-Horário
-Atividade
-09h00 – 10h30
-Abertura Oficial e Keynote Corporativo
-Apresentação dos desafios corporativos para o hackathon e visão de futuro com Renata Silveira trazendo a palestra O Ecossistema Mineiro de Tecnologia na Era da IA.
-11h00 – 12h00
-Palestra Técnica
-Engenharia de dados e confiabilidade em sistemas distribuídos apresentada por Marcelo Guimarães com o tema Arquiteturas Resilientes para Altas Cargas Transacionais.
-13h30 – 14h30
-Kickoff do Hackathon
-Divulgação dos temas secretos, formação de equipes e instruções gerais com o coordenador Thiago Mendonça.
-15h30 – 17h30
-Mentoria Técnica
-Sessão de validação de arquitetura e tecnologia com os mentores Camila Duarte e Lucas Furtado para as equipes do desafio.
-18h00 – 19h00
-Palestra Técnica
-Abordagem sobre segurança de código e compliance em nuvem ministrada por Patrícia Albuquerque sob o título DevSecOps na Prática: blindando pipelines corporativos.
+Dia 1 - 16/05
+Horário | Atividade | Local | Descrição
+9h às 10h30 | ABERTURA OFICIAL E KEYNOTE CORPORATIVO | Auditório Principal Mangabeiras | Apresentação dos desafios corporativos para o hackathon e visão de futuro com Renata Silveira trazendo a palestra O Ecossistema Mineiro de Tecnologia na Era da IA.
+11h às 12h | PALESTRA TÉCNICA | Palco Inovação | Engenharia de dados e confiabilidade em sistemas distribuídos apresentada por Marcelo Guimarães com o tema Arquiteturas Resilientes para Altas Cargas Transacionais.
+13h30 às 14h30 | KICKOFF DO HACKATHON | Arena Hacker | Divulgação dos temas secretos, formação de equipes e instruções gerais com o coordenador Thiago Mendonça.
+15h30 às 17h30 | MENTORIA TÉCNICA | Espaço Co-working A | Sessão de validação de arquitetura e tecnologia com os mentores Camila Duarte e Lucas Furtado para as equipes do desafio.
+18h às 19h | PALESTRA TÉCNICA | Auditório Principal Mangabeiras | Abordagem sobre segurança de código e compliance em nuvem ministrada por Patrícia Albuquerque sob o título DevSecOps na Prática: blindando pipelines corporativos.
 
-17 de maio
-Horário
-Atividade
-09h30 – 11h30
-Mentoria Técnica
-Segunda rodada de suporte aos competidores com foco em UX, viabilidade de negócio e prototipação, conduzida por Juliana Nogueira e Rodrigo Vasconcelos.
-14h00 – 15h30
-Painel Tech Leaders
-Discussão com líderes de engenharia sobre tendências de contratação e novos modelos de trabalho. Participação de Gabriel Santos, Beatriz Esteves e mediação de Carlos Henrique Paiva no debate Desafios de Escala e Retenção de Talentos em Tech.
-16h00 – 18h00
-Demoday de Pitches
-Apresentação final das soluções finalistas para a banca julgadora composta por Fernanda Lins, Alexandre Castro e Sofia Meireles.
-18h30 – 19h30
-Cerimônia de Premiação e Encerramento
-Divulgação dos projetos vencedores do hackathon e entrega de troféus com os anfitriões Renata Silveira e Thiago Mendonça.
+Dia 2 - 17/05
+Horário | Atividade | Local | Descrição
+9h30 às 11h30 | MENTORIA TÉCNICA | Espaço Co-working B | Segunda rodada de suporte aos competidores com foco em UX, viabilidade de negócio e prototipação, conduzida por Juliana Nogueira e Rodrigo Vasconcelos.
+14h às 15h30 | PAINEL TECH LEADERS | Auditório Principal Mangabeiras | Discussão com líderes de engenharia sobre tendências de contratação e novos modelos de trabalho. Participação de Gabriel Santos, Beatriz Esteves e mediação de Carlos Henrique Paiva no debate Desafios de Escala e Retenção de Talentos em Tech.
+16h às 18h | DEMODAY DE PITCHES | Arena Hacker | Apresentação final das soluções finalistas para a banca julgadora composta por Fernanda Lins, Alexandre Castro e Sofia Meireles.
+18h30 às 19h30 | CERIMÔNIA DE PREMIAÇÃO E ENCERRAMENTO | Auditório Principal Mangabeiras | Divulgação dos projetos vencedores do hackathon e entrega de troféus com os anfitriões Renata Silveira e Thiago Mendonça.

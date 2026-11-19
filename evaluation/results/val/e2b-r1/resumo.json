@@ -1,0 +1,73 @@
+{
+  "gerado_em": "2026-11-19T17:27:12+00:00",
+  "predicoes": "evaluation/predictions/val/e2b-r1",
+  "manifest": "data/val_eval/manifest_rapido.csv",
+  "arquivos_avaliados": 60,
+  "limiar_aproximado": 0.9,
+  "pos_processado": true,
+  "correcoes_pos_processamento": {},
+  "bootstrap": {
+    "reamostras": 2000,
+    "semente": 42
+  },
+  "validade": {
+    "json_valido": 1.0,
+    "atividades_no_schema": 1.0
+  },
+  "exato": {
+    "tp": 579,
+    "fp": 0,
+    "fn": 0,
+    "precisao": 1.0,
+    "revocacao": 1.0,
+    "f1": 1.0,
+    "ic95_bootstrap": {
+      "precisao": [
+        1.0,
+        1.0
+      ],
+      "revocacao": [
+        1.0,
+        1.0
+      ],
+      "f1": [
+        1.0,
+        1.0
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.9965457685664939,
+      "dataInicio": 1.0,
+      "dataFim": 0.9965457685664939,
+      "descricao": 0.998272884283247
+    }
+  },
+  "aproximado": {
+    "tp": 579,
+    "fp": 0,
+    "fn": 0,
+    "precisao": 1.0,
+    "revocacao": 1.0,
+    "f1": 1.0,
+    "ic95_bootstrap": {
+      "precisao": [
+        1.0,
+        1.0
+      ],
+      "revocacao": [
+        1.0,
+        1.0
+      ],
+      "f1": [
+        1.0,
+        1.0
+      ]
+    },
+    "acuracia_campos": {
+      "lugar": 0.9965457685664939,
+      "dataInicio": 1.0,
+      "dataFim": 0.9965457685664939,
+      "descricao": 0.998272884283247
+    }
+  }
+}

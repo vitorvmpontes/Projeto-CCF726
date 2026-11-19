@@ -2,75 +2,133 @@ IX ENCONTRO MULHERES NA COMPUTAÇÃO DE CAMPINAS (EMCC 2025)
 Instituto de Computação - UNICAMP, Campinas - SP
 PROGRAMAÇÃO
 
-Quinta-feira, 15/05
-(08h00 - 09h00)
-RECEPÇÃO E ENTREGA DE KITS
-HALL DE ENTRADA
-(09h00 - 09h40)
-SOLENIDADE DE ABERTURA
-AUDITÓRIO PRINCIPAL
-(09h40 - 10h45)
-PALESTRA DE ABERTURA
-AUDITÓRIO PRINCIPAL
+Dia 1 - 15/05
+Horário
+Atividade
+Local
+(8h - 9h)
+Recepção e Entrega de Kits
+Hall de Entrada
+(9h - 9h40)
+Solenidade de Abertura
+Auditório Principal
+Abertura oficial do evento com a presença da coordenadora geral Dra. Mariana Vasconcell*os e da vice-reitora Profa. Beatriz Silveira.
+Certificado de participaç*ão
+PALESTRAS PRINCIPAIS
+(9h40 - 10h45)
+Palestra de Abertura
+Auditório Principal
+Tema: Trajetórias e Desafios de Liderança Feminina na Inteligência Artificial.
+Palestrante: Dra.  Camila Nogueira (USP/IBM Research).
 (10h45 - 11h15)
-PAUSA PARA CAFÉ
-ESPAÇO DE CONVIVÊNCIA
+Pausa para Café
+Espaço de Convivência
+Apresentação de Artigos
 (11h15 - 12h30)
-SESSÃO TÉCNICA 1
-ANFITEATRO 2
+Sessão Técnica 1
+Anfiteatro 2
+Coordenação: Profa. Renatá Furtado.
+Apresentação dos trabalhos:
+1. Detecção de Vieses de Gênero| em Modelos de Processamento de Linguagem Natural por Alie Morais  Luciana Prado.
+2. Otimização de Redes Complexas na Cadeia de Suprimentos por Fernanda' Esteves.
 (11h15 - 12h30)
-SESSÃO TÉCNICA 2
-AUDITÓRIO PRINCIPAL
-(12h30 - 14h00)
-INTERVALO PARA ALMOÇO
-(14h00 - 16h00)
-MINICURSO
-LABORATÓRIO DE INFORMÁTICA 1
-(14h00 - 16h00)
-MINICURSO
-LABORATÓRIO DE REDES
+Sessão Técnica 2
+Auditório Principal
+Coordenação: Dra. Juliana Mendes.
+Apresentação dos trabalhos:
+1. Arquiteturas Seguras para Dispostivos IoT em Ambientes Hospitalares por Bruna Castilho e Helena Rocha.
+2. Análise Empírica de Desempenho em Algoritmos Quânticos Aplicados à Criptografia por Tatiane Gomes.
+(12h30 - 14h)
+Intervalo para Almoço
+Certi'ficado de participação
+OFICINAS E MINICURSOS
+(14h - 16h)
+Minicurso
+Laboratório de Informática 1
+Tema: Itrodução Prática à Visão Computacional com PyTorch.
+Instrutora: Larissa Paiva.
+(14h - 16h)
+Minicurso
+Laboratório de Redes
+Tema: Fundmentos de Engenharia de Dados em Nuvem.
+Instrutoras:  Carla Antunes e Patrícia Ramos.
+Organização:
 (16h15 - 17h45)
-PAINEL DE DISCUSSÃO
-AUDITÓRIO PRINCIPAL
-(17h45 - 19h00)
-SESSÃO DE PÔSTERES
-HALL DE EXPOSIÇÕES
+Painel de Discussão
+Auditório Principal
+Tema: Inclusão, Retenção e Políticas Afirmativas |na Pós-Graduação em TI.
+Debatedoras: Dra. Mônica Albuque|rque, Me. Tânia Fagundes e Dra. Vanessa Couto. Mediação: Renata Furtdo.
+(17h45 - 19h)
+Sessão de Pôsteres
+Hall de Exposições
+Coordenadoa da sess|ão: Dra. Cristina Loyola.
+Apresntação de pesquisas de iniciação científica e extensões com|unitárias focadas em meninas na tecnologia.
 
-Sexta-feira, 16/05
-(08h30 - 09h00)
-ACOLHIMENTO E CREDENCIAMENTO DIÁRIO
-HALL DE ENTRADA
-(09h00 - 10h15)
-PALESTRA
-AUDITÓRIO PRINCIPAL
+Dia 2 - 16/05
+Horário
+Atividade
+Local
+(8h30 - 9h)
+Acolhimento e Credenciamento Diário
+Hall de Entrada
+Palestras Principais
+(9h - 10h15)
+Palestra
+Auditório Principal
+Tema: Segurança Cibernética Ofnsiva: Perspectivas e Prát|icas Modernas'.
+Palestrante: Dra. Débora Sales.
 (10h15 - 10h45)
-PAUSA PARA CAFÉ
-ESPAÇO DE CONVIVÊNCIA
-(10h45 - 12h00)
-SESSÃO TÉCNICA 3
-AUDITÓRIO PRINCIPAL
-(10h45 - 12h00)
-SESSÃO TÉCNICA 4
-ANFITEATRO 2
-(12h00 - 13h30)
-INTERVALO PARA ALMOÇO
+Pausa para Café
+Espaço de Convivência
+www.emcce.om.br
+Apresentação de Artigos
+(10h45 - 12h)
+Sessão Técnica 3
+Auditório Principal
+Coordenação Dra. Cristina Loyola.
+Apresentaço dos trabalhos:
+1. Interfaes Acessíveis para Crianças com Deficiência Visual no Ensino de Algoritmos por S abrina Alencar e Sofia Neves.
+2. Uma Ferramenta de Análise de Código Está|tico para Sistema Embarcados por Lorena Diniz.
+(10h45 - 12h)
+Sessão Técnica 4
+Anfiteatro 2
+C|oordenação: Me. Tânia Fagun des.
+Apresentação dos *trabalhos:
+1. Avaliação d Eficácia de Agentes Virtuais no Suporte à Saúde Mental por Elisa Queiroz.
+2. Cassificação d Sentimentos em Grandes Volumes de Dados de Redes Sociais por Marta Pimentel e Ana Clara Dias.
+(12h - 13h30)
+Intervalo para Almoço
 (13h30 - 15h30)
-MENTORIA DE CARREIRA
-SALA 102 - BLOCO B
+Mentoria de Carreira
+Sala 102 - Bloco B
+Atividade prá'tica para alunas de graduação. Conduzida| por Juliana Godoy e Priscila Sampaio.
+Organização:
+Oficinas e Minicursos
 (13h30 - 15h30)
-MINICURSO
-LABORATÓRIO DE INFORMÁTICA 2
-(15h45 - 17h00)
-MENTORIA DE CARREIRA
-SALA 104 - BLOCO B
-(15h45 - 17h00)
-PALESTRA
-AUDITÓRIO PRINCIPAL
-(17h15 - 18h00)
-CERIMÔNIA DE PREMIAÇÃO
-E PREMIAÇÃO MENINAS
-DIGITAIS
-AUDITÓRIO PRINCIPAL
-18h00
-ENCERRAMENTO E CONFRATERNIZAÇÃO
-ESPAÇO DE CONVIVÊNCIA
+Minicurso
+Laboratório de Informática 2
+Tema: Desenvolvimento Frontend Responsvo com React e TailwindCSS|.
+Instrutora: Ingrid Fontana.
+Acesse o QR ode
+(15h45 - 17h)
+Mentoria de Carreira
+Sala 104 - Bloco B
+Sessão complementar direcionada a pós-graduandas e esquisadoras em início de carreira, com as facilitadoras Juliana |God oy e Pri scila Sampaio.
+PALESTRAS PRINCIPAIS
+(15h45 - 17h)
+Palestra
+Auditório Principal
+Tema: Carreiras Internacionais e Oportunidades em Big Techs.
+Palestrante: Eng. Roberta Medeiros.
+Organização:
+(17h15 - 18h)
+Cerimônia de Premiação e Premiação Meninas Digitais
+Auditório Principal
+Premiação dos *melhores artigos e menções honrosas da ses*são de pôsteres. Condução pcla coordcnadora Dra. Mariana Vasconcellos.
+Realização:
+18h
+Encerramento e Confraternização
+Espaço de Convivência
+
+Realização:
+@emcce

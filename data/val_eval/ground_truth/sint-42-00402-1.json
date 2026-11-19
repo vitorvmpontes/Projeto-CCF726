@@ -1,21 +1,21 @@
 [
  {
   "nome": "RECEPÇÃO E ENTREGA DE CRACHÁS",
-  "lugar": "HALL DO PRÉDIO PRINCIPAL",
+  "lugar": null,
   "dataInicio": "2024-10-16T08:00:00-03:00",
   "dataFim": "2024-10-16T09:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "CERIMÔNIA DE ABERTURA",
-  "lugar": "SALÃO NOBRE",
+  "lugar": null,
   "dataInicio": "2024-10-16T09:00:00-03:00",
   "dataFim": "2024-10-16T10:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "PALESTRA INAUGURAL",
-  "lugar": "SALÃO NOBRE",
+  "lugar": null,
   "dataInicio": "2024-10-16T10:00:00-03:00",
   "dataFim": "2024-10-16T11:30:00-03:00",
   "descricao": null
@@ -29,28 +29,28 @@
  },
  {
   "nome": "RODA DE CONVERSA 1",
-  "lugar": "AUDITÓRIO DA BIOLOGIA",
+  "lugar": null,
   "dataInicio": "2024-10-16T13:30:00-03:00",
   "dataFim": "2024-10-16T15:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "RODA DE CONVERSA 2",
-  "lugar": "AUDITÓRIO DA TECNOLOGIA",
+  "lugar": null,
   "dataInicio": "2024-10-16T13:30:00-03:00",
   "dataFim": "2024-10-16T15:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "APRESENTAÇÃO CULTURAL",
-  "lugar": "PRAÇA CENTRAL DO CAMPUS",
+  "lugar": null,
   "dataInicio": "2024-10-16T15:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "SESSÃO DE PÔSTERES - EIXO I",
-  "lugar": "TENDA EXPOSITIVA",
+  "lugar": null,
   "dataInicio": "2024-10-16T15:30:00-03:00",
   "dataFim": "2024-10-16T17:30:00-03:00",
   "descricao": null
@@ -64,21 +64,21 @@
  },
  {
   "nome": "OFICINA 1",
-  "lugar": "LABORATÓRIO DE BOTÂNICA",
+  "lugar": null,
   "dataInicio": "2024-10-17T08:00:00-03:00",
   "dataFim": "2024-10-17T11:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "OFICINA 2",
-  "lugar": "LABORATÓRIO DE INFORMÁTICA 3",
+  "lugar": null,
   "dataInicio": "2024-10-17T08:00:00-03:00",
   "dataFim": "2024-10-17T11:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "OFICINA 3",
-  "lugar": "HORTA DIDÁTICA",
+  "lugar": null,
   "dataInicio": "2024-10-17T08:00:00-03:00",
   "dataFim": "2024-10-17T11:30:00-03:00",
   "descricao": null
@@ -92,42 +92,42 @@
  },
  {
   "nome": "FEIRA DA ECONOMIA SOLIDÁRIA",
-  "lugar": "PRAÇA CENTRAL DO CAMPUS",
+  "lugar": null,
   "dataInicio": "2024-10-17T13:30:00-03:00",
   "dataFim": "2024-10-17T17:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "SESSÃO DE COMUNICAÇÃO ORAL 1",
-  "lugar": "SALA 101 - BLOCO B",
+  "lugar": null,
   "dataInicio": "2024-10-17T14:00:00-03:00",
   "dataFim": "2024-10-17T15:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "SESSÃO DE COMUNICAÇÃO ORAL 2",
-  "lugar": "SALA 102 - BLOCO B",
+  "lugar": null,
   "dataInicio": "2024-10-17T14:00:00-03:00",
   "dataFim": "2024-10-17T15:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "SESSÃO DE COMUNICAÇÃO ORAL 3",
-  "lugar": "SALA 103 - BLOCO B",
+  "lugar": null,
   "dataInicio": "2024-10-17T14:00:00-03:00",
   "dataFim": "2024-10-17T15:30:00-03:00",
   "descricao": null
  },
  {
   "nome": "LANCHE COMUNITÁRIO",
-  "lugar": "TENDA EXPOSITIVA",
+  "lugar": null,
   "dataInicio": "2024-10-17T15:30:00-03:00",
   "dataFim": "2024-10-17T16:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "SESSÃO DE PÔSTERES - EIXO II",
-  "lugar": "TENDA EXPOSITIVA",
+  "lugar": null,
   "dataInicio": "2024-10-17T16:00:00-03:00",
   "dataFim": "2024-10-17T18:00:00-03:00",
   "descricao": null
@@ -141,14 +141,14 @@
  },
  {
   "nome": "VISITA TÉCNICA GUIADA",
-  "lugar": "SETOR DE SUINOCULTURA E ZOOTECNIA",
+  "lugar": null,
   "dataInicio": "2024-10-18T08:00:00-03:00",
   "dataFim": "2024-10-18T10:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "MESA DE DIÁLOGO",
-  "lugar": "SALÃO NOBRE",
+  "lugar": null,
   "dataInicio": "2024-10-18T10:00:00-03:00",
   "dataFim": "2024-10-18T11:45:00-03:00",
   "descricao": null
@@ -162,14 +162,14 @@
  },
  {
   "nome": "SESSÃO DE COMUNICAÇÃO ORAL 4",
-  "lugar": "SALA 101 - BLOCO B",
+  "lugar": null,
   "dataInicio": "2024-10-18T13:30:00-03:00",
   "dataFim": "2024-10-18T15:00:00-03:00",
   "descricao": null
  },
  {
   "nome": "SESSÃO DE COMUNICAÇÃO ORAL 5",
-  "lugar": "SALA 102 - BLOCO B",
+  "lugar": null,
   "dataInicio": "2024-10-18T13:30:00-03:00",
   "dataFim": "2024-10-18T15:00:00-03:00",
   "descricao": null
@@ -183,14 +183,14 @@
  },
  {
   "nome": "APRESENTAÇÃO DE FANFARRA E DANÇA FOLCLÓRICA",
-  "lugar": "PÁTIO COBERTO",
+  "lugar": null,
   "dataInicio": "2024-10-18T16:00:00-03:00",
   "dataFim": null,
   "descricao": null
  },
  {
   "nome": "SOLENIDADE DE PREMIAÇÃO DOS MELHORES TRABALHOS",
-  "lugar": "SALÃO NOBRE",
+  "lugar": null,
   "dataInicio": "2024-10-18T16:30:00-03:00",
   "dataFim": "2024-10-18T17:30:00-03:00",
   "descricao": null

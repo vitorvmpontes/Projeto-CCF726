@@ -1,124 +1,94 @@
-IX ENCONTRO MULHERES NA COMPUTAÇÃO DE CAMPINAS (EMCC 2025)
-Instituto de Computação - UNICAMP, Campinas - SP
-PROGRAMAÇÃO
+IX Encontro Mulheres na Computação de Campinas (EMCC 2025)
+Programação 2025
 
-15/05
-Horário
-Atividade
-Local
-08:00 às 09:00
-Recepção e Entrega de Kits
-Hall de Entrada
-09:00 às 09:40
-Solenidade de Abertura
-Auditório Principal
-Abertura oficial do evcnto com a prese*nça da coordenadora gral Dra. Mariana Vasconcellos e da vicc-reitora Profa. Beatriz Silveira.
-Palestras Principais
-09:40 às 10:45
+15 de maio de 2025
+das 8h às 9h – Recepção e Entrega de Kits
+Local: Hall de Entrada
+das 9h às 9h40: Solenidade de Abertura
+📍 Auditório Principal
+Abertura oficial do evento com a presença da coordenadora geral Dra. Mariana Vasconcellos e da vice-reitora Profa. Beatriz Silveira.
+das 9h40 às 10h45
 Palestra de Abertura
-Auditório Principal
-T'ema: Trajetórias e Desafios de Liderança Feminina na Inteligência Artificial.
+Local: Auditório Principal
+Tema: Trajetórias e Desafios de Liderança Feminina na Inteligência Artificial.
 Palestrante: Dra. Camila Nogueira (USP/IBM Research).
-10:45 às 11:15
-Pausa para Café
-Espaço de Convivência
-Apresentação de Artigos
-11:15 às 12:30
-Sessão Técnica 1
+das 10h45 às 11h15: Pausa para Café
+📍 Espaço de Convivência
+das 11h15 às 12h30 – Sessão Técnica 1
 Anfiteatro 2
-Coordenação: Profa. Renata Furtádo.
+Coordenação: Profa. Renata Furtado.
 Apresentação dos trabalhos:
 1. Detecção de Vieses de Gênero em Modelos de Processamento de Linguagem Natural por Aline Morais e Luciana Prado.
-2. timização de Redes Complexas na Cadeia de Suprimentos por Fernanda Esteves.
-11:15 às 12:30
-Sessão Técnica 2
-Auditório Principal
+2. Otimização de Redes Complexas na Cadeia de Suprimentos por Fernanda Esteves.
+das 11h15 às 12h30  Sessão Técnica 2
+Local: Auditório Principal
 Coordenação: Dra. Juliana Mendes.
-Apresentação dos trabalh0s:
-1. Arquiteturas Seguras para Dispositivos IoT em Ambentes Hospitalares por Bruna Castilho e Helena Rocha.
-2. Análise Empírica de Desepenho em Algoritmos Quânticos Aplicados à Criptografia por Taiane Gomes.
-12:30 às 14:00
-Intervalo para Almoço
-OFICINAS E MINICURSOS
-14:00 às 16:00
-Minicurso
-Laboratório de Informática 1
-Tema: Intro|dução Prática à Visão Computacional com PyTorch.
+Apresentação dos trabalhos:
+1. Arquiteturas Seguras para Dispositivos IoT em Ambientes Hospitalares por Bruna Castilho e Helena Rocha.
+2. Análise Empírica de Desempenho em Algoritmos Quânticos Aplicados à Criptografia por Tatiane Gomes.
+das 12h30 às 14h | Intervalo para Almoço
+das 14h às 16h - Minicurso
+📍 Laboratório de Informática 1
+Tema: Introdução Prática à Visão Computacional com PyTorch.
 Instrutora: Larissa Paiva.
-14:00 às 16:00
+das 14h às 16h
 Minicurso
-Laboratório de Redes
-Tema:Fundament*os de Engenharia de Dados em Nuvem.
-Instrutoras: Carla Antunes e Patícia Ramos.
-16:15 às 17:45
-Painel de Discussão
+📍 Laboratório de Redes
+Tema: Fundamentos de Engenharia de Dados em Nuvem.
+Instrutoras: Carla Antunes e Patrícia Ramos.
+das 16h15 às 17h45 | Painel de Discussão
 Auditório Principal
-Tema: Inluão, Retenção e Políticas Afirmativas na Pós-Graduação em TI.
+Tema: Inclusão, Retenção e Políticas Afirmativas na Pós-Graduação em TI.
 Debatedoras: Dra. Mônica Albuquerque, Me. Tânia Fagundes e Dra. Vanessa Couto. Mediação: Renata Furtado.
-17:45 às 19:00
-Sessão de Pôsteres
+das 17h45 às 19h – Sessão de Pôsteres
 Hall de Exposições
 Coordenadora da sessão: Dra. Cristina Loyola.
-Apresentação de pesquisas de iniciação cen*tífica e exte*nsões comunitárias ocdas em meninas na tecnologia.
+Apresentação de pesquisas de iniciação científica e extensões comunitárias focadas em meninas na tecnologia.
 
-16/05
-Horário
-Atividade
-Local
-08:30 às 09:00
-Acolhimento e Credenciamento Diário
+16 de maio de 2025
+das 8h30 às 9h – Acolhimento e Credenciamento Diário
 Hall de Entrada
-PALESTRAS PRINCIPAIS
-09:00 às 10:15
-Palestra
-Auditório Principal
-Tema: |Segurança Cibcrnética Ofensiva: Perspectivas e Páticas Modernas.
+das 9h às 10h15: Palestra
+📍 Auditório Principal
+Tema: Segurança Cibernética Ofensiva: Perspectivas e Práticas Modernas.
 Palestrante: Dra. Débora Sales.
-10:15 às 10:45
-Pausa para Café
+das 10h15 às 10h45 – Pausa para Café
 Espaço de Convivência
-Apresentação de Artigos
-10:45 às 12:00
-Sessão Técnica 3
-Auditório Principal
+das 10h45 às 12h - Sessão Técnica 3
+Local: Auditório Principal
 Coordenação: Dra. Cristina Loyola.
 Apresentação dos trabalhos:
-1. Interfaces Acessíveis para Cianç|as com Defíciência Vsual no Ensino de Algoritmos por  Sabrina Alencar e Sofia Neves.
-2. Uma Ferramenta de Análise de Códgo Estático para Sistemas Embarcados por Lorena Din iz.
-10:45 às 12:00
+1. Interfaces Acessíveis para Crianças com Deficiência Visual no Ensino de Algoritmos por Sabrina Alencar e Sofia Neves.
+2. Uma Ferramenta de Análise de Código Estático para Sistemas Embarcados por Lorena Diniz.
+das 10h45 às 12h
 Sessão Técnica 4
-Anfiteatro 2
+📍 Anfiteatro 2
 Coordenação: Me. Tânia Fagundes.
 Apresentação dos trabalhos:
-1. Avaliação da Eficácia d|e Agentes Virtuais no Suporte à Saúde Mental por Elisa Queiroz.
+1. Avaliação da Eficácia de Agentes Virtuais no Suporte à Saúde Mental por Elisa Queiroz.
 2. Classificação de Sentimentos em Grandes Volumes de Dados de Redes Sociais por Marta Pimentel e Ana Clara Dias.
-12:00 às 13:30
+das 12h às 13h30
 Intervalo para Almoço
-13:30 às 15:30
-Mentoria de Carreira
+das 13h30 às 15h30  Mentoria de Carreira
 Sala 102 - Bloco B
-Atividade prática para alunas de graduação. Conduzida por Juliana Godoy e Priscila| Sampaio.
-Oficinas e Minicursos
-13:30 às 15:30
-Minicurso
-Laboratório de Informática 2
-Te'ma: Dese*nvolvimento Frontend Responsivo corn React e TailwindCSS.
+Atividade prática para alunas de graduação. Conduzida por Juliana Godoy e Priscila Sampaio.
+das 13h30 às 15h30  Minicurso
+Local: Laboratório de Informática 2
+Tema: Desenvolvimento Frontend Responsivo com React e TailwindCSS.
 Instrutora: Ingrid Fontana.
-15:45 às 17:00
+das 15h45 às 17h
 Mentoria de Carreira
-Sala 104 - Bloco B
-Sessão complementar direcionada a pós-graduandas e pesquisadorás  em início de carreira, com as facilitadoras Juliana Godoy e Priscila Sapaio.
-PALESTRAS PRINCIPAIS
-15:45 às 17:00
+📍 Sala 104 - Bloco B
+Sessão complementar direcionada a pós-graduandas e pesquisadoras em início de carreira, com as facilitadoras Juliana Godoy e Priscila Sampaio.
+das 15h45 às 17h
 Palestra
 Auditório Principal
-Tema: Carreíras Internacionais e Oportunidades em Big Tcchs.
+Tema: Carreiras Internacionais e Oportunidades em Big Techs.
 Palestrante: Eng. Roberta Medeiros.
-17:15 às 18:00
-Cerimônia de Premiação e Premiação
-Meninas Digitais
+das 17h15 às 18h
+Cerimônia de Premiação e
+Premiação Meninas Digitais
 Auditório Principal
-Premiação dos melhores artigos e menções hon*rosas da sessão de pôsteres. Condução pela coordenadora Dra. Mariana Vasconcellos.
-18:00
-Encerramento e Confraternização
-Espaço de Convivência
+Premiação dos melhores artigos e menções honrosas da sessão de pôsteres. Condução pela coordenadora Dra. Mariana Vasconcellos.
+18h – Encerramento e Confraternização
+Local: Espaço de Convivência

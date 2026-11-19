@@ -1,25 +1,47 @@
-Programação - I Workshop de Inteligência Artificial Aplicada do Vale do Paraopeba
-Edição 2026
+I Workshop de Inteligência Artificial Aplicada do Vale do Paraopeba
+Programação 2026
 
-QUINTA-FEIRA - 14/05/26
-(8h - 9h)  Recepção e Entrega de Crachás
-(9h - 10h30) | Palestra de Abertura
-(10h30 - 11h)
-Pausa para Café
-(11h - 12h30)
-Sessão Técnica 1
-(12h30 - 14h)  Almoço
-(14h - 17h30)
-Minicurso A
-(14h - 17h30)
-Minicurso B
+14 DE MAIO – LOCAL – CAMPUS UFV-FLORESTAL, FLORESTAL - MG
+08:00 – 09:00
+RECEPÇÃO E ENTREGA DE CRACHÁS
+09:00 – 10:30
+PALESTRA DE ABERTURA
+Apresentação do tema Desafios e Oportunidades do Aprendizado Profundo no Agronegócio, ministrada pelo Dr. Marcos Aurelio Ribeiro (UFV).
+10:30 – 11:00
+PAUSA PARA CAFÉ
+SESSÕES TÉCNICAS
+11:00 – 12:30
+SESSÃO TÉCNICA 1
+Coordenação de Profa. Dra. Camila Antunes. Apresentações: Detecção de Pragas em Plantações Usando Redes Convolucionais por Felipe Duarte Santos; Otimização de Irrigação com Modelos Preditivos por Juliana Mendes Prado.
+12:30 – 14:00
+ALMOÇO
+Minicursos - Trilha Prática
+14:00 – 17:30
+MINICURSO A
+Tema: Visão Computacional na Prática com PyTorch e OpenCV, conduzido por Thiago Henrique Barbosa e Larissa Neves de Souza.
+14:00 – 17:30
+MINICURSO B
+Tema: Processamento de Linguagem Natural com Transformers e Hugging Face, ministrado pelo Prof. Lucas Guimarães Carvalho.
 
-SEXTA-FEIRA - 15/05/26
-(8h30 - 10h) - Palestra
-(10h - 10h30)
-Intervalo
-(10h30 - 12h)  Sessão Técnica 2
-(12h - 13h30) | Almoço
-(13h30 - 16h30)  Minicurso C
-(13h30 - 16h30) | Minicurso D
-(16h45 - 18h)  Mesa-redonda de Encerramento
+15 de maio - CAMPUS UFV-FLORESTAL, FLORESTAL - MG
+08:30 – 10:00
+PALESTRA
+Exposição sobre Modelos Fundacionais e a Nova Fronteira da Automação Industrial, conduzida pela pesquisadora Dra. Beatriz Nogueira Castro.
+10:00 – 10:30
+INTERVALO
+Sessões Técnicas
+10:30 – 12:00
+SESSÃO TÉCNICA 2
+Coordenação de Prof. Me. Rodrigo Teles Faria. Apresentações de artigos selecionados na área de aprendizado por reforço e séries temporais.
+12:00 – 13:30
+ALMOÇO
+MINICURSOS - TRILHA PRÁTICA
+13:30 – 16:30
+MINICURSO C
+Tema: Engenharia de Prompts e Agentes Autônomos com LangChain, ministrado pelo especialista Gabriel Rezende Moreira.
+13:30 – 16:30
+MINICURSO D
+Tema: MLOps: Deploy e Monitoramento de Modelos em Produção, ministrado pelo engenheiro de dados Vinícius Lopes da Costa.
+16:45 – 18:00
+MESA-REDONDA DE ENCERRAMENTO
+Debate intitulado Ética, Regulação e Impactos Regionais da Inteligência Artificial em Minas Gerais com participação de Dra. Mariana Fontes Xavier, Prof. Carlos Eduardo Peixoto e mediação de Profa. Dra. Camila Antunes.

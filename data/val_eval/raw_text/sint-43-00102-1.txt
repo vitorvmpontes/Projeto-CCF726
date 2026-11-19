@@ -1,16 +1,24 @@
 Semana Acadêmica de Arquitetura e Urbanismo da PUCPR 2023
 Programação 2023
 
-Segunda-feira (24/04/2023)
-Horário | Atividade | Local
-19h | Abertura | Auditório do Bloco Azul
-das 19h30 às 21h | Habitação Social em Curitiba | Auditório do Bloco Azul
+Segunda-feira, 24/04
+Horário
+Atividade
+19:00
+Abertura
+19:30 às 21:00
+Habitação Social em Curitiba
 
-Terça-feira (25/04/2023)
-Horário | Atividade | Local
-Workshops
-das 8h às 12h | Workshop de Croqui Urbano | Ateliê 2
-das 8h às 12h | Workshop de Revit | Laboratório de Informática 3
-14h | Caminhada Arquitetônica pelo Centro Histórico | Praça Tiradentes
-18h | Exposição de Maquetes | Hall do Bloco Azul
-21h | Festa de Encerramento
+Terça-feira, 25/04
+Horário
+Atividade
+08:00 às 12:00
+Workshop de Croqui Urbano
+08:00 às 12:00
+Workshop de Revit
+14:00
+Caminhada Arquitetônica pelo Centro Histórico
+18:00
+Exposição de Maquetes
+21:00
+Festa de Encerramento

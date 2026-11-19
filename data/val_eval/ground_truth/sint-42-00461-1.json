@@ -11,14 +11,14 @@
   "lugar": null,
   "dataInicio": "2027-04-15T09:00:00-03:00",
   "dataFim": "2027-04-15T09:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Boas-vindas com a coordenação-geral do evento liderada por <b>Dra. Simone Alencar</b> e <b>Prof. Carlos Marinho</b>.</p>"
  },
  {
   "nome": "Palestra",
   "lugar": null,
   "dataInicio": "2027-04-15T09:30:00-03:00",
   "dataFim": "2027-04-15T10:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação intitulada <i>Impactos ecológicos e desafios operacionais do processamento de modelos de linguagem de grande porte em ecossistemas computacionais distribuídos na Amazônia Legal</i>, ministrada pelo pesquisador <b>Dr. Marcelo Furtado Pinheiro</b>.</p>"
  },
  {
   "nome": "Pausa para Café",
@@ -32,14 +32,14 @@
   "lugar": null,
   "dataInicio": "2027-04-15T11:15:00-03:00",
   "dataFim": "2027-04-15T12:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Primeira parte do curso <i>Redes Neurais Convolucionais para Classificação de Imagens de Satélite</i> com <b>Profa. Juliana Barreto</b>.</p>"
  },
  {
   "nome": "Minicurso 2",
   "lugar": null,
   "dataInicio": "2027-04-15T11:15:00-03:00",
   "dataFim": "2027-04-15T12:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Treinamento prático sob o tema <i>Ajuste Fino de Modelos Fundacionais Abertos Utilizando Bibliotecas em Python</i>, facilitado por <b>Eng. Thiago Meireles</b>.</p>"
  },
  {
   "nome": "Intervalo de Almoço",
@@ -53,28 +53,28 @@
   "lugar": null,
   "dataInicio": "2027-04-15T14:00:00-03:00",
   "dataFim": "2027-04-15T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Atividade sobre <i>Técnicas avançadas de compressão quantizada de modelos profundos para implementação eficiente em dispositivos de borda com baixa conectividade</i>, apresentada por <b>Msc. Renata Guedes</b>.</p>"
  },
  {
   "nome": "Sessão Prática Hands-on",
   "lugar": null,
   "dataInicio": "2027-04-15T14:00:00-03:00",
   "dataFim": "2027-04-15T16:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Atividade imersiva de prototipagem rápida orientada pelo desenvolvedor <b>Rodrigo Vasconcelos</b>.</p>"
  },
  {
   "nome": "Minicurso 1",
   "lugar": null,
   "dataInicio": "2027-04-15T16:15:00-03:00",
   "dataFim": "2027-04-15T18:00:00-03:00",
-  "descricao": null
+  "descricao": "<p>Continuação e conclusão de <i>Redes Neurais Convolucionais para Classificação de Imagens de Satélite</i> com <b>Profa. Juliana Barreto</b>.</p>"
  },
  {
   "nome": "Palestra",
   "lugar": null,
   "dataInicio": "2027-04-16T08:30:00-03:00",
   "dataFim": "2027-04-16T09:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Conferência <i>Visão Computacional no Monitoramento da Biodiversidade Fluvial</i> apresentada pelo pesquisador <b>Dr. Arthur Nogueira</b>.</p>"
  },
  {
   "nome": "Pausa para Café",
@@ -88,14 +88,14 @@
   "lugar": null,
   "dataInicio": "2027-04-16T10:15:00-03:00",
   "dataFim": "2027-04-16T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Abordagem sobre <i>Engenharia de Prompt e Aplicações com RAG para Bases Jurídicas</i>, instruído por <b>Dra. Mariana Bittencourt</b>.</p>"
  },
  {
   "nome": "Minicurso 4",
   "lugar": null,
   "dataInicio": "2027-04-16T10:15:00-03:00",
   "dataFim": "2027-04-16T12:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Apresentação do minicurso <i>Detecção de Anomalias em Séries Temporais Hidrológicas</i> conduzido pelo instrutor <b>Prof. Lucas Pantoja</b>.</p>"
  },
  {
   "nome": "Intervalo de Almoço",
@@ -109,20 +109,20 @@
   "lugar": null,
   "dataInicio": "2027-04-16T14:00:00-03:00",
   "dataFim": "2027-04-16T15:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Exposição sobre <i>Fundamentos metodológicos e diretrizes de governança ética para a criação de sistemas inteligentes voltados à sustentabilidade bioeconômica regional</i> conduzida pela pesquisadora <b>Profa. Elena Castelo Branco</b>.</p>"
  },
  {
   "nome": "Sessão Prática Hands-on",
   "lugar": null,
   "dataInicio": "2027-04-16T14:00:00-03:00",
   "dataFim": "2027-04-16T15:45:00-03:00",
-  "descricao": null
+  "descricao": "<p>Segunda edição do laboratório prático para participantes da tarde, com suporte do desenvolvedor <b>Rodrigo Vasconcelos</b> e mediação de <b>Beatriz Mendonça</b>.</p>"
  },
  {
   "nome": "Encerramento e Premiação de Ideias",
   "lugar": null,
   "dataInicio": "2027-04-16T16:00:00-03:00",
   "dataFim": "2027-04-16T17:30:00-03:00",
-  "descricao": null
+  "descricao": "<p>Anúncio dos destaques de projetos acadêmicos e fechamento conduzido por <b>Dra. Simone Alencar</b>.</p>"
  }
 ]

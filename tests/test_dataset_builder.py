@@ -174,3 +174,52 @@ def test_perfil_recua_quando_criaria_duplicatas():
         r = renderizar(ev, "lista", random.Random(0), [], perfil)
         assert r.perfil in ("completo", "sem_descricao")
         assert {a["lugar"] for a in r.atividades} == {"Sala 1", "Sala 2"}
+
+
+# --------------------------------------------------------------------------
+# Extras da v1.2 (2026-11-20, exploratória)
+# --------------------------------------------------------------------------
+
+EVENTO_LOCAL = {
+    "evento": {"nome": "Fórum de Avaliação", "local_geral": "Auditório da Reitoria"},
+    "atividades": [
+        {"nome": "Credenciamento", "lugar": None, "dataInicio": "2025-08-13T08:00:00-03:00",
+         "dataFim": "2025-08-13T08:30:00-03:00", "descricao": None, "secao": None},
+        {"nome": "Palestra de Abertura: Avaliação institucional e seus reflexos", "lugar": None,
+         "dataInicio": "2025-08-13T09:00:00-03:00", "dataFim": "2025-08-13T10:00:00-03:00",
+         "descricao": None, "secao": None},
+    ],
+}
+
+
+@pytest.mark.parametrize("layout", LAYOUTS)
+@pytest.mark.parametrize("semente", range(4))
+def test_extras_passam_nos_filtros(layout, semente):
+    for ev in (EVENTO, EVENTO_LOCAL):
+        r = renderizar(ev, layout, random.Random(semente), ["secoes", "quebra"], "sem_lugar",
+                       ["local_cabecalho", "data_no_titulo", "aspas"])
+        assert aplicar_filtros(r.texto, r.atividades) == []
+
+
+def test_local_no_cabecalho_vale_para_todas_as_atividades():
+    r = renderizar(EVENTO_LOCAL, "lista", random.Random(1), [], "sem_lugar", ["local_cabecalho"])
+    assert r.extras == ["local_cabecalho"]
+    assert {a["lugar"] for a in r.atividades} == {"Auditório da Reitoria"}
+    assert r.texto.count("Auditório da Reitoria") == 1  # aparece uma vez só
+    # com local próprio nas atividades, o extra não se aplica
+    r = renderizar(EVENTO, "lista", random.Random(1), [], "completo", ["local_cabecalho"])
+    assert "local_cabecalho" not in r.extras
+
+
+def test_data_no_titulo_so_em_evento_de_um_dia():
+    r = renderizar(EVENTO_LOCAL, "lista", random.Random(2), [], "completo", ["data_no_titulo"])
+    assert r.extras == ["data_no_titulo"] and "13/08/2025" in r.texto or "13 de agosto de 2025" in r.texto
+    assert "data_no_titulo" not in renderizar(EVENTO, "lista", random.Random(2), [], "completo",
+                                              ["data_no_titulo"]).extras  # EVENTO tem dois dias
+
+
+def test_aspas_no_titulo_e_no_rotulo():
+    r = renderizar(EVENTO_LOCAL, "lista", random.Random(3), [], "completo", ["aspas"])
+    nomes = [a["nome"] for a in r.atividades]
+    assert "Palestra de Abertura: “Avaliação institucional e seus reflexos”" in nomes
+    assert "“Avaliação institucional e seus reflexos”" in r.texto

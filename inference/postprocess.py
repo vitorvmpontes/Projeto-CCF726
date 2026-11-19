@@ -22,6 +22,15 @@ Etapas (`pos_processar`):
 3. Corta repetições idênticas seguidas além de MAX_REPETICOES_SEGUIDAS
    (sinal de modelo em loop). Duplicatas legítimas são mantidas.
 
+Versões (`versao=`):
+- "v1": a versão usada no resultado principal (e2b-r1, 2026-11-19).
+- "v2" (padrão, 2026-11-20; exploratória, motivada pelos erros do teste da e2b-r1):
+  - faixa de horário colada na data ("2018-08-13T08:40:00-09:00:00-03:00") vira início
+    e, se o fim estiver vazio, fim;
+  - travessões (– —) no nome viram hífen, como nos gabaritos.
+  Testada e descartada: recuperar JSON cortado pelo limite de tokens. No único caso do
+  teste (secom2024-pdf) a saída cortada era um loop, e recuperá-la só somou atividades falsas.
+
 `para_mymobiconf` monta o objeto final, injetando os campos fixos
 (`eventoId`, `tagIds`, `configuracoes`), que não são gerados pelo modelo.
 Todas as correções ficam registradas em `Resultado.correcoes`.
@@ -43,6 +52,8 @@ TAGS_PERMITIDAS = {"p", "b", "i", "br", "hr"}
 # mesma palestra duas vezes). Só cortamos repetições seguidas além disso, que
 # indicam o modelo preso em loop.
 MAX_REPETICOES_SEGUIDAS = 2
+VERSOES = ("v1", "v2")
+VERSAO_PADRAO = "v2"
 
 _ISO_RE = re.compile(
     r"^\s*(\d{4})-(\d{1,2})-(\d{1,2})"          # data
@@ -50,6 +61,11 @@ _ISO_RE = re.compile(
     r"\s*(Z|[+-]\d{2}:?\d{2})?\s*$"              # offset opcional
 )
 _ANO_RE = re.compile(r"(?<!\d)(20\d{2})(?!\d)")
+# "2018-08-13T08:40:00-09:00:00-03:00": início e fim colados (faixa de horário)
+_FAIXA_RE = re.compile(
+    r"^\s*(\d{4}-\d{1,2}-\d{1,2})[T ](\d{1,2}:\d{2}(?::\d{2})?)\s*[-–]\s*(\d{1,2}:\d{2}(?::\d{2})?)"
+    r"\s*(Z|[+-]\d{2}:?\d{2})?\s*$"
+)
 
 
 @dataclass
@@ -172,14 +188,43 @@ def sanitizar_html(valor: Any, correcoes: Counter | None = None) -> str | None:
     return str(soup).strip()
 
 
-def normalizar_atividade(bruta: dict, anos: list[int], correcoes: Counter) -> dict | None:
+def separar_faixa(valor: Any) -> tuple[str, str | None]:
+    """'AAAA-MM-DDTHH:MM-HH:MM[-03:00]' → ('AAAA-MM-DDTHH:MM[-03:00]', 'AAAA-MM-DDTHH:MM[-03:00]').
+    Outros valores voltam inalterados, com fim None."""
+    if not isinstance(valor, str):
+        return valor, None
+    m = _FAIXA_RE.match(valor)
+    if not m:
+        return valor, None
+    dia, h1, h2, tz = m.groups()
+    # "09:00:00-03:00" é ISO normal (o "-03:00" é o offset), não uma faixa.
+    # Sem offset no fim, só é faixa se o início não tiver segundos e o fim vier depois do início.
+    if not tz and h2.count(":") < 2:  # fim com segundos nunca é offset
+        if h1.count(":") == 2 or tuple(map(int, h2.split(":")[:2])) <= tuple(map(int, h1.split(":")[:2])):
+            return valor, None
+    tz = tz or ""
+    return f"{dia}T{h1}{tz}", f"{dia}T{h2}{tz}"
+
+
+def normalizar_atividade(bruta: dict, anos: list[int], correcoes: Counter, versao: str = VERSAO_PADRAO) -> dict | None:
     nome = _texto_limpo(bruta.get("nome"))
     if not nome:
         correcoes["atividade_sem_nome_descartada"] += 1
         return None
+    if versao == "v2" and re.search(r"[–—]", nome):
+        nome = re.sub(r"\s*[–—]\s*", " - ", nome)
+        correcoes["travessao_no_nome_normalizado"] += 1
     lugar = _texto_limpo(bruta.get("lugar", bruta.get("lugarId")))
-    ini = normalizar_data(bruta.get("dataInicio"), anos, correcoes)
-    fim = normalizar_data(bruta.get("dataFim"), anos, correcoes)
+    ini_bruto, fim_bruto = bruta.get("dataInicio"), bruta.get("dataFim")
+    if versao == "v2":
+        ini_bruto, fim_da_faixa = separar_faixa(ini_bruto)
+        if fim_da_faixa:
+            correcoes["faixa_de_horario_separada"] += 1
+            if not fim_bruto:
+                fim_bruto = fim_da_faixa
+        fim_bruto, _ = separar_faixa(fim_bruto)
+    ini = normalizar_data(ini_bruto, anos, correcoes)
+    fim = normalizar_data(fim_bruto, anos, correcoes)
     if ini and fim and fim < ini:
         correcoes["fim_antes_do_inicio_anulado"] += 1
         fim = None
@@ -192,11 +237,15 @@ def normalizar_atividade(bruta: dict, anos: list[int], correcoes: Counter) -> di
 # 3. Pipeline e montagem final
 # --------------------------------------------------------------------------
 
-def pos_processar(bruto: str | dict | list, texto_entrada: str | None = None) -> Resultado:
+def pos_processar(bruto: str | dict | list, texto_entrada: str | None = None,
+                  versao: str = VERSAO_PADRAO) -> Resultado:
     """Aplica todas as etapas à resposta do modelo.
 
     `texto_entrada` é o texto bruto da programação; serve para corrigir o ano.
+    `versao` escolhe o conjunto de regras (ver o cabeçalho do módulo).
     """
+    if versao not in VERSOES:
+        raise ValueError(f"versão desconhecida: {versao}")
     acts, erro = parse_saida(bruto)
     if acts is None:
         return Resultado(json_valido=False, erro=erro)
@@ -204,7 +253,7 @@ def pos_processar(bruto: str | dict | list, texto_entrada: str | None = None) ->
     anos = anos_do_texto(texto_entrada)
     anterior, seguidas = None, 0
     for a in acts:
-        n = normalizar_atividade(a, anos, res.correcoes)
+        n = normalizar_atividade(a, anos, res.correcoes, versao)
         if n is None:
             continue
         chave = (n["nome"].lower(), n["lugar"], n["dataInicio"], n["dataFim"])

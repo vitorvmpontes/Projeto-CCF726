@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-17T17:27:21+00:00",
+  "gerado_em": "2026-11-19T18:56:02+00:00",
   "parametros": {
     "por_evento": 2,
     "val": 0.15,
@@ -14,56 +14,62 @@
   "eventos_gerados": 800,
   "eventos_aprovados": 799,
   "exemplos": {
-    "train": 1357,
+    "train": 1356,
     "val": 240,
-    "total": 1597
+    "total": 1596
   },
   "atividades": {
-    "train": 17532,
+    "train": 17489,
     "val": 2686
   },
   "rejeicoes": {
-    "muito_longo": 3
+    "muito_longo": 3,
+    "rotulo_muda_no_pos_processamento": 1
   },
   "layouts": {
-    "tabela": 413,
-    "cartaz": 402,
-    "colunas": 395,
-    "lista": 387
+    "lista": 442,
+    "colunas": 391,
+    "tabela": 383,
+    "cartaz": 380
   },
   "ruidos": {
-    "quebra": 804,
-    "secoes": 800,
-    "decorativo": 635,
-    "ocr": 409
+    "quebra": 816,
+    "secoes": 786,
+    "decorativo": 624,
+    "ocr": 401
   },
   "caixa_alta": {
-    "exemplos": 502,
-    "fracao": 0.314
+    "exemplos": 488,
+    "fracao": 0.306
   },
   "perfis": {
-    "completo": 623,
-    "enxuto": 464,
-    "sem_lugar": 310,
-    "sem_descricao": 200
+    "completo": 672,
+    "enxuto": 428,
+    "sem_lugar": 309,
+    "sem_descricao": 187
+  },
+  "extras": {
+    "local_cabecalho": 268,
+    "data_no_titulo": 195,
+    "aspas": 11
   },
   "modelos_professor": {
-    "gemini-3.8-flash": 997,
+    "gemini-3.8-flash": 996,
     "claude-opus-5-5 (Cowork)": 600
   },
   "estilos_evento": {
-    "detalhado": 997,
+    "detalhado": 996,
     "enxuto": 600
   },
   "campos_ausentes": {
-    "atividades_sem_lugar": 0.607,
-    "atividades_sem_descricao": 0.613,
+    "atividades_sem_lugar": 0.433,
+    "atividades_sem_descricao": 0.601,
     "atividades_sem_fim": 0.11,
-    "textos_sem_nenhum_lugar": 0.586,
-    "textos_sem_nenhuma_descricao": 0.57
+    "textos_sem_nenhum_lugar": 0.405,
+    "textos_sem_nenhuma_descricao": 0.547
   },
   "tipos_evento": {
-    "evento religioso/comunitário com celebrações e oficinas": 106,
+    "evento religioso/comunitário com celebrações e oficinas": 105,
     "evento de inovação no agronegócio": 98,
     "congresso jurídico com mesas-redondas": 95,
     "simpósio de pós-graduação": 94,
@@ -86,7 +92,7 @@
   },
   "casos": {
     "sem_local": 596,
-    "nomes_repetidos": 581,
+    "nomes_repetidos": 580,
     "sem_horario_fim": 558,
     "atividades_paralelas": 513,
     "intervalos": 506,
@@ -95,9 +101,9 @@
     "descricoes_ricas": 299
   },
   "tokens_estimados": {
-    "p50": 885,
-    "p95": 4135,
-    "max": 6999
+    "p50": 939,
+    "p95": 4221,
+    "max": 6942
   },
   "qualidade_rotulos": {
     "juiz": "claude-opus-5-5 (Cowork)",
